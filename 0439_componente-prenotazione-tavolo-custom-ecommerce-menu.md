@@ -1,0 +1,18 @@
+# COMPONENTE PRENOTAZIONE TAVOLO CUSTOM -- ECOMMERCE MENU
+
+
+
+Il Componente **"Prenotazione Tavolo Custom "**, **disponibile solo ed
+esclusivamente per siti collegati al gestionale Menu** può essere
+utilizzato, ovviamente, soltanto all'interno della pagina
+"**Prenotazione**"
+
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_prenotazione_custom_res.bmp](./assets/media/image337.png){width="2.1166666666666667in"
+height="2.5395833333333333in"}
+
+dove consente di inserire **un modulo per la Prenotazione tavoli**
+attraverso cui l'utente dovrà necessariamente passare per poter
+confermare la propria prenotazione web, selezionando, per questo, la
+data della sua prenotazione, l'orario, il numero di coperti ed
+eventualmente la sala ed il tavolo desiderati.
+

@@ -1,0 +1,41 @@
+# GESTIONE LISTA DI VENDITA
+
+
+
+Una volta realizzata l'integrazione tra Passweb ed eBay (sezioni
+*"Chiavi di configurazione"* e *"Gestione Account"*), indicati i
+marketplace su cui poter mettere in vendita i propri articoli (sezione
+*"Marketplace"*) e definito l'insieme di regole che dovranno essere
+utilizzate nella vendita di questi stessi articoli (sezione *"Gestione
+Inserzioni"*), l'ultimo passo da fare sarà proprio quello di esportare
+gli articoli desiderati all'interno di eBay mettendoli quindi
+effettivamente in vendita all'interno di questa piattaforma.
+
+**Una lista di vendita infatti altro non è se non un insieme di
+articoli, soggetti ad uno stesso insieme di regole (e quindi ad una
+stessa inserzione) che potranno essere esportati e messi in vendita
+all'interno di uno dei marketplace eBay.**
+
+Quest'ultimo passo potrà essere fatto grazie alla sezione **"Gestione
+Liste di Vendita"** accessibile dalla voce di menu ***"Catalogo --
+eBay"***
+
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_gestione_liste_vendita_ebay.bmp](./assets/media/image114.png){width="5.707638888888889in"
+height="3.4805555555555556in"}
+
+e suddivisa in due ulteriori sottosezioni attivabili mediante i relativi
+pulsanti presenti nella parte alta della pagina:
+
+- **Liste di Vendita** (
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_liste_vendita.bmp](./assets/media/image115.png){width="0.5652777777777778in"
+  height="0.18194444444444444in"} ): consente di definire nuove liste di
+  vendita e di gestire quelle già codificate
+
+- **Regole di Vendita** (
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_regole_vendita.bmp](./assets/media/image116.png){width="0.6298611111111111in"
+  height="0.18194444444444444in"} ): consente di creare delle regole
+  mediante le quali poter fare in modo che aggiungendo nuovi articoli ad
+  una determinata categoria merceologica, questi stessi articoli vengano
+  automaticamente inseriti anche nella Lista di Vendita collegata alla
+  regola in esame.
+

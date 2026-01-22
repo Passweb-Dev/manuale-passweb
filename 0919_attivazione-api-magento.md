@@ -1,0 +1,85 @@
+# ATTIVAZIONE API MAGENTO
+
+
+
+Come evidenziato nei precedenti capitoli di questo manuale a livello di
+dati articolo lo scambio di informazioni tra Passweb e Magento può
+avvenire via API oppure mediante la creazione e lo scambio di appositi
+file CSV. A livello di importazione ordini invece l'integrazione Passweb
+-- Magento può avvenire unicamente via API.
+
+In ogni caso, indipendentemente dalla particolare metodologia di
+pubblicazione articoli adottata e/o dal fatto di voler gestire o meno
+anche l'importazione ordini, occorre considerare sempre che Passweb
+necessita comunque di connettersi via API alla relativa installazione
+Magento quanto meno per poter leggere informazioni fondamentali per una
+corretta configurazione dell'Account e per poter poi creare e gestire
+correttamente le varie Inserzioni
+
+**In conseguenza di ciò diventa dunque obbligatorio e di fondamentale
+importanza attivare e configurare correttamente le API Magento**.
+
+Nel seguito di questo capitolo vedremo dunque la procedura da seguire
+per poter attivare correttamente queste API e come poter prelevare tutte
+le informazioni necessarie per poter configurare l'integrazione tra le
+due piattaforme.
+
+- La prima cosa da fare sarà quella di accedere alla propria
+  installazione Magento con le credenziali di amministratore e portarsi
+  poi all'interno della sezione "**System -- Extension -- Integration**"
+
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\magento_1.bmp](./assets/media/image722.png){width="5.941666666666666in"
+height="3.285416666666667in"}
+
+- Una volta effettuato l'accesso a questa sezione cliccare sul pulsante
+  "**Add New Integration**" presente nella parte alta della pagina
+
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\magento_2.bmp](./assets/media/image723.png){width="5.941666666666666in"
+height="3.285416666666667in"}
+
+- Assegnare un nome all'integrazione che si sta configurando in maniera
+  tale da poterla poi distinguere da eventuali altre integrazioni
+  presenti sulla propria installazione Magento (campo "**Name**"
+  all'interno della sezione "**Integration Info**")
+
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\magento_3.bmp](./assets/media/image724.png){width="5.941666666666666in"
+height="3.285416666666667in"}
+
+- Portarsi poi all'interno della sezione "**API**" e impostare il
+  parametro "**Resource Access**" sul valore "**All**"
+
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\magento_4.bmp](./assets/media/image725.png){width="5.941666666666666in"
+height="3.285416666666667in"}
+
+> Cliccare quindi sul pulsante "**Save**" presente nella parte alta
+> della pagina in maniera tale da poter salvare le impostazione appena
+> settate
+
+- Arrivati a questo punto sarà ora necessario attivare l'integrazione
+  appena impostata in maniera tale da poter poi prelevare il token di
+  configurazione da impostare in Passweb.
+
+> All'interno della sezione "**Integrations**" individuare quindi
+> l'integrazione appena creata, cliccare sul pulsante "**Activate**"
+
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\magento_5.bmp](./assets/media/image726.png){width="5.941666666666666in"
+height="3.285416666666667in"}
+
+> e successivamente nella schermata di riepilogo delle API che verranno
+> effettivamente attivate cliccare sul pulsante "**Allow**"
+
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\magento_6.bmp](./assets/media/image727.png){width="5.941666666666666in"
+height="3.285416666666667in"}
+
+- Una volta attivate le API verranno visualizzate tutte le chiavi
+  necessarie per sfruttare questo tipo di integrazione tra cui anche l'
+  **Access Token** necessario per attivare l'integrazione con Passweb
+
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\magento_7.bmp](./assets/media/image728.png){width="5.941666666666666in"
+height="3.285416666666667in"}
+
+> **ATTENZIONE!** le informazioni presenti all'interno della maschera
+> sopra evidenziata saranno accessibili, una volta terminata
+> l'attivazione, in un qualsiasi momento andando in modifica dell'
+> integrazione in esame
+

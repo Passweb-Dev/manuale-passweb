@@ -1,0 +1,58 @@
+# TESTI DEI COMPONENTI
+
+
+
+All'interno di questa sezione è possibile modificare e personalizzare i
+testi legati ai vari Componenti utilizzabili all'interno del sito.
+
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\testi_messaggi_sito1.bmp](./assets/media/image455.png){width="5.779166666666667in"
+height="3.5256944444444445in"}
+
+Il campo di ricerca attivabile cliccando sulla lente di ingrandimento,
+presente in testata di ogni singola colonna, consente di filtrare i dati
+in griglia sulla base dei valori presenti all'interno della colonna
+stessa.
+
+Una volta impostato un filtro di ricerca, per poterlo poi eliminare sarà
+sufficiente cliccare sull'icona raffigurante una piccola lente di
+ingrandimento con un -- all'interno (
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina_filtro.bmp](./assets/media/image375.png){width="7.777777777777778e-2in"
+height="9.722222222222222e-2in"} ) che comparirà in testata alla colonna
+in corrispondenza della quale è stato impostato il filtro stesso.
+
+Per personalizzare i testi e/o le etichette di uno specifico componente,
+è sufficiente, anche in questo caso, selezionarlo tra quelli presenti in
+elenco e cliccare poi sul pulsante "**Modifica Testi"** presente nella
+barra degli strumenti. In questo modo verrà aperta una maschera
+contenente tutti i testi e le etichette che potranno essere
+personalizzati per il componente in esame, in tutte le lingue gestite
+all'interno del sito.
+
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\testi_messaggi_sito4.bmp](./assets/media/image456.png){width="5.779166666666667in"
+height="3.5256944444444445in"}
+
+Dipendentemente dallo specifico componente selezionato, alcuni dei testi
+personalizzabili potrebbero utilizzare apposite stringhe racchiuse tra
+due caratteri \$.
+
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\testi_messaggi_sito5.bmp](./assets/media/image457.png){width="5.759722222222222in"
+height="3.5131944444444443in"}
+
+**Tali stringhe sono segnaposto che verranno poi sostituiti
+dinamicamente da Passweb in fase di creazione della specifica pagina in
+cui verrà inserito il componente in esame.**
+
+**ATTENZIONE! nel momento in cui un segnaposto dovesse essere inserito
+manualmente in un formato non corretto non verrà poi sostituito con il
+relativo valore ma, al contrario, verrà visualizzato esattamente come
+indicato all'interno del relativo testo**
+
+In questo senso il pulsante **"Aggiungi segnaposto",** presente
+immediatamente al di sotto di quei testi che utilizzano questo tipo di
+elementi, consente di selezionare, da un apposito menu a tendina, lo
+specifico segnaposto da utilizzare per il testo che si desidera
+personalizzare.
+
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\testi_messaggi_sito6.bmp](./assets/media/image458.png){width="5.759722222222222in"
+height="3.5131944444444443in"}
+

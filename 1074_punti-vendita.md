@@ -1,0 +1,312 @@
+# PUNTI VENDITA
+
+
+
+La sezione **" Punti Vendita",** accessibile dalla voce di menu
+principale "Ordini", consente di impostare e configurare i diversi punti
+vendita gestiti all'interno del sito e che potranno poi essere
+utilizzati, ad esempio, per realizzare delle spedizioni di tipo "Ritiro
+in Sede".
+
+All'interno di questa pagina verrà quindi visualizzata la maschera
+**"Lista dei Punti Vendita"**
+
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_punti_vendita.bmp](./assets/media/image354.png){width="5.610416666666667in"
+height="3.3569444444444443in"}
+
+in cui sono elencati tutti i Punti Vendita attualmente attivabili ed
+utilizzabili all'interno del sito.
+
+La creazione di un nuovo Punto Vendita varia in relazione alla tipologia
+di sito considerata.
+
+**[ECOMMERCE MEXAL]{.underline}**
+
+**Per i siti Ecommerce collegati a Mexal ogni Punto Vendita corrisponde
+ad un ben preciso indirizzo di spedizione codificato sul gestionale
+all'interno della relativa tabella "Anagrafica indirizzi di spedizione",
+in maniera tale da non risultare associato ad uno specifico cliente
+(campo "Cliente/Forn = Tutti").**
+
+In queste condizioni dunque per poter utilizzare un nuovo Punto Vendita
+è necessario:
+
+1.  Codificare lato Mexal un apposito indirizzo di spedizione facendo
+    attenzione a non associare questo stesso indirizzo ad uno specifico
+    cliente.
+
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\indirizzo_punto_vendita.bmp](./assets/media/image355.png){width="4.441666666666666in"
+height="2.714583333333333in"}
+
+**NOTA BENE**: indirizzi di spedizione associati a specifici clienti non
+verranno considerati tra gli indirizzi dei punti vendita.
+
+2.  Effettuare una sincronizzazione Sito -- Gestionale in maniera tale
+    da poter visualizzare il nuovo Punto Vendita tra quelli presenti
+    nella lista sopra evidenziata
+
+3.  Configurare e abilitare il nuovo Punto Vendita, inserendo, in
+    particolare, **quelle che sono le sue esatte coordinate
+    geografiche**
+
+> **ATTENZIONE!** Per poter abilitare un nuovo Punto Vendita è
+> necessario impostare le esatte coordinate geografiche (latitudine e
+> longitudine) in corrispondenza delle quali dovrà essere posizionato,
+> sulla mappa, il marker del punto vendita
+
+4.  Associare il nuovo Punto Vendita ad un determinato metodo di
+    trasporto, operazione quest'ultima effettuabile direttamente in fase
+    di configurazione dello specifico metodo di trasporto.
+
+**[ECOMMERCE HO.RE.CA.]{.underline}**
+
+**Nel caso di siti Ecommerce collegati ad uno dei gestionali Ho.Re.Ca.
+ogni Punto Vendita dovrà essere codificato e gestito interamente
+all'interno del Wizard di Passweb.**
+
+In queste condizioni dunque per poter utilizzare un nuovo Punto Vendita
+è necessario:
+
+1.  Accedere alla maschera "**Lista dei Punti Vendita**" precedentemente
+    evidenziata
+
+2.  Cliccare sul pulsante **Aggiungi Punto Vendita**
+    (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_punto_vendita.bmp](./assets/media/image356.png){width="0.9673611111111111in"
+    height="0.1951388888888889in"} ) presente nella barra degli
+    strumenti e impostare i parametri di configurazione necessari per
+    poter salvare il nuovo Punto Vendita.
+
+3.  Associare il nuovo Punto Vendita ad un determinato metodo di
+    trasporto, operazione quest'ultima effettuabile direttamente in fase
+    di configurazione dello specifico metodo di trasporto.
+
+Considerando quanto appena detto i campi presenti all'interno della
+maschera "Configurazione del Punto Vendita" potranno essere o meno campi
+a sola lettura, dipendentemente dalla tipologia di sito considerato.
+
+**ATTENZIONE!** Per i siti **Ecommerce collegati a Mexal** i campi
+**Ragione Sociale, Nazione, Provincia, Località, CAP, Indirizzo, Codice
+nell'anagrafica Indirizzi di Spedizione, Telefono, Fax, Email** presenti
+nel dettaglio di un Punto Vendita, visualizzano i valori per essi
+impostati all'interno dell'Anagrafica indirizzi di spedizione di Mexal e
+come tali non sono modificabili dal Wizard di Passweb.
+
+Per poter apportare delle modifiche a questi campi è quindi necessario
+agire direttamente all'interno del gestionale.
+
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_configurazione_punto_vendita.bmp](./assets/media/image357.png){width="5.610416666666667in"
+height="3.545138888888889in"}
+
+In ogni caso sia che si operi dal gestionale sia che si operi dal Wizard
+di Passweb, in fase di configurazione di un punto vendita sarà
+necessario impostare un valore per i seguenti parametri:
+
+- **Abilitato:** consente di Abilitare/Disabilitare il punto vendita in
+  esame
+
+- **Ragione Sociale:** consente di indicare il nome del Punto Vendita
+  presso cui l'utente dovrà poi recarsi a ritirare la merce
+
+- **Nazione, Provincia, Località, CAP, Indirizzo:** consentono di
+  indicare tutti gli estremi dell'indirizzo del punto vendita presso cui
+  l'utente dovrà poi recarsi per ritirare la merce
+
+- **Coordinate Google Map (obbligatorio):** consente di impostare le
+  esatte coordinate geografiche (latitudine e longitudine) in
+  corrispondenza delle quali dovrà essere posizionato, sulla mappa, il
+  marker del punto vendita.
+
+> L'utilizzo di tali coordinate è obbligatorio (anche nel caso di siti
+> Ecommerce collegati a Mexal) in quanto le sole informazioni relative a
+> Nazione, Provincia, Località, Indirizzo e CAP potrebbero rallentare
+> notevolmente il caricamento della mappa laddove, ovviamente, si sia
+> deciso di visualizzare i punti vendita all'interno di un'apposita
+> Google Map (per maggiori informazioni in merito si veda anche la
+> sezione *"Ordini -- Configurazione Metodi di Trasporto -- Trasporti di
+> tipo Passweb"* di questo manuale)
+>
+> Per poter individuare le esatte coordinate geografiche da inserire
+> all'interno di questo campo è sufficiente:
+
+- inserire l'indirizzo del punto vendita in esame direttamente
+  all'interno di Google Maps (https://www.google.it/maps)
+
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gmap_pv_1.bmp](./assets/media/image358.png){width="5.304861111111111in"
+height="3.234027777777778in"}
+
+- cliccare con il tasto destro del mouse sul marker posizionato da
+  google all'interno della mappa e selezionare l'opzione "**Che cosa c'è
+  qui?**"
+
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gmap_pv_2.bmp](./assets/media/image359.png){width="5.304861111111111in"
+height="3.234027777777778in"}
+
+- le coordinate in esame potranno quindi essere prelevate direttamente
+  dal piccolo fumetto visualizzato ora nella parte bassa della google
+  map
+
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gmap_pv_3.bmp](./assets/media/image360.png){width="5.304861111111111in"
+height="3.234027777777778in"}
+
+- **Telefono:** consente di indicare il telefono del punto vendita che
+  si sta codificando
+
+- **Fax:** consente di indicare il numero di fax del punto vendita che
+  si sta codificando
+
+- **Magazzino:** consente di associare al punto vendita che si sta
+  codificando uno specifico magazzino.
+
+> **ATTENZIONE!** L'associazione di un magazzino al punto vendita verrà
+> considerata anche in fase di checkout (ma non in carrello)
+>
+> Nel momento in cui dovessero infatti essere verificate le seguenti
+> condizioni:
+
+- Il magazzino associato al punto vendita è anche uno di quelli indicati
+  per il calcolo della disponibilità articolo (sezione 'Disponibilità'
+  della maschera "Configurazione Catalogo")
+
+- Parametro "Gestione Acquisto" (sezione "Disponibilità" della pagina
+  "Configurazione Catalogo" del Wizard) impostato su "Acquista solo se
+  disponibile"
+
+> quando poi sul front end del sito l'utente andrà a selezionare la
+> modalità di spedizione di tipo "Ritiro in negozio", indicando come
+> punto di ritiro il punto vendita con il magazzino associato, verrà
+> effettuato, su questo stesso magazzino per gli articoli in ordine, un
+> controllo della disponibilità.
+>
+> Se il controllo dovesse dare esito positivo, il punto vendita verrà
+> correttamente selezionato e si potrà procedere alla conferma
+> dell'ordine.
+>
+> Nel caso in cui invece il controllo dovesse dare esito negativo verrà
+> visualizzato un apposito messaggio indicante le mancate disponibilità
+> e il punto vendita non potrà essere selezionato (il testo del
+> messaggio può essere modificato alla sezione "Testi/Messaggi del Sito"
+> agendo sul componente "Aggiunta al Carrello" e modificando il testo
+> "Massima disponibilità negozio")
+>
+> **In queste condizioni, inoltre, in fase di memorizzazione del
+> documento sul gestionale verrà utilizzato, come Magazzino dell'ordine,
+> non quello definito in "Configurazione Ordini" ma bensì quello
+> associato in maniera specifica al Punto Vendita selezionato**
+
+- **Email:** consente di indicare l'indirizzo mail del punto vendita che
+  si sta codificando
+
+- **Valorizza Indirizzo del Negozio nel Piede del Documento del
+  Gestionale:** se impostato a **SI** nel momento in cui effettuando un
+  ordine sul sito il cliente dovesse scegliere come metodo di spedizione
+  il "Ritiro in Negozio" nel piede del relativo documento gestionale
+  verrà inserito, come indirizzo di spedizione, l'indirizzo del negozio
+  selezionato dal cliente in fase di acquisto.
+
+> Nel momento in cui il parametro in esame dovesse invece essere
+> impostato sul valore **NO** nel piede del relativo documento
+> gestionale non verrà inserito nessun indirizzo.
+
+- **Descrizione**: consente di impostare un testo con eventuali immagini
+  da utilizzare come descrizione del punto vendita, descrizione questa
+  che potrà poi essere visualizzata all'interno del fumetto che si
+  aprirà cliccando sul marker che individua la posizione del punto
+  vendita all'interno della mappa
+
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gmap_pv_4.bmp](./assets/media/image361.png){width="4.934722222222222in"
+height="3.50625in"}
+
+**NOTA BENE**: per attivare la visualizzazione della mappa di Google
+all'interno del Componente Checkout Ordine è necessario spuntare il
+check sul parametro "Visualizza Google Map dei Punti Vendita".
+
+- **Pagina Negozio per sito:** consente di impostare, selezionandola del
+  relativo albero, la pagina di dettaglio del punto vendita, pagina
+  questa cui sarà ricondotto l'utente, nel momento in cui dovesse
+  cliccare sul corrispondente link presente, all' interno del componente
+  "Store Locator", in corrispondenza del punto vendita in esame.
+
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\store_locator_marker_categorie_7.bmp](./assets/media/image362.png){width="5.461111111111111in"
+height="3.558333333333333in"}
+
+> Per maggiori informazioni relativamente alla gestione del componente
+> "Store Locator" si veda il relativo capitolo di questo manuale
+> ("*Varianti Sito Responsive -- Lista Componenti Comuni -- Componente
+> Store Locator*")
+
+**ATTENZIONE! Indipendentemente dalla tipologia di sito considerata una
+volta configurato e salvato correttamente un Punto Vendita, per poterlo
+poi utilizzare all'interno del sito sarà necessario, ovviamente,
+associarlo ad un metodo di trasporto** appositamente configurato per
+creare una spedizione a carico del cliente che ha acquistato la merce
+con ritiro della stessa presso uno dei punti vendita abilitati.
+
+Nel momento in cui il cliente dovesse selezionare proprio questo tipo di
+spedizione avrà poi la possibilità di scegliere, tra tutti i punti
+vendita ad esso associati, quello in cui desidera ritirare la merce,
+informazione questa che verrà ovviamente inserita anche nel piede del
+corrispondente documento gestionale.
+
+Per maggiori informazioni relativamente alla configurazione dei metodi
+di trasporto si veda anche la sezione "*Ordini -- Configurazione Metodi
+di trasporto* " di questo manuale.
+
+Gli ulteriori pulsanti presenti nella barra degli strumenti consentono
+rispettivamente di:
+
+- **Coordinate Punti Vendita**
+  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_converti_coordinate.bmp](./assets/media/image363.png){width="0.8444444444444444in"
+  height="0.175in"} ) -- visualizzato indipendentemente dal fatto di
+  aver selezionato o meno uno specifico punto vendita tra quelli
+  presenti in elenco.
+
+> Consente di effettuare la conversione automatica degli indirizzi
+> associati a tutti i Punti Vendita gestiti, in coordinate geografiche
+> (latitudine e longitudine) operazione questa di fondamentale
+> importanza per diverse ragioni, come ad esempio nel momento in cui si
+> dovesse decidere di associare determinati punti vendita ai metodi di
+> spedizione merce (per maggiori informazioni in merito, si veda anche
+> quanto indicato nel precedente capitolo di questo manuale)
+>
+> **ATTENZIONE!** La conversione di indirizzi in coordinate geografiche
+> avviene effettuando apposite chiamate alle API di Google Map. Tale
+> servizio richiede quindi la corretta impostazione della chiave
+> "**Google Maps API**" all'interno della relativa sezione alla pagina
+> "Sito -- Preferenze" del Wizard
+
+- **Abilita Punto Vendita**
+  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_abilita_punto_vendita.bmp](./assets/media/image364.png){width="0.8048611111111111in"
+  height="0.1625in"} ): consente di abilitare il punto vendita in esame
+  rendendolo quindi visibile e selezionabile in fase di configurazione
+  dei vari metodi di trasporto.
+
+> **ATTENZIONE!** Prima di poter abilitare un Punto Vendita è necessario
+> averlo configurato correttamente valorizzando tutti i suoi campi
+> obbligatori
+
+- **Disabilita Punto Vendita**
+  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_disabilita_punto_vendita.bmp](./assets/media/image365.png){width="0.8833333333333333in"
+  height="0.175in"} ): consente di disabilitare il punto vendita in
+  esame eliminandolo, contestualmente, anche da eventuali metodi di
+  trasporto cui era stato precedentemente associato
+
+- **Modifica Punto Vendita**
+  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_punto_vendita.bmp](./assets/media/image366.png){width="0.7986111111111112in"
+  height="0.15555555555555556in"} ): consente di accedere alla maschera
+  di configurazione del punto vendita attualmente selezionato.
+
+- **Esporta**
+  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_esporta.bmp](./assets/media/image367.png){width="0.2986111111111111in"
+  height="0.1625in"} ) / **Importa**
+  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_importa.bmp](./assets/media/image368.png){width="0.31805555555555554in"
+  height="0.15555555555555556in"} ): consente di Esportare / Importare
+  in maniera massiva mediante un apposito file .csv i dati dei punti
+  vendita attualmente presenti in elenco.
+
+> **ATTENZIONE!** l'import mediante file csv consente di modificare in
+> maniera massiva i dati dei punti vendita attualmente presenti in
+> elenco ma non consente di creare nuovi punti vendita
+>
+> Per maggiori informazioni relativamente a questo tipo di operazioni si
+> veda anche quanto indicato nel successivo capitolo di questo manuale
+

@@ -1,0 +1,220 @@
+# ECOMMERCE HO.RE.CA.
+
+
+
+A differenza di quanto avviene per siti Ecommerce collegati a Mexal, nel
+caso di siti collegati a gestionali Ho.Re.Ca. **l\'inserimento, la
+variazione, la cancellazione e, in generale, la gestione delle categorie
+abbinati e dei relativi abbinamenti** è demandata interamente al Wizard
+di Passweb.
+
+In queste condizioni dunque la sezione **"Abbinati",** accessibile
+all'interno del Wizard dalla voce di menu ***"Catalogo -- Gestione
+Articoli"**,* consentirà non solo di visualizzare le diverse categorie
+di abbinati e i relativi abbinamenti, ma di poterli completamente
+gestire aggiungendo nuove categorie, eliminando, laddove possibile,
+categorie già presenti in elenco e definendo i singoli abbinamento tra i
+vari articoli.
+
+All'interno di questa pagina verrà quindi visualizzata la maschera
+**"Gestione Articoli Abbinati"**, suddivisa in due distinte sezioni:
+
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_gestione_abbinati.bmp](./assets/media/image458.png){width="5.792361111111111in"
+height="3.5131944444444443in"}
+
+**Nella parte sinistra della maschera** sono elencate tutte le Categorie
+di Abbinati attualmente codificate.
+
+I pulsanti presenti nella contestuale barra degli strumenti consentono
+rispettivamente di:
+
+- **Modifica** (
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica.bmp](./assets/media/image43.png){width="0.4027777777777778in"
+  height="0.18819444444444444in"} ): consente di modificare la
+  descrizione della Categoria Abbinati attualmente selezionata in
+  elenco. Cliccando su questo pulsante verrà infatti visualizzata la
+  maschera "**Modifica Categoria**"
+
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_gestione_abbinati_3.bmp](./assets/media/image459.png){width="5.792361111111111in"
+height="3.5131944444444443in"}
+
+> all'interno della quale poter personalizzare, in ciascuna delle lingue
+> gestite all'interno del sito, l'etichetta utilizzata per identificare,
+> all'interno del componente "Abbinati", la categoria in esame.
+>
+> **ATTENZIONE!** Non è possibile modificare il codice di una Categoria
+> Abbinati già realizzata.
+
+- **Elimina** (
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina.bmp](./assets/media/image114.png){width="0.3506944444444444in"
+  height="0.18819444444444444in"} ): consente di eliminare la Categoria
+  Abbinati attualmente selezionata in elenco.
+
+- **Aggiungi** (
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi.bmp](./assets/media/image237.png){width="0.44166666666666665in"
+  height="0.21458333333333332in"} ): consente di codificare una nuova
+  Categoria Abbinati.
+
+Cliccando su quest'ultimo pulsante verrà infatti visualizzata la
+maschera "**Nuova Categoria**"
+
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_gestione_abbinati_4.bmp](./assets/media/image238.png){width="5.792361111111111in"
+height="3.5131944444444443in"}
+
+all'interno della quale poter indicare, nei relativi campi, il
+**Codice** e la **Descrizione** (nelle diverse lingue di gestione del
+sito) della Categoria Abbinati che si intende realizzare.
+
+Il pulsante **Salva** presente nella parte bassa della maschera consenti
+di salvare la nuova categoria inserendola tra quelle presenti in elenco.
+
+**Nella parte destra della maschera** vengono invece visualizzati tutti
+gli articoli associati alla Categoria Abbinati attualmente selezionata
+(nella parte sinistra della maschera)
+
+Nello specifico, in corrispondenza della colonna "**Articolo**" viene
+indicato il codice dell'articolo associato alla Categoria Abbinati
+attualmente selezionata in elenco, mentre in corrispondenza della
+colonna "**Codice**" viene indicato il codice dell'articolo ad esso
+abbinato.
+
+Il pannello di ricerca presente nella parte alta di questa sezione
+consente di ricercare un particolare articolo e/o abbinato indicandone
+nei rispettivi campi codice e/o descrizione.
+
+I pulsanti presenti nella contestuale barra degli strumenti consentono
+rispettivamente di:
+
+- **Aggiungi** (
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi.bmp](./assets/media/image237.png){width="0.44166666666666665in"
+  height="0.21458333333333332in"} ): consente di creare un nuovo
+  abbinamento.
+
+> Cliccando su questo pulsante verrà infatti visualizzata la maschera
+> "**Nuovo Abbinato**"
+
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_nuovo_abbinato.bmp](./assets/media/image240.png){width="5.792361111111111in"
+height="3.5131944444444443in"}
+
+> all'interno della quale poter definire il nuovo abbinamento. Nello
+> specifico il campo:
+
+- **Articolo:** consente di indicare il codice dell'articolo per il
+  quale si desidera creare il nuovo abbinamento.
+
+> Una volta inseriti almeno tre caratteri all'interno di questo campo,
+> verranno visualizzati, in un apposito menu a tendina, tutti gli
+> articoli attualmente gestiti all'interno del sito il cui codice e/o la
+> cui descrizione inizia con la sequenza di caratteri digitata
+> (facilitando quindi l'individuazione l'inserimento del codice articolo
+> desiderato)
+
+- **Categoria:** consente di indicare, selezionandola tra quelle
+  presenti in elenco, la Categoria Abbinati cui associare l'abbinamento
+  che si sta realizzando
+
+- **Abbinato:** consente di indicare il codice dell'articolo che dovrà
+  essere abbinato a quello indicato nel precedente campo "Articolo".
+
+> Anche in questo caso una volta inseriti almeno tre caratteri, verranno
+> visualizzati, in un apposito menu a tendina, tutti gli articoli
+> attualmente gestiti all'interno del sito il cui codice e/o la cui
+> descrizione inizia con la sequenza di caratteri digitata (facilitando
+> quindi l'individuazione l'inserimento del codice articolo desiderato)
+>
+> **ATTENZIONE!** Non è possibile abbinare un articolo a se stesso ne
+> tanto meno creare un abbinamento già presente in elenco
+>
+> Una volta inseriti i valori richiesti, il pulsante **Salva**
+> consentirà di salvare il nuovo abbinamento che verrà ora visualizzato
+> nella parte destra della maschera "Gestione Articoli Abbinati"
+
+- **Modifica** (
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica.bmp](./assets/media/image43.png){width="0.4027777777777778in"
+  height="0.18819444444444444in"} ): consente di modificare
+  l'abbinamento in esame.
+
+> Cliccando su questo pulsante verrà infatti visualizzata la maschera
+> "**Modifica Abbinato**"
+
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_gestione_abbinati_6.bmp](./assets/media/image460.png){width="5.792361111111111in"
+height="3.5131944444444443in"}
+
+> all'interno della quale poter variare, nei rispettivi campi,
+> l'articolo oggetto dell'abbinamento, la categoria di abbinamento e
+> l'articolo abbinato.
+
+- **Elimina** (
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina.bmp](./assets/media/image114.png){width="0.3506944444444444in"
+  height="0.18819444444444444in"} ): consente di eliminare l'abbinamento
+  attualmente selezionato in elenco.
+
+> **ATTENZIONE!** il pulsante "Elimina Abbinato" consente di eliminare
+> solo ed esclusivamente l'abbinamento in esame. Non verranno in alcun
+> modo eliminati ne l'articolo oggetto dell'abbinamento ne tanto meno
+> l'articolo abbinato
+
+- **Importa**(
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_importa.bmp](./assets/media/image134.png){width="0.35694444444444445in"
+  height="0.175in"} ): consente di creare nuovi abbinamenti in maniera
+  massiva utilizzando per questo un file .csv o .txt appositamente
+  realizzato.
+
+> Nel file dovranno essere indicati, **nel seguente ordine, e separati
+> da un apposito carattere di separazione** (es. ;) il codice
+> dell'articolo oggetto dell'abbinamento, il codice della categoria di
+> abbinamento e il codice dell'articolo abbinato.
+>
+> **[Esempio]{.underline}**
+>
+> **Codice_Articolo;Codice_Articolo_Abbinato;Codice_Categoria_Abbinamento**
+>
+> Cliccando su questo pulsante verrà visualizzata, all'interno della
+> maschera "Gestione Articoli Abbinati" un' ulteriore sezione "**File
+> Abbinati**"
+
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_gestione_abbinati_7.bmp](./assets/media/image242.png){width="5.792361111111111in"
+height="3.5131944444444443in"}
+
+> all'interno della quale poter indicare:
+
+- **File (csv-txt)**: consente di indicare il file txt o csv contenente
+  l'elenco dei vari abbinamenti
+
+- **Separatore:** consente di indicare, selezionandolo, dall'apposito
+  menu a tendina, il carattere che è stato utilizzato all'interno del
+  file di importazione come separatore per i vari campi
+
+> Il check "**Elimina abbinati non presenti nel file**" consente, se
+> flaggato, di eliminare tutti gli abbinamenti attualmente codificati ma
+> non indicate all'interno del file di importazione.
+>
+> Nel caso in cui invece il parametro in oggetto non venga selezionato,
+> a seguito dell'importazione del file gli abbinamenti già codificati e
+> non specificatamente indicati all'interno del file di importazione
+> verranno mantenuti inalterati.
+>
+> In ogni caso, abbinamenti già codificati e specificatamente inseriti
+> anche nel file di importazione, verranno sovrascritti con i dati
+> presenti all'interno del file stesso.
+>
+> **Esporta** (
+> ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_esporta_testo.bmp](./assets/media/image136.png){width="0.35694444444444445in"
+> height="0.18194444444444444in"} ): consente di esportare l'elenco di
+> tutti gli Abbinati attualmente gestiti all'interno del sito, in un
+> file csv in cui verranno inserite, rispettivamente, le seguenti
+> informazioni:
+>
+> **Codice_Articolo;Codice_Articolo_Abbinato;Codice_Categoria_Abbinamento**
+>
+> Cliccando su questo pulsante verrà visualizzata, all'interno della
+> maschera "Gestione Articoli Abbinati" un' ulteriore sezione
+> "**Esportazione Abbinati**"
+
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\esportazione_abbinati.bmp](./assets/media/image457.png){width="5.792361111111111in"
+height="3.5131944444444443in"}
+
+> all'interno della quale poter indicare, selezionandolo dall'apposito
+> menu a tendina, il carattere che dovrà essere utilizzato all'interno
+> del file di esportazione come separatore per i vari campi.
+
