@@ -22,7 +22,7 @@ schermata, valorizzare adeguatamente il relativo campo (per maggiori
 informazioni in merito si vedano anche i precedenti capitoli di questo
 manuale)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_taglie12.bmp](./assets/media/image287.png)
+![](./assets/media/image287.png)
 
 Nel caso in cui l'articolo fosse già presente sul Marketplace, oltre
 all'Identificativo Articolo, si potrebbe inserire anche il codice ASIN

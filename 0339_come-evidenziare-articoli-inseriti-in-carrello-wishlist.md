@@ -15,7 +15,7 @@ agendo sugli elementi
 
 **Catalogo -- Cella hover Articolo in Wishlist**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\cella_articoli_in_carrello_1_res.bmp](./assets/media/image15.png)
+![](./assets/media/image15.png)
 
 In questo modo sarà quindi possibile, ad esempio, utilizzare per le
 celle degli articoli già aggiunti in carrello / wishlist un'immagine di

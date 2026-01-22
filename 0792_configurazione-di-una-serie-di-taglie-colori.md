@@ -6,14 +6,14 @@ Per accedere ai parametri di configurazione di una delle Serie di Taglie
 / Colori gestite all'interno del proprio sito è sufficiente selezionarla
 tra quelle presenti all'interno della maschera **"Lista delle Serie"** e
 cliccare poi sul pulsante "**Modifica Serie**"
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_serie.bmp](./assets/media/image317.png) ) presente nella contestuale barra degli strumenti.
+(![](./assets/media/image317.png) ) presente nella contestuale barra degli strumenti.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_serie_generale.bmp](./assets/media/image333.png)
+![](./assets/media/image333.png)
 
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 "**Modifica Serie**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_serie.bmp](./assets/media/image334.png)
+![](./assets/media/image334.png)
 
 all'interno della quale poter impostare un valore per i seguenti campi:
 
@@ -38,7 +38,7 @@ considerata. E' possibile selezionare una delle seguenti opzioni:
 > elementi di una serie di taglie/colori si veda quanto indicato nel
 > precedente capitolo di questo manuale)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\taglie_grafica_minimale.bmp](./assets/media/image335.png)
+![](./assets/media/image335.png)
 
 > In questo caso quindi l'utente dovrebbe per prima cosa selezionare dal
 > menu a tendina la taglia/colore dell'articolo che desidera inserire in
@@ -57,7 +57,7 @@ considerata. E' possibile selezionare una delle seguenti opzioni:
   dall'etichetta ed eventualmente dal colore/immagine di background
   indicato in fase di configurazione della specifico elemento.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\taglie_grafica_estesa.bmp](./assets/media/image336.png)
+![](./assets/media/image336.png)
 
 > In questo caso quindi l'utente potrebbe inserire in carrello in un
 > colpo solo, relativamente allo stesso articolo, quantità diverse di
@@ -210,14 +210,14 @@ articolo (non verranno infatti visualizzati in corrispondenza del
 componente "Aggiungi al carrello" opzioni di selezione relative a taglie
 / colori a disponibilità minore o uguale a 0).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\taglie_disponibili_1.bmp](./assets/media/image337.png)
+![](./assets/media/image337.png)
 
 Se invece il parametro in esame non dovesse essere selezionato eventuali
 richieste di Disponibilità ritorneranno risultati anche per quelle
 taglie / colori non attualmente disponibili e, allo stesso modo, sarà
 sempre possibile acquistare anche questo tipo di elementi.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\taglie_disponibili_2.bmp](./assets/media/image338.png)
+![](./assets/media/image338.png)
 
 **ATTENZIONE!** In relazione alle richieste di disponibilità in tempo
 reale va sempre considerato anche il parametro "**Visualizza solo le
@@ -308,7 +308,7 @@ Cliccando su questo pulsante verrà infatti visualizzata la maschera
 "**Esportazione Serie**" all'interno della quale poter configurare
 l'esportazione dei dati.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\esportazione_serie.bmp](./assets/media/image340.png)
+![](./assets/media/image340.png)
 
 Nel caso di sito in multilingua è possibile selezionare, tra quelle
 attualmente gestite, la lingua in relazione alla quale dovranno essere
@@ -346,14 +346,14 @@ seguito indicati:
   parametro è stato impostato su "**Colore**"
 
 **Importa Serie** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_importa_serie.bmp](./assets/media/image319.png) ): consente di importare, ed eventualmente modificare,
+![](./assets/media/image319.png) ): consente di importare, ed eventualmente modificare,
 in maniera massiva, utilizzando un apposito file .csv o .txt i parametri
 di configurazione di una o più Serie tra quelle presenti in elenco.
 
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 "**Importazione Serie**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\importazione_serie.bmp](./assets/media/image341.png)
+![](./assets/media/image341.png)
 
 all'interno della quale poter configurare l'importazione dei dati in
 oggetto. In particolare il campo

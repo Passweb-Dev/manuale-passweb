@@ -16,7 +16,7 @@ small) quante delle 12 colonne, in cui risulta essere complessivamente
 suddivisa una Riga, dovranno essere occupate da quello specifico
 Contenitore
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sistema_griglie_colonne_passweb.bmp](./assets/media/image53.png)
+![](./assets/media/image53.png)
 
 Lavorando quindi sulle impostazioni di alcuni semplici parametri di
 configurazione, e senza dover scrivere alcuna media query, sarà

@@ -31,14 +31,14 @@ Abbinati ... sarà necessario:
   Spedizione**", presente nella maschera di configurazione del
   componente "Spedizione", il segnaposto "**Data**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\spedizione_segnaposto_data.bmp](./assets/media/image456.png)
+![](./assets/media/image456.png)
 
 Supponendo dunque di aver soddisfatto le due condizioni sopra indicate e
 di aver inserito il componente "Spedizione" all'interno, ad esempio,
 della scheda prodotto, potremo ottenere un risultato del tipo di quello
 evidenziato in figura.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\spedizione_segnaposto_data_2.bmp](./assets/media/image457.png)
+![](./assets/media/image457.png)
 
 La data di prevista consegna dipenderà poi, ovviamente, dalla zona di
 spedizione considerata (per la quale valgono esattamente le stesse
@@ -109,7 +109,7 @@ consegna dovremo:
 
 [CONSENGE IN EMILIA ROMAGNA]{.underline}
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tempi_di_consegna_1.bmp](./assets/media/image458.png)
+![](./assets/media/image458.png)
 
 - **Gestione Calendario**: No
 
@@ -140,7 +140,7 @@ consegna dovremo:
   - Una regola di tipo "Eccezione Giorno Settimanale" indicando come
     giorno la Domenica
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tempi_di_consegna_2.bmp](./assets/media/image459.png)
+![](./assets/media/image459.png)
 
 - **Regole di consegna**:
 
@@ -157,7 +157,7 @@ consegna dovremo:
   - Una regola di tipo "Eccezione Giorno Settimanale" indicando come
     giorno la Domenica
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tempi_di_consegna_2a.bmp](./assets/media/image460.png)
+![](./assets/media/image460.png)
 
 In queste condizioni:
 

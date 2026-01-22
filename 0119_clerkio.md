@@ -9,7 +9,7 @@ per analizzare dati di navigazione, acquisto e inventario, con
 l'obiettivo di offrire raccomandazioni intelligenti, ricerca avanzata,
 email marketing personalizzato e segmentazione dinamica dei clienti.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_0.bmp](./assets/media/image570.png)
+![](./assets/media/image570.png)
 
 **ATTENZIONE! Per usufruire dell'integrazione tra Passweb e Clerk.io è
 necessario attivare per prima cosa il relativo modulo su Passstore**

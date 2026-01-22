@@ -5,7 +5,7 @@
 Il componente "**Dettaglio News**" può essere utilizzato in una
 qualsiasi pagina del sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_dettaglio_news_res.bmp](./assets/media/image8.png)
+![](./assets/media/image8.png)
 
 e consente di visualizzare il dettaglio di ogni singola Notizia
 pubblicata all'interno del sito.

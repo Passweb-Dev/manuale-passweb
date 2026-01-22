@@ -8,7 +8,7 @@ comprensiva di immagini, testo e attributi articolo (siano essi
 attributi Mexal o attributi Passweb) per i vari articoli gestiti
 all'interno del sito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_scheda_prodotto_res.bmp](./assets/media/image58.png)
+![](./assets/media/image58.png)
 
 **Per sua stessa natura dunque, il Componente "Scheda Prodotto" potrà
 essere inserito:**
@@ -34,7 +34,7 @@ segnaposto identificativi dello specifico campo e conseguentemente della
 specifica informazione che si vorrà visualizzare in quella specifica
 posizione della scheda prodotto.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\scheda_prdotto_generica_res.bmp](./assets/media/image59.png)
+![](./assets/media/image59.png)
 
 La pagina "Prodotti" generica quindi, è una sorta di pagina template
 attraverso la quale poter definire la struttura della scheda prodotto
@@ -105,7 +105,7 @@ specifico articolo i vari campi inseriti all'interno del Componente non
 verranno più sostituiti da appositi segnaposto, verranno invece
 valorizzati con informazioni reali relative a quello specifico articolo.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\scheda_prdotto_specifica_res.bmp](./assets/media/image60.png)
+![](./assets/media/image60.png)
 
 In questo modo è quindi possibile avere una visione più chiara ed
 immediata di quelli che sono gli elementi inseriti all'interno del

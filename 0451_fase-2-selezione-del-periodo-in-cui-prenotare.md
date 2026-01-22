@@ -6,7 +6,7 @@ In questa fase l'utente dovrà definire la data di inizio e fine
 prenotazione indicando i giorni interessati all'interno di un apposito
 calendario.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\spiagge_configurazione_10.bmp](./assets/media/image380.png)
+![](./assets/media/image380.png)
 
 **ATTENZIONE!** i giorni effettivamente selezionabili sono solamente
 quelli che ricadono nell'intervallo di disponibilità definito,

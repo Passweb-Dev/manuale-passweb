@@ -23,7 +23,7 @@ collegare il sito web e portarsi poi nella maschera "**E-Commerce"** qui
 di seguito riportata accessibile dalla voce di menu ***"Anagrafica
 Azienda -- Dati Aziendali -- Configurazione Moduli -- Passweb"***
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\multi_sito_ec1.bmp](./assets/media/image15.png)
+![](./assets/media/image15.png)
 
 **ATTENZIONE! E' possibile collegare ad ogni singola azienda presente
 nella propria installazione Mexal fino ad un massimo di 9 siti
@@ -41,7 +41,7 @@ cliccare successivamente sul pulsante **OK** **(Invio)**.
 Verrà in questo modo visualizzata la maschera di attivazione del nuovo
 sito ecommerce
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\multi_sito_ec2.bmp](./assets/media/image16.png)
+![](./assets/media/image16.png)
 
 all'interno della quale il campo:
 
@@ -109,7 +109,7 @@ all'interno della quale il campo:
 > **i documenti di tipo OC** nati sul gestionale assumeranno
 > automaticamente la configurazione mostrata in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\aggiorna_oc_automaticamente.bmp](./assets/media/image17.png)
+![](./assets/media/image17.png)
 
 > rendendo quindi il relativo documento direttamente esportabile
 > all'interno del sito
@@ -141,9 +141,9 @@ A questo punto verranno quindi aperte in successione le due maschere
 **"Configurazione gestione dati web articolo"** e **"Configurazione
 gestione dati web cliente/fornitore"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\configurazione_dati_articolo_mexal.bmp](./assets/media/image18.png)
+![](./assets/media/image18.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\configurazione_dati_cliente_mexal.bmp](./assets/media/image19.png)
+![](./assets/media/image19.png)
 
 mediante cui poter decidere quale "Funzionalità Mexal" attivare
 rispettivamente per gli articoli e per i clienti gestiti all'interno del
@@ -154,7 +154,7 @@ sito.
 > Articolo"** **(F5)** e **"Dati cli/for"** **(F6)** attivi in Mexal in
 > corrispondenza della relativa "Anagrafica sito Web"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\pulsanti_dati_articolo_clienti_mexal.bmp](./assets/media/image20.png)
+![](./assets/media/image20.png)
 
 Per poter attivare una delle funzionalità indicate all'interno di queste
 maschere è sufficiente flaggare il campo corrispondente alla
@@ -187,7 +187,7 @@ attivare/disattivare.
 
 **DATI WEB ARTICOLO**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\configurazione_dati_articolo_mexal.bmp](./assets/media/image18.png)
+![](./assets/media/image18.png)
 
 **Articolo sul sito: selezionato a default e** **non modificabile**. Non
 rappresenta una vera e propria "Funzionalità Mexal" ma è comunque di
@@ -322,7 +322,7 @@ singola, a confezioni oppure a multipli
 
 **DATI WEB CLIENTE FORNITORE**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\configurazione_dati_cliente_mexal.bmp](./assets/media/image19.png)
+![](./assets/media/image19.png)
 
 **Cliente/fornitore sul sito:** Non rappresenta una vera e propria
 "Funzionalità Mexal" ma è comunque di fondamentale importanza in quanto

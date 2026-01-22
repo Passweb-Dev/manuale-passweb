@@ -31,7 +31,7 @@ eBay"*** verrà visualizzato l'elenco di tutti i paesi e dei relativi
 marketplace che sarà possibile attivare e su cui si potrà dunque
 decidere di mettere in vendita i propri articoli.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_lista_marketplace.bmp](./assets/media/image47.png)
+![](./assets/media/image47.png)
 
 **NOTA BENE:** l'elenco dei Marketplace verrà visualizzato solo dopo
 aver creato almeno un account eBay ed averlo utilizzato per configurare

@@ -6,7 +6,7 @@ Per attivare l'effetto Parallasse su di un Componente Contenitore è
 sufficiente selezionare il relativo parametro presente nella maschera di
 configurazione del Contenitore stesso
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\contenitore_parallasse_0.bmp](./assets/media/image92.png)
+![](./assets/media/image92.png)
 
 **Parallasse:** consente di abilitare, per il Componente Contenitore che
 si sta configurando, l'effetto di Parallasse, effetto questo che

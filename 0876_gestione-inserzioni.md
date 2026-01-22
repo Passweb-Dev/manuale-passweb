@@ -36,7 +36,7 @@ relativi campi.
 Nello specifico, agendo sui pulsanti presenti nella parte alta della
 pagina "**Lista delle Inserzioni**", è possibile creare template per:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_mkt_inserzioni_1.bmp](./assets/media/image357.png)
+![](./assets/media/image357.png)
 
 - Quantità, prezzo e formato degli articoli pubblicati sulla piattaforma
   terza

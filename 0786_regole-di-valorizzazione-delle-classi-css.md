@@ -9,7 +9,7 @@ regola in esame, una o più classi CSS andando a valorizzare, nello
 specifico, il campo "**Classi Regole**" presente nella loro Anagrafica
 Passweb
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\regola_classi_css_1.bmp](./assets/media/image305.png)
+![](./assets/media/image305.png)
 
 Per maggiori informazioni relativamente ai campi "Classi Regole" e
 "Classi Custom" si veda anche quanto indicato all'interno del
@@ -19,13 +19,13 @@ Classi CSS*"
 
 Per creare una nuova Regola di questo tipo sarà necessario per prima
 cosa cliccare sul pulsante **Nuova Regola Classi** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuova_regola_classi.bmp](./assets/media/image299.png) ) presente nella barra degli strumenti della maschera
+![](./assets/media/image299.png) ) presente nella barra degli strumenti della maschera
 "**Regole di valorizzazione**"
 
 In questo modo verrà infatti visualizzata la maschera di creazione della
 nuova regola
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\regola_classi_css_2.bmp](./assets/media/image306.png)
+![](./assets/media/image306.png)
 
 mediante la quale poter definire il filtro di selezione articoli e le
 classi CSS che dovranno poi essere assegnate a questi stessi prodotti.

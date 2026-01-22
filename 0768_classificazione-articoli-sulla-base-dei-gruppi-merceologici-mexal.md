@@ -31,13 +31,13 @@ Merceologiche sarà necessario accedere, per prima cosa, alla sezione
 **\"Anagrafica Gruppo Merceologico\"** agendo sul corrispondente menù
 *\"Magazzino -- Tabelle aziendali --Gruppi merceologici articoli\"*:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mexal_anagrafica_gruppi_merceologici.bmp](./assets/media/image71.png)
+![](./assets/media/image71.png)
 
 Per creare un nuovo Gruppo Merceologico sarà necessario cliccare sul
 pulsante "**Nuovo**". In questo modo verrà infatti aperta la maschera di
 creazione di una nuova anagrafica
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mexal_anagrafica_gruppo_merceologico.bmp](./assets/media/image72.png)
+![](./assets/media/image72.png)
 
 all'interno della quale poter impostare tutte le informazioni e i
 parametri di configurazione della categoria merceologica che si intende
@@ -105,7 +105,7 @@ rappresentazione della struttura ad albero di quello specifico gruppo
 merceologico, ovvero il codice merceologico padre con i relativi figli
 (codici preceduti dal carattere \"+\"):
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\albero_gruppi_mexal.bmp](./assets/media/image73.png)
+![](./assets/media/image73.png)
 
 > **NOTA BENE:** per maggiori informazioni relativamente alla codifica e
 > alla gestione dei gruppi merceologici all'interno del gestionale si
@@ -128,7 +128,7 @@ anche all'interno del gestionale) sarà necessario:
 - Cliccare sul pulsante **"Altri dati anagrafici" (F5)** in modo tale da
   aprire la maschera qui di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\anagrafica_ar_opzioni.bmp](./assets/media/image74.png)
+![](./assets/media/image74.png)
 
 - Indicare all'interno del campo **"Gruppo merceologico"** il codice del
   gruppo cui associare l'articolo in esame (è attivo anche il tasto
@@ -140,7 +140,7 @@ anche all'interno del gestionale) sarà necessario:
   verificare di aver impostato il parametro "**Categorizzazione**" sul
   valore "**Primaria**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mexal_categoria_articolo_primaria.bmp](./assets/media/image75.png)
+![](./assets/media/image75.png)
 
 **ATTENZIONE!** in queste condizioni verranno esportate sul sito **tutte
 le categorie merceologiche definite all'interno del gestionale** e
@@ -156,7 +156,7 @@ all'interno del sito una categorizzazione ad hoc sarà necessario:
   volta mediante il parametro **"Categoria WEB"** presente all'interno
   della maschera **"Altri dati anagrafici"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\anagrafica_ar_opzioni2.bmp](./assets/media/image76.png)
+![](./assets/media/image76.png)
 
 > **ATTEZIONE!** all'interno del campo "Categoria WEB" sopra evidenziato
 > potranno essere selezionate ed inserite solo ed esclusivamente le
@@ -174,7 +174,7 @@ all'interno del sito una categorizzazione ad hoc sarà necessario:
   verificare di aver impostato il parametro "**Categorizzazione**" sul
   valore "**Secondaria**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mexal_categoria_articolo_secondaria.bmp](./assets/media/image77.png)
+![](./assets/media/image77.png)
 
 **ATTENZIONE!** in queste condizioni verranno esportate sul sito **solo
 ed esclusivamente le categorie merceologiche marcate come "categorie

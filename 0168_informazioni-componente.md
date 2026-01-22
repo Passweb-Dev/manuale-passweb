@@ -3,12 +3,12 @@
 
 
 L'icona "**Informazioni Componente**" (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\icona_i.bmp](./assets/media/image209.png) ) presente nel R.O.C. del componente e/o
+![](./assets/media/image209.png) ) presente nel R.O.C. del componente e/o
 nella barra degli strumenti dell' Albero dei Componenti consente di
 visualizzare alcune informazioni utili relativamente al componente in
 esame
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\informazioni.bmp](./assets/media/image210.png)
+![](./assets/media/image210.png)
 
 Cliccando su questo pulsante verrà infatti visualizzato un piccolo box
 in cui saranno indicate:

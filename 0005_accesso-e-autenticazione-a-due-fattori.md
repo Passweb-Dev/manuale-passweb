@@ -21,7 +21,7 @@ Authenticator**" la generazione dei codici necessari per effettuare
 l'accesso al pannello di amministrazione oltre, ovviamente, al campo di
 input in cui poter inserire questi stessi codici.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amministrazione_2fa_1.bmp](./assets/media/image3.png)
+![](./assets/media/image3.png)
 
 In sostanza dunque per poter superare l'autenticazione a due fattori
 sarà necessario:
@@ -32,11 +32,11 @@ sarà necessario:
 
 - Cliccare sul pulsante di aggiunta di un nuovo account
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amministrazione_2fa_2.bmp](./assets/media/image4.png)
+![](./assets/media/image4.png)
 
 - Selezionare l'opzione "**Scansiona un codice QR**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amministrazione_2fa_3.bmp](./assets/media/image5.png)
+![](./assets/media/image5.png)
 
 > e utilizzare quindi il proprio smartphone per scansionare il QR code
 > visualizzato nella maschera di accesso al proprio pannello di
@@ -46,7 +46,7 @@ sarà necessario:
   Authenticator** all'interno dell'apposito campo presente, anch'esso,
   nella maschera di accesso al pannello di amministrazione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amministrazione_2fa_4.bmp](./assets/media/image6.png)
+![](./assets/media/image6.png)
 
 > e cliccare quindi sul pulsante di Login
 >
@@ -63,7 +63,7 @@ quindi, durante i successivi accessi al pannello di amministrazione
 verrà visualizzato solamente il campo di input in cui inserire il codice
 a 6 cifre prelevato dall' App
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amministrazione_2fa_5.bmp](./assets/media/image7.jpeg)
+![](./assets/media/image7.jpeg)
 
 Il check "**Non chiedermelo per X giorni su questo browser**" consente
 invece di decidere per quanti giorni potrà essere possibile effettuare
@@ -94,16 +94,16 @@ Il funzionamento di questo plugin è del tutto analogo a quello dell'App
 Google Authenticator appena descritta. Una volta installato sarà quindi
 necessario cliccare sul pulsante di scansione del QR Code
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amministrazione_2fa_8.bmp](./assets/media/image8.png)
+![](./assets/media/image8.png)
 
 e selezionare poi, trascinando il cursore del mouse, il QR Code mostrato
 a video.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amministrazione_2fa_9.bmp](./assets/media/image9.png)
+![](./assets/media/image9.png)
 
 Attivato l'account sarà poi sufficiente richiamare nuovamente il plugin
 per visualizzare il codice a 6 cifre richiesto dall'autenticazione a due
 fattori
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amministrazione_2fa_10.bmp](./assets/media/image10.png)
+![](./assets/media/image10.png)
 

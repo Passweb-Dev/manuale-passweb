@@ -12,7 +12,7 @@ In queste condizioni infatti al posto del pulsante per l'aggiunta
 dell'articolo in carrello, verrà visualizzato un apposito messaggio
 "**Articolo Esaurito**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\articolo_esaurito.bmp](./assets/media/image104.png)
+![](./assets/media/image104.png)
 
 Entrando però nella pagina prodotto, dipendentemente dal fatto di essere
 o meno già autenticato e da come sono stati impostati i vari parametri
@@ -24,14 +24,14 @@ Per far questo sarà sufficiente inserire l'indirizzo mail cui dovrà
 essere inviata la notifica all'interno dell'apposito campo e/o cliccare
 sul relativo pulsante di iscrizione al sistema di notifiche
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\notifica_disponibilita_tutti.bmp](./assets/media/image105.png)
+![](./assets/media/image105.png)
 
 L'utente iscritto al sistema di notifiche verrà così memorizzato nel
 database del sito e si suoi dati potranno essere visualizzati
 all'interno della sezione *"Catalogo -- Gestione Articoli -- Avvisi
 Disponibilità"* del Wizard
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\avvisi_disponibilita.bmp](./assets/media/image106.png)
+![](./assets/media/image106.png)
 
 All'interno di questa sezione, l'amministratore del sito, avrà quindi la
 possibilità di visualizzare un elenco di tutti i prodotti per cui sono
@@ -50,7 +50,7 @@ di filtrare gli articoli in elenco per codice e/o descrizione.
 
 Selezionando infine uno degli articoli presenti in elenco, e cliccando
 sul pulsante "**Visualizza Notifiche Disponibilità**" (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_visualizza_notifiche_disponibilita.bmp](./assets/media/image107.png) ) sarà possibile visualizzare un elenco
+![](./assets/media/image107.png) ) sarà possibile visualizzare un elenco
 dettagliato di tutti gli utenti che hanno richiesto di essere avvisati
 in merito alla disponibilità di quello specifico articolo.
 
@@ -60,7 +60,7 @@ effettuata la richiesta di notifica (campo **Data Iscrizione**) e la
 data in cui tale notifica è stata effettivamente inviata (campo **Data
 Notifica**)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\avvisi_disponibilita_iscritti.bmp](./assets/media/image108.png)
+![](./assets/media/image108.png)
 
 A questo punto, posto di aver eseguito correttamente tutte le operazioni
 indicate nel precedente capitolo di questo manuale, l'invio delle

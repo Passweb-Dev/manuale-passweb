@@ -11,7 +11,7 @@ Account Google Merchant Next seguendo la procedura di seguito indicata:
   <https://www.google.com/retail/solutions/merchant-center/> e cliccare
   sul pulsante "**Sign In**" presente in testata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_1.bmp](./assets/media/image417.png)
+![](./assets/media/image417.png)
 
 > Selezionare quindi, dal relativo menu a tendina, l'opzione "**Sign in
 > to Merchant Center**"
@@ -19,15 +19,15 @@ Account Google Merchant Next seguendo la procedura di seguito indicata:
 - Per poter attivare l'Account di Merchant Center verranno richieste
   alcune informazioni relative alle propria azienda
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_2.bmp](./assets/media/image418.png)
+![](./assets/media/image418.png)
 
 - Completata la creazione dell'Account verremo automaticamente
   autenticati e ricondotti alla pagina "**Panoramica**" del nostro
   Merchant Center
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_3.bmp](./assets/media/image419.png)
+![](./assets/media/image419.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_4.bmp](./assets/media/image420.png)
+![](./assets/media/image420.png)
 
 > dove sarà necessario completare ulteriori passaggi (aggiunta
 > informazioni sull'azienda, verifica del numero di telefono, conferma

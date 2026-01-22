@@ -3,7 +3,7 @@
 
 
 Il pulsante **Liste di Vendita** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_liste_vendita.bmp](./assets/media/image115.png) ) presente nella parte alta della
+![](./assets/media/image115.png) ) presente nella parte alta della
 maschera "**Gestione Liste di Vendita"** consente di visualizzare e
 gestire tutte le Liste di Vendita attualmente codificate, oltre che
 ovviamente di crearne di nuove.
@@ -11,7 +11,7 @@ ovviamente di crearne di nuove.
 All'interno della tabella "**Elenco delle Liste di Vendita**" verranno
 quindi visualizzate tutte le liste attualmente configurate.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_mkt_liste_vendita.bmp](./assets/media/image391.png)
+![](./assets/media/image391.png)
 
 Il campo di ricerca attivabile cliccando sulla lente di ingrandimento,
 presente in testata alle varie colonne, consente di filtrare i dati in
@@ -20,7 +20,7 @@ griglia sulla base dei valori presenti all'interno della colonna stessa.
 Una volta impostato un filtro di ricerca, per poterlo poi eliminare sarà
 sufficiente cliccare sull'icona raffigurante una piccola lente di
 ingrandimento con un -- all'interno (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina_filtro.bmp](./assets/media/image69.png) ) che comparirà in testata alla colonna
+![](./assets/media/image69.png) ) che comparirà in testata alla colonna
 in corrispondenza della quale è stato impostato il filtro stesso.
 
 L' icona raffigurante due piccole frecce posta in testata ad ogni
@@ -36,7 +36,7 @@ quali informazioni dovranno essere visualizzate direttamente in tabella.
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 "**Colonne**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_vendita_marketplace_colonne.bmp](./assets/media/image392.png)
+![](./assets/media/image392.png)
 
 mediante la quale poter decidere quale campo attivare / disattivare e
 conseguentemente quale informazione mostrare / nascondere.
@@ -47,7 +47,7 @@ disponibili cliccando sul pulsante raffigurante una piccola i (
 ![Videate\\icona_proprieta.bmp](./assets/media/image120.png) ) posto in corrispondenza di ogni
 singola riga
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dettaglio_info_liste_vendita_marketplace.bmp](./assets/media/image393.png)
+![](./assets/media/image393.png)
 
 In definitiva dunque, all'interno di questa maschera sarà possibile
 visualizzare / nascondere per ogni singola lista le seguenti
@@ -101,7 +101,7 @@ quali poter effettuare diverse azioni.
 Nello specifico il pulsante:
 
 **Elimina Lista di Vendita** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_lista.bmp](./assets/media/image122.png) ): consente di eliminare la lista di
+![](./assets/media/image122.png) ): consente di eliminare la lista di
 vendita attualmente selezionata in elenco
 
 **ATTENZIONE:** eliminando una lista di vendita gli articoli già
@@ -109,25 +109,25 @@ pubblicati sulla piattaforma terza continueranno comunque a vivere come
 entità a se stanti all'interno della piattaforma stessa.
 
 **Modifica Lista di Vendita** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_lista.bmp](./assets/media/image123.png) ): consente di modificare le caratteristiche della
+![](./assets/media/image123.png) ): consente di modificare le caratteristiche della
 lista di vendita attualmente selezionata in elenco.
 
 **ATTENZIONE!** E' possibile modificare il nome della lista di vendita
 ma non l'inserzione cui la lista stessa è stata collegata
 
 **Aggiungi Lista di Vendita** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_lista_vendita.bmp](./assets/media/image124.png) ): consente di creare una nuova lista di vendita.
+![](./assets/media/image124.png) ): consente di creare una nuova lista di vendita.
 
 Per maggiori informazioni a come poter creare una nuova lista di vendita
 si veda il successivo capitolo di questo manuale
 
 **Elenco Lista Articoli** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elenco_lista_articoli.bmp](./assets/media/image125.png) ): consente di gestire l'elenco degli articoli da
+![](./assets/media/image125.png) ): consente di gestire l'elenco degli articoli da
 associare alla lista e che potranno quindi essere pubblicati sulla
 piattaforma terza
 
 **Elenco Tutti Articoli** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elenco_tutti_articoli.bmp](./assets/media/image126.png) ): consente di visualizzare un elenco di
+![](./assets/media/image126.png) ): consente di visualizzare un elenco di
 tutti gli articoli presenti all'interno di tutte le liste di vendita
 attualmente codificate
 
@@ -141,14 +141,14 @@ Per maggior informazioni in merito si vedano dunque i successivi
 capitoli di questo manuale
 
 **Lista Pubblicazioni** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_lista_pubblicazioni.bmp](./assets/media/image127.png) ): consente di visualizzare un elenco
+![](./assets/media/image127.png) ): consente di visualizzare un elenco
 delle ultime operazioni di pubblicazione articoli relative alla Lista di
 Vendita attualmente selezionata in elenco.
 
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 "**Pubblicazioni Lista di Vendita -- Nome Lista**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pubblicazioni_liste_vendita.bmp](./assets/media/image128.png)
+![](./assets/media/image128.png)
 
 contenete l'elenco delle ultime pubblicazioni effettuate. Per ogni
 pubblicazione presente in elenco sono indicati.
@@ -177,11 +177,11 @@ limitati al periodo temporale definito in corrispondenza del parametro
 "**Sistema**")
 
 Il pulsante "**Visualizza Dettaglio**" (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_visualizza_dettaglio.bmp](./assets/media/image129.png) ), presente solo dopo aver selezionato
+![](./assets/media/image129.png) ), presente solo dopo aver selezionato
 una delle pubblicazioni in elenco consente di accedere invece alla
 maschera "**Dettaglio Pubblicazione Lista di Vendita -- Nome Lista**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dettaglio_pubblicazioni_lista_vendita.bmp](./assets/media/image394.png)
+![](./assets/media/image394.png)
 
 all'interno della quale sarà possibile visualizzare tutti gli articoli
 presenti, al momento della pubblicazione, in quella specifica lista di
@@ -189,19 +189,19 @@ vendita e, per ciascuno di essi, cliccando sull'icona raffigurante una
 piccola i sarà anche possibile visualizzare il dettaglio del relativo
 log
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dettaglio_log_pubblicazione.bmp](./assets/media/image395.png)
+![](./assets/media/image395.png)
 
 ##### NUOVA LISTA DI VENDITA
 
 Per creare una nuova Lista di Vendita è necessario cliccare sul pulsante
 **Aggiungi Lista di Vendita** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_lista_vendita.bmp](./assets/media/image124.png) ) presente all'interno della maschera "**Elenco delle
+![](./assets/media/image124.png) ) presente all'interno della maschera "**Elenco delle
 Liste di Vendita**" esaminata nel precedente capitolo di questo manuale.
 
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 **"Dati Lista di Vendita"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_mkt_liste_vendita2.bmp](./assets/media/image396.png)
+![](./assets/media/image396.png)
 
 attraverso cui poter indicare un valore per i seguenti parametri:
 
@@ -250,7 +250,7 @@ rispetto a quelli aggiunti in maniera manuale, dal bordo grigio della
 relativa riga (gli articoli aggiunti manualmente avranno invece un bordo
 azzurro) oltre che dal valore presente nella corrispondente colonna
 della tabella (quella identificata dall'icona
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\colonna_aggiunta_automatica.bmp](./assets/media/image152.png) )
+![](./assets/media/image152.png) )
 
 ![Videate\\liste_vendita_aggiunta_automatica_articoli.bmp](./assets/media/image250.png)
 
@@ -475,13 +475,13 @@ elenco e cliccare poi sul pulsante "**Elenco Lista Articoli**",
 accedendo così alla maschera "**Elenco Articoli della Lista di Vendita
 -- Nome Lista**" evidenziata in figura.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_mkt_liste_vendita3.bmp](./assets/media/image397.png)
+![](./assets/media/image397.png)
 
 I pulsanti presenti nella barra degli strumenti consentono
 rispettivamente di:
 
 - **Elimina Articolo** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_articolo.bmp](./assets/media/image136.png) ): consente di eliminare gli articoli
+  ![](./assets/media/image136.png) ): consente di eliminare gli articoli
   attualmente selezionati dalla relativa lista di vendita. Tale pulsante
   sarà quindi visibile solo ed esclusivamente nel momento in cui gli
   articoli attualmente selezionati siano tutti a gestione manuale.
@@ -497,7 +497,7 @@ rispettivamente di:
 > fisicamente dal relativo marketplace**
 
 - **Modifica Articolo** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_articolo_ebay.bmp](./assets/media/image137.png) ): visualizzato unicamente nel caso in cui sia
+  ![](./assets/media/image137.png) ): visualizzato unicamente nel caso in cui sia
   selezionato un solo articolo tra quelli presenti in elenco.
 
 > Permette di variare alcune impostazioni di pubblicazione dell'articolo
@@ -506,17 +506,17 @@ rispettivamente di:
 > Cliccando su questo pulsante verrà infatti visualizzata la maschera
 > "**Dati Articolo nella Lista di Vendita**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_mkt_dati_articolo.bmp](./assets/media/image398.png)
+![](./assets/media/image398.png)
 
 > **ATTENZIONE!** I dati presenti all'interno della maschera "Dati
 > Articolo nella Lista di Vendita" possono variare in relazione alla
 > specifica piattaforma integrata
 
 - **Aggiungi Articoli** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_articoli.bmp](./assets/media/image145.png) ): consente di accedere all'elenco degli articoli
+  ![](./assets/media/image145.png) ): consente di accedere all'elenco degli articoli
   attualmente gestiti all'interno del proprio sito Passweb
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_mkt_liste_vendita4.bmp](./assets/media/image399.png)
+![](./assets/media/image399.png)
 
 > e di poter quindi selezionare tra di essi quelli da inserire
 > all'interno della lista in oggetto.
@@ -548,11 +548,11 @@ rispettivamente di:
 > operando**
 
 - **Filtri Avanzati** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_filtri_avanzati.bmp](./assets/media/image142.png) ): consente di aprire una sezione di ricerca
+  ![](./assets/media/image142.png) ): consente di aprire una sezione di ricerca
   contenete un query builder utilizzabile per creare e customizzare
   filtri di ricerca per gli articoli presenti in lista.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_mkt_liste_vendita_filtri_avanzati.bmp](./assets/media/image400.png)
+![](./assets/media/image400.png)
 
 > Per maggiori informazioni in merito a come poter costruire il proprio
 > filtro di ricerca si rimanda a quanto indicato all'interno del
@@ -560,14 +560,14 @@ rispettivamente di:
 > Articolo / Servizio*" di questo manuale
 
 - **Log Articolo** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_log_articolo.bmp](./assets/media/image141.png) ): visualizzato unicamente nel caso in cui sia
+  ![](./assets/media/image141.png) ): visualizzato unicamente nel caso in cui sia
   selezionato un solo articolo tra quelli presenti in elenco.
 
 > Permette di accedere ai dettagli relativi alle operazioni di
 > pubblicazione/arresto/modifica effettuate sul prodotto in esame.
 
 - **Marketplace** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_marketplace.bmp](./assets/media/image401.png) ): consente di accedere alla sezione di
+  ![](./assets/media/image401.png) ): consente di accedere alla sezione di
   pubblicazione degli articoli sul relativo marketplace
 
 Per maggiori informazioni relativamente alle azioni collegate a questi
@@ -581,7 +581,7 @@ Lista di Vendita -- Nome Lista**" consente di visualizzare l'elenco
 completo degli articoli attualmente presenti all'interno di quella
 specifica lista di vendita.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_mkt_liste_vendita3.bmp](./assets/media/image397.png)
+![](./assets/media/image397.png)
 
 Il campo di ricerca attivabile cliccando sulla lente di ingrandimento,
 presente in testata alle varie colonne, consente di filtrare i dati in
@@ -633,7 +633,7 @@ quali informazioni dovranno essere visualizzate direttamente in tabella.
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 "**Colonne**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_articoli_marketplace_colonne.bmp](./assets/media/image402.png)
+![](./assets/media/image402.png)
 
 mediante la quale poter decidere quale campo attivare / disattivare e
 conseguentemente quale informazione mostrare / nascondere.
@@ -644,7 +644,7 @@ disponibili cliccando sul pulsante raffigurante una piccola i (
 ![Videate\\icona_proprieta.bmp](./assets/media/image120.png) ) posto in corrispondenza di ogni
 singola riga
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dettaglio_info_lista_articoli_marketplace.bmp](./assets/media/image403.png)
+![](./assets/media/image403.png)
 
 In definitiva dunque, all'interno di questa maschera sarà possibile
 visualizzare / nascondere per ogni singolo articolo presente in lista:
@@ -753,23 +753,23 @@ all'interno del marketplace.
 
 In questo senso sarà necessario, per prima cosa, cliccare sul pulsante
 **"Marketplace"** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_marketplace.bmp](./assets/media/image401.png) ) presente nella barra degli strumenti della maschera
+![](./assets/media/image401.png) ) presente nella barra degli strumenti della maschera
 "**Elenco Articoli della Lista di Vendita-- Nome Lista**".
 
 In questo modo nella stessa barra degli strumenti compariranno ora dei
 nuovi pulsanti
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_mkt_liste_vendita7.bmp](./assets/media/image404.png)
+![](./assets/media/image404.png)
 
 mediante i quali poter rispettivamente:
 
 - **Gestione Lista** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_gestione_lista.bmp](./assets/media/image154.png) ): consente di tornare alla precedente
+  ![](./assets/media/image154.png) ): consente di tornare alla precedente
   maschera di gestione degli articoli associati alla lista, potendo
   quindi decidere di rimuoverne alcuni e/o di aggiungerne altri.
 
 - **Log Articolo** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_log_articolo.bmp](./assets/media/image141.png) ): visualizzato unicamente nel caso in cui sia
+  ![](./assets/media/image141.png) ): visualizzato unicamente nel caso in cui sia
   selezionato un solo articolo tra quelli presenti in elenco.
 
 > Permette di accedere ai dettagli relativi alle operazioni di
@@ -777,7 +777,7 @@ mediante i quali poter rispettivamente:
 > Cliccando su questo pulsante verrà quindi visualizzata la maschera
 > "**Lista Log Articolo: \<nome prodotto\>**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_log_articolo.bmp](./assets/media/image405.png)
+![](./assets/media/image405.png)
 
 > contenente il dettaglio dei log di ogni operazione di
 > pubblicazione/arresto/modifica cui è stato sottoposto il prodotto in
@@ -790,7 +790,7 @@ mediante i quali poter rispettivamente:
 > -- sezione "**Sistema**")
 
 - **Filtri Avanzati** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_filtri_avanzati.bmp](./assets/media/image142.png) ): consente di aprire una sezione di ricerca
+  ![](./assets/media/image142.png) ): consente di aprire una sezione di ricerca
   contenete un query builder utilizzabile per creare e customizzare
   filtri di ricerca per gli articoli presenti in lista.
 
@@ -800,11 +800,11 @@ mediante i quali poter rispettivamente:
 > Articolo / Servizio*" di questo manuale
 
 - **Pubblica sul Marketplace** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_pubblica_su_marketplace.bmp](./assets/media/image406.png) ): consente eseguire la pubblicazione
+  ![](./assets/media/image406.png) ): consente eseguire la pubblicazione
   degli articoli attualmente selezionati in elenco.
 
 - **Arresta sul Marketplace** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_arresta_marketplace.bmp](./assets/media/image407.png) ): consente di arrestare la
+  ![](./assets/media/image407.png) ): consente di arrestare la
   pubblicazione all'interno della piattaforma in esame degli articoli
   attualmente selezionati in elenco.
 
@@ -839,7 +839,7 @@ mediante i quali poter rispettivamente:
 > Business Manager ma verranno spostati all'interno del tab
 > "**Disattivati**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\business_manager_27.bmp](./assets/media/image408.png)
+![](./assets/media/image408.png)
 
 - **Il Merchant Center di Google:** l'operazione di "Arresta sul
   Marketplace" si comporterà in maniera diversa a seconda di come è
@@ -858,7 +858,7 @@ mediante i quali poter rispettivamente:
 > il campo "**disponibilità**" impostato sul valore "**Non
 > Disponibile**" (Out of Stock)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\google_merchant_29.bmp](./assets/media/image409.png)
+![](./assets/media/image409.png)
 
 > Nel caso in cui invece il parametro in esame dovesse essere
 > selezionato, l'operazione di "Arresta sul marketplace" **andrà ad
@@ -874,7 +874,7 @@ mediante i quali poter rispettivamente:
   No, disabilitandone di fatto la visualizzazione sul front end del sito
   (ma lasciandoli comunque disponibili e gestibili sul back end)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\magento_arresta_articolo.bmp](./assets/media/image410.png)
+![](./assets/media/image410.png)
 
 - **Prestashop**: l'operazione di "Arresta sul Marketplace" imposterà
   per gli articoli una quantità pari a 0 (lasciandoli comunque

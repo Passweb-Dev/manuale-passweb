@@ -5,7 +5,7 @@
 Impostando il parametro Flush sul valore "**Temporizzato**" comparirà,
 all'interno della maschera un nuovo campo "**Durata in Minuti**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_cache_2.bmp](./assets/media/image270.png)
+![](./assets/media/image270.png)
 
 All'interno di questo campo sarà quindi possibile indicare ogni quanti
 minuti dovrà essere effettuato, in automatico dal programma, un reset

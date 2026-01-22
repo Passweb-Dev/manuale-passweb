@@ -10,7 +10,7 @@ clienti all'interno dell'apposita sezione del sito web.
 All'interno di questa pagina verrà quindi visualizzata la maschera
 **"Lista Prenotazioni"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_prenotazioni1.bmp](./assets/media/image781.png)
+![](./assets/media/image781.png)
 
 contenente l'elenco di tutte le prenotazioni effettuate o esportate sul
 sito.
@@ -28,7 +28,7 @@ selezionare tra quelli presenti in elenco lo stato o gli stati per cui
 si desidera effettuare la ricerca, e cliccare infine sull'icona indicata
 in figura per avviare la ricerca.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_prenotazioni_ricerca.bmp](./assets/media/image782.png)
+![](./assets/media/image782.png)
 
 In generale è quindi possibile filtrare i documenti in griglia per:
 
@@ -60,14 +60,14 @@ specifica prenotazione.
 Nello specifico il pulsante:
 
 - **Elimina Prenotazione** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_prenotazione.bmp](./assets/media/image783.png) ): consente di eliminare la
+  ![](./assets/media/image783.png) ): consente di eliminare la
   prenotazione attualmente selezionata in elenco
 
 - **Visualizza Prenotazione** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_visualizza_prenotazione.bmp](./assets/media/image784.png) ): consente di visualizzare il
+  ![](./assets/media/image784.png) ): consente di visualizzare il
   dettaglio della prenotazione attualmente selezionata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_prenotazioni_dettaglio.bmp](./assets/media/image785.png)
+![](./assets/media/image785.png)
 
 > Il pulsante "**Stampa**" nel dettaglio della prenotazione, consente
 > invece di stampare la prenotazione stessa utilizzando il Template di
@@ -78,7 +78,7 @@ Nello specifico il pulsante:
 > veda anche il successivo capitolo di questo manuale.
 
 **Esporta Prenotazioni** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_esporta_prenotazioni.bmp](./assets/media/image786.png) ): consente di esportare i dati relativi
+![](./assets/media/image786.png) ): consente di esportare i dati relativi
 alle prenotazioni presenti in griglia all'interno di due distinti file:
 
 - **Testata.csv --** file contenente i dati di testa dei documenti
@@ -95,7 +95,7 @@ righe relative ad uno specifico documento.
 Cliccando su questo pulsante verrà visualizzata la maschera
 "**Esportazione Prenotazioni**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\esportazione_prenotazioni.bmp](./assets/media/image787.png)
+![](./assets/media/image787.png)
 
 all'interno della quale poter definire il carattere separatore che dovrà
 essere utilizzato nella creazione dei vari file csv (campo

@@ -8,7 +8,7 @@ parte dell'utente sul sito, di due date consecutive.
 Al rilascio del Componente si aprirà **la sua maschera di gestione e
 configurazione**:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\Form_modifica_campo_date_multiple_res.bmp](./assets/media/image135.png)
+![](./assets/media/image135.png)
 
 suddivisa in varie sezioni.
 

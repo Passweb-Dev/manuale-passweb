@@ -6,7 +6,7 @@ La sezione "**Configurazione User Agent**" consente di attivare
 eventuali regole di blocco sulla base dello user agent delle richieste
 in arrivo al sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ddos_7.bmp](./assets/media/image281.png)
+![](./assets/media/image281.png)
 
 **ATTENZIONE!** Lo User Agent è un campo del protocollo HTTP tramite il
 quale possono essere date delle informazioni più o meno approfondite

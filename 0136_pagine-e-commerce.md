@@ -4,7 +4,7 @@
 
 Le Pagine E-Commerce, rappresentate all'interno dell'albero da icone con
 sfondo verde
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_pagina_ecommerce_res.bmp](./assets/media/image102.png) ), sono pagine fortemente tipizzate e
+(![](./assets/media/image102.png) ), sono pagine fortemente tipizzate e
 presenti unicamente nel caso in cui il sito sia collegato a Mexal oppure
 ad uno dei gestionali Ho.Re.Ca.
 
@@ -270,7 +270,7 @@ invece di:
 > assegnato, allo stesso parametro, nella sezione "**SiteMap Pagine**"
 > del menu "**Sito -- Preferenze - SEO**" del Wizard
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sitemap_pagine_res.bmp](./assets/media/image112.png)
+![](./assets/media/image112.png)
 
 > **Nel caso in cui i parametri in esame non siano stati opportunamente
 > valorizzati neppure all'interno del menu "Sito -- Preferenze - SEO"

@@ -17,7 +17,7 @@ post.
 All'interno della sezione "Tags" verrà quindi visualizzata la maschera
 "**Gestione CMS -- Tags**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_tags.bmp](./assets/media/image558.png)
+![](./assets/media/image558.png)
 
 contenente l'elenco di tutti i tag attualmente codificati all'interno
 del sito.
@@ -34,7 +34,7 @@ rispettivamente di:
 Cliccando su quest'ultimo pulsante verrà quindi visualizzata nella parte
 bassa della maschera la sezione "**Nuovo Tag**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuovo_tag.bmp](./assets/media/image559.png)
+![](./assets/media/image559.png)
 
 all'interno della quale poter specificare il nuovo Tag da aggiungere in
 libreria.

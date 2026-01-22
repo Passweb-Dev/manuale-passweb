@@ -6,10 +6,10 @@ All'interno della sotto sezione "**Messaggi Eliminati**" è possibile
 visualizzare l'elenco di tutti i messaggi eliminati mediante le apposite
 funzioni presenti nella altre aree della sezione Messaggi
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_messaggi_eliminati.bmp](./assets/media/image67.png)
+![](./assets/media/image67.png)
 
 Il pulsante "**Ripristina Messaggio**" (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_ripristina_messaggio.bmp](./assets/media/image68.png) ), visualizzato solo dopo aver selezionato uno dei
+![](./assets/media/image68.png) ), visualizzato solo dopo aver selezionato uno dei
 messaggi presenti in elenco, consente di riportarlo nella sezione da cui
 era stato precedentemente eliminato.
 
@@ -21,7 +21,7 @@ pulsante **"Elimina"** (
 strumenti.
 
 Infine, il pulsante **"Svuota"** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_pulsante_svuota_messaggi.bmp](./assets/media/image70.png) ), consente di svuotare l'intero elenco
+![](./assets/media/image70.png) ), consente di svuotare l'intero elenco
 eliminando **DEFINITIVAMENTE** tutti i messaggi presenti in elenco.
 
 **ATTENZIONE: eliminando i messaggi presenti all'interno della sotto
@@ -31,7 +31,7 @@ modo.**
 
 Anche in questo caso è presente nella parte bassa della maschera l'icona
 "**Nuovo Messaggio**" (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ico_nuovo_messaggio.bmp](./assets/media/image66.png) ) mediante la quale poter accedere alla
+![](./assets/media/image66.png) ) mediante la quale poter accedere alla
 relativa maschera di creazione
 
 Per maggiori informazioni relativamente alla procedura di creazione di

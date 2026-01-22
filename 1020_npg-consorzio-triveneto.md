@@ -37,7 +37,7 @@ impostare, oltre ai parametri classici di configurazione del pagamento,
 anche quelli specifici del gateway attualmente considerato e presenti
 all'interno della sezione "**Parametri Gateway**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_consorzio_triveneto.bmp](./assets/media/image109.png)
+![](./assets/media/image109.png)
 
 Nel caso specifico il parametro:
 

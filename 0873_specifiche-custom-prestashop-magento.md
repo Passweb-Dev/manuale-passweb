@@ -19,12 +19,12 @@ Per codificare una nuova specifica di questo tipo è necessario accedere
 alla sezione "**Gestione Specifiche**" del Wizard (menu "*Catalogo --
 Altri Marketplace*") e cliccare poi sul pulsante **Aggiungi Specifica**
 (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_specifica_custom.bmp](./assets/media/image324.png) ) presente nella contestuale barra degli strumenti.
+![](./assets/media/image324.png) ) presente nella contestuale barra degli strumenti.
 
 In questo modo verrà infatti visualizzata la maschera "**Dati
 Specifica**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dati_specifica_prestashop.bmp](./assets/media/image325.png)
+![](./assets/media/image325.png)
 
 all'interno della quale poter impostare tutti i parametri di
 configurazione della specifica custom che si intende creare.
@@ -85,7 +85,7 @@ resa disponibile, assieme a quelle "standard", nell'elenco delle
 specifiche effettivamente gestibili per ogni Inserzione ma solo per il
 Marketplace e il metodo pubblicazione indicati in fase di configurazione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\specifiche_custom_2.bmp](./assets/media/image326.png)
+![](./assets/media/image326.png)
 
 Come per una qualsiasi altra specifica sarà quindi possibile
 selezionarla, inserirla tra le specifiche gestite per l'Inserzione e

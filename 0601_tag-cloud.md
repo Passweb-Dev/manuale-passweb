@@ -8,12 +8,12 @@ categorizzare i vari post pubblicati all'interno del sito.
 
 Il componente "**Tag Cloud**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_tag_res.bmp](./assets/media/image26.png)
+![](./assets/media/image26.png)
 
 consente dunque di inserire un elemento di questo tipo all'interno di
 una qualsiasi pagine del proprio sito web.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\tag_cloud_esempio_res.bmp](./assets/media/image27.png)
+![](./assets/media/image27.png)
 
 > **NOTA BENE:** per maggiori informazioni relativamente a come
 > associare dei tag ai singoli post si rimanda alla relativa sezione di

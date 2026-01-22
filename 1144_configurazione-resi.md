@@ -17,5 +17,5 @@ All'interno di questa sezione è possibile:
   del dettaglio dei documenti di Reso Merce in Area Riservata, nelle
   Stampe e nelle mail -- **Documento**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_resi.bmp](./assets/media/image726.png)
+![](./assets/media/image726.png)
 

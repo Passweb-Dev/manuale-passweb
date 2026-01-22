@@ -14,7 +14,7 @@ esterni**
 Una volta effettuato l'accesso a questa sezione del Wizard verrà
 visualizzata la maschera "**Account e-mail e SMS**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\posta_sms.bmp](./assets/media/image1.png)
+![](./assets/media/image1.png)
 
 all'interno della quale il campo:
 
@@ -59,7 +59,7 @@ impostato sulle opzioni "**Nessuno**" o "**SSL/TLS**" sarà poi
 necessario indicare i parametri di connessione allo specifico server
 SMTP che si intente utilizzare.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\posta_sms_configurazione_1.bmp](./assets/media/image2.png)
+![](./assets/media/image2.png)
 
 - **Server SMTP:** consente di indicare l'indirizzo del server SMTP che
   dovrà essere utilizzato per l'invio delle mail
@@ -106,7 +106,7 @@ e cliccare poi sul pulsante "Genera Token" per ottenere il token di
 autenticazione sfruttando l'App messa a disposizione direttamente da
 Passepartout
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\posta_sms_configurazione_2.bmp](./assets/media/image3.png)
+![](./assets/media/image3.png)
 
 In queste condizioni dunque il campo:
 

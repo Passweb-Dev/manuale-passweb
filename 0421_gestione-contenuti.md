@@ -8,7 +8,7 @@ definire e gestire i contenuti del componente in oggetto permettendoci
 di stabilire esattamente il numero di colonne in cui dovrà essere
 suddivisa ogni singola riga articolo.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ordine_custom_configurazione_1_res.bmp](./assets/media/image290.png)
+![](./assets/media/image290.png)
 
 In particolare dunque nella parte sinistra di questa sezione è
 visualizzato l'elenco delle colonne attualmente gestite per ogni singola
@@ -18,15 +18,15 @@ I pulsanti presenti nella contestuale barra degli strumenti consentono
 rispettivamente di:
 
 - **Aggiungi colonna** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_aggiungi.bmp](./assets/media/image14.png) ): consente di aggiungere una nuova
+  ![](./assets/media/image14.png) ): consente di aggiungere una nuova
   colonna.
 
 - **Elimina scheda** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina.bmp](./assets/media/image165.png) ): consente di eliminare la colonna
+  ![](./assets/media/image165.png) ): consente di eliminare la colonna
   attualmente selezionata in elenco.
 
 - **Sposta su / giù**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icone_su_giu.bmp](./assets/media/image166.png) ): consente di riordinare tra loro le
+  (![](./assets/media/image166.png) ): consente di riordinare tra loro le
   varie colonne presenti all'interno del componente spostando verso
   l'alto o il basso la colonna attualmente selezionata in elenco.
 
@@ -43,7 +43,7 @@ organizzati e gestiti i contenuti all'interno della specifica colonna.
 
 In questo senso è possibile selezionare uno dei seguenti valori:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\slider_funzionamento_contenuto_res.bmp](./assets/media/image291.png)
+![](./assets/media/image291.png)
 
 - **Contenuto:** impostando il parametro "Funzionamento" su questo
   valore sarà poi necessario inserire il contenuto della relativa
@@ -124,7 +124,7 @@ In questo senso è possibile selezionare uno dei seguenti valori:
 > agendo in questo senso dal relativo parametro **"Immagine di Sfondo
 > Sezione"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\contenuti_tabs_contenitore2_res.bmp](./assets/media/image168.png)
+![](./assets/media/image168.png)
 
 > **ATTENZIONE!** Aggiungendo o eliminando un componente dal dettaglio
 > del documento questo verrà automaticamente aggiunto o eliminato anche

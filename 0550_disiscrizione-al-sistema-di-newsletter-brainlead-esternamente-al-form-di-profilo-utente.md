@@ -25,7 +25,7 @@ utilizzare il componente di primo livello "Iscrizione Newsletter
 "**Tipo di Integrazione**" e "**Tipologia Form**" rispettivamente sui
 valori "**BrainLead**" e "**Disiscrzione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_disiscrizione_newsletter_brainlead.bmp](./assets/media/image56.png)
+![](./assets/media/image56.png)
 
 **ATTENZIONE! in queste condizioni l'unico campo presente all'interno
 del form, inserito automaticamente al salvataggio del componente, sarà
@@ -45,7 +45,7 @@ servizio lo si potrà verificare anche su BrainLead grazie al piccolo
 badge rosso posto, nel dettaglio della persona, in corrispondenza del
 suo indirizzo mail
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\brainlead_utente_disiscritto.bmp](./assets/media/image58.png)
+![](./assets/media/image58.png)
 
 **ATTENZIONE! la disiscrizione dal servizio di Newsletter NON comporta
 l'eliminazione della relativa anagrafica sulla piattaforma terza ma,

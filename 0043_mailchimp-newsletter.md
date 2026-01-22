@@ -6,7 +6,7 @@ La sezione "**MailChimp - Newsletter**" consente di impostare tutti i
 parametri richiesti per la corretta integrazione tra Passweb e MailChimp
 al fine di poter attivare sul proprio sito un sistema di Newsletter
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_preferenze_integrazioni_mailchimp.bmp](./assets/media/image120.png)
+![](./assets/media/image120.png)
 
 In particolare i due campi "Mail Chimp API Key" e "Aggiorna sempre le
 Label di Mail Chimp" presenti all'interno di questa sezione consentono

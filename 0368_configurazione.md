@@ -36,12 +36,12 @@ da un'etichetta modificabile alla pagina "*Testi dei Componenti*"
 diversa a seconda del fatto di utilizzare il Campionario per creare o
 meno dei Box configurabili)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\campionario_etichetta.bmp](./assets/media/image104.png)
+![](./assets/media/image104.png)
 
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e di configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_campionario_configurazione_res.bmp](./assets/media/image105.png)
+![](./assets/media/image105.png)
 
 suddivisa in varie sezioni.
 

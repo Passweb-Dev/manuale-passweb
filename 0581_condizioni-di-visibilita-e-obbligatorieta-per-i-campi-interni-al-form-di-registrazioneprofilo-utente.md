@@ -19,7 +19,7 @@ campi:
 > inserire nello stesso form anche un campo "Lista Valori" mappato sul
 > valore "Nazione Anagrafica Utente"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\condizioni_visibilità_nazione_anagrafica_utente_res.bmp](./assets/media/image169.png)
+![](./assets/media/image169.png)
 
 > In questo modo è quindi possibile impostare il componente in esame
 > come visibile / obbligatorio, dipendentemente dalla specifica Nazione
@@ -85,7 +85,7 @@ campi:
   Pubblico**", controllo questo che dovrà quindi essere necessariamente
   inserito all'interno dello form stesso
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\campi_form_condizioni_obbligatorieta_pa_res.bmp](./assets/media/image173.png)
+![](./assets/media/image173.png)
 
 > Con questa opzione è quindi possibile impostare il componente in esame
 > come visibile / obbligatorio in base al fatto che l'utente abbia
@@ -108,14 +108,14 @@ Visibilità**" e "**Condizione di Obbligatorietà**" presenti nella
 maschera di configurazione di ogni singolo componente interno ai form di
 "**Registrazione Utente**" e/o di "**Profilo Utente**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\condizioni_visibilita_obbligatorieta_res.bmp](./assets/media/image174.png)
+![](./assets/media/image174.png)
 
 Nello specifico sarà quindi necessario cliccare, per prima cosa, sul
 pulsante "**Aggiungi nuovo filtro**" e selezionare dal contestuale menu
 a tendina il campo sulla base del quale andare poi ad impostare la
 condizione di Visibilità / Obbligatorietà .
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\campi_form_condizioni_obbligatorieta_res.bmp](./assets/media/image175.png)
+![](./assets/media/image175.png)
 
 Sarà poi necessario selezionare l'operatore relazionale da utilizzare
 per definire la condizione di visibilità oltre che, ovviamente, i valori
@@ -127,7 +127,7 @@ piccola finestra contenente l'elenco di tutte le nazioni utilizzabili
 per definire la condizione di visibilità / obbligatorietà dello
 specifico campo del form.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\condizione_visibilita_nazioni_registrazione_res.bmp](./assets/media/image176.png)
+![](./assets/media/image176.png)
 
 **ATTENZIONE! nella finestra sopra evidenziata verranno visualizzati
 solo ed esclusivamente i paesi effettivamente abilitati per il proprio

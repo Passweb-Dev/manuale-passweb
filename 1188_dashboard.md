@@ -15,7 +15,7 @@ all'utente attualmente connesso la presenza di:
 - nuovi documenti inseriti all'interno del gestionale in una delle
   Classi Docuvision pubblicate sul sito -- **Box Documenti**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\area_riservata_bacheca_passcomm.bmp](./assets/media/image2.png)
+![](./assets/media/image2.png)
 
 Ognuna di queste notifiche è un link che riconduce direttamente al
 dettaglio della relativa attività.
@@ -47,7 +47,7 @@ a cascata all'interno del quale sarà possibile visualizzare:
 
 - Pulsante di Logout
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_comm_menu_utente_dettaglio.bmp](./assets/media/image4.png)
+![](./assets/media/image4.png)
 
 **Home** **(**
 ![Videate\\ar_menu_home.bmp](./assets/media/image5.png) **):** consente di accedere al front end del sito,
@@ -63,7 +63,7 @@ Pagina Home/Logout*" di questo manuale)
 ![Videate\\ar_menu_light_mode.bmp](./assets/media/image7.png) **):** consente di attivare /
 disattivare la modalità Dark Mode
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_comm_dark_mode.bmp](./assets/media/image8.png)
+![](./assets/media/image8.png)
 
 **Full Screen (**
 ![Videate\\ar_menu_full_screen.bmp](./assets/media/image9.png) **):** consente di attivare /

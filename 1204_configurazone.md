@@ -15,7 +15,7 @@ Nello specifico, lato gestionale, sarà necessario:
   Azienda -- Dati Aziendali (F4) --Moduli Aggiuntivi Configurazione
   Azienda -- Docuvision")*
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagina_pannello_22.comm.bmp](./assets/media/image116.png)
+![](./assets/media/image116.png)
 
 **NOTA BENE:** il parametro **"Gestione Completa"** è unico per tutte le
 sotto aziende eventualmente gestite. Ciò significa dunque che variando
@@ -37,16 +37,16 @@ automaticamente propagata anche a tutte le altre sotto aziende.
 > accessibili dal menu *"Azienda -- Docuvision -- Impostazioni
 > Docuvision -- Classi Documento".*
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\docuvision_5_passcom.bmp](./assets/media/image117.png)
+![](./assets/media/image117.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\docuvision_6_passcom.bmp](./assets/media/image118.png)
+![](./assets/media/image118.png)
 
 > In entrambi i casi, selezionando una delle classi presenti in elenco e
 > cliccando sul pulsante "**Pubblicazione Documenti**" (**F7**) verrà
 > visualizzata la maschera "**Configurazione pubblicazione documenti
 > docuvision**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\docuvision_7_passcom.bmp](./assets/media/image119.png)
+![](./assets/media/image119.png)
 
 > attraverso la quale poter decidere se la relativa classe documento
 > dovrà o meno essere pubblicata anche all'interno del sito
@@ -68,7 +68,7 @@ automaticamente propagata anche a tutte le altre sotto aziende.
 > ogni anno effettivamente gestito e, ovviamente, potranno essere
 > ricercati dei documenti solo per quegli stessi anni
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\comm_cartelle_anni.bmp](./assets/media/image120.png)
+![](./assets/media/image120.png)
 
 - **Dettaglio Tipo Documento** -- attivo solo per alcune delle classi
   Docuvision predefinite.
@@ -86,7 +86,7 @@ automaticamente propagata anche a tutte le altre sotto aziende.
 > selezionata verrà poi creata all'interno del sito una corrispondente
 > cartella
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\comm_cartelle_tipo_documento.bmp](./assets/media/image121.png)
+![](./assets/media/image121.png)
 
 **NOTA BENE:** la ricerca per tipologia di documento può essere attivata
 unicamente per alcune delle classi Docuvision predefinite. Nel caso
@@ -125,7 +125,7 @@ documenti in area riservata, sarà necessario, lato gestionale:
   quindi al gruppo "**Servizi Web API**" (solo utenti di questo gruppo
   potranno infatti utilizzare i relativi servizi)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\passcom_webApi_1.bmp](./assets/media/image122.png)
+![](./assets/media/image122.png)
 
 - Definire le Aziende dell'installazione per cui sarà effettivamente
   possibile utilizzare le Web Api.
@@ -135,7 +135,7 @@ documenti in area riservata, sarà necessario, lato gestionale:
 > "**Impostazioni**" (F11) in maniera tale da accedere alla maschera
 > "**Impostazioni Gruppo ...**" evidenziata in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\passcom_webApi_2.bmp](./assets/media/image123.png)
+![](./assets/media/image123.png)
 
 > Il campo "**Aziende**" consentirà di indicare esattamente le aziende
 > per cui sarà possibile utilizzare le Web Api.
@@ -178,7 +178,7 @@ Lato Passweb sarà invece necessario:
   fatto che Passcom sia installato presso la Web Farm Passepartout o in
   locale presso il cliente
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\parametri_conf_Passcom_webAPI_locale.bmp](./assets/media/image124.png)
+![](./assets/media/image124.png)
 
 > In ogni caso si tratterà comunque di impostare un valore per i
 > seguenti campi:
@@ -198,7 +198,7 @@ Lato Passweb sarà invece necessario:
 > webapi**" ("*Servizi -- Configurazioni -- Configurazione moduli -- Web
 > Api*")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\passcom_webApi_3.bmp](./assets/media/image125.png)
+![](./assets/media/image125.png)
 
 > Supponendo dunque che i valori presenti all'interno dei campi
 > evidenziati in figura siano rispettivamente mrossi e 9104 il Base

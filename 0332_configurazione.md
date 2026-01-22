@@ -5,7 +5,7 @@
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e di configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_info_navigazione_res.bmp](./assets/media/image214.png)
+![](./assets/media/image214.png)
 
 suddivisa in varie sezioni.
 
@@ -63,7 +63,7 @@ possibile impostare un valore per i seguenti parametri:
     selezionando la pagina corrispondente dall'albero delle pagine
     presente all'interno del box **"Pagina di Partenza".**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagina_di_partenza_res.bmp](./assets/media/image215.png)
+![](./assets/media/image215.png)
 
 - **Tag:** visualizzato solo nel caso in cui il precedente parametro
   "Informazioni da visualizzare" sia stato impostato su "Nome Pagina".

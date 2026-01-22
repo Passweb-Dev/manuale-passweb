@@ -4,13 +4,13 @@
 
 Il Componente **"Calendario"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_menu_calendario_res.bmp](./assets/media/image23.png)
+![](./assets/media/image23.png)
 
 permette di inserire all'interno del sito un piccolo calendario dove
 verranno evidenziati i giorni in corrispondenza dei quali sono state
 pubblicate sul sito alcune notizie.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\calendario_esempio_res.bmp](./assets/media/image24.png)
+![](./assets/media/image24.png)
 
 **Grazie a questo tipo di Componente sarà dunque possibile effettuare
 delle ricerche fra le varie notizie presenti in Archivio, filtrandole

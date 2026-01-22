@@ -8,7 +8,7 @@ configurare il componente "**Ricerca sul sito**" (sezione dei Componenti
 Comuni) impostando il parametro "**Tipo**" sul valore "**Ricerca
 E-Commerce**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ricerca_ecommerce0_res.bmp](./assets/media/image24.png)
+![](./assets/media/image24.png)
 
 e settare poi gli altri parametri di configurazione coerentemente con il
 tipo di pannello di ricerca che si intende realizzare (filtri vincolati,
@@ -39,7 +39,7 @@ ricerca Ecommerce i seguenti elementi:
 
 - Filtro Set Attributi
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtro_ricerca_catalogo_aggiunta_componenti_res.bmp](./assets/media/image595.png)
+![](./assets/media/image595.png)
 
 Per maggiori informazioni in relazione alle diverse tipologie di campi
 gestibili all'interno di un pannello di ricerca Ecommerce si vedano
@@ -57,7 +57,7 @@ parametro "**Tipologia di Filtro**" mediante il quale poter indicare lo
 specifico campo Mexal o lo specifico Attributo Passweb su cui dovrà
 essere realizzato il filtro di ricerca che si intende implementare.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_filtro_testo_configurazione1_res.bmp](./assets/media/image596.png)
+![](./assets/media/image596.png)
 
 In particolare nel caso in cui il campo "**Tipologia di Filtro**" sia
 impostato sul valore:
@@ -105,7 +105,7 @@ utilizzato, sarà possibile selezionare uno tra i seguenti valori:
   esame corrisponderà al campo **"Descrizione"** presente all'interno
   della maschera **"Modifica Articolo"** qui di seguito riportata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_descrizione.bmp](./assets/media/image430.png)
+![](./assets/media/image430.png)
 
 > Inserendolo quindi all'interno del pannello di ricerca esso consentirà
 > di ricercare gli articoli presenti nel Catalogo E-Commerce secondo
@@ -279,7 +279,7 @@ utilizzato, sarà possibile selezionare uno tra i seguenti valori:
 > In queste condizioni nella maschera di configurazione del componente
 > verrà visualizzato anche il campo **Step**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\flitro_lista_step_prezzo_res.bmp](./assets/media/image597.png)
+![](./assets/media/image597.png)
 
 > mediante il quale poter indicare l'intervallo di definizione dei vari
 > scaglioni di prezzo su cui sarà poi possibile effettuare le ricerche.
@@ -314,7 +314,7 @@ utilizzato, sarà possibile selezionare uno tra i seguenti valori:
 > dei "Codici Conto Fornitore" ad essi associati mediante l'apposita
 > tabella gestionale
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\codici_fornitore.bmp](./assets/media/image600.png)
+![](./assets/media/image600.png)
 
 > **ATTENZIONE!** affinché un articolo possa essere ricercato per quelli
 > che sono i suoi Codici Fornitore è necessario che:
@@ -336,7 +336,7 @@ utilizzato, sarà possibile selezionare uno tra i seguenti valori:
 > del "Nominativo" dei fornitori ad essi associati mediante l'apposita
 > tabella gestionale
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nominativi_fornitore.bmp](./assets/media/image601.png)
+![](./assets/media/image601.png)
 
 > **ATTENZIONE!** come per i codici fornitore, anche in questo caso,
 > affinché un articolo possa essere ricercato per quelli che sono i
@@ -358,14 +358,14 @@ utilizzato, sarà possibile selezionare uno tra i seguenti valori:
 > gli articoli presenti all'interno del Catalogo Ecommerce sulla base
 > dei loro "Codici Articolo Fornitore"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\codici_articolo_fornitore.bmp](./assets/media/image602.png)
+![](./assets/media/image602.png)
 
 - **FullText:** selezionando questo valore il Componente "Filtro Testo"
   che si sta realizzando consentirà di ricercare gli articoli presenti
   in Catalogo sulla base dei valori presenti, per ciascuno di essi,
   all'interno del campo **FullText**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ricerca_fulltext_configurazione_2.bmp](./assets/media/image603.png)
+![](./assets/media/image603.png)
 
 > Per maggiori informazioni relativamente a come creare e gestire il
 > campo FullText evidenziato in figura si veda anche la corrispondente
@@ -384,7 +384,7 @@ utilizzato, sarà possibile selezionare uno tra i seguenti valori:
 > In queste condizioni nella maschera di configurazione del componente
 > verrà infatti visualizzato anche il campo **Serie Taglie**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_articolo_taglie_colori.bmp](./assets/media/image604.png)
+![](./assets/media/image604.png)
 
 > mediante il quale poter appunto indicare, selezionandola dal relativo
 > menu a tendina, la specifica serie di Taglie/Colori in relazione a cui
@@ -397,7 +397,7 @@ utilizzato, sarà possibile selezionare uno tra i seguenti valori:
   visualizzate sul front end del sito saranno relative unicamente a
   quella stessa serie.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ricerca_articolo_taglie_colori.bmp](./assets/media/image605.png)
+![](./assets/media/image605.png)
 
 > In queste condizioni inoltre se non dovesse essere indicata una
 > specifica Label, come intestazione del campo di ricerca verrà
@@ -446,7 +446,7 @@ utilizzato, sarà possibile selezionare uno tra i seguenti valori:
 > In queste condizioni nella maschera di configurazione del componente
 > verrà visualizzato anche il campo **Struttura**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_articolo_strutture.bmp](./assets/media/image607.png)
+![](./assets/media/image607.png)
 
 > mediante il quale poter indicare, selezionandola dal relativo menu a
 > tendina, la specifica Struttura in relazione a cui dovranno poi essere
@@ -516,7 +516,7 @@ Nel caso in cui l'Attributo selezionato sia di tipo numerico nella
 maschera di configurazione del componente potrebbe essere visualizzato
 anche il campo **Step**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtro_lista_step_res.bmp](./assets/media/image608.png)
+![](./assets/media/image608.png)
 
 mediante il quale poter indicare l'intervallo di definizione dei vari
 scaglioni che rappresenteranno poi le diverse possibili opzioni di

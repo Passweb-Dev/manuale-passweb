@@ -11,7 +11,7 @@ in relazione alla scadenza dei punti accumulati dai singoli utenti
 Per maggiori informazioni in merito si veda anche quanto indicato nel
 precedente capitolo di questo manuale
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\raccolta_punti_template.bmp](./assets/media/image370.png)
+![](./assets/media/image370.png)
 
 **ATTENZIONE!** La possibilità di costruire e gestire l'elemento
 "Dettaglio Punti" intervenendo direttamente sul codice HTML di questo
@@ -45,7 +45,7 @@ in cui dovrà essere inserita la nuova informazione, sarà necessario
 cliccare sul pulsante "**Seleziona un segnaposto ...**" in maniera tale
 da visualizzare l'elenco di tutti i segnaposto disponibili
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\raccolta_punti_template3.bmp](./assets/media/image371.png)
+![](./assets/media/image371.png)
 
 Selezionando il segnaposto desiderato tra quelli presenti in elenco,
 Passweb provvederà poi ad inserire automaticamente nel template tutto il

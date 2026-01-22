@@ -7,7 +7,7 @@ un riepilogo dei dati della propria prenotazione e potrà quindi decidere
 di confermarla in maniera definitiva effettuando, nel caso anche il
 pagamento online.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\spiagge_configurazione_19.bmp](./assets/media/image390.png)
+![](./assets/media/image390.png)
 
 Una volta revisionati i dati della prenotazione, cliccando sul pulsante
 **"Conferma"** il comportamento dell'applicazione sarà differente a
@@ -19,7 +19,7 @@ step precedente dovesse essere un pagamento non immediato** (es.
 contanti all'arrivo in struttura) la prenotazione verrà inserita
 all'interno del gestionale in stato di **"Preventivo"**.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\spiagge_configurazione_23.bmp](./assets/media/image391.png)
+![](./assets/media/image391.png)
 
 In queste condizioni
 
@@ -32,7 +32,7 @@ In queste condizioni
   prenotazione l'utente avrà sempre la possibilità di annullarla
   operando dalla pagina "Le mie prenotazioni" del sito**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\spiagge_configurazione_25.bmp](./assets/media/image392.png)
+![](./assets/media/image392.png)
 
 > Per le prenotazioni in stato di "Preventivo" è infatti presente oltre
 > al pulsante "Visualizza" anche il pulsante "**Annulla**". Nel momento
@@ -41,7 +41,7 @@ In queste condizioni
 > immediatamente posta, all'interno del gestionale, nello stato di
 > "**Mancata**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\spiagge_configurazione_26.bmp](./assets/media/image393.png)
+![](./assets/media/image393.png)
 
 > **ATTENZIONE!** potranno essere annullate da sito solo ed
 > esclusivamente prenotazioni in stato "Preventivo" che non risultino
@@ -67,7 +67,7 @@ web una situazione di overbooking, subito dopo aver cliccato sul
 pulsante "Conferma" verrà visualizzato un apposito messaggio di avviso e
 la relativa prenotazione **non sarà inserita nel gestionale**.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\spiagge_configurazione_20.bmp](./assets/media/image394.png)
+![](./assets/media/image394.png)
 
 **ATTENZIONE! In ogni caso considerando che, a meno di overbooking, la
 prenotazione verrà effettivamente inserita nel gestionale prima ancora
@@ -88,7 +88,7 @@ Lato gestionale, l'esercente potrà quindi verificare questi dati
 portandosi nella maschera "**Pagamento Web**" attivabile dall'omonima
 voce presente nel contesto della relativa prenotazione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\spiagge_configurazione_21.bmp](./assets/media/image395.png)
+![](./assets/media/image395.png)
 
 **Nel caso in cui entrambi i campi (Tipo di pagamento e Importo) della
 maschera "Pagamento Web" sopra evidenziata siano correttamente
@@ -135,7 +135,7 @@ sono, ossia con la prenotazione inserita all'interno del gestionale
 nello stato di "Confermata" e la maschera di "Pagamento Web" con importo
 nullo.**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\spiagge_configurazione_22.bmp](./assets/media/image396.png)
+![](./assets/media/image396.png)
 
 **ATTENZIONE!** Un **"Importo" nullo** all'interno della maschera di
 **"Pagamento Web"** è da considerarsi come indice di una **procedura di

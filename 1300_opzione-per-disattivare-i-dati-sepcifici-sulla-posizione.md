@@ -38,7 +38,7 @@ dalla voce di menu "**Data collection and modification -- Granular
 location and device data collection**" presente nell'interfaccia di
 amministrazione della proprietà GA4 interessata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ga4_55.bmp](./assets/media/image3.png)
+![](./assets/media/image3.png)
 
 A questi indirizzi
 

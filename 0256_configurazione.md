@@ -5,7 +5,7 @@
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componenti-menu-modcontenuto_res.bmp](./assets/media/image11.png)
+![](./assets/media/image11.png)
 
 suddivisa in varie sezioni.
 
@@ -128,7 +128,7 @@ quanto impostato per il precedente parametro "Tipo di Caricamento"
 > essere visualizzato il menu nel momento in cui un utente dovesse
 > richiamarlo cliccando sull'apposito pulsante.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_offcanvas_configurazione.bmp](./assets/media/image12.png)
+![](./assets/media/image12.png)
 
 > Nello specifico dunque il parametro:
 
@@ -164,7 +164,7 @@ quanto impostato per il precedente parametro "Tipo di Caricamento"
 > pulsante di apertura verrà utilizzata la classica icona, normalmente
 > presente (soprattutto in ambito mobile), per gestire questo tipo di
 > elementi
-> ![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\icona_menu_offcanvas.bmp](./assets/media/image13.png)
+> ![](./assets/media/image13.png)
 
 - **Alt-text immagine offcanvas**: consente di impostare, in tutte le
   lingue attualmente gestite all'interno del sito, il valore che dovrà
@@ -187,7 +187,7 @@ quanto impostato per il precedente parametro "Tipo di Caricamento"
 In questo caso sarà inoltre possibile specificare un valore per i
 seguenti parametri:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_tree_configurazione.bmp](./assets/media/image14.png)
+![](./assets/media/image14.png)
 
 - **Immagine Controllo Apri/Chiudi Ramo:** consente di selezionare una
   specifica immagine da poter utilizzare per il controllo di apertura /

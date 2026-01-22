@@ -5,7 +5,7 @@
 Una volta inserito il **componente** all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componenti-paragrafo-modcontenuto_res.bmp](./assets/media/image2.png)
+![](./assets/media/image2.png)
 
 suddivisa in varie sezioni.
 
@@ -56,7 +56,7 @@ possibile impostare un valore per i seguenti parametri:
 > sotto del campo, consente di inserire nel relativo paragrafo uno dei
 > segnaposto gestiti.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_paragrafo_segnaposto.bmp](./assets/media/image3.png)
+![](./assets/media/image3.png)
 
 - **Codice Articolo -- {{SKU}}** -- da utilizzare all'interno di
   componenti come il "Catalogo Ecommerce" o la "Scheda Prodotto". Verrà

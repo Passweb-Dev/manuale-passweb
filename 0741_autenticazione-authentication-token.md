@@ -9,7 +9,7 @@ rappresentata dal fatto che al posto della chiave API per effetture
 l'autenticazione tra le due piattaforme dovremo ora utilizzare il token
 di accesso.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\portali_esempio_utilizzo_3.bmp](./assets/media/image296.png)
+![](./assets/media/image296.png)
 
 - **Identificativo:** IMDB (o qualsiasi altra stringa utile a
   identificare il portale).

@@ -9,7 +9,7 @@ tipologie di mail inviate dall'applicativo
 Una volta effettuato l'accesso a questa sezione del Wizard verrà infatti
 visualizzata la maschera "**Log Mail**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\log_mail.bmp](./assets/media/image25.png)
+![](./assets/media/image25.png)
 
 contenente l'elenco di tutte le mail inviate dall'applicativo.
 
@@ -37,10 +37,10 @@ I due pulsanti presente nella contestuale barra degli strumenti
 consentono rispettivamente di:
 
 - **Visualizza Mail**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_visualizza_mail.bmp](./assets/media/image28.png) ): consente di accedere al dettaglio
+  (![](./assets/media/image28.png) ): consente di accedere al dettaglio
   della mail attualmente selezionata in elenco
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dettaglio_mail.bmp](./assets/media/image29.png)
+![](./assets/media/image29.png)
 
 > **ATTENZIONE!** nel dettaglio delle mail di recupero password il link
 > di recupero è oscurato e sostituito da una serie di XXXXXXXXXX. Tale
@@ -48,7 +48,7 @@ consentono rispettivamente di:
 > lo ha richiesto.
 
 - **Invia Mail**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_invia_mail.bmp](./assets/media/image30.png) ): consente di inviare nuovamente la
+  (![](./assets/media/image30.png) ): consente di inviare nuovamente la
   mail attualmente selezionata in elenco.
 
 > Tale funzionalità potrebbe quindi tornare particolarmente utile nel

@@ -4,7 +4,7 @@
 
 Il Componente **"Campo Intestazione"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\campo_intestazione_registrazione_res.bmp](./assets/media/image130.png)
+![](./assets/media/image130.png)
 
 consente di inserire all'interno dei form di Registrazione e di Profilo
 Utente un testo adibito a titolo (o intestazione) di una serie di campi
@@ -15,7 +15,7 @@ costituito dalla semplice etichetta (label).
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_iu_intestazione_configurazione_res.bmp](./assets/media/image131.png)
+![](./assets/media/image131.png)
 
 suddivisa in varie sezioni.
 

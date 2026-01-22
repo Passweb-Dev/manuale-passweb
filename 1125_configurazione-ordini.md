@@ -20,5 +20,5 @@ All'interno di questa sezione è possibile:
   pagina di conferma ordine (es. tracciamento delle conversioni) --
   **Documento**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\parametri_ordine.bmp](./assets/media/image598.png)
+![](./assets/media/image598.png)
 

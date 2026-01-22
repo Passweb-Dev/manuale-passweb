@@ -80,7 +80,7 @@ Per comprendere meglio questi concetti consideriamo un semplice esempio
 e facciamo quindi riferimento alla Variante Articolo rappresentata in
 figura:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\varianti_articolo_1.bmp](./assets/media/image405.png)
+![](./assets/media/image405.png)
 
 Tale Variante è costituita da 4 diversi livelli: **Tipo**, **Modello**,
 **Colore** e **Taglia** e per ciascuno di essi sono stati definiti
@@ -90,7 +90,7 @@ scelta disponibili per ogni livello della Variante.
 Nella figura di seguito riportata viene evidenziato, ad esempio,
 l'Insieme di Valori definito per il livello Colore
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\varianti_articolo_2.bmp](./assets/media/image406.png)
+![](./assets/media/image406.png)
 
 In corrispondenza del Livello Colore avremo quindi la possibilità di
 scegliere tra Bianco, Grigio o Nero.

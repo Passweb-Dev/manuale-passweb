@@ -101,7 +101,7 @@ impostare, oltre ai parametri classici di configurazione del pagamento,
 anche quelli specifici del gateway attualmente considerato e presenti
 all'interno della sezione " **Parametri Gateway**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_stripe.bmp](./assets/media/image216.png)
+![](./assets/media/image216.png)
 
 Nello specifico all'interno di questa sezione sarà possibile indicare un
 valore per i seguenti parametri:
@@ -179,7 +179,7 @@ a seconda della configurazione attivata potrà indicare la specifica
 modalità di pagamento da utilizzare o semplicemente inserire i dati
 richiesti per completare il pagamento.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\stripe_8.bmp](./assets/media/image217.png)
+![](./assets/media/image217.png)
 
 **A questo punto però l'ordine non è ancora stato preso in carico da
 Stripe e, conseguentemente, non è ancora avvenuto alcun pagamento**.
@@ -205,7 +205,7 @@ indicato il metodo di pagamento da utilizzare ed aver inserito i dati
 richiesti, sarà sufficiente cliccare sul pulsante "**Paga**" per potare
 a termine l'rodine.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\stripe_9.bmp](./assets/media/image218.png)
+![](./assets/media/image218.png)
 
 Una volta elaborato il pagamento e completata la transazione l'utente
 sarà ricondotto automaticamente al sito Ecommerce e l'ordine, se

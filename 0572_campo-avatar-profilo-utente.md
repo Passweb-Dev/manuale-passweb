@@ -4,7 +4,7 @@
 
 Il Componente **"Campo Avatar"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\campo_avatar_profilo_res.bmp](./assets/media/image143.png)
+![](./assets/media/image143.png)
 
 consente di inserire all'interno del Profilo Utente un controllo
 attraverso il quale l'utente potrà associare al proprio profilo
@@ -23,7 +23,7 @@ Associati".
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione.**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\profilo_avatar_configurazione_res.bmp](./assets/media/image144.png)
+![](./assets/media/image144.png)
 
 suddivisa in varie sezioni.
 

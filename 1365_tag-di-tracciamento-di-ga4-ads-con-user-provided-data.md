@@ -16,9 +16,9 @@ di tipo **Google Ads Conversion Tracking** quanto in quella dei Tag di
 tipo **Google Analytics: GA4 Events** troveremo un parametro "**Include
 user-provided data from your website**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tag_gads_conversion_parametro_upd.bmp](./assets/media/image204.png)
+![](./assets/media/image204.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tag_ga4_event_parametro_upd.bmp](./assets/media/image205.png)
+![](./assets/media/image205.png)
 
 che sarà esattamente quello da dover selezionare per fare in modo di
 inviare i dati utente necessari per le conversioni avanzate alla
@@ -29,7 +29,7 @@ dovremo inserire, selezionandola dall'apposito menu a tendina, la
 variabile di tipo User Provided Data utilizzata per raccogliere tutti i
 dati utente
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tag_gads_conversion_parametro_upd_2.bmp](./assets/media/image206.png)
+![](./assets/media/image206.png)
 
 **ATTENZIONE!** Il campo in oggetto accetta solo ed esclusivamente
 variabili di tipo "User Provided data" (ecco perché si è reso necessario

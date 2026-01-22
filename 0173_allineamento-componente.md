@@ -17,7 +17,7 @@ stessa griglia impostandola in maniera tale che essa risulti essere
 allineata non più a sinistra ma bensì a destra.
 
 L'icona "**Allineamento Componente**" (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\icona_allineamento_componente.bmp](./assets/media/image251.png) ) **consente infatti di impostare
+![](./assets/media/image251.png) ) **consente infatti di impostare
 l\'allineamento automatico del componente stesso rispetto al suo
 elemento padre.**
 
@@ -56,7 +56,7 @@ nei precedenti capitoli di questo manuale mediante la quale poter
 impostare il tipo di visualizzazione per il componente in esame e le sue
 specifiche opzioni di allineamento automatico.
 
-> ![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\opzioni_allineamento_20.bmp](./assets/media/image253.png)
+> ![](./assets/media/image253.png)
 
 Il menu a tendina presente nella parte alta della maschera consente
 dunque di impostare il tipo di visualizzazione che dovrà assumere il
@@ -135,7 +135,7 @@ componente in questione rispetto al suo elemento padre
 posizionato a fianco di quelli eventualmente già presenti a partire dal
 bordo sinistro del componente padre
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\opzioni_allineamento_21.bmp](./assets/media/image254.png)
+![](./assets/media/image254.png)
 
 Tecnicamente, in queste condizioni verrà applicata al componente in
 esame la classe "**mr-auto**" che imposta il margine destro del
@@ -146,7 +146,7 @@ lato sinistro del suo componente padre
 posizionato a fianco di quelli eventualmente già presenti a partire dal
 bordo destro del componente padre
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\opzioni_allineamento_22.bmp](./assets/media/image255.png)
+![](./assets/media/image255.png)
 
 Tecnicamente, in queste condizioni verrà applicata al componente in
 esame la classe "**ml-auto**" che imposta il margine sinistro del
@@ -157,7 +157,7 @@ lato destro del suo componente padre
 posizionato al centro dello spazio residuo presente all'interno del suo
 componente padre
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\opzioni_allineamento_23.bmp](./assets/media/image256.png)
+![](./assets/media/image256.png)
 
 Tecnicamente, in queste condizioni verranno applicata al componente in
 esame entrambe le classi "**ml-auto**" e "**mr-auto**" posizionando, di
@@ -168,7 +168,7 @@ fatto il componente in esame al centro dello spazio residuo.
 **Allineamento automatico in alto:** il componente in esame verrà
 posizionato a partire dal bordo alto del suo contenitore padre
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\opzioni_allineamento_24.bmp](./assets/media/image257.png)
+![](./assets/media/image257.png)
 
 Tecnicamente, in queste condizioni verrà applicata al componente in
 esame la classe "**align-self-start** che imposta la proprietà
@@ -178,7 +178,7 @@ posizionandolo di fatto a partire dal bordo alto del suo elemento padre
 **Allineamento automatico in basso:** il componente in esame verrà
 posizionato a partire dal bordo basso del suo contenitore padre
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\opzioni_allineamento_25.bmp](./assets/media/image258.png)
+![](./assets/media/image258.png)
 
 Tecnicamente, in queste condizioni verrà applicata al componente in
 esame la classe "**align-self-end** che imposta la proprietà
@@ -198,7 +198,7 @@ posizionandolo di fatto a partire dal bordo basso del suo elemento padre
 **Allineamento automatico centrato:** il componente in esame verrà
 posizionato, verticalmente, al centro del suo contenitore padre.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\opzioni_allineamento_26.bmp](./assets/media/image260.png)
+![](./assets/media/image260.png)
 
 Tecnicamente, in queste condizioni verrà applicata al componente in
 esame la classe "**align-self-center** che imposta la proprietà
@@ -209,7 +209,7 @@ posizionandolo di fatto al centro del suo elemento padre
 posizionato, verticalmente, sulla linea di base del suo contenitore
 padre.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\opzioni_allineamento_27.bmp](./assets/media/image261.png)
+![](./assets/media/image261.png)
 
 Tecnicamente, in queste condizioni verrà applicata al componente in
 esame la classe "**align-self-baseline** che imposta la proprietà
@@ -219,7 +219,7 @@ esame la classe "**align-self-baseline** che imposta la proprietà
 "stirato" verticalmente fino ad occupare per intero l'altezza del suo
 contenitore padre
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\opzioni_allineamento_28.bmp](./assets/media/image262.png)
+![](./assets/media/image262.png)
 
 Tecnicamente, in queste condizioni verrà applicata al componente in
 esame la classe "**align-self-stretch** che imposta la proprietà

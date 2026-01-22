@@ -25,7 +25,7 @@ Nello specifico per ottenere ciò sarà sufficiente selezionare il
 parametro "**Abilita autocompletamento campi CRIBIS**" presente nella
 maschera di configurazione del componente "Campo di Testo"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_cribis_1.bmp](./assets/media/image87.png)
+![](./assets/media/image87.png)
 
 **ATTENZIONE!** il parametro "**Abilita autocompletamento campi
 CRIBIS**" verrà visualizzato **solo nel momento in cui il componente
@@ -37,7 +37,7 @@ In queste condizioni quando un Agente andrà ad effettuare la
 registrazione di un nuovo cliente troverà a fianco dei campi relativi
 alla Partita IVA e / o al Codice Fiscale un pulsante di "Ricerca"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_cribis_3.bmp](./assets/media/image90.png)
+![](./assets/media/image90.png)
 
 Una volta inserita la Partita IVA (**senza IT**) e/o il Codice Fiscale
 desiderato, cliccando sul pulsante evidenziato in figura verrà
@@ -45,7 +45,7 @@ effettuata una ricerca in tempo reale sul Database di CRIBIS e verranno
 visualizzati all'interno di un apposito menu a tendina le possibili
 anagrafiche che soddisfano i parametri di ricerca impostati.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_cribis_4.bmp](./assets/media/image91.png)
+![](./assets/media/image91.png)
 
 Selezionando quindi una delle anagrafiche presenti in elenco verranno
 automaticamente compilati, con i dati di questa stessa anagrafica, anche

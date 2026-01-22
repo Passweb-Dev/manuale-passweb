@@ -18,7 +18,7 @@ questa volta non dovrà essere, ovviamente, di tipo Business ma
 semplicemente di tipo Personale, come evidenziato nella figura di
 seguito riportata.**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\ebay_28.bmp](./assets/media/image33.png)
+![](./assets/media/image33.png)
 
 **ATTENZIONE!** Anche in questo caso è consigliabile impostare
 correttamente (ai fini di eventuali test) gli indirizzi (soprattutto

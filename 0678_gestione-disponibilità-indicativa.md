@@ -5,7 +5,7 @@
 Il campo **"Disponibilità Indicativa"** presente nella sezione
 "Informazioni Generali" dell'Anagrafica Passweb di ogni singolo articolo
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_disponibilita_indicativa.bmp](./assets/media/image132.png)
+![](./assets/media/image132.png)
 
 consente di specificare quello che dovrà essere, per l'articolo in
 esame, un valore indicativo della sua reale disponibilità.

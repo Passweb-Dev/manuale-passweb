@@ -15,10 +15,10 @@ In questo senso è necessario agire mediante il pulsante "**Metodi di
 Descrizione"** presente nella parte alta della maschera "Lista delle
 Inserzioni Amazon"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\marketplace_modelli_inserzione_descrizione_amazon.bmp](./assets/media/image199.png)
+![](./assets/media/image199.png)
 
 **Metodi di Descrizione** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_metodi_descrizione.bmp](./assets/media/image62.png) )**:** consente di creare e salvare in
+![](./assets/media/image62.png) )**:** consente di creare e salvare in
 appositi modelli le configurazioni dei principali elementi descrittivi
 (SKU, Titolo, Codici ASIN, EAN, UPC, Immagini, Condizione prodotti ...)
 che caratterizzano gli articoli presenti all'interno di un' Inserzione
@@ -27,21 +27,21 @@ Cliccando sul pulsante in esame verrà visualizzata la maschera "*Lista
 dei Metodi delle Descrizioni delle Inserzioni*" contenente l'elenco di
 tutti i modelli attualmente codificati.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\elenco_metodi_descrizione.bmp](./assets/media/image63.png)
+![](./assets/media/image63.png)
 
 I pulsanti presenti nella contestuale barra degli strumenti consentono
 rispettivamente di:
 
 - **Elimina Metodi delle Descrizioni** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_metodi_descrizione.bmp](./assets/media/image64.png) ): consente di eliminare il template attualmente
+  ![](./assets/media/image64.png) ): consente di eliminare il template attualmente
   selezionato in elenco
 
 - **Modifica Metodi delle Descrizioni** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_metodi_descrizione.bmp](./assets/media/image65.png) ): consente di modificare il template
+  ![](./assets/media/image65.png) ): consente di modificare il template
   attualmente selezionato in elenco
 
 - **Aggiungi Metodi delle Descrizioni** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_metodi_descrizione.bmp](./assets/media/image66.png) ): consente di creare un nuovo
+  ![](./assets/media/image66.png) ): consente di creare un nuovo
   template dove poter impostare le configurazioni dei principali
   elementi descrittivi che caratterizzano gli articoli presenti
   all'interno di un' Inserzione
@@ -49,7 +49,7 @@ rispettivamente di:
 > Cliccando su questo pulsante verrà quindi visualizzata la maschera
 > "*Dati Metodo delle Descrizioni*"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\metodo_descrizioni_amazon.bmp](./assets/media/image200.png)
+![](./assets/media/image200.png)
 
 > all'interno della quale poter indicare un Nome per il template che si
 > sta realizzando e soprattutto poter definire le diverse regole di
@@ -68,6 +68,6 @@ verranno automaticamente aggiornate anche tutte le Inserzioni che
 utilizzano quello stesso Template
 
 Il pulsante **Inserzioni** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_inserzioni.bmp](./assets/media/image55.png) ) consente di tornare all'elenco delle Inserzioni
+![](./assets/media/image55.png) ) consente di tornare all'elenco delle Inserzioni
 attualmente codificate
 

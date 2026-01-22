@@ -68,7 +68,7 @@ correttamente.
 Per far questo è necessario agire dal menu "**Data -- Configuration**"
 dello store con cui si desidera effettuare l'integrazione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_sincronizzazione_feed.bmp](./assets/media/image10.png)
+![](./assets/media/image10.png)
 
 I campi presenti all'interno della sezione "**Data sync settings**"
 evidenziata in figura dovranno essere impostati come di seguito

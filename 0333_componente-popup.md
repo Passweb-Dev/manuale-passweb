@@ -7,5 +7,5 @@ qualsiasi pagine del sito un Popup che potrà aprirsi automaticamente al
 caricamento della pagina stessa piuttosto che al click su di un
 determinato pulsante.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_popup_res.bmp](./assets/media/image216.png)
+![](./assets/media/image216.png)
 

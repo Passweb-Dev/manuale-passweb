@@ -11,7 +11,7 @@ Per far questo è sufficiente cliccare sul pulsante **Seleziona Risorsa**
 presente, ad esempio, nella maschera di configurazione del componente in
 oggetto.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_pubb_risorsa_LiveEditing_res.bmp](./assets/media/image129.png)
+![](./assets/media/image129.png)
 
 In questo modo verrà infatti aperto il pannello di "Gestione Risorse"
 precedentemente esaminato e attraverso il quale poter quindi caricare

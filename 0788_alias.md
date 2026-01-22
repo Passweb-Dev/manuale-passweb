@@ -9,7 +9,7 @@ Alias associati agli articoli attualmente gestiti all'interno del sito.
 Una volta effettuato l'accesso a questa pagina verrà quindi visualizzata
 la maschera, **"Gestione Articoli -- Alias"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\codici_alias_articoli.bmp](./assets/media/image309.png)
+![](./assets/media/image309.png)
 
 contenente l'elenco di tutti i codici alias associati agli articoli
 attualmente presenti in catalogo.

@@ -4,7 +4,7 @@
 
 Il Componente **"Simulatore del Pagamento"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_simulatore_pagamento_res.bmp](./assets/media/image592.png)
+![](./assets/media/image592.png)
 
 **può essere inserito unicamente all'interno del componente Ecommerce di
 primo livello "Scheda Prodotto"** dove consente di mostrare all'utente
@@ -12,13 +12,13 @@ una possibile simulazione di rateizzazione collegata, ovviamente, al
 prezzo dello specifico articolo e ad uno dei pagamenti rateali gestiti
 da Passweb.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\simualtore_pagamento_fe.bmp](./assets/media/image593.png)
+![](./assets/media/image593.png)
 
 Rilasciando il Componente nella posizione desiderata all'interno della
 pagina web, verrà visualizzata la sua maschera di gestione e
 configurazione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\simulatore_pagamento_configurazione_res.bmp](./assets/media/image594.png)
+![](./assets/media/image594.png)
 
 suddivisa in varie sezioni.
 

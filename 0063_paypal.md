@@ -14,13 +14,13 @@ proprio account PayPal regolarmente funzionante**
 1.  Accedere all'indirizzo <https://developer.paypal.com> ed effettuare
     l'accesso con il proprio account PayPal.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login51.bmp](./assets/media/image289.png)
+![](./assets/media/image289.png)
 
 2.  Una volta effettuato l'accesso verremo ricondotti nella
     **Dashboard** all'interno della sezione "**My apps and
     Credentials**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login53.bmp](./assets/media/image290.png)
+![](./assets/media/image290.png)
 
 > dove avremo la possibilità di creare App sia nell'ambiente **Sandbox**
 > di test che in quello **Live** di produzione
@@ -31,16 +31,16 @@ proprio account PayPal regolarmente funzionante**
 3.  Selezionare quindi, mediante l'apposito controllo l'ambiente
     **Live** e cliccare poi sul pulsante "**Create app**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login53a.bmp](./assets/media/image291.png)
+![](./assets/media/image291.png)
 
 4.  Assegnare un nome all'app e cliccare sul pulsante "**Create app**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login53b.bmp](./assets/media/image292.png)
+![](./assets/media/image292.png)
 
 5.  Una volta terminata la creazione dell'App accedere alla pagina di
     dettaglio dell'app
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login56.bmp](./assets/media/image293.png)
+![](./assets/media/image293.png)
 
 > dove potremo trovare i due parametri da inserire poi in Passweb per
 > completare l'integrazione tra le due piattaforme e consentire agli
@@ -55,7 +55,7 @@ proprio account PayPal regolarmente funzionante**
 > **Secret** e incollarlo all'interno del campo **Secret** del Wizard di
 > Passweb
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login56a.bmp](./assets/media/image294.png)
+![](./assets/media/image294.png)
 
 6.  Per completare la configurazione dovremo ora impostare l'URL di
     ritorno per consentire agli utenti di essere correttamente ridiretti
@@ -69,7 +69,7 @@ proprio account PayPal regolarmente funzionante**
 > **Return URL** l'indirizzo del proprio sito Passweb seguito dalla
 > stringa **/callbackSocial/PayPal**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login58.bmp](./assets/media/image295.png)
+![](./assets/media/image295.png)
 
 > Considerando inoltre che la nostra App dovrà essere utilizzata per
 > consentire agli utenti del sito di effettuare l'autenticazione
@@ -78,7 +78,7 @@ proprio account PayPal regolarmente funzionante**
 > **Connect with PayPal (formerly Log In with PayPal)**, come
 > evidenziato in figura.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login58a.bmp](./assets/media/image296.png)
+![](./assets/media/image296.png)
 
 > Una volta impostati i parametri di configurazione come descritto
 > cliccare sul pulsante **Save**
@@ -91,7 +91,7 @@ proprio account PayPal regolarmente funzionante**
 > dovranno essere trasmessi dall'account PayPal al sito Passweb per
 > poter poi effettuare la registrazione del nuovo utente.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login60.bmp](./assets/media/image297.png)
+![](./assets/media/image297.png)
 
 > **Verificare di aver selezionato i dati relativi al nome utente, alla
 > mail e all'indirizzo.**
@@ -124,20 +124,20 @@ Completato il processo di integrazione, l'App sarà subito on line e sarà
 possibile verificarne il corretto funzionamento utilizzando un qualsiasi
 account PayPal regolarmente registrato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login64.bmp](./assets/media/image298.png)
+![](./assets/media/image298.png)
 
 Nel momento in cui l'utente dovesse cliccare sul relativo pulsante
 presente all'interno del pannello di login, verrà ridiretto su una
 pagina di accesso di PayPal all'interno della quale dovrà inserire le
 credenziali del proprio account.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login68.bmp](./assets/media/image299.png)
+![](./assets/media/image299.png)
 
 Una volta inserite tali credenziali verrà visualizzata la maschera di
 consenso attraverso la quale autorizzare la trasmissione dei dati dal
 account PayPal al sito Passweb.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login69.bmp](./assets/media/image300.png)
+![](./assets/media/image300.png)
 
 Nel caso in cui l'utente fosse già autenticato al Social Network non gli
 sarà richiesto di inserire nuovamente le sue credenziali ma soltanto di

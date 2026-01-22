@@ -5,7 +5,7 @@
 La Dashboard è la prima sezione visualizzata in Matomo una volta
 effettuato l'accesso all'applicativo.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_report_2.bmp](./assets/media/image34.png)
+![](./assets/media/image34.png)
 
 E' una sezione completamente personalizzabile sulla base delle
 specifiche esigenze di ogni singolo utente. Ogni riquadro presente
@@ -18,14 +18,14 @@ visite in tempo reale al sito, ad un riepilogo delle visite per canale,
 a dati ecommerce relativi alle transazioni concluse all'interno del
 sito, a quelli che sono gli obiettivi impostati per il sito ...
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_report_3.bmp](./assets/media/image35.png)
+![](./assets/media/image35.png)
 
 I dati presenti all'interno di ciascun Widget possono essere filtrati
 sulla base di un determinato periodo temporale e/o sulla base di
 determinati segmenti cliccando per questo sui relativi pulsanti presenti
 nella parte alta della pagina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_report_4.bmp](./assets/media/image36.png)
+![](./assets/media/image36.png)
 
 Il pulsante "**Dashboard**", presente anch'esso nella parte alta della
 pagina, consente invece da una parte di selezionare (visualizzando anche
@@ -34,7 +34,7 @@ aggiungere alla Dashboard corrente, e dall'altra parte di creare, se
 necessario, anche nuove Dashboard (pulsante "**Crea una nuova
 dashboard**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_report_5.bmp](./assets/media/image37.png)
+![](./assets/media/image37.png)
 
 Per maggiori informazioni relativamente alla gestione delle Dashboard in
 Matomo si consiglia di fare riferimento alla documentazione ufficiale

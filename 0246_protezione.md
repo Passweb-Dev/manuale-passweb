@@ -19,7 +19,7 @@ ogni singolo Componente Passweb consente di:
   possibilità di gestire il componente -- sezione "**Protezione
   Componente sul Wizard**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_ruoli_res.bmp](./assets/media/image88.png)
+![](./assets/media/image88.png)
 
 Nello specifico dunque il parametro:
 
@@ -34,7 +34,7 @@ seguenti valori:
   soli utenti appartenenti ai gruppi selezionati all'interno del
   parametro "**Gruppi che hanno accesso al componente**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\visibilita_componente_1_res.bmp](./assets/media/image89.png)
+![](./assets/media/image89.png)
 
 > Per maggiori informazioni relativamente alla creazione dei Gruppi
 > Utente si veda la corrispondente sezione " *Utenti -- Siti Ecommerce
@@ -44,7 +44,7 @@ seguenti valori:
 filtro articoli che verrà poi valutato per determinare se il relativo
 componente dovrà o meno essere visibile.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\visibilita_componente_2_res.bmp](./assets/media/image90.png)
+![](./assets/media/image90.png)
 
 Tale parametro è quindi disponibile, ovviamente, solo per componenti che
 sono in qualche modo legati agli articoli pubblicati e venduti
@@ -97,7 +97,7 @@ Sul componente visibile ai soli utenti di tipo Cliente andrà poi
 impostato, agendo sul parametro "Filtro Visibilità articoli" un filtro
 del tipo di quello indicato in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\visibilita_componente_3_res.bmp](./assets/media/image91.png)
+![](./assets/media/image91.png)
 
 dove, ovviamente, 107 è il codice della "Categoria A" (per maggiori
 informazioni relativamente alla creazione e alla gestione Filtri
@@ -203,7 +203,7 @@ Infine, come precedentemente evidenziato, all'interno della sezione
 chi, fra i vari utenti del Wizard, potrà effettivamente gestire lo
 specifico componente e chi no.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\protezione_componente_wizard_res.bmp](./assets/media/image93.png)
+![](./assets/media/image93.png)
 
 In questo senso dunque il parametro:
 
@@ -225,5 +225,5 @@ campo dipende da quanto settato per il parametro **"Protezione
 Default**" presente, per l'utente attualmente connesso, all'interno
 della maschera "**Profilo Utente**" del Wizard
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\profilo_utente_wizard_protezione_default.bmp](./assets/media/image94.png)
+![](./assets/media/image94.png)
 

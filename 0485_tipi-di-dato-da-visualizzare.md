@@ -11,7 +11,7 @@ Il tipo di dato da visualizzare mediante il componente in oggetto
 dipende quindi dalle impostazioni settate per il parametro "**Tipo di
 dato da visualizzare**" presente nella sua maschera di configurazione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dati_articolo_da_visualizzare.bmp](./assets/media/image518.png)
+![](./assets/media/image518.png)
 
 In particolare nel caso in cui il campo "Tipo di dato da Visualizzare"
 sia impostato sul valore:
@@ -95,7 +95,7 @@ dei seguenti valori:
 > (Fornitore 1) presente nella relativa maschera "**Fornitori**"
 > all'interno del gestionale.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\codice_fornitore.bmp](./assets/media/image519.png)
+![](./assets/media/image519.png)
 
 > In queste condizioni dunque il componente in oggetto verrà
 > valorizzato, articolo per articolo, con il corrispondente codice
@@ -119,14 +119,14 @@ dei seguenti valori:
 > mappato con il codice mastro del fornitore principale (Fornitore 1)
 > dell'articolo in questione (es. 601.00001)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\codice_fornitore2.bmp](./assets/media/image520.png)
+![](./assets/media/image520.png)
 
 - **Nominativo Fornitore 1:** selezionando questo valore il Componente
   Dati Articolo verrà poi mappato con la Ragione Sociale del fornitore
   principale (Fornitore 1) dell'articolo in questione (es. "MGM
   Forniture Elettriche")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\codice_fornitore3.bmp](./assets/media/image521.png)
+![](./assets/media/image521.png)
 
 > **ATTENZIONE!** Nel caso di siti Ecommerce collegati ad uno dei
 > gestionali Ho.Re.Ca. è necessario abilitare, in "**Replica Dati**" il
@@ -135,7 +135,7 @@ dei seguenti valori:
 > Dati Articolo mappato sul campo in oggetto non potrà essere
 > valorizzato.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\replica_dati_fornitori.bmp](./assets/media/image522.png)
+![](./assets/media/image522.png)
 
 - **Descrizione Dettagliata**: selezionando questo valore il Componente
   Dati Articolo verrà poi mappato con il campo "**Descrizione
@@ -145,7 +145,7 @@ dei seguenti valori:
   uno specifico articolo ed aver cliccato sul pulsante "Modifica
   Articolo" presente nella barra degli strumenti
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\descrizione_dettagliata.bmp](./assets/media/image523.png)
+![](./assets/media/image523.png)
 
 > In queste condizioni dunque il componente "Dati Articolo" verrà
 > sostituito, articolo per articolo, con il contenuto del campo sopra
@@ -162,7 +162,7 @@ dei seguenti valori:
 - Direttamente all'interno del gestionale utilizzando per questo
   l'apposito campo "Descrizione Dettagliata"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\descrizione_dettagliata_mexal.bmp](./assets/media/image524.png)
+![](./assets/media/image524.png)
 
 > Per maggiori informazioni in merito si veda anche la sezione
 > "*Catalogo -- Gestione Articoli -- Articoli -- Anagrafica Articolo /
@@ -176,7 +176,7 @@ dei seguenti valori:
   articolo ed aver cliccato sul pulsante "Modifica Articolo" presente
   nella barra degli strumenti.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\maschera_modifica_articolo.bmp](./assets/media/image525.png)
+![](./assets/media/image525.png)
 
 > In queste condizioni dunque il campo Dati Articolo, verrà sostituito,
 > articolo per articolo, con il contenuto del campo "Descrizione
@@ -232,7 +232,7 @@ dei seguenti valori:
 > definiti, in relazione alla serie considerata, all'interno della
 > maschera "**Modifica Elementi della serie**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_elementi_serie.bmp](./assets/media/image527.png)
+![](./assets/media/image527.png)
 
 > considerando anche che il colore eventualmente associato agli elementi
 > di una serie verrà effettivamente visualizzato sul front end del sito
@@ -319,7 +319,7 @@ dei seguenti valori:
   aver attivato o meno per lo specifico articolo la corrispondente
   funzionalità di gestione dell'unità di misura secondaria)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_articolo_um.bmp](./assets/media/image528.png)
+![](./assets/media/image528.png)
 
 > Per maggiori informazioni relativamente alla gestione dell'Unità di
 > misura secondaria si rimanda agli specifici capitoli di questo manuale
@@ -337,7 +337,7 @@ dei seguenti valori:
   visualizzare l'unità di misura verrà sempre visualizzata, **anche per
   articoli non gestiti a confezione**, la quantità base.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_articolo_um_2.bmp](./assets/media/image529.png)
+![](./assets/media/image529.png)
 
 - **Unità di misura della confezione:** anche in questo caso il
   Componente Dati Articolo verrà mappato con il campo **"Unità di
@@ -346,7 +346,7 @@ dei seguenti valori:
   verrà poi effettivamente visualizzato all'interno del sito solo ed
   esclusivamente in corrispondenza di articoli gestiti a confezione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_articolo_um_3.bmp](./assets/media/image530.png)
+![](./assets/media/image530.png)
 
 - **Unità di misura Primaria / Secondaria**: selezionando questo valore
   il Componente Dati Articolo verrà mappato con il campo **"Unità di
@@ -391,7 +391,7 @@ dei seguenti valori:
   questo ottenuto sulla base del prezzo dell'articolo e, ovviamente,
   delle quantità in ordine.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_articolo_subtotale.bmp](./assets/media/image531.png)
+![](./assets/media/image531.png)
 
 - **Provvigione --** **valore disponibile solo per siti Ecommerce
   collegati a Mexal**.
@@ -403,7 +403,7 @@ dei seguenti valori:
 > **ottenuta dall'Agente che sta effettuando l'ordine per un conto di un
 > certo cliente**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_articolo_provvigione.bmp](./assets/media/image532.png)
+![](./assets/media/image532.png)
 
 - **Nota -- valore disponibile nelle seguenti condizioni:**
 

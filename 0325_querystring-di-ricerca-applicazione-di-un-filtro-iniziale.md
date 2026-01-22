@@ -52,7 +52,7 @@ querystring da copiare poi all'interno del parametro "Ricerca Iniziale":
 4.  Utilizzare il pannello di ricerca per impostare e applicare il
     filtro desiderato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\querystring_ricerca_testuale_1.bmp](./assets/media/image201.png)
+![](./assets/media/image201.png)
 
 > Nell'esempio in figura è stato impostato un filtro di ricerca testuale
 > sulla stringa "supporto"
@@ -62,17 +62,17 @@ querystring da copiare poi all'interno del parametro "Ricerca Iniziale":
     una piccola icona "**Copia**" grazie alla quale poter ottenere la
     querystring corrispondente al filtro appena impostato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\querystring_ricerca_testuale_2.bmp](./assets/media/image202.png)
+![](./assets/media/image202.png)
 
 6.  Cliccare quindi sull'icona "**Copia**" per copiare nella Clipboard
     (Appunti) la relativa querystring
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\querystring_ricerca_testuale_3.bmp](./assets/media/image203.png)
+![](./assets/media/image203.png)
 
 > ed incollarla all'interno del parametro "**Ricerca Iniziale**"
 > presente nella maschera di configurazione del pannello di ricerca
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtro_testuale_iniziale_1.bmp](./assets/media/image205.png)
+![](./assets/media/image205.png)
 
 > **ATTENZIONE!** Una volta impostato il parametro "Ricerca Iniziale"
 > come evidenziato in figura, ogni volta in cui un utente effettuerà

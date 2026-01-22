@@ -12,7 +12,7 @@ trovare il campo **"Abilita Passweb"** che, se selezionato, consentirà,
 a partire dalla prossima sincronizzazione, di esportare e gestire
 l'articolo stesso anche all'interno del corrispondente sito Passweb.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\anagrafica_ar_horeca2.bmp](./assets/media/image111.png)
+![](./assets/media/image111.png)
 
 - **Abilita Passweb**: se selezionato consentirà, **a partire dalla
   prossima sincronizzazione**, di esportare e gestire l'articolo in

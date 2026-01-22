@@ -12,7 +12,7 @@ precedentemente evidenziato, in corrispondenza del campo "**Ore
 Preparazione**" presente nella maschera di configurazione della consegna
 in esame
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\regole_preparazione.bmp](./assets/media/image389.png)
+![](./assets/media/image389.png)
 
 Sulla base di quanto detto è semplice comprende anche che **le Regole di
 Preparazione dovranno essere definite sulla base di quelli che sono gli
@@ -33,17 +33,17 @@ contestuale barra degli strumenti.
 
 In questo modo verrà infatti visualizzata la maschera "**Regole**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\regole_preparazione2.bmp](./assets/media/image390.png)
+![](./assets/media/image390.png)
 
 contenente l'elenco di tutte le regole di preparazione attualmente
 associate alla consegna in esame.
 
 Per creare una nuova regola sarà sufficiente cliccare sul pulsante
 "**Aggiungi Regola**"
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_regola.bmp](./assets/media/image391.png) ) in maniera tale da accedere alla
+(![](./assets/media/image391.png) ) in maniera tale da accedere alla
 maschera "**Nuova Regola Preparazione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\regole_preparazione3.bmp](./assets/media/image392.png)
+![](./assets/media/image392.png)
 
 all'interno della quale poter specificare un valore per i seguenti
 parametri:
@@ -110,7 +110,7 @@ E' possibile selezionare uno dei seguenti valori:
   intervalli orari in cui il negozio risulta aperto** e in cui sarà
   quindi possibile preparare eventuali nuovi ordini per la spedizione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\regole_preparazione4.bmp](./assets/media/image393.png)
+![](./assets/media/image393.png)
 
 > Gli intervalli orari (campi "**Ora Inizio**" e "**Ora Fine**") possono
 > essere definiti in relazione ad uno specifico giorno della settimana
@@ -185,35 +185,35 @@ Gli ulteriori pulsanti presenti nella barra degli strumenti della
 maschera "Regole" consentono rispettivamente di:
 
 **Modifica Regola**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_regola.bmp](./assets/media/image394.png) ): consente di modificare la regola attualmente
+(![](./assets/media/image394.png) ): consente di modificare la regola attualmente
 selezionata
 
 **Elimina Regola**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_regola.bmp](./assets/media/image395.png) ): consente di eliminare la regola
+(![](./assets/media/image395.png) ): consente di eliminare la regola
 attualmente selezionata
 
 **Esporta**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_esporta.bmp](./assets/media/image367.png) ): consente di esportare tutte le regole attualmente
+(![](./assets/media/image367.png) ): consente di esportare tutte le regole attualmente
 presenti in elenco all'interno di un apposito file csv.
 
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 "**Esportazione Regole**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\esportazione_regole.bmp](./assets/media/image396.png)
+![](./assets/media/image396.png)
 
 all'interno della quale poter indicare il separatore da utilizzare nella
 creazione del file csv. Il pulsante "**Salva**" consente di avviare la
 procedura di esportazione
 
 **Importa da File**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_importa_da_file.bmp](./assets/media/image388.png) ): consente di creare in maniera massiva,
+(![](./assets/media/image388.png) ): consente di creare in maniera massiva,
 mediante importazione di un apposito file csv, un' insieme di regole da
 associare alla consegna in esame.
 
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 "**Importazione Regole**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\importazione_regole.bmp](./assets/media/image397.png)
+![](./assets/media/image397.png)
 
 all'interno della quale poter configurare l'importazione dei dati in
 oggetto. In particolare il campo

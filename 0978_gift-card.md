@@ -44,7 +44,7 @@ In generale dunque, per poter creare un articolo di tipo Gift Card
   esame una specifica carta regalo, selezionandola tra quelle
   precedentemente codificate
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dati_articolo_giftcard.bmp](./assets/media/image297.png)
+![](./assets/media/image297.png)
 
 Nello specifico poi una **Gift Card Fisica** è la classica carta regalo
 su cui dovrà essere stampato il relativo codice di attivazione. Essendo

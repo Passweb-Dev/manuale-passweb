@@ -61,7 +61,7 @@ voce di menu ***"Catalogo -- Amazon"*** verrà visualizzato l'elenco di
 tutti i paesi e dei relativi marketplace che sarà possibile attivare e
 su cui si potrà dunque decidere di mettere in vendita i propri articoli.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_13.bmp](./assets/media/image195.png)
+![](./assets/media/image195.png)
 
 **ATTENZIONE!** Nel caso di siti Ecommerce collegati ad uno dei
 gestionali Ho.Re.Ca. sono gestiti solo ed esclusivamente i Marketplace

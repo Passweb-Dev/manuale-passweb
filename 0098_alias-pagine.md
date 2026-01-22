@@ -29,7 +29,7 @@ maggiori informazioni in merito si veda anche il successivo capitolo
 Accedendo a questa sezione del Wizard verrà quindi visualizzata la
 maschera "**Gestione Alias Pagine**" suddivisa in due distinte sezioni:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\alias_pagina_1.bmp](./assets/media/image472.png)
+![](./assets/media/image472.png)
 
 - nella parte sinistra è visualizzato l'albero delle pagine del proprio
   sito
@@ -49,11 +49,11 @@ I due pulsanti presenti nella barra degli strumenti contestuale
 all'Albero delle Pagine consentono rispettivamente di:
 
 - **Importa da file** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_importa_da_file.bmp](./assets/media/image473.png) ): consente di importare in maniera massiva gli
+  ![](./assets/media/image473.png) ): consente di importare in maniera massiva gli
   Alias di pagina partendo da un file .csv o .txt. Cliccando su questo
   pulsante verrà infatti aperta la maschera di importazione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\importa_alias.bmp](./assets/media/image474.png)
+![](./assets/media/image474.png)
 
 > all'interno della quale poter indicare:
 
@@ -164,12 +164,12 @@ all'Albero delle Pagine consentono rispettivamente di:
 > campo "Automatico" verrà infatti impostato sempre a "N"**
 
 - **Esporta** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_esporta_testo.bmp](./assets/media/image475.png) ): consente di esportare l'elenco degli Alias di
+  ![](./assets/media/image475.png) ): consente di esportare l'elenco degli Alias di
   pagina attualmente codificati all'interno di un file .csv. Cliccando
   su questo pulsante verrà infatti visualizzata la maschera di
   esportazione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\esporta_alias.bmp](./assets/media/image476.png)
+![](./assets/media/image476.png)
 
 > all'interno della quale poter indicare:
 
@@ -211,7 +211,7 @@ selezionare la pagina cui si vuole associare questo stesso Alias e,
 successivamente, cliccare sul pulsante "**Nuovo**" presente nella barra
 degli strumenti della parte destra della maschera.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuovo_alias.bmp](./assets/media/image477.png)
+![](./assets/media/image477.png)
 
 All'interno della maschera "**Nuovo Alias**" sarà quindi necessario
 assegnare un valore ai seguenti parametri:
@@ -259,7 +259,7 @@ assegnare un valore ai seguenti parametri:
 >
 > ***azienda/%***
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\alias_wildcard.bmp](./assets/media/image478.png)
+![](./assets/media/image478.png)
 
 > il risultato che otterremo sarà esattamente quello di ridirigere
 > automaticamente sulla pagina Contatti del sito tutti gli url il cui
@@ -406,7 +406,7 @@ Per ciascuno degli Alias presenti in griglia è indicato:
 
 - Se l'Alias in esame è o meno un alias Automatico (terza colonna)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\alias_automatici_e_manuali.bmp](./assets/media/image479.png)
+![](./assets/media/image479.png)
 
 > Gli Alias automatici possono poi essere gestiti, ricercati e
 > modificati al pari di quelli creati in maniera manuale. Ovviamente nel
@@ -426,10 +426,10 @@ degli alias attualmente associati alla pagina selezionata consentiranno
 infine di:
 
 - **Modifica Alias** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica.bmp](./assets/media/image349.png) ): consente di modificare l'Alias di pagina
+  ![](./assets/media/image349.png) ): consente di modificare l'Alias di pagina
   attualmente selezionato
 
 - **Elimina Alias** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina.bmp](./assets/media/image347.png) ): consente di eliminare definitivamente l'Alias
+  ![](./assets/media/image347.png) ): consente di eliminare definitivamente l'Alias
   di pagina attualmente selezionato
 

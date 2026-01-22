@@ -8,12 +8,12 @@ destra della maschera di gestione dei documenti possono essere elencati:
 - tutti i file presenti nella cartella attualmente selezionata
   all'interno dell'albero presente nella parte sinistra della pagina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\comm_gestione_file_1.bmp](./assets/media/image90.png)
+![](./assets/media/image90.png)
 
 - tutti i file risultanti da una ricerca effettuata mediante il pannello
   "**Ricerca Documenti**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\comm_gestione_file_2.bmp](./assets/media/image91.png)
+![](./assets/media/image91.png)
 
 Per ogni documento presente in griglia vengono indicate le seguenti
 informazioni:
@@ -134,7 +134,7 @@ archivio compresso (file .zip) precedentemente creato.**
 Per far questo sarà sufficiente flaggare, prima dell'upload, il
 parametro **"Archivio"** evidenziato in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\carica_zip_passcom.bmp](./assets/media/image98.png)
+![](./assets/media/image98.png)
 
 Attivando questo parametro l'applicazione saprà di dover trattare, in
 fase di upload, un archivio compresso e si preoccuperà quindi di
@@ -214,7 +214,7 @@ sulla cartella in esame i permessi di:
 > direttamente da lui, verrà visualizzato un apposito messaggio di
 > avviso e il relativo file, ovviamente, non verrà eliminato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\eliminazione_file_permessi_scrittura.bmp](./assets/media/image100.png)
+![](./assets/media/image100.png)
 
 - **Lettura**: non potrà eliminare nessuno dei file presenti all'interno
   della cartella. In queste condizioni dunque il pulsante "Elimina" non
@@ -241,7 +241,7 @@ mediante il pannello di "Ricerca Documenti", sarà necessario, per prima
 cosa, accertarsi che il file in questione non sia contenuto all'interno
 di una cartella Docuvision e che abbia quindi, in corrispondenza della
 colonna "Cartella", l'icona
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_cartella_ricerca_documenti.bmp](./assets/media/image101.png) . Cliccando su questa stessa icona verrà
+![](./assets/media/image101.png) . Cliccando su questa stessa icona verrà
 selezionata automaticamente la cartella in cui si trova il file e, a
 questo punto, se tale cartella ha effettivamente il permesso di
 Scrittura o quello di Modifica e il file selezionato era stato
@@ -270,7 +270,7 @@ sulla cartella in esame i permessi di:
 > messaggio per informare l'utente che, sui file elencati, non ha i
 > permessi per effettuare l'operazione richiesta
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\svuota_cartella_permessi_scrittura.bmp](./assets/media/image103.png)
+![](./assets/media/image103.png)
 
 - **Lettura**: in queste condizioni l'utente non può eliminare nessuno
   dei file presenti all'interno della cartella e quindi il pulsante
@@ -322,7 +322,7 @@ cartella di origine i permessi di:
 > visualizzato un apposito messaggio di avviso e lo spostamento non
 > verrà eseguito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sposta_file_permessi_scrittura.bmp](./assets/media/image105.png)
+![](./assets/media/image105.png)
 
 - **Lettura**: non potrà spostare nessuno dei file presenti all'interno
   della cartella. In questo caso dunque il pulsante "Sposta File" non
@@ -419,7 +419,7 @@ specifica cartella sarà quindi necessario selezionarla e cliccare poi
 sul pulsante "**Elenco Documenti**" (
 ![Videate\\pulsante_elenco_documenti_mobile.bmp](./assets/media/image57.png) )
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_comm_documenti_mobile.bmp](./assets/media/image58.png)
+![](./assets/media/image58.png)
 
 In questo modo verrà visualizzata la griglia dei documenti attualmente
 presenti all'interno della cartella in esame. Dopo aver selezionato uno
@@ -427,5 +427,5 @@ dei documenti presenti in elenco il pulsante raffigurante tre piccoli
 puntini consentirà di accedere al menu delle azioni effettuabili sul
 file selezionato.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\documenti_comm_azioni_file_mobile.bmp](./assets/media/image60.png)
+![](./assets/media/image60.png)
 

@@ -21,18 +21,18 @@ quanto richiesto.
 1.  Accedere all'indirizzo <https://developer.paypal.com> ed effettuare
     l'accesso con il proprio account PayPal.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login51.bmp](./assets/media/image170.png)
+![](./assets/media/image170.png)
 
 2.  Una volta effettuato l'accesso verremo ricondotti nella
     **Dashboard** da dove dovremo poi cliccare sul pulsante "A**pps &
     Credentials**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login53a1.bmp](./assets/media/image171.png)
+![](./assets/media/image171.png)
 
 > in maniera tale da accedere alla sezione di creazione e gestione delle
 > proprie App
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login53.bmp](./assets/media/image172.png)
+![](./assets/media/image172.png)
 
 > dove avremo la possibilità di creare App sia nell'ambiente **Sandbox**
 > di test che in quello **Live** di produzione. Ovviamente il tutto
@@ -53,7 +53,7 @@ quanto richiesto.
 
 4.  Assegnare un nome all'app e cliccare sul pulsante "**Create app**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\app_payapl_checkout.bmp](./assets/media/image173.png)
+![](./assets/media/image173.png)
 
 > **ATTENZIONE!** Lavorando in ambiente "Sandbox" sarà necessario
 > indicare in questa fase anche un account Sandbox Business
@@ -65,7 +65,7 @@ quanto richiesto.
     attivare correttamente la modalità di pagamento in esame sul nostro
     sito Passweb
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\app_payapl_checkout2.bmp](./assets/media/image174.png)
+![](./assets/media/image174.png)
 
 6.  Copiare quindi quanto indicato all'interno del campo **Client ID**
     ed incollarlo nel corrispondente campo della sezione
@@ -82,21 +82,21 @@ quanto richiesto.
     sezione relativa alle Features dell'APP e verificare che sia tutto
     impostato come in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\app_payapl_checkout3.bmp](./assets/media/image175.png)
+![](./assets/media/image175.png)
 
 8.  A questo punto sarà necessario attivare i webhooks richiesti.
     Restando quindi ancora una volta nella maschera di dettaglio
     dell'APP portarsi all'interno della sezione "**Sandbox / Live
     Webhooks**" e cliccare sul pulsante "**Add Webhook**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\app_payapl_checkout4.bmp](./assets/media/image176.png)
+![](./assets/media/image176.png)
 
 9.  Inserire quindi all'interno del campo "**Webhook URL**" il seguente
     indirizzo:
 
 > **https://\<urlsito\>/store/cart/checkout/paypal/webhooks**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\app_payapl_checkout5.bmp](./assets/media/image177.png)
+![](./assets/media/image177.png)
 
 > **ATTENZIONE!** l'attivazione dei webhooks richiede necessariamente la
 > presenza di un certificato SSL sul proprio sito
@@ -112,7 +112,7 @@ quanto richiesto.
 
     d.  **Checkout order voided**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\app_payapl_checkout6.bmp](./assets/media/image178.png)
+![](./assets/media/image178.png)
 
 e.  **Payment authorization created**
 
@@ -132,7 +132,7 @@ l.  **Payment order cancelled**
 
 m.  **Payment order created**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\app_payapl_checkout7.bmp](./assets/media/image179.png)
+![](./assets/media/image179.png)
 
 11. Salvare l'APP cliccando sul pulsante "Save" presente a fondo pagina
 

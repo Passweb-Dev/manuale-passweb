@@ -18,28 +18,28 @@ necessario che l'amministratore del sito disponga:
     (<https://developers.facebook.com> ) con il proprio account e
     selezionare la voce "**Le mie app**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login3.bmp](./assets/media/image209.jpeg)
+![](./assets/media/image209.jpeg)
 
 2.  Una volta effettuato l'accesso alla sezione delle App crearne una
     nuova cliccando per questo sul pulsante "**Crea un' app**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login4.bmp](./assets/media/image210.png)
+![](./assets/media/image210.png)
 
 3.  All'interno della maschera di selezione della tipologia di App da
     realizzare selezionare la voce **"Creazione di funzioni collegate"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login5.bmp](./assets/media/image211.png)
+![](./assets/media/image211.png)
 
 4.  Compilare la maschera relativa ai dati anagrafici dell'App che si
     sta realizzando (Nome App, Indirizzo Mail, Account Business Manager
     collegato) e cliccare sul pulsante "**Crea app**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login6.bmp](./assets/media/image212.png)
+![](./assets/media/image212.png)
 
 5.  Una volta creata l'app selezionare dal menu presente sulla sinistra
     della pagina la voce "**Impostazioni -- Di Base**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login_instagram_2.bmp](./assets/media/image229.png)
+![](./assets/media/image229.png)
 
 > e completare l'anagrafica dell'app inserendo tutti i dati richiesti,
 > facendo attenzione, in particolare, ad inserire le seguenti
@@ -64,41 +64,41 @@ necessario che l'amministratore del sito disponga:
     al fondo della pagina cliccare sul pulsante "**Aggiungi
     piattaforma**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login_instagram_3.bmp](./assets/media/image230.png)
+![](./assets/media/image230.png)
 
 > Nella successiva maschera, selezionare l'opzione "**Sito Web**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login_instagram_4.bmp](./assets/media/image231.png)
+![](./assets/media/image231.png)
 
 > Aggiungere quindi l'indirizzo del proprio sito all'interno del campo
 > "**URL del sito**" e cliccare su "**Salva le Modifiche**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login_instagram_5.bmp](./assets/media/image232.png)
+![](./assets/media/image232.png)
 
 7.  Una volta aggiunto il tipo di piattaforma su cui dovrà essere
     utilizzata l'app, cliccare sulla voce "**Prodotti**" presente nel
     menu posto sulla sinistra della pagina, selezionare "**Instagram
     Basic Display**" e cliccare sul pulsante "**Configura**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login_instagram_1.bmp](./assets/media/image233.png)
+![](./assets/media/image233.png)
 
 > Scorrere quindi in fondo alla pagina e cliccare sul pulsante "**Create
 > New App**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login_instagram_6.bmp](./assets/media/image234.png)
+![](./assets/media/image234.png)
 
 8.  Nella successiva maschera (Create a New Instagram App ID) inserire,
     all'interno del campo "**Nome visualizzato"** il nome della propria
     app e cliccare quindi sul pulsante "**Crea un' app**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login_instagram_7.bmp](./assets/media/image235.png)
+![](./assets/media/image235.png)
 
 9.  Una volta terminata la creazione dell'app verremo automaticamente
     ricondotti all'interno della sezione "**Basic Display**" evidenziata
     in figura dove dovremo inserire altri dati di fondamentale
     importanza per poter completare la nostra integrazione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login_instagram_8.bmp](./assets/media/image236.png)
+![](./assets/media/image236.png)
 
 10. Portarsi quindi in corrispondenza della sezione "**Impostazioni del
     client OAuth**" e inserire all'interno del campo "**URI di
@@ -106,7 +106,7 @@ necessario che l'amministratore del sito disponga:
     seguito dalla stringa **/callbackSocial/Instagram** come evidenziato
     in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login_instagram_9.bmp](./assets/media/image237.png)
+![](./assets/media/image237.png)
 
 > Allo stesso modo inserire l'indirizzo del proprio sito web anche
 > all'interno dei successivi campi "**URL di callback per la rimozione
@@ -122,13 +122,13 @@ necessario che l'amministratore del sito disponga:
     "**instagram_graph_user_profile**" cliccando sul corrispondente
     pulsante "**Aggiungi alla richiesta**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login_instagram_10.bmp](./assets/media/image238.png)
+![](./assets/media/image238.png)
 
 12. Restando ancora all'interno della pagina "Basic Display" sarà
     necessario, arrivati a questo punto, prelevare i dati da inserire
     poi in Passweb per completare l'integrazione tra le due piattaforme.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login_instagram_11.bmp](./assets/media/image239.png)
+![](./assets/media/image239.png)
 
 > Nello specifico i dati richiesti saranno quelli presenti all'interno
 > dei campi "**ID app Instagram**" e "**Chiave Segreta di Instagram**"
@@ -147,7 +147,7 @@ necessario che l'amministratore del sito disponga:
 > campo "Chiave Segreta di Instagram" è necessario cliccare sul pulsante
 > "Mostra" ed inserire la password del proprio account
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login_instagram_12.bmp](./assets/media/image240.png)
+![](./assets/media/image240.png)
 
 > Una volta inseriti in Passweb i due parametri di configurazione
 > richiesti cliccare sul pulsante "**Salva**" presente nella parte bassa
@@ -164,7 +164,7 @@ necessario che l'amministratore del sito disponga:
 > e verificare di aver inserito correttamente tutti i dati richiesti
 > (punto 5)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login_instagram_2.bmp](./assets/media/image229.png)
+![](./assets/media/image229.png)
 
 14. Per poter pubblicare l'app sarà necessario per prima cosa sottoporla
     alla validazione da parte di Facebook. Per questo sarà necessario
@@ -173,7 +173,7 @@ necessario che l'amministratore del sito disponga:
     "Analisi dell'App per Instagram Basic Display" precedentemente
     analizzata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login_instagram_13.bmp](./assets/media/image241.png)
+![](./assets/media/image241.png)
 
 > **ATTENZIONE!** Il pulsante "Invia per l'analisi" si abiliterà solo
 > nel momento in cui tutti i dati richiesti (tra cui anche un video che
@@ -184,7 +184,7 @@ necessario che l'amministratore del sito disponga:
 > sarà poi sufficiente agire mediante l'apposito pulsante di switch
 > posto nella parte alta della pagina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login_instagram_14.bmp](./assets/media/image242.png)
+![](./assets/media/image242.png)
 
 Prima di pubblicare definitivamente la nostra App potrebbe essere utile
 effettuare anche alcuni test di corretto funzionamento in maniera tale
@@ -196,7 +196,7 @@ Per far questo è necessario:
 1.  Accedere alla pagina "**Basic Display**" dell'app appena creata,
     portarsi all'interno della sezione "**User Token Generator**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login_instagram_15.bmp](./assets/media/image243.png)
+![](./assets/media/image243.png)
 
 > e cliccare sul pulsante "**Add or Remove Instagram Testers**". In
 > questo modo verremo infatti ricondotti automaticamente all'interno
@@ -207,24 +207,24 @@ Per far questo è necessario:
     corrispondenza della sezione "**Tester di Instagram**" (parte bassa
     della pagina)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login_instagram_16.bmp](./assets/media/image244.png)
+![](./assets/media/image244.png)
 
 > cliccare sul pulsante "**Aggiungi Tester di Instagram**" e inserire
 > nella successiva maschera lo username dell'utente Instagram che si
 > vuole invitare come utente di test della nostra app
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login_instagram_17.bmp](./assets/media/image245.png)
+![](./assets/media/image245.png)
 
 3.  L'utente Instagram invitato come tester potrà gestire e accettare
     l'invito all'interno della sezione "**App e siti web**" del proprio
     profilo
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login_instagram_18.bmp](./assets/media/image246.png)
+![](./assets/media/image246.png)
 
 4.  Una volta approvato l'invito l'utente comparirà all'interno della
     sezione Tester di Instagram
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login_instagram_19.bmp](./assets/media/image247.png)
+![](./assets/media/image247.png)
 
 > e potrà quindi provare ad effettuare l'autenticazione al nostro sito
 > Ecommerce con il proprio account anche se l' App è ancora in modalità
@@ -233,14 +233,14 @@ Per far questo è necessario:
 5.  A questo punto potremo quindi aprire il sito Passweb e scegliere di
     effettuare l'autenticazione utilizzando il profilo Instagram
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login_instagram_20.bmp](./assets/media/image248.png)
+![](./assets/media/image248.png)
 
 6.  Cliccando sul relativo pulsante presente in corrispondenza del
     pannello di Login l'utente verrà quindi ricondotto alla pagina di
     accesso al social network dove dovrà ovviamente inserire le
     credenziali del proprio account
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login_instagram_21.bmp](./assets/media/image249.png)
+![](./assets/media/image249.png)
 
 > Volendo è anche possibile effettuare prima l'accesso ad Instagram,
 > aprire poi in un altro tab del browser il sito Passweb ed effettuare
@@ -251,7 +251,7 @@ Per far questo è necessario:
 7.  In ogni caso una volta inserite le credenziali verrà richiesto il
     permesso di accedere alle informazioni del proprio account
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login_instagram_22.bmp](./assets/media/image250.png)
+![](./assets/media/image250.png)
 
 > Cliccando quindi sul pulsante "**Autorizza**" verremo automaticamente
 > ricondotti al sito Passweb dove potremo verificare l'avvenuto accesso

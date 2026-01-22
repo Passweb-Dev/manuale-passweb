@@ -4,7 +4,7 @@
 
 Il Componente **"Campo Area Testo"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\campo_area_testo_registrazione_res.bmp](./assets/media/image132.png)
+![](./assets/media/image132.png)
 
 consente di inserire all'interno dei form di Registrazione e di Profilo
 Utente un campo testuale liberamente compilabile dal cliente.
@@ -12,7 +12,7 @@ Utente un campo testuale liberamente compilabile dal cliente.
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_iu_area_testo_configurazione_res.bmp](./assets/media/image133.png)
+![](./assets/media/image133.png)
 
 suddivisa in varie sezioni.
 

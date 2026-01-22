@@ -37,7 +37,7 @@ l'ordinamento degli articoli, è necessario agire dalla sezione
 **"Gestione Campi di Ordinamento"**, presente anch'essa all'interno
 della maschera di configurazione del componente
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ordinamento_carrello.bmp](./assets/media/image193.png)
+![](./assets/media/image193.png)
 
 All'interno di questa sezione, sulla sinistra sono elencati gli elementi
 di ordinamento attualmente codificati, sulla destra sono invece

@@ -14,11 +14,11 @@ utilizzando Sprix Remoto
 
 Per poter definire uno sprix di questo tipo è sufficiente cliccare sul
 pulsante **"Nuovo"** **(**
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuovo.bmp](./assets/media/image204.png) **)** presente nella barra degli
+![](./assets/media/image204.png) **)** presente nella barra degli
 strumenti della maschera "Gestione Sprix", e impostare poi il parametro
 "**Tipologia**" sul valore "**Scadenzario**".
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sprix_scadenzario.bmp](./assets/media/image206.png)
+![](./assets/media/image206.png)
 
 Il campo "**Descrizione**" consente poi di associare allo sprix in esame
 una specifica descrizione, in maniera tale da poterlo poi identificare
@@ -54,7 +54,7 @@ Parametri"** **(** **)** presente nella barra degli strumenti.
 Verrà quindi visualizzata la maschera "**Gestione Parametri per lo Sprix
 Stampa Scadenzario Cliente**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sprix_scadenzario_parametri.bmp](./assets/media/image208.png)
+![](./assets/media/image208.png)
 
 attraverso cui poter appunto gestire tutti i parametri necessari per il
 corretto funzionamento dello sprix in esame.
@@ -70,7 +70,7 @@ verrà visualizzata, nella parte bassa della pagina, una maschera
 "**Modifica Parametro Sprix**" del tipo di quella qui di seguito
 riportata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sprix_scadenzario_parametri2.bmp](./assets/media/image209.png)
+![](./assets/media/image209.png)
 
 Sarà quindi possibile personalizzare la Descrizione dello specifico
 parametro (campo "**Descrizione**"), la sua **Tipologia** (non per tutti
@@ -150,7 +150,7 @@ E' possibile selezionare uno dei seguenti valori:
 il parametro in esame. E' possibile selezionare una delle seguenti
 opzioni:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sprix_scadenzario_parametri4.bmp](./assets/media/image210.png)
+![](./assets/media/image210.png)
 
 - **Codice Conto Agente**: in questo modo in fase di presentazione del
   form dello sprix all'interno dell'Area Riservata, il parametro in
@@ -200,7 +200,7 @@ Nel caso specifico del parametro "**Stato Rata**", la maschera di
 gestione del parametro è leggermente diversa rispetto a quella sopra
 evidenziata:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sprix_scadenzario_parametri3.bmp](./assets/media/image211.png)
+![](./assets/media/image211.png)
 
 Tale parametro sarà infatti di tipo "**Lista Valori**" e corrisponderà
 quindi nel form all'interno dell' Area Riservata, ad una drop down list,
@@ -221,7 +221,7 @@ possibile eliminarle**.
 > relazione al fatto di gestire in Mexal uno Scadenzario a partite
 > oppure uno Scadenzario non a partite.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sprix_scadenzario_parametri5.bmp](./assets/media/image212.png)
+![](./assets/media/image212.png)
 
 Per ogni singola opzione sarà possibile personalizzare la sua
 descrizione (parametro "**Etichetta del Campo**"), in maniera tale da
@@ -256,7 +256,7 @@ cui questa stessa stampa venisse richiesta dal sito, verrà considerato
 per esso il valore R (il valore cioè assegnato a default da Mexal stesso
 a questo parametro).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\scadenzario_stampa_ridotta.bmp](./assets/media/image213.png)
+![](./assets/media/image213.png)
 
 **In questo senso quindi le stampe dello scadenzario richiamabili
 dall\'Area Riservata del proprio sito web potranno essere solamente

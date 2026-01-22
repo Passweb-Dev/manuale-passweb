@@ -13,7 +13,7 @@ di spedizione gestite all'interno del sito.
 Una volta effettuato l'accesso a questa sezione del Wizard verrà quindi
 visualizzata la maschera **"Consegne"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\delivery_1.bmp](./assets/media/image372.png)
+![](./assets/media/image372.png)
 
 contenente l'elenco di tutte le tipologie di "Consegna a domicilio"
 attualmente codificate.
@@ -26,38 +26,38 @@ I pulsanti presenti nella contestuale barra degli strumenti consentono
 rispettivamente di:
 
 - **Elimina Consegna**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_consegna.bmp](./assets/media/image373.png) ): consente di eliminare la tipologia di consegna a
+  (![](./assets/media/image373.png) ): consente di eliminare la tipologia di consegna a
   domicilio attualmente selezionata in elenco
 
 - **Copia Consegna**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_copia_consegna.bmp](./assets/media/image374.png) ): consente di copiare la tipologia di
+  (![](./assets/media/image374.png) ): consente di copiare la tipologia di
   consegna a domicilio attualmente selezionata in elenco
 
 - **Modifica Consegna**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_consegna.bmp](./assets/media/image375.png) ): consente di accedere alla maschera di
+  (![](./assets/media/image375.png) ): consente di accedere alla maschera di
   configurazione e gestione della consegna a domicilio attualmente
   selezionata in elenco
 
 - **Regole Preparazione**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_regole_preparazione.bmp](./assets/media/image376.png) ): consente di accedere all'insieme di
+  (![](./assets/media/image376.png) ): consente di accedere all'insieme di
   regole utili a definire quando la merce sarà pronta per essere spedita
   (per maggiori informazioni in merito si veda anche il successivo
   capitolo "*Regole di Preparazione*" di questo manuale)
 
 - **Regole Consegna**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_regole_consegna.bmp](./assets/media/image377.png) ): consente di accedere all'insieme di regole utili
+  (![](./assets/media/image377.png) ): consente di accedere all'insieme di regole utili
   a definire la data in cui la merce sarà consegnata (per maggiori
   informazioni in merito si veda anche il successivo capitolo "*Regole
   di Consegna*" di questo manuale)
 
 - **Aggiungi Consegna**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_consegna.bmp](./assets/media/image378.png) ): consente di creare una nuova tipologia di
+  (![](./assets/media/image378.png) ): consente di creare una nuova tipologia di
   consegna a domicilio
 
 Cliccando su quest'ultimo pulsante verrà infatti visualizzata la
 maschera **"Configurazione Consegna"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\delivery_2.bmp](./assets/media/image379.png)
+![](./assets/media/image379.png)
 
 all'interno della quale poter impostare i parametri di configurazione
 della tipologia di consegna che si intende realizzare.
@@ -81,7 +81,7 @@ In questo senso dunque il campo:
   controlli il giorno e l'intervallo orario in cui desidererebbe
   ricevere la merce
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\delivery_acquisto_1.bmp](./assets/media/image380.png)
+![](./assets/media/image380.png)
 
 > **ATTENZIONE!** i giorni effettivamente selezionabili all'interno del
 > calendario così come i relativi intervalli orari dipenderanno da come
@@ -96,7 +96,7 @@ In questo senso dunque il campo:
   avere la possibilità di modificare queste informazioni (i campi
   relativi al giorno e all'orario saranno infatti campi in sola lettura)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\delivery_consegna_prevista.bmp](./assets/media/image381.png)
+![](./assets/media/image381.png)
 
 > **ATTENZIONE!** anche in questo caso il giorno e l'intervallo orario
 > visualizzati dipenderanno dal giorno e dall'orario in cui viene
@@ -201,7 +201,7 @@ All'interno della sezione "**Spedizioni**" è possibile indicare i metodi
 di spedizione cui associare la "Consegna a domicilio" che si sta
 codificando.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\delivery_2a.bmp](./assets/media/image382.png)
+![](./assets/media/image382.png)
 
 Nel box di sinistra sono indicati tutti i metodi di trasporto
 attualmente codificati all'interno della corrispondente sezione del

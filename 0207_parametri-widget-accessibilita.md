@@ -6,7 +6,7 @@ All'interno della sezione "**Parametri Widget Accessibilità**" è
 possibile decidere di abilitare o meno il Widget di Passweb utile a
 migliorare l'accessibilità del proprio sito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_varianti_parametri_widget_accessibilita.bmp](./assets/media/image30.png)
+![](./assets/media/image30.png)
 
 **ATTENZIONE! per visualizzare la sezione evidenziata in figura e poter
 quindi gestire il Widget di Accessibilità è necessario aver abilitato,
@@ -44,7 +44,7 @@ ulteriore campo di input all'interno del quale poter indicare il nome
 della classe CSS che dovrà poi essere utilizzata per customizzare il
 Widget secondo le proprie specifiche esigenze
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_varianti_parametri_widget_accessibilita_2.bmp](./assets/media/image31.png)
+![](./assets/media/image31.png)
 
 In questo senso la customizzazione del tema dovrà avvenire impostando in
 maniera manuale le varie regole CSS operando, in questo senso ad

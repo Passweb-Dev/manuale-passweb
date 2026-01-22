@@ -28,12 +28,12 @@ Detto ciò, per codificare una nuova specifica di questo tipo è
 necessario accedere alla sezione "**Gestione Specifiche**" del Wizard
 (menu "*Catalogo -- Altri Marketplace*") e cliccare poi sul pulsante
 **Aggiungi Specifica** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_specifica_custom.bmp](./assets/media/image324.png) ) presente nella contestuale barra degli strumenti.
+![](./assets/media/image324.png) ) presente nella contestuale barra degli strumenti.
 
 In questo modo verrà infatti visualizzata la maschera "**Dati
 Specifica**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dati_specifica_google_1.bmp](./assets/media/image327.png)
+![](./assets/media/image327.png)
 
 all'interno della quale poter impostare tutti i parametri di
 configurazione della specifica custom che si intende creare.
@@ -93,7 +93,7 @@ visualizzata solo nel momento in cui sia stata selezionata, per il
 parametro "**Marketplace**", l'opzione Google Merchant o Facebook
 Business Manager
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\json_builder_specifiche_custom.bmp](./assets/media/image328.png)
+![](./assets/media/image328.png)
 
 consente proprio di fare questo, ossia ricreare esattamente la struttura
 del dato da inviare così come richiesto dallo specifico Marketplace e
@@ -106,7 +106,7 @@ struttura dati che si sta realizzando.
 I pulsanti presenti all'interno di questa sezione consentono invece di:
 
 **Aggiungi nodo** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_nodo.bmp](./assets/media/image329.png) ): consente di aggiungere un nuovo nodo
+![](./assets/media/image329.png) ): consente di aggiungere un nuovo nodo
 di tipo radice alla struttura dati che si sta realizzando.
 
 I campi visualizzati dopo aver cliccato su questo pulsante consentono di
@@ -125,7 +125,7 @@ possibile selezionare una delle seguenti opzioni:
 - **Valore Semplice**: da selezionare nel caso in cui la specifica da
   inviare al marketplace dovesse essere gestita con un "dato semplice"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\json_builder_aggiungi_nodo.bmp](./assets/media/image330.png)
+![](./assets/media/image330.png)
 
 > e quindi con una struttura del tipo
 >
@@ -141,7 +141,7 @@ possibile selezionare una delle seguenti opzioni:
   cui la specifica da inviare al marketplace dovesse essere gestita come
   un Array di stringhe / Array di numeri
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\json_builder_array_stringhe.bmp](./assets/media/image331.png)
+![](./assets/media/image331.png)
 
 > e quindi con una struttura del tipo
 >
@@ -156,7 +156,7 @@ possibile selezionare una delle seguenti opzioni:
 - **Oggetto**: da selezionare nel caso in cui la specifica da inviare al
   marketplace dovesse essere gestita come un oggetto
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\json_builder_aggiungi_nodo_oggetto.bmp](./assets/media/image332.png)
+![](./assets/media/image332.png)
 
 > e quindi con una struttura del tipo
 >
@@ -179,10 +179,10 @@ possibile selezionare una delle seguenti opzioni:
 > In questo caso infatti, una volta impostato il campo "**Tipo**"
 > sull'opzione "**Oggetto**" verrà visualizzato il pulsante "**Aggiungi
 > proprietà**" (
-> ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_proprieta.bmp](./assets/media/image333.png) mediante il quale poter aggiungere le
+> ![](./assets/media/image333.png) mediante il quale poter aggiungere le
 > singole proprietà all'oggetto in esame
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\json_builder_figli.bmp](./assets/media/image334.png)
+![](./assets/media/image334.png)
 
 > Nel momento in cui l'esigenza dovesse essere quella di creare la
 > struttura dati di un oggetto "semplice" ogni proprietà dovrà,
@@ -194,7 +194,7 @@ possibile selezionare una delle seguenti opzioni:
 - **Array di oggetti**: da selezionare nel caso in cui la specifica da
   inviare al marketplace dovesse essere gestita come un array di oggetti
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\json_builder_array_oggetti_0.bmp](./assets/media/image335.png)
+![](./assets/media/image335.png)
 
 > e quindi con una struttura del tipo
 >
@@ -231,28 +231,28 @@ possibile selezionare una delle seguenti opzioni:
 > In questo caso, una volta impostato il campo "**Tipo**" sull'opzione
 > "**Array di oggetti**" verrà visualizzato il pulsante "**Aggiungi
 > elemento**" (
-> ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_elemento_1.bmp](./assets/media/image336.png) ) grazie al quale poter aggiungere, in
+> ![](./assets/media/image336.png) ) grazie al quale poter aggiungere, in
 > maniera manuale, i singoli oggetti all'array
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\json_builder_array_oggetti_2.bmp](./assets/media/image337.png)
+![](./assets/media/image337.png)
 
 > I due pulsante "**Aggiungi proprietà**" (
-> ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_proprieta.bmp](./assets/media/image333.png) ) e "**Rimuovi proprietà**" (
-> ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_rimuovi_proprieta.bmp](./assets/media/image338.png) ) consentiranno invece di aggiungere le
+> ![](./assets/media/image333.png) ) e "**Rimuovi proprietà**" (
+> ![](./assets/media/image338.png) ) consentiranno invece di aggiungere le
 > singole proprietà ad ogni oggetto
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\json_builder_array_oggetti.bmp](./assets/media/image339.png)
+![](./assets/media/image339.png)
 
 **Pulisci Struttura** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_pulisci_struttura.bmp](./assets/media/image340.png) ): consente di azzerare la struttura
+![](./assets/media/image340.png) ): consente di azzerare la struttura
 dati che si sta realizzando
 
 **Esporta JSON** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_esporta_json.bmp](./assets/media/image341.png) ): consente di esportare la struttura
+![](./assets/media/image341.png) ): consente di esportare la struttura
 dati in esame all'interno di un file JSON
 
 **Importa JSON da file** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_importa_json.bmp](./assets/media/image342.png) ): consente di creare automaticamente
+![](./assets/media/image342.png) ): consente di creare automaticamente
 una struttura dati più o meno complessa importandola direttamente da un
 apposito file JSON.
 
@@ -276,7 +276,7 @@ In particolare, nel caso di specifiche "semplici", come nel caso di
 Prestashop e Magento, verrà indicato solo il nome della specifica custom
 precedentemente realizzata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\specifiche_custom_2.bmp](./assets/media/image326.png)
+![](./assets/media/image326.png)
 
 Nel caso invece di specifiche "composte" realizzate cioè con strutture
 dati più complesse (es. array di oggetti) troveremo anche l'indicazione
@@ -286,7 +286,7 @@ foglia faccia parte di un array, verrà indicato anche un numerino che
 identifica la posizione (indice) dell'array a cui corrisponde quello
 stesso elemento.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\specifica_custom_composta.bmp](./assets/media/image343.png)
+![](./assets/media/image343.png)
 
 **Ovviamente, in fase di mapping della specifica custom, sarà di
 fondamentale importanza assicurarsi del fatto che il Campo / Attributo
@@ -332,18 +332,18 @@ Osservando l'elenco delle specifiche presenti all'interno della sezione
 "**JSON representation**", possiamo trovare specifiche gestite con un
 "dato semplice" (del tipo "nome:valore"), come ad esempio '**material**'
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\specifiche_google_merchant.bmp](./assets/media/image344.png)
+![](./assets/media/image344.png)
 
 ma anche specifiche gestite con un "dato strutturato" (nel caso
 specifico, un array di oggetti) come ad esempio '**certification**'
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\specifiche_google_merchant_2.bmp](./assets/media/image345.png)
+![](./assets/media/image345.png)
 
 Nel momento in cui l'esigenza dovesse essere quella di gestire la
 specifica 'material' dovremo quindi creare una Specifica Custom del tipo
 di quella rappresentata in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\es_specifica_material.bmp](./assets/media/image346.png)
+![](./assets/media/image346.png)
 
 formata da un solo nodo radice di tipo "Valore Semplice"
 
@@ -407,7 +407,7 @@ quante sono le certificazioni da inviare a Google Merchant.
 In questo caso dovremo quindi creare una Specifica Custom del tipo di
 quella evidenziata in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\es_specifica_certification.bmp](./assets/media/image347.png)
+![](./assets/media/image347.png)
 
 formata da un nodo radice di tipo "Array" e N nodi di secondo livello di
 tipo "Oggetto" con all'interno un elemento di tipo "Valore Semplice" per

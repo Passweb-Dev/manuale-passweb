@@ -2,7 +2,7 @@
 
 
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_step_56.bmp](./assets/media/image35.png)
+![](./assets/media/image35.png)
 
 In quest'ultimo STEP verrà visualizzato un riepilogo di tutte le
 configurazioni effettuate nei passaggi precedenti, e verranno
@@ -18,5 +18,5 @@ quanto inizialmente impostato nello STEP 1 ( pulsante **"Send"**)
 In, alternativa potremo anche decidere di schedulare l'invio ad una
 determinata ora di uno specifico giorno (pulsante "**Schedule"**).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_step_58a.bmp](./assets/media/image36.png)
+![](./assets/media/image36.png)
 

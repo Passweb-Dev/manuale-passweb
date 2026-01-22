@@ -7,7 +7,7 @@ necessari per specificare come dovranno essere gestiti i documenti di
 Reso Merce all\'interno del sito web e come questi stessi documenti
 dovranno poi essere inseriti sul gestionale.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_resi.bmp](./assets/media/image726.png)
+![](./assets/media/image726.png)
 
 In particolare occorrerà indicare un valore per i seguenti parametri:
 
@@ -39,7 +39,7 @@ In particolare occorrerà indicare un valore per i seguenti parametri:
 > presente all'interno della sezione "*Configurazione -- Paese Lingua e
 > Valuta -- Gestione Paese*" del Wizard
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\paese_fiscale.bmp](./assets/media/image727.png)
+![](./assets/media/image727.png)
 
 - **Modalità di Trasporto:** consente di impostare la tipologia del
   trasporto che dovrà essere utilizzata per la gestione del reso merce e
@@ -126,7 +126,7 @@ In particolare occorrerà indicare un valore per i seguenti parametri:
   **nel caso in cui ad effettuare la richiesta di reso merce sia un
   cliente**.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\condizione_agente_mexal.bmp](./assets/media/image601.png)
+![](./assets/media/image601.png)
 
 > Impostando il parametro a **SI**, i campi sopra evidenziati verranno
 > correttamente valorizzati in fase di inserimento del relativo
@@ -145,7 +145,7 @@ In particolare occorrerà indicare un valore per i seguenti parametri:
 > definite nelle specifiche "Condizioni Agente" e/o nelle specifiche
 > particolarità.**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\condizione_agente_mexal_esempio.bmp](./assets/media/image728.png)
+![](./assets/media/image728.png)
 
 **NOTA BENE:** affinché il campo "Cond" possa essere correttamente
 valorizzato nella testata del documento Mexal scatenando quindi la
@@ -216,7 +216,7 @@ Mexal) consente di settare i parametri di configurazione che regolano
 l'integrazione tra i resi effettuati all'interno del sito e il
 documentale Passepartout.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\allegati_reso_10.bmp](./assets/media/image729.png)
+![](./assets/media/image729.png)
 
 Nello specifico dunque il parametro:
 
@@ -234,7 +234,7 @@ Nello specifico dunque il parametro:
 > alla voce "*Servizi -- Personalizzazioni -- Modulistica Documenti
 > Grafica*"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\elenco_moduli_stampa.bmp](./assets/media/image612.png)
+![](./assets/media/image612.png)
 
 > Nel caso in cui il campo in esame venga lasciato vuoto verrà ricercato
 > ed utilizzato, su Mexal, il modulo corrispondente alla sigla del
@@ -271,7 +271,7 @@ Nello specifico dunque il parametro:
   Stampa**" **della maschera "Parametri Modulo" impostato sul valore**
   "**Mai**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\parametri_modulo_stampa.bmp](./assets/media/image613.png)
+![](./assets/media/image613.png)
 
 > Nel caso in cui tale condizione non dovesse essere verificata, in fase
 > di sincronizzazione verrà restituito l'errore **\"Impossibile accedere
@@ -285,7 +285,7 @@ Nello specifico dunque il parametro:
 > utilizzato ("*Servizi -- Configurazioni - Stampanti*") sia impostato
 > sul valore "**Dispositivo collegato al server**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\parametri_stampante.bmp](./assets/media/image615.png)
+![](./assets/media/image615.png)
 
 > **ATTENZIONE!** Per ovvie ragioni la stampa automatica su di una
 > stampante fisica può essere abilitata solo nel caso di installazioni
@@ -299,7 +299,7 @@ relativi alle notifiche mail che potranno essere inviate
 all'amministratore del sito nel momento in cui verranno effettuati, ad
 esempio, dei nuovi documenti di reso merce.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_resi_2.bmp](./assets/media/image730.png)
+![](./assets/media/image730.png)
 
 Nello specifico dunque il parametro:
 

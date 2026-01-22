@@ -5,7 +5,7 @@
 La sezione "**Integrazioni**" accessibile dalla voce "Sito" del menu
 principale
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\wizard_menu_integrazioni.bmp](./assets/media/image566.png)
+![](./assets/media/image566.png)
 
 consente di
 

@@ -3,7 +3,7 @@
 
 
 L'icona "**Sposta**" (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\icona_sposta.bmp](./assets/media/image211.png) ) presente, per ovvie ragioni, solo ed
+![](./assets/media/image211.png) ) presente, per ovvie ragioni, solo ed
 esclusivamente nel R.O.C. consente di attivare la "Modalità di
 Spostamento" del componente selezionato.
 
@@ -11,10 +11,10 @@ E' possibile verificare lo stato di attivazione della modalità di
 spostamento componenti controllando l'indicazione presente nella parte
 destra della barra degli strumenti del Live Editing
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\spostamento_componenti_attivato.bmp](./assets/media/image212.png)
+![](./assets/media/image212.png)
 
 Il pulsante **Termina** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\pulsante_termina_res.bmp](./assets/media/image213.png) ), presente nella parte sinistra della
+![](./assets/media/image213.png) ), presente nella parte sinistra della
 barra degli strumenti del live Editing consente invece di uscire da
 questa particolare modalità di gestione.
 
@@ -37,7 +37,7 @@ quello che sarebbe il risultato ottenuto nel momento in cui dovessimo
 decidere di spostare il componente in una ben precisa posizione della
 pagina web.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\spostamento_2_res.bmp](./assets/media/image214.png)
+![](./assets/media/image214.png)
 
 Per portare a termine l'operazione sarà necessario, per prima cosa,
 portarsi con il mouse sul componente rispetto al quale si desidera
@@ -48,7 +48,7 @@ tutti gli spostamenti del mouse all'interno della pagina web
 **posizionandosi sempre al di sopra del componente attualmente
 selezionato.**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\spostamento_3_res.bmp](./assets/media/image215.png)
+![](./assets/media/image215.png)
 
 Una volta individuata la nuova posizione in cui collocare il componente,
 sarà poi necessario **cliccare con il tasto destro** del mouse in un
@@ -58,7 +58,7 @@ componente da spostare.
 In questo modo verrà infatti visualizzato un menu contestuale con due
 semplici opzioni:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\spostamento_4_res.bmp](./assets/media/image216.png)
+![](./assets/media/image216.png)
 
 - **Sposta :** consente di avviare l'operazione di spostamento
   collocando quindi il componente da spostare in maniera definitiva
@@ -89,7 +89,7 @@ o selezionandolo dall'albero dei componenti, verrà visualizzato il
 R.O.C. di questo Contenitore con la sola icona di accesso ai suoi
 contenuti interni.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\spostamento_7_res.bmp](./assets/media/image217.png)
+![](./assets/media/image217.png)
 
 Cliccando su questa icona avremo quindi accesso ai soli componenti
 interni al Contenitore **mantenendo comunque sempre attiva la modalità
@@ -98,7 +98,7 @@ stessa del caso precedente e potremo quindi spostare il componente
 inizialmente selezionato al di sopra o al di sotto di uno dei componenti
 interni al Contenitore.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\spostamento_8_res.bmp](./assets/media/image218.png)
+![](./assets/media/image218.png)
 
 Analogamente se l'esigenza dovesse essere quella di spostare uno dei
 componenti interni ad un Contenitore al di fuori del contenitore stesso,
@@ -118,7 +118,7 @@ rispetto cui effettuare lo spostamento.
 Editing consente di uscire dalla modalità di spostamento dei
 componenti.**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\spostamento_9_res.bmp](./assets/media/image219.png)
+![](./assets/media/image219.png)
 
 ##### SPOSTAMENTE DEL COMPONENTE MEDIANTE POINT & CLICK
 
@@ -132,13 +132,13 @@ sopra con il tasto sinistro del mouse.
 
 Verrà così visualizzato il R.O.C. del componente all'interno del quale
 compariranno ora i due pulsanti "**Sposta** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\icona_sposta_pc.bmp](./assets/media/image220.png) ) " e "**Termina** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\icona_termina_pc.bmp](./assets/media/image221.png) )" :
+![](./assets/media/image220.png) ) " e "**Termina** (
+![](./assets/media/image221.png) )" :
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\spostamento_12_res.bmp](./assets/media/image222.png)
+![](./assets/media/image222.png)
 
 Cliccando sul pulsante "**Sposta (**
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\icona_sposta_pc.bmp](./assets/media/image220.png)**)**" , prima di avviare la procedura
+![](./assets/media/image220.png)**)**" , prima di avviare la procedura
 l'utente dovrà scegliere la nuova posizione del componente decidendo
 quindi se collocarlo al di sopra (opzione "**Pima del Componente
 ....**") o al di sotto (opzione "**Dopo del Componente ...**") di quello
@@ -238,7 +238,7 @@ effettuati i seguenti controlli:
   spostamento di questo tipo verrà mostrato **un messaggio di errore e
   l'operazione di spostamento non verrà portata a termine**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\spostamento_20_res.bmp](./assets/media/image223.png)
+![](./assets/media/image223.png)
 
 - Nel caso in cui il Contenitore Y fosse distribuito su più pagine, la
   procedura si preoccuperà di verificare che il Componente X, ed
@@ -270,14 +270,14 @@ Contenitore.
 Una volta sezionato un componente presente all'interno dell'albero,
 nella barra degli strumenti verranno infatti visualizzati anche i due
 pulsanti "**Sposta Su** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\icona_sposta_su.bmp](./assets/media/image224.png) ) " e "**Sposta Giù** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\icona_sposta_giu.bmp](./assets/media/image225.png) )"
+![](./assets/media/image224.png) ) " e "**Sposta Giù** (
+![](./assets/media/image225.png) )"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\live_editing_prop_sposta_su_giu_res.bmp](./assets/media/image226.png)
+![](./assets/media/image226.png)
 
 **Sposta Su** (
 ![Videate\\icona_sposta_su.bmp](./assets/media/image224.png) ) **-- Giù** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\icona_sposta_giu.bmp](./assets/media/image225.png) )**:** grazie a queste icone, **presenti
+![](./assets/media/image225.png) )**:** grazie a queste icone, **presenti
 unicamente nella barra strumenti dell'albero dei componenti** è
 possibile spostare il Componente attualmente selezionato verso l'alto o
 il basso posizionandolo quindi prima o dopo i componenti ad esso

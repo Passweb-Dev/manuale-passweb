@@ -24,7 +24,7 @@ dell'App "**Google Authenticator**", la generazione dei codici necessari
 per completare il processo di autenticazione oltre, ovviamente, al campo
 di input in cui poter inserire questi stessi codici
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\profilo_2fa_6.bmp](./assets/media/image10.png)
+![](./assets/media/image10.png)
 
 In sostanza dunque per poter superare l'autenticazione a due fattori
 sarà necessario:
@@ -35,7 +35,7 @@ sarà necessario:
 
 - Cliccare sul pulsante di aggiunta di un nuovo account
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amministrazione_2fa_2.bmp](./assets/media/image11.png)
+![](./assets/media/image11.png)
 
 - Selezionare l'opzione "**Scansiona un codice QR**"
 
@@ -48,7 +48,7 @@ sarà necessario:
   Authenticator** all'interno dell'apposito campo presente, anch'esso,
   nella maschera di accesso Wizard
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\profilo_2fa_7.bmp](./assets/media/image13.png)
+![](./assets/media/image13.png)
 
 > e cliccare quindi sul pulsante di Login
 >
@@ -65,7 +65,7 @@ quindi, durante i successivi accessi al Wizard verrà visualizzato
 solamente il campo di input in cui inserire il codice a 6 cifre
 prelevato dall' App
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\profilo_2fa_2.bmp](./assets/media/image14.png)
+![](./assets/media/image14.png)
 
 Il check "**Non chiedermelo per X giorni su questo browser**" consente
 invece di decidere per quanti giorni potrà essere possibile effettuare
@@ -97,11 +97,11 @@ Google Authenticator appena descritta. Una volta installato sarà quindi
 necessario cliccare sul pulsante di scansione del QR Code presente nella
 pagina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\profilo_2fa_8.bmp](./assets/media/image15.png)
+![](./assets/media/image15.png)
 
 e selezionare quindi il QR Code mostrato a video.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\profilo_2fa_10.bmp](./assets/media/image16.png)
+![](./assets/media/image16.png)
 
 Attivato l'account sarà poi sufficiente richiamare nuovamente il plugin
 per visualizzare il codice a 6 cifre richiesto dall'autenticazione a due

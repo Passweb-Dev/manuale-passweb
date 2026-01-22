@@ -5,7 +5,7 @@
 Le "**Cartelle Template**" sono quelle identificate all'interno
 dell'albero dall'icona colorata di blu e:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_comm_cartelle_template.bmp](./assets/media/image87.png)
+![](./assets/media/image87.png)
 
 - **possono essere create e gestite unicamente** **da utenti di tipo
   COMMERCIALISTA**

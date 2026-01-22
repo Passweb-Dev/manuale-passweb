@@ -35,7 +35,7 @@ impostare, oltre ai parametri classici di configurazione del pagamento,
 anche quelli specifici del gateway attualmente considerato e presenti
 all'interno della sezione "**Parametri Gateway**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_raiffeisen.bmp](./assets/media/image187.png)
+![](./assets/media/image187.png)
 
 Nel caso specifico il parametro:
 

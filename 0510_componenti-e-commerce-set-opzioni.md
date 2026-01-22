@@ -4,7 +4,7 @@
 
 Il Componente **"Set Opzioni"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_set_opzioni_res.bmp](./assets/media/image648.png)
+![](./assets/media/image648.png)
 
 può essere inserito unicamente all'interno dei seguenti componenti
 Ecommerce:
@@ -62,7 +62,7 @@ Rilasciando il Componente nella posizione desiderata all'interno della
 pagina web, verrà visualizzata **la sua maschera di gestione e
 configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_set_opzioni_configurazione.bmp](./assets/media/image649.png)
+![](./assets/media/image649.png)
 
 suddivisa in varie sezioni.
 
@@ -218,7 +218,7 @@ vicino alla relativa label, l'eventuale incremento di prezzo che la
 selezione di quella determinata opzione comporterebbe (incremento questo
 definito direttamente in fase di configurazione della singola opzione).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\custom_option_prezzi.bmp](./assets/media/image651.png)
+![](./assets/media/image651.png)
 
 **In conseguenza di ciò ogni qualvolta dovesse essere valorizzata una
 delle opzioni di personalizzazione presenti all'interno del componente,
@@ -247,7 +247,7 @@ Novità", "Popolarità Prodotto" ecc... comparirà il solo pulsante di
 "Aggiungi in Carrello" senza la possibilità quindi di indicare l'esatta
 quantità dell'articolo da acquistare.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\custom_option_obbligatorie.bmp](./assets/media/image652.png)
+![](./assets/media/image652.png)
 
 In queste condizioni, cliccando sul pulsante di aggiunta in carrello
 l'utente verrà automaticamente indirizzato sulla relativa pagina
@@ -266,7 +266,7 @@ All'interno del carrello verranno visualizzati, in corrispondenza del
 componente "Titolo", tutti i valori selezionati per le varie opzioni di
 personalizzazione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\componente_set_opzioni_sito2.bmp](./assets/media/image653.png)
+![](./assets/media/image653.png)
 
 Nel caso in cui tra i valori selezionati dovessero essere presenti anche
 delle opzioni di tipo File, cliccando sul relativo valore sarà possibile
@@ -323,7 +323,7 @@ fossero, i seguenti correttivi:
   "Valore Massimo" attualmente impostati per queste stesse opzioni,
   verrà visualizzato in Carrello un apposito messaggio di errore
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\componente_set_opzioni_sito3.bmp](./assets/media/image654.png)
+![](./assets/media/image654.png)
 
 In queste condizioni assieme al messaggio di errore verrà visualizzato
 anche un pulsante "**Configura**" grazie al quale poter risolvere,
@@ -352,7 +352,7 @@ personalizzazione dovessero essere riscontrati nella fase di passaggio
 dal Carrello al Checkout verrà visualizzato un messaggio di "Errata
 configurazione articolo"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\componente_set_opzioni_sito5.bmp](./assets/media/image656.png)
+![](./assets/media/image656.png)
 
 e non si potrà procedere con l'ordine fintanto che non siano state
 impostate correttamente tutte le opzioni di personalizzazione richieste.
@@ -409,7 +409,7 @@ strutturati e campionari.
 > maschera "Dati Articolo", verrà visualizzato un apposito messaggio di
 > errore.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\set_opzioni_campionario_errore.bmp](./assets/media/image657.png)
+![](./assets/media/image657.png)
 
 - Al contrario di quanto avviene sul Campionario è invece perfettamente
   possibile associare Set di Opzioni ai suoi componenti. In questo caso

@@ -8,7 +8,7 @@ valore **"Installazione Locale"** in maniera tale da poter visualizzare
 tutti i parametri necessari per realizzare l'integrazione
 sito-gestionale in questa specifica configurazione di prodotto.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\parametri_conf_Horeca_locale.bmp](./assets/media/image110.png)
+![](./assets/media/image110.png)
 
 In queste condizioni, ovviamente, l'identificazione della specifica
 installazione gestionale con cui il sito dovrà colloquiare non potrà

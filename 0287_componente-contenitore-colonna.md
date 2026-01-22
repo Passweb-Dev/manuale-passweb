@@ -19,5 +19,5 @@ queste righe in un massimo di 12 colonne**
 potrà essere inserito solo ed esclusivamente all'interno di un
 Componente "Contenitore Griglia**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_colonna.bmp](./assets/media/image105.png)
+![](./assets/media/image105.png)
 

@@ -8,7 +8,7 @@ esempio Catalogo E-commerce, Risultati Ricerca, Offerte/Novità,
 Abbinati, Campionario ecc... una specifica immagine tra quelle associate
 ai vari articoli presenti all'interno del sito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_immagine_rappresentativa.bmp](./assets/media/image461.png)
+![](./assets/media/image461.png)
 
 In particolare:
 
@@ -35,14 +35,14 @@ In particolare:
 > al relativo capitolo ("Associazione delle immagini e delle schede
 > tecniche articolo all'interno del gestionale") di questo manuale.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\componente_ecommerce_immagine2.bmp](./assets/media/image462.png)
+![](./assets/media/image462.png)
 
 - **Nel caso di siti Ecommerce collegati ad uno dei gestionali
   Ho.Re.Ca.** il componente **Immagine Rappresentativa** verrà
   sostituito con l'immagine caricata per il singolo articolo all'interno
   del campo "**Foto**" presente nell'Anagrafica Articoli del gestionale
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\horeca_immagine_catalogo.bmp](./assets/media/image463.png)
+![](./assets/media/image463.png)
 
 - **Nel caso in cui NON sia stata associata sul gestionale (Mexal o
   Hore.Ca.) nessuna immagine all'articolo, ne attraverso la sua
@@ -52,7 +52,7 @@ In particolare:
   presente all'interno della sezione "*Catalogo - Configurazione
   Parametri Catalogo-- Parametri Immagini*" del Wizard.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_immagine3.bmp](./assets/media/image464.png)
+![](./assets/media/image464.png)
 
 **ATTENZIONE!** Volendo è anche possibile gestire le immagini articolo
 direttamente su Passweb caricandole all'interno della corrispondente
@@ -67,7 +67,7 @@ Articoli -- Articoli"* di questo manuale.
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_immagine_configurazione_res.bmp](./assets/media/image465.png)
+![](./assets/media/image465.png)
 
 suddivisa in varie sezioni.
 
@@ -117,7 +117,7 @@ possibile impostare un valore per i seguenti parametri:
     a tendina ("**Testo Alternativo Campo da Utilizzare**") una delle
     due opzioni **Titolo** o **Codice.**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_immagine_configurazione2_res.bmp](./assets/media/image466.png)
+![](./assets/media/image466.png)
 
 > Nel primo caso gli attributi **title** e **alt** dell'immagine
 > articolo verranno valorizzati con la stessa informazione utilizzata

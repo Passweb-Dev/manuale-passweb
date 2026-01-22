@@ -6,7 +6,7 @@ Il Componente **"Risultati Ricerca sul Sito"** consente di visualizzare
 i risultati di una ricerca di tipo testuale effettuata mediante un
 componente "Ricerca sul Sito" opportunamente configurato.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_risultati_ricerca_sito.bmp](./assets/media/image206.png)
+![](./assets/media/image206.png)
 
 **Questo componente potrà essere inserito solo ed esclusivamente
 all'interno delle pagine generiche (pagine bianche) ma dovrà, in ogni

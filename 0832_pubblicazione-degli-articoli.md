@@ -22,5 +22,5 @@ valorizzare adeguatamente il campo "Numero Oggetto" (per maggiori
 informazioni in merito si vedano anche i precedenti capitoli di questo
 manuale)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_articolo_lista_ebay.bmp](./assets/media/image164.png)
+![](./assets/media/image164.png)
 

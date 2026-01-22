@@ -20,7 +20,7 @@ diversi prodotti**:
 - **un prodotto singolo** con codice (Riferimento) / nome prelevati dai
   relativi dati presenti all'interno del gestionale
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\magento_articoli_confezione_1.bmp](./assets/media/image758.png)
+![](./assets/media/image758.png)
 
 > **ATTENZIONE!** A default il prodotto singolo sarà impostato in
 > maniera tale da non essere visibile individualmente
@@ -34,7 +34,7 @@ diversi prodotti**:
   "**codiceGestionale-pck**", nome del tipo "**titoloGestionale --
   Pack**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\magento_articoli_confezione_2.bmp](./assets/media/image759.png)
+![](./assets/media/image759.png)
 
 > Ovviamente le immagini utilizzate per questo prodotto saranno
 > esattamente le stesse impostate, eventualmente, sul gestionale per il

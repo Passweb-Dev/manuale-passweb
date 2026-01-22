@@ -5,20 +5,20 @@
 Il Menu "**Editing**" attivabile cliccando sulla corrispondente icona
 presente nella "Barra degli Strumenti del Live Editing"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_editing_barra_strumenti.bmp](./assets/media/image66.png)
+![](./assets/media/image66.png)
 
 o, in alternativa, sulla relativa voce del menu principale
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_principale_live_editing.bmp](./assets/media/image67.png) ) consente di accedere a tutte le
+(![](./assets/media/image67.png) ) consente di accedere a tutte le
 funzionalità di editing delle pagine del proprio sito web.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\barra_strumenti_menu_editing_2.bmp](./assets/media/image11.png)
+![](./assets/media/image11.png)
 
 Nello specifico il pulsante.
 
 **Gestione Pagine**: consente di accedere al menu di gestione delle
 pagine del sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_pagine.bmp](./assets/media/image68.png)
+![](./assets/media/image68.png)
 
 All'interno del pulsante è visualizzato anche il nome e l'icona
 rappresentativa della pagina attualmente visualizzata all'interno del
@@ -27,7 +27,7 @@ live Editing
 **Gestione Protezione**: attivabile anche cliccando sulla corrispondente
 icona presente nella "Barra degli Strumenti del Live Editing"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_protezione_barra_strumenti.bmp](./assets/media/image69.png)
+![](./assets/media/image69.png)
 
 consente di accedere alla maschera di gestione delle Protezioni dei vari
 componenti presenti all'interno del sito (protezioni sial lato Wizard
@@ -41,7 +41,7 @@ Protezione*")
 **Gestione Varianti** : consente di accedere al menu di gestione delle
 Varianti Sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_varianti_res.bmp](./assets/media/image70.png)
+![](./assets/media/image70.png)
 
 All'interno del pulsante è visualizzato anche il codice e l'icona
 rappresentativa della Variante Sito nella quale si sta effettivamente
@@ -50,7 +50,7 @@ operando.
 **Temi**: attivabile anche cliccando sulla corrispondente icona presente
 nella "Barra degli Strumenti del Live Editing"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_temi_barra_strumenti.bmp](./assets/media/image71.png)
+![](./assets/media/image71.png)
 
 consente di visualizzare e/o modificare il Tema attualmente applicato al
 sito oltre che di accedere alla relativa sezione di gestione dei Temi.
@@ -72,7 +72,7 @@ sito Passweb si rimanda alla corrispondente sezione di questo manuale
 **Gestione Layout**: consente di accedere al menu di gestione dei Layout
 applicabili alle varie pagine del sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_layout_res.bmp](./assets/media/image19.png)
+![](./assets/media/image19.png)
 
 All'interno del pulsante è visualizzato anche il codice e l'icona
 rappresentativa della Layout associato alla pagina in cui si sta
@@ -85,7 +85,7 @@ Cliccando su questo pulsante verrà infatti visualizzato, immediatamente
 a fianco del menu di Editing, un ulteriore box contenente una select box
 con l'elenco delle lingue attivate per il proprio sito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_editing_cambio_lingua.bmp](./assets/media/image72.png)
+![](./assets/media/image72.png)
 
 Grazie a questo pulsante sarà quindi possibile, ad esempio, caricare
 all'interno del Wizard la versione del sito in lingua inglese
@@ -93,7 +93,7 @@ all'interno del Wizard la versione del sito in lingua inglese
 **Classi Responsive**: attivabile anche cliccando sulla corrispondente
 icona presente nella "Barra degli Strumenti del Live Editing"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_classi_responsive_barra_strumenti.bmp](./assets/media/image73.png)
+![](./assets/media/image73.png)
 
 consente di visualizzare all'interno del Wizard, **indipendentemente da
 quella che è l'attuale dimensione della finestra del browser**, quei
@@ -127,7 +127,7 @@ l'elemento che si intende editare e cliccare sull'icona del R.O.C
 (Riquadro Opzioni Componente) corrispondente all'azione che si vuol
 eseguire (Configurazione del componente, Editing Grafico ...)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modalita_modifica_componenti.bmp](./assets/media/image74.png)
+![](./assets/media/image74.png)
 
 Per maggiori informazioni relativamente alla gestione dei componenti
 Passweb si veda anche il corrispondente capitolo di questo manuale
@@ -143,7 +143,7 @@ nuovi componenti attivando la libreria di componenti all'interno della
 quale poter selezionare lo specifico elemento da inserire nella pagina
 web
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\libreria_componenti_res.bmp](./assets/media/image75.png)
+![](./assets/media/image75.png)
 
 Per maggiori informazioni relativamente alla modalità di inserimento
 nuovi componenti all'interno della pagina web si rimanda al relativo
@@ -168,7 +168,7 @@ questo manuale
 **Passweb App**: consente di accedere al menu di configurazione dell'app
 mobile collegata al proprio sito Passweb
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\passwebapp\_\_menu_1.bmp](./assets/media/image76.png)
+![](./assets/media/image76.png)
 
 **ATTENZIONE! Per poter accedere al menu di configurazione dell'app
 mobile è necessario aver attivato prima il relativo modulo**
@@ -191,7 +191,7 @@ valori:
 
 - **Sia Sito che App**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componenti_visibilita_app.bmp](./assets/media/image29.png)
+![](./assets/media/image29.png)
 
 **Mostra Componenti solo app**: disponibile solo nel caso in cui sia
 stato attivato il modulo di gestione dell'App mobile e la pagina in
@@ -234,33 +234,33 @@ App*")
 I piccoli pulsanti presenti invece nella parte alta del menu di Editing
 consentono rispettivamente di:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\barra_strumenti_me.bmp](./assets/media/image77.png)
+![](./assets/media/image77.png)
 
 **Chiudi**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\chiudi_me.bmp](./assets/media/image78.png) ): consente di chiudere il menu di
+(![](./assets/media/image78.png) ): consente di chiudere il menu di
 Editing
 
 **Opacità**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\opacita_me.bmp](./assets/media/image79.png) ): consente di abbassare l'opacità del
+(![](./assets/media/image79.png) ): consente di abbassare l'opacità del
 menu di editing lasciando quindi intravedere gli elementi della pagina
 web posizionati al di sotto di esso
 
 **Manuale**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\manuale_me.bmp](./assets/media/image80.png) ): consente di accedere alla
+(![](./assets/media/image80.png) ): consente di accedere alla
 manualistica on line disponibile all'interno dell'apposita sezione del
 portale di formazione Passepartout
 ([www.edupass.it](http://www.edupass.it))
 
 **Profilo**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\profilo_me.bmp](./assets/media/image81.png) ): consente di accedere ai parametri di
+(![](./assets/media/image81.png) ): consente di accedere ai parametri di
 configurazione relativi al proprio account utente
 
 **Logout**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\logout_me.bmp](./assets/media/image82.png) ): consente di effettuare il logout
+(![](./assets/media/image82.png) ): consente di effettuare il logout
 dall'ambiente di sviluppo del sito
 
 **Visualizzazione Desktop**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\visualizzazione_desktop.bmp](./assets/media/image83.png) ): consente di attivare la
+(![](./assets/media/image83.png) ): consente di attivare la
 visualizzazione del sito in modalità Desktop dando quindi l'idea di come
 verrà effettivamente visualizzata la pagina web sul browser di un
 normale pc.
@@ -273,29 +273,29 @@ effettuare operazioni di aggiunta componenti e/o editing di componenti
 presenti nella pagina.
 
 **Visualizzazione Tablet**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\visualizzazione_tablet.bmp](./assets/media/image84.png) ): consente di attivare la
+(![](./assets/media/image84.png) ): consente di attivare la
 visualizzazione del sito in modalità Tablet dando quindi l'idea di come
 verrà effettivamente visualizzata la pagina web all'interno di questo
 tipo di dispositivi.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\visualizzazione_tablet_2.bmp](./assets/media/image85.png)
+![](./assets/media/image85.png)
 
 **ATTENZIONE!** In questo tipo di visualizzazione non è possibile
 effettuare operazioni di editing della pagina web.
 
 **Visualizzazione Smartphone**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\visualizzazione_smartphone.bmp](./assets/media/image86.png) ): ): consente di attivare la
+(![](./assets/media/image86.png) ): ): consente di attivare la
 visualizzazione del sito in modalità Smartphone dando quindi l'idea di
 come verrà effettivamente visualizzata la pagina web all'interno di
 questo tipo di dispositivi
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\visualizzazione_smartphone_2.bmp](./assets/media/image87.png)
+![](./assets/media/image87.png)
 
 **ATTENZIONE!** In questo tipo di visualizzazione non è possibile
 effettuare operazioni di editing della pagina web.
 
 **Visualizzazione Personalizzata**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\visualizzazione_presonalizzata.bmp](./assets/media/image88.png) ):consente impostare una specifica
+(![](./assets/media/image88.png) ):consente impostare una specifica
 dimensione dello schermo in maniera tale da potersi rendere conto di
 come verrà effettivamente visualizzata la pagina web all'interno di un
 dispositivo caratterizzato esattamente dalle dimensioni indicate.

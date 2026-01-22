@@ -14,33 +14,33 @@ infatti visualizzata la sezione "**Opzioni**" all'interno della quale
 poter definire e gestire i singoli campi che andranno a comporre il Set
 in esame
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\set_opzioni_ordine_3.bmp](./assets/media/image698.png)
+![](./assets/media/image698.png)
 
 I pulsanti presenti nella contestuale barra degli strumenti consentono
 rispettivamente di:
 
 **Modifica**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica.bmp](./assets/media/image675.png) ): consente di modificare l'opzione di
+(![](./assets/media/image675.png) ): consente di modificare l'opzione di
 personalizzazione attualmente selezionata in elenco
 
 **Elimina**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina.bmp](./assets/media/image592.png) ): consente di eliminare l'opzione di
+(![](./assets/media/image592.png) ): consente di eliminare l'opzione di
 personalizzazione attualmente selezionata in elenco
 
 **Giù / Su**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_giu_su.bmp](./assets/media/image699.png)): consentono di modificare (spostandola verso il
+(![](./assets/media/image699.png)): consentono di modificare (spostandola verso il
 basso o verso l'alto) la posizione assunta dall'opzione di
 personalizzazione all'interno del form che verrà poi visualizzato in
 fase di checkout
 
 **Nuovo**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuovo.bmp](./assets/media/image676.png) ): consente di creare una nuova opzione
+(![](./assets/media/image676.png) ): consente di creare una nuova opzione
 di personalizzazione.
 
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 "**Opzione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\opzioni_ordine_nuova.bmp](./assets/media/image700.png)
+![](./assets/media/image700.png)
 
 all'interno della quale poter impostare un valore per i seguenti
 parametri:
@@ -164,13 +164,13 @@ visualizzate tutte le opzioni dello stesso set ad esclusione di quelle
 per cui il parametro "**Tipo di Campo**" è stato impostato sul valore
 "**Date**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\opzioni_set_ordine_visibilita.bmp](./assets/media/image701.png)
+![](./assets/media/image701.png)
 
 Una volta selezionata l'opzione desiderata sarà poi possibile impostare
 il filtro da soddisfare affinché l'opzione di personalizzazione in esame
 possa effettivamente essere visualizzata sul front end del sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\opzioni_set_ordine_visibilita_2.bmp](./assets/media/image702.png)
+![](./assets/media/image702.png)
 
 Nell'esempio rappresentato in figura, l'opzione in esame verrà
 effettivamente visualizzata e proposta sul front end agli utenti del
@@ -230,7 +230,7 @@ front end del sito all'interno del relativo controllo.
 necessario aver effettuato almeno un salvataggio dell'opzione di
 personalizzazione in esame.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\opzione_personalizzazione_ordine_gestione_valori.bmp](./assets/media/image703.png)
+![](./assets/media/image703.png)
 
 Nella parte sinistra della sezione "Gestione Valori" è riportato
 l'elenco delle possibili opzioni di scelta che verranno poi visualizzate
@@ -240,11 +240,11 @@ I pulsanti presenti nella contestuale barra degli strumenti consentono
 rispettivamente di:
 
 **Elimina**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina.bmp](./assets/media/image704.png) ): consente di eliminare l'opzione
+(![](./assets/media/image704.png) ): consente di eliminare l'opzione
 attualmente selezionata in elenco
 
 **Modifica**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_edita.bmp](./assets/media/image705.png) ): consente di modificare l'opzione attualmente
+(![](./assets/media/image705.png) ): consente di modificare l'opzione attualmente
 selezionata in elenco
 
 **Sposta Su / Giù**
@@ -255,7 +255,7 @@ riordinare le opzioni presenti in elenco secondo le specifiche esigenze
 del caso
 
 **Aggiungi**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_aggiungi.bmp](./assets/media/image584.png) ): consente di aggiungere una nuova
+(![](./assets/media/image584.png) ): consente di aggiungere una nuova
 opzione di selezione
 
 Per ciascuna delle possibili opzioni di scelta sarà necessario indicare:

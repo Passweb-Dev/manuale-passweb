@@ -8,17 +8,17 @@ pagine del sito comparirà, nella posizione indicata in fase di
 configurazione (parametro "**Visualizzazione Pulsante Widget**"), un
 pulsante del tipo di quello evidenziato in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\widget_accessibilita_pulsante_apertura.bmp](./assets/media/image32.png)
+![](./assets/media/image32.png)
 
 mediante il quale poterlo richiamare
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\widget_accessibilita_front_end.bmp](./assets/media/image33.png)
+![](./assets/media/image33.png)
 
 All'interno del Widget saranno poi disponibili le seguenti funzionalità:
 
 - **Lingua:** consente di modificare la lingua del sito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\widget_accessibilita_lingua.bmp](./assets/media/image34.png)
+![](./assets/media/image34.png)
 
 > Le lingue disponibili saranno, ovviamente, le stesse lingue
 > attualmente attive sul front end del sito.
@@ -32,13 +32,13 @@ All'interno del Widget saranno poi disponibili le seguenti funzionalità:
 > "**Testi/Messaggi del Sito -- Testi Generici**" del Wizard
 > selezionando, nello specifico, l'elemento "**Widget Accessibilità**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\widget_accessibilita_testi.bmp](./assets/media/image35.png)
+![](./assets/media/image35.png)
 
 - **Selezione Profilo:** consente di attivare automaticamente un'
   insieme di funzionalità specifiche per la tipologia di disabilità
   selezionata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\widget_accessibilita_profili.bmp](./assets/media/image36.png)
+![](./assets/media/image36.png)
 
 > Nello specifico il profilo:
 >
@@ -93,7 +93,7 @@ All'interno del Widget saranno poi disponibili le seguenti funzionalità:
 I pulsanti presenti all'interno della sezione "**Regolazione dei
 contenuti**" consentiranno invece di:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\widget_accessibilita_regolazione_contenuti.bmp](./assets/media/image37.png)
+![](./assets/media/image37.png)
 
 - **Dimensione del Font**: consente di aumentare o diminuire la
   dimensione del font (font-size) con uno step di 1px. Il pulsante
@@ -125,7 +125,7 @@ contenuti**" consentiranno invece di:
 
 La sezione "**Regolazione del colore**" consente di impostare:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\widget_accessibilita_regolazione_colore.bmp](./assets/media/image38.png)
+![](./assets/media/image38.png)
 
 - **Contrasto Elevato**: imposta un contrasto al 135%.
 
@@ -152,7 +152,7 @@ La sezione "**Regolazione del colore**" consente di impostare:
 I pulsanti presenti all'interno della sezione "**Strumenti**" consentono
 infine di:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\widget_accessibilita_strumenti.bmp](./assets/media/image39.png)
+![](./assets/media/image39.png)
 
 - **Nascondi Immagini**: nasconde tutti i tag "img" impostando per essi
   la proprietà "visibility:hidden".

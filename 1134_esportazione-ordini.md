@@ -132,7 +132,7 @@ seguenti opzioni**:**
 che dovranno poi essere inseriti all'interno dei vari file di
 esportazione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\esportazione_ordini_filtri.bmp](./assets/media/image684.png)
+![](./assets/media/image684.png)
 
 E' possibile impostare un filtro sulla base dei seguenti campi:
 

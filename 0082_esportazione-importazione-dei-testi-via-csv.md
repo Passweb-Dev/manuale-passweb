@@ -18,7 +18,7 @@ Wizard, selezionare la tipologia di testi su cui si desidera operare
 "**Lingue**") e il carattere da utilizzare come separatore dei campi in
 fase di creazione del file csv (parametro "**Separatore**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\valori_in_lingua_esporta.bmp](./assets/media/image431.png)
+![](./assets/media/image431.png)
 
 A questo punto, cliccando sul pulsante "**Salva**" presente nella parte
 bassa della maschera verrà avviata la procedura di creazione ed
@@ -53,7 +53,7 @@ essere utilizzati all'interno del sito sarà necessario:
 - selezionare il file da importare utilizzando i controlli presenti in
   corrispondenza del parametro File
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\valori_in_lingua_importa.bmp](./assets/media/image432.png)
+![](./assets/media/image432.png)
 
 Cliccando quindi sul pulsante "**Salva**" presente nella parte bassa
 della pagina verrà avviata la procedura di importazione

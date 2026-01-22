@@ -5,7 +5,7 @@
 All'interno di questa sezione è possibile visualizzare ed eventualmente
 modificare (a livello di attributi) il dettaglio del documento in esame.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\wizard_dettaglio_ordine.bmp](./assets/media/image670.png)
+![](./assets/media/image670.png)
 
 **ATTENZIONE!** L'accesso in modifica o in sola visualizzazione alla
 maschera di Dettaglio Ordine **e la conseguente possibilità o meno di
@@ -51,7 +51,7 @@ esclusivamente all'interno del sito**) sarà sufficiente entrare in
 visualizzazione del dettaglio dell'ordine e cliccare sul relativo
 collegamento presente nella testata del documento in oggetto
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matrice_ordine_passweb.bmp](./assets/media/image671.png)
+![](./assets/media/image671.png)
 
 **ATTENZIONE! Le matrici Passweb non vanno confuse con i documenti di
 tipo matrice gestiti all'interno di Mexal**

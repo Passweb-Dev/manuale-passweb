@@ -10,7 +10,7 @@ Business Platform, un servizio fornito da Meta per consentire alle
 aziende di comunicare con i propri utenti in modo scalabile, sicuro e
 conforme alle normative sulla privacy e sull'antispam.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\wa_smart_business_1.bmp](./assets/media/image1.png)
+![](./assets/media/image1.png)
 
 Prima di passare ad analizzare nel dettaglio come poter integrare questa
 piattaforma all'interno del proprio sito Passweb e cosa sarà

@@ -81,7 +81,7 @@ nostro diretto concorrente.**
 Vediamo quindi un po' più nel dettaglio quelli che sono gli elementi
 principali di una scheda prodotto Amazon.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\amazon_49.bmp](./assets/media/image290.png)
+![](./assets/media/image290.png)
 
 **1 -- Buy Box**
 
@@ -108,7 +108,7 @@ La \"**Buy Box**\" rappresenta dunque il riquadro della pagina prodotto
 in cui il cliente inizia il processo di acquisto aggiungendo un articolo
 al carrello.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\amazon_47.bmp](./assets/media/image291.png)
+![](./assets/media/image291.png)
 
 Una funzione chiave della piattaforma Amazon **consiste nella
 possibilità per un prodotto di essere venduto da più venditori**. Tutti
@@ -134,24 +134,24 @@ metodi:
 - Cliccando sul pulsante \"**Aggiungi al carrello**\" posto nella Buy
   Box.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\amazon_48.bmp](./assets/media/image292.png)
+![](./assets/media/image292.png)
 
 - Scegliendo una delle offerte nel riquadro \"**Confronta Offerte su
   Amazon**\" e successivamente cliccando sul pulsante \"**Aggiungi al
   carrello**\" posto accanto al nome del venditore da cui ha scelto di
   acquistare.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\amazon_50.bmp](./assets/media/image293.png)
+![](./assets/media/image293.png)
 
 - Cliccando sul link \"**Nuovi e usati**\"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\amazon_51.bmp](./assets/media/image294.png)
+![](./assets/media/image294.png)
 
 > sfogliando tutte le offerte disponibili per quell\'articolo e
 > successivamente cliccando sul pulsante \"**Aggiungi al carrello**\"
 > posto accanto al prodotto che desidera acquistare.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\amazon_52.bmp](./assets/media/image295.png)
+![](./assets/media/image295.png)
 
 **ATTENZIONE**: Nel caso in cui non siano presenti offerte di prodotti
 usati, il suddetto link conterrà solo la dicitura \"Nuovi\".

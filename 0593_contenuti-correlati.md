@@ -4,7 +4,7 @@
 
 Il Componente **"Contenuti Correlati"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_contenuti_correlati_res.bmp](./assets/media/image15.png)
+![](./assets/media/image15.png)
 
 permette di visualizzare una lista dei contenuti correlati ad una
 specifica notizia, sulla base delle liste di correlazione definite nella

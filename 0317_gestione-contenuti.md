@@ -5,25 +5,25 @@
 La sezione "**Gestione Contenuti**" consente di definire e gestire i
 contenuti di ogni singolo Pannello scorrevole.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componenti-accordion-contenuti_res.bmp](./assets/media/image186.png)
+![](./assets/media/image186.png)
 
 I pulsanti presenti nella contestuale barra degli strumenti consentono
 rispettivamente di:
 
 - **Aggiungi pannello** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_aggiungi.bmp](./assets/media/image47.png) ): consente di aggiungere una nuova
+  ![](./assets/media/image47.png) ): consente di aggiungere una nuova
   pannello al componente in oggetto.
 
 - **Copia pannello** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_copia.bmp](./assets/media/image72.png) ): consente di copiare il pannello
+  ![](./assets/media/image72.png) ): consente di copiare il pannello
   attualmente selezionato in elenco.
 
 - **Elimina pannello**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina.bmp](./assets/media/image16.png) ): consente di eliminare il pannello
+  (![](./assets/media/image16.png) ): consente di eliminare il pannello
   attualmente selezionata in elenco.
 
 - **Sposta su / giù**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icone_su_giu.bmp](./assets/media/image17.png) ): consente di riordinare tra loro i
+  (![](./assets/media/image17.png) ): consente di riordinare tra loro i
   vari pannelli presenti all'interno del componente spostando verso
   l'alto o il basso il pannello attualmente selezionata in elenco.
 
@@ -45,7 +45,7 @@ un valore per le seguenti proprietà:
   pannello agendo **direttamente da questa stessa maschera** e
   utilizzando per questo il corrispondente editor HTML**.**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\slider_funzionamento_contenuto_res.bmp](./assets/media/image180.png)
+![](./assets/media/image180.png)
 
 > Per maggiori informazioni relativamente all'utilizzo di questo editor
 > HTML si veda anche il relativo capitolo ("Live Editing per Varianti
@@ -76,7 +76,7 @@ un valore per le seguenti proprietà:
   propri Componenti Passweb (Paragrafo, Immagine con Link, Rss, Menu,
   Contenuti su Tab ecc...)**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\contenuti_tabs_contenitore_res.bmp](./assets/media/image181.png)
+![](./assets/media/image181.png)
 
 > **L'inserimento di questi componenti non potrà però avvenire
 > direttamente da questa maschera di configurazione, come nel caso
@@ -114,7 +114,7 @@ un valore per le seguenti proprietà:
 > immagine di sfondo agendo in questo senso dal relativo parametro
 > **"Immagine di Sfondo Sezione"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\contenuti_tabs_contenitore2_res.bmp](./assets/media/image182.png)
+![](./assets/media/image182.png)
 
 - **Visibile da:** consente di impostare la visibilità del pannello in
   oggetto a livello di gruppi utente, potendo quindi decidere quali

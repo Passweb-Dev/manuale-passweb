@@ -13,7 +13,7 @@ pubblicazione sarà sufficiente accedere al Merchant Center e portarsi
 all'interno della sezione "**Prodotti -- Tutti i prodotti**" cliccando
 sulla corrispondente voce di menu
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_23.bmp](./assets/media/image515.png)
+![](./assets/media/image515.png)
 
 All'interno di questa sezione potremo infatti trovare l'elenco completo
 di tutti i prodotti attualmente gestiti sul Merchant Center e, tra
@@ -24,15 +24,15 @@ accedere alla sua scheda dove troveremo in dettaglio tutte le
 informazioni prelevate, in relazione all'articolo stesso, direttamente
 da nostro sito Ecommerce (immagini, prezzi, attributi ecc...)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_25.bmp](./assets/media/image516.png)
+![](./assets/media/image516.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_26.bmp](./assets/media/image517.png)
+![](./assets/media/image517.png)
 
 Sempre all'interno di questa sezione potremo trovare anche maggiori
 informazioni relativamente ad eventuali problemi legati alla
 pubblicazione dello specifico articolo (pannello "**Stato Articolo**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_27.bmp](./assets/media/image518.png)
+![](./assets/media/image518.png)
 
 In questo senso è bene chiarire alcune cose di fondamentale importanza.
 
@@ -99,7 +99,7 @@ pubblicato sul Merchant Center dovesse essere maggiore di 0 (non importa
 il valore esatto), in corrispondenza del campo "**disponibilità**"
 troveremo il valore "**disponibile**" (in stock)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_28.bmp](./assets/media/image519.png)
+![](./assets/media/image519.png)
 
 Al contrario nel momento in cui la quantità di pubblicazione dovesse
 essere minore o uguale a 0 in corrispondenza dello stesso campo

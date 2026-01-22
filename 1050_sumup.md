@@ -86,7 +86,7 @@ impostare, oltre ai parametri classici di configurazione del pagamento,
 anche quelli specifici del gateway attualmente considerato e presenti
 all'interno della sezione "**Parametri Gateway**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_sumup.bmp](./assets/media/image229.png)
+![](./assets/media/image229.png)
 
 Nello specifico all'interno di questa sezione sarà possibile indicare un
 valore per i seguenti parametri:
@@ -121,7 +121,7 @@ l'utente verrà reindirizzato su di una specifica pagina del sito
 Ecommerce in cui troverà il widget fornito da SumUp per poter completare
 il pagamento
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sumup_9.bmp](./assets/media/image230.png)
+![](./assets/media/image230.png)
 
 **ATTENZIONE!** La pagina utilizzata per contenere il widget di SumUp e
 per completare il pagamento è una pagina cablata che non può essere
@@ -154,7 +154,7 @@ Nel secondo caso (conferma della transazione) dopo aver inserito i dati
 richiesti, sarà sufficiente cliccare sul pulsante "**Paga**" per potare
 a termine l'rodine.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sumup_10.bmp](./assets/media/image231.png)
+![](./assets/media/image231.png)
 
 Una volta elaborato il pagamento e completata la transazione l'utente
 sarà ricondotto automaticamente al sito Ecommerce e l'ordine, se

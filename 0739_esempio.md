@@ -19,7 +19,7 @@ Una volta effettuata la registrazione al servizio
 poter configurare correttamente l'integrazione tra questo portale e
 Passweb
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\portali_esempio_utilizzo_1.bmp](./assets/media/image294.png)
+![](./assets/media/image294.png)
 
 Nello specifico all'interno del campo "**API Read Access Token**" è
 indicato l'Access Token da utilizzare nel caso in cui si dovesse

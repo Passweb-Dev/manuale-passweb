@@ -18,7 +18,7 @@ l'acquisto di determinati articoli) ecc...
 Effettuando l'accesso a questa sezione del Wizard verrà quindi
 visualizzata la maschera **"Lista delle Gift Card"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_giftcard.bmp](./assets/media/image298.png)
+![](./assets/media/image298.png)
 
 contenente l'elenco di tutte le Gift Card attualmente codificate.
 
@@ -33,32 +33,32 @@ stessa.
 Una volta impostato un filtro di ricerca, per poterlo poi eliminare sarà
 sufficiente cliccare sull'icona raffigurante una piccola lente di
 ingrandimento con un -- all'interno (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina_filtro.bmp](./assets/media/image29.png) ) che comparirà in testata alla colonna
+![](./assets/media/image29.png) ) che comparirà in testata alla colonna
 in corrispondenza della quale è stato impostato il filtro stesso.
 
 Infine è anche possibile ordinare, in maniera crescente e/o decrescente,
 gli elementi in griglia cliccando semplicemente sull'icona raffigurante
 due piccole frecce posta anch' essa in testata ad ogni singola colonna
 della griglia (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_ordinamento_griglia.bmp](./assets/media/image30.png) )
+![](./assets/media/image30.png) )
 
 I pulsanti presenti nella barra degli strumenti consentono
 rispettivamente di:
 
 - **Elimina Gift Card** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_giftcard.bmp](./assets/media/image299.png) )**:** consente di eliminare la Gift
+  ![](./assets/media/image299.png) )**:** consente di eliminare la Gift
   Card attualmente selezionata in elenco.
 
 > **ATTENZIONE!** Non è possibile eliminare Gift Card cui sono associati
 > dei codici riscattati e attualmente in uso dai clienti
 
 - **Modifica Gift Card** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_giftcard.bmp](./assets/media/image300.png) )**:** consente di accedere alle
+  ![](./assets/media/image300.png) )**:** consente di accedere alle
   impostazioni di configurazione della Gift Card attualmente selezionata
   in elenco.
 
 - **Copia Gift Card** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_copia_gift_card.bmp](./assets/media/image301.png) )**:** consente di copiare la Gift Card
+  ![](./assets/media/image301.png) )**:** consente di copiare la Gift Card
   attualmente selezionata in elenco.
 
 > **ATTENZIONE!** La copia è relativa all'intera Gift Card. Verranno
@@ -66,12 +66,12 @@ rispettivamente di:
 > il Template configurato sulla Gift Card sorgente.
 
 - **Aggiungi Gift Card** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_giftcard.bmp](./assets/media/image302.png) )**:** consente di creare una nuova Gift Card.
+  ![](./assets/media/image302.png) )**:** consente di creare una nuova Gift Card.
 
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 "**Nuova Gift Card**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuova_giftcard.bmp](./assets/media/image303.png)
+![](./assets/media/image303.png)
 
 suddivisa in tre diverse sezioni, Impostazioni Generali, Dati Email e
 Template.

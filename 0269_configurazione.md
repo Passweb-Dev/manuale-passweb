@@ -5,7 +5,7 @@
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico la sua maschera di gestione e configurazione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\store_locator_configurazione.bmp](./assets/media/image59.png)
+![](./assets/media/image59.png)
 
 suddivisa in varie sezioni.
 
@@ -48,7 +48,7 @@ possibile impostare un valore per i seguenti parametri:
 
 All'interno della sotto sezione "**Parametri Store Locator**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\parametri_store_locator.bmp](./assets/media/image60.png)
+![](./assets/media/image60.png)
 
 è possibile gestire alcune opzioni di visualizzazione della mappa. Nello
 specifico il parametro :
@@ -74,7 +74,7 @@ specifico il parametro :
 
 All'interno della sotto sezione **"Lista Comandi"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_comandi_store_locator.bmp](./assets/media/image61.png)
+![](./assets/media/image61.png)
 
 è possibile invece gestire alcune opzioni di visualizzazione
 relativamente alla lista dei marker presenti sulla mappa.
@@ -94,7 +94,7 @@ Nello specifico il parametro:
   dovrà assumere, all'interno del componente, la colonna contenente
   l'elenco dei Punti Vendita e i relativi controlli di selezione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\store_locator_configurazione_2.bmp](./assets/media/image62.png)
+![](./assets/media/image62.png)
 
 > Come per tutte le griglie responsive anche in questo caso la larghezza
 > di ogni colonna si esprime definendo quante delle 12 sezioni in cui
@@ -125,7 +125,7 @@ Nello specifico il parametro:
   andare dal punto indicato all'interno del campo "Indirizzo" fino al
   marker ad esso più vicino
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\store_locator_percorso_testuale.bmp](./assets/media/image63.png)
+![](./assets/media/image63.png)
 
 Una volta settati i parametri di configurazione dello Store Locator sarà
 poi necessario impostare i vari marker che dovranno essere visualizzati
@@ -135,7 +135,7 @@ presente nella maschera di configurazione di questa specifica tipologia
 di componenti (per maggiori informazioni in merito si vedano i
 successivi capitoli di questo manuale).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\store_locator_marker_categorie.bmp](./assets/media/image64.png)
+![](./assets/media/image64.png)
 
 **NOTA BENE:** per maggiori informazioni relativamente alle sezioni
 "**Avanzate e Animazioni**", "**Distribuzione**" e "**Protezione**",

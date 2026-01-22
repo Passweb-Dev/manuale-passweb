@@ -26,7 +26,7 @@ Grazie ai servizi offerti da questa piattaforma è possibile:
   commerciali (Coupon di sconto, banner o link ad offerte speciali,
   articoli consigliati ...)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\qapla_1.bmp](./assets/media/image121.png)
+![](./assets/media/image121.png)
 
 ##### INTEGRAZIONE PASSWEB -- QAPLA'
 
@@ -40,24 +40,24 @@ Una volta attivato il proprio account sarà quindi necessario:
 - effettuare l'accesso al relativo pannello di controllo, portarsi
   all'interno della sezione "*Canali*"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\qapla_2.bmp](./assets/media/image122.png)
+![](./assets/media/image122.png)
 
 > e cliccare sul pulsante "**Configura**" presente in corrispondenza del
 > proprio canale.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\qapla_2_1.bmp](./assets/media/image123.png)
+![](./assets/media/image123.png)
 
 - Copiare le chiavi presenti in corrispondenza dei campi "**API Key
   Privata**" e "**API Key Pubblica**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\qapla_2a.bmp](./assets/media/image124.png)
+![](./assets/media/image124.png)
 
 > e incollarle rispettivamente all'interno dei campi "**Qaplà API Key
 > Privata**" e "**Qaplà API Key Pubblica**" presenti alla pagina "*Sito
 > -- Preferenze -- Integrazioni*" del Wizard (sezione "**Logistica
 > Qaplà**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\qapla_3.bmp](./assets/media/image125.png)
+![](./assets/media/image125.png)
 
 Infine, considerando che l'integrazione Passweb -- Qaplà sfrutta anche i
 WebHook messi a disposizione da questa stessa piattaforma per ottenere
@@ -69,7 +69,7 @@ WebHook.
 In questo senso quindi, sarà necessario portarsi all'interno della
 sezione "**Aggiornamenti - WebHook**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\qapla_4.bmp](./assets/media/image126.png)
+![](./assets/media/image126.png)
 
 e attivare sia il Webhook relativo alla "**notifica tracking
 spedizioni**" che quello relativo alla "**notifica generazione
@@ -123,7 +123,7 @@ Amazon a Qaplà**" e "**Invia gli ordini eBay a Qaplà**" presenti
 all'interno della sezione **"Logistica Qaplà**" (sezione "*Sito --
 Preferenze*")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\qapla_amazon_ebay.bmp](./assets/media/image127.png)
+![](./assets/media/image127.png)
 
 - **Invia gli ordini MFN di Amazon a Qaplà:** consente, se selezionato,
   di inviare a Qaplà, in fase di sincronizzazione, anche gli ordini in
@@ -196,11 +196,11 @@ troveremo ovviamente:
 Queste informazioni potranno essere visualizzate su Qaplà nella maschera
 contenente l'elenco di tutti gli ordini acquisiti
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\qapla_lista_ordini.bmp](./assets/media/image128.png)
+![](./assets/media/image128.png)
 
 e, ovviamente nella maschera di dettaglio del relativo documento
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\qapla_6.bmp](./assets/media/image129.png)
+![](./assets/media/image129.png)
 
 Tra le informazioni "opzionali" potremo invece trovare il peso degli
 articoli in ordine, opzioni di consegna al piano, opzioni di
@@ -215,19 +215,19 @@ In particolare:
   prodotto, mediante il corrispondente campo presente nell'anagrafica
   Passweb dell'articolo stesso
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\qapla_8.bmp](./assets/media/image130.png)
+![](./assets/media/image130.png)
 
 > Gestendo quindi il peso degli articoli mediante il campo evidenziato
 > in figura, sulla piattaforma terza sarà poi possibile visualizzare,
 > per ogni ordine, il peso complessivo dei prodotti presenti all'interno
 > di quello stesso documento
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\qapla_9.bmp](./assets/media/image131.png)
+![](./assets/media/image131.png)
 
 > Aprendo il dettaglio dell'ordine sarà invece possibile visualizzare,
 > nella parte bassa, il peso dei singoli articoli.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\qapla_10.bmp](./assets/media/image132.png)
+![](./assets/media/image132.png)
 
 > Per maggiori informazioni relativamente a come poter gestire, in
 > Passweb, il peso dei vari articoli si veda anche quanto indicato
@@ -252,7 +252,7 @@ In particolare:
 > quella specifica modalità di trasporto, quella specifica spesa
 > accessoria e/o quello specifico pagamento.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\qapla_11.bmp](./assets/media/image133.png)
+![](./assets/media/image133.png)
 
 > **ATTENZIONE!** Come indicato, lato Qaplà, la gestione di queste
 > informazioni dipenderà invece dal corriere effettivamente utilizzato
@@ -300,7 +300,7 @@ Passweb:**
   all'interno della quale l'utente potrà controllare in ogni momento lo
   stato esatto della sua spedizione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\qapla_7.bmp](./assets/media/image134.png)
+![](./assets/media/image134.png)
 
 **ATTENZIONE!** Impostando in fase di configurazione del sito anche al
 chiave pubblica di Qaplà, il link di tracciamento della spedizione verrà

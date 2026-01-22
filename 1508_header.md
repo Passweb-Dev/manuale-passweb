@@ -18,7 +18,7 @@ questo tag anche elementi necessari per gestire delle sotto-intestazioni
 informazioni di supporto alla sezione cui l'header in oggetto fa da
 intestazione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\html5_7.bmp](./assets/media/image7.png)
+![](./assets/media/image7.png)
 
 **E' all'interno di questo elemento che andrebbero quindi inseriti i tag
 title h1 e h2 più importanti della pagina.**

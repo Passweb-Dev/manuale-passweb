@@ -10,7 +10,7 @@ Quanto indicato in corrispondenza di questo parametro deve coincidere
 esattamente con la tipologia di estensione dichiarata in Mexal per la
 corrispondente tabella MyDB (campo **Tipo** **Estensione**)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tipo_estensione_tabella_mydb.bmp](./assets/media/image245.png)
+![](./assets/media/image245.png)
 
 E' possibile selezionare uno dei seguenti valori:
 

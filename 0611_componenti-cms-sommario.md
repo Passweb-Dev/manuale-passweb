@@ -4,7 +4,7 @@
 
 Il Componente CMS **"Sommario"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cms_componente_sommario_res.bmp](./assets/media/image49.png)
+![](./assets/media/image49.png)
 
 corrisponde esattamente al sommario della notizia che dovrà essere
 pubblicata all'interno del corrispondente Componente CMS di livello
@@ -15,12 +15,12 @@ Tale sommario è composto poi da due diversi elementi:
 1.  Il testo inserito, in fase di codifica della notizia, all'interno
     del campo "**Sommario**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_cms_sommario_res.bmp](./assets/media/image50.png)
+![](./assets/media/image50.png)
 
 2.  L'immagine inserita in fase di codifica della notizia in
     corrispondenza del campo "**Immagine (Sommario)**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_cms_sommario2_res.bmp](./assets/media/image51.png)
+![](./assets/media/image51.png)
 
 **Entrambi questi elementi potranno essere o meno visualizzati
 all'interno del componente Sommario dipendentemente dalla configurazione
@@ -30,7 +30,7 @@ A livello di configurazione, una volta inserito il Componente
 all'interno della pagina web, verrà aperta in automatico **la sua
 maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_cms_sommario_configurazione_res.bmp](./assets/media/image52.png)
+![](./assets/media/image52.png)
 
 suddivisa in varie sezioni.
 

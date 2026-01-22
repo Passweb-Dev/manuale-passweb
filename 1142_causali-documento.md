@@ -10,20 +10,20 @@ proprio sito Ecommerce.
 Una volta effettuato l'accesso a questa sezione del Wizard verrà quindi
 visualizzata la maschera "**Lista Causali Documento**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_causali_documento.bmp](./assets/media/image715.png)
+![](./assets/media/image715.png)
 
 contenente l'elenco delle causali definite, in Mexal, all'interno della
 tabella "**Causali movimenti magazzino**" (*Magazzino -- Tabelle
 Generali*)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mexal_tabella_causali_documento.bmp](./assets/media/image716.png)
+![](./assets/media/image716.png)
 
 I pulsanti presenti nella contestuale barra degli strumenti consentono,
 rispettivamente di:
 
 **Attiva / Disattiva Causale**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_attiva_causale.bmp](./assets/media/image717.png) /
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_disattiva_causale.bmp](./assets/media/image718.png) ): consente di attivare / disattivare la
+(![](./assets/media/image717.png) /
+![](./assets/media/image718.png) ): consente di attivare / disattivare la
 causale documento selezionata in elenco (le causali documento attivate
 sono evidenziate in grassetto).
 
@@ -32,11 +32,11 @@ selezionate sul front end del sito, in fase di checkout, all'interno
 della sezione relativa ai "**Parametri Documento**"
 
 **Modifica** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica.bmp](./assets/media/image675.png) ): consente di personalizzare la causale
+![](./assets/media/image675.png) ): consente di personalizzare la causale
 documento attualmente selezionata. Cliccando su questo pulsante verrà
 infatti visualizzata la maschera "**Modifica Causale Documento**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_causale_documento.bmp](./assets/media/image719.png)
+![](./assets/media/image719.png)
 
 all'interno della quale poter specificare un valore per i seguenti
 parametri:
@@ -67,7 +67,7 @@ parametri:
 > Gestionale**" alla pagina "**Parametri di Sincronizzazione**" del
 > Wizard
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sincronizzazione_descrizione_tabella_causali.bmp](./assets/media/image720.png)
+![](./assets/media/image720.png)
 
 > In sostanza dunque, nel caso in cui il parametro evidenziato in figura
 > dovesse essere selezionato, in fase di sincronizzazione le descrizioni
@@ -95,14 +95,14 @@ parametri:
 > sito -- gestionale.
 
 **Importa** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_importa.bmp](./assets/media/image368.png) ): consente di personalizzare e configurare in maniera
+![](./assets/media/image368.png) ): consente di personalizzare e configurare in maniera
 massiva, mediante l'importazione di un apposito file csv / txt, tutte le
 causali documento attualmente gestite all'interno del sito
 
 Cliccando su questo pulsante verrà infatti aperta la maschera di
 importazione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\importazione_causali_documento.bmp](./assets/media/image721.png)
+![](./assets/media/image721.png)
 
 all'interno della quale poter indicare:
 
@@ -189,13 +189,13 @@ specifico:
 > *5;NO;0;Condizioni Extra*
 
 **Esporta** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_esporta_testo.bmp](./assets/media/image311.png) ): consente di esportare le configurazioni delle
+![](./assets/media/image311.png) ): consente di esportare le configurazioni delle
 casuali documento all'interno di un file .csv.
 
 Cliccando su questo pulsante verrà infatti visualizzata la maschera di
 esportazione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\esportazione_causali_documento.bmp](./assets/media/image722.png)
+![](./assets/media/image722.png)
 
 All'interno della quale poter indicare:
 
@@ -213,7 +213,7 @@ checkout dipendentemente dalla tipologia di documento considerata e,
 soprattutto, dipendentemente dal fatto di aver attivato o meno la
 visualizzazione della sezione relativa ai "Parametri Documento"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\selezione_causale_documento.bmp](./assets/media/image723.png)
+![](./assets/media/image723.png)
 
 Nello specifico dunque la sezione "Casuale Documento" evidenziata in
 figura potrà essere effettivamente visualizzata all'interno del checkout
@@ -221,7 +221,7 @@ solo nel momento in cui si sia deciso di impostare il campo
 "**Visualizza Parametri Documento**" su una delle opzioni "**Agente**" o
 "**Agente e Cliente**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\selezione_causale_documento_2.bmp](./assets/media/image724.png)
+![](./assets/media/image724.png)
 
 Il testo dell'etichetta "Causale Movimento" può essere personalizzato
 alla pagina "Testi Messaggi Sito" del Wizard agendo per il componente
@@ -243,7 +243,7 @@ Causale Movimento di Magazzino Preventivo**" (la prima nel caso in cui
 il documento generato sia un ordine, la seconda nel momento in cui il
 documento generato dovesse invece essere un preventivo)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\selezione_causale_documento_default.bmp](./assets/media/image725.png)
+![](./assets/media/image725.png)
 
 **In ogni caso, nel momento in cui si dovesse decidere di gestire la
 selezione lato front end delle causali, in fase di salvataggio

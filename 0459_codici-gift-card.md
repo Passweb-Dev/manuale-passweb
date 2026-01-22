@@ -9,7 +9,7 @@ documento comparirà anche una sezione "**Buoni Regalo**" contenente
 l'elenco di tutti i codici Gift Card collegati al documento stesso e
 ancora attivi.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dettaglio_documento_codici_giftcard.bmp](./assets/media/image405.png)
+![](./assets/media/image405.png)
 
 Per ciascuno dei codici in elenco è presente, oltre alla descrizione del
 relativo articolo, anche il "**Link di Condivisione**" che l'acquirente

@@ -23,7 +23,7 @@ dell'interfaccia web di Matomo:
 
 - **Goals**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_report_1.bmp](./assets/media/image33.png)
+![](./assets/media/image33.png)
 
 Nel seguito di questo manuale verrà esaminata rapidamente ciascuna delle
 sezioni sopra indicate. In ogni caso per avere una visone chiara e

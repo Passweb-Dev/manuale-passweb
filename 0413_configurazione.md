@@ -5,7 +5,7 @@
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_menu_categoria_configurazione2_res.bmp](./assets/media/image261.png)
+![](./assets/media/image261.png)
 
 suddivisa in varie sezioni.
 
@@ -99,7 +99,7 @@ associata, lato Wizard, alla corrispondente categoria merceologica
 (sezione "**Risorsa Menu Categoria**" della maschera di gestione delle
 immagini delle categorie merceologiche)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_categorie_immagine_categoria.bmp](./assets/media/image262.png)
+![](./assets/media/image262.png)
 
 Per maggiori informazioni in merito alle immagini associabili ad ogni
 singola categoria merceologica si veda anche la sezione "*Catalogo --
@@ -109,7 +109,7 @@ Merceologiche -- Categoria Merceologica Immagini*" di questo manuale
 I parametri presenti invece all'interno della sezione "**Tipologia di
 Menu**" consentono di definire la tipologia di menu da utilizzare.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_categorie_tipologia_res.bmp](./assets/media/image263.png)
+![](./assets/media/image263.png)
 
 Nello specifico dunque il parametro :
 
@@ -140,7 +140,7 @@ possibile selezionare uno dei seguenti valori:
   inserito il Componente, le voci contestuali alla pagina di tipo
   Catalogo selezionata all'interno del sottostante albero delle pagine
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_menu_categoria_configurazione1_rs.bmp](./assets/media/image264.png)
+![](./assets/media/image264.png)
 
 > Selezionando, ad esempio, la pagina "Radice Catalogo" il menu conterrà
 > le voci relative a tutte le categorie merceologiche, indipendentemente
@@ -174,7 +174,7 @@ E' possibile selezionare uno dei seguenti valori:
   assegnato in Passweb alla corrispondente pagina di categoria (campo
   **"Posizione nel Menu di Categoria"**)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\posizione_menu_categoria.bmp](./assets/media/image265.png)
+![](./assets/media/image265.png)
 
 > **NOTA BENE:** a differenza delle precedenti opzioni, l'ordinamento
 > "Personalizzato" è un ordinamento di tipo numerico.
@@ -253,7 +253,7 @@ E' possibile selezionare uno tra i seguenti valori.
 > essere visualizzato il menu nel momento in cui un utente dovesse
 > richiamarlo cliccando sull'apposito pulsante.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_cat_offcanvas.bmp](./assets/media/image266.png)
+![](./assets/media/image266.png)
 
 > Nello specifico dunque il parametro:
 
@@ -289,7 +289,7 @@ E' possibile selezionare uno tra i seguenti valori.
 > pulsante di apertura verrà utilizzata la classica icona, normalmente
 > presente (soprattutto in ambito mobile), per gestire questo tipo di
 > elementi
-> ![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\icona_menu_offcanvas.bmp](./assets/media/image267.png)
+> ![](./assets/media/image267.png)
 
 - **Testo del bottone offcanvas**: consente di indicare il testo di un
   eventuale label da mostrare a fianco dell'immagine di apertura del

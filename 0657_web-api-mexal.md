@@ -14,7 +14,7 @@ Mexal. Per far questo sarà necessario:
   appartenente quindi al gruppo "**Servizi Web API**" (solo utenti di
   questo gruppo potranno infatti utilizzare i relativi servizi)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\webApi_1.bmp](./assets/media/image13.png)
+![](./assets/media/image13.png)
 
 Una volta attivato il servizio lato gestionale sarà poi necessario
 portarsi sul Wizard del proprio sito Passweb alla pagina
@@ -23,7 +23,7 @@ i parametri richiesti all'interno della sezione Web API, parametri
 questi che saranno diversi a seconda del fatto che Mexal sia installato
 presso la Web Farm Passepartout o in locale presso il cliente
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\parametri_conf_Mexal_webAPI_locale.bmp](./assets/media/image12.png)
+![](./assets/media/image12.png)
 
 In ogni caso si tratterà comunque di impostare un valore per i seguenti
 campi:
@@ -42,7 +42,7 @@ campi:
 > webapi**" ("*Servizi -- Configurazioni -- Configurazione moduli -- Web
 > Api*")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\webApi_2.bmp](./assets/media/image14.png)
+![](./assets/media/image14.png)
 
 > Supponendo dunque che i valori presenti all'interno dei campi
 > evidenziati in figura siano rispettivamente mrossi e 9104 il Base

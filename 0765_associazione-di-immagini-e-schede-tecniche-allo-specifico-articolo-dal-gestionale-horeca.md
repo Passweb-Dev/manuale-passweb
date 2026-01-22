@@ -21,7 +21,7 @@ articolo sarà quindi necessario, per prima cosa, portarsi
 nell'anagrafica Ho.Re.Ca. dell'articolo stesso e operare poi dai campi
 "**Foto**" e "**Allegato**".
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\anagrafica_ar_horeca.bmp](./assets/media/image69.png)
+![](./assets/media/image69.png)
 
 In particolare il campo:
 

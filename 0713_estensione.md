@@ -10,7 +10,7 @@ Quanto indicato in corrispondenza di questo parametro deve coincidere
 esattamente con l'estensione dichiarata in Mexal per la corrispondente
 tabella MyDB (campo **Estensione**)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\estensione_tabella_mydb.bmp](./assets/media/image242.png)
+![](./assets/media/image242.png)
 
 E' possibile selezionare uno dei seguenti valori:
 
@@ -28,7 +28,7 @@ E' possibile selezionare uno dei seguenti valori:
 
   - ...
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\estensione_tabella_mydb_1.bmp](./assets/media/image243.png)
+![](./assets/media/image243.png)
 
 > **ATTENZIONE!** E' necessario fare riferimento sempre alle tipologie
 > di articoli effettivamente gestibili all'interno del proprio sito
@@ -48,7 +48,7 @@ E' possibile selezionare uno dei seguenti valori:
 
   - ...
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\estensione_tabella_mydb_2.bmp](./assets/media/image244.png)
+![](./assets/media/image244.png)
 
 > **ATTENZIONE!** E' necessario fare riferimento sempre alle tipologie
 > di utenti gestiti all'interno del proprio sito Passweb

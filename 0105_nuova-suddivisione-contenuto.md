@@ -18,13 +18,13 @@ livelli.**
 
 Per creare una nuova "Suddivisione Contenuto" è necessario cliccare sul
 relativo pulsante
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuova_suddivisione.bmp](./assets/media/image500.png) presente nella barra degli strumenti
+![](./assets/media/image500.png) presente nella barra degli strumenti
 della maschera **"Gestione CMS -- Contenuti"**
 
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 "**Nuova Suddivisione Contenuto CMS**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuova_suddivisione.bmp](./assets/media/image526.png)
+![](./assets/media/image526.png)
 
 mediante la quale poter definire le caratteristiche della suddivisione
 logica che si intende realizzare.
@@ -47,7 +47,7 @@ All'interno della scheda "**Associazioni**" sarà invece possibile
 definire le associazioni tra la suddivisione logica che si sta
 realizzando e le varie categorie di News gestite all'interno del sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\suddivisione_categorie_associate.bmp](./assets/media/image527.png)
+![](./assets/media/image527.png)
 
 - **Categorie Associate:** consente di specificare, selezionandole
   all'interno del corrispondente albero, la categoria o le categorie cui
@@ -64,7 +64,7 @@ La scheda "**Pubblicazione**" consente di definire le modalità e le
 tempistiche di pubblicazione e di visualizzazione all'interno del sito
 della "Suddivisione Contenuto" che si sta considerando.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\suddivisione_cms_impostazioni_pubblicazione.bmp](./assets/media/image528.png)
+![](./assets/media/image528.png)
 
 In particolare il parametro:
 
@@ -83,7 +83,7 @@ In particolare il parametro:
   secondo campo** andrà invece specificata **la data di fine
   pubblicazione**.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\periodo_pubblicazione.bmp](./assets/media/image529.png)
+![](./assets/media/image529.png)
 
 > Nel caso in cui non venga definito uno specifico periodo di
 > pubblicazione, la visualizzazione all'interno del sito della relativa

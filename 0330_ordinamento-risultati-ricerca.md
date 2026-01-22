@@ -12,7 +12,7 @@ La combo box di selezione sarà preceduta inoltre da un testo indicativo,
 "Ordina per:", modificabile nella sezione **"Gestione Testi/Messaggi
 Sito**.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\ordinamento_risultati_ricerca.bmp](./assets/media/image211.png)
+![](./assets/media/image211.png)
 
 **ATTENZIONE!** il valore selezionato inizialmente all'interno della
 combo box sarà quello dell'elemento sulla base del quale è stato
@@ -43,7 +43,7 @@ l'ordinamento dei risultati di ricerca, è necessario agire dalla sezione
 **"Gestione Campi di Ordinamento"**, presente anch'essa all'interno
 della maschera di configurazione del componente
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ordinamento_risultati_ricerca2_res.bmp](./assets/media/image212.png)
+![](./assets/media/image212.png)
 
 All'interno di questa sezione, sulla sinistra sono elencati gli elementi
 di ordinamento attualmente codificati, sulla destra sono invece
@@ -54,7 +54,7 @@ sezione "**Modifica Campo Ordinamento**".
 
 Allo stesso modo per codificare un nuovo elemento sarà necessario
 cliccare sull'icona raffigurante un piccolo + (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_aggiungi.bmp](./assets/media/image47.png) ) e definire poi le proprietà
+![](./assets/media/image47.png) ) e definire poi le proprietà
 dell'elemento stesso.
 
 In particolare per ogni singolo elemento di ordinamento occorrerà

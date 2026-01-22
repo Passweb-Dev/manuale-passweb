@@ -4,7 +4,7 @@
 
 Il Componente "**Filtro Set Attributi**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_filtro_set_res.bmp](./assets/media/image637.png)
+![](./assets/media/image637.png)
 
 **può essere inserito unicamente all'interno del componente Ecommerce di
 primo livello "Ricerca"**.
@@ -52,7 +52,7 @@ visualizzarlo o meno all'interno del componente "Filtro Set di
 Attributi", si dovrà decidere anche il tipo di controllo che dovrà
 essere per esso utilizzato.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_attributi_gestione_visualizzazione.bmp](./assets/media/image638.png)
+![](./assets/media/image638.png)
 
 > **NOTA BENE:** per maggiori informazioni relativamente alla gestione
 > degli Attributi Articolo ed al processo di categorizzazione degli
@@ -69,7 +69,7 @@ Rilasciando il Componente nella posizione desiderata all'interno della
 pagina web, verrà visualizzata **la sua maschera di gestione e
 configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_filtro_set_attributi_configurazione_res.bmp](./assets/media/image639.png)
+![](./assets/media/image639.png)
 
 suddivisa in varie sezioni.
 
@@ -116,7 +116,7 @@ componente, selezionandolo per questo tra quelli precedentemente
 codificati nella corrispondente sezione del Wizard e presenti
 all'interno del campo **"Set di Attributi da visualizzare"**.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_filtro_set_attributi_configurazione2_res.bmp](./assets/media/image640.png)
+![](./assets/media/image640.png)
 
 **NOTA BENE:** per maggiori informazioni relativamente alle sezioni
 "**Avanzate e Animazioni**" e "**Protezione**", presenti nella maschera

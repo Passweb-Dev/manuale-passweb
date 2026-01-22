@@ -95,7 +95,7 @@ Di seguito viene riportato un esempio di sitemap generata in automatico
 da Passweb relativamente ad un sito gestito in italiano, francese e
 inglese.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sitemap_multilingua.bmp](./assets/media/image61.png)
+![](./assets/media/image61.png)
 
 Tipicamente nella realizzazione e nella gestione di sitemap per siti
 multilingua, del tipo dunque di quella rappresentata in figura, è
@@ -146,7 +146,7 @@ multilingua) richiamando l'indirizzo
 restituita la sitemap del sito ma bensì la sua **Sitemap Index** che
 avrà un formato del tipo di quello indicato in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sitemap_index.bmp](./assets/media/image62.png)
+![](./assets/media/image62.png)
 
 In sostanza dunque questa Sitemap Index non fa altro che indicare allo
 spider i percorsi delle singole sitemap (generate sempre in automatico

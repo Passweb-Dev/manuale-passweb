@@ -6,7 +6,7 @@ Come indicato nel precedente capitolo di questo manuale le "**Cartelle
 Standard**" sono quelle identificate all'interno dell'albero dall'icona
 colorata di giallo
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_comm_cartelle_standard.bmp](./assets/media/image69.png)
+![](./assets/media/image69.png)
 
 Tali cartelle:
 
@@ -37,7 +37,7 @@ In queste condizioni dunque l'unico pulsante presente nella barra degli
 strumenti sarà proprio quello per la creazione di nuove cartelle (
 ![Videate\\pulsante_ar_nuova_cartella.bmp](./assets/media/image70.png) )
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\area_riservata_documenti_2_passcomm.bmp](./assets/media/image71.png)
+![](./assets/media/image71.png)
 
 **ATTENZIONE!** ogni cartella creata attraverso la funzionalità **"Nuova
 Cartella"** sarà di tipo **Standard**
@@ -45,7 +45,7 @@ Cartella"** sarà di tipo **Standard**
 Cliccando su questo pulsante verrà aperta la maschera di creazione della
 nuova cartella
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_comm_nuova_cartella_passcom.bmp](./assets/media/image72.png)
+![](./assets/media/image72.png)
 
 all'interno della quale poter indicare il nome (campo **"Nome"**) oltre
 che gli utenti che dovranno avere accesso alla cartella stessa --
@@ -62,7 +62,7 @@ area riservata, anche in questo caso l'elenco dei possibili utenti cui
 concedere accesso alla cartella che si sta realizzando può variare a
 seconda dell' utente attualmente loggato.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_comm_nuova_cartella_utenti.bmp](./assets/media/image73.png)
+![](./assets/media/image73.png)
 
 Tra i possibili utenti di una cartella è possibile distinguere in:
 
@@ -87,7 +87,7 @@ sufficiente selezionarlo flaggando l'apposito check presente a fianco
 del suo nome e, successivamente, cliccare sul pulsante di **Conferma**
 presente nella parte bassa della maschera.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_comm_documenti_inserimento_utenti.bmp](./assets/media/image74.png)
+![](./assets/media/image74.png)
 
 Per ciascuno degli utenti inseriti è poi possibile specificare se
 l'accesso alla cartella dovrà avvenire in **modifica**, in **scrittura**
@@ -97,7 +97,7 @@ Selezionando l'utente verrà infatti visualizzata un'ulteriore sezione
 all'interno della quale poter specificare i permessi di
 lettura/scrittura/modifica.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_permessi_cartella.bmp](./assets/media/image75.png)
+![](./assets/media/image75.png)
 
 Queste le differenze tra le varie tipologie di permessi:
 
@@ -166,7 +166,7 @@ di creazione Nuova Cartella permette di associare alla cartella in esame
 uno specifico Amministratore selezionandolo tra gli utenti abilitati ad
 accedere alla cartella stessa.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_comm_amministratore_cartella.bmp](./assets/media/image76.png)
+![](./assets/media/image76.png)
 
 Questo Amministratore potrà poi essere notificato, con una mail, con un
 SMS, con un messaggio Telegram e/o con un messaggio Whatsapp
@@ -208,7 +208,7 @@ mediante l'apposita icona delle notifiche
 
 sia in Bacheca all'interno dell'apposito box "**Documenti**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\comm_notifica_doc_docuvision_bacheca.bmp](./assets/media/image77.png)
+![](./assets/media/image77.png)
 
 **ATTENZIONE! all'interno del box Documenti verranno visualizzati tutti
 i documenti che sono stati aggiunti in Docuvision piuttosto che
@@ -315,7 +315,7 @@ compariranno, oltre al pulsante "Nuova Cartella" anche altri pulsanti
 identificativi di diverse azioni da poter effettuare sulla cartella in
 esame.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\area_riservata_documenti_toolbar_cartelle_passcom.bmp](./assets/media/image79.png)
+![](./assets/media/image79.png)
 
 **ATTENZIONE!** i pulsanti presenti nella barra degli strumenti possono
 variare in relazione alle proprietà e conseguentemente ai permessi che
@@ -386,7 +386,7 @@ Per effettuare questa operazione sarà quindi necessario:
 > In questo modo il cursore del mouse assumerà la forma di 4 piccole
 > frecce come evidenziato nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_comm_spostamento_cartella.bmp](./assets/media/image84.png)
+![](./assets/media/image84.png)
 
 - Selezionare, a questo punto, la cartella di destinazione ossia quella
   dentro cui dovrà essere effettivamente spostata la cartella

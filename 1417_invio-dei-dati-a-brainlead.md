@@ -169,7 +169,7 @@ specifica sessione di navigazione (anche quelli relativi a prima della
 registrazione e/o del login e dell'aggiunta di almeno un articolo in
 carrello).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\timeline_brainlead.bmp](./assets/media/image4.png)
+![](./assets/media/image4.png)
 
 Sulla base dei dati ricevuti, infine, sarà possibile attivare e
 configurare, direttamente in Brainlead, determinate tipologie di

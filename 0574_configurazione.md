@@ -5,7 +5,7 @@
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_newsletter_configurazione.bmp](./assets/media/image146.png)
+![](./assets/media/image146.png)
 
 suddivisa in varie sezioni.
 
@@ -86,7 +86,7 @@ configurazione di questo stesso campo, il parametro "**Tag campo**" sul
 valore "**ADDRESS**" (come evidenziato nella figura di seguito
 riportata)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mailchimp_campo_address.bmp](./assets/media/image147.png)
+![](./assets/media/image147.png)
 
 **Tag per Campo Privato -- disponibile solo per MailChimp:** consente di
 indicare il tag assegnato, in fase di configurazione del form di
@@ -113,7 +113,7 @@ tipo "Azienda" sarà necessario:
   memorizzare l'informazione relativa al fatto che l'utente iscritto al
   servizio sia o meno un Privato.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mailchimp_campo_privato_azienda.bmp](./assets/media/image148.png)
+![](./assets/media/image148.png)
 
 In queste condizioni il campo Privato impostato su MailChimp non verrà
 visualizzato nel form di iscrizione presente sul proprio sito Passweb ma

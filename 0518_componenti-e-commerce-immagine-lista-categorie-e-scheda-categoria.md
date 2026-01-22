@@ -5,7 +5,7 @@
 Il Componente **"Immagine" gestibile all'interno dei componenti
 Ecommerce di primo livello "Lista Categorie" e "Scheda Categoria",**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_immagine_cat.bmp](./assets/media/image674.png)
+![](./assets/media/image674.png)
 
 permette di visualizzare, per ogni singola cella di questo menu,
 l'immagine rappresentativa della corrispondente categoria merceologica.
@@ -15,7 +15,7 @@ anche in questo caso, essere inserita necessariamente in Passweb
 all'interno del campo "Immagine" presente nella maschera di
 configurazione della relativa Categoria Merceologica
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_immagine_categoria2.bmp](./assets/media/image675.png)
+![](./assets/media/image675.png)
 
 > **NOTA BENE:** per maggiori informazioni relativamente a come
 > associare una specifica immagine ad ogni singola categoria
@@ -28,7 +28,7 @@ visibilità lato sito web (campo "Pubblico"). Rilasciando infatti il
 Componente nella posizione desiderata verrà visualizzata **la sua
 maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_immagine_lista_categoria_res.bmp](./assets/media/image676.png)
+![](./assets/media/image676.png)
 
 suddivisa in varie sezioni.
 

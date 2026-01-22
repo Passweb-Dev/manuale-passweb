@@ -4,7 +4,7 @@
 
 Il componente **"Iscrizione Newsletter"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_iscrizione_newsletter_res.bmp](./assets/media/image53.png)
+![](./assets/media/image53.png)
 
 consente di inserire all'interno del proprio sito web un form di
 iscrizione ad un servizio di Newsletter gestito grazie

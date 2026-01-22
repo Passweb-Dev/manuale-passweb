@@ -27,7 +27,7 @@ La pagina è suddivisa in due distinte sezioni: nella sezione di sinistra
 vengono visualizzate le cartelle, organizzate su una struttura ad
 albero, e create per poter raggruppare logicamente le proprie risorse.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_risorse_cartelle_res.bmp](./assets/media/image122.png)
+![](./assets/media/image122.png)
 
 I pulsanti presenti nella contestuale barra degli strumenti consentono
 rispettivamente di:
@@ -40,7 +40,7 @@ cartella "Resources" e cliccare poi sul pulsante "**Crea Cartella**". In
 questo modo verrà visualizzata, come evidenziato in figura, un'ulteriore
 sezione "Nuova Cartella"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\crea_cartella_LE_res.bmp](./assets/media/image123.png)
+![](./assets/media/image123.png)
 
 Sarà quindi sufficiente dare un nome alla cartella che si sta creando e
 cliccare poi sul pulsante **"Conferma"**.
@@ -58,7 +58,7 @@ Una volta selezionata una cartella, nella parte destra della pagina
 verrà poi visualizzato l'elenco delle risorse presenti all'interno della
 cartella stessa.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_risorse_file_res.bmp](./assets/media/image124.png)
+![](./assets/media/image124.png)
 
 I pulsanti presenti nella contestuale barra degli strumenti consentono
 rispettivamente di:
@@ -101,19 +101,19 @@ sito agendo per questo sul corrispondente campo ("Visualizzazione
 Gestione Risorse") presente all'interno della sezione "Profilo Utente"
 del Wizard.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_risorse_profilo.bmp](./assets/media/image125.png)
+![](./assets/media/image125.png)
 
 Il pannello Ricerca presente nella parte alta della maschera consente di
 ricercare una specifica risorsa tra quelle attualmente presenti
 all'interno del sito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_risorse_ricerca.bmp](./assets/media/image126.png)
+![](./assets/media/image126.png)
 
 Dopo aver indicato il nome della risorsa (o parte di esso) da cercare,
 cliccando sul pulsante "Cerca" verrà aperta una piccola finestra
 contenente i risultati della ricerca effettuata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_risorse_ricerca2_res.bmp](./assets/media/image127.png)
+![](./assets/media/image127.png)
 
 Cliccando sul nome di una delle risorse che soddisfano il filtro
 impostato, verrà chiusa la finestrella dei risultati e verrà

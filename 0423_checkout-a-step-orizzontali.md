@@ -6,12 +6,12 @@ Impostando il parametro "**Tipologia Fase di Checkout**" presente nella
 maschera di configurazione del componente "Ordine Custom Checkout)"
 sull'opzione "**Visualizzazione a Step Orizzontali**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\checkout_step_tab.bmp](./assets/media/image293.png)
+![](./assets/media/image293.png)
 
 la procedura di conferma ordine verrà gestita attraverso un componente
 di tipo Tabs e sarà quindi organizzata a Step orizzontali
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\conferma_ordine_step_tab.bmp](./assets/media/image294.png)
+![](./assets/media/image294.png)
 
 In ogni step dovranno essere inserite informazioni di un determinato
 tipo (tipo di documento da generare, metodo di trasporto, pagamento

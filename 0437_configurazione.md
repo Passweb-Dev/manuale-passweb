@@ -5,7 +5,7 @@
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_prenotazione_custom_res.bmp](./assets/media/image347.png)
+![](./assets/media/image347.png)
 
 suddivisa in varie sezioni.
 

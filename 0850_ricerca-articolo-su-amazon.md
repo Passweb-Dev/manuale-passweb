@@ -3,7 +3,7 @@
 
 
 Il pulsante **Ricerca Articolo su Amazon** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_ricerca_su_amazon.bmp](./assets/media/image244.png) ) presente nella parte alta della
+![](./assets/media/image244.png) ) presente nella parte alta della
 maschera "**Gestione Liste di Vendita"** accessibile dalla voce di menu
 ***"Catalogo -- Amazon"***, consente di effettuare, direttamente dal
 Wizard del proprio sito Passweb, delle ricerche su uno dei Marketplace
@@ -17,7 +17,7 @@ fatto di dover agganciare la loro scheda prodotto.
 I campi presenti all'interno del form "**Ricerca Articoli su Amazon**"
 consento di impostare i parametri di ricerca
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ricerca_articoli_amazon.bmp](./assets/media/image273.png)
+![](./assets/media/image273.png)
 
 In particolare dunque il campo:
 
@@ -41,7 +41,7 @@ Il pulsante "**Ricerca**" presente nella parte bassa della maschera
 consentirà di avviare, secondo i parametri impostati, la ricerca sul
 Marketplace indicato.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ricerca_articoli_amazon_2.bmp](./assets/media/image274.png)
+![](./assets/media/image274.png)
 
 Per ciascuno dei risultati ottenuti verranno prelevate dalla relativa
 scheda Amazon e riportate all'interno del Wizard del proprio sito

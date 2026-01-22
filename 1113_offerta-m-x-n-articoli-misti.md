@@ -17,7 +17,7 @@ E' possibile mettere in promozione singoli articoli (Tabella "**Articoli
 in Promozione**") oppure intere categorie di articoli (Tabella
 **"Articoli appartenenti alle categorie"**)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_promozioni_37.bmp](./assets/media/image559.png)
+![](./assets/media/image559.png)
 
 **ATTENZIONE!** Nel caso in cui gli articoli coinvolti abbiano tutti gli
 stessi prezzi, la Promozione si comporterà esattamente come la M x N
@@ -28,7 +28,7 @@ modalità di applicazione dello sconto saranno dettate da quanto
 impostato per i parametri "**Articoli in omaggio"**, **"Criteri di
 scelta articoli in omaggio"** e **"Sconto articoli Valore o %".**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_promozioni_36.bmp](./assets/media/image560.png)
+![](./assets/media/image560.png)
 
 In particolare il parametro:
 
@@ -67,7 +67,7 @@ articolo per articolo. E' possibile selezionare uno dei seguenti valori:
   essere applicato in percentuale oppure a valore oltre che, ovviamente,
   impostare l'esatta percentuale / valore dello sconto.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_promozioni_38.bmp](./assets/media/image561.png)
+![](./assets/media/image561.png)
 
 > Nelle condizioni evidenziate in figura, ad esempio, acquistando 3
 > articoli qualsiasi tra quelli coinvolti nella promozione (tabella
@@ -91,7 +91,7 @@ articolo per articolo. E' possibile selezionare uno dei seguenti valori:
 > %/Valore€**) presente all'interno delle tabelle "Scelta manuale
 > articoli" e "Articoli appartenenti alle categorie"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_promozioni_39.bmp](./assets/media/image562.png)
+![](./assets/media/image562.png)
 
 > Nelle condizioni evidenziate in figura, ad esempio, acquistando 3
 > articoli qualsiasi tra quelli coinvolti nella promozione (tabella
@@ -124,7 +124,7 @@ sul pulsante "**Attiva Promozione**" oppure agendo dal parametro
 "**Attivo**" presente nella maschera di configurazione della Promozione
 stessa.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_promozioni_41.bmp](./assets/media/image563.png)
+![](./assets/media/image563.png)
 
 Il campo **Descrizione** presente all'interno della maschera di
 configurazione della promozione consente di specificare, in tutte le
@@ -159,7 +159,7 @@ possibile inserire all'interno del testo il seguente placeholder:
 Promozioni verranno applicati, all'interno del sito, sempre e comunque a
 livello di Carrello mediante l'inserimento di un relativo Abbuono**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_promozioni_30.bmp](./assets/media/image540.png)
+![](./assets/media/image540.png)
 
 In queste condizioni non sarà ovviamente possibile visualizzare gli
 sconti dovuti alla promozione ne in Catalogo ne tanto meno all'interno
@@ -200,7 +200,7 @@ cassa, l'ordine nato all'interno del sito web, lo sconto, dovuto alla
 promozione e **applicato sul sito a livello di Carrello** mediante un
 relativo **Abbuono,** verrà riportato all'interno del campo **Sconto**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_promozioni_12.bmp](./assets/media/image542.png)
+![](./assets/media/image542.png)
 
 **ATTENZIONE!** Le Promozioni di tipo **Offerte M x N Articoli Misti**
 sono considerate tra l'elenco delle Promozioni da poter escludere nel

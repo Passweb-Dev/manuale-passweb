@@ -8,7 +8,7 @@ sul valore **"Installazione Locale"** in maniera tale da poter
 visualizzare tutti i parametri necessari per realizzare l'integrazione
 sito-gestionale in questa specifica configurazione di prodotto.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\parametri_conf_bpLOCALE_comm.bmp](./assets/media/image145.png)
+![](./assets/media/image145.png)
 
 In queste condizioni, dunque, sarà necessario specificare un valore per
 i seguenti parametri:
@@ -183,7 +183,7 @@ Infine, all'interno della sezione "**Web API**" è possibile impostare le
 credenziali di un utente Passcom appositamente abilitato alla gestione
 delle relative API
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\parametri_conf_Passcom_webAPI_locale.bmp](./assets/media/image146.png)
+![](./assets/media/image146.png)
 
 **ATTENZIONE!** l'utilizzo delle Web Api Passcom è indispensabile per
 poter attivare e gestire le notifiche via mail e/o sms relative alla

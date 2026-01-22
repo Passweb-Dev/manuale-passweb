@@ -6,7 +6,7 @@ Impostando il parametro "**Tipologia Fase di Checkout**" presente nella
 maschera di configurazione del componente "Ordine Custom Checkout)"
 sull'opzione "**Visualizzazione senza Step Affiancato**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\checkout_no_step_affiancato.bmp](./assets/media/image295.png)
+![](./assets/media/image295.png)
 
 la procedura di conferma ordine sarà gestita in un unico step
 all'interno del quale l'utente dovrà inserire, in diverse sezioni, tutte

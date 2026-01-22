@@ -6,13 +6,13 @@ I menu Off Canvas sono caratterizzati dal fatto di essere posizionati,
 inizialmente, al di fuori della pagina web dove invece comparirà
 soltanto un pulsante.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\menu_offcanvas_esempio.bmp](./assets/media/image27.png)
+![](./assets/media/image27.png)
 
 Cliccando su questo pulsante il menu verrà richiamato e visualizzato
 nella pagina secondo quelle che sono le impostazioni settate
 dall'amministratore in fase di configurazione del componete
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\menu_offcanvas_esempio_2.bmp](./assets/media/image28.png)
+![](./assets/media/image28.png)
 
 Una volta aperto il menu, verranno visualizzate le voci di primo
 livello.
@@ -23,7 +23,7 @@ indica la presenza di ulteriori voci di livello successivo.
 Cliccando quindi su questa freccia le voci di primo livello verranno
 sostituite dalle relative voci di secondo livello.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\menu_offcanvas_esempio_3.bmp](./assets/media/image29.png)
+![](./assets/media/image29.png)
 
 Nella parte alta del menu è visualizzata la voce di primo livello
 attualmente selezionata (la piccola freccia posta al suo fianco consente
@@ -51,14 +51,14 @@ In alternativa è anche possibile cliccare sulla corrispondente icona di
 apertura presente nel R.O.C. di questa particolare tipologia di
 componente
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\menu_offcanvas_esempio_4.bmp](./assets/media/image30.png)
+![](./assets/media/image30.png)
 
 Una volta richiamato il menu all'interno dell'ambiente di sviluppo, sarà
 poi sufficiente aprire lo style editor del componete ed apportare le
 modifiche grafiche desiderate selezionando il corretto elemento (es.
 "Menu Off Canvas")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\menu_offcanvas_esempio_5.bmp](./assets/media/image31.png)
+![](./assets/media/image31.png)
 
 A livello di accessibilità è gestita la seguente navigazione da
 tastiera:

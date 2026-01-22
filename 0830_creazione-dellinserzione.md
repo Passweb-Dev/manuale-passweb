@@ -24,7 +24,7 @@ variazione dell'articolo) il campo "Modalità" dovrà essere impostato
 sull'opzione (disponibile solo per queste particolari specifiche)
 "**Elemento di Variazione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_inserzioni_taglie.bmp](./assets/media/image162.png)
+![](./assets/media/image162.png)
 
 In queste condizioni il campo "**Valore**", utilizzato come sempre per
 indicare da dove dovranno essere prelevati i valori da assegnare

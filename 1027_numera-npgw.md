@@ -39,7 +39,7 @@ impostare, oltre ai parametri classici di configurazione del pagamento,
 anche quelli specifici del gateway attualmente considerato e presenti
 all'interno della sezione "**Parametri Gateway**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_numera.bmp](./assets/media/image138.png)
+![](./assets/media/image138.png)
 
 Nel caso specifico il parametro:
 
@@ -108,7 +108,7 @@ conferma dell'ordine, selezionare la modalità di pagamento in esame,
 l'ordine sarà memorizzato nel database di Passweb, e l'utente verrà
 reindirizzato alla specifica pagina di accesso del gateway di pagamento
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\numera_1.bmp](./assets/media/image139.png)
+![](./assets/media/image139.png)
 
 **A questo punto però l'ordine non è ancora stato preso in carico dalla
 banca e, conseguentemente, non è ancora avvenuto alcun pagamento**.
@@ -140,7 +140,7 @@ Verranno quindi presentate all'utente una serie di maschere all'interno
 delle quali inserire tutti i dati necessari per il pagamento (numero
 carta, scadenza ecc...).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\numera_2.bmp](./assets/media/image140.png)
+![](./assets/media/image140.png)
 
 Il numero ordine che viene riportato nella mail o visualizzato nel Back
 Office rappresenta l'identificativo dell'ordine sul database di Passweb.

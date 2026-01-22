@@ -26,7 +26,7 @@ campo **"Abilita Passweb"** che, se selezionato, consentirà, a partire
 dalla prossima sincronizzazione, di esportare e gestire il trattamento
 stesso anche all'interno del corrispondente sito Passweb.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\anagrafica_servizi1.bmp](./assets/media/image112.png)
+![](./assets/media/image112.png)
 
 - **Abilita Passweb**: se selezionato consentirà, **a partire dalla
   prossima sincronizzazione**, di esportare e gestire il trattamento in
@@ -53,7 +53,7 @@ trattamento/servizio delle varie risorse che dovranno essere prenotabili
 via web, sarà necessario agire sempre dall'anagrafica del relativo
 trattamento, questa volta però all'interno della scheda "**Risorse".**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\anagrafica_servizi2.bmp](./assets/media/image113.png)
+![](./assets/media/image113.png)
 
 In particolare all'interno della tabella "**Tipi risorsa**" sarà
 possibile indicare gli eventuali tipi di risorse che dovranno poi essere
@@ -108,7 +108,7 @@ all'interno del gestionale, il corrispondente parametro **"Abilita
 Controllo Risorse"** (menu "Opzioni di installazione" scheda "Opzioni
 Avanzate")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\prenotazione_10.bmp](./assets/media/image114.png)
+![](./assets/media/image114.png)
 
 Ciò significa quindi che nel caso in cui il parametro sopra evidenziato
 sia stato effettivamente selezionato all'atto dell'inserimento di una

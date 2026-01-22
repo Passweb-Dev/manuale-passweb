@@ -11,7 +11,7 @@ una nuova inserzione, sarà necessario agire mediante il pulsante
 maschera "Lista delle Inserzioni eBay"
 
 **Metodi di sincronizzazione** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_metodi_sincronizzazione.bmp](./assets/media/image56.png) )**:** consente di creare e salvare
+![](./assets/media/image56.png) )**:** consente di creare e salvare
 appositi modelli di definizione delle regole di sincronizzazione tra il
 sito Passweb ed il relativo Marketplace.
 
@@ -19,21 +19,21 @@ Anche in questo caso, cliccando sul pulsante in esame verrà visualizzata
 la maschera "*Lista dei Metodi di Sincronizzazione*" contenente l'elenco
 di tutti i modelli attualmente codificati.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\elenco_metodi_sincronizzazione.bmp](./assets/media/image57.png)
+![](./assets/media/image57.png)
 
 I pulsanti presenti nella contestuale barra degli strumenti consentono
 rispettivamente di:
 
 - **Elimina Metodi di Sincronizzazione** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_metodi_sincronizzazione.bmp](./assets/media/image58.png) ): consente di eliminare il template
+  ![](./assets/media/image58.png) ): consente di eliminare il template
   attualmente selezionato in elenco
 
 - **Modifica Metodi di Sincronizzazione** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_metodi_sincronizzazione.bmp](./assets/media/image59.png) ): consente di modificare il template attualmente
+  ![](./assets/media/image59.png) ): consente di modificare il template attualmente
   selezionato in elenco
 
 - **Aggiungi Metodi di Sincronizzazione** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_metodi_sincronizzazione.bmp](./assets/media/image60.png) ): consente di creare un nuovo
+  ![](./assets/media/image60.png) ): consente di creare un nuovo
   template di definizione delle regole di messa in vendita sul
   Marketplace, relativamente al Tipo di vendita da adottare, alla Durata
   della vendita, alla Quantità e al Prezzo degli articoli.
@@ -41,7 +41,7 @@ rispettivamente di:
 > Cliccando su questo pulsante verrà quindi visualizzata la maschera
 > "*Dati Metodo Sincronizzazione*"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\metodo_sincronizzazione.bmp](./assets/media/image61.png)
+![](./assets/media/image61.png)
 
 > all'interno della quale poter indicare un Nome per il template che si
 > sta realizzando e soprattutto poter definire le diverse regole di
@@ -60,6 +60,6 @@ verranno automaticamente aggiornate anche tutte le Inserzioni che
 utilizzano quello stesso Template
 
 Il pulsante **Inserzioni** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_inserzioni.bmp](./assets/media/image55.png) ) consente di tornare all'elenco delle Inserzioni
+![](./assets/media/image55.png) ) consente di tornare all'elenco delle Inserzioni
 attualmente codificate
 

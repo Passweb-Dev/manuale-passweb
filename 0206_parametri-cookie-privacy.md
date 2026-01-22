@@ -7,7 +7,7 @@ decidere di abilitare un apposito banner mediante il quale poter gestire
 **l'Informativa breve** e avvisare quindi gli utenti del sito
 relativamente all'utilizzo dei cookies.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\variante_cookie_res.bmp](./assets/media/image27.png)
+![](./assets/media/image27.png)
 
 **ATTENZIONE!** **Il solo banner Passweb non è sufficiente a soddisfare
 la vigente normativa in materia di Privacy e Gestione dei Cookie. Per
@@ -22,7 +22,7 @@ Il parametro:
 all'interno del proprio sito un nuovo contenitore strutturale utilizzato
 per gestire il messaggio informativo sull'utilizzo dei cookie
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\contenitore_cookie_res.bmp](./assets/media/image28.png)
+![](./assets/media/image28.png)
 
 **ATTENZIONE!** A differenza dei normali contenitori strutturali della
 pagina, il contenitore "**Privacy Cookie Popup**" non consente

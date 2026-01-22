@@ -5,7 +5,7 @@
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_catalogo_ecommerce_res.bmp](./assets/media/image2.png)
+![](./assets/media/image2.png)
 
 suddivisa in varie sezioni.
 
@@ -76,13 +76,13 @@ possibile impostare un valore per i seguenti parametri:
     righe e di colonne impostabili mediante i successivi parametri
     presenti all'interno di questa stessa maschera di configurazione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\catalogo_griglia.bmp](./assets/media/image3.png)
+![](./assets/media/image3.png)
 
 - **Slider:** selezionando questa opzione gli articoli in catalogo
   verranno disposti su di un\'unica riga all'interno di uno slider a
   scorrimento orizzontale.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\catalogo_slider.bmp](./assets/media/image4.png)
+![](./assets/media/image4.png)
 
 - **Numero massimo di slide caricabili (solo per configurazioni di tipo
   Slider):** consente di impostare il numero massimo di slide che
@@ -242,7 +242,7 @@ possibile impostare un valore per i seguenti parametri:
 > corretta, sul sito verrà poi visualizzato un menu a tendina contenente
 > l'elenco dei valori immessi.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\elementi_per_pagina_res.bmp](./assets/media/image5.png)
+![](./assets/media/image5.png)
 
 > Selezionando uno dei valori presenti in elenco il componente verrà
 > ricaricato e popolato con il numero di articoli per pagina indicati
@@ -289,7 +289,7 @@ possibile impostare un valore per i seguenti parametri:
 > componente "Catalogo Ecommerce" una condizione di pre filtraggio del
 > tipo di quella indicata in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prefiltro_catalogo_esempio1_res.bmp](./assets/media/image6.png)
+![](./assets/media/image6.png)
 
 > Come detto lo stesso filtro andrebbe poi impostato anche su eventuali
 > pannelli di ricerca utilizzati per filtrare gli articoli in catalogo,
@@ -306,7 +306,7 @@ possibile impostare un valore per i seguenti parametri:
   in blocco tutti i filtri attualmente applicati al componente in
   oggetto.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\rimuovi_filtro_ec_esempio.bmp](./assets/media/image7.png)
+![](./assets/media/image7.png)
 
 > **NOTA BENE:** il pulsante "Rimuovi filtro applicato" contestuale al
 > componente "Catalogo E-commerce" verrà visualizzato non appena dovesse
@@ -339,7 +339,7 @@ possibile impostare un valore per i seguenti parametri:
   elementi sulla base dei quali poter effettuare l'ordinamento degli
   articoli presenti all'interno del componente.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\campo_ordinamento.bmp](./assets/media/image9.png)
+![](./assets/media/image9.png)
 
 > **ATTENZIONE! Nel caso in cui si decida di non selezionare questo
 > parametro sarà comunque necessario agire dalla sezione "Gestione Campi
@@ -373,9 +373,9 @@ possibile impostare un valore per i seguenti parametri:
 > ottenere ad esempio il classico passaggio dal catalogo con layout a
 > griglia a quello con layout a lista**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\catalogo_layout_griglia.bmp](./assets/media/image10.png)
+![](./assets/media/image10.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\catalogo_layout_lista.bmp](./assets/media/image11.png)
+![](./assets/media/image11.png)
 
 > In queste condizioni avendo impostato come "Identificatore" l'intera
 > pagina saremo sicuri che nel momento in cui un utente dovesse

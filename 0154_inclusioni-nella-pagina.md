@@ -15,16 +15,16 @@ tutti elementi questi che potranno determinare in maniera più o meno
 evidente l'aspetto grafico ed il funzionamento delle pagine che andranno
 ad adottare questo specifico layout.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\layout_caratteristiche_3_res.bmp](./assets/media/image156.png)
+![](./assets/media/image156.png)
 
 Per includere all'interno del layout in esame una specifica risorsa è
 necessario cliccare sul pulsante "**Nuova Inclusione**"
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuova_inclusione_res.bmp](./assets/media/image157.png) presente nella contestuale barra degli
+![](./assets/media/image157.png) presente nella contestuale barra degli
 strumenti.
 
 In questo modo verrà infatti aperta la maschera "**Nuova Inclusione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuova_inclusione_res.bmp](./assets/media/image158.png)
+![](./assets/media/image158.png)
 
 attraverso cui poter indicare, per prima cosa, il tipo di risorsa che si
 desidera includere nel layout (campo **"Tipo Inclusione"**). E'

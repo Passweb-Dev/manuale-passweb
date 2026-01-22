@@ -15,7 +15,7 @@ esempio, dei filtri articolo.
 All'interno di questa sezione dell'applicazione comparirà quindi la
 maschera **"Gruppi Utenti"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gruppi_utenti.bmp](./assets/media/image109.png)
+![](./assets/media/image109.png)
 
 in cui verranno visualizzati in:
 
@@ -66,19 +66,19 @@ I pulsanti presenti nella contestuale barra degli strumenti
 consentiranno rispettivamente di:
 
 **Lista Utenti Gruppo** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_lista_utenti_gruppo.bmp](./assets/media/image110.png) ): consente di visualizzare l'elenco degli utenti
+![](./assets/media/image110.png) ): consente di visualizzare l'elenco degli utenti
 appartenenti al gruppo attualmente selezionato.
 
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 "**Lista Utenti -- Nome Gruppo**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_utenti_nome_gruppo.bmp](./assets/media/image111.png)
+![](./assets/media/image111.png)
 
 contenente l'elenco degli utenti appartenenti al gruppo in esame. I
 pulsanti presenti nella barra degli strumenti consentono di:
 
 - **Esportazione Utenti**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_esporta_utenti.bmp](./assets/media/image112.png) ): consente di esportare **in formato .csv**
+  (![](./assets/media/image112.png) ): consente di esportare **in formato .csv**
   l'elenco degli utenti del gruppo
 
 > Per maggiori informazioni relativamente alla procedura di esportazione
@@ -86,7 +86,7 @@ pulsanti presenti nella barra degli strumenti consentono di:
 > questo manuale
 
 - **Aggiungi al Gruppo**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_al_gruppo.bmp](./assets/media/image113.png) ): visibile solo per i Gruppi cui non è
+  (![](./assets/media/image113.png) ): visibile solo per i Gruppi cui non è
   stato associato uno specifico filtro utenti.
 
 > Consente di associare al gruppo in esame, un qualsiasi utente del
@@ -107,18 +107,18 @@ pulsanti presenti nella barra degli strumenti consentono di:
 > "Contatto Non Attivo".
 
 - **Modifica Utente** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_utente.bmp](./assets/media/image10.png) ): consente di accedere ai dati
+  ![](./assets/media/image10.png) ): consente di accedere ai dati
   anagrafici dell'utente attualmente selezionato in elenco. Cliccando su
   questo pulsante verrà infatti aperta la maschera **"Dati Utente"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dati_utente.bmp](./assets/media/image114.png)
+![](./assets/media/image114.png)
 
 > attraverso cui poter gestire, eventualmente, anche l'associazione
 > "Utente -- Gruppo" (si veda anche la sezione *"Utenti -- Utenti Sito"*
 > di questo manuale).
 
 - **Rimuovi dal gruppo** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_rimuovi_utente_gruppo.bmp](./assets/media/image115.png) ): consente di eliminare
+  ![](./assets/media/image115.png) ): consente di eliminare
   l'associazione tra il gruppo in esame e l'utente attualmente
   selezionato in elenco.
 
@@ -127,7 +127,7 @@ pulsanti presenti nella barra degli strumenti consentono di:
 > ad essere presente tra gli "Utenti Sito".
 
 - **Elimina Utente:**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_utente.bmp](./assets/media/image68.png) ) consente di eliminare l'utente
+  (![](./assets/media/image68.png) ) consente di eliminare l'utente
   attualmente selezionato dal database di Passweb
 
 > **ATTENZIONE! La corretta procedura di eliminazione di un utente dal
@@ -158,14 +158,14 @@ pulsanti presenti nella barra degli strumenti consentono di:
 > sezione "**Cartelle Non Assegnate**"
 
 **Modifica** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica.bmp](./assets/media/image116.png) ): consente di gestire le proprietà del
+![](./assets/media/image116.png) ): consente di gestire le proprietà del
 gruppo attualmente selezionato oltre, eventualmente, alla gerarchia cui
 esso da origine.
 
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 **"Gerarchia Utenti -- Nome gruppo radice"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gerarchia_utenti_radice.bmp](./assets/media/image117.png)
+![](./assets/media/image117.png)
 
 all'interno della quale sarà possibile gestire, attraverso l'apposito
 albero presente nella parte sinistra l'eventuale gerarchia.
@@ -175,7 +175,7 @@ potranno quindi essere gestite, le proprietà del gruppo attualmente
 selezionato all'interno dell'albero.
 
 **Elimina** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina.bmp](./assets/media/image95.png) ): consente di eliminare il gruppo
+![](./assets/media/image95.png) ): consente di eliminare il gruppo
 attualmente selezionato.
 
 **NOTA BENE:** nel caso in cui al gruppo sia associata anche una
@@ -183,7 +183,7 @@ gerarchia, eliminando il gruppo verrà eliminata anche l'intera struttura
 di sottogruppi.
 
 **Nuovo Gruppo Utenti Non Autenticati** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuovo_gruppo_utenti_na.bmp](./assets/media/image118.png) )**:** consente di creare un nuovo
+![](./assets/media/image118.png) )**:** consente di creare un nuovo
 gruppo di "Utenti Non Autenticati" oltre a quello standard creato a
 default dall'applicazione
 
@@ -191,14 +191,14 @@ Per maggiori informazioni relativamente ai gruppi standard si veda il
 successivo capitolo di questo manuale.
 
 **Nuovo Gruppo Utenti** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuovo_gruppo_utenti.bmp](./assets/media/image119.png) ): consente di creare un nuovo gruppo
+![](./assets/media/image119.png) ): consente di creare un nuovo gruppo
 oltre che di associargli, eventualmente, anche una gerarchia di sotto
 gruppi.
 
 Cliccando su questo pulsante si verrà infatti ricondotti alla maschera
 **"Creazione Gruppo"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\creazione_gruppo.bmp](./assets/media/image120.png)
+![](./assets/media/image120.png)
 
 attraverso cui poter definire tutte le proprietà del gruppo stesso.
 
@@ -212,7 +212,7 @@ all'interno di ciascuna di queste sezioni, si veda anche il successivo
 capitolo (*Configurazione di un gruppo Utenti*) di questo manuale
 
 **Importa** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_importa.bmp](./assets/media/image121.png) ): consente variare in maniera massiva, mediante
+![](./assets/media/image121.png) ): consente variare in maniera massiva, mediante
 l'upload di un apposito file csv i dati di configurazione dei Gruppi
 Utente **NON STANDARD**
 
@@ -225,7 +225,7 @@ Cliccando sul pulsante in esame verrà visualizzata la maschera
 "**Importazione Dati Gruppi**" mediante la quale poter effettuare
 l'upload del file contenente le informazioni desiderate.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\import_file_dati_gruppi.bmp](./assets/media/image122.png)
+![](./assets/media/image122.png)
 
 Nello specifico all'interno di questa sezione sarà necessario indicare:
 
@@ -442,7 +442,7 @@ filtro desiderato direttamente all'interno del Wizard e utilizzare poi
 il relativo pulsante "**Copia Filtro**" per ottenere la stringa da
 inserire nel file di importazione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gruppi_utente_copia_filtri.bmp](./assets/media/image123.png)
+![](./assets/media/image123.png)
 
 **ATTENZIONE!** nel momento in cui dovesse essere indicato, all'interno
 del file, per un determinato gruppo un filtro utenti, in fase di
@@ -599,7 +599,7 @@ specifico gruppo secondo quando indicato nel filtro in esame
 > impersonifica un cliente
 
 **Esporta** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_esporta.bmp](./assets/media/image124.png) ): consente di esportare, all'interno di un apposito
+![](./assets/media/image124.png) ): consente di esportare, all'interno di un apposito
 file csv, i dati dei gruppi utente, NON STANDARD, attualmente gestiti
 all'interno del sito.
 

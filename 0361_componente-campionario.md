@@ -7,7 +7,7 @@ Un articolo di tipo Campionario (Mexal) / Composto (Ho.Re.Ca.) altro non
 eventualmente di inserire in carrello in un sol colpo tutta una serie di
 articoli componenti.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_campionario.bmp](./assets/media/image67.png)
+![](./assets/media/image67.png)
 
 Tali articoli potranno poi essere acquistati così come definiti in fase
 di configurazione del Campionario all'interno del gestionale, senza

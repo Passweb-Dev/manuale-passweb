@@ -5,7 +5,7 @@
 All'interno della sotto sezione "**Messaggi in Arrivo**" è possibile
 visualizzare l'elenco di tutti i messaggi ricevuti.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_messaggi_in_arrivo.bmp](./assets/media/image38.png)
+![](./assets/media/image38.png)
 
 Per ciascuno dei messaggi presenti in tabella è indicato :
 
@@ -27,7 +27,7 @@ Per leggere un messaggio è sufficiente selezionarlo tra quelli presenti
 in elenco; in questo modo infatti verrà immediatamente visualizzata la
 relativa maschera di dettaglio.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ec_messaggi_dettaglio_messaggio.bmp](./assets/media/image39.png)
+![](./assets/media/image39.png)
 
 In visualizzazione mobile sarà invece necessario, per prima cosa,
 selezionare il messaggio desiderato tra quelli presenti in elenco e,
@@ -35,34 +35,34 @@ successivamente, cliccare sul pulsante "**Visualizza Dettaglio**"
 presente nel menu contestuale attivabile dall'icona raffigurante tre
 piccoli puntini
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_visualizza_dettagli_messaggi_mobile.bmp](./assets/media/image40.png)
+![](./assets/media/image40.png)
 
 Una volta visualizzato il dettaglio di un messaggio, i pulsanti presenti
 nella relativa barra degli strumenti consentiranno rispettivamente di:
 
 **Pulsante Elimina** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_pulsante_elimina_messaggio.bmp](./assets/media/image41.png) ): consente, previa ulteriore conferma,
+![](./assets/media/image41.png) ): consente, previa ulteriore conferma,
 di eliminare il messaggio attualmente visualizzato.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_conferma_elimina_messaggio.bmp](./assets/media/image42.png)
+![](./assets/media/image42.png)
 
 **ATTENZIONE!** I messaggi eliminati verranno automaticamente spostati
 all'interno della sotto sezione **"Messaggi Eliminati"** da dove,
 volendo, potranno poi essere cancellati in maniera definitiva.
 
 **Pulsante Stampa** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_pulsante_stampa_messaggio.bmp](./assets/media/image43.png) ): consente di Stampare il dettaglio del messaggio
+![](./assets/media/image43.png) ): consente di Stampare il dettaglio del messaggio
 attualmente visualizzato
 
 **Pulsante Inoltra** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_pulsante_inoltra_messaggio.bmp](./assets/media/image44.png) ): consente di utilizzare la classica
+![](./assets/media/image44.png) ): consente di utilizzare la classica
 funzione di Inoltro Messaggio.
 
 Nell'inoltro verranno automaticamente considerati ed inoltrati anche
 eventuali allegati presenti nel messaggio originale.
 
 **Pulsante Rispondi** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_pulsante_rispondi_messaggio.bmp](./assets/media/image45.png) ): consente di rispondere al messaggio
+![](./assets/media/image45.png) ): consente di rispondere al messaggio
 attualmente selezionato in elenco.
 
 Come destinatario della risposta verrà automaticamente selezionato il
@@ -73,19 +73,19 @@ invece considerati ed inviati eventuali allegati presenti nel messaggio
 originale.
 
 **Messaggio Precedente / Successivo**: (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsanti_scorrimento_ar.bmp](./assets/media/image46.png) ): consente di accedere al dettaglio del
+![](./assets/media/image46.png) ): consente di accedere al dettaglio del
 messaggio precedente/successivo senza doverlo necessariamente
 selezionare tra quelli presenti in elenco.
 
 Per creare un nuovo messaggio è invece sufficiente cliccare sull'icona
 raffigurante una piccola matita posta nella parte bassa della pagina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuovo_messaggio_ar.bmp](./assets/media/image47.png)
+![](./assets/media/image47.png)
 
 Cliccando su questo pulsante verrà infatti visualizzata la maschera di
 creazione nuovo messaggio
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ec_nuovo_messaggio.bmp](./assets/media/image48.png)
+![](./assets/media/image48.png)
 
 all'interno della quale poter indicare il destinatario, l'oggetto,
 eventuali allegati ed il testo del messaggio.
@@ -99,13 +99,13 @@ stesso.**
 Per selezionare uno dei possibili destinatari che, per quanto detto,
 potranno variare in relazione all'utente attualmente loggato, è
 necessario quindi cliccare sul pulsante **Inserisci Utenti** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_pulsante_inserisci_utente.bmp](./assets/media/image49.png) ).
+![](./assets/media/image49.png) ).
 
 In questo modo si avrà infatti accesso alla maschera "**Destinatari**"
 contenente una lista, organizzata ad albero, di tutti i possibili
 destinatari del messaggio.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_destinatari.bmp](./assets/media/image50.png)
+![](./assets/media/image50.png)
 
 All'interno di questo elenco è possibile distinguere evidenziati in:
 
@@ -140,41 +140,41 @@ Per inserire un nuovo destinatario sarà quindi sufficiente selezionarlo
 dall'elenco sopra evidenziato, mettendo l'apposita spunta, e cliccare
 poi sul relativo pulsante di conferma
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_nuovo_destinatario.bmp](./assets/media/image51.png)
+![](./assets/media/image51.png)
 
 Il destinatario così selezionato comparirà poi all'interno del pannello
 **"Destinatari"**.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_messaggi_destinatario.bmp](./assets/media/image52.png)
+![](./assets/media/image52.png)
 
 Per eliminare uno dei destinatari del messaggio è sufficiente
 selezionarlo tra quelli presenti in elenco e cliccare poi sul pulsante
 **Rimuovi Utenti**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_pulsante_elimina_utenti.bmp](./assets/media/image53.png)).
+(![](./assets/media/image53.png)).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_messaggi_rimuovi_destinatario.bmp](./assets/media/image54.png)
+![](./assets/media/image54.png)
 
 Il pulsante **Allega File** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_pulsante_allega_file.bmp](./assets/media/image55.png) ), presente nella barra degli strumenti della
+![](./assets/media/image55.png) ), presente nella barra degli strumenti della
 finestra "**Nuovo Messaggio**", permette di associare degli allegati al
 messaggio che si sta realizzando.
 
 Cliccando su questo pulsante si aprirà infatti la maschera di
 **"Caricamento Allegati"**.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_allega_file.bmp](./assets/media/image56.png)
+![](./assets/media/image56.png)
 
 Il pulsante **"Sfoglia file"** consente di ricercare il file da
 allegare, selezionandolo tra quelli presenti sul proprio pc, mentre il
 pulsante **"Aggiungi"** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_pulsante_aggiungi_file.bmp](./assets/media/image57.png) ).consente di allegare al messaggio il file
+![](./assets/media/image57.png) ).consente di allegare al messaggio il file
 selezionato.
 
 Per eliminare eventuali allegati al messaggio è sufficiente cliccare
 sull'icona raffigurante un piccolo cestino posta a fianco del nome
 dell'allegato stesso.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_messaggi_elimina_allegati.bmp](./assets/media/image58.png)
+![](./assets/media/image58.png)
 
 I check "**E-Mail**"**,** "**SMS**"**,** "**Telegram**" e
 **"Whatsapp"**, presenti all'interno del pannello **"Notifica invio del
@@ -183,7 +183,7 @@ un SMS, con un messaggio Telegram e con un messaggio Whatsapp, il/i
 destinatari relativamente alla presenza di questo nuovo messaggio
 disponibile in area riservata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_notifica_messaggio.bmp](./assets/media/image59.png)
+![](./assets/media/image59.png)
 
 I check "**E-Mail**"**,** "**SMS**"**,** "**Telegram**" e **"Whatsapp"**
 presenti invece all'interno del pannello **"Notifica lettura del
@@ -191,7 +191,7 @@ Messaggio"**, consentono di notificare via SMS, Mail, Telegram o
 Whatsapp il mittente del messaggio relativamente alla lettura dello
 stesso da parte di uno dei suoi destinatari.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_notifica_ricezione.bmp](./assets/media/image60.png)
+![](./assets/media/image60.png)
 
 **ATTENZIONE!** affinché tali notifiche possano essere recapitate in
 maniera corretta è indispensabile che i destinatari di queste stesse
@@ -264,12 +264,12 @@ check relativo alle:
 > Passweb -- WA Smart Business
 
 Una volta composto il messaggio il pulsante **Invia** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_pulsante_invia.bmp](./assets/media/image61.png) ) presente nella barra degli strumenti della finestra
+![](./assets/media/image61.png) ) presente nella barra degli strumenti della finestra
 "Nuovo Messaggio", consente di inviarlo a tutti i destinatari
 precedentemente inseriti in elenco.
 
 Il pulsante **"Salva"** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_pulsante_salva.bmp](./assets/media/image62.png) ) consente invece di ritardare l'invio del messaggio
+![](./assets/media/image62.png) ) consente invece di ritardare l'invio del messaggio
 e di spostarlo all'interno della sotto sezione relativa alle **Bozze**
 dove verranno quindi collocati tutti i messaggi composti ma non ancora
 inviati.

@@ -14,13 +14,13 @@ collocato in una colonna sulla destra della pagina, o un gruppo di link
 che puntano a blog esterni (blogroll) sono potenziali candidati per
 l\'impiego di questo tag.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\html5_16.bmp](./assets/media/image16.png)
+![](./assets/media/image16.png)
 
 Per poter implementare in Passweb questo tag semantico è necessario
 utilizzare un Componente Contenitore configurato come nella figura di
 seguito riportata:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\html5_17.bmp](./assets/media/image17.png)
+![](./assets/media/image17.png)
 
 I contenuti del article andranno quindi inseriti, mediante gli appositi
 componenti Passweb, all'interno di questo contenitore.

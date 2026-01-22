@@ -6,7 +6,7 @@ All'interno della sezione "**Ordini**" è possibile decidere se l'Account
 in esame dovrà interagire o meno con Amazon anche a livello di ordini ed
 eventualmente in che modo.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\account_amazon_ordini.bmp](./assets/media/image191.png)
+![](./assets/media/image191.png)
 
 Nello specifico il campo:
 
@@ -194,7 +194,7 @@ La sezione "**Stati Ordine**" consente, infine, di definire gli stati
 degli ordini Amazon che dovranno essere utilizzati come filtro di
 importazione sul Gestionale.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\account_amazon_ordini_2.bmp](./assets/media/image193.png)
+![](./assets/media/image193.png)
 
 Nel box di sinistra sono elencati gli stati degli ordini Amazon che
 possono essere gestiti da Passweb in fase di importazione.

@@ -5,7 +5,7 @@
 Il Componente **"Menu Categoria"** può essere inserito in una qualsiasi
 pagina del sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_menu_categorie_res.bmp](./assets/media/image260.png)
+![](./assets/media/image260.png)
 
 e consente di creare un menu generato e gestito in maniera completamente
 automatica da Passweb sulla base delle categorie merceologiche definite

@@ -11,10 +11,10 @@ desiderata tra quelle disponibili nell'elenco che verrà visualizzato
 cliccando sul pulsante "**Cambia Lingua**" presente nel menu di Editing
 del sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_editing_cambio_lingua.bmp](./assets/media/image425.png)
+![](./assets/media/image425.png)
 
 **Cambia lingua**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_cambio_lingua_me.bmp](./assets/media/image426.png) ): consente di cambiare la lingua di
+(![](./assets/media/image426.png) ): consente di cambiare la lingua di
 visualizzazione del sito utilizzata all'interno del live Editing.
 
 Cliccando su questo pulsante verrà infatti visualizzato, immediatamente

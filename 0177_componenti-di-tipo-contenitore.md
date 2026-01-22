@@ -18,7 +18,7 @@ componente "Contenuti su Tabs" ecc...
 Ogni componente di questo tipo è caratterizzato, inoltre, dalla
 presenza, nel suo R.O.C. dell'icona "**Accedi ai componenti interni**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\live_editing_modifica-componente-comp_interni_res.bmp](./assets/media/image275.png)
+![](./assets/media/image275.png)
 
 icona questa di fondamentale importanza in quanto consente, come
 precedentemente evidenziato, di accedere alla struttura interna del
@@ -37,11 +37,11 @@ aggiungere di nuovi, operando esattamente allo stesso modo in cui si
 opera per selezionare e gestire i normali componenti di primo livello.
 
 Cliccando, ad esempio, sull'icona "**Nuovo Componente** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\icona_nuovo_componente.bmp](./assets/media/image276.png) )" presente nella Barra degli Strumenti
+![](./assets/media/image276.png) )" presente nella Barra degli Strumenti
 del Live Editing verrà visualizzata la libreria dei componenti da poter
 inserire all'interno del contenitore in esame
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\libreria_componenti_res_2.bmp](./assets/media/image186.png)
+![](./assets/media/image186.png)
 
 > **NOTA BENE:** i componenti che possono essere inseriti all'interno di
 > un Componente di tipo Contenitore, possono variare in relazione alla

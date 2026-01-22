@@ -5,7 +5,7 @@
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_webbooking_configurazione_res.bmp](./assets/media/image2.png)
+![](./assets/media/image2.png)
 
 suddivisa in varie sezioni.
 
@@ -49,7 +49,7 @@ E' possibile selezionare una delle seguenti opzioni:
   Promozioni appositamente configurate all'interno della corrispondente
   sezione del gestionale ("*Marketing -- Promozioni*")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_webbooking_configurazione_res_2.bmp](./assets/media/image3.png)
+![](./assets/media/image3.png)
 
 > Nello specifico all'interno del componente in oggetto **verranno
 > visualizzate solo ed esclusivamente le Promozioni Welcome che
@@ -83,7 +83,7 @@ E' possibile selezionare una delle seguenti opzioni:
 > alle lingue gestite (tanto sul sito quanto su Welcome), i testi
 > presenti all'interno della sezione "**Traduzioni**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_webbooking_configurazione_res_3.bmp](./assets/media/image4.png)
+![](./assets/media/image4.png)
 
 **Tipologia di visualizzazione:** consente di definire come dovranno
 essere mostrati gli elementi presenti all'interno del componente.
@@ -94,7 +94,7 @@ E' possibile selezionare uno dei seguenti valori:
   all'interno del componente verranno disposti su di un\'unica riga
   all'interno di uno slider a scorrimento orizzontale.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\promozioni_welcome_slider.bmp](./assets/media/image5.png)
+![](./assets/media/image5.png)
 
 - **Griglia:** selezionando questa opzione gli elementi presenti
   all'interno del componente verranno visualizzati all'interno di una
@@ -102,7 +102,7 @@ E' possibile selezionare uno dei seguenti valori:
   impostabili mediante i successivi parametri presenti all'interno di
   questa stessa maschera di configurazione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\promozioni_welcome_griglia.bmp](./assets/media/image6.png)
+![](./assets/media/image6.png)
 
 **Numero di Elementi da Visualizzare -- (solo per configurazioni di tipo
 Slider):** consente di impostare il numero massimo di slide che dovranno

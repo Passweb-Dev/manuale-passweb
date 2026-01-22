@@ -6,7 +6,7 @@ All'interno di questa sezione è possibile schedulare le operazioni di
 **sincronizzazione ordini** **tra Passweb e i Marketplace Amazon
 collegati all'Account in esame**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_schedulazione_sincro_ordini.bmp](./assets/media/image194.png)
+![](./assets/media/image194.png)
 
 **ATTENZIONE! la schedulazione impostata all'interno di questa sezione
 riguarda solo ed esclusivamente le operazioni di sincronizzazione

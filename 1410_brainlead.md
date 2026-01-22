@@ -9,7 +9,7 @@ dalle campagne di marketing tracciandone il comportamento e creando
 anche funnel di vendita completi ai quali poter collegare poi diverse
 azioni di marketing automation.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\brainlead_sito.bmp](./assets/media/image1.png)
+![](./assets/media/image1.png)
 
 La piattaforma si pone quindi a metà tra i software di web analytics
 "puri", come possono essere Google Analytics o Matomo, e sistemi di mail

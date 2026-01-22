@@ -4,7 +4,7 @@
 
 Il Componente **"Rating News"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cms_commenti_componente_rating_res.bmp](./assets/media/image96.png)
+![](./assets/media/image96.png)
 
 può essere inserito solo ed esclusivamente all'interno di un componente
 "**Commenti Associati**" e consente di visualizzare la valutazione (da 1
@@ -22,7 +22,7 @@ A livello di configurazione, una volta inserito il Componente
 all'interno della pagina web, verrà aperta in automatico **la sua
 maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\rating_news_configurazione_res.bmp](./assets/media/image98.png)
+![](./assets/media/image98.png)
 
 suddivisa in varie sezioni.
 

@@ -16,7 +16,7 @@ parametro "**Abilita Configurazione**" presente nella maschera "**Dati
 Articolo**", accessibile sul Wizard alla voce di menu "*Catalogo --
 Gestione Articoli*",
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\campionario_semplice.bmp](./assets/media/image68.png)
+![](./assets/media/image68.png)
 
 il Componente **"Campionario E-commerce"** permetterà di inserire e di
 visualizzare all'interno della Scheda Prodotto l'insieme di tutti gli
@@ -26,7 +26,7 @@ Tale componente è dunque indispensabile per poter gestire correttamente
 all'interno del sito un Campionario portando l'utente a conoscenza di
 tutti gli articoli in esso contenuti.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\campionario_sito_web.bmp](./assets/media/image69.png)
+![](./assets/media/image69.png)
 
 > **NOTA BENE:** nel caso in cui il componente "Campionario E-Commerce"
 > non venga inserito all'interno della scheda prodotto l'utente potrà
@@ -188,7 +188,7 @@ Infine è bene sottolineare anche come:
   in relazione ai Campionari Semplici, sia l'articolo Campionario che
   l'elenco dei suoi componenti.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\campionario_configurabile11.bmp](./assets/media/image70.png)
+![](./assets/media/image70.png)
 
 > Per l'articolo Campionario sarà possibile modificare la quantità
 > presente in carrello, eliminarlo dal carrello, inserire note di riga,

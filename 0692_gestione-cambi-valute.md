@@ -10,7 +10,7 @@ sito.
 All'interno di questa pagina verrà quindi visualizzata la maschera,
 **"Gestione dei Cambi delle Valute"**, qui di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_dei_cambi_delle_valute.bmp](./assets/media/image166.png)
+![](./assets/media/image166.png)
 
 in cui verranno indicate tutte le valute effettivamente gestite
 all'interno del sito e per ciascuna di esse verrà indicato anche il
@@ -26,7 +26,7 @@ I valori presenti all'interno di questa maschera vengono infatti
 prelevati direttamente dalla Tabella **"Cambi Valute"** di Mexal
 (*"Azienda -- Parametri di Base -- Cambi Valute"*).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\tabella_cambi_valute.bmp](./assets/media/image167.png)
+![](./assets/media/image167.png)
 
 **NOTA BENE:** per maggiori informazione relative alle modalità di
 gestione della tabella sopra evidenziata si rimanda all'apposito manuale

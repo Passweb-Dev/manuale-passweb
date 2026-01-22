@@ -7,7 +7,7 @@ grafici (di base uno per ogni indicatore presente nella relativa sezione
 della dashboard) che mostrano l'andamento nel tempo dei principali dati
 Ecommerce
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ecommerce_dashboard_grafici.bmp](./assets/media/image23.png)
+![](./assets/media/image23.png)
 
 **ATTENZIONE!** i grafici visualizzati possono variare in relazione alle
 impostazione settate per i parametri presenti all'interno delle sezioni
@@ -19,16 +19,16 @@ questo manuale ("*Sito -- Preferenze -- Configurazione Area Riservata*")
 Le due piccole icone presenti nella parte alta di ogni grafico
 consentono rispettivamente di:
 
-- ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_info_grafici.bmp](./assets/media/image24.png) : consente di visualizzare una breve
+- ![](./assets/media/image24.png) : consente di visualizzare una breve
   spiegazione relativa ai dati presenti all'interno del grafico in esame
   e a come questi stessi dati sono stati calcolati
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ecommerce_info_grafici.bmp](./assets/media/image25.png)
+![](./assets/media/image25.png)
 
-- ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_zoom_grafici.bmp](./assets/media/image26.png) : consente di espandere la
+- ![](./assets/media/image26.png) : consente di espandere la
   visualizzazione del grafico all'interno di un'apposita finestra modale
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ecommerce_zoom_grafici.bmp](./assets/media/image27.png)
+![](./assets/media/image27.png)
 
 Nella parte bassa del grafico è presente invece l'indicazione dello
 specifico periodo temporale cui il grafico stesso fa riferimento

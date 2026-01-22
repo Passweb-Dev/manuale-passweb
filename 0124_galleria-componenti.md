@@ -7,7 +7,7 @@ l'elenco completo dei Componenti realizzati direttamente da Passepartout
 e acquistabili all'interno del sito
 [passstore.passepartout.net](https://passstore.passepartout.net/).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\galleria_dei_componenti.bmp](./assets/media/image573.png)
+![](./assets/media/image573.png)
 
 Per ciascuno dei componenti presenti in elenco è indicata:
 

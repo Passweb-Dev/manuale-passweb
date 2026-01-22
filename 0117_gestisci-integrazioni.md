@@ -9,7 +9,7 @@ di terze parti attualmente gestite su Passweb.
 Effettuando l'accesso a questa sezione verrà visualizzata la maschera
 "**Lista degli Account**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ac_2.bmp](./assets/media/image567.png)
+![](./assets/media/image567.png)
 
 contenente l'elenco di tutti gli Account di integrazione attualmente
 configurati su Passweb. I pulsanti presenti nella contestuale barra
@@ -35,7 +35,7 @@ degli strumenti consentono, rispettivamente di:
 Cliccando su quest'ultimo pulsante verrà infatti visualizzata la
 maschera "**Dati Account**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ac_3.bmp](./assets/media/image568.png)
+![](./assets/media/image568.png)
 
 all'interno della quale poter impostare tutti i parametri necessari per
 attivare l'integrazione tra il proprio sito Passweb e la piattaforma

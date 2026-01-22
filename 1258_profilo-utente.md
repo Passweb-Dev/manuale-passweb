@@ -5,14 +5,14 @@
 La pagina "**Profilo Utente**", accessibile cliccando sull'apposita
 icona presente nella barra degli strumenti del Wizard
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\barra_strumenti_menu_principale.bmp](./assets/media/image1.png)
+![](./assets/media/image1.png)
 
 consente di impostare e/o variare, per l'utente attualmente loggato, i
 principali parametri di accesso e di utilizzo del Wizard (es. login,
 password, autenticazione a due fattori, modalità di utilizzo dell'editor
 ecc ... ).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\profilo_utente_new.bmp](./assets/media/image2.png)
+![](./assets/media/image2.png)
 
 Nello specifico, una volta effettuato l'accesso alla maschera in
 questione sarà possibile impostare un valore per i seguenti parametri:
@@ -42,13 +42,13 @@ questione sarà possibile impostare un valore per i seguenti parametri:
 > Pagina agendo all'interno della sezione "**Permessi sulle Pagine**"
 > presente nella maschera di configurazione degli "**Utenti Passweb**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_ruoli_pagine.bmp](./assets/media/image3.png)
+![](./assets/media/image3.png)
 
 > Allo stesso modo sarà possibile gestire la protezione di ogni singolo
 > Componente agendo all'interno della sezione "**Protezione**" presente
 > nella maschera di configurazione del componente stesso
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\visibilita_componente_4_res.bmp](./assets/media/image4.png)
+![](./assets/media/image4.png)
 
 - **Posizione del Menu del Wizard (varianti Standard e/o Mobile):**
   consente di selezionare **la modalità di default** per la
@@ -81,7 +81,7 @@ questione sarà possibile impostare un valore per i seguenti parametri:
     nella parte destra della maschera un semplice elenco delle risorse
     presenti all'interno della cartella stessa.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_risorse_tabellare.bmp](./assets/media/image5.png)
+![](./assets/media/image5.png)
 
 - **Preview:** in queste condizioni per ogni singola cartella
   selezionata all'interno del corrispondente albero verranno
@@ -89,7 +89,7 @@ questione sarà possibile impostare un valore per i seguenti parametri:
   risorse presenti all'interno della cartella stessa (posto ovviamente
   che si tratti di risorse di tipo immagine)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_risorse_sito.bmp](./assets/media/image6.png)
+![](./assets/media/image6.png)
 
 **NOTA BENE**: la modalità impostata come default per la visualizzazione
 delle risorse presenti all'interno della sezione "Gestione Risorse del
@@ -135,7 +135,7 @@ corrispondente pulsante presente all'interno della maschera stessa.
 > browser e verificare che la funzione "Controllo ortografico", presente
 > nelle impostazioni avanzate, sia stata correttamente attivata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\correttore_chrome.bmp](./assets/media/image7.png)
+![](./assets/media/image7.png)
 
 > Nel caso in cui l'opzione evidenziata in figura non sia stata
 > abilitata gli editor di testo presenti all'interno del Wizard di
@@ -232,7 +232,7 @@ corrispondente pulsante presente all'interno della maschera stessa.
 Il controllo "**Attiva suggerimenti codice**" (sezione "**Editor di
 codice HTML, Javascript, CSS**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\editor_codice_autocompletamento.bmp](./assets/media/image8.png)
+![](./assets/media/image8.png)
 
 consente, se abilitato, di attivare per tutti gli editor di codice
 presenti all'interno del sito (componente HTML, Layout, maschere di
@@ -241,7 +241,7 @@ mostrando dunque all'utente in fase di inserimento di una nuova
 istruzione dei suggerimenti utili a completare automaticamente
 l'istruzione stessa
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\editor_codice_autocompletamento_suggerimenti.bmp](./assets/media/image9.png)
+![](./assets/media/image9.png)
 
 **ATTENZIONE!** I suggerimenti mostrati dalla funzione di
 autocompletamento sono relativi unicamente ai linguaggi HTML. Javascript

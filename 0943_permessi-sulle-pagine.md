@@ -8,7 +8,7 @@ precedentemente analizzata, consente di definire le specifiche pagine
 cui potranno o non potranno avere accesso, all'interno del Wizard, tutti
 gli utenti appartenenti al Ruolo in esame.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_ruoli_pagine.bmp](./assets/media/image20.png)
+![](./assets/media/image20.png)
 
 Per poter consentire agli utenti appartenenti al Ruolo in oggetto di
 gestire una specifica pagina del sito, è sufficiente selezionarla
@@ -18,20 +18,20 @@ I pulsanti presenti nella contestuale barra degli strumenti consentono
 rispettivamente di:
 
 - **Tutte le Pagine** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_tutte_le_pagine.bmp](./assets/media/image21.png) ): consente di selezionare contemporaneamente tutte
+  ![](./assets/media/image21.png) ): consente di selezionare contemporaneamente tutte
   le pagine del sito.
 
 - **Pagine** **Prodotto**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_pagine_prodotto.bmp](./assets/media/image22.png) ): consente di selezionare
+  (![](./assets/media/image22.png) ): consente di selezionare
   contemporaneamente tutte le pagine "Prodotto" del sito (pagine rosse).
 
 - **Pagine** **Catalogo**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_pagine_catalogo.bmp](./assets/media/image23.png) ): consente di selezionare
+  (![](./assets/media/image23.png) ): consente di selezionare
   contemporaneamente tutte le pagine "Catalogo" del sito (pagine
   azzurre).
 
 - **Deseleziona**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_deseleziona.bmp](./assets/media/image24.png) ): consente di deselezionare
+  (![](./assets/media/image24.png) ): consente di deselezionare
   contemporaneamente tutte le pagine attualmente selezionate.
 
 Per maggiori informazioni sulle diverse tipologie di pagina gestite da

@@ -5,7 +5,7 @@
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_archivio_news_res.bmp](./assets/media/image6.png)
+![](./assets/media/image6.png)
 
 suddivisa in varie sezioni.
 
@@ -287,7 +287,7 @@ Una volta applicato uno qualsiasi dei filtri sopra indicati, questo
 stesso filtro potrà essere rimosso cliccando sul corrispondente pulsante
 **"Rimuovi Filtro"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\rimuovi_filtro_esempio.bmp](./assets/media/image7.png)
+![](./assets/media/image7.png)
 
 **Visualizza anche i contenuti interni a una Gerarchia di Contenuti:**
 se selezionato consentirà di visualizzare all'interno del corrispondente

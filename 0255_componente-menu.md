@@ -10,5 +10,5 @@ graficamente il menù secondo la tipologia di sito desiderata, tenendo
 conto anche dell'aspetto grafico, dell'indicizzazione sui motori di
 ricerca e del contenuto delle voci di menu.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_menu_res.bmp](./assets/media/image10.png)
+![](./assets/media/image10.png)
 

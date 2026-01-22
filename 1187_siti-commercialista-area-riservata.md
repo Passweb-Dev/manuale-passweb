@@ -77,5 +77,5 @@ Per attivare o disattivare una specifica App (e la relativa sezione in
 Area Riservata) è sufficiente agire all'interno dell'apposita sezione
 del Wizard accessibile dal menu "*Sito -- Preferenze*".
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\preferenze_area_riservata_passcom.bmp](./assets/media/image1.png)
+![](./assets/media/image1.png)
 

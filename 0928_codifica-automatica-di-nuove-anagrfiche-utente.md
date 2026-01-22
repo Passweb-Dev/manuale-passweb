@@ -63,7 +63,7 @@ verrà utilizzato come campo chiave.** In conseguenza di ciò
   Privato" e "Persona Fisica" non selezionati**) con **Ragione Sociale**
   impostata sul valore inserito dall'utente nel campo Azienda di Magento
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\anagrafica_azienda_mexal.bmp](./assets/media/image682.png)
+![](./assets/media/image682.png)
 
 - se il campo "Azienda" presente sull'indirizzo di fatturazione di
   Magento non dovesse essere valorizzato, allora l'anagrafica creata sul
@@ -73,14 +73,14 @@ verrà utilizzato come campo chiave.** In conseguenza di ciò
   inseriti dall'utente nei relativi campi dell'indirizzo di fatturazione
   di Magento.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\anagrafica_azienda_personale_mexal.bmp](./assets/media/image683.png)
+![](./assets/media/image683.png)
 
 > Al contrario, nel momento in cui il campo relativo alla partita IVA
 > non fosse valorizzato l'utente creato in Passweb (e conseguentemente
 > nel gestionale Passepartout) sarà invece un utente Privato (campi
 > "**Soggetto Privato**" e "**Persona Fisica**" entrambi selezionati)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\anagrafica_privato_mexal.bmp](./assets/media/image684.png)
+![](./assets/media/image684.png)
 
 - **I campi SDI e PEC necessari per la fatturazione elettronica**
   verranno valorizzati con i dati inseriti dall'utente nei relativi
@@ -121,7 +121,7 @@ verrà utilizzato come campo chiave.** In conseguenza di ciò
 > sezione "**Riferimenti di Trasporto**" non verrà inserito nessun
 > indirizzo.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\magento_sincro_ordini_3.bmp](./assets/media/image797.png)
+![](./assets/media/image797.png)
 
 > In queste condizioni tanto per la spedizione quanto per la
 > fatturazione occorrerà quindi fare riferimento all'indirizzo presente
@@ -175,12 +175,12 @@ quello di un Cliente Y.**
 Supponendo quindi che l'utente registrato al sito sia l'utente
 "**Francesco -- ClienteXA**" come indicato in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\fatturare_a_magento_1.bmp](./assets/media/image798.png)
+![](./assets/media/image798.png)
 
 in fase di ordine avremo, per il caso in esame, una situazione del tipo
 di quella qui di seguito evidenziata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\fatturare_a_magento_2.bmp](./assets/media/image799.png)
+![](./assets/media/image799.png)
 
 - Indirizzo di **spedizione** relativo al cliente "Francesco --
   ClienteXA" (proprietario dell'account)
@@ -192,19 +192,19 @@ In queste condizioni:
 
 - Sul gestionale verranno create le anagrafiche di entrambi gli utenti
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\fatturare_a_magento_3.bmp](./assets/media/image800.png)
+![](./assets/media/image800.png)
 
 - L'ordine acquisito da Magento sarà intestato all'anagrafica cliente
   relativa a quanto indicato sull'indirizzo di fatturazione (Andrea --
   ClienteYA)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\fatturare_a_magento_4.bmp](./assets/media/image801.png)
+![](./assets/media/image801.png)
 
 - L'indirizzo di spedizione presente nel piede del documento gestionale
   sarà quello relativo all'anagrafica indicata nell'indirizzo di
   spedizione acquisito da Magento (Francesco -- ClienteXA)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\fatturare_a_magento_5.bmp](./assets/media/image802.png)
+![](./assets/media/image802.png)
 
 - Ovviamente, lato Magento, il documento, anche dopo eventuali
   spedizioni / evasioni rimarrà sempre legato all'anagrafica del cliente
@@ -218,12 +218,12 @@ spedizione che di fatturazione quello di un Cliente Y.**
 Supponendo quindi che l'utente registrato al sito sia l'utente
 "**Francesco -- ClienteXA**" come indicato in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\fatturare_a_magento_1.bmp](./assets/media/image798.png)
+![](./assets/media/image798.png)
 
 in fase di ordine avremo, per il caso in esame, una situazione del tipo
 di quella qui di seguito evidenziata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\fatturare_a_magento_7.bmp](./assets/media/image803.png)
+![](./assets/media/image803.png)
 
 - Indirizzo di **spedizione** relativo al cliente "Andrea -- ClienteYA"
 
@@ -236,7 +236,7 @@ In queste condizioni:
   indicato negli indirizzi di fatturazione e spedizione (Andrea --
   ClienteYA)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\fatturare_a_magento_8.bmp](./assets/media/image804.png)
+![](./assets/media/image804.png)
 
 > Passweb effettuerà anche un controllo per verificare se l'anagrafica
 > del cliente indicato nell'ordine acquisto da Magento sia eventualmente
@@ -263,7 +263,7 @@ In queste condizioni:
   relativa a quanto indicato sull'indirizzo di fatturazione (Andrea --
   ClienteYA)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\fatturare_a_magento_9.bmp](./assets/media/image805.png)
+![](./assets/media/image805.png)
 
 > **ATTENZIONE! In queste condizioni non sarà possibile creare sul
 > gestionale l'anagrafica dell'utente "Francesco -- Cliente XA"**
@@ -281,7 +281,7 @@ In queste condizioni:
   piede del documento gestionale, all'interno della sezione
   "**Riferimenti di Trasporto**" non verrà inserito nessun indirizzo
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\fatturare_a_magento_10.bmp](./assets/media/image806.png)
+![](./assets/media/image806.png)
 
 - Ovviamente, lato Magento, il documento, anche dopo eventuali
   spedizioni / evasioni rimarrà sempre legato all'anagrafica del cliente
@@ -298,12 +298,12 @@ quello di un Cliente Z**
 Supponendo quindi che l'utente registrato al sito sia l'utente
 "**Francesco -- ClienteXA**" come indicato in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\fatturare_a_magento_1.bmp](./assets/media/image798.png)
+![](./assets/media/image798.png)
 
 in fase di ordine avremo, per il caso in esame, una situazione del tipo
 di quella qui di seguito evidenziata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\fatturare_a_magento_14.bmp](./assets/media/image807.png)
+![](./assets/media/image807.png)
 
 - Indirizzo di **spedizione** relativo al cliente "Filippo -- ClienteZA"
 
@@ -351,13 +351,13 @@ Passweb**
 - verrà creata sul gestionale anche l' anagrafica del cliente indicato
   nell' indirizzo di spedizione (Filippo -- ClienteZA)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\fatturare_a_magento_16.bmp](./assets/media/image808.png)
+![](./assets/media/image808.png)
 
 - L'ordine acquisito da Magento sarà intestato all'anagrafica cliente
   relativa a quanto indicato sull'indirizzo di fatturazione (Andrea --
   ClienteYA)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\fatturare_a_magento_17.bmp](./assets/media/image809.png)
+![](./assets/media/image809.png)
 
 > **ATTENZIONE!** In queste condizioni non sarà possibile creare sul
 > gestionale l'anagrafica dell'utente "Francesco -- Cliente XA"
@@ -373,7 +373,7 @@ Passweb**
   sarà quello relativo all'anagrafica indicata nell'indirizzo di
   spedizione acquisito da Magento (Filippo -- ClienteZA)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\fatturare_a_magento_18.bmp](./assets/media/image810.png)
+![](./assets/media/image810.png)
 
 **Nel caso in cui l'utente che ha generato l'ordine su Magento
 (Francesco -- ClienteXA) dovesse già essere presente tra le anagrafiche
@@ -385,13 +385,13 @@ di Passweb**
   collegato all'anagrafica dell'utente che ha generato l'ordine su
   Magento (Francesco -- ClienteXA)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\fatturare_a_magento_12.bmp](./assets/media/image811.png)
+![](./assets/media/image811.png)
 
 - L'ordine acquisito da Magento sarà intestato all'anagrafica cliente
   relativa a quanto indicato sull'indirizzo di fatturazione (Andrea --
   ClienteYA)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\fatturare_a_magento_13.bmp](./assets/media/image812.png)
+![](./assets/media/image812.png)
 
 - L'indirizzo di spedizione presente nel piede del documento gestionale
   sarà quello relativo all'anagrafica indicata nell'indirizzo di
@@ -399,7 +399,7 @@ di Passweb**
   riportato anche il nominativo del cliente Mexal (Francesco -- Cliente
   XA) cui tale indirizzo è stato associato come indirizzo secondario
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\fatturare_a_magento_15.bmp](./assets/media/image813.png)
+![](./assets/media/image813.png)
 
 Anche in queste condizioni ovviamente, lato Magento, il documento, anche
 dopo eventuali spedizioni / evasioni rimarrà sempre legato

@@ -7,7 +7,7 @@ componenti di tipo "Interazione Utente", consente di inserire
 all'interno del proprio sito web un form di iscrizione alla Newsletter
 realizzato con MailChimp.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_step_35.bmp](./assets/media/image54.png)
+![](./assets/media/image54.png)
 
 Al fine di poter realizzare in maniera corretta l'integrazione tra il
 sito Passweb e MailChimp è necessario, innanzi tutto, impostare
@@ -18,18 +18,18 @@ Per prima cosa sarà quindi necessario collegarsi al proprio account
 MailChimp, aprire il menu di gestione del proprio profilo come mostrato
 in figura, e cliccare sulla voce **"Account"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_account.bmp](./assets/media/image55.png)
+![](./assets/media/image55.png)
 
 Sarà poi necessario aprire il menu "**Extra**" e da qui selezionare la
 voce **"API Keys"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_apikeys.bmp](./assets/media/image56.png)
+![](./assets/media/image56.png)
 
 Una volta avuto accesso alla maschera di creazione e gestione delle API
 Keys sarà quindi sufficiente cliccare sul pulsante "**Create A Key**",
 presente nella parte bassa della maschera per generare la nuova API Key
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_step_37.bmp](./assets/media/image57.png)
+![](./assets/media/image57.png)
 
 da copiare ed incollare in Passweb all'interno del campo **"MailChimp
 API Key"** presente nella sezione **"MailChimp Newsletter"** del menu
@@ -50,7 +50,7 @@ Newsletter realizzato con MailChimp.
 Inserendo questo componente all'interno della pagina verrà visualizzata
 la sua maschera di gestione e configurazione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mailchimp_step_40.bmp](./assets/media/image59.png)
+![](./assets/media/image59.png)
 
 attraverso cui poter impostare i principali parametri di configurazione.
 

@@ -8,7 +8,7 @@ necessario impostare anche tutta una serie di altri campi specifici per
 la particolare modalità di pagamento considerata e presenti all'interno
 della sezione **"Parametri Gateway"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamenti_online2.bmp](./assets/media/image35.png)
+![](./assets/media/image35.png)
 
 **ATTENZIONE! I parametri di configurazione presenti all'interno della
 sezione in esame variano in relazione alla particolare modalità di

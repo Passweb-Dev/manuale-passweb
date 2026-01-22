@@ -45,7 +45,7 @@ automaticamente per eseguire questo tipo di operazione **lasciando
 comunque all'utente la possibilità di forzare una sincronizzazione
 totale (pulsante "Tutti")**.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\sincronizzazione_variati_0.bmp](./assets/media/image181.png)
+![](./assets/media/image181.png)
 
 Per maggiori informazioni in merito a come lanciare questo tipo di
 sincronizzazione si vedano i successivi capitoli di questo manuale

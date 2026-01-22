@@ -75,7 +75,7 @@ seguito indicato:
 > valori sopra indicati in base alla tipologia del componente utilizzato
 > per effettuare la ricerca sul sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_173.bmp](./assets/media/image20.png)
+![](./assets/media/image20.png)
 
 - **search_Nome_Tracciamento:** valore utilizzato per la ricerca
 
@@ -86,7 +86,7 @@ seguito indicato:
 > corrispondenza del campo "Nome Tracciamento" (il tutto riportato in
 > minuscolo)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_173_a.bmp](./assets/media/image21.png)
+![](./assets/media/image21.png)
 
 > **ATTENZIONE!** Eventuali spazi presenti all'interno del campo
 > evidenziato in figura verranno sostituiti dal carattere \_
@@ -174,7 +174,7 @@ seguito indicato:
 > ricerca in corrispondenza del campo "Nome Tracciamento" (il tutto
 > riportato in minuscolo)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_173_a.bmp](./assets/media/image21.png)
+![](./assets/media/image21.png)
 
 > **ATTENZIONE!** Eventuali spazi presenti all'interno del campo
 > evidenziato in figura verranno sostituiti dal carattere \_

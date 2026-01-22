@@ -5,7 +5,7 @@
 La pagina "**I Tuoi Dati**" accessibile cliccando sulla voce di menu
 "**Profilo**" evidenziata in figura:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amministrazione_profilo_utente.bmp](./assets/media/image13.png)
+![](./assets/media/image13.png)
 
 consente di visualizzare e gestire i dati della propria utenza.
 

@@ -19,7 +19,7 @@ configurazione di ogni singolo Componente Passweb consente di:
 
 - attivare per il componente in esame specifiche animazioni CSS
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componenti_configurazione_3_res.bmp](./assets/media/image72.png)
+![](./assets/media/image72.png)
 
 Nello specifico dunque il parametro:
 
@@ -28,7 +28,7 @@ Nello specifico dunque il parametro:
   relazione alla specifica dimensione dello schermo del dispositivo**,
   su cui verrà poi visualizzato il sito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\visibilita_componente.bmp](./assets/media/image73.png)
+![](./assets/media/image73.png)
 
 > Grazie a questo parametro è possibile quindi decidere, in maniera
 > piuttosto semplice, quali contenuti della pagina dovranno essere
@@ -71,7 +71,7 @@ Nello specifico dunque il parametro:
 
 - **Dall'albero dei Componenti**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\selezione_componente_albero.bmp](./assets/media/image74.png)
+![](./assets/media/image74.png)
 
 > In queste condizioni una volta selezionato il componente in esame
 > compariranno nella barra degli strumenti tutte le icone di gestione
@@ -102,7 +102,7 @@ Nello specifico dunque il parametro:
 - **Utilizzando il pulsante "Classi Responsive"** presente nel menu
   principale di Editing del sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\me_classi_responsive.bmp](./assets/media/image75.png)
+![](./assets/media/image75.png)
 
 > Cliccando su questo pulsante verrà infatti visualizzato immediatamente
 > a fianco del menu di editing un piccolo box mediante il quale poter
@@ -111,7 +111,7 @@ Nello specifico dunque il parametro:
 > visualizzati all'interno del Live Editing in maniera tale da poter
 > essere correttamente gestiti.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\classi_responsive.bmp](./assets/media/image76.png)
+![](./assets/media/image76.png)
 
 > Selezionando dunque, in relazione allo specifico esempio che stiamo
 > considerando, l'opzione "**Medium e Superiori ( \>= 768px )**",
@@ -149,7 +149,7 @@ Nello specifico dunque il parametro:
 >
 > E' possibile selezionare uno dei seguenti valori:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\larghezza_componente.bmp](./assets/media/image77.png)
+![](./assets/media/image77.png)
 
 - **Centrato con padding laterale**: selezionando questa opzione il
   componente in oggetto verrà centrato orizzontalmente rispetto alla
@@ -249,7 +249,7 @@ Nello specifico dunque il parametro:
   attivato il modulo di gestione dell'App mobile e la pagina in esame
   sia stata impostata come visibile tanto per il Sito quanto per l'App.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_visibilita_app.bmp](./assets/media/image82.png)
+![](./assets/media/image82.png)
 
 > Consente di impostare la visibilità del Componente a livello di Sito
 > Web e/o di App Mobile. E' possibile selezionare uno dei seguenti
@@ -270,7 +270,7 @@ Nello specifico dunque il parametro:
 - **CSS:** consente di inserire regole CSS aggiuntive utili per
   stilizzare, in maniera avanzata, il componente in esame.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\avanzate_animazioni_css.bmp](./assets/media/image83.png)
+![](./assets/media/image83.png)
 
 > Come già per gli altri editor di codice presenti nelle diverse sezioni
 > di Passweb, anche in questo caso sono attivi i seguenti tasti
@@ -280,7 +280,7 @@ Nello specifico dunque il parametro:
   all'interno dell'editor di codice HTML, attivando il relativo campo di
   testo
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\code_mirror_ricerca.bmp](./assets/media/image84.png)
+![](./assets/media/image84.png)
 
 - **Ctrl + G / Cmd + G**: Consente, una volta effettuata una specifica
   ricerca all'interno dell'editor di codice HTML, di attivare la
@@ -416,7 +416,7 @@ Nello specifico dunque il parametro:
 > impostare le caratteristiche e le proprietà dell'animazione che si
 > intende applicare. In particolare il campo
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componenti_configurazione_4_res.bmp](./assets/media/image85.png)
+![](./assets/media/image85.png)
 
 - **Animazione**: consente di selezionare, da un apposito menu a
   tendina, il tipo di animazione che si intende abilitare (bounce,

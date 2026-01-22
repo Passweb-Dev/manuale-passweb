@@ -24,7 +24,7 @@ delle prenotazioni e/o degli ordini, è infatti quella di avere assegnato
 nella propria anagrafica una specifica login e una specifica password di
 accesso al sito.**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\horeca_esportazione_utenti.bmp](./assets/media/image119.png)
+![](./assets/media/image119.png)
 
 In questo senso poi, come per Mexal, è bene sottolineare che per quel
 che riguarda la login utente nel caso di:
@@ -88,5 +88,5 @@ b.  Operando direttamente all'interno del Wizard di Passweb, ed
     utilizzando per questo il flag "**Blocca Accesso al Login**"
     presente nell'anagrafica dello specifico cliente
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\black_list2.bmp](./assets/media/image120.png)
+![](./assets/media/image120.png)
 

@@ -6,7 +6,7 @@ Come già indicato nel precedente capitolo di questo manuale la sezione
 "**Area Riservata\"** consente di impostare i principali parametri di
 configurazione relativi all'Area Riservata del proprio sito Passweb.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\preferenze_area_riservata2.bmp](./assets/media/image9.png)
+![](./assets/media/image9.png)
 
 Nello specifico il parametro:
 
@@ -74,7 +74,7 @@ capitolo "Business To Business -- Area Riservata" di questo manuale.
 
 Il campo "**Code Snippet Area Riservata**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\css_area_riservata.bmp](./assets/media/image18.png)
+![](./assets/media/image18.png)
 
 consente invece di inserire codice CSS e/o Javascript (iniettato poi in
 apposti tag \< style \> e \< script \>) che verrà riportato in tutte le
@@ -93,7 +93,7 @@ dovranno essere visualizzati, nella Dashboard dell'Area Riservata, nel
 momento in cui ad effettuare il login dovesse essere un cliente
 appositamente abilitato ad accedere a questa specifica sezione del sito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_preferenze_dashboard_cliente.bmp](./assets/media/image19.png)
+![](./assets/media/image19.png)
 
 In questo senso il parametro:
 
@@ -172,7 +172,7 @@ dovranno essere visualizzati, nella Dashboard dell'Area Riservata, nel
 momento in cui ad effettuare il login dovesse essere un Agente
 appositamente abilitato ad accedere a questa specifica sezione del sito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_preferenze_dashboard_agente.bmp](./assets/media/image20.png)
+![](./assets/media/image20.png)
 
 In questo senso il parametro:
 
@@ -244,7 +244,7 @@ Supponiamo di dover prendere in considerazione **un solo ordine
 effettuato da un utente di tipo Azienda** i cui totali sono esattamente
 quelli rappresentati in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\importi_statistiche.bmp](./assets/media/image21.png)
+![](./assets/media/image21.png)
 
 - Totale Merce: 203.52€
 

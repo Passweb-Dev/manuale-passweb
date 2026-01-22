@@ -8,7 +8,7 @@ Account**" solo dopo aver configurato e salvato i parametri di
 Configurazione, permette di decidere quali dati Ecommerce dovranno
 essere trasferiti dal proprio sito ad ActiveCampaign
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ac_7.bmp](./assets/media/image7.png)
+![](./assets/media/image7.png)
 
 In questo senso dunque il parametro:
 
@@ -21,7 +21,7 @@ In questo senso dunque il parametro:
 > immediatamente anche ad ActiveCampaign e sarà inserito nella sezione
 > Ecommerce del relativo contatto
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ac_8.bmp](./assets/media/image8.png)
+![](./assets/media/image8.png)
 
 > Oltre ai dati specifici dell'ordine (articoli, totale merce ...)
 > verranno inviati ad Active anche i seguenti dati:

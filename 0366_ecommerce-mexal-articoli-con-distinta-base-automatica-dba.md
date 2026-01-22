@@ -11,7 +11,7 @@ un articolo con DBA i singoli componenti della DBA stessa, sarà
 necessario inserire all'interno della scheda prodotto, il componente
 "Campionario E-commerce" .
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_campionario.bmp](./assets/media/image67.png)
+![](./assets/media/image67.png)
 
 > **NOTA BENE:** il componente "Campionario E-commerce" consente di
 > gestire anche articoli Mexal di tipo A con Distinta Base Automatica

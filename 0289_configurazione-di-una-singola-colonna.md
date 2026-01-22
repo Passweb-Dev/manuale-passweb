@@ -19,7 +19,7 @@ presente sul R.O.C. di ogni singola colonna della griglia verrà aperta
 **la sua maschera di gestione e configurazione** suddivisa in varie
 sezioni
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\colonna_configurazione.bmp](./assets/media/image107.png)
+![](./assets/media/image107.png)
 
 Come al solito all'interno della sezione "**Dati Componente**" sarà
 possibile settare i principali parametri di configurazione della
@@ -64,13 +64,13 @@ possibile, come per un qualsiasi altro componente Passweb, impostare,
 tra le altre cose, la visibilità della colonna in oggetto in relazione
 allo specifico dispositivo in cui verrà poi visualizzato il sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\visibilita_colonna.bmp](./assets/media/image108.png)
+![](./assets/media/image108.png)
 
 La sezione "**Gestione Contenuti**" consente infine di impostare **il
 dimensionamento della colonna** in relazione alle diverse risoluzioni
 dei dispositivi di visualizzazione utilizzati.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\colonna_gestione_contenuti.bmp](./assets/media/image109.png)
+![](./assets/media/image109.png)
 
 In particolare per ogni tipologia di dispositivo gestita (dispositivi
 extra large, large, medium, small ed extra small) è possibile indicare
@@ -195,5 +195,5 @@ assegnato sia un offset destro che un offset sinistro la colonna stessa
 si posizionerà esattamente al centro dello spazio disponibile
 all'interno della griglia**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\colonna_offset.bmp](./assets/media/image110.png)
+![](./assets/media/image110.png)
 

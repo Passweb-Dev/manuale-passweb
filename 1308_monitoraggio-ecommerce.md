@@ -39,7 +39,7 @@ seguenti parametri:
 
 - **Google Analytics -- Eventi Utente**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_preferenze_eventi_ecommerce.bmp](./assets/media/image19.png)
+![](./assets/media/image19.png)
 
 Ciascuno dei parametri indicati consente infatti a Passweb, se
 opportunamente abilitato, di attivare il codice necessario per inviare

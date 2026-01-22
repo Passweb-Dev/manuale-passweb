@@ -12,7 +12,7 @@ qualsiasi altro RSS.
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componenti-rss_res.bmp](./assets/media/image34.png)
+![](./assets/media/image34.png)
 
 suddivisa in varie sezioni.
 

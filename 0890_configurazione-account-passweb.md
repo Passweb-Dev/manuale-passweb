@@ -21,13 +21,13 @@ Nello specifico sarà quindi necessario:
     account (si può utilizzare lo stesso account utilizzato anche per
     accedere a Google Merchant)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_next_conf_1.bmp](./assets/media/image421.png)
+![](./assets/media/image421.png)
 
 > e cliccare poi sul pulsante "**Create Project**".
 
 2.  Assegnare un nome al progetto e cliccare sul pulsante "**Create**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_next_conf_2.bmp](./assets/media/image422.png)
+![](./assets/media/image422.png)
 
 3.  Una volta creato il nuovo progetto aprire il menu laterale cliccando
     sull'apposita icona presente nella parte alta della pagina.
@@ -35,31 +35,31 @@ Nello specifico sarà quindi necessario:
     in maniera tale da accedere alla libreria delle API attivabili per
     il progetto in esame
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_next_conf_3.bmp](./assets/media/image423.png)
+![](./assets/media/image423.png)
 
 4.  Selezionare l'API "**Content API for Shopping**" utilizzando
     l'apposito pannello di ricerca
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_next_conf_4.bmp](./assets/media/image424.png)
+![](./assets/media/image424.png)
 
 > e abilitarla cliccando sul pulsante "**Enable**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_next_conf_5.bmp](./assets/media/image425.png)
+![](./assets/media/image425.png)
 
 5.  Dopo aver attivato la Content API for Shopping accedere alla sezione
     "**Credential**" dal relativo menu laterale
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_next_conf_6.bmp](./assets/media/image426.png)
+![](./assets/media/image426.png)
 
 6.  Cliccare sul pulsante "**Create Credentials**" e selezionare
     l'opzione "**Service account**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_next_conf_7.bmp](./assets/media/image427.png)
+![](./assets/media/image427.png)
 
 7.  Assegnare un nome al nuovo account di servizio e copiare l'indirizzo
     mail che gli verrà assegnato in automatico
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_next_conf_8.bmp](./assets/media/image428.png)
+![](./assets/media/image428.png)
 
 > **ATTENZIONE!** l'indirizzo mail associato all'account di servizio che
 > stiamo creando è di fondamentale importanza inquanto ci servirà poi
@@ -71,7 +71,7 @@ Nello specifico sarà quindi necessario:
 8.  Nei successivi passaggi lasciare le impostazioni di default e
     cliccare su "**Done**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_next_conf_9.bmp](./assets/media/image429.png)
+![](./assets/media/image429.png)
 
 9.  Una volta completata la creazione del nuovo account di servizio sarà
     ora necessario creare la chiave JSON ad esso associata e che dovremo
@@ -82,21 +82,21 @@ Nello specifico sarà quindi necessario:
 > icona di edit (o anche direttamente sull'indirizzo mail ad esso
 > associato)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_next_conf_10.bmp](./assets/media/image430.png)
+![](./assets/media/image430.png)
 
 > e selezionare poi la voce "**Keys**" evidenziata in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_next_conf_11.bmp](./assets/media/image431.png)
+![](./assets/media/image431.png)
 
 10. Cliccare quindi sul pulsante "**ADD KEY**" e selezionare l'opzione
     "**Create new key**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_next_conf_12.bmp](./assets/media/image432.png)
+![](./assets/media/image432.png)
 
 11. Nella successiva maschera di creazione della chiave selezionare
     l'opzione JSON
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_next_conf_13.bmp](./assets/media/image433.png)
+![](./assets/media/image433.png)
 
 > e cliccare sul pulsante "**CREATE**"
 >
@@ -105,7 +105,7 @@ Nello specifico sarà quindi necessario:
 > Passweb in fase di configurazione dell'account Google Merchant (si
 > vedano i successivi passaggi per ulteriori informazioni)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_next_conf_14.bmp](./assets/media/image434.png)
+![](./assets/media/image434.png)
 
 > Arrivati a questo punto dovremo ora andare ad aggiungere l'account di
 > servizio appena creato come utente del Google Merchant Center
@@ -115,21 +115,21 @@ Nello specifico sarà quindi necessario:
     (Settings & Tools) presente in testata e selezionare l'opzione
     "**People and access**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_next_conf_15.bmp](./assets/media/image435.png)
+![](./assets/media/image435.png)
 
 13. Cliccare quindi su "**Add user**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_next_conf_16.bmp](./assets/media/image436.png)
+![](./assets/media/image436.png)
 
 > e aggiungere l'utente di servizio precedentemente creato (punti 7 e 8)
 > utilizzando il suo indirizzo mail
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_next_conf_17.bmp](./assets/media/image437.png)
+![](./assets/media/image437.png)
 
 14. Nella successiva maschere "User access" assegnare all'utente
     l'accesso come admin
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_next_conf_18.bmp](./assets/media/image438.png)
+![](./assets/media/image438.png)
 
 > e cliccare quindi sul pulsante "**Add user**"
 
@@ -152,7 +152,7 @@ Nello specifico sarà quindi necessario:
 > Per codificare le spese di trasporto sarà necessario agire all'interno
 > della sezione "**Shipping and returns**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_21.bmp](./assets/media/image439.png)
+![](./assets/media/image439.png)
 
 > Una volta terminata la configurazione del Merchant Center il passo
 > successivo sarà quello che prevede di configurare l'integrazione tra
@@ -168,7 +168,7 @@ Nello specifico sarà quindi necessario:
     selezionare, all'interno del campo "**Marketplace**" l'opzione
     "**Google Merchant**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_16.bmp](./assets/media/image440.png)
+![](./assets/media/image440.png)
 
 18. Compilare i campi presenti all'interno della sezione
     "**Credenziali**" con i dati di seguito indicati:
@@ -181,7 +181,7 @@ Nello specifico sarà quindi necessario:
 > quanto riportato in alto a destra (dove sono indicate anche altre
 > informazioni del nostro account)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_17.bmp](./assets/media/image441.png)
+![](./assets/media/image441.png)
 
 > Copiare quindi il codice evidenziato in figura e inserirlo nel
 > corrispondente campo Passweb
@@ -307,7 +307,7 @@ parametro "**Modalità pubblicazione articoli**" presente nella sezione
 "**Metodi di pubblicazione**" della maschera "**Dati Account**"
 sull'opzione **API**, come evidenziato nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_api.bmp](./assets/media/image442.png)
+![](./assets/media/image442.png)
 
 In queste condizioni, come evidenziato anche nel precedente capitolo di
 questo manuale, la pubblicazione dei dati articolo sulla piattaforma
@@ -322,7 +322,7 @@ parametro "**Modalità pubblicazione articoli**" presente nella sezione
 "**Metodi di pubblicazione**" della maschera "**Dati Account**"
 sull'opzione **CSV**, come evidenziato nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_csv.bmp](./assets/media/image443.png)
+![](./assets/media/image443.png)
 
 In questo caso occorrerà poi impostare anche tutta una serie di altri
 parametri necessari per configurare in maniera corretta la creazione dei
@@ -542,7 +542,7 @@ dati contenuti in questi file sulla piattaforma terza, il tutto
 dipenderà essenzialmente da come verranno impostati i campi presenti
 nella sezione "**Repository**" dal tab "Metodi di pubblicazione"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_csv2.bmp](./assets/media/image444.png)
+![](./assets/media/image444.png)
 
 In questo senso infatti il campo:
 
@@ -587,7 +587,7 @@ csv prodotti da Passweb in maniera completamente manuale, e senza quindi
 ricorrere a nessun Repository, sarà sufficiente impostare il parametro
 "**Repository CSV**" sull'opzione "**Non gestito**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_csv3.bmp](./assets/media/image445.png)
+![](./assets/media/image445.png)
 
 In queste condizioni dunque a seguito di ogni operazione di
 pubblicazione articoli (indipendentemente dal fatto che sia una
@@ -597,7 +597,7 @@ quindi essere scaricati in maniera manuale operando all'interno del tab
 "**Download CSV**" presente anch'esso nella maschera di configurazione
 del relativo Account
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_csv4.bmp](./assets/media/image446.png)
+![](./assets/media/image446.png)
 
 All'interno di questa sezione, visibile solo nel momento in cui per
 l'Account in esame si stia utilizzando un metodo di pubblicazione
@@ -633,7 +633,7 @@ Per far questo sarà necessario:
 - Accedere al proprio account Merchant Center, cliccare sulla voce
   "**Prodotti -- Feed**" presente nel menu di sinistra
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_csv5.bmp](./assets/media/image449.png)
+![](./assets/media/image449.png)
 
 > e selezionare uno dei Feed presenti in elenco (sezione "**Feed
 > Principali**")
@@ -646,12 +646,12 @@ Per far questo sarà necessario:
 - Nella maschera di dettaglio del Feed selezionato cliccare sul pulsante
   "**Carica file**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_csv6.bmp](./assets/media/image450.png)
+![](./assets/media/image450.png)
 
 > Selezionare quindi il file CSV prodotto da Passweb e cliccare sul
 > pulsante "**CAricamento**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_csv7.bmp](./assets/media/image451.png)
+![](./assets/media/image451.png)
 
 > Il pulsante "**Carica come prova**" consente di effettuare
 > un'importazione di prova senza incorporare effettivamente nel Feed i
@@ -682,7 +682,7 @@ anche alla piattaforma terza deputata alla loro elaborazione.
 Per attivare questo tipo di repository è necessario, per prima cosa,
 impostare il parametro "**Repository CSV**" sull'opzione "**FTP**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_csv8.bmp](./assets/media/image452.png)
+![](./assets/media/image452.png)
 
 Fatto questo sarà poi necessario impostare anche tutta una serie di
 altri parametri necessari per consentire a Passweb di accedere all'area
@@ -754,7 +754,7 @@ Per attivare questo tipo di repository è necessario, per prima cosa,
 impostare il parametro "**Repository CSV**" sull'opzione "**Google
 Drive**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_csv9.bmp](./assets/media/image453.png)
+![](./assets/media/image453.png)
 
 Fatto questo sarà poi necessario impostare anche tutta una serie di
 altri parametri necessari per consentire a Passweb di connettersi
@@ -882,7 +882,7 @@ connettersi con tale cartella.
 > "**Client Secret**" presenti all'interno della sezione Repository nel
 > tab "**Metodi di pubblicazione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_csv10.bmp](./assets/media/image471.png)
+![](./assets/media/image471.png)
 
 - Restando sempre sul Wizard di Passweb indicare all'interno del campo
   "**Nome Cartella**" il nome da assegnare alla Cartella Google Drive in
@@ -900,7 +900,7 @@ connettersi con tale cartella.
   connessione e avviare il processo di creazione della cartella stessa
   sarà necessario cliccare sul pulsante "**Genera Token**".
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_csv11.bmp](./assets/media/image472.png)
+![](./assets/media/image472.png)
 
 > In questo modo si verrà ricondotti alla pagina di accesso all'account
 > Google **e dovremo quindi effettuare l'accesso con le credenziali
@@ -961,7 +961,7 @@ indirizzi sotto il dominio assegnato al proprio sito Passweb.
 Per attivare questo tipo di repository è necessario impostare il
 parametro "**Repository CSV**" sull'opzione "**URL Passweb**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_csv12.bmp](./assets/media/image475.png)
+![](./assets/media/image475.png)
 
 In queste condizioni non sarà necessario impostare nessun'altro
 parametro di configurazione essendo i file in esame disponibili
@@ -1024,20 +1024,20 @@ necessario:
 > programmato su di un Feed esistente si veda quanto indicato nel
 > seguito di questo capitolo)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_csv13.bmp](./assets/media/image476.png)
+![](./assets/media/image476.png)
 
 - Completare la creazione del nuovo Feed inserendo i dati necessari e
   selezionando, quando richiesto, come modalità di connessione con il
   Merchant Center il "**Recupero programmato**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_csv14.bmp](./assets/media/image477.png)
+![](./assets/media/image477.png)
 
 - Una volta selezionata l'opzione indicata in figura, cliccando sul
   pulsante "**Continua**" verrà visualizzata un'ulteriore maschera
   all'interno della quale poter indicare tutti i dati necessari per
   configurare il recupero programmato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_csv15.bmp](./assets/media/image478.png)
+![](./assets/media/image478.png)
 
 > Nello specifico il campo:
 
@@ -1099,7 +1099,7 @@ necessario:
   completare la creazione del Feed cliccando per questo sul pulsante
   "**Crea feed**" presente nella parte bassa della maschera
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_csv16.bmp](./assets/media/image479.png)
+![](./assets/media/image479.png)
 
 > In questo modo verremo automaticamente portati sulla maschera di
 > dettaglio del Feed appena creato ma, di fatto, **non avremo ancora
@@ -1116,13 +1116,13 @@ necessario:
 > file, pulsante "**Carica File**", sia forzare il recupero automatico
 > cliccando per questo sul pulsante "**Recupera ora**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_csv17.bmp](./assets/media/image480.png)
+![](./assets/media/image480.png)
 
 - Una volta completato il recupero del file la sezione "**In
   elaborazione**", presente nella maschera di dettaglio del Feed,
   mostrerà i risultati dell'elaborazione effettuata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_csv18.bmp](./assets/media/image481.png)
+![](./assets/media/image481.png)
 
 > Portandosi all'interno di questa maschera sarà quindi possibile
 > verificare la data di ultimo caricamento del file, quali prodotti sono
@@ -1138,13 +1138,13 @@ della maschera "**Prodotti -- Feed**" precedentemente analizzata e, una
 volta effettuato l'accesso alla relativa maschera di dettaglio, portarsi
 nel tab "**Impostazioni**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_csv19.bmp](./assets/media/image482.png)
+![](./assets/media/image482.png)
 
 La sezione "**Pianificazione recupero**" evidenziata in figura,
 consentirà di modificare / aggiungere al Feed in esame il recupero
 programmato.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_csv20.bmp](./assets/media/image483.png)
+![](./assets/media/image483.png)
 
 ##### ARTICOLI
 
@@ -1152,7 +1152,7 @@ All'interno del tab "**Articoli**" è possibile impostare i parametri di
 configurazione del proprio Account in relazione alla pubblicazione dei
 prodotti sul Marketplace.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_magazzini.bmp](./assets/media/image314.png)
+![](./assets/media/image314.png)
 
 Il parametro "**Magazzino degli articoli**" presente all'interno della
 sezione "**Generale**" consente di specificare quelli che dovranno
@@ -1213,7 +1213,7 @@ stato impostata la pubblicazione via CSV**, è possibile schedulare le
 operazioni di creazione dei vari file che dovranno poi essere dati in
 pasto alla piattaforma terza
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_schedulazione.bmp](./assets/media/image484.png)
+![](./assets/media/image484.png)
 
 Relativamente alle operazioni di pubblicazione automatica dei file CSV
 occorre poi tenere in considerazione alcune cose di fondamentale
@@ -1256,7 +1256,7 @@ All'interno di questa sezione è possibile decidere di attivare e quindi
 di esportare i prodotti del proprio sito Ecommerce non solo sul
 marketplace Italiano ma anche su altri Marketplace esteri.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_marketplace.bmp](./assets/media/image485.png)
+![](./assets/media/image485.png)
 
 La colonna "**Attivato**" consente di verificare e modificare lo stato
 di attivazione del relativo Marketplace. Nello specifico l'icona:
@@ -1334,7 +1334,7 @@ configurazione del Feed, che dovremo poi associare al Feed stesso uno o
 più paesi (e quindi marketplace) target, la relativa lingua e il file
 corretto da processare.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_csv21.bmp](./assets/media/image492.png)
+![](./assets/media/image492.png)
 
 ##### DOWNLOAD CSV
 
@@ -1345,7 +1345,7 @@ utilizzato), sarà possibile visualizzare e gestire in maniera manuale i
 vari file prodotti da Passweb a seguito di una qualsiasi operazione
 (automatica o manuale) di pubblicazione / arresto articoli
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_marketplace.bmp](./assets/media/image485.png)
+![](./assets/media/image485.png)
 
 **ATTENZIONE! Passweb conserva uno storico dei file relativo alle ultime
 10 pubblicazioni effettuate**

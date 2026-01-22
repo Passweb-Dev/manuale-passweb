@@ -3,7 +3,7 @@
 
 
 L'icona "**Accedi ai Componenti Interni**" (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_accedi_componenti_interni.bmp](./assets/media/image206.png) ) presente nel R.O.C. del componente e/o
+![](./assets/media/image206.png) ) presente nel R.O.C. del componente e/o
 nella barra degli strumenti dell' Albero dei Componenti consente di
 accedere alla gestione dei componenti interni al componente in esame.
 

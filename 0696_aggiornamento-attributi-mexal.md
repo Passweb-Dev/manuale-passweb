@@ -15,7 +15,7 @@ dati. Tale operazione si può verificare in due diversi momenti:
   Attributi Mexal"** della maschera "**Parametri Sincronizzazione**" di
   Passweb
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\aggiornamento_attributi.bmp](./assets/media/image175.png)
+![](./assets/media/image175.png)
 
 **ATTENZIONE!** E' grazie a questa operazione che verranno resi
 disponibili all'interno di Passweb i campi di eventuali videate
@@ -77,7 +77,7 @@ campo **E-mail** presente all'interno della sezione "**Parametri
 aggiornamento attributi**" (pagina "Parametri di sincronizzazione" del
 Wizard)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\parametri_aggiornamento_attributi.bmp](./assets/media/image176.png)
+![](./assets/media/image176.png)
 
 **ATTENZIONE!** nel caso in cui il campo E-mail evidenziato in figura
 non dovesse essere valorizzato, la mail di notifica verrà inviata

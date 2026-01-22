@@ -29,7 +29,7 @@ variazione dell'articolo) il campo "Modalità" dovrà essere impostato
 sull'opzione (disponibile solo per queste particolari specifiche)
 "**Elemento di Variazione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_mkt_inserzioni_taglie.bmp](./assets/media/image413.png)
+![](./assets/media/image413.png)
 
 In queste condizioni il campo "**Valore**", utilizzato come sempre per
 indicare da dove dovranno essere prelevati i valori da assegnare
@@ -45,7 +45,7 @@ una delle seguenti opzioni:
 
 Facendo riferimento, ad esempio, alla configurazione indicata in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_mkt_inserzioni_taglie2.bmp](./assets/media/image414.png)
+![](./assets/media/image414.png)
 
 il colore degli articoli pubblicati sulla piattaforma terza coinciderà
 con i valori, indicati lato gestionale, nell'ultimo livello della

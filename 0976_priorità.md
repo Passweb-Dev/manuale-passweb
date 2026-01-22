@@ -10,7 +10,7 @@ più desiderati e quelli meno desiderati.
 Effettuando l'accesso verrà visualizzata la maschera **"Lista
 Priorità"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_priorita.bmp](./assets/media/image281.png)
+![](./assets/media/image281.png)
 
 contenente l'elenco delle priorità attualmente codificate.
 
@@ -18,13 +18,13 @@ I pulsanti presenti nella contestuale barra degli strumenti consentono
 rispettivamente di:
 
 **Nuova Priorità**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuova_priorita.bmp](./assets/media/image282.png) ): consente di codificare una nuova
+(![](./assets/media/image282.png) ): consente di codificare una nuova
 priorità.
 
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 "**Nuova Priorità**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuova_priorita.bmp](./assets/media/image283.png)
+![](./assets/media/image283.png)
 
 all'interno della quale dover indicare un valore per i seguenti campi:
 
@@ -56,7 +56,7 @@ all'interno della quale dover indicare un valore per i seguenti campi:
 > (utilizzando in questo senso la select box presente in corrispondenza
 > di ogni singola riga articolo inserito all'interno della Lista Regalo)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\lista_regalo_selezione_priorita.bmp](./assets/media/image284.png)
+![](./assets/media/image284.png)
 
 > **ATTEZNIONE!** Per consentire al creatore della lista di assegnare
 > una priorità ai vari articoli della Lista è necessario per prima cosa
@@ -70,11 +70,11 @@ all'interno della quale dover indicare un valore per i seguenti campi:
 > Campo Lista Valori"* di questo manuale.
 
 **Modifica Priorità**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_priorita.bmp](./assets/media/image285.png) ): consente di modificare la priorità attualmente
+(![](./assets/media/image285.png) ): consente di modificare la priorità attualmente
 selezionata in elenco
 
 **Elimina Priorità**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_priorita.bmp](./assets/media/image286.png) ): consente di eliminare la priorità attualmente
+(![](./assets/media/image286.png) ): consente di eliminare la priorità attualmente
 selezionata in elenco
 
 **ATTENZIONE!** Eliminando una priorità il relativo valore verrà

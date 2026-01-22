@@ -17,13 +17,13 @@ Nello specifico sarà dunque necessario:
   impostazioni (icona raffigurante una piccola rotellina posta in
   testata) e selezionare la voce "Processing"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\braintree_paypal_6.bmp](./assets/media/image85.png)
+![](./assets/media/image85.png)
 
 - All'interno della sezione Payment Methods attivare l'interruttore
   presente in corrispondenza della sezione "**Google Pay**" e, se
   richiesto, approvare i relativi termini e condizioni
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\braintree_googlepay_1.bmp](./assets/media/image90.png)
+![](./assets/media/image90.png)
 
 **ATTENZIONE!** si ricorda che in ambiente di produzione sarà necessario
 impostare, nei parametri di configurazione Passweb anche il **Google

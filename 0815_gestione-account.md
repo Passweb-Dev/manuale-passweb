@@ -11,7 +11,7 @@ Configurazione) precedentemente creata.
 Per fare questo è necessario agire dalla sezione "**Gestione Account**"
 accessibile dalla voce di menu ***"*Catalogo -- eBay*"***
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_account_ebay.bmp](./assets/media/image19.png)
+![](./assets/media/image19.png)
 
 Coerentemente con il fatto di aver precedentemente creato tanto il Set
 di Chiavi di Configurazione relativo all'ambiente di Produzione quanto

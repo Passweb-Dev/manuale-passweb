@@ -4,12 +4,12 @@
 
 Una volta inserito il Componente all'interno della pagina web,
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_wishlist_res.bmp](./assets/media/image188.png)
+![](./assets/media/image188.png)
 
 verrà aperta in automatico **la sua maschera di gestione e
 configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\wishlist_custom_configurazione_res.bmp](./assets/media/image189.png)
+![](./assets/media/image189.png)
 
 suddivisa in varie sezioni.
 
@@ -93,7 +93,7 @@ E' possibile selezionare uno dei seguenti valori:
   essere confermate in blocco cliccando sul pulsante "**Aggiorna
   Wishlist**" presente nella parte bassa del componente.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\wishlist_custom_configurazione_res_1.bmp](./assets/media/image190.png)
+![](./assets/media/image190.png)
 
 > **ATTENZIONE!** Nelle condizioni indicate se l'utente **NON** dovesse
 > cliccare sul pulsante evidenziato in figura, eventuali variazioni
@@ -153,7 +153,7 @@ oltre al campo "**Nome**" comparirà infatti anche il campo
 possibilità di decidere, in fase di salvataggio della Wishlist, se
 creare una "**Wishlist Personale**" oppure una "**Lista Regalo**".
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\wishlist_custom_configurazione_res_2.bmp](./assets/media/image191.png)
+![](./assets/media/image191.png)
 
 Nel caso in cui, al contrario, il parametro in questione non dovesse
 essere personalizzato, gli utenti del sito potranno creare solo ed
@@ -177,7 +177,7 @@ dovessero essere stati valorizzati.
 che dovrà assumere, all'interno della griglia articoli, la colonna dei
 pulsanti (aggiungi al carrello, rimuovi articolo).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\wishlist_corrente2.bmp](./assets/media/image192.png)
+![](./assets/media/image192.png)
 
 Come per tutte le griglie responsive anche in questo caso la larghezza
 di ogni colonna (compresa quella dei bottoni) si esprime definendo

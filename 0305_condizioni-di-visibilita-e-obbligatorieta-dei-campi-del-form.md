@@ -13,7 +13,7 @@ mediante i campi "**Condizione di Visibilità**" e "**Condizione di
 Obbligatorietà**" presenti nella maschera di configurazione di ogni
 singolo componente interno al Form
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\condizioni_visibilita_obbligatorieta_res.bmp](./assets/media/image144.png)
+![](./assets/media/image144.png)
 
 **ATTENZIONE!** Per i componente "**Pulsante**" e "**Intestazione**" è
 presente, per ovvie ragioni, solamente il campo relativo alla condizione
@@ -64,7 +64,7 @@ cliccare sul pulsante "**Aggiungi nuovo filtro**" e selezionare poi, dal
 relativo menu a tendina, il campo in base al quale definire la
 condizione desiderata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\condizione_visibilita_campo_form.bmp](./assets/media/image145.png)
+![](./assets/media/image145.png)
 
 **ATTENZIONE!** all'interno del menu a tendina evidenziato in figura
 verranno visualizzato solo ed esclusivamente il campo "Nazione" e
@@ -76,13 +76,13 @@ utilizzare per definire la condizione di visibilità oltre che,
 ovviamente, il / i valori per i quali la condizione di visibilità dovrà
 o meno essere soddisfatta.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\condizione_visibilita_nazione2_res.bmp](./assets/media/image146.png)
+![](./assets/media/image146.png)
 
 Cliccando, ad esempio, sull'etichetta "**Nazioni**" verrà aperta una
 piccola finestra contenente l'elenco di tutte le nazioni utilizzabili
 per definire la condizione di visibilità delle specifico campo del form.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\condizione_visibilita_nazione3_res.bmp](./assets/media/image147.png)
+![](./assets/media/image147.png)
 
 Una volta impostate le Nazioni in grado di soddisfare la condizione di
 visibilità sarà poi sufficiente chiudere la finestra di selezione del
@@ -119,7 +119,7 @@ sarà necessario cliccare sul pulsante "**Aggiungi nuovo filtro**",
 selezionare dal relativo menu a tendina il campo in base al quale
 definire la condizione desiderata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\condizione_obbligatorieta_campo_form.bmp](./assets/media/image148.png)
+![](./assets/media/image148.png)
 
 e impostare poi operatore relazionale e valori per i quali la condizione
 di obbligatorietà dovrà o meno essere soddisfatta

@@ -12,7 +12,7 @@ sezione "**Integrazioni**" del menu "**Sito**".
 In questo modo si avrà infatti accesso alla maschera "**Lista degli
 Account**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ac_2.bmp](./assets/media/image2.png)
+![](./assets/media/image2.png)
 
 contenente l'elenco di tutti gli Account relativi alle piattaforme di
 Marketing (diverse da MailChimp) attualmente collegate e integrate con
@@ -24,7 +24,7 @@ all'interno della quale poter impostare tutti i parametri necessari per
 attivare l'integrazione tra il proprio sito Passweb e la piattaforma
 selezionata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ac_3.bmp](./assets/media/image3.png)
+![](./assets/media/image3.png)
 
 In questo senso il campo
 
@@ -41,7 +41,7 @@ sull'opzione "**Clerk**"
 Verrà quindi visualizzata la sezione "**Credenziali**" all'interno della
 quale troveremo due ulteriori campi "**Api Key**" e "**Private Key**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_1.bmp](./assets/media/image4.png)
+![](./assets/media/image4.png)
 
 all'interno dei quali dovremo inserire rispettivamente:
 
@@ -52,7 +52,7 @@ all'interno dei quali dovremo inserire rispettivamente:
 > sezione "**Developer -- API Keys**" (campo "**Public API key**") dello
 > store creato all'interno del proprio account Clerk
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_public_api_key.bmp](./assets/media/image5.png)
+![](./assets/media/image5.png)
 
 - **Private Key**: consente di inserire la chiave privata da utilizzare
   per l'integrazione Passweb -- Clerk
@@ -63,7 +63,7 @@ all'interno dei quali dovremo inserire rispettivamente:
 > pulsante "**Create new**" presente in corrispondenza della sezione
 > "**Private API Keys**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_private_api_key.bmp](./assets/media/image6.png)
+![](./assets/media/image6.png)
 
 > **ATTENZIONE!** la chiave privata verrà visualizzata in forma completa
 > solo in fase di creazione dopo di che verrà inserita asteriscata nella
@@ -107,7 +107,7 @@ Una volta salvate le due chiavi compariranno:
 - I nuovi tab **Ordini**, **Clienti**, **Categorie**, **Articoli** e
   **Pagine**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_2.bmp](./assets/media/image7.png)
+![](./assets/media/image7.png)
 
 Per maggiori informazioni relativamente a ciascuna delle sezioni sopra
 evidenziate si vedano i successivi capitoli di questo manuale.

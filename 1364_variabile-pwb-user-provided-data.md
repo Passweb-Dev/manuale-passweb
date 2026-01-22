@@ -43,12 +43,12 @@ variabile in questione:
 > Data**" (o "Dati Forniti dagli Utenti" a seconda della lingua
 > impostata all'interno del proprio browser)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_var_user_provided_data.bmp](./assets/media/image202.png)
+![](./assets/media/image202.png)
 
 3.  Nella successiva maschera impostare i campi di configurazione della
     variabile come di seguito indicato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_var_user_provided_data_2.bmp](./assets/media/image203.png)
+![](./assets/media/image203.png)
 
 - **Type**: Manual Configuration
 

@@ -13,7 +13,7 @@ infatti, impostando il parametro "**Sorgente Dati**" sul valore
 del parametro "**Campo Mexal**", anche i campo MyDB precedentemente
 creati.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\utilizzo_campi_mydb.bmp](./assets/media/image258.png)
+![](./assets/media/image258.png)
 
 Supponendo quindi di voler pubblicare l'informazione presente in un
 campo MyDB utilizzato per estendere l'anagrafica articoli, sarà

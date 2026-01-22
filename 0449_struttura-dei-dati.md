@@ -166,7 +166,7 @@ Dovremo quindi creare la cartina della spiaggia (suddivisa in 4 settori)
 in cui andare poi a posizionare e a configurare le varie risorse ossia i
 singoli ombrelloni
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\spiagge_configurazione_7.bmp](./assets/media/image375.png)
+![](./assets/media/image375.png)
 
 **ATTENZIONE! Ogni risorsa, quindi ogni ombrellone, dovrà essere
 associato al "Tipo Risorsa" corrispondente al settore in cui verrà

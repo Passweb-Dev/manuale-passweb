@@ -36,7 +36,7 @@ clienti variati rispetto all'ultima sincronizzazione terminata
 correttamente, prima di avviare una nuova sincronizzazione Mexal
 visualizzerà il seguente messaggio
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\sincronizzazione_totale1.bmp](./assets/media/image180.png)
+![](./assets/media/image180.png)
 
 indicando all'utente la data dell'ultima sincronizzazione e,
 soprattutto, evidenziando il fatto che confermando questa operazione
@@ -47,7 +47,7 @@ Nel caso in cui, invece, dovessero risultare delle variazioni ad
 articoli o clienti rispetto all'ultima sincronizzazione terminata
 correttamente, Mexal visualizzerà il seguente messaggio:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\sincronizzazione_variati_0.bmp](./assets/media/image181.png)
+![](./assets/media/image181.png)
 
 indicando anche in questo caso la data dell'ultima sincronizzazione, ed
 evidenziando questa volta però che, proseguendo nell'operazione,

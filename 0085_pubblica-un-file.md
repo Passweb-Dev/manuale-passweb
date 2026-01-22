@@ -11,13 +11,13 @@ tipo immagine (bmp, jpeg, png ...) di peso superiore ad 1 MB.
 
 Nel primo caso (**upload classico di una risorsa**) sarà necessario
 cliccare sul pulsante "**Pubblica un File"** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_pubblica_file.bmp](./assets/media/image345.png) ) presente all'interno della barra degli strumenti
+![](./assets/media/image345.png) ) presente all'interno della barra degli strumenti
 nella parte destra della pagina.
 
 In questo modo verrà infatti visualizzata la sezione "**Pubblicazione
 File**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_pubb_risorsa.bmp](./assets/media/image449.png)
+![](./assets/media/image449.png)
 
 all'interno della quale poter selezionare la risorsa da caricare.
 
@@ -72,7 +72,7 @@ risorse desiderate e rilasciarle all'interno dell'area di Drop
 visualizzata, dopo aver selezionato una specifica cartella, nella parte
 destra della maschera di "Gestione Risorse"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_risorse_area_drop.bmp](./assets/media/image450.png)
+![](./assets/media/image450.png)
 
 Ovviamente, in questo caso non sarà possibile assegnare un nome
 specifico alla risorsa uplodata che verrà quindi caricata nel database

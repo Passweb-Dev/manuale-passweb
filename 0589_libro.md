@@ -4,7 +4,7 @@
 
 Il Componente **"Libro"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_libro_res.bmp](./assets/media/image10.png)
+![](./assets/media/image10.png)
 
 consente di gestire le Gerarchie di Contenuti all'interno di una pagina
 Dettaglio, fornendo un contesto per la specifica gerarchia che si sta

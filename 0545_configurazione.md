@@ -5,7 +5,7 @@
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mailchimp_step_40.bmp](./assets/media/image35.png)
+![](./assets/media/image35.png)
 
 suddivisa in varie sezioni.
 

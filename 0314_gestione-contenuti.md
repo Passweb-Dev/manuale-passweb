@@ -5,7 +5,7 @@
 La sezione "**Gestione Contenuti**" consente di definire e gestire i
 contenuti di ogni singolo Tab.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componenti-tabs-contenuti_res.bmp](./assets/media/image179.png)
+![](./assets/media/image179.png)
 
 In particolare nella parte sinistra di questa sezione è visualizzato
 l'elenco delle schede (tabs) attualmente presenti all'interno del
@@ -15,19 +15,19 @@ I pulsanti presenti nella contestuale barra degli strumenti consentono
 rispettivamente di:
 
 - **Aggiungi scheda** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_aggiungi.bmp](./assets/media/image47.png) ): consente di aggiungere una nuova
+  ![](./assets/media/image47.png) ): consente di aggiungere una nuova
   scheda.
 
 - **Copia scheda** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_copia.bmp](./assets/media/image72.png) ): consente di copiare la scheda
+  ![](./assets/media/image72.png) ): consente di copiare la scheda
   attualmente selezionata in elenco
 
 - **Elimina scheda** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina.bmp](./assets/media/image16.png) ): consente di eliminare la scheda
+  ![](./assets/media/image16.png) ): consente di eliminare la scheda
   attualmente selezionata in elenco.
 
 - **Sposta su / giù**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icone_su_giu.bmp](./assets/media/image17.png) ): consente di riordinare tra loro le
+  (![](./assets/media/image17.png) ): consente di riordinare tra loro le
   varie schede presenti all'interno del componente spostando verso
   l'alto o il basso la scheda attualmente selezionata in elenco.
 
@@ -50,7 +50,7 @@ per i seguenti campi:
   questione agendo **direttamente da questa stessa maschera** e
   utilizzando per questo il corrispondente editor HTML
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\slider_funzionamento_contenuto_res.bmp](./assets/media/image180.png)
+![](./assets/media/image180.png)
 
 > Per maggiori informazioni relativamente all'utilizzo di questo editor
 > HTML si veda anche il relativo capitolo ("*Live Editing per Varianti
@@ -81,7 +81,7 @@ per i seguenti campi:
   Componenti Passweb (Paragrafo, Immagine con Link, Rss, Menu, Contenuti
   su Tab ecc...)**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\contenuti_tabs_contenitore_res.bmp](./assets/media/image181.png)
+![](./assets/media/image181.png)
 
 > **L'inserimento di questi componenti non potrà però avvenire
 > direttamente da questa maschera di configurazione, come nel caso
@@ -119,7 +119,7 @@ per i seguenti campi:
 > immagine di sfondo agendo in questo senso dal relativo parametro
 > **"Immagine di Sfondo Sezione"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\contenuti_tabs_contenitore2_res.bmp](./assets/media/image182.png)
+![](./assets/media/image182.png)
 
 - **Visibile da:** consente di impostare la visibilità della scheda in
   oggetto a livello di gruppi utente, potendo quindi decidere quali

@@ -15,13 +15,13 @@ All'interno della sezione "**Shortcut**" sono riportati invece una serie
 di collegamenti rapidi a determinate sezioni del Wizard o, volendo,
 anche a pagine esterne al Wizard stesso
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pwb_monitor_shortcut_griglia.bmp](./assets/media/image6.png)
+![](./assets/media/image6.png)
 
 collegamenti questi che possono essere configurati e gestiti operando
 direttamente dalla pagina "***Sito -- Passweb Monitor --
 Impostazioni***" del Wizard (sezione "**Configurazione menu**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pwb_monitor_configurazione_menu.bmp](./assets/media/image7.png)
+![](./assets/media/image7.png)
 
 In questo senso i pulsanti presenti nella barra degli strumenti posta
 immediatamente al di sopra della colonna di sinistra, nella sezione
@@ -29,11 +29,11 @@ immediatamente al di sopra della colonna di sinistra, nella sezione
 rispettivamente di:
 
 **Menu Completo** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_menu_completo.bmp](./assets/media/image8.png) )**:** consente di accedere alla sezione
+![](./assets/media/image8.png) )**:** consente di accedere alla sezione
 "Menu Completo" contenente l'elenco delle voci predefinite del menu di
 navigazione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pwb_monitor_wizard_menu_completo.bmp](./assets/media/image9.png)
+![](./assets/media/image9.png)
 
 Come precedentemente evidenziato, tali voci sono esattamente le stesse
 presenti anche nel menu di navigazione del Wizard
@@ -46,7 +46,7 @@ qualsiasi voce di menu predefinita. Per far questo è sufficiente
 cliccare sull'icona raffigurante una piccola stella posta a fianco della
 voce stessa.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pwb_monitor_wizard_menu_completo_2.bmp](./assets/media/image10.png)
+![](./assets/media/image10.png)
 
 In particolare:
 
@@ -62,18 +62,18 @@ In particolare:
 Shortcut a partire da una qualsiasi voce di menu predefinita**
 
 **Shortcut** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_shortcut.bmp](./assets/media/image11.png) )**:** consente di accedere alla sezione
+![](./assets/media/image11.png) )**:** consente di accedere alla sezione
 "Elenco shortcut" contenente l'elenco di tutti gli shortcut attualmente
 configurati
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pwb_monitor_wizard_elenco_shortcut.bmp](./assets/media/image12.png)
+![](./assets/media/image12.png)
 
 Selezionando uno degli Shortcut presenti in elenco verrà visualizzata,
 nella parte destra della pagina, la maschera "**Modifica Shortcut**"
 all'interno della quale poter configurare e personalizzare il relativo
 collegamento rapido.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pwb_monitor_wizard_modifica_shortcut.bmp](./assets/media/image13.png)
+![](./assets/media/image13.png)
 
 In questo senso il campo:
 
@@ -123,7 +123,7 @@ modalità di visualizzazione:
 
 - **Elenco**:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pwb_monitor_shortcut_elenco.bmp](./assets/media/image15.png)
+![](./assets/media/image15.png)
 
 - **Griglia**:
 
@@ -133,14 +133,14 @@ modalità queste attivabili direttamente all'interno di Passweb Monitor
 dalla sezione "**Impostazioni**" (parametro "**Visualizzazione Menu
 Shortcut**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pwb_monitor_impostazioni_shortcut.bmp](./assets/media/image17.png)
+![](./assets/media/image17.png)
 
 **ATTENZIONE!** **per visualizzare eventuali modifiche apportate
 all'elenco di shortcut che Passweb Monitor dovrà poi gestire sarà
 necessario chiudere e riaprire l'app**
 
 **Azzera** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_azzera_shortcut.bmp](./assets/media/image18.png) ): presente solo nel momento in cui
+![](./assets/media/image18.png) ): presente solo nel momento in cui
 dovesse essere visualizzato l'elenco degli Shortcut. Consente di
 azzerare interamente l'elenco degli shortcut attualmente gestiti
 
@@ -164,14 +164,14 @@ specifico:
   cliccare poi sul pulsante "**Elimina**"
 
 **Aggiungi** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_shortcut.bmp](./assets/media/image19.png) ): presente solo nel momento in cui
+![](./assets/media/image19.png) ): presente solo nel momento in cui
 dovesse essere visualizzato l'elenco degli Shortcut. Consente di
 aggiungere un nuovo shortcut personalizzato.
 
 Cliccando su questo pulsante verrà infatti visualizzata, nella parte
 destra della pagina, la maschera "**Nuovo Shortcut**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pwb_monitor_nuovo_shortcut.bmp](./assets/media/image20.png)
+![](./assets/media/image20.png)
 
 all'interno della quale poter impostare i parametri di configurazione
 del collegamento rapido che si intende realizzare (gli stessi

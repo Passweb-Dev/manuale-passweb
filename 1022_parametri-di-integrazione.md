@@ -17,25 +17,25 @@ Per ottenere queste chiavi sarà necessario:
     Credenziali API** " selezionando l'apposita voce di menu posta sulla
     sinistra della pagina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_klarna_1.bmp](./assets/media/image115.png)
+![](./assets/media/image115.png)
 
 > e cliccare poi sul pulsante "**Genera nuove credenziali API Klarna**"
 > evidenziato in figura
 
 4.  Cliccare quindi sul pulsante "**Crea Credenziali**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_klarna_2.bmp](./assets/media/image116.png)
+![](./assets/media/image116.png)
 
 > e copiare i dati presenti all'interno dei campi "**Nome Utente
 > (UID)**" e "**Password**" evidenziati
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_klarna_3.bmp](./assets/media/image117.png)
+![](./assets/media/image117.png)
 
 > all'interno rispettivamente dei campi "**Username**" e "**Password**"
 > presenti nella sezione "**Parametri del gateway**" della maschera di
 > configurazione del pagamento Passweb
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_klarna_4.bmp](./assets/media/image118.png)
+![](./assets/media/image118.png)
 
 > **ATTENZIONE!** Come evidenziato nel corrispondente messaggio del back
 > office di Klarna, una volta generata la password questa non sarà più
@@ -60,7 +60,7 @@ Per ottenere questo codice identificativo è necessario:
     di menu posta sulla sinistra della pagina e cliccare suk pulsante
     "**Continua**" evidenziato in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_klarna_5.bmp](./assets/media/image119.png)
+![](./assets/media/image119.png)
 
 2.  Una volta effettuato l'accesso alla sezione "Installazione" l'ID
     Simulatore sarà esattamente quello indicato in corrispondenza
@@ -68,7 +68,7 @@ Per ottenere questo codice identificativo è necessario:
     installazione visualizzato all'interno del box "Aggiungi il tuo
     codice al sito"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_klarna_6.bmp](./assets/media/image120.png)
+![](./assets/media/image120.png)
 
 > Copiare quindi il valore evidenziato in figura ed inserirlo nel
 > corrispondente parametro di configurazione del pagamento Passweb

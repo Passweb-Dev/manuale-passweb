@@ -5,7 +5,7 @@
 Il componente "**Sottocategorie**" **gestibile all'interno del
 componente Ecommerce di primo livello "Lista Categorie",**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_sotto_cat.bmp](./assets/media/image677.png)
+![](./assets/media/image677.png)
 
 permette di visualizzare, per ogni singola cella di questo menu,
 l'elenco dei nomi delle eventuali categorie merceologiche figlie della
@@ -25,7 +25,7 @@ sull'immagine o sul nome della categoria stessa).
 Inserendo questo componente all'interno del componente "Lista Categorie"
 verrà visualizzata **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_sotto_categorie_configurazione_res.bmp](./assets/media/image678.png)
+![](./assets/media/image678.png)
 
 suddivisa in varie sezioni.
 

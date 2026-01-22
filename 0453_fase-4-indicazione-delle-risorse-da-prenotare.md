@@ -6,7 +6,7 @@ In questo step l'utente avrà la possibilità di indicare, partendo
 direttamente dalla piantina associata al Centro di Produzione
 selezionato durante la Fase 1, quali e quante risorse prenotare.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\spiagge_configurazione_12.bmp](./assets/media/image382.png)
+![](./assets/media/image382.png)
 
 Le risorse (ombrelloni) visualizzate sulla piantina potranno assumere 3
 diversi stati:
@@ -34,7 +34,7 @@ appartiene il prototipo associato alla risorsa selezionata (campo
 durata della prenotazione (livello questo appositamente marcato mediante
 il parametro "Durata Servizio")**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\spiagge_configurazione_13.bmp](./assets/media/image383.png)
+![](./assets/media/image383.png)
 
 In questa fase l'utente potrà quindi selezionare il numero di lettini e
 / o di sedie da aggiungere alla sua prenotazione.
@@ -51,7 +51,7 @@ precedente livello")
 prenotazioni dovrà essere impostata, ovviamente, in modalità di
 visualizzazione "Lineare"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\spiagge_configurazione_24.bmp](./assets/media/image384.png)
+![](./assets/media/image384.png)
 
 Nel momento in cui dovessero essere impostate altre tipologie di
 visualizzazione, all'interno del pop up non verrà visualizzato nessun
@@ -66,7 +66,7 @@ relativa combinazione di valori e, nel caso in cui tale combinazione:
   mostrato all'utente assieme al pulsante di "Conferma" necessario per
   validare la combinazione indicata e passare così allo step successivo
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\spiagge_configurazione_14.bmp](./assets/media/image385.png)
+![](./assets/media/image385.png)
 
 - **non corrisponda** a nessuno degli articoli effettivamente gestiti
   non verrà visualizzato nessun pulsante di "Conferma" né tanto meno di
@@ -75,7 +75,7 @@ relativa combinazione di valori e, nel caso in cui tale combinazione:
   anche visualizzato un apposito messaggio per informarlo del fatto che
   la combinazione di risorse indicata non è gestita
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\spiagge_configurazione_16.bmp](./assets/media/image386.png)
+![](./assets/media/image386.png)
 
 **ATTENZIONE!** Nel caso in cui l'articolo utilizzato per gestire la
 risorsa da prenotare dovesse essere un articolo semplice (es.
@@ -83,7 +83,7 @@ prenotazione della cabina) all'interno del pop verrà visualizzato
 semplicemente il Titolo, la Descrizione e il Prezzo dell'articolo
 stesso.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\spiagge_configurazione_16b.bmp](./assets/media/image387.png)
+![](./assets/media/image387.png)
 
 I pulsanti presenti nella parte bassa di questo pop up consentono
 rispettivamente di:
@@ -109,7 +109,7 @@ rispettivamente di:
 > presente nella maschera di configurazione del componente "Prenotazione
 > Risorse custom"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\spiagge_configurazione_17.bmp](./assets/media/image388.png)
+![](./assets/media/image388.png)
 
 > Nel momento in cui il parametro evidenziato in figura dovesse essere
 > impostato sul valore 1, in modo tale da consentire la prenotazione di

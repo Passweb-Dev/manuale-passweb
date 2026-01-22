@@ -11,7 +11,7 @@ Portandosi quindi nella pagina di accesso al servizio (
 necessario cliccare sul pulsante **Accedi a Tag Manager** e inserire,
 dove richiesto, le credenziali del proprio **Account Google**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_1a.bmp](./assets/media/image7.png)
+![](./assets/media/image7.png)
 
 **ATTENZIONE! Come indicato nei precedenti capitoli di questo manuale il
 fatto di possedere un proprio Account Google è il prerequisito
@@ -31,14 +31,14 @@ Account (campo **Nome Account**), dovremo impostare il paese in cui
 andremo ad operare (campo "**Paese**") e, infine, dovremo decidere se
 condividere o meno, in forma anonima, le informazioni con Google
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_2a.bmp](./assets/media/image8.png)
+![](./assets/media/image8.png)
 
 Nel secondo step sarà invece necessario assegnare un nome al Tag
 Contenitore (campo **"Nome Contenitore"**) e indicare, soprattutto, la
 tipologia di piattaforma su cui il Tag andrà inserito, selezionando, nel
 nostro caso, l'opzione "**Web**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_3a.bmp](./assets/media/image9.png)
+![](./assets/media/image9.png)
 
 **ATTENZIONE!** Ogni Account di GTM deve avere almeno un Contenitore. Si
 consiglia di assegnare all'Account il nome della propria azienda e ad
@@ -67,12 +67,12 @@ Una volta creato l'Account sarà comunque possibile visualizzare il
 codice di installazione in un qualsiasi altro momento. Per far questo è
 infatti sufficiente accedere alla sezione di **Amministrazione** di GTM
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_6a.bmp](./assets/media/image10.png)
+![](./assets/media/image10.png)
 
 e cliccare sulla voce "**Installa Google Tag Manager**" presente in
 corrispondenza della colonna "**Contenitore**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_7a.bmp](./assets/media/image11.png)
+![](./assets/media/image11.png)
 
 **ATTENZIONE!** Per maggiori informazioni in merito all'interfaccia web
 di Google Tag Manager e, nel caso specifico, alla sua sezione di
@@ -84,7 +84,7 @@ essere correttamente installato sul sito Passweb. **Questo stesso Tag
 Contenitore, però, non è stato ancora pubblicato** come indicato anche
 nell'interfaccia web di GTM
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_10a.bmp](./assets/media/image12.png)
+![](./assets/media/image12.png)
 
 Per maggiori informazioni relativamente a come e quando pubblicare
 effettivamente un Tag Contenitore si vedano anche i successivi capitoli

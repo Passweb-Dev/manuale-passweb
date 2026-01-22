@@ -18,7 +18,7 @@ del Wizard, tab "**Tracciamento Dati**" e impostare il parametro
 "**Blocco Preventivo dei cookie**" su una delle opzioni presenti
 all'interno del relativo menu a tendina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\consent_mode_1.bmp](./assets/media/image14.png)
+![](./assets/media/image14.png)
 
 **ATTENZIONE!** come ormai dovrebbe essere chiaro la Consent Mode non è
 una cosa che può prescindere dall'utilizzo di una piattaforma CMP per

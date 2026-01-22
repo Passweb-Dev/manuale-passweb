@@ -6,7 +6,7 @@ All'interno di questa sezione è possibile configurare e gestire l'invio
 allo Store Mailchimp dei dati relativi agli articoli presenti
 all'interno del proprio sito Ecommerce.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mailchimp-ecommerce_8.bmp](./assets/media/image125.png)
+![](./assets/media/image125.png)
 
 **ATTENZIONE!** Non è possibile distinguere quali articoli inviare e
 quali no per cui, allo stato attuale, tutti gli articoli gestiti
@@ -90,7 +90,7 @@ maschera "*Configurazione Catalogo*" del Wizard, e sarà aggiornata
 ovviamente all'ultima sincronizzazione "Sito -- Gestionale"
 
 Il pulsante "**Sincro Articoli**"
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_sincro_articoli.bmp](./assets/media/image123.png) ) presente nella barra degli strumenti
+(![](./assets/media/image123.png) ) presente nella barra degli strumenti
 di uno Store correttamente connesso, consente di avviare manualmente la
 procedura di importazione sul relativo Store MailChimp, dei dati
 relativi a tutti gli articoli gestiti all'interno del proprio sito.

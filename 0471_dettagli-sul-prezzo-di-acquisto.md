@@ -23,7 +23,7 @@ componente Prezzo, potranno essere visualizzate, oltre ovviamente al
 prezzo di acquisto dello specifico prodotto, anche determinate
 informazioni relative proprio a queste stesse particolarità.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\quantita_prezzo2.bmp](./assets/media/image437.png)
+![](./assets/media/image437.png)
 
 In queste condizioni variando la quantità del prodotto da acquistare
 (mediante l'apposito campo di input presente nel componente di "Aggiunta
@@ -39,7 +39,7 @@ effettivamente applicato, anche:
 - il valore del "prezzo unitario articolo" (solo per articoli a
   confezione)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\quantita_prezzo2a.bmp](./assets/media/image438.png)
+![](./assets/media/image438.png)
 
 In merito a questi aggiornamenti automatici del prezzo / sconto in base
 alla quantità inserita in carrello occorre però fare alcune osservazioni
@@ -123,7 +123,7 @@ essere stata attivata la funzionalità di "**Prezzo a Richiesta**", al
 posto del prezzo di acquisto verrà visualizzata una determinata
 etichetta.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\prezzo_richiesta.bmp](./assets/media/image439.png)
+![](./assets/media/image439.png)
 
 L'etichetta del "Prezzo a Richiesta" così come quello che dovrà
 effettivamente essere mostrato in relazione a particolarità prezzo e/o
@@ -132,7 +132,7 @@ cose che possono essere personalizzate agendo all'interno della sezione
 "**Gestione Testi/Messaggi del Sito** -- **Testi dei Componenti**" del
 Wizard selezionando, ovviamente, il componente "**Prezzo**".
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\quantita_prezzo3.bmp](./assets/media/image440.png)
+![](./assets/media/image440.png)
 
 Nello specifico i campi presenti all'interno di questa maschera
 consentono rispettivamente di:
@@ -284,7 +284,7 @@ Facendo riferimento alla figura di seguito riportata e, nello specifico
 ad esempio, al messaggio "**Compra maggiore di 5 per € 900 (-100€)**"
 avremo che
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\quantita_prezzo2.bmp](./assets/media/image441.png)
+![](./assets/media/image441.png)
 
 - "**maggiore di**" è il valore del segnaposto "**Operatore**"
 
@@ -358,7 +358,7 @@ potremo ottenere, per l'articolo in esame, un dettaglio di questo tipo
 
 **A partire da € 200,00 (Prezzo unitario: € 50,00 )**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\prezzo_segnaposto_unitario.bmp](./assets/media/image442.png)
+![](./assets/media/image442.png)
 
 **Operatore maggiore / maggiore o uguale:** consente di personalizzare
 il testo relativo al segnaposto "Operatore" precedentemente esaminato

@@ -5,7 +5,7 @@
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e di configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_abbinati_configurazione_desktop_res.bmp](./assets/media/image122.png)
+![](./assets/media/image122.png)
 
 suddivisa in varie sezioni.
 
@@ -103,7 +103,7 @@ E' possibile selezionare una delle seguenti opzioni:
   link di collegamento disposti in orizzontale immediatamente al di
   sopra del componente.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\abbinati_pillole_orizzontali.bmp](./assets/media/image123.png)
+![](./assets/media/image123.png)
 
 - **Pillole Verticali:** in queste condizioni le diverse categorie di
   abbinati presenti all'interno del componente saranno organizzate in
@@ -111,19 +111,19 @@ E' possibile selezionare una delle seguenti opzioni:
   link di collegamento disposti in verticale sul lato sinistro del
   componente
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\abbinati_pillole_verticali.bmp](./assets/media/image124.png)
+![](./assets/media/image124.png)
 
 - **Tab Orizzontali:** in queste condizioni le diverse categorie di
   abbinati presenti all'interno del componente saranno organizzate in
   appositi tab orizzontali
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\abbinati_tab_orizzontali.bmp](./assets/media/image125.png)
+![](./assets/media/image125.png)
 
 - **Tab Verticali:** in queste condizioni le diverse categorie di
   abbinati presenti all'interno del componente saranno organizzate in
   appositi tab verticali
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\abbinati_tab_verticali.bmp](./assets/media/image126.png)
+![](./assets/media/image126.png)
 
 **Tipologia di visualizzazione:** come per il componente Catalogo
 Ecommerce, anche in questo caso consente di definire la tipologia del

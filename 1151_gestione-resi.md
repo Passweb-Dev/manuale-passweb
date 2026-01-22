@@ -5,7 +5,7 @@
 All'interno di questa sezione è possibile visualizzare e gestire tutte
 le richieste di Reso Merce effettuate dagli utenti del sito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_resi1.bmp](./assets/media/image755.png)
+![](./assets/media/image755.png)
 
 Tra i documenti presenti in elenco sono evidenziati in:
 
@@ -29,13 +29,13 @@ di attivare e gestire la selezione multipla dei documenti in elenco
 
 Nello specifico l'icona:
 
-- ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ico_selezione_multipla.bmp](./assets/media/image638.png): consente di attivare / disattivare
+- ![](./assets/media/image638.png): consente di attivare / disattivare
   la selezione multipla dei documenti in elenco
 
-- ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ico_seleziona_in_blocco.bmp](./assets/media/image639.png): consente di selezionare in blocco
+- ![](./assets/media/image639.png): consente di selezionare in blocco
   tutti i documenti attualmente presenti in elenco
 
-- ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ico_deseleziona_in_blocco.bmp](./assets/media/image640.png): consente di deselezionare il blocco
+- ![](./assets/media/image640.png): consente di deselezionare il blocco
   tutti i documenti presenti in elenco
 
 **ATTENZIONE!** la selezione multipla è attiva, per ovvie ragioni, solo
@@ -60,7 +60,7 @@ cliccare sulla lente di ingrandimento presente in testata alla colonna
 nominativo del cliente da ricercare, e cliccare infine sull'icona
 indicata in figura per avviare la ricerca.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_resi_ricerca.bmp](./assets/media/image756.png)
+![](./assets/media/image756.png)
 
 In generale è quindi possibile filtrare i documenti in griglia per:
 
@@ -92,12 +92,12 @@ Il pulsante "**Filtri Avanzati**" (
 infatti di aprire una sezione di ricerca contenete un query builder
 utilizzabile per creare e customizzare il proprio filtro di ricerca
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_avanzati_resi.bmp](./assets/media/image757.png)
+![](./assets/media/image757.png)
 
 Il pulsante "**Aggiungi un nuovo filtro**" consente di visualizzare
 l'elenco dei campi su cui poter impostare la condizione di filtro.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_avanzati_resi_2.bmp](./assets/media/image758.png)
+![](./assets/media/image758.png)
 
 Nello specifico, grazie ai filtri avanzati sarà possibile costruire il
 proprio filtro di ricerca documenti utilizzando i seguenti campi:
@@ -126,7 +126,7 @@ necessario selezionare l'operatore relazionale (uguale, contiene, è in
 campo in esame dovrà assumere affinché la condizione impostata possa
 essere effettivamente soddisfatta.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_avanzati_resi_3.bmp](./assets/media/image759.png)
+![](./assets/media/image759.png)
 
 In questo senso, ovviamente, gli operatori disponibili e le modalità di
 inserimento del valore da soddisfare potranno cambiare in relazione alla
@@ -142,7 +142,7 @@ relazioni disponibili saranno "**è in**" e "**non è in**" mentre il
 valore da ricercare sarà gestito con un campo ad autocompletamento in
 cui poter inserire il codice o il titolo dell'articolo da ricercare.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_avanzati_resi_4.bmp](./assets/media/image760.png)
+![](./assets/media/image760.png)
 
 **E' inoltre possibile concatenare tra loro due o più condizioni di
 filtro, basate anche su più campi differenti, in maniera tale da
@@ -158,7 +158,7 @@ documenti.
 Cliccando su questo elemento verranno visualizzati tutti gli operatori
 logici da poter utilizzare nella costruzione della propria query.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_avanzati_resi_5.bmp](./assets/media/image761.png)
+![](./assets/media/image761.png)
 
 In questo senso, come precedentemente evidenziato, la **"e"**
 corrisponderà all'operatore logico **AND** mentre la **"o"**
@@ -185,7 +185,7 @@ impostati è possibile procedere in due modi diversi:
   applicato un filtro di questo tipo, nella relativa barra degli
   strumenti
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_avanzati_resi_7.bmp](./assets/media/image762.png)
+![](./assets/media/image762.png)
 
 **ATTENZIONE! i filtri applicati mediante i campi di ricerca presenti in
 testata alla griglia non sono compatibili con i filtri di ricerca
@@ -202,7 +202,7 @@ Avanzati" precedentemente esaminato, potranno essere visualizzati anche
 ulteriori pulsanti che consentono rispettivamente di:
 
 - **Elimina Reso**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_reso.bmp](./assets/media/image763.png) ): permette di eliminare dal database del sito la
+  (![](./assets/media/image763.png) ): permette di eliminare dal database del sito la
   richiesta di reso merce attualmente selezionata.
 
 > In relazione a questa specifica funzionalità è possibile attivare e
@@ -216,7 +216,7 @@ ulteriori pulsanti che consentono rispettivamente di:
 > esportata e visualizzata all'interno del sito.
 
 - **Memorizza Reso**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_memorizza_reso.bmp](./assets/media/image752.png) ): permette di inserire all'interno del
+  (![](./assets/media/image752.png) ): permette di inserire all'interno del
   gestionale la richiesta di reso merce attualmente selezionata in
   elenco generando quindi il relativo documento (RC o NC) sulla base
   delle impostazioni settate nella maschera di configurazione resi
@@ -227,7 +227,7 @@ ulteriori pulsanti che consentono rispettivamente di:
 > ed approvate e che si trovano quindi nello stato di "CONFERMATO"**
 
 - **Esportazione Resi**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_esporta_resi.bmp](./assets/media/image764.png) ): consente di esportare i dati relativi ai
+  (![](./assets/media/image764.png) ): consente di esportare i dati relativi ai
   documenti presenti in griglia all'interno di tre distinti file:
 
   - **Testata.csv --** file contenente i dati di testa dei documenti
@@ -254,7 +254,7 @@ ulteriori pulsanti che consentono rispettivamente di:
 > Cliccando su questo pulsante verrà visualizzata la maschera
 > "**Esportazione Resi**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\esportazione_resi.bmp](./assets/media/image765.png)
+![](./assets/media/image765.png)
 
 > all'interno della quale poter definire il carattere separatore che
 > dovrà essere utilizzato nella creazione dei vari file csv (campo
@@ -274,14 +274,14 @@ ulteriori pulsanti che consentono rispettivamente di:
 <!-- -->
 
 - **Attiva Modifica Attributi**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_attiva_modifiche_attributo.bmp](./assets/media/image660.png) ): consente di attivare la modalità
+  (![](./assets/media/image660.png) ): consente di attivare la modalità
   "**Modifica Attributi**" in cui poter visualizzare il dettaglio di
   ogni singolo documento presente in elenco con la possibilità di
   modificare eventuali Attributi Passweb, presenti all'interno del
   documento stesso
 
 - **Disattiva Modifica Attributi**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_disattiva_modifiche_attributo.bmp](./assets/media/image661.png) ): consente di disattivare la modalità di
+  (![](./assets/media/image661.png) ): consente di disattivare la modalità di
   "**Modifica Attributi**". Una volta disabilitata tale modalità sarà
   sempre possibile accedere alla visualizzazione del dettaglio di uno
   qualsiasi dei documenti presenti in elenco questa volta però in sola
@@ -294,7 +294,7 @@ ulteriori pulsanti che consentono rispettivamente di:
 > questo manuale
 
 - **Visualizza Reso**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_visualizza_reso.bmp](./assets/media/image766.png) ): consente di visualizzare e gestire il documento
+  (![](./assets/media/image766.png) ): consente di visualizzare e gestire il documento
   attualmente selezionato in elenco.
 
 > Cliccando su questo pulsante si verrà infatti ricondotti alla maschera

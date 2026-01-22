@@ -40,7 +40,7 @@ sempre visualizzato il campo Captcha classico.
 Rilasciando il componente all'interno del Form si aprirà **la sua
 maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\Form_modifica_Campo_Captcha_res.bmp](./assets/media/image138.png)
+![](./assets/media/image138.png)
 
 suddivisa in varie sezioni.
 

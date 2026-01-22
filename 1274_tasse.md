@@ -15,7 +15,7 @@ All'interno della maschera Tasse verranno quindi visualizzate tutte le
 Tasse addizionali attive all'interno del sito e che sono state
 utilizzate almeno una volta all'interno di un documento.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\statistiche_tasse_0.bmp](./assets/media/image30.png)
+![](./assets/media/image30.png)
 
 E' possibile filtrare i dati in elenco in base al nome del cliente
 intestatario dell\'ordine (campo "**Nome / Ragione Sociale/Email"**)
@@ -45,7 +45,7 @@ ad ulteriori dettagli relativi alla tassa in questione.
 In questo modo verranno infatti visualizzate le righe di tutte le
 matrici Passweb in cui è stata utilizzata la tassa in esame.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\statistiche_tasse_1.bmp](./assets/media/image31.png)
+![](./assets/media/image31.png)
 
 e per ciascuna di esse verranno visualizzate le seguenti informazioni:
 
@@ -70,7 +70,7 @@ Cliccando su ciascuna delle righe presenti all'interno di questa
 maschera, sarà possibile accedere anche al dettaglio dell'intera matrice
 in cui è stata utilizzata la relativa tassa.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\statistiche_tasse_2.bmp](./assets/media/image32.png)
+![](./assets/media/image32.png)
 
 Il link presente nella parte alta della maschera di dettaglio, in
 corrispondenza della voce "**Documenti Correlati**", consente di passare
@@ -83,7 +83,7 @@ Per far questo è sufficiente selezionare uno dei formati di esportazione
 presenti nel menu a tendina evidenziato in figura e cliccare poi sul
 pulsante "**Esporta**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\statistiche_tasse_3.bmp](./assets/media/image33.png)
+![](./assets/media/image33.png)
 
 Nello specifico l'opzione:
 

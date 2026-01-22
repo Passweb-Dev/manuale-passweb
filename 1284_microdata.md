@@ -196,7 +196,7 @@ della pagina "*Sito -- Preferenze -- Integrazioni*" del Wizard
 impostando, per prima cosa, il parametro "**Formato dati strutturati**"
 sull'opzione "Microdata"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\microdati_1.bmp](./assets/media/image2.png)
+![](./assets/media/image2.png)
 
 **ATTENZIONE!** nel momento in cui si dovesse variare l'impostazione
 settata per il parametro "Formato dati strutturati", passando ad esempio

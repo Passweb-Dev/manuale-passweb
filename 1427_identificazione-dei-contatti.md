@@ -9,7 +9,7 @@ sito in modo tale che ActiveCampaign possa poi associare al relativo
 Contatto i dati di tracciamento e visualizzarli quindi nella sezione
 "**Attività recenti**" della sua anagrafica
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\timeline_activecampaign.bmp](./assets/media/image21.png)
+![](./assets/media/image21.png)
 
 **ATTENZIONE!** i dati di tracciamento inviati ad ActiveCampaign
 potranno essere visualizzati solo nel momento in cui sarà anche

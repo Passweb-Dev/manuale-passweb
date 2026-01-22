@@ -13,7 +13,7 @@ e inseriti nella mappa; sulla destra verranno invece visualizzate le
 caratteristiche e le proprietà del Marker attualmente selezionato in
 elenco.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_marker_RES.bmp](./assets/media/image46.png)
+![](./assets/media/image46.png)
 
 Per modificare uno di questi Marker sarà quindi sufficiente selezionarlo
 e andare poi ad agire sui vari parametri presenti all'interno della
@@ -21,15 +21,15 @@ sezione "**Modifica Marker**".
 
 Per eliminare uno dei Marker presenti in elenco sarà invece sufficiente
 selezionarlo e cliccare sul relativo pulsante di eliminazione
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina.bmp](./assets/media/image16.png)).
+(![](./assets/media/image16.png)).
 
 Per aggiungere un nuovo Marker alla mappa sarà invece necessario
 cliccare sul pulsante di aggiunta nuovo marker (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_aggiungi.bmp](./assets/media/image47.png) ). In questo modo verrà infatti
+![](./assets/media/image47.png) ). In questo modo verrà infatti
 visualizzato, nella parte destra della sezione "Gestione Marker", il
 form "**Nuovo Marker**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_map_nuovo_marker_res.bmp](./assets/media/image48.png)
+![](./assets/media/image48.png)
 
 mediante il quale poter definire le caratteristiche e le proprietà del
 Marker che si intende aggiungere sulla mappa. In particolare sarà
@@ -44,14 +44,14 @@ possibile specificare un valore per i seguenti campi:
     sarà necessario specificare l'esatto indirizzo in corrispondenza del
     quale dovrà essere posizionato il Marker che si sta codificando.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gmap_indirizzo_res.bmp](./assets/media/image49.png)
+![](./assets/media/image49.png)
 
 - **Coordinate:** in questo caso nel successivo campo "**Coordinate**"
   sarà necessario indicare le esatte coordinate (Latitudine,
   Longitudine) in corrispondenza delle quali dovrà essere posizionato il
   Marker che si sta codificando.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gmap_coordinate_res.bmp](./assets/media/image50.png)
+![](./assets/media/image50.png)
 
 > **ATTENZIONE!** L'utilizzo delle coordinate geografiche oltre a
 > rendere più preciso il posizionamento del marker sulla mappa potrebbe
@@ -64,19 +64,19 @@ possibile specificare un valore per i seguenti campi:
 - inserire l'indirizzo desiderato direttamente all'interno di Google
   Maps (https://www.google.it/maps)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gmap_pv_1.bmp](./assets/media/image51.png)
+![](./assets/media/image51.png)
 
 - cliccare con il tasto destro del mouse sul marker posizionato da
   google all'interno della mappa e selezionare l'opzione "**Che cosa c'è
   qui?**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gmap_pv_2.bmp](./assets/media/image52.png)
+![](./assets/media/image52.png)
 
 - le coordinate in esame potranno quindi essere prelevate direttamente
   dal piccolo fumetto visualizzato ora nella parte bassa della google
   map
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gmap_pv_3.bmp](./assets/media/image53.png)
+![](./assets/media/image53.png)
 
 > **NOTA BENE:** il posizionamento finale del Marker all'interno della
 > mappa sulla base dell'indirizzo e/o delle coordinate impostate dipende
@@ -89,7 +89,7 @@ possibile specificare un valore per i seguenti campi:
   all'interno della sezione "*Ordini -- Configurazione Punti Vendita*"
   del Wizard
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gmap_selezione_pv_res.bmp](./assets/media/image54.png)
+![](./assets/media/image54.png)
 
 > **ATTENZIONE!** i Punti Vendita correttamente esportati all'interno
 > del sito ma non ancora abilitati non potranno essere inseriti nella

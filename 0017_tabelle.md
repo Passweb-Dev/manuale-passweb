@@ -6,7 +6,7 @@ All'interno di questa sezione è possibile visualizzare:
 
 - La tabella dei 10 ordini più recenti
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\top_ten_ordini.bmp](./assets/media/image28.png)
+![](./assets/media/image28.png)
 
 > L'icona raffigurante una piccola lente di ingrandimento posta in
 > corrispondenza di ogni singolo ordine presente in tabella consente di
@@ -14,7 +14,7 @@ All'interno di questa sezione è possibile visualizzare:
 
 - Le tabelle dei 10 articoli più visti / più venduti
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\top_ten_articoli.bmp](./assets/media/image29.png)
+![](./assets/media/image29.png)
 
 > Per ciascuno degli articoli presenti in tabella sono indicati il
 > codice, il titolo è rispettivamente il numero di visite, ossia il
@@ -25,7 +25,7 @@ All'interno di questa sezione è possibile visualizzare:
 - La tabella dei 10 clienti (registrati) con il totale ordini più
   elevato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\top_ten_clienti.bmp](./assets/media/image30.png)
+![](./assets/media/image30.png)
 
 > Per ciascuno dei clienti presenti in tabella sono indicati: il numero
 > di ordini effettuati nel periodo indicato, il valore medio di tali

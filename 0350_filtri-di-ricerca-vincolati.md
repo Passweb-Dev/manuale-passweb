@@ -19,7 +19,7 @@ sempre visibili e, soprattutto, ognuno di essi mostrerà sempre tutte le
 possibili opzioni di scelta, indipendentemente dal fatto che l\'utente
 abbia o meno già impostato dei parametri di ricerca.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\filtri_ricerca_vincolati1.bmp](./assets/media/image29.png)
+![](./assets/media/image29.png)
 
 Nell'esempio considerato in figura dunque anche nel caso in cui l'utente
 abbia già impostato il valore "**TV 2D**" per il campo "**Cat.
@@ -29,7 +29,7 @@ scelta dettate dagli articoli presenti all'interno dalla pagina e
 quindi, non solo le sotto categorie merceologiche delle TV 2D ma anche
 quelle delle TV 3D e delle SMART TV.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\filtri_ricerca_vincolati2.bmp](./assets/media/image30.png)
+![](./assets/media/image30.png)
 
 **ATTENZIONE!** Nell'esempio considerato "**Cat. Merceologica**" e
 "**Sotto Cat. Merceologica**" sono **due Attributi Articolo di tipo
@@ -43,7 +43,7 @@ un'opzione non valida per il campo relativo alle sottocategorie
 merceologiche (es. SMART TV -- SAMSUNG) impostando di fatto una ricerca
 non corretta e non ottenendo quindi alcun risultato.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\filtri_ricerca_vincolati3.bmp](./assets/media/image31.png)
+![](./assets/media/image31.png)
 
 Per risolvere questo tipo di problema è possibile utilizzare i filtri
 vincolati in modo tale che le possibili opzioni di scelta presenti
@@ -56,7 +56,7 @@ Supponendo dunque di configurare il pannello di ricerca impostando il
 campo "**Tipologia Filtro**" sul valore "**Vincolato al precedente
 livello**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_ricerca_vincolati4_res.bmp](./assets/media/image32.png)
+![](./assets/media/image32.png)
 
 ci troveremo in una situazione in cui le opzioni di scelta presenti
 all'interno del campo "Sotto Cat. Merceologica" dipenderanno
@@ -70,7 +70,7 @@ campo di ricerca "**Sotto Cat. Merceologica"** mostrerà solo ed
 esclusivamente le possibili opzioni compatibili con la selezione
 impostata dall'utente
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\filtri_ricerca_vincolati5.bmp](./assets/media/image33.png)
+![](./assets/media/image33.png)
 
 Grazie ai filtri vincolati quindi è possibile guidare l'utente nelle sue
 ricerche di articoli all'interno del sito riducendo al minimo i casi in
@@ -124,18 +124,18 @@ Per rappresentare questa situazione all'interno del nostro sito potremmo
 pensare di creare due Attributi Articolo di tipo Passweb "**Stampante**
 **-- Marca**" e "**Stampante -- Modello**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_ricerca_vincolati6_res.bmp](./assets/media/image34.png)
+![](./assets/media/image34.png)
 
 entrambi di tipo "**Selezione Multipla**" ed entrambi in grado di
 accettare due o più valori.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_ricerca_vincolati7_res.bmp](./assets/media/image35.png)
+![](./assets/media/image35.png)
 
 Nella sezione "**Gestione Opzioni**" andremo quindi ad indicare tutti i
 valori che lo specifico attributo potrà assumere per gli articoli
 gestiti all'interno del nostro sito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_ricerca_vincolati8_res.bmp](./assets/media/image36.png)
+![](./assets/media/image36.png)
 
 Questo elenco di valori ci servirà nel momento in cui dovremo andare a
 valorizzare, articolo per articolo, questi stessi attributi e, come
@@ -152,13 +152,13 @@ Una volta creati questi due attributi dovremo poi:
 - utilizzarli per creare un apposito "Set di Attributi" da associare
   alla categoria merceologia delle stampanti
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_ricerca_vincolati9_res.bmp](./assets/media/image37.png)
+![](./assets/media/image37.png)
 
 - compilare l'anagrafica Passweb delle stampanti e delle cartucce
   inserendo per ciascuno di questi articoli i valori corretti per gli
   attributi Marca e Modello
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_ricerca_vincolati11_res.bmp](./assets/media/image38.png)
+![](./assets/media/image38.png)
 
 A questo punto potremo realizzare un pannello di ricerca da inserire
 nella pagina delle stampanti con all'interno due campi che possano
@@ -169,14 +169,14 @@ utilizzare anche dei filtri vincolati in modo tale che, una volta
 selezionata la marca, poi il campo modello mostri effettivamente i soli
 modelli compatibili con la marca selezionata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_ricerca_vincolati13_res.bmp](./assets/media/image39.png)
+![](./assets/media/image39.png)
 
 In queste condizioni però, l'utilizzo dei semplici filtri vincolati non
 risolve completamente i nostri problemi. Supponendo infatti di
 selezionare la marca HP otterremo un risultato del tipo di quello
 rappresentato in figura.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\filtri_ricerca_vincolati14.bmp](./assets/media/image40.png)
+![](./assets/media/image40.png)
 
 Come risultato del filtro "Marca = HP" otterremo cioè le due stampanti
 "**Photosmart 6520"**, "**D4H21B**" e le cartucce d'inchiostro **x23** e
@@ -200,7 +200,7 @@ Selezionando quindi il modello PIXMA MX 25 otterremo come unico
 risultato la cartuccia x23 senza però la relativa stampante (di marca
 CANON).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\filtri_ricerca_vincolati15.bmp](./assets/media/image41.png)
+![](./assets/media/image41.png)
 
 Questa situazione può essere migliorata utilizzando non dei semplici
 filtri vincolati, ma bensì dei **filtri vincolati sulla base di
@@ -217,14 +217,14 @@ Per fare questo dovremo quindi selezionare il set di attributi
 utilizzato per le stampanti, cliccare sul pulsante "**Combinazioni**"
 come mostrato in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_ricerca_vincolati16_res.bmp](./assets/media/image42.png)
+![](./assets/media/image42.png)
 
 e creare le diverse combinazioni di attributi possibili (pulsante
 "**Nuova Combinazione**") indicando uno specifico valore per l'attributo
 marca e quelli che sono i relativi valori dell'attributo modello
 coerenti con l'impostazione precedente.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_ricerca_vincolati17_res.bmp](./assets/media/image43.png)
+![](./assets/media/image43.png)
 
 > **NOTA BENE:** i valori utilizzabili per ogni singolo attributo sono
 > esattamente quelli inseriti in fase di creazione dell'attributo stesso
@@ -233,7 +233,7 @@ coerenti con l'impostazione precedente.
 In questo modo potremo quindi creare le combinazioni di attributi
 mostrate in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_ricerca_vincolati18_res.bmp](./assets/media/image44.png)
+![](./assets/media/image44.png)
 
 stabilendo ad esempio che per la marca HP dovranno essere considerati i
 soli modello "Photosmart 6520" e "D4H21B"
@@ -248,7 +248,7 @@ Filtro" sul valore "Vincolato a tutti i livelli" o "Vincolato al livello
 precedente" e, soprattutto, dovremo selezionare il check "**Considera le
 Combinazioni di Attributi**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_ricerca_vincolati19_res.bmp](./assets/media/image45.png)
+![](./assets/media/image45.png)
 
 Con queste impostazioni nel momento in cui l'utente dovesse selezionare
 per il campo "Marca" il valore HP, il successivo campo "Modello"
@@ -257,7 +257,7 @@ combinazioni di attributi che abbiamo definito, i soli valori possibili
 per l'attributo "Modello" in corrispondenza del valore "Marca = HP" sono
 proprio "Photosmart 6520" e "D4H21B"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\filtri_ricerca_vincolati20.bmp](./assets/media/image46.png)
+![](./assets/media/image46.png)
 
 Ora quindi non solo i risultati del filtro sono corretti ma anche le
 possibili opzioni di scelta presenti all'interno del pannello di ricerca

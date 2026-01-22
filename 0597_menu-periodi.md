@@ -4,7 +4,7 @@
 
 Il Componente **"Menu Periodi"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_menu_periodi_res.bmp](./assets/media/image21.png)
+![](./assets/media/image21.png)
 
 permette di inserire all'interno del sito un menu generato e gestito in
 maniera completamente automatica da Passweb sulla base dei mesi e/o

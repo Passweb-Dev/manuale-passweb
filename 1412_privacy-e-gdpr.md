@@ -82,7 +82,7 @@ controllato dal parametro "**Blocco preventivo dei cookie**" presente
 alla pagina "**Sito -- Preferenze**" del Wizard (tab "**Tracciamento
 Dati**", sezione "**Blocco Preventivo**").
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\brainlead_blocco_preventivo.bmp](./assets/media/image6.png)
+![](./assets/media/image6.png)
 
 Per maggiori informazioni in merito al parametro in oggetto si veda
 anche quanto indicato all'interno dei relativi capitoli di questo
@@ -143,7 +143,7 @@ senza consenso**" presente alla pagina "Sito -- Preferenze" del Wizard
 (tab "Tracciamento Dati", sezione "Blocco Preventivo") serve proprio ad
 esplicitare quanto appena indicato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\brainlead_blocco_preventivo_server.bmp](./assets/media/image7.png)
+![](./assets/media/image7.png)
 
 Per maggiori informazioni in merito al parametro in oggetto si veda
 anche quanto indicato all'interno del relativo capitolo di questo

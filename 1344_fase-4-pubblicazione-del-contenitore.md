@@ -14,19 +14,19 @@ Per compiere l'ultimo passo sarà quindi sufficiente accedere alla
 dashboard di gestione del Contenitore e cliccare sul pulsante
 "**Invia**" presente nella parte alta della maschera
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_30a.bmp](./assets/media/image33.png)
+![](./assets/media/image33.png)
 
 In alternativa è anche possibile accedere alla sezione "**Versioni**"
 dell'interfaccia web di GTM, individuare la versione dello specifico
 Contenitore su cui si desidera operare e selezionare dal menu
 **"Azioni"** la voce **Pubblica**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_31a.bmp](./assets/media/image34.png)
+![](./assets/media/image34.png)
 
 In entrambi i casi verrà comunque visualizzata una maschera di riepilogo
 del tipo di quella qui di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_32a.bmp](./assets/media/image35.png)
+![](./assets/media/image35.png)
 
 Cliccando quindi sul pulsante "**Pubblica**" porteremo on line tutte le
 modifiche effettuate sul Contenitore in esame e su tutti i siti in cui

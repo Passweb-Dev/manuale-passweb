@@ -7,7 +7,7 @@ indirizzi, anagrafici e di spedizione, dell'utente selezionato,
 indirizzi questi che potranno anche essere localizzati all'interno di
 una Google Map
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_dettaglio_utente_contatti.bmp](./assets/media/image189.png)
+![](./assets/media/image189.png)
 
 **ATTENZIONE!** per il corretto funzionamento della Google Map è
 necessario aver impostato le relative chiavi all'interno della pagina
@@ -20,16 +20,16 @@ Il primo degli indirizzi in elenco (con sfondo più scuro) è quello
 presente nell'anagrafica dell'utente, tutti gli altri sono invece
 indirizzi di spedizione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_dettaglio_utente_indirizzi.bmp](./assets/media/image190.png)
+![](./assets/media/image190.png)
 
 Anche in questo caso i pulsanti "**Mail**" (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_pulsante_mail.bmp](./assets/media/image182.png) )e "**Telefono**" (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_pulsante_telefono.bmp](./assets/media/image183.png) ) consentono, rispettivamente, di inviare
+![](./assets/media/image182.png) )e "**Telefono**" (
+![](./assets/media/image183.png) ) consentono, rispettivamente, di inviare
 una mail all'indirizzo indicato e di far partire una chiamata al
 relativo numero di telefono (posto sempre che tali dati siano stati
 correttamente valorizzati all'interno del gestionale)
 
 Il pulsante "**Localizza**" (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_pulsante_localizza.bmp](./assets/media/image191.png) ) consente invece, se cliccato, di
+![](./assets/media/image191.png) ) consente invece, se cliccato, di
 localizzare il corrispondente indirizzo all'interno della Google Map
 

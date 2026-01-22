@@ -55,13 +55,13 @@ riferimento il parametro "**Aggiorna descrizioni in ... dal
 Gestionale**" presente all'interno della maschera "**Parametri di
 Sincronizzazione**" del Wizard
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lingua_installazione_horeca.bmp](./assets/media/image106.png)
+![](./assets/media/image106.png)
 
 **Forza cultura italiana:** consente di settare l'analogo parametro
 presente anche all'interno della maschera "Replica Dati --
 Configurazione" del gestionale
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\parametri_conf_Horeca2.bmp](./assets/media/image107.png)
+![](./assets/media/image107.png)
 
 **ATTENZIONE:** il parametro in oggetto deve essere impostato
 esattamente allo stesso modo tanto sul gestionale quanto sul Wizard di
@@ -85,7 +85,7 @@ possibile selezionare uno dei seguenti valori:
   parametro "**Categoria**" presente nella scheda "**Anagrafica**" della
   relativa anagrafica gestionale
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\horeca_categorie_articolo_4.bmp](./assets/media/image108.png)
+![](./assets/media/image108.png)
 
 - **Secondaria:** selezionando questa opzione all'interno del sito web
   verrà utilizzata una categorizzazione articoli realizzata (sempre
@@ -100,7 +100,7 @@ possibile selezionare uno dei seguenti valori:
   parametro "**Categoria Passweb**" presente nella scheda "**Lista
   Articoli e Listini**" della relativa anagrafica gestionale
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\horeca_categorie_articolo_6.bmp](./assets/media/image109.png)
+![](./assets/media/image109.png)
 
 Per maggiori informazioni relativamente alla possibilità di definire
 all'interno del gestionale una categorizzazione articoli ad hoc per il

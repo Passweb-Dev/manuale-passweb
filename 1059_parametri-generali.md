@@ -5,7 +5,7 @@
 Per ciascun Metodo di trasporto di tipo Passweb è possibile impostare un
 valore per i seguenti parametri:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_spesa_trasporto_passweb.bmp](./assets/media/image264.png)
+![](./assets/media/image264.png)
 
 **Stato del Metodo di Trasporto:** permette di Abilitare/Disabilitare la
 specifica spesa di trasporto, facendola quindi comparire o meno tra
@@ -54,7 +54,7 @@ possibile selezionare uno dei seguenti valori:
   "**Dettagli**" mediante il quale l'utente potrà visualizzare le
   informazioni aggiuntive precedentemente inserite.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trasporto_configurazione_dettagli.bmp](./assets/media/image265.png)
+![](./assets/media/image265.png)
 
 - **Nel Dettaglio dell'Ordine:** in queste condizioni le informazioni
   aggiuntive sulla spesa di trasporto verranno visualizzate nel
@@ -62,7 +62,7 @@ possibile selezionare uno dei seguenti valori:
   inserite anche in tutte le mail inviate dall'applicativo all'interno
   delle quali compare il dettaglio dell'ordine effettuato dal cliente.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\spese_trasporto_checkout.bmp](./assets/media/image266.png)
+![](./assets/media/image266.png)
 
 - **In fase di Checkout e nel Dettaglio dell'Ordine:** in queste
   condizioni le informazioni aggiuntive sulla spesa di trasporto
@@ -78,7 +78,7 @@ mediante il quale poter indicare all'utente come comportarsi per
 abilitare il trasporto in esame nel caso in cui questo non dovesse
 essere selezionabile.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\msg_spedizioni_non_selezionabili.bmp](./assets/media/image267.png)
+![](./assets/media/image267.png)
 
 Il testo indicato all'interno di questo campo verrà poi inserito:
 
@@ -236,7 +236,7 @@ abbiano o meno uno sconto già applicato. Di base quindi lavorando sul
 Cliccando sul pulsante "**Aggiungi Filtro**" verranno quindi
 visualizzate le seguenti opzioni:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trasporti_filtro_quantità.bmp](./assets/media/image268.png)
+![](./assets/media/image268.png)
 
 - **Quantità in carrello:** permette di definire una condizione sulla
   **quantità complessiva di articoli presenti in carrello** (e quindi
@@ -303,7 +303,7 @@ visualizzate le seguenti opzioni:
 > impostare un Filtro Carrello del tipo "**Percentuale elementi in
 > carrello = 100**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamenti_percentuale_articoli.bmp](./assets/media/image13.png)
+![](./assets/media/image13.png)
 
 > In queste condizioni se dovessimo avere in carrello anche un solo
 > articolo che non soddisfa la condizione impostata all'interno del
@@ -332,7 +332,7 @@ visualizzate le seguenti opzioni:
 > categoria 24 ("Outlet Uomo"), dovremmo configurare una condizione di
 > applicabilità del tipo di quella rappresentata in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamento_percentuale_quantita.bmp](./assets/media/image14.png)
+![](./assets/media/image14.png)
 
 > In questo modo infatti se dovessimo trovarci ad avere in carrello una
 > quantità complessiva di 5 prodotti di cui 4 (quindi 80% del totale)
@@ -360,7 +360,7 @@ visualizzate le seguenti opzioni:
 > Supponendo dunque di considerare una configurazione del tipo di quella
 > rappresentata in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamenti_quantita_riga.bmp](./assets/media/image15.png)
+![](./assets/media/image15.png)
 
 > il metodo di trasporto verrà effettivamente visualizzato sul front end
 > del sito solo nel momento in cui in ordine dovessimo avere almeno un
@@ -418,7 +418,7 @@ visualizzate le seguenti opzioni:
 > Supponendo dunque di considerare una configurazione del tipo di quella
 > rappresentata in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamenti_quantita_massima_riga.bmp](./assets/media/image16.png)
+![](./assets/media/image16.png)
 
 > e supponendo anche di avere i seguenti articoli in ordine
 
@@ -472,7 +472,7 @@ visualizzate le seguenti opzioni:
 > Supponendo dunque di considerare una configurazione del tipo di quella
 > rappresentata in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamenti_quantita_minima_riga.bmp](./assets/media/image17.png)
+![](./assets/media/image17.png)
 
 > e supponendo anche di avere i seguenti articoli in ordine
 
@@ -528,7 +528,7 @@ visualizzate le seguenti opzioni:
 > Considerando dunque una configurazione del tipo di quella
 > rappresentata in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamenti_sconto_in_riga.bmp](./assets/media/image18.png)
+![](./assets/media/image18.png)
 
 > la condizione in esame verrà validata e il relativo trasporto
 > visualizzato solo nel caso in cui tutti gli articoli presenti in
@@ -567,7 +567,7 @@ di trasporto sarà quello selezionato a default all'interno del modulo di
 Checkout Ordine. I metodi di trasporto "selezionati a default" sono
 evidenziati in blu tra quelli presenti in elenco
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trasporto_default.bmp](./assets/media/image269.png)
+![](./assets/media/image269.png)
 
 **ATTENZIONE!** E' possibile impostare come "selezionati a default" due
 o più metodi di trasporto contemporaneamente, in maniera tale che, ad
@@ -771,7 +771,7 @@ E' possibile selezionare uno dei seguenti valori:
   funzionalità Mexal **"Spese di trasporto a Scaglioni" (**opzione
   "**Misuratore**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trasporti_tipo_campo_1.bmp](./assets/media/image270.png)
+![](./assets/media/image270.png)
 
 - **Attributo Articolo:** in queste condizioni sarà possibile decidere
   di utilizzare come campo per il calcolo dello scaglione,
@@ -779,7 +779,7 @@ E' possibile selezionare uno dei seguenti valori:
   successivo parametro (**Attributo**), uno degli Attributi articolo
   Passweb appositamente creati per questo scopo
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trasporti_tipo_campo_2.bmp](./assets/media/image271.png)
+![](./assets/media/image271.png)
 
 > **ATTENZIONE!** All'interno del menu a tendina verranno visualizzati
 > solo ed esclusivamente Attributi Articolo di tipo "**Testo**" o
@@ -882,7 +882,7 @@ comprensivo di iva. E' possibile selezionare uno dei seguenti valori:
   spesa di trasporto, presente nel riepilogo dell'ordine (quello
   evidenziato in figura)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\iva_spese_trasporto_1.bmp](./assets/media/image272.png)
+![](./assets/media/image272.png)
 
 > sarà dunque quello definito in fase di configurazione del trasporto
 > stesso maggiorato dell'iva.
@@ -898,14 +898,14 @@ comprensivo di iva. E' possibile selezionare uno dei seguenti valori:
 > campo "**Aliquota Iva Spese Trasporto**" della tabella gestionale
 > "**Bolli e Spese Banca**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\iva_spese_trasporto_2.bmp](./assets/media/image273.png)
+![](./assets/media/image273.png)
 
 > per i siti **Ecommerce collegati ad uno dei gestionali Ho.Re.Ca**.,
 > invece, verrà considerata l'aliquota impostata sul Wizard di Passweb
 > all'interno del campo "**Aliquota iva Spese trasporto**" della
 > maschera di "**Configurazione Parametri dell'ordine**".
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\iva_spese_trasporto_3.bmp](./assets/media/image274.png)
+![](./assets/media/image274.png)
 
 > **ATTENZIONE!** nel momento in cui si dovesse decidere di gestire le
 > spese di trasporto nel piede del documento e i due campi sopra
@@ -931,7 +931,7 @@ comprensivo di iva. E' possibile selezionare uno dei seguenti valori:
 > indicato**, e andrà quindi ad influire sul totale della relativa voce
 > presente nel piede del documento.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\iva_spese_trasporto_4.bmp](./assets/media/image275.png)
+![](./assets/media/image275.png)
 
 > **ATTENZIONE!** in caso di iva ripartita gli arrotondamenti utilizzati
 > (anche all'interno del gestionale) potrebbero portare ad avere valori
@@ -985,7 +985,7 @@ comprensivo di iva. E' possibile selezionare uno dei seguenti valori:
 **ATTENZIONE!!** per quel che riguarda gli importi indicati a fianco dei
 singoli metodi di trasporto presenti, in checkout, nel relativo step
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\iva_spese_trasporto_5.bmp](./assets/media/image276.png)
+![](./assets/media/image276.png)
 
 questi potranno essere ivati o non ivati (con la relativa etichetta)
 dipendentemente da come è stato impostato il parametro "**Prezzo**"
@@ -1037,7 +1037,7 @@ metodo di trasporto potrà quindi essere visualizzato:
   momento in cui l'importo associato alla spesa di spedizione dovesse
   risultare pari a zero
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\etichetta_trasporto_gratuito.bmp](./assets/media/image277.png)
+![](./assets/media/image277.png)
 
 **ATTENZIONE!** Nel momento in cui il parametro in esame non dovesse
 essere valorizzato in corrispondenza del singolo metodo di spedizione

@@ -4,7 +4,7 @@
 
 Il Componente Ecommerce **"Tasse"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_tasse.bmp](./assets/media/image443.png)
+![](./assets/media/image443.png)
 
 può essere inserito all'interno di componenti Ecommerce di primo livello
 come il "Catalogo Ecommerce", la "Scheda Prodotto", le "Offerte /
@@ -12,7 +12,7 @@ Novità", "Carrello Custom" ecc... e consente di visualizzare, per
 ciascun articolo, l'importo di eventuali tasse addizionali cui
 l'articolo stesso è sottoposto.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\tasse_fe.bmp](./assets/media/image444.png)
+![](./assets/media/image444.png)
 
 **ATTENZIONE!** Il componente Tasse consente di visualizzare solo ed
 esclusivamente gli importi di eventuali Tasse Addizionali configurate
@@ -46,7 +46,7 @@ questo manuale ("*Ordini -- Tasse*")
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_tasse_configurazione.bmp](./assets/media/image445.png)
+![](./assets/media/image445.png)
 
 suddivisa in varie sezioni.
 

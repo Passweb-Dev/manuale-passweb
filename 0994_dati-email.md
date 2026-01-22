@@ -7,7 +7,7 @@ configurare, in tutte le lingue attualmente gestite, i contenuti delle
 e-mail inviate in automatico dall'applicazione in relazione alle diverse
 fasi di gestione del sistema di Raccolta Punti.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\raccolta_punti_dati_email.bmp](./assets/media/image369.png)
+![](./assets/media/image369.png)
 
 Per ogni singola mail sarà possibile indicare i seguenti dati:
 

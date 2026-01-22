@@ -6,7 +6,7 @@ La sezione "**Distribuzione**" presente nella maschera di configurazione
 di ogni singolo Componente Passweb consente di definire su quali pagine
 il componente in esame dovrà essere distribuito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_protezione_front_end_res.bmp](./assets/media/image86.png)
+![](./assets/media/image86.png)
 
 Nello specifico dunque il parametro:
 
@@ -56,7 +56,7 @@ Nello specifico dunque il parametro:
 Il pulsante "**Verifica Distribuzione**" presente immediatamente al di
 sotto dell'albero delle pagine del sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\verifica_distribuzione.bmp](./assets/media/image87.png)
+![](./assets/media/image87.png)
 
 consente di verificare se il componente in oggetto (e tutti i suoi
 figli) è correttamente distribuito sulle pagine indicate all'interno del

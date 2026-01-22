@@ -9,13 +9,13 @@ consentirà di ricercare unicamente i documenti presenti all'interno di
 Cartelle Standard e/o di Cartelle Azienda diverse però dalle Cartelle
 Docuvision
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pannello_ricerca_documenti_no_web_api.bmp](./assets/media/image110.png)
+![](./assets/media/image110.png)
 
 Una volta indicato il testo da ricercare cliccando sul pulsante
 "**Vai**" verranno poi visualizzati, immediatamente al di sotto del
 campo di ricerca, tutti i risultati che soddisfano il filtro impostato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_comm_ricerca_documenti_risultati_no_webapi.bmp](./assets/media/image111.png)
+![](./assets/media/image111.png)
 
 **ATTENZIONE! la ricerca per titolo del documento è una ricerca di tipo
 "contiene"**
@@ -25,7 +25,7 @@ filtro. Cliccando quindi su uno dei risultati in elenco verrà aperta la
 relativa cartella e verranno visualizzati, in griglia, tutti i documenti
 in essa contenuti
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_comm_ricerca_documenti_risultati_no_webapi_2.bmp](./assets/media/image112.png)
+![](./assets/media/image112.png)
 
 Il pulsante "**Annulla**" consente invece di ripulire e azzerare il
 filtro precedentemente impostato.

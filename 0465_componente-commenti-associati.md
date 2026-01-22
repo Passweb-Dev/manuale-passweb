@@ -5,7 +5,7 @@
 Il componente "**Commenti Associati**" può essere utilizzato **solo ed
 esclusivamente all'interno delle pagine di tipo "Prodotto"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_commenti_prodotto.bmp](./assets/media/image416.png)
+![](./assets/media/image416.png)
 
 dove consente di inserire tutti gli elementi necessari per permettere
 agli utenti di commentare e votare i prodotti presenti in catalogo.

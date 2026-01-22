@@ -13,7 +13,7 @@ necessario accertarsi di aver gestito correttamente, nel "Dettaglio"
 della corrispondente e-mail, i segnaposto presenti all'interno della
 sezione "**Campi Opzioni Documento**" evidenziata in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\segnaposto_opzioni_documento.bmp](./assets/media/image711.png)
+![](./assets/media/image711.png)
 
 **ATTENZIONE!** per maggiori informazioni in merito alla
 personalizzazione delle mail di Ordini/Bolle/Fatture si rimanda a quanto
@@ -27,7 +27,7 @@ custom option, anche in questo caso le informazioni aggiuntive verranno
 gestite mediante l'inserimento, nel corpo del documento, di apposite
 note precedute a default, questa volta, dai caratteri #@**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\opzioni_ordine_gestionale.bmp](./assets/media/image712.png)
+![](./assets/media/image712.png)
 
 Volendo è anche possibile indicare una serie di caratteri differenti da
 anteporre alle note utilizzate per gestire queste opzioni di
@@ -35,7 +35,7 @@ personalizzazione agendo, in questo senso, mediante il parametro
 "**Prefisso Opzioni Documento**" presente alla pagina "Configurazione
 Ordini" del Wizard
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ordini_prefisso_opzioni.bmp](./assets/media/image713.png)
+![](./assets/media/image713.png)
 
 **ATTENZIONE! E' di fondamentale importanza non variare in alcun modo
 sul gestionale le informazioni contenute nelle note relative alle
@@ -64,7 +64,7 @@ In Mexal, ad esempio, sarà necessario portarsi all'interno del menu
 selezionare la sigla del documento interessato (es OC) e cliccare sul
 pulsante "Invio" aprendo così l'editor di modifica.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\stampe_grafiche_mexal.bmp](./assets/media/image714.png)
+![](./assets/media/image714.png)
 
 Sarà quindi necessario inserire all'interno dell'elemento **"Riga
 Descrittiva**" l'espressione che consente di non stampare, nel relativo

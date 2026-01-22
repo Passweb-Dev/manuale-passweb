@@ -6,7 +6,7 @@ Attraverso questi campi è possibile applicare al testo selezionato uno
 specifico formato/stile/font/dimensione del testo selezionandolo da un
 apposito menu a tendina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\editorHTML-contenuti2_res.bmp](./assets/media/image279.png)
+![](./assets/media/image279.png)
 
 A ciascuno dei formati indicati corrisponderà comunque un ben preciso
 tag HTML. Anche ai fini di un'ottimizzazione delle pagine web realizzate

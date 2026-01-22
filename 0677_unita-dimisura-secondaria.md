@@ -5,7 +5,7 @@
 Il campo **"Unità di misura secondaria"** presente nella sezione
 "Informazioni Generali" dell'Anagrafica Passweb di ogni singolo articolo
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_unita_misura_secondaria.bmp](./assets/media/image130.png)
+![](./assets/media/image130.png)
 
 permette di decidere se l'articolo in esame dovrà essere gestito con la
 sua unità di misura principale o con quella secondaria.
@@ -22,7 +22,7 @@ specifico articolo con la sua unità di misura secondaria il parametro
 del sito, con la prima delle unità di misura presenti, all'interno del
 gestionale, nella relativa tabella delle unità di misura secondarie**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\horeca_unita_misura_secondaria2.bmp](./assets/media/image131.png)
+![](./assets/media/image131.png)
 
 Per maggiori informazioni relativamente alla codifica e alla gestione
 delle unità di misura secondarie all'interno del gestionale si rimanda

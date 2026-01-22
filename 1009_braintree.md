@@ -56,7 +56,7 @@ impostare, oltre ai parametri classici di configurazione del pagamento,
 anche quelli specifici del gateway attualmente considerato e presenti
 all'interno della sezione "**Parametri Gateway**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_braintree.bmp](./assets/media/image54.png)
+![](./assets/media/image54.png)
 
 Nel caso specifico il parametro:
 
@@ -82,9 +82,9 @@ Nel caso specifico il parametro:
   "**Business**" accessibile dal menu presente in testata (icona
   raffigurante una piccola rotellina)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_braintree_2.bmp](./assets/media/image55.png)
+![](./assets/media/image55.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_braintree_3.bmp](./assets/media/image56.png)
+![](./assets/media/image56.png)
 
 - **Public Key / Private Key:** chiave pubblica / privata necessarie per
   il corretto funzionamento dell'integrazione tra Braintree ed il
@@ -94,9 +94,9 @@ Nel caso specifico il parametro:
   Home oppure all'interno della sezione "**API**" accessibile dal menu
   presente in testata (icona raffigurante una piccola rotellina)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_braintree_4.bmp](./assets/media/image57.png)
+![](./assets/media/image57.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_braintree_5.bmp](./assets/media/image58.png)
+![](./assets/media/image58.png)
 
 - **Pagamenti Abilitati:** consente di decidere quali pagamenti dovranno
   effettivamente essere abilitati e resi quindi disponibili agli utenti
@@ -223,17 +223,17 @@ Nel caso specifico il parametro:
 > di navigazione cliccando sull'icona raffigurante una piccola rotellina
 > posta in testata e selezionare la voce "Business"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_braintree_6.bmp](./assets/media/image59.png)
+![](./assets/media/image59.png)
 
 > Cliccare quindi sul link posto in corrispondenza della colonna
 > "**Merchant Account ID**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_braintree_7.bmp](./assets/media/image60.png)
+![](./assets/media/image60.png)
 
 > e verificare che per la voce "**3D Secure**" sia indicata l'opzione
 > "**Enrolled**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_braintree_8.bmp](./assets/media/image61.png)
+![](./assets/media/image61.png)
 
 **Le informazioni presenti all'interno di questa sezione sono di
 fondamentale importanza in quanto saranno poi quelle che garantiranno la
@@ -250,7 +250,7 @@ in base anche a quanto effettivamente supportato dal browser che
 l'utente sta utilizzando (in relazione soprattutto all'opzione relativa
 ad Apple Pay).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_braintree_9.bmp](./assets/media/image62.png)
+![](./assets/media/image62.png)
 
 Dipendentemente dalla modalità di pagamento effettivamente selezionata
 sarà poi necessario fornire i dati richiesti per completare il
@@ -262,7 +262,7 @@ Nel caso in cui dovesse essere selezionato il pagamento mediante carta
 di credito per completare il processo sarà necessario inserire,
 all'interno dell'apposito form i dati della carta
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\braintree_pagamento_carta.bmp](./assets/media/image63.png)
+![](./assets/media/image63.png)
 
 In fase di test è possibile utilizzare una delle carte indicate al
 seguente link
@@ -308,20 +308,20 @@ seguenti dati:
 Nel momento in cui si dovesse selezionare PayPal come modalità di
 pagamento verrà visualizzato il pulsante "**Paga Adesso**" di PayPal
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\braintree_pagamento_paypal.bmp](./assets/media/image64.png)
+![](./assets/media/image64.png)
 
 In queste condizioni per completare la transazione sarà quindi
 necessario cliccare sul pulsante evidenziato in figura e inserire, nella
 successiva maschera, le credenziali dell'account PayPal da utilizzare
 per il pagamento
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\braintree_pagamento_paypal_2.bmp](./assets/media/image65.png)
+![](./assets/media/image65.png)
 
 Effettuato l'accesso all'account PayPal sarà quindi possibile scegliere
 se completare il pagamento con una delle carte registrate sull'account
 PayPal oppure utilizzando il saldo caricato su questo stesso account
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\braintree_pagamento_paypal_3.bmp](./assets/media/image66.png)
+![](./assets/media/image66.png)
 
 **ATTENZIONE!** anche in questo caso come per il pagamento con carta,
 tutto il processo avverrà senza uscire dal sito Ecommerce. Gli eventuali
@@ -337,20 +337,20 @@ Cliccando sul pulsante "**Continua a rivedere l'ordine**" verrà chiusa
 la finestra relativa a PayPal e sarà quindi possibile concludere
 l'ordine
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\braintree_pagamento_paypal_4.bmp](./assets/media/image67.png)
+![](./assets/media/image67.png)
 
 **[PAGAMENTO CON GOOGLE PAY]{.underline}**
 
 Infine nel caso in cui si dovesse selezionare come modalità di pagamento
 Google Pay verrà visualizzato il classico pulsante "**Gpay**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\braintree_pagamento_gpay.bmp](./assets/media/image68.png)
+![](./assets/media/image68.png)
 
 Cliccando sul pulsante evidenziato in figura verranno richieste le
 credenziali dell'Account Google cui dovrà, ovviamente, essere associata
 almeno una carta di credito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\braintree_pagamento_gpay_2.bmp](./assets/media/image69.png)
+![](./assets/media/image69.png)
 
 Analogamente a quanto avveniva per PayPal sarà quindi sufficiente
 inserire le credenziali del proprio account google, selezionare la carta

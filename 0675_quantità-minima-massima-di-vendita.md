@@ -8,7 +8,7 @@ Passweb di ogni singolo articolo, consentono di impostare una ben
 precisa quantità minima / massima al di fuori della quale l'articolo
 stesso non potrà mai essere acquistato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_massimo_minimo_vendita.bmp](./assets/media/image127.png)
+![](./assets/media/image127.png)
 
 Supponendo dunque di voler consentire l'acquisto di un determinato
 prodotto solo per quantità superiori a 3, sarà necessario portarsi
@@ -23,7 +23,7 @@ impostazioni settate per il parametro "Aggiungi al Carrello" presente
 nella sezione "**Gestione Minimo e Massimo Fatturabile**" della maschera
 **"Configurazione Catalogo Ho.Re.Ca."**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_configurazione_massimo_minimo_vendibile.bmp](./assets/media/image128.png)
+![](./assets/media/image128.png)
 
 Per maggiori informazioni in merito si veda anche la sezione "*Catalogo
 -- Configurazione Parametri Catalogo -- Catalogo Mexal / Ho.Re.Ca.*" di

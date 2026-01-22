@@ -28,7 +28,7 @@ gestione di questo parametro si veda anche quanto indicato all'interno
 del capitolo "*Altri Marketplace -- Prestashop -- Configurazione
 Ordini*" di questo manuale)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\codifica_articoli_prestashop1.bmp](./assets/media/image705.png)
+![](./assets/media/image705.png)
 
 In queste condizioni dunque nel momento in cui sull'ordine acquisto da
 Prestashop dovesse essere presente un articolo non ancora codificato sul
@@ -38,7 +38,7 @@ seguendo le regole di seguito indicate:
 - Il **codice articolo sul gestionale** corrisponderà a quanto inserito
   su Prestashop in corrispondenza del campo "**Riferimento**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\prestashop_riferimento.bmp](./assets/media/image706.png)
+![](./assets/media/image706.png)
 
 > **ATTENZIONE!** per non ottenere errori in fase di codifica del nuovo
 > articolo è di fondamentale importanza verificare che il numero di
@@ -78,12 +78,12 @@ seguendo le regole di seguito indicate:
 > dell'articolo creato in Mexal corrisponderà esattamente con quanto
 > indicato all'interno di questo stesso campo:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\riferimento_combinazione_prestashop.bmp](./assets/media/image707.png)
+![](./assets/media/image707.png)
 
 - La **descrizione dell'articolo sul gestionale** corrisponderà al
   **Nome Prodotto** impostato su Prestashop.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\prestashop_nome_prodotto.bmp](./assets/media/image708.png)
+![](./assets/media/image708.png)
 
 > Anche in questo caso è di fondamentale importanza tenere sempre in
 > considerazione il numero massimo di caratteri effettivamente

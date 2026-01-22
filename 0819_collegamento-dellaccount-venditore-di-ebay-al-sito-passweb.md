@@ -52,7 +52,7 @@ degli strumenti della maschera **"Lista degli Account eBay"** sarà
 infatti possibile accedere alla maschera di configurazione del nuovo
 Account
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_nuovo_account.bmp](./assets/media/image39.png)
+![](./assets/media/image39.png)
 
 all\'interno della quale il campo:
 
@@ -102,7 +102,7 @@ precedentemente creata nell'ambiente developer di eBay
 Per fare questo è sufficiente cliccare sul pulsante **"Connessione
 Account eBay"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_35.bmp](./assets/media/image40.png)
+![](./assets/media/image40.png)
 
 In questo modo verrà infatti aperta una connessione con eBay e,
 utilizzando il set di Chiavi di Configurazioni precedentemente
@@ -111,7 +111,7 @@ dovremo specificare di voler collegare ed utilizzate il nostro Account
 Venditore di eBay sull'applicazione precedentemente creata nell'ambiente
 developer di questa stessa piattaforma.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\ebay_nuovo_account2.bmp](./assets/media/image41.png)
+![](./assets/media/image41.png)
 
 **ATTENZIONE! Inserire nei campi User ID e Password le credenziali dell'
 Account eBay di tipo Venditore.**
@@ -128,13 +128,13 @@ Una volta inserite le credenziali richieste e cliccato sul pulsante
 "**Sign in**" verrà visualizzata un'ulteriore pagina web contente un
 messaggio di accettazione delle condizioni del servizio.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\ebay_nuovo_account3.bmp](./assets/media/image42.png)
+![](./assets/media/image42.png)
 
 Sarà quindi necessario cliccare sul pulsante "**I Agree"** per
 confermare l'utilizzo dell'Account Venditore in questione
 sull'applicazione creata nell'ambiente developer di eBay.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\ebay_36.bmp](./assets/media/image43.png)
+![](./assets/media/image43.png)
 
 Tornando a visualizzare la pagina di configurazione dell' Account
 all'interno del Wizard di Passweb, sarà possibile verificare l'avvenuta
@@ -167,7 +167,7 @@ imposte dalla piattaforma eBay:
   colonna "**Scadenza**" presente in corrispondenza di ciascuno degli
   Account presenti in elenco
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_37.bmp](./assets/media/image44.png)
+![](./assets/media/image44.png)
 
 **ATTENZIONE! Nel caso in cui la data di scadenza del gettone dovesse
 essere stata superata la procedura di esportazione e pubblicazione degli
@@ -190,7 +190,7 @@ degli Account eBay" consentono, infine, di:
   attualmente selezionato in elenco.
 
 - **Sincro Ordini** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_sincro_ordini_ebay.bmp](./assets/media/image45.png) ): consente, nel caso in cui l'Account
+  ![](./assets/media/image45.png) ): consente, nel caso in cui l'Account
   selezionato in elenco sia stato configurato per interagire con eBay
   anche a livello di ordini, di effettuare la sincronizzazione tra le
   due piattaforme importando quini in Passweb eventuali nuovi ordini, e
@@ -212,7 +212,7 @@ degli Account eBay" consentono, infine, di:
 Cliccando su quest'ultimo pulsante verrà infatti visualizzata la
 maschera "**Dati Account**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_38.bmp](./assets/media/image46.png)
+![](./assets/media/image46.png)
 
 all'interno della quale sarà possibile visualizzare (sezione
 "**Generale**") le seguenti informazioni:

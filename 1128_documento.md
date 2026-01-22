@@ -21,9 +21,9 @@ Nello specifico il campo:
   che verrà poi visualizzato in **Area Riservata** nel momento in cui si
   dovesse visualizzare uno di questi documenti
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ordine_dettaglio_ar.bmp](./assets/media/image624.png)
+![](./assets/media/image624.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ordine_dettaglio_ar_esempio.bmp](./assets/media/image625.png)
+![](./assets/media/image625.png)
 
 > **ATTENZIONE! in area riservata è disponibile Bootstrap 5** per cui,
 > in fase di realizzazione di questo Template, è possibile utilizzare il
@@ -36,9 +36,9 @@ Nello specifico il campo:
   dall'applicazione in corrispondenza dei diversi possibili stati
   assunti da questa particolare tipologia di documenti
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ordine_dettaglio_mail.bmp](./assets/media/image626.png)
+![](./assets/media/image626.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ordine_dettaglio_mail_esempio.bmp](./assets/media/image627.png)
+![](./assets/media/image627.png)
 
 > **ATTENZIONE!** si ricorda che i diversi client email interpretano
 > ciascuno in maniera diversa il markup HTML utilizzato per costruire la
@@ -57,9 +57,9 @@ Nello specifico il campo:
   dovesse decidere di stampare, da Area Riservata o da Front end, uno di
   questi documenti
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ordine_dettaglio_stampa.bmp](./assets/media/image628.png)
+![](./assets/media/image628.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ordine_dettaglio_stampa_esempio.bmp](./assets/media/image629.png)
+![](./assets/media/image629.png)
 
 > **ATTENZIONE!** come per le mail anche in fase di Stampa, non tutto il
 > markup HTML e non tutte le proprietà CSS potrebbero essere
@@ -74,7 +74,7 @@ Nello specifico il campo:
   utili ad esempio per il tracciamento delle conversioni sull'acquisto,
   da poter inserire nella pagina di conferma ordine
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ordine_codice_completamento.bmp](./assets/media/image630.png)
+![](./assets/media/image630.png)
 
 **ATTENZIONE!** Per maggiori informazioni relativamente a come dover
 operare per costruire e/o personalizzare il Template del Dettaglio
@@ -107,7 +107,7 @@ In ogni caso, come detto, il modo di operare all'interno dei 3 editor di
 codice è sempre lo stesso. Volendo è possibile aprire l'editor in
 modalità full screen utilizzando il tasto funzione **F11**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\code_mirror_full_screen.bmp](./assets/media/image631.png)
+![](./assets/media/image631.png)
 
 Una volta entrati in modalità full screen è poi possibile ritornare alla
 visualizzazione standard utilizzando il tasto **ESC**.
@@ -117,7 +117,7 @@ consente invece di visualizzare un'anteprima del Template che si sta
 realizzando, dove, ovviamente, al posto dei dati reali relativi ad
 articoli e clienti, verranno visualizzati appositi segnaposto.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\code_mirror_preview_dettaglio_ordine_ar.bmp](./assets/media/image632.png)
+![](./assets/media/image632.png)
 
 In modalità Preview è possibile selezionare uno qualsiasi degli elementi
 presenti all'interno del Template.
@@ -150,11 +150,11 @@ messi a disposizione direttamente da Passweb.
 In questo senso cliccando sul pulsante "**Template**" presente in
 corrispondenza di ciascuna delle sezioni precedentemente esaminate
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\template_ordini_galleria.bmp](./assets/media/image633.png)
+![](./assets/media/image633.png)
 
 verrà aperta la relativa galleria dei modelli preconfigurati
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\template_ordini_galleria_1.bmp](./assets/media/image634.png)
+![](./assets/media/image634.png)
 
 Il pulsante "**Visualizza**" presente in corrispondenza di ciascuno dei
 modelli presenti in elenco consente di visualizzare, in un nuovo tab del
@@ -190,7 +190,7 @@ in cui dovrà essere inserita la nuova informazione, sarà necessario
 cliccare sul pulsante "**Seleziona un segnaposto ...**" in maniera tale
 da visualizzare l'elenco di tutti i segnaposto disponibili
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ordine_template_segnaposto.bmp](./assets/media/image635.png)
+![](./assets/media/image635.png)
 
 Selezionando quindi il segnaposto desiderato tra quelli presenti in
 elenco, Passweb provvederà poi ad inserire automaticamente nel template
@@ -523,7 +523,7 @@ realizzare l'integrazione con servizi di cashback, tale snippet dovrà
 essere inserito all'interno del campo **"Codice Completamento"**
 (*"Ordini -- Gestione Ordini -- Configurazione Ordini -- Documento"*).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ordine_codice_completamento.bmp](./assets/media/image630.png)
+![](./assets/media/image630.png)
 
 **ATTENZIONE!** Il contenuto del campo "Codice completamento" verrà poi
 riportato all'interno della sezione **\< head \>** della thankyou page
@@ -533,7 +533,7 @@ del sito.
 Volendo è possibile aprire l'editor in modalità full screen utilizzando
 il tasto funzione **F11**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\code_mirror_full_screen2.bmp](./assets/media/image636.png)
+![](./assets/media/image636.png)
 
 Una volta entrati in modalità full screen è poi possibile ritornare alla
 visualizzazione standard utilizzando il tasto **ESC**.

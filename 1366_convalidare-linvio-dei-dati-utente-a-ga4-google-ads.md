@@ -23,7 +23,7 @@ Per fare questo sarà necessario:
 - Accedere all'account di GTM collegato al sito e cliccare sul pulsante
   "**Preview**" posto in alto a destra nella barra degli strumenti
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_verifica_upd_1.bmp](./assets/media/image207.png)
+![](./assets/media/image207.png)
 
 - In questo modo verrà aperto lo strumento disponibile su Google Tag
   Manager per poter effettuare il debug del proprio sistema di
@@ -38,14 +38,14 @@ Per fare questo sarà necessario:
   verranno poi inviati al relativo sistema di tracciamento (Google Ads
   piuttosto che Google Analytics)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_verifica_upd_3.bmp](./assets/media/image209.png)
+![](./assets/media/image209.png)
 
 - Dovremo quindi portarci nel tab di gestione dei Tag e selezionare, tra
   gli eventi presenti nella colonna di sinistra, quello che ha fatto
   scattare il Tag di tracciamento precedentemente configurato per
   gestire anche i dati utente
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_verifica_upd_2.bmp](./assets/media/image210.png)
+![](./assets/media/image210.png)
 
 - Una volta individuato e selezionato questo evento, espandendo la
   sezione "API Call" presente nella parte destra della maschera avremo
@@ -53,7 +53,7 @@ Per fare questo sarà necessario:
   Tag ha generato e che è stata di fatto utilizzata per inviare i dati
   alla piattaforma di tracciamento (nel caso in questione a Google Ads)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_verifica_upd_4.bmp](./assets/media/image211.png)
+![](./assets/media/image211.png)
 
 > Come evidenziato in figura, se tutto è andato correttamente, già
 > all'interno di questa chiamata dovremo trovare una sezione
@@ -68,7 +68,7 @@ Per fare questo sarà necessario:
 - Oltre alla verifica effettuata nel punto precedente potremo anche
   cliccare direttamente sul relativo Tag di tracciamento
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_verifica_upd_2.bmp](./assets/media/image212.png)
+![](./assets/media/image212.png)
 
 > in modo tale da poter analizzare, forse in maniera più semplice, il
 > dettaglio dei dati da esso gestiti
@@ -78,7 +78,7 @@ Per fare questo sarà necessario:
 > parametro **em** che, nello specifico, è quello deputato alla gestione
 > dei dati utente
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_verifica_upd_6.bmp](./assets/media/image213.jpeg)
+![](./assets/media/image213.jpeg)
 
 - **Se il parametro em manca** completamente, significa che i dati
   utente, necessari per la gestione delle conversioni avanzate, non sono
@@ -108,12 +108,12 @@ Per fare questo sarà necessario:
 > due piccole parentesi graffe poste in alto a destra nella tabella
 > contenente tutti i parametri del Tag
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_verifica_upd_5.bmp](./assets/media/image214.png)
+![](./assets/media/image214.png)
 
 > in maniera tale da vedere anche il dettaglio di come i dati sono
 > gestiti all'interno del parametro em
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_verifica_upd_7.bmp](./assets/media/image215.png)
+![](./assets/media/image215.png)
 
 > Utilizzando gli strumenti per sviluppatori del browser (nello
 > specifico richiamando la variabile dataLayer dalla sezione "Console")
@@ -121,5 +121,5 @@ Per fare questo sarà necessario:
 > è effettivamente lo stesso di quelli presente nel dataLayer gestito da
 > Passweb
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_verifica_upd_8.bmp](./assets/media/image216.png)
+![](./assets/media/image216.png)
 

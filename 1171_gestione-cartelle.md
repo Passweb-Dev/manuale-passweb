@@ -6,7 +6,7 @@ Il pannello di ricerca presente nella parte alta della colonna
 contenente l'albero per la navigazione tra le varie cartelle consente di
 effettuare una ricerca tra tutte le cartelle presenti in struttura.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ricerca_cartelle.bmp](./assets/media/image82.png)
+![](./assets/media/image82.png)
 
 **ATTENZIONE!** **La ricerca viene effettuata sulla base del nome
 assegnato alle cartelle (NON sulla base del loro contenuto).**
@@ -15,7 +15,7 @@ Una volta indicato il testo da ricercare cliccando sul pulsante
 "**Vai**" verranno poi visualizzati, immediatamente al di sotto del
 campo di ricerca, tutti i risultati che soddisfano il filtro impostato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ricerca_cartelle_risultati.bmp](./assets/media/image83.png)
+![](./assets/media/image83.png)
 
 Ogni risultato mostra il percorso completo della cartella che soddisfa
 il filtro.
@@ -24,7 +24,7 @@ Cliccando quindi su uno dei risultati in elenco verrà aperta la relativa
 cartelle e verranno, ovviamente, visualizzati nella colonna di destra,
 tutti i documenti in essa contenuti
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ricerca_cartelle_risultati_2.bmp](./assets/media/image84.png)
+![](./assets/media/image84.png)
 
 Il pulsante "**Annulla**" consente invece di ripulire e azzerare il
 filtro precedentemente impostato.
@@ -41,33 +41,33 @@ che eventualmente altre sottocartelle.
 
 In queste condizioni dunque l'unico pulsante presente nella barra degli
 strumenti sarà proprio quello per la creazione di nuove cartelle (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_ar_nuova_cartella.bmp](./assets/media/image85.png) )
+![](./assets/media/image85.png) )
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ec_documenti2.bmp](./assets/media/image86.png)
+![](./assets/media/image86.png)
 
 Cliccando su questo pulsante verrà aperta la maschera di creazione della
 nuova cartella
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ec_nuova_cartella.bmp](./assets/media/image87.png)
+![](./assets/media/image87.png)
 
 all'interno della quale poter indicare il nome (campo **"Nome"**) oltre
 che gli utenti che dovranno avere accesso alla cartella stessa --
 pulsante **Aggiungi Utente (**
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_pulsante_inserisci_utente.bmp](./assets/media/image49.png) **)**
+![](./assets/media/image49.png) **)**
 
 **ATTENZIONE!** nel caso in cui l'utente tentasse di creare una cartella
 con lo stesso nome di una delle cartelle già presenti **allo stesso
 livello**, verrà visualizzato un avviso con la richiesta di modificare
 il nome della cartella.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\alert_cartelle_stesso_nome.bmp](./assets/media/image88.png)
+![](./assets/media/image88.png)
 
 Come per i messaggi, e sostanzialmente per ogni "entità" presente in
 area riservata, anche in questo caso l'elenco dei possibili utenti cui
 concedere accesso alla cartella che si sta realizzando può variare a
 seconda dell' utente attualmente loggato.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ec_nuova_cartella_utenti.bmp](./assets/media/image89.png)
+![](./assets/media/image89.png)
 
 Tra i possibili utenti di una cartella è possibile distinguere in:
 
@@ -93,7 +93,7 @@ sufficiente selezionarlo flaggando l'apposito check presente a fianco
 del suo nome e, successivamente, cliccare sul pulsante di **Conferma**
 presente nella parte alta della maschera.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_documenti_inserimento_utenti.bmp](./assets/media/image90.png)
+![](./assets/media/image90.png)
 
 Per ciascuno degli utenti inseriti è poi possibile specificare se
 l'accesso alla cartella dovrà avvenire in **modifica**, in **scrittura**
@@ -103,7 +103,7 @@ Selezionando l'utente verrà infatti visualizzata un'ulteriore sezione
 all'interno della quale poter specificare i permessi di
 lettura/scrittura/modifica.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_permessi_cartella.bmp](./assets/media/image91.png)
+![](./assets/media/image91.png)
 
 Queste le differenze tra le varie tipologie di permessi:
 
@@ -118,7 +118,7 @@ Queste le differenze tra le varie tipologie di permessi:
 > altre grazie alla presenza di un' icona al loro fianco raffigurante un
 > piccolo lucchetto rosso**.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cartelle_in_lettura.bmp](./assets/media/image92.png)
+![](./assets/media/image92.png)
 
 > **ATTENZIONE!** selezionando una cartella in sola lettura le uniche
 > operazioni effettuabili in merito al suo contenuto saranno il download
@@ -142,7 +142,7 @@ Queste le differenze tra le varie tipologie di permessi:
 > relazione al quale non ha tale permesso verrà visualizzato un
 > messaggio di errore e, ovviamente l'eliminazione non andrà a buon fine
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\blocco_permessi_scrittura.bmp](./assets/media/image93.png)
+![](./assets/media/image93.png)
 
 - **Modifica:** l'utente avrà il pieno controllo della cartella in esame
   potendo quindi visionare i documenti presenti al suo interno,
@@ -177,7 +177,7 @@ di creazione Nuova Cartella permette di associare alla cartella in esame
 uno specifico Amministratore selezionandolo tra gli utenti abilitati ad
 accedere alla cartella stessa.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_amministratore_cartella.bmp](./assets/media/image94.png)
+![](./assets/media/image94.png)
 
 Questo Amministratore potrà poi essere notificato, con una mail, con un
 SMS, con un messaggio Telegram e/o con un messaggio Whatsapp
@@ -216,7 +216,7 @@ in esse) partendo da un archivio compresso (file .zip) precedentemente
 creato.**
 
 Per far questo è sufficiente cliccare sul pulsante **Scegli File** **(**
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_scegli_file.bmp](./assets/media/image95.png) **)** presente, nella maschera di
+![](./assets/media/image95.png) **)** presente, nella maschera di
 creazione Nuova Cartella, a fianco dell'etichetta **"Zip con struttura
 Cartelle"**
 
@@ -294,7 +294,7 @@ compariranno, oltre al pulsante "Nuova Cartella" anche altri pulsanti
 identificativi di diverse azioni da poter effettuare sulla cartella in
 esame.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\area_riservata_documenti_toolbar_cartelle.bmp](./assets/media/image96.png)
+![](./assets/media/image96.png)
 
 **ATTENZIONE!** i pulsanti presenti nella barra degli strumenti possono
 variare in relazione alle proprietà e conseguentemente ai permessi che
@@ -303,7 +303,7 @@ l'utente attualmente loggato ha sulla cartella selezionata.
 In particolare il pulsante:
 
 **Nuova Cartella** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_ar_nuova_cartella.bmp](./assets/media/image85.png) ): consente di creare, attraverso la
+![](./assets/media/image85.png) ): consente di creare, attraverso la
 maschera di creazione cartella precedentemente analizzata, nuove
 cartelle all'interno di quella attualmente selezionata. Richiede i
 permessi di **Modifica** e/o di **Scrittura** sulla cartella
@@ -318,7 +318,7 @@ utente ad una sottocartella, sarà necessario per prima cosa aggiungere
 questo stesso utente alla relativa cartella padre.
 
 **Elimina (Cartella)** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_pulsante_elimina_cartella.bmp](./assets/media/image97.png) ): consente di eliminare la cartella attualmente
+![](./assets/media/image97.png) ): consente di eliminare la cartella attualmente
 selezionata.
 
 **ATTENZIONE! Questo tipo di operazione può essere fatta unicamente dal
@@ -328,7 +328,7 @@ Cliccando su questo pulsante verrà visualizzata un apposito messaggio
 per chiedere all'utente se desidera eliminare solamente la cartella
 selezionata oppure anche eventuali sotto cartelle:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\elimina_cartella_selezione.bmp](./assets/media/image98.png)
+![](./assets/media/image98.png)
 
 Nel caso in cui si decida di eliminare anche le sottocartelle verranno
 comunque eliminate solo ed esclusivamente quelle sottocartelle create
@@ -343,7 +343,7 @@ all'interno del sito.**
 > eliminati anche eventuali documenti in esse contenuti.
 
 **Proprietà** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\area_riservata_documenti_proprietà_cartella.bmp](./assets/media/image99.png) ): consente di variare le proprietà
+![](./assets/media/image99.png) ): consente di variare le proprietà
 della cartella selezionata. Questa operazione può essere fatta
 unicamente dal creatore della cartella. Cliccando su questo pulsante
 verrà aperta la stessa maschera di creazione cartella precedentemente
@@ -352,7 +352,7 @@ cartella, gli utenti abilitati ad accedervi o i loro permessi, l'utente
 Amministratore della cartella e la tipologia di notifica.
 
 **Sposta Cartella** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\area_riservata_documenti_sposta_cartella.bmp](./assets/media/image100.png) ): consente di attivare la modalità di
+![](./assets/media/image100.png) ): consente di attivare la modalità di
 spostamento di una cartella.
 
 Per effettuare questa operazione sarà quindi necessario:
@@ -365,7 +365,7 @@ Per effettuare questa operazione sarà quindi necessario:
 > In questo modo il cursore del mouse assumerà la forma di 4 piccole
 > frecce come evidenziato nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_spostamento_cartella.bmp](./assets/media/image101.png)
+![](./assets/media/image101.png)
 
 - Selezionare, a questo punto, la cartella di destinazione ossia quella
   dentro cui dovrà essere effettivamente spostata la cartella
@@ -375,7 +375,7 @@ Per effettuare questa operazione sarà quindi necessario:
 > dell'operazione con indicato il tipo di spostamento che si sta
 > effettuando
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\conferma_spostamento_cartella.bmp](./assets/media/image102.png)
+![](./assets/media/image102.png)
 
 - Cliccando sul pulsante "Conferma" la cartella sorgente verrà spostata
   dentro la destinazione

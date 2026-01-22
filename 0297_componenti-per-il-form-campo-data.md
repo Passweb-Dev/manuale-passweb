@@ -10,7 +10,7 @@ particolare.
 Al rilascio del Componente si aprirà **la sua maschera di gestione e
 configurazione**:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_finestra_data_res.bmp](./assets/media/image130.png)
+![](./assets/media/image130.png)
 
 suddivisa in varie sezioni.
 
@@ -142,28 +142,28 @@ componente.
     cui l'utente dovrà utilizzare apposite frecce per passare da un mese
     all'altro
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\calendario_default.bmp](./assets/media/image131.png)
+![](./assets/media/image131.png)
 
 - **Mostra menu Mesi:** selezionando questa opzione il controllo per la
   selezione della data sarà costituito da un calendario in cui la
   selezione del mese potrà avvenire anche mediante un apposito menu a
   tendina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\calendario_menu_mesi.bmp](./assets/media/image132.png)
+![](./assets/media/image132.png)
 
 - **Mostra menu Anni:** selezionando questa opzione il controllo per la
   selezione della data sarà costituito da un calendario in cui la
   selezione dello specifico anno potrà avvenire mediante un apposito
   menu a tendina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\calendario_menu_anni.bmp](./assets/media/image133.png)
+![](./assets/media/image133.png)
 
 - **Mostra menu Mesi e menu Anni:** selezionando questa opzione il
   controllo per la selezione della data sarà costituito da un calendario
   in cui la selezione dello specifico mese così come quella dello
   specifico anno potrà avvenire mediante un apposito menu a tendina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\calendario_menu_mesi_anni.bmp](./assets/media/image134.png)
+![](./assets/media/image134.png)
 
 - **Posizionamento dei Campi:** consente di posizionare gli elementi
   principali del componente secondo uno schema prestabilito.

@@ -25,7 +25,7 @@ Newsletter**" impostando i parametri di configurazione "**Tipo di
 Integrazione**" e "**Tipologia Form**" rispettivamente sui valori
 "**ActiveCampaign**" e "**Disiscrzione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_disiscrizione_newsletter_activecampaign.bmp](./assets/media/image64.png)
+![](./assets/media/image64.png)
 
 Il campo "**Lista Associata**" consentirà inoltre di indicare,
 selezionandola tra quelle definite all'interno del proprio account
@@ -53,9 +53,9 @@ Lo stato del contatto potrà essere verificato, ovviamente, anche
 all'interno di ActiveCampaign esaminando il campo "**Liste -- Email**"
 presente all'interno della sua anagrafica
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\annullamento_iscrizione_activecampaign.bmp](./assets/media/image65.png)
+![](./assets/media/image65.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\annullamento_iscrizione_activecampaign_2.bmp](./assets/media/image66.png)
+![](./assets/media/image66.png)
 
 **ATTENZIONE! la disiscrizione dal servizio di Newsletter di
 ActiveCampaign NON comporta l'eliminazione della relativa anagrafica

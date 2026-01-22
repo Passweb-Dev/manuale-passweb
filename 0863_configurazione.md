@@ -15,7 +15,7 @@ Disponibile per le seguenti piattaforme:
 All'interno di questa sezione è possibile selezionare la specifica
 piattaforma da integrare e impostare i relativi parametri di connessione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_mkt_1.bmp](./assets/media/image311.png)
+![](./assets/media/image311.png)
 
 In particolare i campi presenti all'interno di questa maschera
 consentono rispettivamente di:
@@ -79,7 +79,7 @@ compilare correttamente i parametri di connessione presenti all'interno
 della sezione "**Credenziali**", parametri questi che, ovviamente,
 varieranno in relazione alla piattaforma indicata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\parametri_connessione_facebook.bmp](./assets/media/image312.png)
+![](./assets/media/image312.png)
 
 I pulsanti presenti nella parte bassa della pagina consentono
 rispettivamente di:

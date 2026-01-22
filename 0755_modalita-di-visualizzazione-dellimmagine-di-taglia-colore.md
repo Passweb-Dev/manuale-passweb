@@ -8,7 +8,7 @@ collegati a Mexal, consente di decidere quale immagine visualizzare in
 carrello / wishlist / checkout in relazione ad articoli gestiti mediante
 la tabella "Taglie / Colori" del gestionale
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_catalogo_mexal_immagine_taglia.bmp](./assets/media/image12.png)
+![](./assets/media/image12.png)
 
 Nello specifico, selezionando il parametro "**Visualizza Immagine Taglia
 Colore Articolo**" in carrello / wishlist / checkout e nelle relative

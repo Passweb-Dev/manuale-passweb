@@ -4,7 +4,7 @@
 
 Il Componente Ecommerce **"Spedizione"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_spedizione.bmp](./assets/media/image446.png)
+![](./assets/media/image446.png)
 
 può essere inserito all'interno dei seguenti componenti Ecommerce di
 primo livello:
@@ -33,7 +33,7 @@ e consente di visualizzare, per ciascun articolo, eventuali tempi e
 costi di consegna **il tutto, ovviamente, in relazione alla singola
 unità di prodotto e quindi al prezzo attuale dell'articolo stesso**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_spedizione_fe.bmp](./assets/media/image447.png)
+![](./assets/media/image447.png)
 
 Relativamente alle informazioni visualizzate all'interno di questo
 componente è bene sottolineare che:
@@ -44,7 +44,7 @@ componente è bene sottolineare che:
   Vettore**" nella maschera di configurazione dello specifico Metodo di
   Trasporto)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\abilita_stima_costi_spedizione.bmp](./assets/media/image448.png)
+![](./assets/media/image448.png)
 
 > **ATTENZIONE! Per poter visualizzare, sul trasporto di tipo Passweb,
 > il parametro "Abilita stima costi/consegna" è necessario attivare, su
@@ -59,7 +59,7 @@ componente è bene sottolineare che:
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_spedizione_configurazione.bmp](./assets/media/image449.png)
+![](./assets/media/image449.png)
 
 suddivisa in varie sezioni.
 
@@ -139,7 +139,7 @@ possibile impostare un valore per i seguenti parametri:
 
 > E' possibile utilizzare uno dei seguenti segnaposto:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_spedizione_template.bmp](./assets/media/image450.png)
+![](./assets/media/image450.png)
 
 - **Descrizione**: verrà sostituito con quanto impostato all'interno del
   campo "**Descrizione**" presente nella maschera di configurazione del

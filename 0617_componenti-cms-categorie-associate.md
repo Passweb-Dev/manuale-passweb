@@ -4,19 +4,19 @@
 
 Il Componente **"Categorie Associate"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cms_componente_cat_asso_res.bmp](./assets/media/image72.png)
+![](./assets/media/image72.png)
 
 consente di visualizzare per ogni singola notizia presente all'interno
 del componente CMS di livello superiore, la o le categorie associate
 alla notizia stessa.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\categorie_associate_esempio_res.bmp](./assets/media/image73.png)
+![](./assets/media/image73.png)
 
 A livello di configurazione, una volta inserito il Componente
 all'interno della pagina web, verrà aperta in automatico **la sua
 maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_cms_categorie_configurazione_res.bmp](./assets/media/image74.png)
+![](./assets/media/image74.png)
 
 suddivisa in varie sezioni.
 

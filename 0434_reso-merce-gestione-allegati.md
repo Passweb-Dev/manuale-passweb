@@ -8,7 +8,7 @@ creati a partire dal sito Ecommerce, sarà necessario, per prima cosa,
 impostare il parametro "**Gestione Allegati**" presente nella maschera
 di configurazione del componente **Reso Custom (RMA)** sul valore **SI**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\allegati_reso_1_res.bmp](./assets/media/image332.png)
+![](./assets/media/image332.png)
 
 In queste condizioni verranno infatti visualizzati altri parametri
 mediante i quali poter definire esattamente come dovranno essere
@@ -94,7 +94,7 @@ creazione di un nuovo reso merce comparirà, all'interno del componente
 "Reso Custom (RMA)", un'ulteriore sezione all'interno della quale poter
 gestire l'upload dei file.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\allegati_reso_2_res.bmp](./assets/media/image333.png)
+![](./assets/media/image333.png)
 
 Il pulsante "**Seleziona file da allegare**" consente di selezionare il
 file da uplodare e allegare al documento.
@@ -111,7 +111,7 @@ alcune delle condizioni impostate (es. tipi di file gestiti, dimensione
 massima dei file da allegare ecc...) verrà visualizzato un apposito
 messaggio di errore
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\allegati_reso_3_res.bmp](./assets/media/image334.png)
+![](./assets/media/image334.png)
 
 Per ciascuno dei file allegati al documento verrà indicata la data di
 upload ed il nome del file; il campo "**Nota**" consentirà infine di
@@ -124,14 +124,14 @@ reso) sarà necessario verificare, per prima cosa, di aver correttamente
 selezionato in fase di configurazione, il parametro "**Inserimento
 Allegati resi esistenti**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\allegati_reso_4_res.bmp](./assets/media/image335.png)
+![](./assets/media/image335.png)
 
 In queste condizioni infatti, andando a visualizzare il dettaglio di un
 documento di reso merce già registrato comparirà, in coda ad eventuali
 allegati già presenti sul documento, anche il pulsante "**Gestisci
 Allegati**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\allegati_reso_5_res.bmp](./assets/media/image336.png)
+![](./assets/media/image336.png)
 
 Cliccando su questo pulsante sarà quindi possibile aggiungere nuovi
 allegati, rimuovere eventuali file precedentemente allegati al documento

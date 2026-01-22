@@ -33,7 +33,7 @@ Google in merito all'utilizzo delle mappe, il Componente Google Map
 permetterà di inserire all'interno della pagina web una mappa
 perfettamente integrata nel sito e completamente interattiva.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_google_map.bmp](./assets/media/image35.png)
+![](./assets/media/image35.png)
 
 E' possibile posizionare all'interno della Mappa uno o più Marker
 personalizzabili, prelevandoli in maniera completamente automatica, se
@@ -45,5 +45,5 @@ quale poter far calcolare a Google il percorso più breve tra un
 determinato indirizzo indicato dall'utente, e il Marker, attualmente
 presente all'interno della mappa, ad esso più vicino.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\google_map.bmp](./assets/media/image36.png)
+![](./assets/media/image36.png)
 

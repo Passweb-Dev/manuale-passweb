@@ -18,12 +18,12 @@ di seguito indicata:
     sul pulsante "**Crea Account**" presente nella parte alta della
     pagina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\business_manager_1.bmp](./assets/media/image532.png)
+![](./assets/media/image532.png)
 
 8.  Nel caso in cui non sia già stato effettuato l'accesso a Facebook
     verrà richiesto di farlo in questo momento
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\business_manager_2.bmp](./assets/media/image533.png)
+![](./assets/media/image533.png)
 
 > Inserire quindi le credenziali del proprio Account Facebook e cliccare
 > su Accedi e, successivamente, cliccare di nuovo sul pulsante "**Crea
@@ -39,12 +39,12 @@ di seguito indicata:
     indicato in questa fase sarà poi quello visibile anche su Facebook),
     l'indirizzo e-mail e altri dati aziendali
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\business_manager_3.bmp](./assets/media/image534.png)
+![](./assets/media/image534.png)
 
 > Una volta completata la creazione dell'Account verremo automaticamente
 > ridiretti nella sezione relativa alle impostazioni di configurazione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\business_manager_5a.bmp](./assets/media/image535.png)
+![](./assets/media/image535.png)
 
 > Da qui dovremo ora andare ad aggiungere l'App creata tramite il nostro
 > profilo Facebook aziendale (per maggiori informazioni in merito si
@@ -58,18 +58,18 @@ di seguito indicata:
     presente all'interno del menu "**Account**" sulla sinistra della
     pagina.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\business_manager_6a.bmp](./assets/media/image536.png)
+![](./assets/media/image536.png)
 
 > Una volta effettuato l'accesso alla sezione, cliccare sul pulsante
 > "**Aggiungi**" e selezionare quindi l'opzione "**Collega un ID app**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\business_manager_6b.bmp](./assets/media/image537.png)
+![](./assets/media/image537.png)
 
 11. Nella successiva schermata inserire, all'interno del campo "**ID
     app**" l'identificativo dell'App precedentemente creata all'interno
     del nostro account Facebook Developer
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\business_manager_7a.bmp](./assets/media/image538.png)
+![](./assets/media/image538.png)
 
 > e cliccare quindi sul pulsante "**Aggiungi app**" (essendo l'App
 > creata all'interno dello stesso Account Facebook non verranno
@@ -80,12 +80,12 @@ di seguito indicata:
 > agendo in questo senso dalla sezione "**Impostazioni**" dell'App sul
 > pulsante "**Seleziona un Business Manager**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\business_manager_8a.bmp](./assets/media/image539.png)
+![](./assets/media/image539.png)
 
 12. Una volta aggiunta l'App, all'interno del menu "**Utenti**"
     comparirà la voce "**Utenti del sistema**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\business_manager_9a.bmp](./assets/media/image540.png)
+![](./assets/media/image540.png)
 
 > Portarsi quindi all'interno di questa sezione e cliccare sul pulsante
 > "**Aggiungi**" per creare un nuovo utente di sistema
@@ -105,7 +105,7 @@ di seguito indicata:
 13. All'interno della maschera di creazione, assegnare un nome
     all'utente e selezionare per esso il ruolo di **Amministratore**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\business_manager_10a.bmp](./assets/media/image541.png)
+![](./assets/media/image541.png)
 
 14. Dopo aver creato l'utente di sistema sarà necessario concedergli
     l'accesso all'App precedentemente caricata all'interno del nostro
@@ -113,13 +113,13 @@ di seguito indicata:
     del Sistema", selezionare l'utente appena creato e cliccare sul
     pulsante **"Aggiungi Risorse"** evidenziato in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\business_manager_11a.bmp](./assets/media/image542.png)
+![](./assets/media/image542.png)
 
 15. Nella schermata successiva selezionare l'App precedentemente
     caricata sul Business Manager e, all'interno della colonna "**App**"
     attivare la voce "**Controllo completo -- Gestisci l'app**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\business_manager_12a.bmp](./assets/media/image543.png)
+![](./assets/media/image543.png)
 
 > Cliccare quindi sul pulsante "**Salva le modifiche**"
 
@@ -130,7 +130,7 @@ di seguito indicata:
 > Per far questo, sempre all'interno della sezione relativa all'utente
 > di sistema cliccare sul pulsante "**Genera un nuovo token**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\business_manager_13a.bmp](./assets/media/image544.png)
+![](./assets/media/image544.png)
 
 > Selezionare l'App in questione e attivare, abilitando i relativi
 > check, gli ambiti indicati in figura, vale a dire:
@@ -153,7 +153,7 @@ di seguito indicata:
 
 - catalog_management
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\business_manager_14.bmp](./assets/media/image545.png)
+![](./assets/media/image545.png)
 
 > **ATTENZIONE!** E' di fondamentale importanza selezionare tutti gli
 > ambiti sopra indicati in quanto da questi dipende poi la generazione
@@ -166,7 +166,7 @@ di seguito indicata:
     al nostro utente di sistema che dovremo inserire nei parametri di
     configurazione del sito Passweb
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\business_manager_15a.bmp](./assets/media/image546.png)
+![](./assets/media/image546.png)
 
 > **ATTENZIONE!** Come indicato nella maschera di generazione del token,
 > questo non verrà memorizzato su Facebook per cui è di fondamentale
@@ -200,10 +200,10 @@ Sarà quindi sufficiente selezionare la voce "**Pagine**" presente
 all'interno del menu "**Account**", cliccare sul pulsante "Aggiungi" e
 selezionare l'opzione "**Aggiungi una pagina**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\business_manager_16a.bmp](./assets/media/image547.png)
+![](./assets/media/image547.png)
 
 Indicare quindi l' url o il nome della propria pagina Facebook e
 cliccare sul pulsante "**Aggiungi Pagina**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\business_manager_18a.bmp](./assets/media/image548.png)
+![](./assets/media/image548.png)
 

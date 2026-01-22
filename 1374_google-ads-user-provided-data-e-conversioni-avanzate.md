@@ -21,7 +21,7 @@ specifico a Google Analytics piuttosto che a Google Ads) che li
 utilizzerà per abbinare l'utente a un click precedente su di un
 annuncio.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_ads_ec_1.bmp](./assets/media/image1.png)
+![](./assets/media/image1.png)
 
 Per comprendere quanto questo sistema di gestione, che in buona sostanza
 consente di identificare un utente mediante un indirizzo mail, possa

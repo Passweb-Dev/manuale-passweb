@@ -7,7 +7,7 @@ solo ed esclusivamente per siti collegati al gestionale Beauty** può
 essere utilizzato, ovviamente, soltanto all'interno della pagina
 "**Prenotazione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_prenotazione_custom_res.bmp](./assets/media/image337.png)
+![](./assets/media/image337.png)
 
 dove consente di inserire **un modulo di Prenotazione
 Servizio/Trattamento** attraverso cui l'utente dovrà necessariamente

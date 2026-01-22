@@ -59,7 +59,7 @@ In queste condizioni sarà infatti necessario, per prima cosa,
 selezionare il parametro "**Tracciamento dati Ecommerce**" presente
 all'interno della sezione "**Altri Tracker**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_tracker.bmp](./assets/media/image205.png)
+![](./assets/media/image205.png)
 
 **Una volta attivato questo parametro, indipendentemente dal fatto di
 utilizzare o meno anche GTM, Passweb si occuperà comunque di creare una
@@ -667,7 +667,7 @@ sopra indicato andrà inserito nella sezione "**Documento**" all'interno
 della voce di menu "**Ordini -- Gestione Ordini -- Configurazione
 Ordini**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_tracker2.bmp](./assets/media/image206.png)
+![](./assets/media/image206.png)
 
 Per quel che riguarda lo script, il parametro **/\* chiavemerchant \*/**
 andrà sostituito con la chiave fornita da trovaprezzi.it una volta
@@ -678,7 +678,7 @@ Per le altre variabili, Passweb viene incontro allo sviluppatore
 mettendogli a disposizione alcune variabili in grado di popolare
 correttamente le variabili da passare allo script di Trovaprezzi.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_tracker3.bmp](./assets/media/image207.png)
+![](./assets/media/image207.png)
 
 Nello specifico le variabili sono:
 

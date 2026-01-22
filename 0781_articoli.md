@@ -33,7 +33,7 @@ La maschera **"Gestione Articoli",** visualizzata non appena verrà
 effettuato l'accesso a questa pagina è suddivisa in due distinte
 sezioni:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_catalogo_0.bmp](./assets/media/image165.png)
+![](./assets/media/image165.png)
 
 - Nella sezione di sinistra viene visualizzato l'albero delle categorie
   merceologiche realizzato sulla base di quanto impostato all'interno
@@ -64,8 +64,8 @@ sezioni:
 > Mexal/Ho.Re.Ca.
 
 I pulsanti **Visualizza / Nascondi Categorie**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_visualizza_categorie.bmp](./assets/media/image166.png) /
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nascondi_categorie.bmp](./assets/media/image167.png) ) presenti nella barra degli strumenti
+(![](./assets/media/image166.png) /
+![](./assets/media/image167.png) ) presenti nella barra degli strumenti
 della colonna contenente l'elenco degli articoli, consentono invece di
 visualizzare / nascondere la sezione relativa alle categorie
 merceologiche

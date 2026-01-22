@@ -6,7 +6,7 @@ All'interno della sotto sezione "**Bozze**" è possibile visualizzare
 l'elenco di tutti i nuovi messaggi precedentemente creati ma non ancora
 inviati.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\bozze_ar_passcom.bmp](./assets/media/image50.png)
+![](./assets/media/image50.png)
 
 **ATTENZIONE!** Per maggiori informazioni relativamente a come poter
 salvare la bozza di un nuovo messaggio si rimanda a quanto indicato
@@ -15,7 +15,7 @@ all'interno del precedente capitolo "Messaggi in Arrivo"
 Come per i messaggi in arrivo, anche in questo caso per visualizzare il
 contenuto di un messaggio in bozza
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\bozza_dettaglio_passcom.bmp](./assets/media/image51.png)
+![](./assets/media/image51.png)
 
 sarà sufficiente:
 

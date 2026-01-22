@@ -78,7 +78,7 @@ Nello specifico, per quel che riguarda Passweb occorre considerare che:
 > parametro "**Abilita modalità di privacy avanzata**" evidenziato in
 > figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cookie_youtube.bmp](./assets/media/image1.png)
+![](./assets/media/image1.png)
 
 > In questo modo infatti il video incorporato all'interno della pagina
 > avrà come sorgente un dominio diverso da YouTube (nello specifico

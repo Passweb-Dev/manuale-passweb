@@ -21,5 +21,5 @@ questo manuale (*"Gestione Articoli -- Strutture"*).
 livelli della Variante Articolo utilizzata per gestire questa tipologia
 di prodotti**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\horeca_strutture_19.bmp](./assets/media/image433.png)
+![](./assets/media/image433.png)
 

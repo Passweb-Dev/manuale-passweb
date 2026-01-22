@@ -41,7 +41,7 @@ sta consultando.
 All'interno della sezione correlati verrà visualizzata la maschera
 "**Gestione CMS -- Correlazioni**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_cms_correlazioni.bmp](./assets/media/image549.png)
+![](./assets/media/image549.png)
 
 contenente l'elenco di tutti gli argomenti attualmente codificati
 all'interno del sito e in relazione ai quali sarà quindi possibile
@@ -56,7 +56,7 @@ sufficiente cliccare sul pulsante **"Nuovo Argomento"** presente nella
 barra degli strumenti. Verrà quindi visualizzata la maschera "**Nuovo
 Argomento CMS**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuovo_argomento.bmp](./assets/media/image550.png)
+![](./assets/media/image550.png)
 
 all'interno della quale poter definire (campo Argomento) il nome
 dell'argomento di correlazione che si intende codificare.
@@ -69,7 +69,7 @@ Cliccando su uno degli argomenti presenti in lista, compariranno
 infatti, nella contestuale barra degli strumenti anche i pulsanti
 **Elimina Argomento, Modifica Argomento** e **Gestione Liste**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_cms_correlazioni2.bmp](./assets/media/image551.png)
+![](./assets/media/image551.png)
 
 attraverso cui poter, rispettivamente:
 
@@ -85,7 +85,7 @@ attraverso cui poter, rispettivamente:
 Cliccando quindi sul pulsante "Gestione Liste" verrà visualizzata la
 maschera "**Gestione CMS -- Liste per Argomento (Nome Argomento)**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\liste_per_argomento.bmp](./assets/media/image552.png)
+![](./assets/media/image552.png)
 
 contenente l'elenco di tutte le liste di correlazione associate
 all'argomento attualmente selezionato
@@ -95,7 +95,7 @@ strumenti consente di definire una nuova lista di correlazione.
 Cliccando su questo pulsante verrà quindi visualizzata la maschera
 "**Nuova Lista per Argomento CMS**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuova_lista_correlazione.bmp](./assets/media/image553.png)
+![](./assets/media/image553.png)
 
 all'interno della quale poter definire (campo Lista) il nome della lista
 di correlazione che si intende codificare.
@@ -108,7 +108,7 @@ Selezionando una delle liste presenti in elenco compariranno nella barra
 degli strumenti due ulteriori pulsanti: **Gestione Contenuti Correlati**
 e **Elimina Lista di Correlazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\liste_per_argomento2.bmp](./assets/media/image554.png)
+![](./assets/media/image554.png)
 
 attraverso cui poter, rispettivamente:
 
@@ -125,7 +125,7 @@ Cliccando quindi sul pulsante "Gestione Contenuti Correlati" verrà
 visualizzata la maschera "**Gestione CMS -- Contenuti Correlati per
 Lista (nome Lista) per Argomento (Nome Argomento)**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\contenuto_lista.bmp](./assets/media/image555.png)
+![](./assets/media/image555.png)
 
 contenente l'elenco di tutti i post attualmente associati alla lista di
 correlazione in esame.
@@ -143,7 +143,7 @@ rispettivamente di:
 > paginato dei post precedentemente codificati all'interno della
 > corrispondente sezione "Contenuti"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\elenco_post.bmp](./assets/media/image556.png)
+![](./assets/media/image556.png)
 
 > Per aggiungere una o più notizie alla lista in esame sarà quindi
 > necessario selezionarle all'interno dell'elenco sopra evidenziato (la
@@ -157,7 +157,7 @@ rispettivamente di:
 > Eventuali "Origini" presenti all'interno di una certa lista verranno
 > evidenziate rispetto agli altri post in elenco.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\contenuto_lista2.bmp](./assets/media/image557.png)
+![](./assets/media/image557.png)
 
 Per comprendere meglio il concetto di "Origine" ed il significato del
 parametro "**Marca/Smarca come Origine**" appena analizzato, occorre

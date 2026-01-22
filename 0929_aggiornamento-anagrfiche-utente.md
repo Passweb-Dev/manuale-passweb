@@ -51,7 +51,7 @@ ordine) sarà possibile procedere in tre modi diversi:
 > Passweb**", presente all'interno della sezione "**Clienti**" nella
 > maschera di configurazione dell'Account Magento, sul valore **SI**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\aggiorna_clienti_magento.bmp](./assets/media/image702.png)
+![](./assets/media/image702.png)
 
 > **ATTENZIONE!** Nel momento in cui il parametro "**Aggiorna clienti in
 > Passweb**" dovesse essere impostato su No, l'unica possibilità che
@@ -63,7 +63,7 @@ ordine) sarà possibile procedere in tre modi diversi:
 > elenco l'Account Magento che ci interessa e cliccare poi sul pulsante
 > "**Sincro Clienti**" presente nella contestuale barra degli strumenti
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\aggiorna_clienti_magento_1.bmp](./assets/media/image814.png)
+![](./assets/media/image814.png)
 
 > **ATTENZIONE! l'operazione di sincronizzazione dei clienti NON importa
 > su Passweb, e conseguentemente sul gestionale, nuovi clienti dalla
@@ -82,7 +82,7 @@ ordine) sarà possibile procedere in tre modi diversi:
 > all'interno della sezione "**Schedulazione**" nella maschera di
 > configurazione dell'Account Magento
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_mkt_account_schedulazione.bmp](./assets/media/image704.png)
+![](./assets/media/image704.png)
 
 > **ATTENZIONE!** Anche in questo caso affinché la sincronizzazione
 > schedulata possa andare ad aggiornare anche le anagrafiche dei clienti

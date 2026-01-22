@@ -13,7 +13,7 @@ con la propria carta di credito.
 **ATTENZIONE! Il finanziamento viene richiesto e gestito direttamente
 sulla piattaforma Klarna ( <https://www.klarna.com/it/> ).**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\klarna_0.bmp](./assets/media/image110.png)
+![](./assets/media/image110.png)
 
 Nel momento in cui si dovesse decidere di attivare questa modalità di
 pagamento, Passweb offre anche la possibilità di inserire, direttamente
@@ -63,7 +63,7 @@ impostare, oltre ai parametri classici di configurazione del pagamento,
 anche quelli specifici del gateway attualmente considerato e presenti
 all'interno della sezione "**Parametri Gateway**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_klarna.bmp](./assets/media/image111.png)
+![](./assets/media/image111.png)
 
 Nel caso specifico il parametro:
 
@@ -128,7 +128,7 @@ verrà visualizzato, alla conferma, un' apposito messaggio per informarlo
 che, in relazione a quello specifico ordine, non è possibile richiedere
 una rateizzazione del pagamento
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\limiti_klarna.bmp](./assets/media/image112.png)
+![](./assets/media/image112.png)
 
 **ATTENZIONE! Una volta verificato, direttamente con Klarna, il range
 entro cui poter avviare la richiesta di rateizzazione, si consiglia
@@ -136,7 +136,7 @@ quindi di impostare i relativi limiti all'interno dei campi "Limite
 minimo / massimo" presenti nella maschera di configurazione del
 pagamento stesso**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\soisy_3.bmp](./assets/media/image95.png)
+![](./assets/media/image95.png)
 
 In questo modo saremo quindi sicuri che questa specifica modalità di
 pagamento verrà proposta al cliente solo ed esclusivamente nel caso in
@@ -150,7 +150,7 @@ pagamento in esame, in fase di checkout comparirà anche l'opzione
 relativa a questo stesso pagamento con l'indicazione delle possibili
 rate.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\klarna_1.bmp](./assets/media/image113.png)
+![](./assets/media/image113.png)
 
 Nel momento in cui l'utente dovesse decidere di utilizzare questo tipo
 di pagamento, alla conferma dell'ordine, il documento sarà memorizzato
@@ -163,7 +163,7 @@ i dati della carta di credito da utilizzare per effettuare i pagamenti
 rateizzati e, una volta inseriti anche questi dati gli verranno proposte
 le diverse possibili modalità di pagamento.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\klarna_2.bmp](./assets/media/image114.png)
+![](./assets/media/image114.png)
 
 **A questo punto però l'ordine non è ancora concluso in maniera corretta
 e, conseguentemente, non è ancora avvenuto alcun pagamento**. L'utente

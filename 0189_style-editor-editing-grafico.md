@@ -16,20 +16,20 @@ di quello specifico elemento, selezionare quindi l'elemento desiderato
 componenti) e cliccare, infine, sull'icona raffigurante un piccolo
 pennello presente nel R.O.C. di quello stesso elemento
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\live_editing_modifica-componente-grafica_res.bmp](./assets/media/image303.png)
+![](./assets/media/image303.png)
 
 Operando in questo modo verrà così attivato, all'interno della pagina,
 lo **Style Editor** del Contenitore / Componente selezionato, strumento
 questo mediante il quale l'utente avrà poi la possibilità di intervenire
 sulle sue caratteristiche grafiche.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\style_editor0_res.bmp](./assets/media/image304.png)
+![](./assets/media/image304.png)
 
 Ogni Componente / Contenitore è composto a sua volta da N elementi
 distinti selezionabili mediante il menu a tendina posto nella parte alta
 dello Style Editor.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\style_editor_elementi_componente.bmp](./assets/media/image305.png)
+![](./assets/media/image305.png)
 
 Una volta selezionato l'elemento desiderato, il form sottostante
 consentirà di gestire tutte le caratteristiche grafiche di quello
@@ -40,33 +40,33 @@ attivabili cliccando sulla corrispondente etichetta presente sulla
 sinistra della maschera.
 
 - **Font e Stile del Testo (**
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\style_editor_font.bmp](./assets/media/image306.png) )
+  ![](./assets/media/image306.png) )
 
 - **Dimensioni e Posizionamento (**
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dimensioni.bmp](./assets/media/image307.png) )
+  ![](./assets/media/image307.png) )
 
 - **Allineamento e Visibilità (**
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\allineamento_visibilita.bmp](./assets/media/image308.png) )
+  ![](./assets/media/image308.png) )
 
 - **Margini e Padding (**
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\margini.bmp](./assets/media/image309.png) )
+  ![](./assets/media/image309.png) )
 
 - **Bordi (**
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\bordi.bmp](./assets/media/image310.png) )
+  ![](./assets/media/image310.png) )
 
 - **Sfondi (**
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\sfondi.bmp](./assets/media/image311.png) )
+  ![](./assets/media/image311.png) )
 
 - **Ombra Testo (**
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\ombra_testo.bmp](./assets/media/image312.png) )
+  ![](./assets/media/image312.png) )
 
 - **Ombra Oggetto (**
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\ombra_oggetto.bmp](./assets/media/image313.png) )
+  ![](./assets/media/image313.png) )
 
 - **Transizioni (**
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\transizioni.bmp](./assets/media/image314.png) )
+  ![](./assets/media/image314.png) )
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\style_editor1_res.bmp](./assets/media/image315.png)
+![](./assets/media/image315.png)
 
 I pulsanti presenti nella barra degli strumenti dello Style Editor
 consentono rispettivamente di:
@@ -137,14 +137,14 @@ immediatamente a fianco di queste stesse proprietà e, successivamente,
 salvarli in maniera definitiva cliccando sull'icona raffigurante un
 piccolo dischetto posta nella parte alta dello Style Editor.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\style_editor3_res.bmp](./assets/media/image320.png)
+![](./assets/media/image320.png)
 
 Prima di salvare in maniera definitiva le modifiche apportate ad un
 certo elemento, Passweb chiederà all'utente un'ulteriore conferma
 relativamente al fatto di dover salvare tutte queste modifiche oppure
 solo ed esclusivamente quelle appositamente confermate:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\style_editor4_res.bmp](./assets/media/image321.png)
+![](./assets/media/image321.png)
 
 - **Salva solo le modifiche confermate:** consente di salvare solo ed
   esclusivamente le variazioni appositamente confermate attraverso
@@ -159,7 +159,7 @@ solo ed esclusivamente quelle appositamente confermate:
 (prima ovviamente della conferma definitiva) le modifiche apportate,
 utilizzando anche il tasto ESC
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\style_editor6_res.bmp](./assets/media/image322.png)
+![](./assets/media/image322.png)
 
 Una volta modificata una qualsiasi proprietà grafica per l'elemento
 selezionato, la corrispondente riga all'interno dello Style Editor verrà
@@ -179,7 +179,7 @@ verranno visualizzati, nei tre diversi livelli di profondità gestibili
 su di una singola pagina, i valori che assume attualmente la specifica
 proprietà CSS
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\style_editor7_res.bmp](./assets/media/image323.png)
+![](./assets/media/image323.png)
 
 **NOTA BENE**: secondo la logica propria dei fogli di stile la priorità
 più alta viene assegnata all'elemento più interno della struttura. In
@@ -197,7 +197,7 @@ impostati su tutti e tre i livelli gestibili e al ripristino, per la
 proprietà CSS, del valore di default.
 
 Il pulsante **Reset Modifiche** **(**
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_reset_modifiche.bmp](./assets/media/image324.png) **)** presente nella parte alta dello
+![](./assets/media/image324.png) **)** presente nella parte alta dello
 style editor consente, infine, di eliminare in blocco tutte le modifiche
 eventualmente apportate **all'elemento del Contenitore / Componente su
 cui si sta lavorando**

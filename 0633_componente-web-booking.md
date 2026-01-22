@@ -5,7 +5,7 @@
 Il componente "**Web Booking**" (disponibile solo per Varianti Sito
 Responsive)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_webbooking_res.bmp](./assets/media/image1.png)
+![](./assets/media/image1.png)
 
 può essere inserito e utilizzato in una qualsiasi pagina del sito e
 consente di pubblicare informazioni e dati prelevati direttamente dalla

@@ -57,7 +57,7 @@ sezione sarà possibile:
 All'interno di questa pagina verrà quindi visualizzata la maschera
 **"Configurazione Catalogo"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_catalogo_mexal.bmp](./assets/media/image1.png)
+![](./assets/media/image1.png)
 
 dove poter specificare un valore per i seguenti parametri:
 
@@ -223,7 +223,7 @@ dei seguenti valori:
   degli articoli gestiti all'interno del sito verranno visualizzati con
   il numero di decimali impostato in Mexal per la valuta in questione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\decimali_prezzo.bmp](./assets/media/image2.png)
+![](./assets/media/image2.png)
 
 **NOTA BENE:** per maggiori informazioni relativamente a come gestire in
 Mexal i decimali sulle valute si rimanda allo specifico manuale
@@ -235,7 +235,7 @@ Mexal i decimali sulle valute si rimanda allo specifico manuale
   tabella "**Parametri di Magazzino**" (*"Anagrafica Azienda -- Dati
   Aziendali -- Parametri di Magazzino"*)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\decimali_prezzo_magazzino.bmp](./assets/media/image3.png)
+![](./assets/media/image3.png)
 
 **NOTA BENE:** per maggiori informazioni relativamente alla gestione del
 parametro sopra evidenziato si rimanda allo specifico manuale Mexal
@@ -286,7 +286,7 @@ I componenti interessati sono:
 > utile ad indicare se il prezzo in esame dovrà essere considerato o
 > meno comprensivo di iva
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prezzo_indicazione_iva.bmp](./assets/media/image4.png)
+![](./assets/media/image4.png)
 
 > **ATTENZIONE!!** si ricorda che i prezzi visualizzati all'interno del
 > componente Carrello e del componente Checkout saranno o meno ivati (e
@@ -313,7 +313,7 @@ I componenti interessati sono:
 > indicare se l'importo della tassa in esame dovrà essere considerato o
 > meno comprensivo di iva
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tasse_indicazione_iva.bmp](./assets/media/image5.png)
+![](./assets/media/image5.png)
 
 > **ATTENZIONE!** Come per il prezzo anche l'importo di eventuali tasse
 > visualizzate all'interno del componente Carrello e del componente
@@ -344,7 +344,7 @@ I componenti interessati sono:
 > visualizzare tale informazione) dovrà essere considerato o meno
 > comprensivo di iva
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\spedizione_indicazione_iva.bmp](./assets/media/image6.png)
+![](./assets/media/image6.png)
 
 > **ATTENZIONE!** il fatto di visualizzare all'interno del componente
 > spedizione, importi ivati o non ivati dipenderà direttamente dalle
@@ -369,7 +369,7 @@ I componenti interessati sono:
 > l'importo di quello stesso costo dovrà essere considerato o meno
 > comprensivo di iva
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\checkout_indicazione_iva.bmp](./assets/media/image7.png)
+![](./assets/media/image7.png)
 
 > **ATTENZIONE!** il fatto di visualizzare all'interno degli step
 > relativi alla selezione del metodo di trasporto e / o del metodo di
@@ -391,7 +391,7 @@ attualmente gestite, all'interno della sezione "**Sito -- Testi /
 Messaggi del Sito -- Testi Generici**" agendo in corrispondenza della
 voce "**Iva**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\indicazione_iva_1.bmp](./assets/media/image8.png)
+![](./assets/media/image8.png)
 
 **Gestione Totale Merce:** consente di indicare come dovrà essere
 considerato il Totale Merce **nel calcolo delle Spese di Trasporto**,

@@ -15,7 +15,7 @@ All'interno di questa pagina verrà quindi visualizzata la maschera
 "**Lista delle Linee Articolo**" contenente l'elenco di tutte le linee
 gestite per gli articoli presenti sul Web.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_linee_articolo.bmp](./assets/media/image462.png)
+![](./assets/media/image462.png)
 
 Il campo di ricerca attivabile cliccando sulla lente di ingrandimento,
 presente in testata di ogni singola colonna, consente di filtrare i dati
@@ -38,7 +38,7 @@ I pulsanti presenti nella contestuale barra degli strumenti consentono
 rispettivamente di:
 
 **Modifica (**
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica.bmp](./assets/media/image43.png) **) --** presente nella barra degli strumenti,
+![](./assets/media/image43.png) **) --** presente nella barra degli strumenti,
 indipendentemente dal fatto di considerare un sito Ecommerce collegato a
 Mexal oppure ad uno dei gestionali Horeca.
 
@@ -49,7 +49,7 @@ in elenco.
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 **"Modifica Linea Articolo"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\descrizione_linea_articolo.bmp](./assets/media/image463.png)
+![](./assets/media/image463.png)
 
 all'interno della quale poter appunto indicare, in ciascuna delle lingue
 attualmente gestite all'interno del sito, una specifica descrizione.
@@ -82,17 +82,17 @@ collegati ad un gestionale Ho.Re.Ca., nella barra degli strumenti
 consentono rispettivamente di:
 
 **Elimina (**
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina.bmp](./assets/media/image114.png) **):** consente di eliminare la linea
+![](./assets/media/image114.png) **):** consente di eliminare la linea
 attualmente selezionata in elenco.
 
 **Nuova Linea** **(**
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuova.bmp](./assets/media/image132.png) **)**: consente di codificare una nuova
+![](./assets/media/image132.png) **)**: consente di codificare una nuova
 linea articolo
 
 Cliccando su questo pulsante verrà quindi visualizzata la maschera Nuova
 Linea Articolo
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuova_linea_articolo.bmp](./assets/media/image464.png)
+![](./assets/media/image464.png)
 
 all'interno della quale poter indicare il Codice della linea che si sta
 realizzando (campo **Codice**) e la sua descrizione (campo
@@ -113,7 +113,7 @@ elenco. Cliccando su questo pulsante verrà infatti visualizzata la
 maschera "**Esportazione Linee Articolo**" all'interno della quale poter
 configurare l'esportazione dei dati.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\esportazione_linee.bmp](./assets/media/image465.png)
+![](./assets/media/image465.png)
 
 Nel caso di sito in multilingua è possibile selezionare, tra quelle
 attualmente gestite, la lingua in relazione alla quale dovranno essere
@@ -135,7 +135,7 @@ Linee Articolo attualmente presenti in elenco.
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 "**Importazione Linee Articolo**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\importazione_linee.bmp](./assets/media/image467.png)
+![](./assets/media/image467.png)
 
 all'interno della quale poter configurare l'importazione dei dati in
 oggetto. In particolare il campo

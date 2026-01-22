@@ -6,7 +6,7 @@ La sezione "**Promozioni non consentite**" permette di indicare le
 "Promozioni in Carrello" che non dovranno essere applicate qualora
 l'utente decida di utilizzare il Buono Sconto in esame.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\buono_sconto_promozioni_escluse.bmp](./assets/media/image587.png)
+![](./assets/media/image587.png)
 
 Nel Box di sinistra sono indicate tutte le promozioni attualmente
 codificate all'interno della sezione "*Ordini -- Promozioni --
@@ -20,7 +20,7 @@ di destra.
 Nel caso di siti Ecommerce collegati ad uno dei gestionali Ho.Re.Ca. è
 presente anche la sezione **"Promozioni Ho.Re.Ca. non consentite"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\promozioni_horeca_non_consentite.bmp](./assets/media/image588.png)
+![](./assets/media/image588.png)
 
 che al pari della precedente permette di indicare le "Promozioni Horeca"
 che non dovranno essere applicate qualora l'utente decida di utilizzare

@@ -14,12 +14,12 @@ sconti/abbuoni relativi al pagamento selezionato. Pertanto:
   gestione del cliente, per il numero di rate di tipo R,B,A,T,V definite
   per il pagamento in esame.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\importo_spese_banca.bmp](./assets/media/image249.png)
+![](./assets/media/image249.png)
 
 > Su tali spese verrà poi calcolata anche l\'iva secondo con le stesse
 > modalità di Mexal.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tabella_bolli_spese_banca.bmp](./assets/media/image250.png)
+![](./assets/media/image250.png)
 
 - Se il cliente non è un privato le spese bolli verranno calcolate
   esattamente allo stesso modo di quanto avviene all\'interno di Mexal
@@ -51,13 +51,13 @@ selezionato dall'utente dovesse avere **delle rate di tipo B (Banca) o T
 (Tratte)** allora, in fase di memorizzazione sul gestionale, il campo
 "**Banca Azienda**" presente nel piede del relativo documento
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\banca_azienda.bmp](./assets/media/image251.png)
+![](./assets/media/image251.png)
 
 verrà valorizzato con le coordinate della banca inserita all'interno del
 campo "**Banca presentazione effetti**" presente nell'anagrafica
 gestionale dell'intestatario del documento
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\banca_presentazione_effetti.bmp](./assets/media/image252.png)
+![](./assets/media/image252.png)
 
 Nel caso in cui la "Banca presentazione effetti" dell'intestatario non
 dovesse essere impostata il campo "Banca Azienda" verrà valorizzato
@@ -65,7 +65,7 @@ invece con le coordinate della banca abituale per bonifici definita
 all'interno della relativa tabella gestionale "**Contabilità --
 Banche**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tabella_banche.bmp](./assets/media/image253.png)
+![](./assets/media/image253.png)
 
 Nel caso in cui, infine, non dovesse essere impostata neppure una banca
 abituale per i bonifici, ovviamente il campo "Banca Azienda" risulterà

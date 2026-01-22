@@ -9,13 +9,13 @@ per questo sul pulsante **Gestione Varianti**
 (![Videate\\pulsante_gestione_varianti_me.bmp](./assets/media/image8.png) ) presente nel menu di Editing del Sito o, in
 alternativa, sul corrispondente pulsante presente nella Barra degli
 Strumenti del Live Editing
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\barra_strumenti_gestione_varianti.bmp](./assets/media/image2.png))
+(![](./assets/media/image2.png))
 
 Una volta effettuato l'accesso a questa maschera troveremo infatti,
 nella parte destra, l'elenco delle Varianti Sito attualmente codificate
 e gestite all'interno del proprio ambiente di sviluppo
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\variante_4_res.bmp](./assets/media/image9.png)
+![](./assets/media/image9.png)
 
 Per ogni Variante Sito gestita è indicato:
 
@@ -39,7 +39,7 @@ effettuate sulla Variante stessa.
 Nello specifico il pulsante:
 
 **Elimina** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina.bmp](./assets/media/image10.png) ): consente di eliminare la Variante
+![](./assets/media/image10.png) ): consente di eliminare la Variante
 Sito attualmente selezionata in elenco. **Non è possibile eliminare la
 Variante Sito attualmente Online**.
 
@@ -54,7 +54,7 @@ così spazio disco, sarà necessario agire manualmente dalla sezione
 "Gestione Risorse del Sito"
 
 **Copia** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_copia.bmp](./assets/media/image11.png) ): consente di effettuare una copia
+![](./assets/media/image11.png) ): consente di effettuare una copia
 della Variante Sito attualmente selezionata in elenco.
 
 In fase di copia, prima dell'avvio della procedura, verrà visualizzata
@@ -111,7 +111,7 @@ una maschera all'interno della quale poter indicare:
 > più veloce.
 
 **Accedi Wizard** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_accedi_variante_res.bmp](./assets/media/image13.png) ): consente di caricare all'interno del
+![](./assets/media/image13.png) ): consente di caricare all'interno del
 proprio ambiente di sviluppo la Variante Sito attualmente selezionata in
 elenco in modo tale da poterne gestire struttura, grafica e contenuti
 utilizzando per questo i normali strumenti messi a disposizione dal
@@ -122,7 +122,7 @@ Wizard di Passweb.
 > attualmente pubblicata (Variante Sito online)
 
 **Accedi Sito** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_accedi_da_sito_res.bmp](./assets/media/image14.png) ): consente di visualizzare lato
+![](./assets/media/image14.png) ): consente di visualizzare lato
 front-end, come sarebbe dunque per un normale visitatore del sito, la
 Variante attualmente selezionata, senza però portarla Online.
 
@@ -151,7 +151,7 @@ offline, verrà visualizzato, nella parte basse del browser un piccolo
 banner per indicare in maniera esplicita che quella che si sta
 attualmente visualizzando è una Variante offline.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\variante_offline.bmp](./assets/media/image15.png)
+![](./assets/media/image15.png)
 
 Nel momento in cui l'esigenza dovesse essere quella di tornare a
 visualizzare la Variante Online sarà quindi necessario effettuare una
@@ -170,7 +170,7 @@ delle azioni di seguito indicate:
   questo punto aprire nuovamente il sito
 
 **Link Variante** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_link_variante.bmp](./assets/media/image16.png) ): visibile solo nel caso in cui la
+![](./assets/media/image16.png) ): visibile solo nel caso in cui la
 Variante selezionata in elenco non sia quella online.
 
 Consente di generare e copiare in clipboard il link di visualizzazione
@@ -192,7 +192,7 @@ di accedere alla visualizzazione della Variante offline per cui è stato
 generato
 
 **Online** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_online_variante_res.bmp](./assets/media/image17.png) ): consente di portare online e quindi
+![](./assets/media/image17.png) ): consente di portare online e quindi
 di pubblicare a tutti gli effetti la Variante Sito attualmente
 selezionata in elenco.
 
@@ -205,15 +205,15 @@ esclusivamente all'interno del proprio ambiente di sviluppo.
 Le Varianti Sito attualmente online verranno visualizzate nella parte
 alta dell'elenco e saranno evidenziate in verde
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\variante_11_res.bmp](./assets/media/image18.png)
+![](./assets/media/image18.png)
 
 **Modifica** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica.bmp](./assets/media/image19.png) ): consente di accedere all'anagrafica
+![](./assets/media/image19.png) ): consente di accedere all'anagrafica
 della Variante Sito attualmente selezionata in elenco. Cliccando su
 questo pulsante verrà visualizzata la maschera "**Modifica Variante
 Sito**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\variante_6_res.bmp](./assets/media/image20.png)
+![](./assets/media/image20.png)
 
 all'interno della quale oltre a poter variare, eventualmente, i
 parametri impostati in fase di creazione della Variante stessa, sarà

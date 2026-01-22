@@ -20,7 +20,7 @@ appartenenti alle categorie"**) definendo tanto per il singolo articolo,
 quanto per l'intera Categoria lo sconto (a valore o in percentuale) o il
 prezzo che dovrà poi essere applicato.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_promozioni_6.bmp](./assets/media/image534.png)
+![](./assets/media/image534.png)
 
 Il campo "**Tipo Sconto**" presente all'interno della scheda "**Opzioni
 Sconto articolo**" permette, in questo senso, di definire come dovrà
@@ -66,7 +66,7 @@ decimali** per cui potrebbe non esserci un'esatta corrispondenza con i
 relativi totali di un documento analogo generato però a partire dal
 gestionale.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_promozioni_13.bmp](./assets/media/image535.png)
+![](./assets/media/image535.png)
 
 Per maggiori informazioni relativamente alla configurazione, lato
 gestionale, di questa particolare tipologia di promozione si rimanda
@@ -80,7 +80,7 @@ solo ai primi articoli**" (scheda "**Opzioni Sconto articolo**").
 **[CASO A -- APPLICA SOLO AI PRIMI ARTICOLI 🡪 NON
 VALORIZZATO]{.underline}**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_promozioni_7.bmp](./assets/media/image536.png)
+![](./assets/media/image536.png)
 
 In queste condizioni sarà possibile decidere, in fase di attivazione e
 configurazione della Promozione all'interno del sito, come questa dovrà
@@ -89,10 +89,10 @@ effettivamente comportarsi.
 Selezionando, all'interno della maschera "Lista delle Promozioni"
 precedentemente esaminata, la Promozione in esame, e cliccando sul
 pulsante **Modifica Promozione**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_promozione.bmp](./assets/media/image479.png) ) si avrà accesso alla maschera di
+(![](./assets/media/image479.png) ) si avrà accesso alla maschera di
 configurazione della Promozione stessa
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_promozioni_8.bmp](./assets/media/image530.png)
+![](./assets/media/image530.png)
 
 all'interno della quale il campo:
 
@@ -118,7 +118,7 @@ delle seguenti opzioni:
 > dovuto alla promozione tanto in Catalogo quanto nella relativa scheda
 > prodotto.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_promozioni_9.bmp](./assets/media/image537.png)
+![](./assets/media/image537.png)
 
 - L'articolo coinvolto nella Promozione sia gestito con **unità di
   misura diversa da pz** e la **Promozione sia stata configurata per
@@ -134,7 +134,7 @@ delle seguenti opzioni:
   applicare degli sconti a valore,** tali sconti verranno applicati in
   Carrello mediante l'inserimento di un apposito **Abbuono**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_promozioni_30.bmp](./assets/media/image538.png)
+![](./assets/media/image538.png)
 
 > A differenza dei casi precedenti, in queste condizioni non sarà quindi
 > possibile visualizzare lo sconto dovuto alla promozione ne in Catalogo
@@ -167,18 +167,18 @@ delle seguenti opzioni:
 
 **[CASO B -- APPLICA SOLO AI PRIMI ARTICOLI 🡪 VALORIZZATO]{.underline}**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_promozioni_10.bmp](./assets/media/image539.png)
+![](./assets/media/image539.png)
 
 In queste condizioni eventuali sconti dovuti alla Promozione verranno
 applicati **sempre e comunque a livello di Carrello mediante
 l'inserimento di un relativo Abbuono.**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_promozioni_30.bmp](./assets/media/image540.png)
+![](./assets/media/image540.png)
 
 Selezionando, all'interno della maschera "Lista delle Promozioni"
 precedentemente esaminata, la Promozione in esame, e cliccando sul
 pulsante **Modifica Promozione**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_promozione.bmp](./assets/media/image479.png) ) si avrà sempre accesso alla maschera di
+(![](./assets/media/image479.png) ) si avrà sempre accesso alla maschera di
 configurazione della Promozione stessa dove, questa volta però, non sarà
 più possibile decidere come questa dovrà comportarsi all'interno del
 sito ma solamente se attivarla o meno (parametro "**Attivo**").
@@ -256,13 +256,13 @@ cassa, l'ordine nato all'interno del sito web si avrà che:
   della promozione verranno riportati **all'interno delle relative righe
   articolo**.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_promozioni_11.bmp](./assets/media/image541.png)
+![](./assets/media/image541.png)
 
 - eventuali sconti, dovuti alla promozione e **applicati sul sito a
   livello di Carrello** mediante **Abbuoni,** verranno riportati
   all'interno del campo **Sconto**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_promozioni_12.bmp](./assets/media/image542.png)
+![](./assets/media/image542.png)
 
 **ATTENZIONE!** Le Promozioni di tipo **Sconto Articolo / Prezzo Fisso**
 non sono considerate tra l'elenco delle Promozioni da poter escludere

@@ -35,7 +35,7 @@ presente alla pagina "**Sito -- Preferenze**" del wizard (tab
 "**Tracciamento Dati**" sezione "**Eventi Ecommerce per Google Analytics
 e Google Tag Manager**") sul valore "Server"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\import_conversioni_offline_1.bmp](./assets/media/image27.png)
+![](./assets/media/image27.png)
 
 potremmo avere, sostanzialmente, la certezza che l'evento di purchase
 venga comunque registrato su Google Analytics anche nel momento in cui

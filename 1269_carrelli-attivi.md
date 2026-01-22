@@ -8,7 +8,7 @@ maggiori informazioni relativamente alla differenza tra Carrello Attivo
 e Carrello Abbandonato si rimanda a quanto indicato in merito nel
 precedente capitolo di questo manuale).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\report_carrelli_attivi.bmp](./assets/media/image15.png)
+![](./assets/media/image15.png)
 
 **ATTENZIONE!** Per ovvie ragioni i dati presenti all'interno di questo
 report non sono filtrabili ne per range di date né tanto meno per
@@ -49,7 +49,7 @@ Cliccando su uno qualsiasi degli elementi presenti in griglia sarà poi
 possibile visualizzare, ed eventualmente stampare (pulsante "Stampa") il
 dettaglio del relativo carrello.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\statistiche_carrelli_attivi_dettaglio.bmp](./assets/media/image16.png)
+![](./assets/media/image16.png)
 
 **ATTENZIONE!** Nel dettaglio dei carrelli attivi non verranno indicati
 i dati relativi ad eventuali spese accessorie (es. spese di spedizione,

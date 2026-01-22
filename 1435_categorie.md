@@ -8,7 +8,7 @@ configurare e gestire la generazione del feed utilizzato per condividere
 con Clerk informazioni relative alle Categorie Merceologiche gestite
 all'interno del proprio sito Ecommerce.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_feed_categorie.bmp](./assets/media/image17.png)
+![](./assets/media/image17.png)
 
 In questo senso dunque il parametro:
 

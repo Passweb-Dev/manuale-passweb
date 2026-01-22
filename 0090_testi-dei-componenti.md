@@ -5,7 +5,7 @@
 All'interno di questa sezione è possibile modificare e personalizzare i
 testi legati ai vari Componenti utilizzabili all'interno del sito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\testi_messaggi_sito1.bmp](./assets/media/image455.png)
+![](./assets/media/image455.png)
 
 Il campo di ricerca attivabile cliccando sulla lente di ingrandimento,
 presente in testata di ogni singola colonna, consente di filtrare i dati
@@ -15,7 +15,7 @@ stessa.
 Una volta impostato un filtro di ricerca, per poterlo poi eliminare sarà
 sufficiente cliccare sull'icona raffigurante una piccola lente di
 ingrandimento con un -- all'interno (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina_filtro.bmp](./assets/media/image375.png) ) che comparirà in testata alla colonna
+![](./assets/media/image375.png) ) che comparirà in testata alla colonna
 in corrispondenza della quale è stato impostato il filtro stesso.
 
 Per personalizzare i testi e/o le etichette di uno specifico componente,
@@ -26,13 +26,13 @@ contenente tutti i testi e le etichette che potranno essere
 personalizzati per il componente in esame, in tutte le lingue gestite
 all'interno del sito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\testi_messaggi_sito4.bmp](./assets/media/image456.png)
+![](./assets/media/image456.png)
 
 Dipendentemente dallo specifico componente selezionato, alcuni dei testi
 personalizzabili potrebbero utilizzare apposite stringhe racchiuse tra
 due caratteri \$.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\testi_messaggi_sito5.bmp](./assets/media/image457.png)
+![](./assets/media/image457.png)
 
 **Tali stringhe sono segnaposto che verranno poi sostituiti
 dinamicamente da Passweb in fase di creazione della specifica pagina in
@@ -49,5 +49,5 @@ elementi, consente di selezionare, da un apposito menu a tendina, lo
 specifico segnaposto da utilizzare per il testo che si desidera
 personalizzare.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\testi_messaggi_sito6.bmp](./assets/media/image458.png)
+![](./assets/media/image458.png)
 

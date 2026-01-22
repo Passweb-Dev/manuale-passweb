@@ -65,7 +65,7 @@ tracciamento senza cookie**" presente alla pagina "**Privacy -- Rendi
 anonimi i tuoi dati**" del pannello di **Amministrazione** della propria
 installazione Matomo
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_17.bmp](./assets/media/image20.png)
+![](./assets/media/image20.png)
 
 Operando in questo modo ci troveremo quindi in condizione tali per cui:
 

@@ -7,7 +7,7 @@ considerazione del fatto che grazie ad esso è possibile ottenere
 informazioni granulari sulle azioni compiute a livello ecommerce
 nell'ambito di una stessa sessione di navigazione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_report_18.bmp](./assets/media/image50.png)
+![](./assets/media/image50.png)
 
 In sostanza dunque all'interno di questo report è possibile visualizzare
 esattamente le diverse azioni compiute, all'interno di una stessa

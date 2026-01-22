@@ -17,7 +17,7 @@ di impostare tutti i parametri di configurazione necessari per attivare
 il tracciamento del proprio sito Passweb mediante questa piattaforma di
 web analytics.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tracciamento_dati_matomo_1.bmp](./assets/media/image197.png)
+![](./assets/media/image197.png)
 
 **ATTENZIONE!** Matomo è uno strumento di web analytics che offre
 diverse possibilità di configurazione e di gestione e che può essere
@@ -57,7 +57,7 @@ Lo snippet di codice in questione potrà essere prelevato direttamente
 dalla propria installazione Matomo all'interno della pagina "**Siti Web
 -- Codice di Tracciamento**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_26.bmp](./assets/media/image198.png)
+![](./assets/media/image198.png)
 
 **ATTENZIONE!** A differenza di quello che avviene nell'integrazione
 Passweb -- Google Analytics dove è sufficiente inserire l'Id di
@@ -140,7 +140,7 @@ configurazione del sito stesso su Matomo e può essere visualizzato
 portandosi all'interno della pagina "Siti Web -- Amministrazione"
 (parametro ID evidenziato in figura)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_31.bmp](./assets/media/image199.png)
+![](./assets/media/image199.png)
 
 **ATTENZIONE!** "Id Sito" e "Dominio Matomo Server" sono parametri
 obbligatori. Nel momento in cui uno di essi dovesse essere impostato in

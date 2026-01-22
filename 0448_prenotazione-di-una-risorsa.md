@@ -6,7 +6,7 @@ La procedura attraverso cui l'utente dovrà passare per effettuare la
 prenotazione via web delle proprie risorse (es. ombrellone con lettini e
 sdraio) si compone di diversi step:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\spiagge_configurazione_8.bmp](./assets/media/image371.png)
+![](./assets/media/image371.png)
 
 1.  Selezione del Centro di Produzione su cui effettuare la prenotazione
     (es. Spiaggia) -- Tab "**Centri**"

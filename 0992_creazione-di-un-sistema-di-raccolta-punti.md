@@ -10,7 +10,7 @@ contestuale barra degli strumenti
 In questo modo verrà infatti visualizzata la maschera "**Configurazione
 Raccolta Punti**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\creazione_raccolta_punti_2.bmp](./assets/media/image368.png)
+![](./assets/media/image368.png)
 
 suddivisa in tre distinte sezioni:
 

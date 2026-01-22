@@ -6,13 +6,13 @@ Impostando il parametro "**Tipologia Fase di Checkout**" presente nella
 maschera di configurazione del componente "Ordine Custom Checkout)"
 sull'opzione "**Visualizzazione senza Step Incolonnato**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\checkout_no_step_incolonnato.bmp](./assets/media/image297.png)
+![](./assets/media/image297.png)
 
 la procedura di conferma ordine sarà gestita in un unico step
 all'interno del quale l'utente dovrà inserire, in diverse sezioni, tutte
 le informazioni necessarie per poter confermare l'acquisto.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ordine_senza_step_incolonnato.bmp](./assets/media/image298.png)
+![](./assets/media/image298.png)
 
 Come evidenziato nella figura sopra riportata, in questa particolare
 configurazione le diverse sezioni del modulo d'ordine (es. Informazioni

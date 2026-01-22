@@ -46,7 +46,7 @@ impostare, oltre ai parametri classici di configurazione del pagamento,
 anche quelli specifici del gateway attualmente considerato e presenti
 all'interno della sezione " **Parametri Gateway**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_paypal_checkout.bmp](./assets/media/image165.png)
+![](./assets/media/image165.png)
 
 Nello specifico all'interno di questa sezione il campo:
 
@@ -80,12 +80,12 @@ Nello specifico all'interno di questa sezione il campo:
   visualizzato direttamente nella singola pagina prodotto (mediante
   l'utilizzo del Componente Ecommerce "Simulatore del Pagamento")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\paypal_banner_rate_esempio_1.bmp](./assets/media/image166.png)
+![](./assets/media/image166.png)
 
 > oppure in fase di checkout in corrispondenza della relativa modalità
 > di pagamento
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\paypal_banner_rate_esempio_2.bmp](./assets/media/image167.png)
+![](./assets/media/image167.png)
 
 > **ATTENZIONE! la rateizzazione del pagamento è gestita interamente da
 > PayPal**
@@ -94,7 +94,7 @@ Nello specifico all'interno di questa sezione il campo:
 > sito di PayPal partendo, ad esempio, dal seguente link
 > <https://www.paypal.com/ppcredit/messaging/customize>
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\paypal_banner_rate_configurazione.bmp](./assets/media/image168.png)
+![](./assets/media/image168.png)
 
 > Una volta impostati i parametri di configurazione desiderati
 > (posizionamento, logo, colori ...) sarà sufficiente cliccare sul
@@ -103,7 +103,7 @@ Nello specifico all'interno di questa sezione il campo:
 > copiato e incollato nei parametri di configurazione del pagamento
 > Passweb.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\paypal_banner_rate_configurazione_2.bmp](./assets/media/image169.png)
+![](./assets/media/image169.png)
 
 > In particolare, come evidenziato nella figura sopra riportata,
 > all'interno di questa pagina verranno forniti due diversi snippet di
@@ -156,7 +156,7 @@ carta di credito (pulsante "**Paga con una carta**") oppure utilizzando
 il proprio account PayPal (pulsante "**Accedi**" dopo aver inserito le
 credenziali del proprio account)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamento_paypal_checkout.bmp](./assets/media/image160.png)
+![](./assets/media/image160.png)
 
 **A questo punto però l'ordine non è ancora stato preso in carico da
 PayPal e, conseguentemente, non è ancora avvenuto alcun pagamento**.
@@ -180,7 +180,7 @@ Nel secondo caso, una volta scelta la modalità di pagamento (Carta o
 Account PayPal ) verrà presentata all'utente una pagina web con il
 riassunto dei dati relativi alla transazione in essere.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamento_paypal_checkout_1.bmp](./assets/media/image161.png)
+![](./assets/media/image161.png)
 
 Cliccando sul pulsante "**Paga Adesso**" verrà completata la relativa
 transazione e l'utente verrà automaticamente ricondotto al sito

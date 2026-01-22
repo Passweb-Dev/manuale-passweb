@@ -6,7 +6,7 @@ La sezione **Statistiche** del Wizard, accessibile attraverso la
 corrispondente voce del menu principale, consente di visualizzare e
 gestire i principali dati statistici relativi al proprio sito Passweb
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_statistiche_passweb.bmp](./assets/media/image1.png)
+![](./assets/media/image1.png)
 
 Nello specifico sarà possibile visualizzare statistiche relativamente a:
 
@@ -68,13 +68,13 @@ presente nella barra degli strumenti posta nella parte alta della pagina
 Sito si rimanda a quanto indicato nella corrispondente sezione di questo
 manuale -- *"Live Editing -- Varianti Sito"* -- )
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\statistiche_variante.bmp](./assets/media/image2.png)
+![](./assets/media/image2.png)
 
 Nella stessa barra degli strumenti è disponibile poi anche il controllo
 per l'impostazione dell'intervallo temporale in relazione al quale
 dovranno essere visualizzati i dati statistici.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\statistiche_selezione_date.bmp](./assets/media/image3.png)
+![](./assets/media/image3.png)
 
 Di seguito verranno analizzati un po' più nel dettaglio i dati
 statistici presenti all'interno delle varie sezioni di questa specifica

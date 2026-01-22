@@ -8,7 +8,7 @@ e salvato l'**Access Token** necessario per mettere in comunicazione le
 due piattaforme, consente di impostare alcuni parametri di fondamentale
 importanza per il corretto invio dei messaggi WhatsApp.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\wa_smart_3.bmp](./assets/media/image6.png)
+![](./assets/media/image6.png)
 
 Nello specifico il campo:
 

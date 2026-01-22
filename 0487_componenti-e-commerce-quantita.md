@@ -4,7 +4,7 @@
 
 Il Componente **"Quantità"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_quantita_res.bmp](./assets/media/image537.png)
+![](./assets/media/image537.png)
 
 può essere inserito solo ed esclusivamente all'interno dei componenti
 Ecommerce di primo livello "**Carrello Custom**" e "**Wishlist Custom**"
@@ -12,7 +12,7 @@ e permette di gestire, all'interno di questi stessi componenti, il
 controllo necessario per variare le quantità degli articoli attualmente
 presenti in Carrello/Wishlist
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\componente_quantita_2.bmp](./assets/media/image538.png)
+![](./assets/media/image538.png)
 
 Di base il componente è costituito dall'unità di misura utilizzata dallo
 specifico articolo e da un semplice campo di input mediante il quale
@@ -32,7 +32,7 @@ comparirà anche un ulteriore campo all'interno del quale verrà mostrata
 la quantità ricevuta, ossia la quantità del corrispondente articolo che
 è già stata acquistata all'interno della relativa Lista Regalo.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\componente_quantita_3.bmp](./assets/media/image539.png)
+![](./assets/media/image539.png)
 
 **ATTENZIONE!** Nel caso in cui l'articolo sia gestito a taglie/colori
 verrà visualizzato un campo di input per ogni singola taglia/colore in
@@ -44,7 +44,7 @@ Infine nel caso
 Rilasciando il Componente nella posizione desiderata verrà visualizzata
 **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_quantita_configurazione_res.bmp](./assets/media/image540.png)
+![](./assets/media/image540.png)
 
 suddivisa in varie sezioni.
 
@@ -103,7 +103,7 @@ impostare un valore per i seguenti parametri:
 
 - Campo di input delle quantità
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\posizionamento_campi_quantita_carrello.bmp](./assets/media/image541.png)
+![](./assets/media/image541.png)
 
 > E' possibile selezionare uno dei seguenti valori:
 

@@ -4,7 +4,7 @@
 
 Attraverso il Componente **"Dati Articolo"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_dati_articolo_res.bmp](./assets/media/image515.png)
+![](./assets/media/image515.png)
 
 è possibile inserire all'interno del corrispondente componente Ecommerce
 di primo livello diversi tipi di informazioni, informazioni queste che
@@ -22,7 +22,7 @@ Mexal/Ho.Re.Ca. o a quale Attributo Articolo farlo corrispondere.**
 Rilasciando infatti il Componente nella posizione desiderata verrà
 visualizzata **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_dati_articolo_configurazione_res.bmp](./assets/media/image516.png)
+![](./assets/media/image516.png)
 
 suddivisa in varie sezioni.
 
@@ -103,7 +103,7 @@ possibile impostare un valore per i seguenti parametri:
 > questa informazione anche a livello di Microdati, sarà necessario
 > inserire all'interno del campo in esame la proprietà "**brand**".
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dati_articolo_itemprop.bmp](./assets/media/image517.png)
+![](./assets/media/image517.png)
 
 > In queste condizioni il valore mappato dal componente verrà racchiuso
 > all'interno di un frammento di codice del tipo di quello qui di

@@ -4,7 +4,7 @@
 
 Il Componente **"Nome"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_nome_res.bmp](./assets/media/image669.png)
+![](./assets/media/image669.png)
 
 **può essere inserito unicamente all'interno dei componenti Ecommerce di
 primo livello "Lista Categorie" e "Scheda Categoria".**
@@ -31,7 +31,7 @@ visibilità lato sito web (campo "Pubblico"). Rilasciando infatti il
 Componente nella posizione desiderata verrà visualizzata **la sua
 maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_nome_configurazione_res.bmp](./assets/media/image670.png)
+![](./assets/media/image670.png)
 
 suddivisa in varie sezioni.
 

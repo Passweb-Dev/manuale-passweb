@@ -6,7 +6,7 @@ Selezionando una delle categorie merceologiche presenti nell'albero
 verrà visualizzato, nella sezione destra della pagina, l'elenco di tutti
 gli articoli/servizi appartenenti alla categoria merceologica in esame.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\articoli_per_categoria.bmp](./assets/media/image184.png)
+![](./assets/media/image184.png)
 
 L' icona raffigurante due piccole frecce posta in testata ad ogni
 singola colonna (
@@ -22,23 +22,23 @@ colonna stessa.
 Una volta impostato un filtro di ricerca, per poterlo poi eliminare sarà
 sufficiente cliccare sull'icona raffigurante una piccola lente di
 ingrandimento con un -- all'interno (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina_filtro.bmp](./assets/media/image86.png) ) che comparirà in testata alla colonna
+![](./assets/media/image86.png) ) che comparirà in testata alla colonna
 in corrispondenza della quale è stato impostato il filtro stesso.
 
 Volendo poi è anche possibile applicare filtri di ricerca più evoluti e
 basati su campi non immediatamente visibili in griglia.
 
 Il pulsante "**Filtri Avanzati**" (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_filtri_avanzati.bmp](./assets/media/image186.png) ) presente nella barra degli strumenti, consente
+![](./assets/media/image186.png) ) presente nella barra degli strumenti, consente
 infatti di aprire una sezione di ricerca contenete un query builder
 utilizzabile per creare e customizzare il proprio filtro di ricerca
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_avanzati_articoli.bmp](./assets/media/image187.png)
+![](./assets/media/image187.png)
 
 Il pulsante "**Aggiungi un nuovo filtro**" consente di visualizzare
 l'elenco dei campi su cui poter impostare la condizione di filtro.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_avanzati_articoli_2.bmp](./assets/media/image188.png)
+![](./assets/media/image188.png)
 
 Oltre a campi articolo "standard" come Codice, Categoria Merceologica,
 Offerta, Novità, Natura ... saranno disponibili e selezionabili anche
@@ -50,7 +50,7 @@ necessario selezionare l'operatore relazionale (uguale, contiene, è in
 campo in esame dovrà assumere affinché la condizione impostata possa
 essere effettivamente soddisfatta.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_avanzati_articoli_3.bmp](./assets/media/image189.png)
+![](./assets/media/image189.png)
 
 In questo senso, ovviamente, gli operatori disponibili e le modalità di
 inserimento del valore da soddisfare potranno cambiare in relazione alla
@@ -67,7 +67,7 @@ selezionato quello desiderato, cliccando sull'etichetta "**Nature**"
 verrà aperta una piccola finestra contenente l'elenco delle Nature
 attualmente gestite all'interno del sito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_avanzati_articoli_4.bmp](./assets/media/image190.png)
+![](./assets/media/image190.png)
 
 A questo punto sarà quindi sufficiente selezionare le Nature desiderate,
 tra quelle presenti in elenco, e chiudere la finestra di selezione
@@ -92,7 +92,7 @@ articoli.
 Cliccando su questo elemento verranno visualizzati tutti gli operatori
 logici da poter utilizzare nella costruzione della propria query.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_avanzati_articoli_5.bmp](./assets/media/image191.png)
+![](./assets/media/image191.png)
 
 In questo senso, come precedentemente evidenziato, la **"e"**
 corrisponderà all'operatore logico **AND** mentre la **"o"**
@@ -101,7 +101,7 @@ questi operatori, potranno essere utilizzate, esattamente come avviene
 in algebra, per specificare quali condizioni dovranno essere valutate
 prima e quali dopo.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_avanzati_articoli_6.bmp](./assets/media/image192.png)
+![](./assets/media/image192.png)
 
 Il filtro rappresentato in figura consente, ad esempio, di ricercare
 tutti gli articoli che appartengono ad una data categoria merceologica e
@@ -117,15 +117,15 @@ impostati è possibile procedere in due modi diversi:
 - Aprire il pannello di ricerca dei filtri avanzati, eliminare tutte le
   condizioni di filtro eventualmente impostate cliccando per questo sul
   pulsante raffigurante un piccolo cestino (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_cestino.bmp](./assets/media/image193.png) ) posto in corrispondenza di ogni
+  ![](./assets/media/image193.png) ) posto in corrispondenza di ogni
   singola condizione e cliccare, infine, sul pulsante "Vai"
 
 - Cliccare sul pulsante "**Elimina filtri avanzati**" (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_filtri_avanzati.bmp](./assets/media/image194.png) ) che verrà visualizzato, una volta
+  ![](./assets/media/image194.png) ) che verrà visualizzato, una volta
   applicato un filtro di questo tipo, nella relativa barra degli
   strumenti
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_avanzati_articoli_7.bmp](./assets/media/image195.png)
+![](./assets/media/image195.png)
 
 **ATTENZIONE! i filtri applicati mediante i campi di ricerca presenti in
 testata alla griglia non sono compatibili con i filtri di ricerca
@@ -138,13 +138,13 @@ colonna verranno prima eliminati in maniera automatica eventuali filtri
 avanzati
 
 Il pulsante "**Colonne**" (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_colonne.bmp](./assets/media/image196.png) ), presente in testata, in
+![](./assets/media/image196.png) ), presente in testata, in
 corrispondenza dell'ultima colonna della griglia articoli, consente di
 decidere quali informazioni dovranno essere visualizzate direttamente in
 tabella. Cliccando su questo pulsante verrà infatti visualizzata la
 maschera "**Colonne**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\selezione_colonne_articoli.bmp](./assets/media/image197.png)
+![](./assets/media/image197.png)
 
 mediante la quale poter decidere quale campo attivare / disattivare e
 conseguentemente quale informazione mostrare / nascondere.
@@ -153,10 +153,10 @@ I dati non presenti direttamente in tabella potranno comunque essere
 visualizzati tra le "**ulteriori informazioni**" dell'articolo (oltre
 che ovviamente nella relativa maschera di dettaglio) disponibili
 cliccando sul pulsante raffigurante una piccola i (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_proprieta.bmp](./assets/media/image198.png) ) posto in corrispondenza di ogni
+![](./assets/media/image198.png) ) posto in corrispondenza di ogni
 singola riga
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\articoli_per_categoria2.bmp](./assets/media/image199.png)
+![](./assets/media/image199.png)
 
 In definitiva dunque, all'interno di questa maschera sarà possibile
 visualizzare / nascondere per ogni singolo articolo le seguenti
@@ -224,10 +224,10 @@ Tornando alla barra degli strumenti, infine, oltre al pulsante "Filtri
 Avanzati" precedentemente esaminato, potranno essere visualizzati anche
 ulteriori pulsanti che consentono rispettivamente di:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_articoli_barra_strumenti.bmp](./assets/media/image200.png)
+![](./assets/media/image200.png)
 
 **Risorse**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_risorse.bmp](./assets/media/image201.png) ): consente di accedere all'elenco delle
+(![](./assets/media/image201.png) ): consente di accedere all'elenco delle
 risorse grafiche (immagini e schede tecniche) collegate all'articolo
 attualmente selezionato in elenco
 
@@ -252,7 +252,7 @@ Passweb dell'articolo/servizio selezionato
 attualmente selezionato dal database di Passweb.
 
 **Link Carrello** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_link_carrello.bmp](./assets/media/image207.png) ): consente di generare e copiare in clipboard un link
+![](./assets/media/image207.png) ): consente di generare e copiare in clipboard un link
 che potrà poi essere utilizzato per aggiungere automaticamente in
 carrello (con **quantità unitaria**) l'articolo attualmente selezionato
 in elenco.
@@ -272,11 +272,11 @@ aggiunta automatica in carrello per articoli di tipo spesa, modificatori
 ne tanto meno per articoli padri di struttura o per articoli a taglie.
 
 **Ulteriori operazioni** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_ulteriori_operazioni.bmp](./assets/media/image208.png) ): consente, se cliccato, di aprire un piccolo menu
+![](./assets/media/image208.png) ): consente, se cliccato, di aprire un piccolo menu
 contestuale contenente una serie di altre funzioni relative agli
 articoli gestiti all'interno del proprio sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_articoli_ulteriori_operazioni.bmp](./assets/media/image209.png)
+![](./assets/media/image209.png)
 
 Nello specifico:
 
@@ -304,13 +304,13 @@ Per poter gestire direttamente dal Wizard di Passweb le varie risorse
 articoli presenti all'interno del sito, è sufficiente selezionare
 l'articolo desiderato all'interno della maschera "Gestione Articoli", e
 cliccare poi sul pulsante **Risorse**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_risorse.bmp](./assets/media/image201.png) ) presente nella contestuale barra degli
+(![](./assets/media/image201.png) ) presente nella contestuale barra degli
 strumenti.
 
 Verrà quindi visualizzata la maschera **"Gestione Risorse -- Nome
 Prodotto"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\risorse_articolo.bmp](./assets/media/image210.png)
+![](./assets/media/image210.png)
 
 contenente tutte le immagini e le schede tecniche associate, all'interno
 del gestionale o direttamente all'interno di Passweb, all'articolo in
@@ -330,7 +330,7 @@ I pulsanti presenti nella contestuale barra degli strumenti consentono
 rispettivamente di:
 
 **Cancella Risorsa**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_cancella_risorsa.bmp](./assets/media/image211.png) ): consente di **eliminare dal sito** (ma ovviamente
+(![](./assets/media/image211.png) ): consente di **eliminare dal sito** (ma ovviamente
 **non dal gestionale**) la risorsa attualmente selezionata.
 
 **ATTENZIONE!** Nel caso in cui l'esigenza dovesse essere quella di
@@ -343,7 +343,7 @@ Per maggiori informazioni in merito si veda anche la sezione
 Importazione Risorse Articolo*" di questo manuale.
 
 **Aggiungi Risorsa**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_risorsa.bmp](./assets/media/image212.png) ): consente di **aggiungere** una nuova
+(![](./assets/media/image212.png) ): consente di **aggiungere** una nuova
 risorsa all'articolo attualmente selezionato e/o di modificare una delle
 risorse ad esso già associate.
 
@@ -355,7 +355,7 @@ la maschera **"Risorsa"** mediante la quale poter specificare tutte le
 caratteristiche della risorsa che si vuole importare in Passweb ed
 associare all'articolo attualmente selezionato.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\aggiungi_risorsa_nuova_risorsa.bmp](./assets/media/image213.png)
+![](./assets/media/image213.png)
 
 - **File:** il pulsante "Scegli File" presente all'interno di questo
   campo consente di selezionare il file (immagine o scheda tecnica) da
@@ -432,15 +432,15 @@ questione dovesse essere un' articolo gestito a taglie/colori**
 compariranno nella barra degli strumenti due ulteriori pulsanti:
 "Collega Serie" e "Scollega Serie"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\risorse_articolo2.bmp](./assets/media/image214.png)
+![](./assets/media/image214.png)
 
 **Collega Serie**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_collega_serie.bmp](./assets/media/image215.png) ): consente di associare l'immagine attualmente
+(![](./assets/media/image215.png) ): consente di associare l'immagine attualmente
 selezionata ad uno specifico elemento (taglia o colore) della serie cui
 appartiene l'articolo in questione.
 
 **Scollega Serie**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_scollega_serie.bmp](./assets/media/image216.png) ): consente di eliminare l'associazione
+(![](./assets/media/image216.png) ): consente di eliminare l'associazione
 tra l'immagine attualmente selezionata e uno specifico elemento della
 serie.
 
@@ -486,7 +486,7 @@ creato e contenente tutte le risorse da associare ai vari articoli
 oltre, ovviamente, ad un file .csv mediante il quale poter indicare
 quale risorsa associare a quale articolo.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\file_risorse_articolo.bmp](./assets/media/image218.png)
+![](./assets/media/image218.png)
 
 **ATTENZIONE!** anche in questo caso saranno comunque accettate solo ed
 esclusivamente immagini di peso inferiore a 1 MB
@@ -579,7 +579,7 @@ Nello specifico poi per quel che riguarda il file csv:
     Taglie del gestionale in corrispondenza della specifica taglia cui
     collegare la risorsa in esame.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\tabella_taglie_import_risorsa_collegata.bmp](./assets/media/image219.png)
+![](./assets/media/image219.png)
 
 > Supponendo, in riferimento alla figura sopra riportata, di voler
 > collegare una specifica immagine al colore "GRI" della serie 3 (Colori
@@ -637,7 +637,7 @@ all'interno del sito operando direttamente dal Wizard di Passweb.
 Per far questo è sufficiente selezionare l'articolo desiderato
 all'interno della maschera "Gestione Articoli", e cliccare poi sul
 pulsante **Elimina**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina.bmp](./assets/media/image114.png) )
+(![](./assets/media/image114.png) )
 
 Operando in questo modo l'articolo selezionato verrà però rimosso solo
 ed esclusivamente dal database di Passweb, mentre non verranno apportate
@@ -677,7 +677,7 @@ Cliccando su questo pulsante verrà quindi visualizzata la maschera
 **"File Dati Articolo"** mediante la quale poter effettuare l'upload del
 file contenente le informazioni desiderate.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\import_file_attributi.bmp](./assets/media/image220.png)
+![](./assets/media/image220.png)
 
 Nello specifico all'interno di questa sezione sarà necessario indicare:
 
@@ -1254,7 +1254,7 @@ Cliccando su questo pulsante verrà visualizzata la maschera
 "**Esportazione Articoli**" all'interno della quale poter configurare
 l'esportazione dei dati.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\esportazione_articoli.bmp](./assets/media/image221.png)
+![](./assets/media/image221.png)
 
 Nel caso di sito in multilingua è possibile selezionare, tra quelle
 attualmente gestite, la lingua in relazione alla quale dovranno essere
@@ -1318,7 +1318,7 @@ disponibilità
 La sezione "**Filtro**" consente di definire un filtro sulla base del
 quale selezionare gli articoli che dovranno essere esportati.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\export_articoli_filtro.bmp](./assets/media/image222.png)
+![](./assets/media/image222.png)
 
 Per maggiori informazioni relativamente alla creazione di un Filtro
 Articoli si rimanda alla sezione "*Utenti -- Gruppi Utenti Sito --
@@ -1335,7 +1335,7 @@ sul pulsante raffigurante una piccola freccia rivolta verso destra.
 Nel riquadro di sinistra, assieme ai singoli campi sono presenti anche i
 Set di Attributi attualmente gestiti (evidenziati in grigio)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\esportazione_articoli_3.bmp](./assets/media/image223.png)
+![](./assets/media/image223.png)
 
 Selezionando uno di questi Set e spostandolo nel riquadro di destra
 verranno automaticamente inseriti nel file csv di esportazione tutti gli
@@ -1362,12 +1362,12 @@ dati che dovranno essere inseriti all'interno di questo stesso file
 
 Fatto questo sarà necessario cliccare sul pulsante "**Salva Nuova
 Configurazione**" (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_salva_configurazione.bmp](./assets/media/image224.png) ), presente nella barra degli strumenti
+![](./assets/media/image224.png) ), presente nella barra degli strumenti
 della sezione "Configurazione Esportazioni", assegnando al modello che
 si intende salvare un nome (campo "**Inserisci il nome della
 configurazione**") ed eventuali note
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\export_articoli_salva_modello.bmp](./assets/media/image225.png)
+![](./assets/media/image225.png)
 
 **ATTENZIONE!** per poter salvare un determinato modello è obbligatorio
 assegnargli un nome. Il campo note è invece opzionale
@@ -1376,17 +1376,17 @@ I modelli di esportazione così creati verranno visualizzati all'interno
 della sottostante tabella e potranno essere gestiti mediante i pulsanti
 presenti nella relativa barra degli strumenti.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modelli_esportazione_dati.bmp](./assets/media/image226.png)
+![](./assets/media/image226.png)
 
 In questo senso, i pulsanti Elimina, Modifica e Applica Configurazione
 consentono rispettivamente di:
 
 **Elimina Configurazione** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_configurazione.bmp](./assets/media/image227.png) ) : consente di eliminare il modello di
+![](./assets/media/image227.png) ) : consente di eliminare il modello di
 esportazione attualmente selezionato
 
 **Applica Configurazione**: (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_applica_configurazione.bmp](./assets/media/image228.png) ) : consente di applicare il modello di
+![](./assets/media/image228.png) ) : consente di applicare il modello di
 esportazione selezionato, impostando dunque in maniera automatica (e
 nello stesso modo in cui erano stati impostati in fase di creazione del
 modello) tutti i parametri presenti all'interno delle sezioni Generale,
@@ -1430,10 +1430,10 @@ esportazione massiva dei parametri di configurazione relativi ai vari
 componenti di eventuali box configurabili.
 
 Nello specifico cliccando sul pulsante **Importa Box** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_importa_box.bmp](./assets/media/image230.png) ) verrà visualizzata la maschera "**Importazione
+![](./assets/media/image230.png) ) verrà visualizzata la maschera "**Importazione
 Articoli Box**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\importazione_articoli_box.bmp](./assets/media/image231.png)
+![](./assets/media/image231.png)
 
 all'interno della quale poter configurare l'importazione dei dati in
 oggetto. In particolare il campo
@@ -1503,7 +1503,7 @@ manuale.
 Il pulsante **Esporta Box** consente invece di accedere alla maschera
 "**Esportazione Articoli Box**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\esportazione_articoli_box.bmp](./assets/media/image232.png)
+![](./assets/media/image232.png)
 
 all'interno della quale poter indicare il carattere separatore che dovrà
 essere utilizzato nella creazione del file di esportazione. Il pulsante
@@ -1515,7 +1515,7 @@ quelli precedentemente indicati
 ##### ARTICOLI ABBINATI
 
 Il pulsante **Abbinati**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_abbinati.bmp](./assets/media/image233.png) ), visualizzato nella barra degli strumenti della
+(![](./assets/media/image233.png) ), visualizzato nella barra degli strumenti della
 maschera Gestione Articoli dopo aver selezionato uno qualsiasi degli
 articoli presenti in elenco, consente di visualizzare e/o gestire,
 dipendentemente dalla tipologia di sito considerato, l'elenco degli
@@ -1524,7 +1524,7 @@ articoli ad esso abbinati.
 Cliccando su questo pulsante si verrà infatti ricondotti alla maschera
 "**Gestione Articoli Abbinati -- Nome Articolo**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_abbinati_13.bmp](./assets/media/image234.png)
+![](./assets/media/image234.png)
 
 all'interno della quale sarà possibile visualizzare tutti gli articoli
 abbinati a quello precedentemente selezionato.
@@ -1546,7 +1546,7 @@ suddivisa in due distinte sezioni:
   di Abbinati attualmente codificate e gestite all'interno del sito.
 
 > Il pulsante **Modifica**
-> (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica.bmp](./assets/media/image43.png) ) presente nella corrispondente barra
+> (![](./assets/media/image43.png) ) presente nella corrispondente barra
 > degli strumenti, consente di modificare e personalizzare la
 > descrizione della Categoria Abbinati attualmente selezionata in
 > elenco.
@@ -1554,7 +1554,7 @@ suddivisa in due distinte sezioni:
 > Cliccando su questo pulsante verrà infatti visualizzata la maschera
 > **Modifica Categoria**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_categoria.bmp](./assets/media/image235.png)
+![](./assets/media/image235.png)
 
 > all'interno della quale poter indicare, in ciascuna delle lingue
 > gestite all'interno del sito, l'etichetta utilizzata per identificare,
@@ -1569,7 +1569,7 @@ suddivisa in due distinte sezioni:
 > quella specifica Categoria Abbinati
 >
 > Il pulsante **Esporta**
-> (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_esporta_testo.bmp](./assets/media/image136.png) ) presente nella contestuale barra
+> (![](./assets/media/image136.png) ) presente nella contestuale barra
 > degli strumenti, consente invece di esportare l'elenco degli articoli
 > abbinati a quello inizialmente selezionato all'interno della maschera
 > "Gestione Articoli", nel seguente formato:
@@ -1599,27 +1599,27 @@ In questo senso i pulsanti presenti, solo per questa tipologia di siti,
 in corrispondenza delle Categorie Abbinati, consentono rispettivamente
 di:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_abbinati_16.bmp](./assets/media/image236.png)
+![](./assets/media/image236.png)
 
 - **Elimina**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina.bmp](./assets/media/image114.png) ): consente di eliminare la Categoria
+  (![](./assets/media/image114.png) ): consente di eliminare la Categoria
   Abbinati attualmente selezionata in elenco.
 
 - **Aggiungi**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi.bmp](./assets/media/image237.png) ): consente di codificare una nuova
+  (![](./assets/media/image237.png) ): consente di codificare una nuova
   Categoria Abbinati.
 
 > Cliccando su questo pulsante verrà infatti visualizzata la maschera
 > "**Nuova Categoria**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_gestione_abbinati_4.bmp](./assets/media/image238.png)
+![](./assets/media/image238.png)
 
 > all'interno della quale poter indicare, nei relativi campi, il
 > **Codice** e la **Descrizione** (nelle diverse lingue di gestione del
 > sito) della Categoria Abbinati che si intende realizzare.
 
 - **Modifica**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica.bmp](./assets/media/image43.png) ): consente di modificare la
+  (![](./assets/media/image43.png) ): consente di modificare la
   descrizione della Categoria Abbinati selezionata in elenco (una volta
   creata una Categoria sarà sempre possibile modificarne la descrizione
   ma mai il codice).
@@ -1627,17 +1627,17 @@ di:
 Allo stesso modo i pulsanti presenti, per questa tipologia di siti, in
 corrispondenza dell'elenco di Abbinati, consentono rispettivamente di:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_abbinati_17.bmp](./assets/media/image239.png)
+![](./assets/media/image239.png)
 
 - **Aggiungi**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi.bmp](./assets/media/image237.png) ): consente di abbinare un nuovo
+  (![](./assets/media/image237.png) ): consente di abbinare un nuovo
   articolo a quello inizialmente selezionato nella maschera "Gestione
   Articoli".
 
 > Cliccando su questo pulsante verrà infatti visualizzata la maschera
 > "**Nuovo Abbinato**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_abbinati_18.bmp](./assets/media/image240.png)
+![](./assets/media/image240.png)
 
 > all'interno della quale poter definire il nuovo abbinamento. Nello
 > specifico il campo:
@@ -1662,19 +1662,19 @@ corrispondenza dell'elenco di Abbinati, consentono rispettivamente di:
 > consentirà di salvare il nuovo abbinamento
 
 - **Modifica**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica.bmp](./assets/media/image43.png) ): consente di modificare
+  (![](./assets/media/image43.png) ): consente di modificare
   l'abbinamento in esame.
 
 > Cliccando su questo pulsante verrà infatti visualizzata la maschera
 > "**Modifica Abbinato**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_abbinati_19.bmp](./assets/media/image241.png)
+![](./assets/media/image241.png)
 
 > all'interno della quale poter variare, nei rispettivi campi, la
 > categoria di abbinamento e l'articolo abbinato.
 
 - **Elimina**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina.bmp](./assets/media/image114.png) ): consente di eliminare l'abbinamento
+  (![](./assets/media/image114.png) ): consente di eliminare l'abbinamento
   attualmente selezionato in elenco.
 
 > **ATTENZIONE!** il pulsante "Elimina Abbinato" consente di eliminare
@@ -1683,7 +1683,7 @@ corrispondenza dell'elenco di Abbinati, consentono rispettivamente di:
 > l'articolo abbinato
 
 - **Importa**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_importa.bmp](./assets/media/image134.png) ): consente di creare nuovi abbinamenti in maniera
+  (![](./assets/media/image134.png) ): consente di creare nuovi abbinamenti in maniera
   massiva utilizzando per questo un file .csv o .txt appositamente
   realizzato.
 
@@ -1698,7 +1698,7 @@ corrispondenza dell'elenco di Abbinati, consentono rispettivamente di:
 > Cliccando su questo pulsante verrà visualizzata la maschera "**File
 > Abbinati**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_abbinati_20.bmp](./assets/media/image242.png)
+![](./assets/media/image242.png)
 
 > all'interno della quale poter selezionare il file da importare (campo
 > **File(csv-txt)**).
@@ -1737,7 +1737,7 @@ corrispondenza dell'elenco di Abbinati, consentono rispettivamente di:
 > presenti all'interno del file stesso.
 
 - **Esporta**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_esporta_testo.bmp](./assets/media/image136.png) ): consente di esportare l'elenco
+  (![](./assets/media/image136.png) ): consente di esportare l'elenco
   degli articoli abbinati a quello inizialmente selezionato all'interno
   della maschera "Gestione Articoli" nel seguente formato:
 
@@ -1746,14 +1746,14 @@ corrispondenza dell'elenco di Abbinati, consentono rispettivamente di:
 ##### CODICI ALIAS
 
 Il pulsante **Alias**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_alias.bmp](./assets/media/image243.png) ), visualizzato nella barra degli strumenti della
+(![](./assets/media/image243.png) ), visualizzato nella barra degli strumenti della
 maschera Gestione Articoli, consente di accedere all'elenco dei codici
 Alias associati all'articolo attualmente selezionato in elenco.
 
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 "**Gestione Articoli -- Alias Cod. Articolo**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\elenco_alias_articolo.bmp](./assets/media/image244.png)
+![](./assets/media/image244.png)
 
 all'interno della quale poter visualizzare tutti i codici Alias
 associati all'articolo in esame.
@@ -1768,14 +1768,14 @@ direttamente all'interno del gestionale
 ##### COMMENTI
 
 Il pulsante **Commenti**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_commenti.bmp](./assets/media/image245.png) ), visualizzato nella barra degli strumenti della
+(![](./assets/media/image245.png) ), visualizzato nella barra degli strumenti della
 maschera Gestione Articoli, consente di accedere ai commenti relativi
 all'articolo attualmente selezionato in elenco.
 
 Cliccando su questo pulsante si verrà infatti ricondotti alla maschera
 "**Gestione Articoli -- Commenti Cod. Articolo**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\commenti_articolo_1.bmp](./assets/media/image246.png)
+![](./assets/media/image246.png)
 
 all'interno della quale poter visualizzare l'elenco di tutti i commenti
 attualmente associati all'articolo in esame.
@@ -1785,23 +1785,23 @@ singolo commento consente, se cliccata, di visualizzare alcune
 informazioni relative al commento stesso (il contenuto, l'autore e la
 data)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\commenti_articolo_3.bmp](./assets/media/image247.png)
+![](./assets/media/image247.png)
 
 I pulsanti presenti nella contestuale barra degli strumenti consento
 invece di:
 
 **Modifica Commento**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_commento.bmp](./assets/media/image248.png) ):consente di accedere al dettaglio del commento
+(![](./assets/media/image248.png) ):consente di accedere al dettaglio del commento
 selezionato in elenco e, eventualmente, di modificarne il contenuto
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dettaglio_commento.bmp](./assets/media/image249.png)
+![](./assets/media/image249.png)
 
 **Elimina Commento**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_commento.bmp](./assets/media/image250.png) ):consente di eliminare il commento selezionato in
+(![](./assets/media/image250.png) ):consente di eliminare il commento selezionato in
 elenco
 
 **Pubblica Commento**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_pubblica_commento.bmp](./assets/media/image251.png) ): consente di pubblicare il commento selezionato in
+(![](./assets/media/image251.png) ): consente di pubblicare il commento selezionato in
 elenco.
 
 **ATTENZIONE!! In merito al pulsante "Pubblica Commento" è bene
@@ -1847,7 +1847,7 @@ l'apposita sezione di questo manuale (*Live Editing -- Lista Componenti
 Ecommerce -- Commenti Associati*)
 
 **Ricarica Commenti**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_ricarica_commenti.bmp](./assets/media/image252.png) ): consente di ricaricare i commenti
+(![](./assets/media/image252.png) ): consente di ricaricare i commenti
 presenti in elenco in modo tale da poter visualizzare eventuali nuovi
 commenti postati all'interno del sito.
 
@@ -1862,13 +1862,13 @@ notifica.
 Per accedere all'Anagrafica Passweb di uno specifico articolo/servizio è
 sufficiente selezionare l'articolo desiderato all'interno della maschera
 "Gestione Articoli" e cliccare poi sul pulsante **Modifica**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica.bmp](./assets/media/image43.png) ) presente nella contestuale barra degli
+(![](./assets/media/image43.png) ) presente nella contestuale barra degli
 strumenti.
 
 In questo modo verrà infatti visualizzata la maschera "**Dati Articolo
 -- Nome Prodotto**" suddivisa in diverse sezioni.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dati_articolo_info_generali.bmp](./assets/media/image253.png)
+![](./assets/media/image253.png)
 
 ###### FUNZIONALITA' ARTICOLO
 
@@ -1896,7 +1896,7 @@ presenti all'interno di questa maschera potranno essere:
 - **in modifica ed in uso esclusivo a Passweb** (non collegati cioè a
   nessun campo del gestionale)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\funzionalità_articolo_mexal.bmp](./assets/media/image254.png)
+![](./assets/media/image254.png)
 
 **ATTENZIONE!** Nel momento in cui l'esigenza dovesse quindi essere
 quella di modificare uno qualsiasi dei campi in sola visualizzazione
@@ -2171,7 +2171,7 @@ In questo senso se, per una qualsiasi ragione, al salvataggio della
 maschera non dovesse essere possibile riportare i dati anche nei
 corrispondenti campi Mexal, verrà visualizzata un'apposita notifica.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\anagrafica_articolo_passweb_notifica.bmp](./assets/media/image255.png)
+![](./assets/media/image255.png)
 
 In queste condizioni i campi presenti solo su Passweb verranno
 correttamente salvati mentre quelli gestiti anche da Mexal manterranno
@@ -2183,7 +2183,7 @@ momento oppure agendo direttamente da Mexal.
 Il campo **Titolo** presente all'interno della sezione "**Informazioni
 Generali**" della maschera "**Dati Articolo**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dati_articolo_titolo.bmp](./assets/media/image256.png)
+![](./assets/media/image256.png)
 
 consente di visualizzare e, se necessario, modificare il **Titolo**
 dell'articolo in esame, informazione questa che potrà poi essere
@@ -2267,7 +2267,7 @@ Per poter associare un articolo a più categorie merceologiche è
 necessario agire dalla scheda "**Informazioni Generali**" presente
 all'interno della sua Anagrafica Passweb.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\associazione_articoli_N_categorie.bmp](./assets/media/image257.png)
+![](./assets/media/image257.png)
 
 **Categorie Merceologiche Associate:** consente di visualizzare e
 gestire l'associazione dell'articolo in esame a più categorie
@@ -2280,7 +2280,7 @@ Cliccando invece sullo spazio vuoto presente all'interno del campo verrà
 visualizzato l'elenco delle categorie attualmente gestite all'interno
 del sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\associazione_articoli_N_categorie2.bmp](./assets/media/image258.png)
+![](./assets/media/image258.png)
 
 Per associare l'articolo ad una categoria merceologica è quindi
 sufficiente selezionarla tra quelle presenti in elenco in modo tale da
@@ -2290,7 +2290,7 @@ Allo stesso modo per eliminare l'associazione tra un articolo e una
 specifica categoria merceologica è sufficiente premere sulla piccola x
 posta immediatamente a fianco del nome della categoria stessa.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\associazione_articoli_N_categorie3.bmp](./assets/media/image259.png)
+![](./assets/media/image259.png)
 
 **ATTENZIONE**! **La categoria merceologica evidenziata in giallo è
 quella principale, vale a dire quella associata all'articolo
@@ -2306,7 +2306,7 @@ corrispondenza della sezione "*Permalink*" nella scheda SEO del menu
 "*Sito -- Preferenze*" del Wizard, sul valore "Senza il percorso di
 categoria" come evidenziato nella figura di seguito riportata.**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\associazione_articoli_N_categorie4.bmp](./assets/media/image260.png)
+![](./assets/media/image260.png)
 
 Si ricorda inoltre che nel momento in cui si dovessero apportare delle
 variazioni al parametro in oggetto (passando ad esempio da "Con il
@@ -2342,7 +2342,7 @@ articolo all'interno del gestionale.**
 Il campo **Scorta Minima** presente all'interno della sezione
 "**Informazioni Generali**" della maschera "**Dati Articolo**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dati_articolo_scorta_minima.bmp](./assets/media/image261.png)
+![](./assets/media/image261.png)
 
 consente di impostare il valore della scorta minima dello specifico
 articolo, valore questo che verrà poi considerato, per il calcolo della
@@ -2416,7 +2416,7 @@ articolo, è strettamente legato a quanto impostato a livello generale,
 tramite l'analogo parametro presente all'interno della maschera
 "Configurazione Catalogo Mexal / Ho.Re.Ca."
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\anagrafica_passweb_scorta_minima.bmp](./assets/media/image262.png)
+![](./assets/media/image262.png)
 
 In questo senso dunque è bene sottolineare che:
 
@@ -2441,7 +2441,7 @@ In questo senso dunque è bene sottolineare che:
 Il campo **Soglia Disponibilità** presente all'interno della sezione
 "**Informazioni Generali**" della maschera "**Dati Articolo**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dati_articolo_soglia_disponibilità.bmp](./assets/media/image263.png)
+![](./assets/media/image263.png)
 
 consente di settare un valore di soglia per la disponibilità dello
 specifico prodotto, valore questo che potrà poi essere utilizzato in
@@ -2504,7 +2504,7 @@ A x" essendo per questo prodotto x=5).
 Il campo "**Gestione Disponibilità DBA"** presente all'interno della
 sezione "**Informazioni Generali**" della maschera "**Dati Articolo**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\anagrafica_passweb_disponibilita_DBA.bmp](./assets/media/image264.png)
+![](./assets/media/image264.png)
 
 consente di decidere come dovrà essere calcolata la disponibilità del
 relativo articolo di tipo DBA.
@@ -2535,7 +2535,7 @@ articoli di tipo DBA gestiti all'interno del sito, sarà necessario agire
 mediante l'analogo parametro presente alla pagina "Configurazione
 Catalogo" del Wizard
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_catalogo_disponibilita_DBA.bmp](./assets/media/image265.png)
+![](./assets/media/image265.png)
 
 In questo senso occorre sempre tenere in considerazione che un'eventuale
 variazione del parametro "**Gestione Disponibilità DBA"** presente
@@ -2550,7 +2550,7 @@ di singolo prodotto**.
 Il campo **Gestione Acquisto** presente all'interno della sezione
 "**Informazioni Generali**" della maschera "**Dati Articolo**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dati_articolo_gestione_acquisto.bmp](./assets/media/image266.png)
+![](./assets/media/image266.png)
 
 consente di impostare la modalità di acquisto dello specifico articolo.
 
@@ -2587,7 +2587,7 @@ Acquisto" è esattamente quella impostata all'interno del campo
 "Disponibilità" presente nella maschera "Configurazione Catalogo Mexal /
 Ho.Re.Ca." ed è calcolata al netto di eventuali scorte minime**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_acquisto2.bmp](./assets/media/image267.png)
+![](./assets/media/image267.png)
 
 Il parametro "Gestione Acquisto", presente nell'Anagrafica Passweb di un
 articolo, è strettamente legato a quanto impostato, a livello generale,
@@ -2624,7 +2624,7 @@ I due parametri **Confezione -- Aggiungi al Carrello Privati** e
 della sezione "**Informazioni Generali**" della maschera "**Dati
 Articolo**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dati_articolo_aggiunta_carrello_confezioni.bmp](./assets/media/image268.png)
+![](./assets/media/image268.png)
 
 consentono di decidere come l'articolo in esame dovrà effettivamente
 essere venduto all'interno del sito nel caso in cui l'acquisto dovesse
@@ -2776,7 +2776,7 @@ Relativamente agli articoli gestiti a Confezione è bene sottolineare poi
 anche la presenza dei due campi (in sola lettura) "**Confezione
 Multipla**" e "**Confezione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dati_articolo_campi_confezione.bmp](./assets/media/image269.png)
+![](./assets/media/image269.png)
 
 che consentono rispettivamente di:
 
@@ -2808,7 +2808,7 @@ di questo manuale *("Catalogo -- Opzioni Articoli")*
 Il campo **Set di Opzioni** presente all'interno della sezione
 "**Informazioni Generali**" della maschera "**Dati Articolo**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dati_articolo_set_opzioni.bmp](./assets/media/image270.png)
+![](./assets/media/image270.png)
 
 consente invece di associare all'articolo in esame uno specifico Set di
 Opzioni di personalizzazione, selezionandolo tra quelli appositamente
@@ -2848,7 +2848,7 @@ dal Wizard di Passweb.
 Il campo **Gift Card** presente all'interno della sezione
 "**Informazioni Generali**" della maschera "**Dati Articolo**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dati_articolo_giftcard.bmp](./assets/media/image271.png)
+![](./assets/media/image271.png)
 
 consente quindi di effettuare tale marcatura associando all'articolo in
 esame una specifica Gift Card selezionata tra quelle codificate
@@ -2862,7 +2862,7 @@ Card*" di questo manuale.
 
 I campi "**Classi Custom**" e "**Classi Regole**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dati_articolo_classi_custom.bmp](./assets/media/image272.png)
+![](./assets/media/image272.png)
 
 presenti nell'Anagrafica Passweb di ogni singolo articolo, consentono di
 assegnare all'articolo stesso una o più classi CSS che potranno poi
@@ -2962,7 +2962,7 @@ La sezione "**Descrizioni**" consente di gestire le diverse possibili
 descrizioni aggiuntive che possono essere associate
 all'articolo/servizio in esame.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\anagrafica_passweb_descrizioni.bmp](./assets/media/image274.png)
+![](./assets/media/image274.png)
 
 In particolare il campo
 
@@ -2994,7 +2994,7 @@ In particolare il campo
   "Descrizione secondaria" presente all'interno del gestionale
   nell'anagrafica del relativo articolo/servizio
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\horeca_descrizione_web.bmp](./assets/media/image275.png)
+![](./assets/media/image275.png)
 
 - **Descrizione Dettagliata:** consente di definire per l'articolo in
   esame, e in ciascuna delle lingue gestite all'interno del sito, una
@@ -3021,7 +3021,7 @@ In particolare il campo
   campo "**Descrizione Dettagliata**" presente nell'anagrafica articolo
   di Mexal
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\descrizione_dettagliata_mexal.bmp](./assets/media/image276.png)
+![](./assets/media/image276.png)
 
 > **ATTENZIONE!** l'aggiornamento, alla sincronizzazione, del valore (in
 > italiano) presente all'interno di questo campo con quanto presente nel
@@ -3085,7 +3085,7 @@ relativa all'articolo in esame dovrà o meno comparire all'interno della
 SiteMap del sito, ed eventualmente, con che priorità e con che frequenza
 di aggiornamento.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\anagrafica_passweb_seo.bmp](./assets/media/image277.png)
+![](./assets/media/image277.png)
 
 Nello specifico dunque il campo:
 
@@ -3195,7 +3195,7 @@ Nello specifico dunque il campo:
 > della sezione "**SiteMap Articoli**" presente alla pagina "**Sito --
 > Preferenze**" del Wizard (tab **Seo**)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\anagrafica_passweb_seo2.bmp](./assets/media/image278.png)
+![](./assets/media/image278.png)
 
 > In questo senso infatti è bene ricordare che nel momento in cui, a
 > seguito del filtro articoli definito all'interno di questa sezione, un
@@ -3242,7 +3242,7 @@ Attributi Articolo, siano essi di tipo Mexal o di tipo Passweb, creati
 all'interno dell'apposita sezione del Wizard ed utilizzati per estendere
 le "tradizionali" informazioni anagrafiche.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\anagrafica_passweb_attributi.bmp](./assets/media/image279.png)
+![](./assets/media/image279.png)
 
 **ATTENZIONE! per poter gestire (visualizzare e valorizzare) da questa
 sezione dell'Anagrafica Passweb gli Attributi Articolo addizionali è
@@ -3340,7 +3340,7 @@ possibilità di decidere come comporre il suo Box, con quali articoli e
 in che quantità, ovviamente il tutto sempre entro i limiti impostati in
 fase di configurazione dell'articolo stesso.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\anagrafica_passweb_box.bmp](./assets/media/image280.png)
+![](./assets/media/image280.png)
 
 In particolare dunque il campo:
 
@@ -3372,7 +3372,7 @@ In particolare dunque il campo:
 > operando nella scheda di configurazione del Composto mediante il
 > parametro "**N° massimo complessivo**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\anagrafica_passweb_box1.bmp](./assets/media/image281.png)
+![](./assets/media/image281.png)
 
 > Nel caso invece di **siti Ecommerce collegati a Mexal**, il numero
 > massimo di componenti andrà specificato direttamente nell'Anagrafica
@@ -3418,7 +3418,7 @@ Selezionando quindi uno degli articoli presenti in elenco verrà
 visualizzata nella parte destra della maschera la sezione "**Modifica
 Componente**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\anagrafica_passweb_box2.bmp](./assets/media/image282.png)
+![](./assets/media/image282.png)
 
 all'interno della quale sarà possibile impostare un valore per i
 seguenti parametri:
@@ -3459,27 +3459,27 @@ seguenti parametri:
 > Supponendo dunque di aver inserito (lato gestionale) all'interno del
 > Campionario Configurabile un articolo PROD03B in quantità pari a 10
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\anagrafica_passweb_box3.bmp](./assets/media/image283.png)
+![](./assets/media/image283.png)
 
 > di aver selezionato (lato Passweb) per lo stesso articolo il parametro
 > "Abilita Configurazione", di aver impostato per esso una "Quantità
 > Minima" pari a 0 e di aver impostato anche il parametro "Predefinito"
 > sul valore NO
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\anagrafica_passweb_box4.bmp](./assets/media/image284.png)
+![](./assets/media/image284.png)
 
 > l'utente in fase di configurazione del Box all'interno del sito si
 > troverà inizialmente l'articolo in esame in quantità pari a 0 e potrà
 > decidere di variare tale quantità tra 0 (**articolo non inserito**) e
 > 10, come del resto indicato dalla relativa etichetta.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\anagrafica_passweb_box5.bmp](./assets/media/image285.png)
+![](./assets/media/image285.png)
 
 - **Predefinito:** consente di indicare se il componente in oggetto
   dovrà essere o meno visualizzato nel box con la quantità specificata
   sul gestionale.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\anagrafica_passweb_box_predefinito.bmp](./assets/media/image286.png)
+![](./assets/media/image286.png)
 
 > E' possibile selezionare uno dei seguenti valori:
 
@@ -3526,7 +3526,7 @@ seguenti parametri:
 > esclusivamente all'interno del gestionale operando nella scheda di
 > configurazione del Composto mediante il relativo check
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\anagrafica_passweb_box_predefinito_horeca.bmp](./assets/media/image287.png)
+![](./assets/media/image287.png)
 
 - **Solo Taglie Indicate (solo Ecommerce Mexal e solo nel caso in cui
   l'articolo in esame sia un articolo gestito a Taglie/Colori):**
@@ -3535,7 +3535,7 @@ seguenti parametri:
   è stata effettivamente inserita, lato gestionale una specifica
   quantità.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\anagrafica_passweb_box6.bmp](./assets/media/image288.png)
+![](./assets/media/image288.png)
 
 > In caso contrario (parametro non selezionato) verranno visualizzate
 > tutte le taglie/colori gestiti e l'utente avrà quindi la possibilità
@@ -3554,7 +3554,7 @@ La sezione "**Spedizione**" consente di gestire i dati relativi alle
 dimensioni (**Larghezza**, **Altezza**, **Profondità** e **Peso**) dello
 specifico prodotto.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\anagrafica_passweb_spedizioni_1.bmp](./assets/media/image289.png)
+![](./assets/media/image289.png)
 
 **ATTENZIONE!** Nel momento in cui il sito dovesse essere integrato con
 Qaplà (piattaforma di gestione delle spedizioni) il peso degli articoli
@@ -3587,19 +3587,19 @@ In questo senso sarà quindi necessario:
   impostare le dimensioni e/o il peso e cliccare sul pulsante "**Dati
   Aggiuntivi**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\app_passdelivery_1.bmp](./assets/media/image290.png)
+![](./assets/media/image290.png)
 
 - Selezionare la voce "**Delivery -- Dati spedizione Art**" e cliccare
   sul pulsante "**Seleziona**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\app_passdelivery_2.bmp](./assets/media/image291.png)
+![](./assets/media/image291.png)
 
 - Una vota effettuato l'accesso alla maschera "**Delivery -- Dati
   Spedizioni Art**" inserire le dimensioni del prodotto all'interno dei
   relativi campi (**Altezza** -- **Larghezza** -- **Profondità** --
   **Peso** **Lordo**)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\app_passdelivery_3.bmp](./assets/media/image292.png)
+![](./assets/media/image292.png)
 
 > **ATTENZIONE!** il campo "**Peso**" dell'anagrafica Passweb
 > corrisponde al campo "**Peso Lordo**" presente all'interno della
@@ -3662,5 +3662,5 @@ La sezione "**Prezzi**" consente di visualizzare i prezzi (**ivati** e
 **non ivati**) del relativo articolo in ciascuno dei listini definiti
 all'interno del gestionale.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\anagrafica_passweb_listini.bmp](./assets/media/image293.png)
+![](./assets/media/image293.png)
 

@@ -19,7 +19,7 @@ comunicazioni in Area Riservata
 abilitato la relativa App operando per questo all'interno dell'apposita
 sezione del Wizard accessibile dal menu "*Sito -- Preferenze*".
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ec_documenti_attivazione.bmp](./assets/media/image76.png)
+![](./assets/media/image76.png)
 
 **I documenti presenti in tabella sono ordinati, a default, per data
 decrescente** (quindi dal più recente al meno recente).
@@ -37,7 +37,7 @@ le varie cartelle; nella parte destra sono invece elencati i file
 presenti all'interno della cartella attualmente selezionata (ed
 evidenziata in grassetto).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ec_documenti_struttura.bmp](./assets/media/image78.png)
+![](./assets/media/image78.png)
 
 Nei dispositivi mobile, verrà invece visualizzata, a default, la sola
 colonna contenente l'albero delle cartelle.
@@ -45,9 +45,9 @@ colonna contenente l'albero delle cartelle.
 In queste condizioni per visualizzare i file presenti all'interno di una
 specifica cartella sarà sufficiente selezionarla e cliccare poi sul
 pulsante "**Elenco Documenti**" (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elenco_documenti_mobile.bmp](./assets/media/image79.png) )
+![](./assets/media/image79.png) )
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_documenti_mobile.bmp](./assets/media/image80.png)
+![](./assets/media/image80.png)
 
 In questo modo verrà visualizzata la griglia dei documenti attualmente
 presenti all'interno della cartella in esame. Dopo aver selezionato uno

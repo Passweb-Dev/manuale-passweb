@@ -21,7 +21,7 @@ pagina "**Sito -- Preferenze -- Tracciamento Dati**" del Wizard del
 proprio sito Passweb e selezionare il parametro "**Abilita Tracciamento
 Server**" presente all'interno della sezione "**Matomo -- Server**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_30.bmp](./assets/media/image31.png)
+![](./assets/media/image31.png)
 
 Selezionando questo parametro verranno poi visualizzati altri campi che
 dovranno essere appositamente compilati per poter attivare in maniera
@@ -43,7 +43,7 @@ Nello specifico dunque il parametro:
   portandosi all'interno della pagina "**Siti Web -- Amministrazione**"
   (parametro **ID** evidenziato in figura)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_31.bmp](./assets/media/image32.png)
+![](./assets/media/image32.png)
 
 > **ATTENZIONE!** "Id Sito" e "Dominio Matomo Server" sono parametri
 > obbligatori. Nel momento in cui uno di essi dovesse essere impostato

@@ -92,7 +92,7 @@ presente alla pagina **Sito -- Preferenze** del Wizard e da qui:
   Ecommerce per Google Analytics e Google Tag Manager**" (pagina "**Sito
   -- Preferenze**" del Wizard tab "**Tracciamento Dati**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_preferenze_eventi_ecommerce.bmp](./assets/media/image46.png)
+![](./assets/media/image46.png)
 
 > sul valore "**Client**" o "**Entrambi**"
 >
@@ -106,14 +106,14 @@ presente alla pagina **Sito -- Preferenze** del Wizard e da qui:
   Google Analytics 4 in maniera tale da gestire il Data Layer con i
   parametri richiesti effettivamente da GA4
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_89.bmp](./assets/media/image47.png)
+![](./assets/media/image47.png)
 
 - Verificare di aver impostato correttamente gli snippet di codice
   necessari per l'installazione del contenitore di GTM sulle pagine del
   proprio sito (campi "**Monitoraggio Google Tag Manager -- HEAD**" e
   "**Monitoraggio Google Tag Manager -- BODY**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_90.bmp](./assets/media/image48.png)
+![](./assets/media/image48.png)
 
 **ATTENZIONE!** a differenza di quanto avveniva per UA, non sarà
 necessario impostare setting particolari sul proprio account GA4 per cui
@@ -192,23 +192,23 @@ variabile in questione:
     variabile cliccando sul pulsante "**Nuova**" presente in
     corrispondenza del box "**Variabili definite dall'utente**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_ecommerce_avanzato_1.bmp](./assets/media/image49.png)
+![](./assets/media/image49.png)
 
 2.  Cliccare sul pulsante "**Scegli un tipo di variabile per iniziare
     l'installazione**" presente in corrispondenza del box
     "**Configurazione Variabile**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_ecommerce_avanzato_2.bmp](./assets/media/image50.png)
+![](./assets/media/image50.png)
 
 > e selezionare, tra le varie proposte, l'opzione "**Variabile di
 > livello dati**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_ecommerce_avanzato_3.bmp](./assets/media/image51.png)
+![](./assets/media/image51.png)
 
 3.  Nella successiva maschera impostare i campi di configurazione della
     variabile come di seguito indicato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_91.bmp](./assets/media/image52.png)
+![](./assets/media/image52.png)
 
 - **Nome varabile di livello dati**: impostare sul valore
   "**ecommerce.items**"
@@ -219,7 +219,7 @@ variabile in questione:
     ecommerce.items**") utilizzando l'apposito campo presente nella
     parte alta della pagina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_92.bmp](./assets/media/image53.png)
+![](./assets/media/image53.png)
 
 > e cliccare sul pulsante "**Salva**"
 
@@ -1244,12 +1244,12 @@ di una pagina con componenti quali il "Catalogo Ecommerce", le "Offerte
     Analytics per l'evento in esame. Aprire quindi la sezione
     "**Parametri evento**" e cliccare sul pulsante "**Aggiungi Riga**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_95.bmp](./assets/media/image56.png)
+![](./assets/media/image56.png)
 
 6.  Aggiungere i nuovi parametri completando i campi "Nome parametro" e
     "Valore" come nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_96.bmp](./assets/media/image57.png)
+![](./assets/media/image57.png)
 
 > **[PARAMETRI OBBLIGATORI]{.underline}**
 
@@ -1505,7 +1505,7 @@ cella dell'articolo stesso presente in catalogo)
     parametri "Tag di configurazione" e "Nome evento" come nella figura
     di seguito riportata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_100.bmp](./assets/media/image65.png)
+![](./assets/media/image65.png)
 
 - **Tag di configurazione**: selezionare dal relativo menu a tendina il
   "Tag di configurazione GA4" precedentemente creato (per maggiori
@@ -1518,12 +1518,12 @@ cella dell'articolo stesso presente in catalogo)
     Analytics per l'evento in esame. Aprire quindi la sezione
     "**Parametri evento**" e cliccare sul pulsante "**Aggiungi Riga**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_101.bmp](./assets/media/image66.png)
+![](./assets/media/image66.png)
 
 6.  Aggiungere i nuovi parametri completando i campi "Nome parametro" e
     "Valore" come nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_102.bmp](./assets/media/image67.png)
+![](./assets/media/image67.png)
 
 > **[PARAMETRI OBBLIGATORI]{.underline}**
 
@@ -1605,7 +1605,7 @@ cella dell'articolo stesso presente in catalogo)
 > Cliccare quindi sul pulsante "**Scegli un attivatore per attivare
 > questo tag**" presente all'interno del box "**Attivazione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_103.bmp](./assets/media/image68.png)
+![](./assets/media/image68.png)
 
 > e, successivamente, cliccare sul pulsante di creazione di un nuovo
 > attivatore (il piccolo + posto nella parte alta della maschera)
@@ -1625,7 +1625,7 @@ cella dell'articolo stesso presente in catalogo)
 9.  Nella successiva maschera impostare i parametri di configurazione
     dell'attivatore come nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_104.bmp](./assets/media/image69.png)
+![](./assets/media/image69.png)
 
 - **Nome Evento**: impostare su "***select_item***"
 
@@ -1765,7 +1765,7 @@ di una scheda prodotto
     parametri "Tag di configurazione" e "Nome evento" come nella figura
     di seguito riportata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_105.bmp](./assets/media/image70.png)
+![](./assets/media/image70.png)
 
 - **Tag di configurazione**: selezionare dal relativo menu a tendina il
   "Tag di configurazione GA4" precedentemente creato (per maggiori
@@ -1778,12 +1778,12 @@ di una scheda prodotto
     Analytics per l'evento in esame. Aprire quindi la sezione
     "**Parametri evento**" e cliccare sul pulsante "**Aggiungi Riga**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_106.bmp](./assets/media/image71.png)
+![](./assets/media/image71.png)
 
 6.  Aggiungere i nuovi parametri completando i campi "Nome parametro" e
     "Valore" come nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_107.bmp](./assets/media/image72.png)
+![](./assets/media/image72.png)
 
 > **[PARAMETRI OBBLIGATORI]{.underline}**
 
@@ -1865,7 +1865,7 @@ di una scheda prodotto
 > Cliccare quindi sul pulsante "**Scegli un attivatore per attivare
 > questo tag**" presente all'interno del box "**Attivazione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_108.bmp](./assets/media/image73.png)
+![](./assets/media/image73.png)
 
 > e, successivamente, cliccare sul pulsante di creazione di un nuovo
 > attivatore (il piccolo + posto nella parte alta della maschera)
@@ -1885,7 +1885,7 @@ di una scheda prodotto
 9.  Nella successiva maschera impostare i parametri di configurazione
     dell'attivatore come nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_109.bmp](./assets/media/image74.png)
+![](./assets/media/image74.png)
 
 - **Nome Evento**: impostare su "***view_item***"
 
@@ -2031,7 +2031,7 @@ articolo in carrello
     parametri "Tag di configurazione" e "Nome evento" come nella figura
     di seguito riportata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_110.bmp](./assets/media/image75.png)
+![](./assets/media/image75.png)
 
 - **Tag di configurazione**: selezionare dal relativo menu a tendina il
   "Tag di configurazione GA4" precedentemente creato (per maggiori
@@ -2044,12 +2044,12 @@ articolo in carrello
     Analytics per l'evento in esame. Aprire quindi la sezione
     "**Parametri evento**" e cliccare sul pulsante "**Aggiungi Riga**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_111.bmp](./assets/media/image76.png)
+![](./assets/media/image76.png)
 
 6.  Aggiungere i nuovi parametri completando i campi "Nome parametro" e
     "Valore" come nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_112.bmp](./assets/media/image77.png)
+![](./assets/media/image77.png)
 
 > **[PARAMETRI OBBLIGATORI]{.underline}**
 
@@ -2138,7 +2138,7 @@ articolo in carrello
 > Cliccare quindi sul pulsante "**Scegli un attivatore per attivare
 > questo tag**" presente all'interno del box "**Attivazione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_113.bmp](./assets/media/image78.png)
+![](./assets/media/image78.png)
 
 > e, successivamente, cliccare sul pulsante di creazione di un nuovo
 > attivatore (il piccolo + posto nella parte alta della maschera)
@@ -2158,7 +2158,7 @@ articolo in carrello
 9.  Nella successiva maschera impostare i parametri di configurazione
     dell'attivatore come nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_114.bmp](./assets/media/image79.png)
+![](./assets/media/image79.png)
 
 - **Nome Evento**: impostare su "***add_to_cart***"
 
@@ -2304,7 +2304,7 @@ articolo dal carrello
   parametri "Tag di configurazione" e "Nome evento" come nella figura di
   seguito riportata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_115.bmp](./assets/media/image80.png)
+![](./assets/media/image80.png)
 
 - **Tag di configurazione**: selezionare dal relativo menu a tendina il
   "Tag di configurazione GA4" precedentemente creato (per maggiori
@@ -2319,12 +2319,12 @@ articolo dal carrello
   Analytics per l'evento in esame. Aprire quindi la sezione "**Parametri
   evento**" e cliccare sul pulsante "**Aggiungi Riga**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_116.bmp](./assets/media/image81.png)
+![](./assets/media/image81.png)
 
 - Aggiungere i nuovi parametri completando i campi "Nome parametro" e
   "Valore" come nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_117.bmp](./assets/media/image82.png)
+![](./assets/media/image82.png)
 
 > **[PARAMETRI OBBLIGATORI]{.underline}**
 
@@ -2415,7 +2415,7 @@ articolo dal carrello
 > Cliccare quindi sul pulsante "**Scegli un attivatore per attivare
 > questo tag**" presente all'interno del box "**Attivazione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_118.bmp](./assets/media/image83.png)
+![](./assets/media/image83.png)
 
 > e, successivamente, cliccare sul pulsante di creazione di un nuovo
 > attivatore (il piccolo + posto nella parte alta della maschera)
@@ -2435,7 +2435,7 @@ articolo dal carrello
 - Nella successiva maschera impostare i parametri di configurazione
   dell'attivatore come nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_119.bmp](./assets/media/image84.png)
+![](./assets/media/image84.png)
 
 - **Nome Evento**: impostare su "***remove_from_cart***"
 
@@ -2576,7 +2576,7 @@ articolo alla Wishlist
     parametri "Tag di configurazione" e "Nome evento" come nella figura
     di seguito riportata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_120.bmp](./assets/media/image85.png)
+![](./assets/media/image85.png)
 
 - **Tag di configurazione**: selezionare dal relativo menu a tendina il
   "Tag di configurazione GA4" precedentemente creato (per maggiori
@@ -2589,12 +2589,12 @@ articolo alla Wishlist
     Analytics per l'evento in esame. Aprire quindi la sezione
     "**Parametri evento**" e cliccare sul pulsante "**Aggiungi Riga**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_121.bmp](./assets/media/image86.png)
+![](./assets/media/image86.png)
 
 6.  Aggiungere i nuovi parametri completando i campi "Nome parametro" e
     "Valore" come nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_122.bmp](./assets/media/image87.png)
+![](./assets/media/image87.png)
 
 > **[PARAMETRI OBBLIGATORI]{.underline}**
 
@@ -2676,7 +2676,7 @@ articolo alla Wishlist
 > Cliccare quindi sul pulsante "**Scegli un attivatore per attivare
 > questo tag**" presente all'interno del box "**Attivazione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_124.bmp](./assets/media/image88.png)
+![](./assets/media/image88.png)
 
 > e, successivamente, cliccare sul pulsante di creazione di un nuovo
 > attivatore (il piccolo + posto nella parte alta della maschera)
@@ -2696,7 +2696,7 @@ articolo alla Wishlist
 9.  Nella successiva maschera impostare i parametri di configurazione
     dell'attivatore come nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_123.bmp](./assets/media/image89.png)
+![](./assets/media/image89.png)
 
 - **Nome Evento**: impostare su "***add_to_wishlist***"
 
@@ -2891,7 +2891,7 @@ del carrello
     parametri "Tag di configurazione" e "Nome evento" come nella figura
     di seguito riportata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_125.bmp](./assets/media/image90.png)
+![](./assets/media/image90.png)
 
 - **Tag di configurazione**: selezionare dal relativo menu a tendina il
   "Tag di configurazione GA4" precedentemente creato (per maggiori
@@ -2904,12 +2904,12 @@ del carrello
     Analytics per l'evento in esame. Aprire quindi la sezione
     "**Parametri evento**" e cliccare sul pulsante "**Aggiungi Riga**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_126.bmp](./assets/media/image91.png)
+![](./assets/media/image91.png)
 
 6.  Aggiungere i nuovi parametri completando i campi "Nome parametro" e
     "Valore" come nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_127.bmp](./assets/media/image92.png)
+![](./assets/media/image92.png)
 
 > **[PARAMETRI OBBLIGATORI]{.underline}**
 
@@ -3056,7 +3056,7 @@ del carrello
 > Cliccare quindi sul pulsante "**Scegli un attivatore per attivare
 > questo tag**" presente all'interno del box "**Attivazione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_128.bmp](./assets/media/image93.png)
+![](./assets/media/image93.png)
 
 > e, successivamente, cliccare sul pulsante di creazione di un nuovo
 > attivatore (il piccolo + posto nella parte alta della maschera)
@@ -3076,7 +3076,7 @@ del carrello
 9.  Nella successiva maschera impostare i parametri di configurazione
     dell'attivatore come nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_129.bmp](./assets/media/image94.png)
+![](./assets/media/image94.png)
 
 - **Nome Evento**: impostare su "***view_cart***"
 
@@ -3271,7 +3271,7 @@ procedura di checkout
     parametri "Tag di configurazione" e "Nome evento" come nella figura
     di seguito riportata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_130.bmp](./assets/media/image95.png)
+![](./assets/media/image95.png)
 
 - **Tag di configurazione**: selezionare dal relativo menu a tendina il
   "Tag di configurazione GA4" precedentemente creato (per maggiori
@@ -3284,12 +3284,12 @@ procedura di checkout
     Analytics per l'evento in esame. Aprire quindi la sezione
     "**Parametri evento**" e cliccare sul pulsante "**Aggiungi Riga**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_131.bmp](./assets/media/image96.png)
+![](./assets/media/image96.png)
 
 6.  Aggiungere i nuovi parametri completando i campi "Nome parametro" e
     "Valore" come nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_132.bmp](./assets/media/image97.png)
+![](./assets/media/image97.png)
 
 > **[PARAMETRI OBBLIGATORI]{.underline}**
 
@@ -3436,7 +3436,7 @@ procedura di checkout
 > Cliccare quindi sul pulsante "**Scegli un attivatore per attivare
 > questo tag**" presente all'interno del box "**Attivazione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_133.bmp](./assets/media/image98.png)
+![](./assets/media/image98.png)
 
 > e, successivamente, cliccare sul pulsante di creazione di un nuovo
 > attivatore (il piccolo + posto nella parte alta della maschera)
@@ -3456,7 +3456,7 @@ procedura di checkout
 9.  Nella successiva maschera impostare i parametri di configurazione
     dell'attivatore come nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_134.bmp](./assets/media/image99.png)
+![](./assets/media/image99.png)
 
 - **Nome Evento**: impostare su "***begin_checkout***"
 
@@ -3656,7 +3656,7 @@ selezione del metodo di spedizione
     parametri "Tag di configurazione" e "Nome evento" come nella figura
     di seguito riportata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_135.bmp](./assets/media/image100.png)
+![](./assets/media/image100.png)
 
 - **Tag di configurazione**: selezionare dal relativo menu a tendina il
   "Tag di configurazione GA4" precedentemente creato (per maggiori
@@ -3669,13 +3669,13 @@ selezione del metodo di spedizione
     Analytics per l'evento in esame. Aprire quindi la sezione
     "**Parametri evento**" e cliccare sul pulsante "**Aggiungi Riga**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_136.bmp](./assets/media/image101.png)
+![](./assets/media/image101.png)
 
 6.  Aggiungere i nuovi parametri completando, per ciascuno di essi i
     campi "Nome parametro" e "Valore" come nella figura di seguito
     riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_137.bmp](./assets/media/image102.png)
+![](./assets/media/image102.png)
 
 > **[PARAMETRI OBBLIGATORI]{.underline}**
 
@@ -3829,7 +3829,7 @@ selezione del metodo di spedizione
 > Cliccare quindi sul pulsante "**Scegli un attivatore per attivare
 > questo tag**" presente all'interno del box "**Attivazione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_138.bmp](./assets/media/image103.png)
+![](./assets/media/image103.png)
 
 > e, successivamente, cliccare sul pulsante di creazione di un nuovo
 > attivatore (il piccolo + posto nella parte alta della maschera)
@@ -3849,7 +3849,7 @@ selezione del metodo di spedizione
 9.  Nella successiva maschera impostare i parametri di configurazione
     dell'attivatore come nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_139.bmp](./assets/media/image104.png)
+![](./assets/media/image104.png)
 
 - **Nome Evento**: impostare su "***add_shipping_info***"
 
@@ -4049,7 +4049,7 @@ selezione della modalità di pagamento
     parametri "Tag di configurazione" e "Nome evento" come nella figura
     di seguito riportata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_140.bmp](./assets/media/image105.png)
+![](./assets/media/image105.png)
 
 - **Tag di configurazione**: selezionare dal relativo menu a tendina il
   "Tag di configurazione GA4" precedentemente creato (per maggiori
@@ -4062,13 +4062,13 @@ selezione della modalità di pagamento
     Analytics per l'evento in esame. Aprire quindi la sezione
     "**Parametri evento**" e cliccare sul pulsante "**Aggiungi Riga**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_141.bmp](./assets/media/image106.png)
+![](./assets/media/image106.png)
 
 6.  Aggiungere i nuovi parametri completando, per ciascuno di essi i
     campi "Nome parametro" e "Valore" come nella figura di seguito
     riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_142.bmp](./assets/media/image107.png)
+![](./assets/media/image107.png)
 
 > **[PARAMETRI OBBLIGATORI]{.underline}**
 
@@ -4222,7 +4222,7 @@ selezione della modalità di pagamento
 > Cliccare quindi sul pulsante "**Scegli un attivatore per attivare
 > questo tag**" presente all'interno del box "**Attivazione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_143.bmp](./assets/media/image108.png)
+![](./assets/media/image108.png)
 
 > e, successivamente, cliccare sul pulsante di creazione di un nuovo
 > attivatore (il piccolo + posto nella parte alta della maschera)
@@ -4242,7 +4242,7 @@ selezione della modalità di pagamento
 9.  Nella successiva maschera impostare i parametri di configurazione
     dell'attivatore come nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_144.bmp](./assets/media/image109.png)
+![](./assets/media/image109.png)
 
 - **Nome Evento**: impostare su "***add_payment_info***"
 
@@ -4472,7 +4472,7 @@ checkout concludendo un ordine in maniera positiva
     parametri "Tag di configurazione" e "Nome evento" come nella figura
     di seguito riportata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_145.bmp](./assets/media/image110.png)
+![](./assets/media/image110.png)
 
 - **Tag di configurazione**: selezionare dal relativo menu a tendina il
   "Tag di configurazione GA4" precedentemente creato (per maggiori
@@ -4485,13 +4485,13 @@ checkout concludendo un ordine in maniera positiva
     Analytics per l'evento in esame. Aprire quindi la sezione
     "**Parametri evento**" e cliccare sul pulsante "**Aggiungi Riga**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_146.bmp](./assets/media/image111.png)
+![](./assets/media/image111.png)
 
 6.  Aggiungere i parametri correlati all'evento completando, per
     ciascuno di essi i campi "Nome parametro" e "Valore" come nella
     figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_147.bmp](./assets/media/image112.png)
+![](./assets/media/image112.png)
 
 > **[PARAMETRI OBBLIGATORI]{.underline}**
 
@@ -4669,7 +4669,7 @@ checkout concludendo un ordine in maniera positiva
 > Cliccare quindi sul pulsante "**Scegli un attivatore per attivare
 > questo tag**" presente all'interno del box "**Attivazione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_148.bmp](./assets/media/image113.png)
+![](./assets/media/image113.png)
 
 > e, successivamente, cliccare sul pulsante di creazione di un nuovo
 > attivatore (il piccolo + posto nella parte alta della maschera)
@@ -4689,7 +4689,7 @@ checkout concludendo un ordine in maniera positiva
 9.  Nella successiva maschera impostare i parametri di configurazione
     dell'attivatore come nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_149.bmp](./assets/media/image114.png)
+![](./assets/media/image114.png)
 
 - **Nome Evento**: impostare su "***purchase***"
 
@@ -4758,7 +4758,7 @@ seguito indicato:
 > valori sopra indicati in base alla tipologia del componente utilizzato
 > per effettuare la ricerca sul sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_173.bmp](./assets/media/image115.png)
+![](./assets/media/image115.png)
 
 - **search_Nome_Tracciamento:** valore utilizzato per la ricerca
 
@@ -4769,7 +4769,7 @@ seguito indicato:
 > corrispondenza del campo "Nome Tracciamento" (il tutto riportato in
 > minuscolo)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_173_a.bmp](./assets/media/image116.png)
+![](./assets/media/image116.png)
 
 > **ATTENZIONE!** Eventuali spazi presenti all'interno del campo
 > evidenziato in figura verranno sostituiti dal carattere \_
@@ -4850,7 +4850,7 @@ interne al sito
     parametri "Tag di configurazione" e "Nome evento" come nella figura
     di seguito riportata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_169.bmp](./assets/media/image117.png)
+![](./assets/media/image117.png)
 
 - **Tag di configurazione**: selezionare dal relativo menu a tendina il
   "Tag di configurazione GA4" precedentemente creato (per maggiori
@@ -4863,13 +4863,13 @@ interne al sito
     Analytics per l'evento in esame. Aprire quindi la sezione
     "**Parametri evento**" e cliccare sul pulsante "**Aggiungi Riga**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_170.bmp](./assets/media/image118.png)
+![](./assets/media/image118.png)
 
 6.  Aggiungere i parametri correlati all'evento completando, per
     ciascuno di essi i campi "Nome parametro" e "Valore" come nella
     figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_176.bmp](./assets/media/image119.png)
+![](./assets/media/image119.png)
 
 > **ATTENZIONE!** i parametri di tipo search_nomeComponente dipendono
 > ovviamente (sia dal punto di vista del nome che del numero) da quelli
@@ -4923,7 +4923,7 @@ interne al sito
 > Cliccare quindi sul pulsante "**Scegli un attivatore per attivare
 > questo tag**" presente all'interno del box "**Attivazione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_177.bmp](./assets/media/image120.png)
+![](./assets/media/image120.png)
 
 > e, successivamente, cliccare sul pulsante di creazione di un nuovo
 > attivatore (il piccolo + posto nella parte alta della maschera)
@@ -4943,7 +4943,7 @@ interne al sito
 9.  Nella successiva maschera impostare i parametri di configurazione
     dell'attivatore come nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_178.bmp](./assets/media/image121.png)
+![](./assets/media/image121.png)
 
 - **Nome Evento**: impostare su "***search***"
 
@@ -5032,7 +5032,7 @@ autenticazione al sito
     parametri "Tag di configurazione" e "Nome evento" come nella figura
     di seguito riportata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_164.bmp](./assets/media/image122.png)
+![](./assets/media/image122.png)
 
 - **Tag di configurazione**: selezionare dal relativo menu a tendina il
   "Tag di configurazione GA4" precedentemente creato (per maggiori
@@ -5045,13 +5045,13 @@ autenticazione al sito
     Analytics per l'evento in esame. Aprire quindi la sezione
     "**Parametri evento**" e cliccare sul pulsante "**Aggiungi Riga**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_165.bmp](./assets/media/image123.png)
+![](./assets/media/image123.png)
 
 6.  Aggiungere i parametri correlati all'evento completando, per
     ciascuno di essi i campi "Nome parametro" e "Valore" come nella
     figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_166.bmp](./assets/media/image124.png)
+![](./assets/media/image124.png)
 
 > **[PARAMETRI OPZIONALI]{.underline}**
 >
@@ -5089,7 +5089,7 @@ autenticazione al sito
 > Cliccare quindi sul pulsante "**Scegli un attivatore per attivare
 > questo tag**" presente all'interno del box "**Attivazione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_167.bmp](./assets/media/image125.png)
+![](./assets/media/image125.png)
 
 > e, successivamente, cliccare sul pulsante di creazione di un nuovo
 > attivatore (il piccolo + posto nella parte alta della maschera)
@@ -5109,7 +5109,7 @@ autenticazione al sito
 9.  Nella successiva maschera impostare i parametri di configurazione
     dell'attivatore come nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_168.bmp](./assets/media/image126.png)
+![](./assets/media/image126.png)
 
 - **Nome Evento**: impostare su "***login***"
 
@@ -5206,7 +5206,7 @@ registrazione al sito
     parametri "Tag di configurazione" e "Nome evento" come nella figura
     di seguito riportata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_182.bmp](./assets/media/image127.png)
+![](./assets/media/image127.png)
 
 - **Tag di configurazione**: selezionare dal relativo menu a tendina il
   "Tag di configurazione GA4" precedentemente creato (per maggiori
@@ -5219,13 +5219,13 @@ registrazione al sito
     Analytics per l'evento in esame. Aprire quindi la sezione
     "**Parametri evento**" e cliccare sul pulsante "**Aggiungi Riga**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_183.bmp](./assets/media/image128.png)
+![](./assets/media/image128.png)
 
 6.  Aggiungere i parametri correlati all'evento completando, per
     ciascuno di essi i campi "Nome parametro" e "Valore" come nella
     figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_171.bmp](./assets/media/image129.png)
+![](./assets/media/image129.png)
 
 > **[PARAMETRI OPZIONALI]{.underline}**
 >
@@ -5270,7 +5270,7 @@ registrazione al sito
 > Cliccare quindi sul pulsante "**Scegli un attivatore per attivare
 > questo tag**" presente all'interno del box "**Attivazione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_184.bmp](./assets/media/image130.png)
+![](./assets/media/image130.png)
 
 > e, successivamente, cliccare sul pulsante di creazione di un nuovo
 > attivatore (il piccolo + posto nella parte alta della maschera)
@@ -5290,7 +5290,7 @@ registrazione al sito
 9.  Nella successiva maschera impostare i parametri di configurazione
     dell'attivatore come nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_186.bmp](./assets/media/image131.png)
+![](./assets/media/image131.png)
 
 - **Nome Evento**: impostare su "***sign_up***"
 
@@ -5369,7 +5369,7 @@ di un form nativo
     parametri "Tag di configurazione" e "Nome evento" come nella figura
     di seguito riportata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_179.bmp](./assets/media/image132.png)
+![](./assets/media/image132.png)
 
 - **Tag di configurazione**: selezionare dal relativo menu a tendina il
   "Tag di configurazione GA4" precedentemente creato (per maggiori
@@ -5382,13 +5382,13 @@ di un form nativo
     Analytics per l'evento in esame. Aprire quindi la sezione
     "**Parametri evento**" e cliccare sul pulsante "**Aggiungi Riga**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_180.bmp](./assets/media/image133.png)
+![](./assets/media/image133.png)
 
 6.  Aggiungere i parametri correlati all'evento completando, per
     ciascuno di essi i campi "Nome parametro" e "Valore" come nella
     figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_181.bmp](./assets/media/image134.png)
+![](./assets/media/image134.png)
 
 > **[PARAMETRI OPZIONALI]{.underline}**
 >
@@ -5426,7 +5426,7 @@ di un form nativo
 > Cliccare quindi sul pulsante "**Scegli un attivatore per attivare
 > questo tag**" presente all'interno del box "**Attivazione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_185.bmp](./assets/media/image135.png)
+![](./assets/media/image135.png)
 
 > e, successivamente, cliccare sul pulsante di creazione di un nuovo
 > attivatore (il piccolo + posto nella parte alta della maschera)
@@ -5446,7 +5446,7 @@ di un form nativo
 9.  Nella successiva maschera impostare i parametri di configurazione
     dell'attivatore come nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_172.bmp](./assets/media/image136.png)
+![](./assets/media/image136.png)
 
 - **Nome Evento**: impostare su "***generate_lead***"
 
@@ -5596,7 +5596,7 @@ utente autenticato
     parametri "ID Misurazione" e "Nome evento" come nella figura di
     seguito riportata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_wdata_loaded.bmp](./assets/media/image137.png)
+![](./assets/media/image137.png)
 
 - **ID Misurazione**: indicare l'ID Misurazione dello stream di dati di
   Google Analytics a cui si desidera inviare i dati
@@ -5608,13 +5608,13 @@ utente autenticato
     "**Parametri evento**" e cliccare sul pulsante "**Aggiungi
     parametro**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_wdata_loaded_parametri.bmp](./assets/media/image138.png)
+![](./assets/media/image138.png)
 
 6.  Aggiungere i parametri correlati all'evento completando, per
     ciascuno di essi i campi "Nome parametro" e "Valore" come nella
     figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_wdata_loaded_parametri_2.bmp](./assets/media/image139.png)
+![](./assets/media/image139.png)
 
 > **[PARAMETRI OPZIONALI]{.underline}**
 >
@@ -5664,7 +5664,7 @@ utente autenticato
 > Cliccare quindi sul pulsante "**Scegli un attivatore per attivare
 > questo tag**" presente all'interno del box "**Attivazione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_wdata_loaded_attivatore.bmp](./assets/media/image140.png)
+![](./assets/media/image140.png)
 
 > e, successivamente, cliccare sul pulsante di creazione di un nuovo
 > attivatore (il piccolo + posto nella parte alta della maschera)
@@ -5684,7 +5684,7 @@ utente autenticato
 9.  Nella successiva maschera impostare i parametri di configurazione
     dell'attivatore come nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_wdata_loaded_attivatore_2.bmp](./assets/media/image141.png)
+![](./assets/media/image141.png)
 
 - **Nome Evento**: impostare su "***wdata_loaded***"
 

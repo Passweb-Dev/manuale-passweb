@@ -54,7 +54,7 @@ accessibile cliccando sul pulsante "**Stato**" o, in alternativa, con il
 tasto funzione "S**hift + F11**" dopo aver posizionato il cursore sul
 campo "**Documento**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\multi_sito_ec19.bmp](./assets/media/image198.png)
+![](./assets/media/image198.png)
 
 In particolare:
 
@@ -199,7 +199,7 @@ sarà necessario:
 4.  Portarsi nella maschera **"Lista Ordini"** di Passweb, accessibile
     dal menu *"Ordini -- Gestione Ordini"*
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_ordini.bmp](./assets/media/image199.png)
+![](./assets/media/image199.png)
 
 > selezionare il documento in esame ed eliminarlo cliccando sul apposito
 > pulsante **"Elimina Ordine"** ( ) presente nella barra degli

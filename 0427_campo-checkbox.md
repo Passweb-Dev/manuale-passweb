@@ -9,7 +9,7 @@ altri, anche il campo "**Tipo di dato di Destinazione**" che ci
 consentirà di specificare esattamente come dovrà essere utilizzato il
 campo in esame all'interno del form
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\one_step_checkout_res_5.bmp](./assets/media/image305.png)
+![](./assets/media/image305.png)
 
 **Tipo di dato di Destinazione**: consente di specificare la modalità di
 utilizzo del relativo check box che verrà inserito all'interno del form
@@ -23,14 +23,14 @@ memorizzare, all'interno dello specifico attributo indicato nel
 successivo campo "**Attributo di Destinazione**", il fatto che l'utente
 abbia selezionato o meno il relativo check.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\one_step_checkout_res_6.bmp](./assets/media/image306.png)
+![](./assets/media/image306.png)
 
 **Campo Cliente:** selezionando questa opzione sarà poi possibile
 indicare all'interno del successivo parametro "**Campo di
 Destinazione**" quello che dovrà essere l'effettivo funzionamento del
 check box.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\one_step_checkout_res_7.bmp](./assets/media/image307.png)
+![](./assets/media/image307.png)
 
 In particolare nel momento in cui il parametro "**Campo di
 Destinazione**" dovesse essere impostato sul valore:
@@ -60,7 +60,7 @@ Destinazione**" dovesse essere impostato sul valore:
 > questo componente dovrebbe essere del tipo "**Utilizza lo stesso
 > indirizzo per la spedizione**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\one_step_checkout_res_8.bmp](./assets/media/image308.png)
+![](./assets/media/image308.png)
 
 > **ATTENZIONE!** **A default dunque verranno utilizzati gli stessi dati
 > sia per l'indirizzo di spedizione che per quello di fatturazione**
@@ -75,7 +75,7 @@ Destinazione**" dovesse essere impostato sul valore:
 > utilizzare per indicare un indirizzo di spedizione merce diverso da
 > quello di fatturazione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\one_step_checkout_res_9.bmp](./assets/media/image309.png)
+![](./assets/media/image309.png)
 
 > **ATTENZIONE!** Nel caso in cui l'esigenza dovesse essere quella di
 > consentire all'utente di decidere, direttamente in fase di checkout se
@@ -104,7 +104,7 @@ Destinazione**" dovesse essere impostato sul valore:
 > deselezionato** e i campi utilizzati per definire l'eventuale account
 > (ossia Username, Password e Conferma Password) verranno nascosti.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\one_step_checkout_res_10.bmp](./assets/media/image310.png)
+![](./assets/media/image310.png)
 
 > **ATTENZIONE!** **a default il modulo di One Step checkout è
 > configurato per realizzare acquisiti in modalità Guest senza creare
@@ -117,5 +117,5 @@ Destinazione**" dovesse essere impostato sul valore:
 > all'interno del form, verranno automaticamente visualizzati e l'utente
 > potrà utilizzarli per creare il proprio account di accesso al sito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\one_step_checkout_res_11.bmp](./assets/media/image311.png)
+![](./assets/media/image311.png)
 

@@ -14,19 +14,19 @@ Per fare questo l'esercente dovrà:
   trovare **\@BotFather** (che è il Bot ufficiale di Telegram da
   utilizzare per la creazione di altri Bot)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\bot_telegram_1.bmp](./assets/media/image1.png)
+![](./assets/media/image1.png)
 
 - Una volta trovato il \@BotFather sarà sufficiente avviare una
   comunicazione con lui per visualizzare il messaggio da cui partire per
   la creazione del Bot che verrà poi utilizzato da Passweb per l'invio
   automatico dei messaggi Telegram
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\bot_telegram_2.bmp](./assets/media/image2.png)
+![](./assets/media/image2.png)
 
 - Cliccando sul pulsante "**Avvia**" verrà infatti visualizzata una
   lista di comandi da utilizzare per interagire con \@BotFather
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\bot_telegram_3.bmp](./assets/media/image3.png)
+![](./assets/media/image3.png)
 
 > Nel caso in esame, per creare un nuovo Bot sarà sufficiente utilizzare
 > il comando **/newbot** evidenziato in figura (cliccando per questo sul
@@ -38,14 +38,14 @@ Per fare questo l'esercente dovrà:
   del Bot ossia **un Nome** e **uno Username** (che dovrà
   necessariamente terminare con la parola bot)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\bot_telegram_4.bmp](./assets/media/image4.png)
+![](./assets/media/image4.png)
 
 - Completata la creazione del Bot, nel successivo messaggio verrà
   indicato un token che sarà poi quello che dovremo inserire (assieme
   allo Username definito al punto precedente) nel Wizard di Passweb per
   completare l'integrazione tra le due piattaforme.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\bot_telegram_5.bmp](./assets/media/image5.png)
+![](./assets/media/image5.png)
 
 - Infine, per completare il processo dovremo collegare il Bot appena
   creato al dominio del sito.
@@ -56,12 +56,12 @@ Per fare questo l'esercente dovrà:
 > evidenziata in figura che consente di visualizzare tutti i Bot creati
 > con il proprio account Telegram)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\bot_telegram_6.bmp](./assets/media/image6.png)
+![](./assets/media/image6.png)
 
 > e successivamente indicando il domino del proprio sito (comprensivo di
 > protocollo https)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\bot_telegram_7.bmp](./assets/media/image7.png)
+![](./assets/media/image7.png)
 
 Volendo è anche possibile personalizzare ulteriormente il Bot
 utilizzando i comandi precedentemente evidenziati.
@@ -76,17 +76,17 @@ Ecommerce).
 Per effettuare questa operazione il comando da inviare a \@BothFather è
 "**/setuserpic**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\bot_telegram_8.bmp](./assets/media/image8.png)
+![](./assets/media/image8.png)
 
 Anche in questo caso dovremo rispondere indicando il nome del Bot cui
 vogliamo associare la nuova immagine
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\bot_telegram_9.bmp](./assets/media/image9.png)
+![](./assets/media/image9.png)
 
 e, infine, utilizzando il pulsante "Allegati" dovremo inviare a
 \@BotFather l'immagine da utilizzare
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\bot_telegram_10.bmp](./assets/media/image10.png)
+![](./assets/media/image10.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\bot_telegram_11.bmp](./assets/media/image11.png)
+![](./assets/media/image11.png)
 

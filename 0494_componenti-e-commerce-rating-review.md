@@ -4,7 +4,7 @@
 
 Il Componente **"Rating Review"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_rating_review_res.bmp](./assets/media/image567.png)
+![](./assets/media/image567.png)
 
 può essere inserito solo ed esclusivamente all'interno di quei
 componenti di primo livello che, come il Catalogo Ecommerce, vengono
@@ -55,7 +55,7 @@ Rilasciando il Componente nella posizione desiderata all'interno della
 pagina, verrà visualizzata **la sua maschera di gestione e
 configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\rating_review_configurazione_res.bmp](./assets/media/image570.png)
+![](./assets/media/image570.png)
 
 suddivisa in varie sezioni.
 

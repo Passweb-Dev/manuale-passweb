@@ -17,7 +17,7 @@ passaggi di seguito indicati:
 1.  Configurare il componente "**Wishlist Custom**" selezionando il
     parametro "**Gestione Liste Regalo**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\wl_lista_regalo_1.bmp](./assets/media/image223.png)
+![](./assets/media/image223.png)
 
 > Per maggiori informazioni in merito si veda anche la sezione
 > "*Varianti Sito Responsive -- Lista Componenti Ecommerce -- Componente
@@ -28,7 +28,7 @@ passaggi di seguito indicati:
     operando, in questo senso, dalla sezione "Utenti -- Wishlist --
     Priorità" del Wizard
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_priorita.bmp](./assets/media/image222.png)
+![](./assets/media/image222.png)
 
 > Per maggiori informazioni in merito si veda anche la sezione "*Utenti
 > -- Wishlist -- Priorità*" di questo manuale
@@ -71,7 +71,7 @@ propria Lista Regalo sarà necessario:
     tutti i campi presenti nel form (Titolo Evento, Organizzatori, Data
     Evento ecc...) e salvare la Wishlist
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\wl_lista_regalo_3.bmp](./assets/media/image225.png)
+![](./assets/media/image225.png)
 
 > **ATTENZIONE!** Il campo "Tipologia" nel form di salvataggio della
 > Wishlist verrà visualizzato solo ed esclusivamente nel caso in cui in
@@ -82,7 +82,7 @@ propria Lista Regalo sarà necessario:
     all'interno della sottostante tabella delle Wishlist salvate e
     cliccare sul pulsante "Visualizza"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\wl_lista_regalo_visualizza.bmp](./assets/media/image226.png)
+![](./assets/media/image226.png)
 
 > In questo modo verrà caricata la Wishlist precedentemente salvata e in
 > corrispondenza di ogni singolo articolo verranno ora visualizzati

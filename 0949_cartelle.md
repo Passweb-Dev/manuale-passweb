@@ -5,7 +5,7 @@
 All'interno di questa sezione del Wizard è possibile visualizzare e
 gestire tutte le cartelle attualmente presenti in Area Riservata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_cartelle.bmp](./assets/media/image94.png)
+![](./assets/media/image94.png)
 
 Per ogni singola cartella presente in elenco è indicato:
 
@@ -30,23 +30,23 @@ stessa.
 Una volta impostato un filtro di ricerca, per poterlo poi eliminare sarà
 sufficiente cliccare sull'icona raffigurante una piccola lente di
 ingrandimento con un -- all'interno (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina_filtro.bmp](./assets/media/image29.png) ) che comparirà in testata alla colonna
+![](./assets/media/image29.png) ) che comparirà in testata alla colonna
 in corrispondenza della quale è stato impostato il filtro stesso.
 
 Infine è anche possibile ordinare, in maniera crescente e/o decrescente,
 gli elementi in griglia cliccando semplicemente sull'icona raffigurante
 due piccole frecce posta anch' essa in testata ad ogni singola colonna
 della griglia (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_ordinamento_griglia.bmp](./assets/media/image30.png) )
+![](./assets/media/image30.png) )
 
 I pulsanti presenti nella barra degli strumenti consentono invece di:
 
 **Elimina** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina.bmp](./assets/media/image95.png) ): consente di eliminare definitivamente la cartella
+![](./assets/media/image95.png) ): consente di eliminare definitivamente la cartella
 selezionata e tutti i file in essa contenuti
 
 **Esportazione Cartelle** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_esportazione_cartelle.bmp](./assets/media/image96.png) ): consente di esportare in un file .csv l'elenco
+![](./assets/media/image96.png) ): consente di esportare in un file .csv l'elenco
 delle cartelle attualmente presenti in griglia. Nel file di
 esportazione, per ciascuna cartelle saranno indicati i seguenti campi:
 
@@ -65,13 +65,13 @@ esportazione, per ciascuna cartelle saranno indicati i seguenti campi:
 - **dimensione**: dimensione in byte della cartella
 
 **Files** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_files.bmp](./assets/media/image97.png) ): consente di accedere ai file presenti all'interno
+![](./assets/media/image97.png) ): consente di accedere ai file presenti all'interno
 della cartella attualmente selezionata.
 
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 **"Elenco File"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\elenco_files.bmp](./assets/media/image98.png)
+![](./assets/media/image98.png)
 
 contenente l'elenco di tutti i file attualmente presenti all'interno
 della cartella in esame.
@@ -80,19 +80,19 @@ I pulsanti presenti nella contestuale barra degli strumenti consentono
 rispettivamente di:
 
 **Scarica Cartella** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_scarica_cartella.bmp](./assets/media/image99.png) ): consente di effettuare il download di
+![](./assets/media/image99.png) ): consente di effettuare il download di
 uno zip contenente tutti i file presenti all'interno della cartella
 
 **Scarica File** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_scarica_file.bmp](./assets/media/image100.png) ): consente di effettuare il download del file
+![](./assets/media/image100.png) ): consente di effettuare il download del file
 attualmente selezionato in elenco.
 
 **Svuota Cartella** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_svuota_cartella.bmp](./assets/media/image101.png) ): consente di eliminare dal sito tutti i file
+![](./assets/media/image101.png) ): consente di eliminare dal sito tutti i file
 presenti nella cartella in esame
 
 **Elimina File** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_file.bmp](./assets/media/image102.png) ): consente di eliminare dal sito il file
+![](./assets/media/image102.png) ): consente di eliminare dal sito il file
 attualmente selezionato in elenco
 
 Relativamente alla gestione delle **Cartelle Non Assegnate** occorre
@@ -121,17 +121,17 @@ esattamente da questa sezione del Wizard.
 Nello specifico, sarà sufficiente individuare la Cartella Non Assegnata
 da gestire tra quelle presenti in elenco, selezionarla e cliccare sul
 pulsante **Assegna Utente** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_assegna_utente.bmp](./assets/media/image103.png) ) presente nella contestuale barra degli
+![](./assets/media/image103.png) ) presente nella contestuale barra degli
 strumenti
 
 **Assegna Utente** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_assegna_utente.bmp](./assets/media/image103.png) ): consente di gestire la cartella
+![](./assets/media/image103.png) ): consente di gestire la cartella
 selezionata, assegnandola ad un nuovo proprietario.
 
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 "**Dati Cartella**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dati_cartella.bmp](./assets/media/image104.png)
+![](./assets/media/image104.png)
 
 all'interno della quale sono visualizzati gli Utenti e i Gruppi
 attualmente associati alla cartella e che possono quindi ancora

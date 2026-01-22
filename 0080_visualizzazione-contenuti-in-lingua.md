@@ -38,18 +38,18 @@ Nel caso ad esempio di Google Chrome per gestire questo tipo di
 impostazioni è necessario accedere per prima cosa al menu delle
 impostazioni, selezionare la voce "**Mostra Impostazioni Avanzate**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\impostazioni_lingua_1.bmp](./assets/media/image427.png)
+![](./assets/media/image427.png)
 
 e successivamente cliccare sul pulsante "**Impostazioni della lingua ed
 immissione**" presente nella sezione "**Lingue**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\impostazioni_lingua_2.bmp](./assets/media/image428.png)
+![](./assets/media/image428.png)
 
 In questo modo verrà infatti visualizzata la maschera "**Lingue**"
 contenente l'elenco delle lingue attualmente gestibili per il proprio
 browser
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\impostazioni_lingua_3.bmp](./assets/media/image429.png)
+![](./assets/media/image429.png)
 
 **ATTENZIONE! La lingua attualmente impostata per il proprio browser, e
 che potrebbe determinare quindi la visualizzazione del sito Passweb in

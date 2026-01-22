@@ -22,7 +22,7 @@ passi di seguito indicati:
     degli strumenti in maniera tale da accedere alla maschera di
     configurazione della Tipologia in esame
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\maschera_modifica_tipologia.bmp](./assets/media/image228.png)
+![](./assets/media/image228.png)
 
 > **Assicurarsi quindi di selezionare il parametro "Email"**
 >
@@ -74,7 +74,7 @@ passi di seguito indicati:
 7.  Creare in Passweb una Campagna di tipo **"Lista Regalo"**
     selezionando per essa il Template appena configurato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\wl_lista_regalo_1.bmp](./assets/media/image229.png)
+![](./assets/media/image229.png)
 
 > Per maggiori informazioni relativamente alla creazione di Campagne in
 > Passweb si veda anche la sezione "*MailChimp -- Newsletter Passweb e
@@ -89,7 +89,7 @@ passi di seguito indicati:
 > precedente e cliccare sul pulsante "**Gestisci invii per la
 > Campagna**" presente nella barra degli strumenti
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\invii_campagna_lista_regalo.bmp](./assets/media/image230.png)
+![](./assets/media/image230.png)
 
 > Nella successiva maschera verranno visualizzati gli invii già
 > codificati per la Campagna in esame.
@@ -99,7 +99,7 @@ passi di seguito indicati:
 > degli strumenti e inserire tutti i parametri necessari per la
 > configurazione dell'invio.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\invii_campagna_lista_regalo_2.bmp](./assets/media/image231.png)
+![](./assets/media/image231.png)
 
 > Nello specifico sarà necessario indicare:
 
@@ -195,7 +195,7 @@ la propria Lista Regalo un utente dovrà:
     all'interno della tabella delle Wishlist salvate quella relativa
     alla propria Lista Regalo e cliccare sul pulsante "**Condividi"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\wl_lista_regalo_condividi.bmp](./assets/media/image232.png)
+![](./assets/media/image232.png)
 
 > Cliccando su questo pulsante verrà infatti visualizzata un ulteriore
 > sezione all'interno della quale l'utente avrà la possibilità di

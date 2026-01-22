@@ -36,7 +36,7 @@ In questo senso sarà dunque necessario:
 3.  Selezionare tra quelli proposti il tag relativo alla configurazione
     di GA4 "**Google Analytics: configurazione GA4"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ga4_10.bmp](./assets/media/image38.png)
+![](./assets/media/image38.png)
 
 > Nella successiva maschera di configurazione del tag impostare
 > all'interno del relativo campo l' **ID Misurazione** (G-XXXXXXXXXX)
@@ -46,7 +46,7 @@ In questo senso sarà dunque necessario:
 > stesso modo di quanto fatto per l'ID Monitoraggio UA che si utilizzava
 > in Universal Analytics)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ga4_11.bmp](./assets/media/image39.png)
+![](./assets/media/image39.png)
 
 > Accertarsi inoltre di aver selezionato il flag "**Invia un evento di
 > visualizzazione pagina quando viene caricata questa configurazione**"
@@ -71,7 +71,7 @@ In questo senso sarà dunque necessario:
     creando e cliccare sul pulsante "**Salva**" presente nella parte
     alta della maschera per confermare la sua creazione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ga4_13.bmp](./assets/media/image42.png)
+![](./assets/media/image42.png)
 
 6.  Verificare in modalità **Anteprima** il corretto funzionamento del
     Tag (per maggiori informazioni in merito si veda anche quanto

@@ -5,7 +5,7 @@
 La sezione "**Gestione Immagini**" consente di gestire le varie immagini
 che dovranno andare a comporre la galleria in oggetto.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\galleria_immagini_gestione_immagini_res.bmp](./assets/media/image83.png)
+![](./assets/media/image83.png)
 
 In questo senso è possibile operare aggiungendo alla Galleria una
 singola immagine alla volta, oppure aggiungendo in blocco tutta una
@@ -88,11 +88,11 @@ Gli altri pulsanti presenti nella parte sinistra della maschera
 consentono rispettivamente di:
 
 **Elimina Immagine** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina.bmp](./assets/media/image16.png) ): consente di eliminare l'immagine
+![](./assets/media/image16.png) ): consente di eliminare l'immagine
 attualmente selezionata in elenco
 
 **Sposta su / giù**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icone_su_giu.bmp](./assets/media/image17.png) ): consente di riordinare tra loro le
+(![](./assets/media/image17.png) ): consente di riordinare tra loro le
 varie immagini presenti all'interno della galleria spostando verso
 l'alto o il basso l'immagine attualmente selezionata in elenco.
 

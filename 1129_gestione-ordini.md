@@ -6,20 +6,20 @@ All'interno di questa sezione è possibile disporre di un elenco
 completo, con relativo dettaglio, di tutti gli ordini/bolle/fatture
 effettuati o esportati sul proprio sito E-commerce.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_lista_ordini2.bmp](./assets/media/image637.png)
+![](./assets/media/image637.png)
 
 Le prime tre icone presenti nell'intestazione della griglia consentono
 di attivare e gestire la selezione multipla dei documenti in elenco
 
 Nello specifico l'icona:
 
-- ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ico_selezione_multipla.bmp](./assets/media/image638.png): consente di attivare / disattivare
+- ![](./assets/media/image638.png): consente di attivare / disattivare
   la selezione multipla dei documenti in elenco
 
-- ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ico_seleziona_in_blocco.bmp](./assets/media/image639.png): consente di selezionare in blocco
+- ![](./assets/media/image639.png): consente di selezionare in blocco
   tutti i documenti attualmente presenti in elenco
 
-- ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ico_deseleziona_in_blocco.bmp](./assets/media/image640.png): consente di deselezionare il blocco
+- ![](./assets/media/image640.png): consente di deselezionare il blocco
   tutti i documenti presenti in elenco
 
 **ATTENZIONE!** la selezione multipla è attiva, per ovvie ragioni, solo
@@ -44,7 +44,7 @@ cliccare sulla lente di ingrandimento presente in testata alla colonna
 nominativo del cliente da ricercare, e cliccare infine sull'icona
 indicata in figura per avviare la ricerca.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_ordini_ricerca.bmp](./assets/media/image642.png)
+![](./assets/media/image642.png)
 
 In generale è quindi possibile filtrare i documenti in griglia per:
 
@@ -66,7 +66,7 @@ In generale è quindi possibile filtrare i documenti in griglia per:
 > consentirà di visualizzare i documenti di origine della specifica
 > bolla.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\documenti_origine_1.bmp](./assets/media/image643.png)
+![](./assets/media/image643.png)
 
 > In queste condizioni effettuando una ricerca per sigla documento, e
 > indicando nello specifico, come sigla documento OC1/1320, il risultato
@@ -117,12 +117,12 @@ Il pulsante "**Filtri Avanzati**" (
 infatti di aprire una sezione di ricerca contenete un query builder
 utilizzabile per creare e customizzare il proprio filtro di ricerca
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_avanzati_ordini.bmp](./assets/media/image645.png)
+![](./assets/media/image645.png)
 
 Il pulsante "**Aggiungi un nuovo filtro**" consente di visualizzare
 l'elenco dei campi su cui poter impostare la condizione di filtro.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_avanzati_ordini_2.bmp](./assets/media/image646.png)
+![](./assets/media/image646.png)
 
 Nello specifico, grazie ai filtri avanzati sarà possibile costruire il
 proprio filtro di ricerca documenti utilizzando i seguenti campi:
@@ -162,7 +162,7 @@ necessario selezionare l'operatore relazionale (uguale, contiene, è in
 campo in esame dovrà assumere affinché la condizione impostata possa
 essere effettivamente soddisfatta.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_avanzati_ordini_3.bmp](./assets/media/image647.png)
+![](./assets/media/image647.png)
 
 In questo senso, ovviamente, gli operatori disponibili e le modalità di
 inserimento del valore da soddisfare potranno cambiare in relazione alla
@@ -178,7 +178,7 @@ relazioni disponibili saranno "**è in**" e "**non è in**" mentre il
 valore da ricercare sarà gestito con un campo ad autocompletamento in
 cui poter inserire il codice o il titolo dell'articolo da ricercare.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_avanzati_ordini_4.bmp](./assets/media/image648.png)
+![](./assets/media/image648.png)
 
 **E' inoltre possibile concatenare tra loro due o più condizioni di
 filtro, basate anche su più campi differenti, in maniera tale da
@@ -194,7 +194,7 @@ documenti.
 Cliccando su questo elemento verranno visualizzati tutti gli operatori
 logici da poter utilizzare nella costruzione della propria query.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_avanzati_ordini_5.bmp](./assets/media/image649.png)
+![](./assets/media/image649.png)
 
 In questo senso, come precedentemente evidenziato, la **"e"**
 corrisponderà all'operatore logico **AND** mentre la **"o"**
@@ -203,7 +203,7 @@ questi operatori, potranno essere utilizzate, esattamente come avviene
 in algebra, per specificare quali condizioni dovranno essere valutate
 prima e quali dopo.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_avanzati_ordini_6.bmp](./assets/media/image650.png)
+![](./assets/media/image650.png)
 
 Il filtro rappresentato in figura consente, ad esempio, di ricercare
 tutti i documenti con data successiva al 17/06/2024 e che sono nello
@@ -227,7 +227,7 @@ impostati è possibile procedere in due modi diversi:
   applicato un filtro di questo tipo, nella relativa barra degli
   strumenti
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_avanzati_ordini_7.bmp](./assets/media/image653.png)
+![](./assets/media/image653.png)
 
 **ATTENZIONE! i filtri applicati mediante i campi di ricerca presenti in
 testata alla griglia non sono compatibili con i filtri di ricerca
@@ -246,7 +246,7 @@ quali informazioni dovranno essere visualizzate direttamente in tabella.
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 "**Colonne**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_ordini_colonne.bmp](./assets/media/image655.png)
+![](./assets/media/image655.png)
 
 mediante la quale poter decidere quale campo attivare / disattivare e
 conseguentemente quale informazione mostrare / nascondere.
@@ -318,7 +318,7 @@ sottolineare alcune cose di fondamentale importanza:
     verrà automaticamente marcato come "**già esportato su Google
     Ads**".
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ordine_esportato_su_ads.bmp](./assets/media/image658.png)
+![](./assets/media/image658.png)
 
 > In queste condizioni infatti potrà essere correttamente eseguito lo
 > snippet di codice eventualmente inserito proprio nella pagina di
@@ -331,7 +331,7 @@ sottolineare alcune cose di fondamentale importanza:
   chiude il browser senza tornare al sito ecommerce, il relativo
   documento verrà marcato come "**non ancora esportato su Google Ads**".
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ordine_non_esportato_su_ads.bmp](./assets/media/image659.png)
+![](./assets/media/image659.png)
 
 > In queste condizioni infatti non sarà possibile eseguire lo snippet di
 > codice presente nella pagina di conferma ordine (perché la pagina non
@@ -369,7 +369,7 @@ Avanzati" precedentemente esaminato, potranno essere visualizzati anche
 ulteriori pulsanti che consentono rispettivamente di:
 
 - **Attiva Modifica Attributi**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_attiva_modifiche_attributo.bmp](./assets/media/image660.png) ): consente di attivare la modalità
+  (![](./assets/media/image660.png) ): consente di attivare la modalità
   "**Modifica Attributi**" in cui poter visualizzare il dettaglio di
   ogni singolo documento presente in elenco con la possibilità di
   modificare eventuali Attributi Passweb, siano essi di Testata
@@ -377,7 +377,7 @@ ulteriori pulsanti che consentono rispettivamente di:
   presenti all'interno del documento stesso
 
 - **Disattiva Modifica Attributi**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_disattiva_modifiche_attributo.bmp](./assets/media/image661.png) ): consente di disattivare la modalità di
+  (![](./assets/media/image661.png) ): consente di disattivare la modalità di
   "**Modifica Attributi**". Una volta disabilitata tale modalità sarà
   sempre possibile accedere alla visualizzazione del dettaglio di uno
   qualsiasi dei documenti presenti in elenco questa volta però in sola
@@ -387,7 +387,7 @@ ulteriori pulsanti che consentono rispettivamente di:
 <!-- -->
 
 - **Conferma Ordine** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_conferma_pagamento.bmp](./assets/media/image662.png) ) -- visibile per ordini posti nello stato di
+  ![](./assets/media/image662.png) ) -- visibile per ordini posti nello stato di
   "**Pagamento Non Confermato**" o "**Da Verificare**". Consente di
   validare il documento attualmente selezionato in elenco in maniera
   tale da poterlo poi inserire all'interno del gestionale.
@@ -437,7 +437,7 @@ ulteriori pulsanti che consentono rispettivamente di:
 > portarlo nello stato di "Annullato" (pulsante "**Annulla Ordine**")
 
 - **Conferma Ordine Incompleto** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_conferma_ordine_incompleto.bmp](./assets/media/image663.png) ): visibile solo per ordini posti
+  ![](./assets/media/image663.png) ): visibile solo per ordini posti
   nello stato di "**Incompleto da Logistica Amazon**".
 
 > Consente di validare il documento attualmente selezionato in elenco in
@@ -449,7 +449,7 @@ ulteriori pulsanti che consentono rispettivamente di:
 > -- Ordini AFN*" di questo manuale
 
 - **Elimina Ordine** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_ordine.bmp](./assets/media/image664.png) ): consente di eliminare i documenti
+  ![](./assets/media/image664.png) ): consente di eliminare i documenti
   attualmente selezionati in elenco.
 
 > **ATTENZIONE!** In relazione a questa specifica funzionalità è
@@ -504,7 +504,7 @@ ulteriori pulsanti che consentono rispettivamente di:
 > gestionale*".
 
 - **Annulla Ordine** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_annulla_ordine.bmp](./assets/media/image665.png) ) -- visibile solo per ordini posti
+  ![](./assets/media/image665.png) ) -- visibile solo per ordini posti
   nello stato di "**Pagamento Non Confermato**".
 
 > Consente di annullare l'ordine attualmente selezionato in elenco. In
@@ -523,8 +523,8 @@ ulteriori pulsanti che consentono rispettivamente di:
 > ordini.
 
 - **Esportato su Ads** / **Non esportato su Ads** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_esportato_ads.bmp](./assets/media/image666.png) /
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_non_esportato_ads.bmp](./assets/media/image667.png) ): consente di marcare i documenti
+  ![](./assets/media/image666.png) /
+  ![](./assets/media/image667.png) ): consente di marcare i documenti
   attualmente selezionati in elenco come già esportati su Google Ads /
   non ancora esportati su Google Ads variando, di conseguenza, anche il
   valore presente all'interno della colonna GADS (per maggiori
@@ -537,14 +537,14 @@ ulteriori pulsanti che consentono rispettivamente di:
 <!-- -->
 
 - **Esportazione Ordini** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_esportazione_ordini.bmp](./assets/media/image668.png) ): consente di accedere alla maschera
+  ![](./assets/media/image668.png) ): consente di accedere alla maschera
   di esportazione dei dati relativi agli ordini presenti in griglia. Per
   maggiori informazioni relativamente alle modalità e alle tipologie di
   esportazioni possibili si rimanda a quanto indicato nel successivo
   capitolo (*Esportazione Ordini*) di questo manuale
 
 - **Visualizza Ordine** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_visualizza_ordine.bmp](./assets/media/image669.png) ): consente di visualizzare e gestire
+  ![](./assets/media/image669.png) ): consente di visualizzare e gestire
   il documento attualmente selezionato in elenco.
 
 > Cliccando su questo pulsante si verrà infatti ricondotti alla maschera

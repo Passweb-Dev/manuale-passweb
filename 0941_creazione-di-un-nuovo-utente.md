@@ -7,21 +7,21 @@ necessario per prima cosa accedere alla sezione "Gestione Ruoli"
 precedentemente esaminata, selezionare la tipologia di Ruolo in
 relazione alla quale si desidera creare un nuovo utente e cliccare
 quindi sul pulsante **Gestisci gli Utenti per questo Ruolo** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_gestisci_utenti_ruoli.bmp](./assets/media/image7.png) )
+![](./assets/media/image7.png) )
 
 In questo modo si avrà infatti accesso alla maschera la maschera
 **"Lista Utenti Ruolo -- Nome Ruolo"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\utenti_per_ruolo.bmp](./assets/media/image8.png)
+![](./assets/media/image8.png)
 
 contenente l'elenco di tutti gli utenti attualmente associati al Ruolo
 in oggetto.
 
 Il pulsante **Nuovo Utente** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuovo_utente.bmp](./assets/media/image9.png) ), presente nella contestuale barra degli
+![](./assets/media/image9.png) ), presente nella contestuale barra degli
 strumenti consente quindi di accedere alla maschera "**Dati Utente**".
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ruoli_crea_utente.bmp](./assets/media/image14.png)
+![](./assets/media/image14.png)
 
 all'interno della quale poter indicare i dati dell'utente (Nome,
 Cognome, Email), le sue credenziali di accesso al Wizard (Login e
@@ -62,7 +62,7 @@ seguenti requisiti:
 > validità della password attualmente in uso, verrà automaticamente
 > visualizzata la seguente maschera di "**Reset Password**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\reset_password_wizard.bmp](./assets/media/image15.png)
+![](./assets/media/image15.png)
 
 > all'interno della quale inserire obbligatoriamente la nuova Password
 > di accesso, password questa che dovrà soddisfare, ovviamente, tutti i
@@ -79,7 +79,7 @@ Login verrà visualizzata un'ulteriore schermata all'interno della quale
 dover digitare il proprio codice di accesso, codice questo che potrà
 essere generato utilizzando l'App Google Authenticator
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\profilo_2fa_2.bmp](./assets/media/image16.png)
+![](./assets/media/image16.png)
 
 Per maggiori informazioni relativamente al meccanismo di autenticazione
 a due fattori, si veda anche la sezione "*Profilo Utente -- Accesso al
@@ -113,7 +113,7 @@ utente" consentono rispettivamente di:
 > link "**Hai dimenticato la Password?**" presente all'interno della
 > schermata di blocco.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\blocco_utente_wizard.bmp](./assets/media/image17.png)
+![](./assets/media/image17.png)
 
 > Ovviamente, affinché tale procedura possa andare a buon fine è
 > indispensabile che all'utente abbia precedentemente indicato nella sua
@@ -188,7 +188,7 @@ utente" consentono rispettivamente di:
 Il controllo "**Attiva suggerimenti codice**" (sezione "**Editor di
 codice HTML, Javascript, CSS**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuovo_utente_editor_codice_autocompletamento.bmp](./assets/media/image18.png)
+![](./assets/media/image18.png)
 
 consente, se abilitato, di attivare per tutti gli editor di codice
 presenti all'interno del sito (componente HTML, Layout, maschere di

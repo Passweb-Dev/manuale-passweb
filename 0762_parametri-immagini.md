@@ -14,7 +14,7 @@ specifica anche per le immagini mobile, immagini queste che verranno poi
 effettivamente utilizzate in corrispondenza di risoluzioni inferiori ai
 575px
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_tipologie_immagini.bmp](./assets/media/image42.png)
+![](./assets/media/image42.png)
 
 **[LISTA DELLE TIPOLOGIE IMMAGINI NEL CATALOGO]{.underline}**
 
@@ -54,11 +54,11 @@ all'interno del gestionale*".
 
 Selezionando una delle tipologie di immagini presenti in elenco, il
 pulsante "**Modifica**" (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica.bmp](./assets/media/image43.png) ) posto nella contestuale barra degli
+![](./assets/media/image43.png) ) posto nella contestuale barra degli
 strumenti, consentirà di accedere alla maschera **"Configurazione
 Immagine"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_immagine.bmp](./assets/media/image44.png)
+![](./assets/media/image44.png)
 
 all'interno della quale poter gestire i relativi parametri di
 configurazione:
@@ -112,7 +112,7 @@ configurazione:
 > Per visualizzare la preview è sufficiente cliccare sul pulsante
 > "**Visualizza l'anteprima del watermark**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_immagine_2.bmp](./assets/media/image45.png)
+![](./assets/media/image45.png)
 
 Il pulsante "**Salva**" posto nella parte bassa della maschera consente
 di applicare le impostazioni settate avviando quindi la procedura di
@@ -158,13 +158,13 @@ momento in cui a quello stesso prodotto non dovesse essere stata
 associata una specifica risorsa (tipicamente è l'immagine "foto non
 disponibile").
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\immagine_catalogo_default.bmp](./assets/media/image46.png)
+![](./assets/media/image46.png)
 
 I due pulsanti visualizzati in corrispondenza di questo campo, una volta
 caricata l'immagine, consentiranno rispettivamente di effettuare il
 download della stessa (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_download_img_default.bmp](./assets/media/image47.png) ) e di eliminarla (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_img_default.bmp](./assets/media/image48.png) )
+![](./assets/media/image47.png) ) e di eliminarla (
+![](./assets/media/image48.png) )
 
 **[LISTA DELLE TIPOLOGIE DI IMMAGINI DI CATEGORIA]{.underline}**
 
@@ -174,11 +174,11 @@ utilizzare, per le immagini di categoria merceologica, su dispositivi
 mobile (risoluzioni inferiori ai 575px)
 
 Anche in questo caso dunque il pulsante "**Modifica**" (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica.bmp](./assets/media/image43.png) ) posto nella contestuale barra degli
+![](./assets/media/image43.png) ) posto nella contestuale barra degli
 strumenti, consentirà di accedere alla relativa maschera di
 **"Configurazione Immagine"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_immagini_categoria_mobile.bmp](./assets/media/image49.png)
+![](./assets/media/image49.png)
 
 all'interno della quale poter impostare i parametri di configurazione.
 
@@ -202,7 +202,7 @@ del componente "**Lista Categorie**", come immagine di default nel caso
 in cui alla relativa categoria merceologica non sia stata assegnata una
 specifica risorsa.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\immagine_categoria_default.bmp](./assets/media/image50.png)
+![](./assets/media/image50.png)
 
 I due pulsanti visualizzati in corrispondenza di questo campo, una volta
 caricata l'immagine, consentiranno rispettivamente di effettuare il

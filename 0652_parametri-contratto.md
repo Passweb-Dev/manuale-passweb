@@ -5,7 +5,7 @@
 La pagina **"Parametri Contratto"** consente di visualizzare i dati
 relativi al contratto associato al proprio sito ecommerce
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\parametri_contratto.bmp](./assets/media/image1.png)
+![](./assets/media/image1.png)
 
 Nello specifico il parametro:
 

@@ -4,14 +4,14 @@
 
 Il componente "**Punti Premio**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_punti_premio.bmp](./assets/media/image254.png)
+![](./assets/media/image254.png)
 
 può essere inserito unicamente all'interno dell'omonima pagina, è
 legato, ovviamente, all'attivazione e alla gestione di un determinato
 sistema di raccolta punti e consente agli utenti del sito di
 visualizzare un riepilogo dettagliato dei punti attualmente accumulati
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\punti_premio.bmp](./assets/media/image255.png)
+![](./assets/media/image255.png)
 
 **ATTENZIONE!** Per ovvie ragioni il componente "Punti Premio" sarà
 visibile solo dopo aver effettuato l'autenticazione al sito. In fase di

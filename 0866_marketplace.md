@@ -10,7 +10,7 @@ All'interno di questa sezione sarà possibile decidere quali, tra quelli
 presenti in elenco, dovranno essere i marketplace da attivare e verso
 cui dovranno quindi essere esportati gli articoli del sito Ecommerce
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\marketplace_account_markeplace.bmp](./assets/media/image315.png)
+![](./assets/media/image315.png)
 
 Per maggiori informazioni relativamente a come poter attivare /
 aggiornare i marketplace presenti all'interno di questa sezione si

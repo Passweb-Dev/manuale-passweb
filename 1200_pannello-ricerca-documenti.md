@@ -15,7 +15,7 @@ Nel primo caso, una volta selezionata la cartella desiderata, verranno
 automaticamente visualizzati, all'interno della griglia documenti, tutti
 i file in essa contenuti
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\documenti_cartella.bmp](./assets/media/image109.png)
+![](./assets/media/image109.png)
 
 Per quel che riguarda invece il pannello di **Ricerca Documenti**,
 questo potrà comportarsi in maniera diversa a seconda del fatto di aver

@@ -5,7 +5,7 @@
 All'interno di questa sezione è possibile visualizzare il codice CSS
 editato a livello di singolo componente
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\layout_css_componenti_res.bmp](./assets/media/image165.png)
+![](./assets/media/image165.png)
 
 Il pulsante "**Sposta il css nel layout**" presente nella parte bassa
 della maschera consente di spostare il codice CSS presente su ogni

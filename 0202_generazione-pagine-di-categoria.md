@@ -8,5 +8,5 @@ dovranno essere create eventuali nuove Pagine Catalogo e/o Prodotto
 generate a seguito della creazione, all'interno del gestionale, di
 **nuove** categorie merceologiche
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\generazione_pagine_categoria_2_res.bmp](./assets/media/image23.png)
+![](./assets/media/image23.png)
 

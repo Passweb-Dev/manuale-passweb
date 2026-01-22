@@ -95,13 +95,13 @@ figlio
 
 - FNU04ADIGRI
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\marketplace_strutture_es2.bmp](./assets/media/image507.png)
+![](./assets/media/image507.png)
 
 Supponiamo infine di aver personalizzato, in Passweb, i possibili valori
 assunti dal penultimo livello della struttura (NIK e ADI)
 rispettivamente con le stringhe "Nike" e "Adidas"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\marketplace_strutture_es3.bmp](./assets/media/image508.png)
+![](./assets/media/image508.png)
 
 In queste condizioni, posto di aver configurato correttamente (secondo
 quanto indicato nei precedenti capitoli) l'Inserzione da utilizzare per
@@ -109,7 +109,7 @@ la pubblicazione dei prodotti, tentando di aggiungere articoli alla
 Lista di Vendita troveremo ora tra le possibili scelte l'articolo padre
 FNU04
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\marketplace_strutture_es4.bmp](./assets/media/image509.png)
+![](./assets/media/image509.png)
 
 Selezionando questo articolo e inserendolo nella Lista di Vendita
 Passweb prenderà in considerazione i soli articoli figlio ad esso
@@ -118,7 +118,7 @@ i tre precedentemente indicati) e, in relazione ad ognuno di essi, andrà
 ad inserire in lista un elemento per ogni taglia indicata nella
 corrispondente tabella Mexal.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\marketplace_strutture_es5.bmp](./assets/media/image658.png)
+![](./assets/media/image658.png)
 
 Ora, tenendo conto di quanto precedentemente indicato, in fase di
 pubblicazione l'elemento che consentirà di raggruppare gli articoli
@@ -136,12 +136,12 @@ verrà creato:
 - Un articolo di tipo "**Simple Product**" per ogni elemento presente
   nella Lista Passweb
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\magento_pubblicazione_taglie.bmp](./assets/media/image760.png)
+![](./assets/media/image760.png)
 
 > Questi prodotti, corrispondenti alle singole taglie / colori, verranno
 > automaticamente impostati come "Non visibili individualmente"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\magento_pubblicazione_taglie_1.bmp](./assets/media/image761.png)
+![](./assets/media/image761.png)
 
 > Il loro Nome dipenderà invece da come è stata mappata le relativa
 > specifica "Name" nell'Inserzione utilizzata per la pubblicazione
@@ -151,28 +151,28 @@ verrà creato:
   raggruppare le possibili configurazioni degli articoli di marca NIKE
   (FNU04NIKNER e FNU04NIKROS).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\magento_pubblicazione_taglie_2.bmp](./assets/media/image762.png)
+![](./assets/media/image762.png)
 
 > A questo prodotto verranno quindi automaticamente aggiunti come
 > possibili Varianti, tutti i prodotti di cui al punto precedente e
 > relativi alle possibili configurazioni (taglia e colore) degli
 > articoli Passweb FNU04NIKNER e FNU04NIKROS
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\magento_pubblicazione_taglie_3.bmp](./assets/media/image763.png)
+![](./assets/media/image763.png)
 
 - Un articolo di tipo "**Configurable Product**" con Name "**Felpa Elite
   Performance -- ADIDAS**" utilizzato come "articolo padre" per
   raggruppare le possibili configurazioni dell' articolo di marca ADIDAS
   (FNU04ADIGRI).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\magento_pubblicazione_taglie_4.bmp](./assets/media/image764.png)
+![](./assets/media/image764.png)
 
 > A questo prodotto verranno quindi automaticamente aggiunti come
 > possibili Varianti, tutti i prodotti di cui al punto precedente e
 > relativi alle possibili configurazione (taglia e colore) dell'
 > articolo Passweb FNU04ADIGRI
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\magento_pubblicazione_taglie_5.bmp](./assets/media/image765.png)
+![](./assets/media/image765.png)
 
 Coerentemente con le impostazioni dell'Inserzione dunque, sulla
 piattaforma terza l'utente avrà la possibilità di scegliere al massimo
@@ -254,20 +254,20 @@ evidenziata in figura, il padre HNU01 e anche i seguenti articoli figlio
 Tutti questi articoli dovranno essere anche esportati all'interno del
 sito Passweb
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\marketplace_strutture_es10.bmp](./assets/media/image663.png)
+![](./assets/media/image663.png)
 
 Supponiamo infine di aver personalizzato, in Passweb, i possibili valori
 assunti dal terzultimo livello della struttura (NIK e ADI)
 rispettivamente con le stringhe "Nike" e "Adidas"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\marketplace_strutture_es3.bmp](./assets/media/image508.png)
+![](./assets/media/image508.png)
 
 In queste condizioni, non essendo gestita la tabella taglie, Passweb non
 potrà esplodere nulla, avremo già un articolo figlio distinto per ogni
 singola taglia, e saranno direttamente questi articoli (**NON il
 padre**) a dover essere inseriti in lista di vendita
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\marketplace_strutture_es11.bmp](./assets/media/image664.png)
+![](./assets/media/image664.png)
 
 Ora, tenendo conto di quanto precedentemente indicato, in fase di
 pubblicazione l'elemento che consentirà di raggruppare gli articoli
@@ -285,7 +285,7 @@ verranno pubblicati i seguenti articoli:
 - Un articolo di tipo "**Simple Product**" per ogni elemento presente
   nella Lista Passweb
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\marketplace_strutture_es15.bmp](./assets/media/image767.png)
+![](./assets/media/image767.png)
 
 > Questi prodotti, corrispondenti alle singole taglie / colori (e nel
 > caso considerato ad articoli fisicamente presenti su Passweb / Mexal),
@@ -299,28 +299,28 @@ verranno pubblicati i seguenti articoli:
   raggruppare le possibili configurazioni degli articoli di marca NIKE
   (HNU01NIKNER e HNU01NIKROS).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\marketplace_strutture_es16.bmp](./assets/media/image768.png)
+![](./assets/media/image768.png)
 
 > A questo prodotto verranno quindi automaticamente aggiunti come
 > possibili Varianti, tutti i prodotti di cui al punto precedente e
 > relativi alle possibili configurazioni (taglia e colore) degli
 > articoli Passweb HNU01NIKNER e HNU01NIKROS
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\marketplace_strutture_es17.bmp](./assets/media/image769.png)
+![](./assets/media/image769.png)
 
 - Un articolo di tipo "**Configurable Product**" con Name "**Felpa
   Taglie Struttura -- ADIDAS**" utilizzato come "articolo padre" per
   raggruppare le possibili configurazioni dell' articolo di marca ADIDAS
   (HNU01ADIGRI).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\marketplace_strutture_es18.bmp](./assets/media/image770.png)
+![](./assets/media/image770.png)
 
 > A questo prodotto verranno quindi automaticamente aggiunti come
 > possibili Varianti, tutti i prodotti di cui al punto precedente e
 > relativi alle possibili configurazione (taglia e colore) dell'
 > articolo Passweb HNU01ADIGRI
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\marketplace_strutture_es19.bmp](./assets/media/image771.png)
+![](./assets/media/image771.png)
 
 Anche in questo caso quindi, coerentemente con le impostazioni
 dell'Inserzione dunque, sulla piattaforma terza l'utente avrà la
@@ -382,19 +382,19 @@ otterrà:
 
 - un articolo padre FNU04NIK con prezzo 0
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prezzi_combinazioni_magento_1.bmp](./assets/media/image772.png)
+![](./assets/media/image772.png)
 
 - Le Variazioni (nel caso specifico quindi i prodotti singoli
   corrispondenti alle singole taglie) relative all'articolo FNU04NIKNER
   avranno tutte prezzo pari a 286€
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prezzi_combinazioni_magento_2.bmp](./assets/media/image773.png)
+![](./assets/media/image773.png)
 
 - Le Variazioni (nel caso specifico quindi i prodotti singoli
   corrispondenti alle singole taglie) relative all'articolo FNU04NIKROS
   avranno tutte prezzo pari a 132€
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prezzi_combinazioni_magento_3.bmp](./assets/media/image774.png)
+![](./assets/media/image774.png)
 
 **ATTENZIONE! In queste condizioni si presuppone, ovviamente, che il
 prezzo degli articoli e dei relativi elementi varianti sia definito e
@@ -531,7 +531,7 @@ HNU01NIKNERXL, HNU01NIKROSXS, HNU01NIKROSS, HNU01NIKROSM, HNU01NIKROSL,
 HNU01NIKROSXL, verranno riportate invece sulla corrispondente
 combinazione Magento.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\immagini_combinazioni_magento_4.bmp](./assets/media/image778.png)
+![](./assets/media/image778.png)
 
 In questa configurazione, avendo a disposizione un articolo fisicamente
 presente in Passweb / Mexal per ogni singola taglia, volendo potrebbe

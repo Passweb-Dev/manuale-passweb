@@ -15,7 +15,7 @@ parametro "**Abilita Configurazione**" presente nella maschera "**Dati
 Articolo**" accessibile sul Wizard alla voce di menu "*Catalogo --
 Gestione Articoli*"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\campionario_semplice.bmp](./assets/media/image68.png)
+![](./assets/media/image68.png)
 
 il Componente **"Campionario E-commerce"** permetterà di inserire e di
 visualizzare all'interno della Scheda Prodotto l'insieme di tutti gli
@@ -105,7 +105,7 @@ conto di quelli che sono i componenti effettivamente gestiti sul sito e
 di quanto impostato, lato gestionale, all'interno della sezione
 "**Formula calcolo del prezzo di vendita**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\articoli_composti5.bmp](./assets/media/image90.png)
+![](./assets/media/image90.png)
 
 Nell'esempio riportato in figura dunque il prezzo del Composto sarà dato
 dalla somma del Prezzo definito per l'articolo Composto in se più la
@@ -155,7 +155,7 @@ Infine è bene sottolineare anche come:
   verranno sempre visualizzati, in relazione ai Composti Semplici, sia
   l'articolo Composto che l'elenco dei suoi componenti.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\articoli_composti6.bmp](./assets/media/image91.png)
+![](./assets/media/image91.png)
 
 > Per l'articolo Composto sarà possibile modificare la quantità presente
 > in carrello, eliminarlo dal carrello, inserire note di riga, date di

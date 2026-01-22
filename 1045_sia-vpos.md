@@ -40,7 +40,7 @@ impostare, oltre ai parametri classici di configurazione del pagamento,
 anche quelli specifici del gateway attualmente considerato e presenti
 all'interno della sezione "**Parametri Gateway**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_vpos.bmp](./assets/media/image211.png)
+![](./assets/media/image211.png)
 
 > Nel caso specifico il parametro:
 
@@ -110,7 +110,7 @@ conferma dell'ordine, selezionare la modalità di pagamento in esame,
 l'ordine sarà memorizzato nel database di Passweb, e l'utente verrà
 reindirizzato alla specifica pagina di accesso del gateway di pagamento:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\siavpos_1.bmp](./assets/media/image212.png)
+![](./assets/media/image212.png)
 
 **A questo punto però l'ordine non è ancora stato preso in carico dalla
 banca e, conseguentemente, non è ancora avvenuto alcun pagamento**.
@@ -135,7 +135,7 @@ aver cliccato sul pulsante "Conferma" l'ordine verrà preso in carico e
 gestito dal gateway di pagamento. Saranno quindi richiesti ulteriori
 codici di verifica
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\siavpos_2.bmp](./assets/media/image213.png)
+![](./assets/media/image213.png)
 
 e, una volta inseriti, l'utente sarà automaticamente ricondotto al sito
 Ecommerce. L'ordine verrà considerato valido ed inserito quindi

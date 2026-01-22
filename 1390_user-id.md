@@ -29,7 +29,7 @@ seguente istruzione
 
 **\_paq.push(\[\'setUserId\', {USER_ID}\]);**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_19.bmp](./assets/media/image18.png)
+![](./assets/media/image18.png)
 
 dove **{UESER_ID}** è un segnaposto gestito dinamicamente da Passweb che
 verrà sostituito a runtime con l'id assegnato da Passweb stesso ad ogni
@@ -40,7 +40,7 @@ cui l'esigenza dovesse essere quella di passare a Matomo anche lo User
 Id dell'utente che ha effettuato l'ordine, sarà sufficiente selezionare
 il parametro "**Utilizza User id**" evidenziato in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_20.bmp](./assets/media/image19.png)
+![](./assets/media/image19.png)
 
 Per maggiori informazioni relativamente al tracciamento lato server
 disponibile nell'integrazione Passweb -- Matomo si rimanda a quanto

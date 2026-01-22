@@ -29,7 +29,7 @@ l'applicazione si connetterà automaticamente con il gestionale per
 richiedere, in relazione al giorno corrente, i turni e gli orari in cui
 poter effettuare la prenotazione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\prenotazione_menu.bmp](./assets/media/image349.png)
+![](./assets/media/image349.png)
 
 Sarà comunque possibile, ovviamente, indicare una qualsiasi altra data
 di prenotazione (successiva a quella odierna) selezionandola
@@ -46,18 +46,18 @@ prenotazione.
 > apposito messaggio di avviso personalizzabile all'interno della
 > sezione "Test/Messaggi Sito" del Wizard.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\prenotazione_menu2.bmp](./assets/media/image350.png)
+![](./assets/media/image350.png)
 
 Le date selezionabili per effettuare una prenotazione corrispondono a
 quanto impostato all'interno del gestionale nella scheda "**Orari di
 Apertura**" del menu "**Opzioni di installazione**".
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\menu_turni_apertura.bmp](./assets/media/image351.png)
+![](./assets/media/image351.png)
 
 Gli orari dei vari turni dipendono invece dalla configurazione a livello
 gestionale del singolo turno.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\menu_configurazione_turno.bmp](./assets/media/image352.png)
+![](./assets/media/image352.png)
 
 Il campo "**Note**" visualizzato nel form di prenotazione,
 immediatamente al di sotto del campo relativo al numero di Coperti,
@@ -65,7 +65,7 @@ potrà essere o meno visualizzato dipendentemente dalle impostazioni di
 configurazione settate sul componente "Prenotazione" (parametro
 "**Nascondi Nota**").
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\prenotazione_nota.bmp](./assets/media/image353.png)
+![](./assets/media/image353.png)
 
 Eventuali note impostate all'interno di questo campo verranno poi
 riportate all'interno del gestionale nell'omonimo campo del documento di
@@ -82,7 +82,7 @@ specifica sala, nel corrispondente menu a tendina verranno visualizzate
 tutte quelle sale impostate all'interno del gestionale per essere
 esportate e gestite anche sul sito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\prenotazione_scelta_sala.bmp](./assets/media/image354.png)
+![](./assets/media/image354.png)
 
 Nello specifico per poter configurare, lato gestionale, una specifica
 sala affinchè questa possa essere esportata e gestita anche all'interno
@@ -92,7 +92,7 @@ del sito sarà necessario per prima cosa configurare un apposito
 Per far questo sarà necessario agire all'interno dell'apposita sezione
 del gestionale ***"Utilità di sistema -- Portale Ristorante"***
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\configurazione_sala_gestionale1.bmp](./assets/media/image355.png)
+![](./assets/media/image355.png)
 
 dove andranno impostati i parametri di configurazione dello specifico
 portale, le sale che dovranno poi essere esportate e gestite all'interno
@@ -113,13 +113,13 @@ selezionandole dall'apposito menu a tendina, tutte le sale che dovranno
 poi essere gestite, nell'ambito di questo portale, all'interno del
 corrispondente sito Passweb.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\configurazione_sala_gestionale2.bmp](./assets/media/image356.png)
+![](./assets/media/image356.png)
 
 **Modalità:** consente di impostare la specifica modalità con cui le
 sale inserite all'interno del portale dovranno poi essere gestite
 all'interno del sito web.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\configurazione_sala_gestionale3.bmp](./assets/media/image357.png)
+![](./assets/media/image357.png)
 
 E' possibile selezionare uno dei seguenti valori:
 

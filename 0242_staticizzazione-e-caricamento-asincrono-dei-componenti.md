@@ -160,7 +160,7 @@ che, nello specifico, consentono rispettivamente di:
 - **utilizzando il pulsante "Genera HTML" presente nel menu di editing
   del sito**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_genera_html.bmp](./assets/media/image70.png)
+![](./assets/media/image70.png)
 
 > **ATTENZIONE!** il pulsante "Genera HTML" rigenera il codice HTML di
 > tutti i componenti statici presenti all'interno del sito

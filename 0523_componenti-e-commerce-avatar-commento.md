@@ -4,7 +4,7 @@
 
 Il Componente **"Avatar Commento"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_avatar_res.bmp](./assets/media/image685.png)
+![](./assets/media/image685.png)
 
 può essere inserito solo ed esclusivamente all'interno di un componente
 "**Commenti Associati**" e consente di visualizzare l'immagine avatar
@@ -20,7 +20,7 @@ A livello di configurazione, una volta inserito il Componente
 all'interno della pagina web, verrà aperta in automatico **la sua
 maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\avatar_commento_configurazione_res.bmp](./assets/media/image686.png)
+![](./assets/media/image686.png)
 
 suddivisa in varie sezioni.
 

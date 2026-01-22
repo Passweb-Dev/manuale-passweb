@@ -135,7 +135,7 @@ Facebook mediante Conversion API.
 
 - Nella schermata successiva cliccare sul pulsante "**Continua**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tracking-facebook-7.bmp](./assets/media/image13.png)
+![](./assets/media/image13.png)
 
 > in maniera tale da accedere alla maschera di "**Selezione eventi**"
 > all'interno della quale poter selezionare gli eventi aggregati che
@@ -159,9 +159,9 @@ Facebook mediante Conversion API.
 > acquisto** e **Ricerca** e l'evento aggiuntivo "**Acquisizione
 > Contatto**" (Altra categoria aziendale)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tracking-facebook-8.bmp](./assets/media/image14.png)
+![](./assets/media/image14.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tracking-facebook-8a.bmp](./assets/media/image15.png)
+![](./assets/media/image15.png)
 
 > Cliccare quindi sul pulsante "**Continua**"
 
@@ -228,7 +228,7 @@ Facebook mediante Conversion API.
 >
 > **[AGGIUNTA AL CARRELLO]{.underline}**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tracking-facebook-evento-aggiunta_carrello.bmp](./assets/media/image17.png)
+![](./assets/media/image17.png)
 
 > **Parametri dei dettagli degli eventi**:
 
@@ -282,7 +282,7 @@ Facebook mediante Conversion API.
 >
 > **[AGGIUNTA ALLA LISTA DEI DESIDERI]{.underline}**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tracking-facebook-evento-aggiunta_wish.bmp](./assets/media/image18.png)
+![](./assets/media/image18.png)
 
 > **Parametri dei dettagli degli eventi**:
 
@@ -336,7 +336,7 @@ Facebook mediante Conversion API.
 >
 > **[INIZIO DI ACQUISTO]{.underline}**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tracking-facebook-evento-inizio-acquisto.bmp](./assets/media/image19.png)
+![](./assets/media/image19.png)
 
 > **Parametri dei dettagli degli eventi**:
 
@@ -392,7 +392,7 @@ Facebook mediante Conversion API.
 >
 > **[ACQUISIZIONE CONTATTO]{.underline}**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tracking-facebook-evento-acquisizione-contatto.bmp](./assets/media/image20.png)
+![](./assets/media/image20.png)
 
 > **Parametri dei dettagli degli eventi**:
 
@@ -438,7 +438,7 @@ Facebook mediante Conversion API.
 >
 > **[ACQUISTO]{.underline}**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tracking-facebook-evento-acquisto.bmp](./assets/media/image21.png)
+![](./assets/media/image21.png)
 
 > **Parametri dei dettagli degli eventi**:
 
@@ -496,7 +496,7 @@ Facebook mediante Conversion API.
 >
 > **[RICERCA]{.underline}**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tracking-facebook-evento-ricerca.bmp](./assets/media/image22.png)
+![](./assets/media/image22.png)
 
 > **Parametri dei dettagli degli eventi**:
 
@@ -538,7 +538,7 @@ Facebook mediante Conversion API.
 >
 > **[VISUALIZZAZIONE DI CONTENUTI]{.underline}**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tracking-facebook-evento-visualizzazione-contenuti.bmp](./assets/media/image23.png)
+![](./assets/media/image23.png)
 
 > **Parametri dei dettagli degli eventi**:
 
@@ -618,7 +618,7 @@ Facebook mediante Conversion API.
   "**Facebook Pixel -- Conversion API**" della pagina "**Sito --
   Preferenze**" (tab **"Tracciamento Dati**") del Wizard
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tracking-facebook-14.bmp](./assets/media/image29.png)
+![](./assets/media/image29.png)
 
 > **ATTENZIONE! come indicato sul Business Manager di Facebook il token
 > generato al punto precedente non sarà memorizzato su Facebook per cui

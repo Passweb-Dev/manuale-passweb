@@ -15,10 +15,10 @@ quelli presenti in elenco all'interno della maschera "Lista Feed" e
 cliccare poi sul pulsate "**Genera Feed**" presente nella barra degli
 strumenti di questa stessa maschera.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_feed_genera_feed.bmp](./assets/media/image852.png)
+![](./assets/media/image852.png)
 
 **Genera Feed** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_genera_feed.bmp](./assets/media/image853.png) ): cliccando su questo pulsante verrà
+![](./assets/media/image853.png) ): cliccando su questo pulsante verrà
 avviata la generazione del Feed attualmente selezionato in elenco e la
 creazione del relativo file contenente le informazioni associate ai
 campi del feed in relazione agli articoli che soddisfano il filtro
@@ -46,7 +46,7 @@ di export associato al Feed appena generato può essere raggiunta anche
 cliccando sul nome del corrispondente Feed all'interno della maschera
 "Lista dei Feed"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\feed_articoli_pagina_web.bmp](./assets/media/image832.png)
+![](./assets/media/image832.png)
 
 In definitiva dunque, una volta generato il Feed Articoli, e prodotto
 quindi il corrispondente file di export, per completare l'integrazione e
@@ -62,10 +62,10 @@ a)  **Download del file generato dal sito Passweb e Upload di questo
 > pulsante "Download Feed" presente nella barra degli strumenti della
 > maschera "Lista Feed"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_feed_download_feed.bmp](./assets/media/image854.png)
+![](./assets/media/image854.png)
 
 - **Download Feed** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_download_feed.bmp](./assets/media/image855.png) ): cliccando su questo pulsante sarà possibile
+  ![](./assets/media/image855.png) ): cliccando su questo pulsante sarà possibile
   scaricare il file associato al Feed Articoli attualmente selezionato
   in elenco
 

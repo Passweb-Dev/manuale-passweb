@@ -32,7 +32,7 @@ In questo senso è possibile agire in due modi diversi:
 
 - selezionando il Tema desiderato all'interno della maschera "**Gestione
   Temi**" (sezione "Temi") e cliccando poi sul pulsante **Applica Tema**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_applica_tema_res.bmp](./assets/media/image346.png) ) presente nella contestuale barra
+  (![](./assets/media/image346.png) ) presente nella contestuale barra
   degli strumenti
 
 - selezionando semplicemente il Tema desiderato dal menu a tendina

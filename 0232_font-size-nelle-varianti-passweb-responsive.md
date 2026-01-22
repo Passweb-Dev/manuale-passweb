@@ -11,5 +11,5 @@ componente utilizzando gli strumenti messi a disposizione da Passweb
 come ad esempio lo Style Editor, il componente HTML o la sezione CSS dei
 Layout
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\passweb_dimensionamento_font.bmp](./assets/media/image54.png)
+![](./assets/media/image54.png)
 

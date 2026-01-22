@@ -38,7 +38,7 @@ A livello tecnico lo Style Editor altro non è se non un editor visuale
 per l'impostazione delle proprietà CSS dei vari tag HTML presenti
 all'interno della pagina web
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\style_editor8_res.bmp](./assets/media/image2.png)
+![](./assets/media/image2.png)
 
 Si tratterà quindi, molto semplicemente, di selezionare la specifica
 scatola su cui intervenire dunque lo specifico Contenitore piuttosto che
@@ -48,7 +48,7 @@ intervenire e agire poi sulla specifica proprietà grafica che si
 desidera effettivamente modificare (es. dimensione, posizionamento,
 allineamento, colore, bordi, sfondo ecc).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\style_editor9_res.bmp](./assets/media/image3.png)
+![](./assets/media/image3.png)
 
 **ATTENZIONE!** I Contenitori e i Componenti potranno essere selezionati
 direttamente all'interno della pagina web dipendentemente dal fatto di
@@ -63,7 +63,7 @@ corrispondente elemento all'interno della pagina web con un apposito
 bordo tratteggiato in maniera tale da avere ben chiaro il Contenuto su
 cui si andrà effettivamente ad agire.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\style_editor10_res.bmp](./assets/media/image4.png)
+![](./assets/media/image4.png)
 
 Per maggiori informazioni relativamente all'utilizzo dello Style Editor
 si veda anche la sezione *"Live Editing per Varianti Responsive -- Style
@@ -79,5 +79,5 @@ gestione di diversi Layout piuttosto che di diverse Varianti.
 Ciascuna di queste funzioni è accessibile direttamente dalla
 corrispondente voce del menu "**Editing**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_editing_res.bmp](./assets/media/image5.png)
+![](./assets/media/image5.png)
 

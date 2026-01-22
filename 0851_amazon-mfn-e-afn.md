@@ -145,7 +145,7 @@ modalità "**Gestito dal Venditore**" e, in conseguenza di ciò, potranno
 essere visualizzati, nella seller central di Amazon, all'interno della
 sezione "*Inventario -- Gestisci il tuo inventario*"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\amazon_MFN.bmp](./assets/media/image275.png)
+![](./assets/media/image275.png)
 
 Nel momento in cui l'esigenza dovesse invece essere quella di portare un
 determinato articolo pubblicato sul Marketplace in modalità "**Gestito
@@ -161,7 +161,7 @@ da Amazon**" sarà necessario:
   maschera "Dati Articolo nella Lista di Vendita" sul valore "**Gestito
   da Amazon**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_AFN.bmp](./assets/media/image276.png)
+![](./assets/media/image276.png)
 
 - Pubblicare nuovamente l'articolo all'interno del Marketplace
 
@@ -172,12 +172,12 @@ seller central di Amazon, sia all'interno della sezione "*Inventario --
 Gestisci il tuo inventario*", dove però in corrispondenza della colonna
 "Gestito da" avremo ora la dicitura "Amazon"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\amazon_AFN_1.bmp](./assets/media/image277.png)
+![](./assets/media/image277.png)
 
 sia all'interno della sezione "*Inventario -- Gestisci inventario
 logistica di Amazon*"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\amazon_AFN_2.bmp](./assets/media/image278.png)
+![](./assets/media/image278.png)
 
 **ATTENZIONE! Per gestire un articolo in modalità AFN è necessario per
 prima cosa pubblicarlo in modalità MFN, successivamente cambiarne la

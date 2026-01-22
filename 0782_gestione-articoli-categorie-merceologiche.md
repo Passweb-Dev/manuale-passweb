@@ -22,7 +22,7 @@ attiveranno, nella contestuale barra degli strumenti determinati
 pulsanti attraverso i quali poter gestire, in maniera manuale o
 automatica, questo tipo di informazioni
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_catalogo3.bmp](./assets/media/image168.png)
+![](./assets/media/image168.png)
 
 Selezionando invece la cartella radice ("**Catalogo Ecommerce**")
 comparirà un ulteriore pulsante mediante il quale poter convertire
@@ -40,7 +40,7 @@ barra degli strumenti.
 In questo modo verrà infatti visualizzata la maschera "**Modifica
 Categoria Articolo**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_categoria_articolo2.bmp](./assets/media/image169.png)
+![](./assets/media/image169.png)
 
 suddivisa in tre distinte sezioni, "**Informazioni Generali**", "**Seo
 -- SiteMap**" e "**Marketplace**"
@@ -51,7 +51,7 @@ I parametri presenti all'interno della sezione **Informazioni Generali**
 consentono di gestire informazioni di carattere descrittivo per la
 relativa Categoria Merceologica.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_categoria_articolo2.bmp](./assets/media/image169.png)
+![](./assets/media/image169.png)
 
 Nello specifico il campo:
 
@@ -69,9 +69,9 @@ Nello specifico il campo:
 > inizialmente, è prelevato direttamente dal campo "**Descrizione**"
 > della relativa anagrafica della categoria merceologica del gestionale
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\anagrafica_gruppo_merceologico.bmp](./assets/media/image170.png)
+![](./assets/media/image170.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\horeca_anagrafica_gruppo_merceologico.bmp](./assets/media/image171.png)
+![](./assets/media/image171.png)
 
 > **NOTA BENE:** a differenza del valore in italiano, il "Nome Pagina"
 > in lingua può essere gestito e variato solo ed esclusivamente
@@ -85,7 +85,7 @@ Nello specifico il campo:
 > sincronizzazione"** del Wizard (per maggiori informazioni in merito si
 > veda la corrispondente sezione di questo manuale)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sincronizzazione_categorie_merceologiche.bmp](./assets/media/image172.png)
+![](./assets/media/image172.png)
 
 > **NOTA BENE:** nel caso in cui sia stato selezionato il parametro
 > **"Tabella Categorie Merceologiche"** sopra evidenziato, il valore
@@ -189,7 +189,7 @@ di aggiornamento.
 essere visualizzati, ma in sola lettura, anche dalle proprietà della
 corrispondente Pagina Catalogo**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\seo_categoria.bmp](./assets/media/image173.png)
+![](./assets/media/image173.png)
 
 Nello specifico il campo:
 
@@ -271,7 +271,7 @@ Nello specifico il campo:
 > definizione del meta tag, dei segnaposto che verranno poi valorizzati
 > automaticamente da Passweb.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\anagrafica_categoria2.bmp](./assets/media/image174.png)
+![](./assets/media/image174.png)
 
 > Sono gestiti i seguenti segnaposto:
 
@@ -352,7 +352,7 @@ Passweb ed uno dei marketplace gestiti (Google, Facebook, Magento
 Prestashop ecc...) si veda anche la sezione *"Marketplace -- Altri
 Marketplace"* di questo manuale
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\categoria_merceologica_marketplace.bmp](./assets/media/image175.png)
+![](./assets/media/image175.png)
 
 I campi presenti all'interno di questa sezione consentono quindi di:
 
@@ -402,7 +402,7 @@ I campi presenti all'interno di questa sezione consentono quindi di:
 > comparirà quindi un nuovo campo ad autocompletamento mediante il quale
 > poter selezionare un ulteriore categoria.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\categoria_merceologica_marketplace2.bmp](./assets/media/image176.png)
+![](./assets/media/image176.png)
 
 > Inoltre considerando che **l'integrazione Passweb -- Magento lavora a
 > livello di singola Store View** (e quindi a livello di singola lingua)
@@ -484,7 +484,7 @@ sinistra della maschera "Gestione Articoli" e cliccare poi sul pulsante
 "**Risorse**" in maniera tale da accedere alla maschera di gestione
 delle due immagini.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\immagine_categoria.bmp](./assets/media/image177.png)
+![](./assets/media/image177.png)
 
 All'interno di questa maschera, la sezione:
 
@@ -528,7 +528,7 @@ Generali" precedentemente analizzata.
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 "**File Dati Categorie**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_categorie_importazione_dati1.bmp](./assets/media/image178.png)
+![](./assets/media/image178.png)
 
 all'interno della quale poter configurare l'importazione dei dati in
 oggetto. In particolare il campo
@@ -703,7 +703,7 @@ Tale messaggio potrà inoltre essere consultato anche all'interno della
 sezione "Posta/SMS -- Log Mail" del Wizard.
 
 Il pulsante **Esporta**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_esporta_testo.bmp](./assets/media/image136.png) ) consente invece di esportare **in
+(![](./assets/media/image136.png) ) consente invece di esportare **in
 formato .csv** l'elenco delle Categorie Merceologiche attualmente
 gestite all'interno del proprio sito con le relative informazioni
 anagrafiche.
@@ -712,7 +712,7 @@ Cliccando su questo pulsante verrà visualizzata la maschera
 "**Esportazione Dati Categorie**" all'interno della quale poter
 configurare l'esportazione dei dati.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_categorie_esportazione_dati.bmp](./assets/media/image179.png)
+![](./assets/media/image179.png)
 
 Nel caso di sito in multilingua è possibile selezionare, tra quelle
 attualmente gestite, la lingua in relazione alla quale dovranno essere
@@ -745,7 +745,7 @@ Articoli",
 In questo modo verrà infatti visualizzata la maschera "**File Risorse
 Categorie**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\categorie_importazione_immagini1.bmp](./assets/media/image180.png)
+![](./assets/media/image180.png)
 
 all'interno della quale poter indicare **il percorso di un file .zip**
 appositamente creato e contenente tutte le Immagini da associare alle
@@ -832,10 +832,10 @@ verranno importate.
 ##### CONVERSIONE IMMAGINI IN FORMATO WEBP
 
 Il pulsante **Converti in .webp** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_converti_webp.bmp](./assets/media/image181.png) ) visibile solo selezionando la cartella radice
+![](./assets/media/image181.png) ) visibile solo selezionando la cartella radice
 "**Catalogo Ecommerce**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\img_articoli_conversione_webp.bmp](./assets/media/image182.png)
+![](./assets/media/image182.png)
 
 consente di avviare manualmente la procedura di conversione in formato
 .webp **di tutte le immagini relative ad articoli e categorie
@@ -844,7 +844,7 @@ merceologiche** gestite all'interno del sito.
 Cliccando su questo pulsante verrà quindi visualizzata la maschera
 "**Conversione in .webp**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\conversione_webp_articoli.bmp](./assets/media/image183.png)
+![](./assets/media/image183.png)
 
 all'interno della quale poter impostare la qualità da utilizzare nel
 processo di conversione (ovviamente più alto sarà il grado di qualità

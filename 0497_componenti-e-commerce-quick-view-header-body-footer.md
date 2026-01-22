@@ -6,7 +6,7 @@ I componenti "**Quick View Header**", "**Quick View Body**", "**Quick
 View Footer**" possono essere utilizzati solo ed esclusivamente
 all'interno del componente "Quick View"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\quickview_aggiunta_componenti_res.bmp](./assets/media/image65.png)
+![](./assets/media/image65.png)
 
 e consentono di suddividere la finestra modale, utilizzata per
 visualizzare questa particolare tipologia di componenti, in tre distinte
@@ -38,7 +38,7 @@ Rilasciando uno di questi Componenti nella posizione desiderata
 all'interno della pagina, verrà visualizzata **la sua maschera di
 gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\quick_view_configurazione.bmp](./assets/media/image583.png)
+![](./assets/media/image583.png)
 
 suddivisa in varie sezioni.
 

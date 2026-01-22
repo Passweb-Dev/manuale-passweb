@@ -113,7 +113,7 @@ In questo senso è subito bene chiarire che un contenitore GTM di tipo
 server altro non è semplicemente se non una nuova tipologia di
 contenitore configurabile e attivabili in Google Tag Manager
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_163.bmp](./assets/media/image162.png)
+![](./assets/media/image162.png)
 
 Ha i classici elementi di un qualsiasi altro contenitore GTM quindi Tag,
 Attivatori, Variabili, Modelli e Cartelle anche se ognuno di questi
@@ -126,14 +126,14 @@ che abbiamo già visto ed esaminato per un normale contenitore web anche
 se, allo stato attuale, la scelta tra i Tag o gli Attivatori disponibili
 ed utilizzabili è ancora piuttosto limitata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_ss_29.bmp](./assets/media/image163.png)
+![](./assets/media/image163.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_ss_30.bmp](./assets/media/image164.png)
+![](./assets/media/image164.png)
 
 Oltre a questi elementi in un contenitore GTM di tipo server troveremo
 poi una nuova entità, i cosiddetti **Client**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_ss_16.bmp](./assets/media/image157.png)
+![](./assets/media/image157.png)
 
 che, come precedentemente evidenziato svolgeranno un ruolo fondamentale
 in tutto il sistema server side essendo di fatto gli adattatori che
@@ -151,7 +151,7 @@ nel momento in cui dovessimo implementare sistemi di tracciamento server
 side diversi da GA4 ma, come per i Tag o gli Attivatori, al momento le
 possibilità offerte sono ancora piuttosto limitate
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_ss_31.bmp](./assets/media/image165.png)
+![](./assets/media/image165.png)
 
 Chiariti questi concetti di carattere generale relativi a contenitore
 GTM di tipo server vediamo ora più nei dettagli come poterne
@@ -161,13 +161,13 @@ effettivamente creare uno
     e cliccare sul pulsante raffigurante un piccolo + posto in alto a
     destra della sezione "Contenitore"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_162.bmp](./assets/media/image166.png)
+![](./assets/media/image166.png)
 
 2.  Assegnare un nome al contenitore che si intende creare, selezionare
     come piattaforma di destinazione l'opzione "**Server**" e cliccare
     sul pulsante "**Crea**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_163.bmp](./assets/media/image162.png)
+![](./assets/media/image162.png)
 
 3.  Ora quello che stiamo creando è un Contenitore Server (diverso da un
     "tradizionale" Contenitore GTM Web) per cui ci verrà chiesto di
@@ -183,7 +183,7 @@ effettivamente creare uno
 > presente all'interno del campo "**Configurazione del contenitore**"
 > evidenziato in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_ss_21.bmp](./assets/media/image167.png)
+![](./assets/media/image167.png)
 
 > **ATTENZIONE!** il valore del campo evidenziato in figura ci servirà
 > poi in fase di configurazione del Contenitore Server su stape.io
@@ -221,15 +221,15 @@ server deputato ad ospitare il nostro nuovo contenitore GTM
 > account in maniera tale da aderire al piano free (generalmente l'unico
 > dato richiesto per fare ciò è un indirizzo mail valido)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\stape_1.bmp](./assets/media/image168.png)
+![](./assets/media/image168.png)
 
 > Una volta inserito l'indirizzo verrà inviata alla casella indicata una
 > mail per confermare la creazione dell'account e impostare così la
 > propria password di accesso
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\stape_2.bmp](./assets/media/image169.png)
+![](./assets/media/image169.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\stape_3.bmp](./assets/media/image170.png)
+![](./assets/media/image170.png)
 
 2.  Una volta completata la creazione dell'account verremo
     automaticamente ricondotti alla Dashboard di stape e potremo quindi
@@ -239,13 +239,13 @@ server deputato ad ospitare il nostro nuovo contenitore GTM
 > Cliccare quindi sul pulsante "**Create Container**" presente in
 > corrispondenza del box "**Recent GTM Containers**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\stape_4.bmp](./assets/media/image171.png)
+![](./assets/media/image171.png)
 
 3.  Completare la creazione del Container compilando i campi richiesti
     come nella figura di seguito riportata e cliccare poi sul pulsante
     "**Create**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\stape_5.bmp](./assets/media/image172.png)
+![](./assets/media/image172.png)
 
 - **Name**: consente di assegnare un nome al container che stiamo
   creando
@@ -255,7 +255,7 @@ server deputato ad ospitare il nostro nuovo contenitore GTM
   di tipo Server che abbiamo creato al punto 3 del precedente capitolo
   di questo manuale
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_ss_21.bmp](./assets/media/image167.png)
+![](./assets/media/image167.png)
 
 - **Server location**: consente di indicare dove dovrà essere gestito il
   server che andremo a creare. In questo senso, in ottemperanza anche
@@ -286,20 +286,20 @@ server deputato ad ospitare il nostro nuovo contenitore GTM
     perché, come precedentemente evidenziato, ci servirà per completare
     la configurazione del contenitore GTM di tipo Server
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\stape_6.bmp](./assets/media/image173.png)
+![](./assets/media/image173.png)
 
 5.  Tornare quindi nell'interfaccia di amministrazione del nostro
     contenitore server di GTM e cliccare sulla voce "**Impostazioni
     Contenitore**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\stape_7.bmp](./assets/media/image174.png)
+![](./assets/media/image174.png)
 
 6.  Inserire all'interno del campo "**URL contenitore del server**"
     l'indirizzo assegnato su stape.io al nostro server (campo "**Tagging
     Server URL**" evidenziato al punto 4) e cliccare sul pulsante
     "**Salva**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\stape_8.bmp](./assets/media/image175.png)
+![](./assets/media/image175.png)
 
 ##### AGGIUNGERE UN DOMINIO PERSONALIZZATO AL CONTENITORE GTM SERVER SIDE SU STAPE.IO
 
@@ -353,7 +353,7 @@ Nel momento in cui dovessimo decidere di optare per la prima soluzione
 del server per poi visualizzare l' url ad esso associato all'interno del
 campo **Tagging Server URL**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_ss_22.bmp](./assets/media/image176.png)
+![](./assets/media/image176.png)
 
 In queste condizioni, come si può facilmente notare l' url associato al
 server sarà però un sottodominio del dominio principale della
@@ -366,7 +366,7 @@ Nel momento in cui volessimo invece optare per la seconda soluzione
 attivare, in fase di configurazione del server stape, il parametro
 **Custom domain** come evidenziato in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\stape_9.bmp](./assets/media/image177.png)
+![](./assets/media/image177.png)
 
 inserendo quindi il dominio di terzo livello che intendiamo utilizzare
 all'interno del campo "**Domain name**", e cliccare poi sul pulsante
@@ -381,7 +381,7 @@ In base alla zona impostata all'interno del campo "**Servers Location**"
 Stape ci fornirà anche l'indirizzo IP cui dovremo poi puntare il dominio
 di terzo livello che abbiamo deciso di utilizzare (campo "**Value**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\stape_10.bmp](./assets/media/image178.png)
+![](./assets/media/image178.png)
 
 A questo punto quindi dovremo accedere al pannello di gestione del
 nostro dominio (o rivolgerci al provider presso cui abbiamo registrato
@@ -408,7 +408,7 @@ Per fare questo sarà quindi sufficiente aprire nuovamente le
 impostazioni del nostro contenitore GTM Server e inserire il dominio di
 terzo livello all'interno del campo "**URL contenitore del server**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\stape_11.bmp](./assets/media/image179.png)
+![](./assets/media/image179.png)
 
 **ATTENZIONE!** E' necessario verificare sempre che anche le
 impostazioni del tag di tracciamento di GA4 (direttamente su Tag Manager

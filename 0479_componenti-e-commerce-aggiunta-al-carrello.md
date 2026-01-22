@@ -4,7 +4,7 @@
 
 Il Componente **"Aggiunta al Carrello"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_aggiungi_carrello.bmp](./assets/media/image478.png)
+![](./assets/media/image478.png)
 
 consente di inserire all'interno del corrispondente Componente Ecommerce
 di primo livello (es. Catalogo Ecommerce, Popolarità Prodotto, Scheda
@@ -13,7 +13,7 @@ quantità dello specifico articolo che si intende acquistare (campo
 quantità, pulsanti incrementali ecc...) e per poter inserire l'articolo
 stesso in Carrello (pulsante Aggiungi)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_aggiungi_carrello.bmp](./assets/media/image479.png)
+![](./assets/media/image479.png)
 
 > **NOTA BENE:** nel caso in cui ad effettuare l'ordine sia un Agente
 > (Ecommerce Mexal) il componente "Aggiungi al Carrello" verrà
@@ -23,7 +23,7 @@ stesso in Carrello (pulsante Aggiungi)
 Rilasciando il Componente nella posizione desiderata verrà visualizzata
 **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_aggiungi_carrello_configurazione_res.bmp](./assets/media/image480.png)
+![](./assets/media/image480.png)
 
 suddivisa in varie sezioni.
 
@@ -72,14 +72,14 @@ possibile impostare un valore per i seguenti parametri:
   fatto che nella stessa pagina sia presente o meno anche il componente
   Carrellino).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\messaggio_aggiungi_carrello_res.bmp](./assets/media/image481.png)
+![](./assets/media/image481.png)
 
 > **ATTENZIONE**! Il messaggio di notifica può essere personalizzato
 > inserendo l'apposito codice HTML all'interno del campo "**Aggiunta**"
 > presente nella sezione "Gestione Testi / Messaggi del Sito" in
 > corrispondenza del componente "**Aggiunta al Carrello**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\messaggio_aggiungi_carrello_personalizzazione.bmp](./assets/media/image482.png)
+![](./assets/media/image482.png)
 
 > In relazione a quelli che sono i contenuti del pop up di aggiunta in
 > carrello occorre poi sottolineare che le quantità ed il subtotale
@@ -105,7 +105,7 @@ possibile impostare un valore per i seguenti parametri:
 > pari a 38.61€ in quantità 2, in entrambi i casi verrà visualizzato un
 > pop up del tipo di quello di seguito riportato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\popup_aggiunta_carrello_nuova_riga.bmp](./assets/media/image483.png)
+![](./assets/media/image483.png)
 
 > in cui cioè la quantità indicata sarà sempre pari a 2 e il subtotale
 > sarà sempre pari a 77.22€ (2 x 38.61)
@@ -242,9 +242,9 @@ possibile impostare un valore per i seguenti parametri:
   la selezione della specifica taglia /colore, rispetto a quelli per
   l'inserimento delle quantità, secondo uno schema prestabilito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\posizionamento_campi_minimal_esteso1.bmp](./assets/media/image484.png)
+![](./assets/media/image484.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\posizionamento_campi_minimal_esteso2.bmp](./assets/media/image485.png)
+![](./assets/media/image485.png)
 
 > Il fatto di visualizzare, all'interno di componenti di primo livello,
 > come ad esempio il Catalogo Ecommerce, i controlli minimali o estesi
@@ -381,7 +381,7 @@ In relazione al componente in esame va infine considerate anche che:
   attualmente ricevuta, per il relativo articolo, dal gestore della
   lista.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\agg_carrello_lista_regalo.bmp](./assets/media/image486.png)
+![](./assets/media/image486.png)
 
 > **In queste condizioni, inoltre, la quantità visualizzata a default
 > nel campo di input sarà data dalla differenza tra la quantità
@@ -423,7 +423,7 @@ fare le seguenti considerazioni:
   Taglie e Colori*" del Wizard e relativo ovviamente alla serie di
   taglie/colori cui appartiene lo specifico articolo.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\grafica_negozio.bmp](./assets/media/image487.png)
+![](./assets/media/image487.png)
 
 > Dipendentemente dunque dalle impostazioni di questo parametro, per
 > questo tipo di articoli sarà possibile **visualizzare**
@@ -462,5 +462,5 @@ fare le seguenti considerazioni:
   all'interno del gestionale (**Ecommerce Mexal**) o nella sua
   Anagrafica Passweb (**Ecommerce Ho.Re.Ca.**)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_decimali_quantita.bmp](./assets/media/image488.png)
+![](./assets/media/image488.png)
 

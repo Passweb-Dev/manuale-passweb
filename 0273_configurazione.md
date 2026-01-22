@@ -5,7 +5,7 @@
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componenti-galleriaImmagini_desktop_res.bmp](./assets/media/image80.png)
+![](./assets/media/image80.png)
 
 suddivisa in varie sezioni.
 
@@ -83,7 +83,7 @@ da utilizzare. E' possibile selezionare una delle seguenti opzioni:
   dimensioni (altezza e larghezza) mantenendo comunque sempre le stesse
   distanze l'una dall'altra
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\galleria_immagini_mansory.bmp](./assets/media/image82.png)
+![](./assets/media/image82.png)
 
 > Come si può notare dalla figura sopra riportata, in queste condizioni
 > non è quindi strettamente necessario che tutte le immagini abbiano

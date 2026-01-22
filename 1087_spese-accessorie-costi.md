@@ -26,7 +26,7 @@ Costi**" presente nella contestuale barra degli strumenti.
 Verrà quindi visualizzata la maschera "**Lista dei Costi -- Nome
 Spesa**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_costi.bmp](./assets/media/image426.png)
+![](./assets/media/image426.png)
 
 contenente l'elenco dei costi attualmente associati alla spesa in esame.
 
@@ -34,21 +34,21 @@ I pulsanti presenti nella contestuale barra degli strumenti consentono
 rispettivamente di:
 
 **Elimina Costo** **(**
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_costo.bmp](./assets/media/image427.png) **):** consente di eliminare il costo attualmente
+![](./assets/media/image427.png) **):** consente di eliminare il costo attualmente
 selezionato in elenco
 
 **Modifica Costo**
-**(**![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_costo.bmp](./assets/media/image428.png) **):** consente di modificare la
+**(**![](./assets/media/image428.png) **):** consente di modificare la
 configurazione del costo attualmente selezionato in elenco
 
 **Aggiungi Costo**
-**(**![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_costo.bmp](./assets/media/image429.png) **):** consente di codificare un nuovo
+**(**![](./assets/media/image429.png) **):** consente di codificare un nuovo
 costo da associare alla spesa in esame.
 
 Cliccando su questo pulsante verrà quindi visualizzata la maschera
 "**Configurazione del Costo -- Nome Spesa**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_costo.bmp](./assets/media/image430.png)
+![](./assets/media/image430.png)
 
 all'interno della quale poter specificare tutti i parametri di
 configurazione del costo che si intende codificare.

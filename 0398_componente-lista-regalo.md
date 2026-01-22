@@ -46,7 +46,7 @@ questo manuale.
 
 Il componente "**Lista Regalo**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_lista_regalo.bmp](./assets/media/image219.png)
+![](./assets/media/image219.png)
 
 **per sua stessa natura, può quindi essere inserito unicamente
 all'interno dell'omonima pagina** ed è di fondamentale importanza in

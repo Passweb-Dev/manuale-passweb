@@ -8,7 +8,7 @@ essere ricondotti gli utenti che dovessero richiedere il recupero
 Password cliccando, ad esempio, sul link presente all'interno della mail
 di recupero.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagina_cambio_password_res.bmp](./assets/media/image40.png)
+![](./assets/media/image40.png)
 
 **ATTENZIONE! Affinchè la procedura di recupero Password possa andare a
 buon fine è indispensabile inserire all'interno della pagina indicata il

@@ -54,7 +54,7 @@ In questo senso si potrebbe pensare, ad esempio, di utilizzare il
 classico QR Code o un pulsante Whatsapp da inserire all'interno di
 un'apposita pagina del sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\wa_smart_punti_ingresso.bmp](./assets/media/image18.png)
+![](./assets/media/image18.png)
 
 Scansionano il QR Code o cliccando sul pulsante, l'utente potrà avviare
 la comunicazione con l'azienda e ricevere automaticamente un primo
@@ -103,9 +103,9 @@ Per poter implementare questa opzione sarà sufficiente inserire nei form
 di Registrazione e Profilo Utente un componente "**Campo Checkbox**"
 mappato sul Campo Cliente "**Opt Out Whatsapp**" come in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\privacy_wa_optout_1.bmp](./assets/media/image19.png)
+![](./assets/media/image19.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\privacy_wa_optout_2.bmp](./assets/media/image20.png)
+![](./assets/media/image20.png)
 
 In questo modo gli utenti che non avranno esercitato questa specifica
 opzione, continueranno a ricevere su Whatsapp i messaggi di servizio.

@@ -20,7 +20,7 @@ corretta è però necessario configurare adeguatamente la sezione
 "**Ordini**" presente all'interno della maschera "**Dati Account**" del
 relativo account Magento
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_mkt_3.bmp](./assets/media/image740.png)
+![](./assets/media/image740.png)
 
 Nello specifico dunque i campi presenti all'interno die questa maschera
 consentono rispettivamente di:
@@ -209,7 +209,7 @@ La sezione "**Stati Ordine**", presente all'interno della maschera
 Magento che dovranno essere utilizzati come filtro di importazione sul
 Gestionale.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\magento_stati_ordine.bmp](./assets/media/image780.png)
+![](./assets/media/image780.png)
 
 Nel box di sinistra, presente in corrispondenza del parametro "**Stati
 Ordine Gestiti**", sono elencati i diversi possibili stati in cui può
@@ -258,7 +258,7 @@ La sezione "**Store Ordine**", presente all'interno della maschera
 "**Dati Account / Ordini**", consente di definire quelli che dovranno
 essere gli Store Magento da cui importare gli ordini
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\magento_store_ordine.bmp](./assets/media/image781.png)
+![](./assets/media/image781.png)
 
 Nel box di sinistra, presente in corrispondenza del parametro "**Stores
 Gestiti**", sono elencati i diversi store attualmente attivi sulla
@@ -283,7 +283,7 @@ La sezione "**Parametri Clienti**", presente all'interno della maschera
 parametri di configurazione relativi ad eventuali nuovi clienti
 acquisiti a seguito di ordini effettuati sulla piattaforma terza.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\magento_ordini_parametri_cliente.bmp](./assets/media/image782.png)
+![](./assets/media/image782.png)
 
 **ATTENZIONE!** I nuovi clienti verranno inseriti su Passweb, e
 conseguente sul gestionale Passepartout, contestualmente all'inserimento
@@ -356,7 +356,7 @@ per gestire queste informazioni, i due parametri "Campo Clienti PEC" e
 "Campo Clienti SDI" dovranno essere entrambi impostati, come in figura,
 sullo stesso valore "**Codice SDI / PEC**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\magento_sdi_pec.bmp](./assets/media/image783.png)
+![](./assets/media/image783.png)
 
 Sarà poi Passweb sulla base dell'effettivo valore inserito all'interno
 di questo campo a smistare il dato sul campo gestionale corretto. Nello
@@ -383,7 +383,7 @@ pulsante "**Aggiungi**" evidenziato in figura in maniera tale da far
 comparire i due nuovi campi "**Titolo Pagamento Marketplace**" e
 "**Pagamento gestionale**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\magento_pagamenti_1.bmp](./assets/media/image784.png)
+![](./assets/media/image784.png)
 
 A questo punto all'interno del campo
 
@@ -394,7 +394,7 @@ maschera di configurazione del pagamento Magento (*Store --
 Configuration -- Sales -- Payment Methods*) e copiare quanto indicato
 all'interno del campo "**Title"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\magento_pagamenti_2.bmp](./assets/media/image785.png)
+![](./assets/media/image785.png)
 
 **ATTENZIONE!** Nel caso in cui il valore inserito all'interno del campo
 "**Titolo Pagamento Marketplace**" non coincida esattamente con il
@@ -406,7 +406,7 @@ pagamento non valorizzato.
 dall'apposito menu a tendina il pagamento Mexal / Ho.Re.Ca con cui
 mappare il corrispondente pagamento Magento
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\magento_pagamenti_3.bmp](./assets/media/image786.png)
+![](./assets/media/image786.png)
 
 Ovviamente affinché l'operazione di mapping possa funzionare in maniera
 corretta sarà necessario per prima cosa codificare, per ciascuno dei
@@ -435,7 +435,7 @@ pulsante "**Aggiungi**" evidenziato in figura, in maniera tale da far
 comparire i due nuovi campi "**Codice Corriere Marketplace**" e
 "**Vettore Gestionale**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\magento_vettori_1.bmp](./assets/media/image787.png)
+![](./assets/media/image787.png)
 
 A questo punto all'interno del campo
 
@@ -455,25 +455,25 @@ procedura di seguito indicata:
   selezionare, tra quelli presenti in elenco, un ordine per cui non sono
   ancora state create delle spedizioni
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\magento_vettori_2.bmp](./assets/media/image788.png)
+![](./assets/media/image788.png)
 
 - Cliccare sul pulsante "**Ship**" in maniera tale da avviare la
   procedura per la creazione di una nuova spedizione (che poi non dovrà
   essere necessariamente confermata)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\magento_vettori_3.bmp](./assets/media/image789.png)
+![](./assets/media/image789.png)
 
 - Portarsi all'interno della sezione "*Payment & Shipping Method*" e
   cliccare sul pulsante "**Add Tracking Number**" presente in
   corrispondenza della sotto sezione "*Shipping Information*"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\magento_vettori_4.bmp](./assets/media/image790.png)
+![](./assets/media/image790.png)
 
 - A questo punto il campo "**Carrier**" presente nel piccolo form di
   aggiunta del tracking number, conterrà l'elenco dei corrieri
   utilizzabili per creare la spedizione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\magento_vettori_5.bmp](./assets/media/image791.png)
+![](./assets/media/image791.png)
 
 - Per ottenere i codici corriere necessari per effettuare l'operazione
   di mappatura con i vettori gestionali, sarà necessario ispezionare il
@@ -483,12 +483,12 @@ procedura di seguito indicata:
   cliccare con il pulsante destro e selezionare dal menu contestuale la
   voce "**Ispeziona**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\magento_vettori_6.bmp](./assets/media/image792.png)
+![](./assets/media/image792.png)
 
 - Espandendo quindi la select evidenziata nel codice sorgente della
   pagina avremo a disposizione tutte le informazioni che ci servono
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\magento_vettori_7.bmp](./assets/media/image793.png)
+![](./assets/media/image793.png)
 
 > Nello specifico a ciascuno dei corrieri presenti all'interno del menu
 > a tendina corrisponde una \< option \> all'interno della select
@@ -553,7 +553,7 @@ ovviamente, senza poter agganciare nessuno dei corrieri gestiti su
 questa piattaforma. Nello specifico la spedizione verrà quindi creata
 con il campo "Carrier" impostato su "**Custom Value**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\magento_vettori_8.bmp](./assets/media/image794.png)
+![](./assets/media/image794.png)
 
 ##### FATTURA
 
@@ -583,7 +583,7 @@ Interscambio (SdI)
 Nel caso specifico di Magento tale informazioni può essere inserita
 all'interno del campo "**Nota sulla Fattura**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\magento_note_fattura.bmp](./assets/media/image795.png)
+![](./assets/media/image795.png)
 
 Il pulsante "**Aggiungi Segnaposto**" consente di personalizzare il
 messaggio inserendo al suo interno l'elemento {number}, elemento questo
@@ -596,5 +596,5 @@ documento preoccupandosi anche di selezionare l'opzione "**Visible on
 Storefront**" in maniera tale d rendere il commento visibile anche sul
 front end del sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\magento_commento_fattura.bmp](./assets/media/image796.png)
+![](./assets/media/image796.png)
 

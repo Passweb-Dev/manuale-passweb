@@ -17,7 +17,7 @@ MailChimp, sarà poi possibile decidere di visualizzarlo con un pop up
 oppure utilizzando uno dei Widget messi a disposizione direttamente da
 MailChimp
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mailchimp_metodi_integrazione_form.bmp](./assets/media/image36.png)
+![](./assets/media/image36.png)
 
 In ogni caso, in queste condizioni, la gestione del form è demandata
 direttamente alla piattaforma terza (per maggiori informazioni
@@ -29,7 +29,7 @@ primo livello "Iscrizione Newsletter" impostando i parametri di
 configurazione "**Tipo di Integrazione**" e "**Tipologia Form**"
 rispettivamente sui valori "**MailChimp**" e "**Iscrizione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_iscrizione_newsletter_mailchimp.bmp](./assets/media/image37.png)
+![](./assets/media/image37.png)
 
 In queste condizioni, impostati correttamente anche tutti gli altri
 parametri di configurazione, al salvataggio del componente

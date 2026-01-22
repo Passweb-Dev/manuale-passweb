@@ -7,7 +7,7 @@ La sezione "**Zone Tasse**" consente di specificare le zone geografiche
 corrispondenza delle quali dover effettivamente applicare la tassa che
 si sta codificando
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_tassa_3.bmp](./assets/media/image449.png)
+![](./assets/media/image449.png)
 
 Ovviamente affinché la tassa in esame possa essere correttamente
 applicata sarà necessario codificare almeno una Zona che possa
@@ -36,18 +36,18 @@ I pulsanti presenti nella barra degli strumenti della sezione "Zona
 Tasse" consentono rispettivamente:
 
 **Modifica Zona**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_area.bmp](./assets/media/image297.png) ): consente di modificare la Zona
+(![](./assets/media/image297.png) ): consente di modificare la Zona
 attualmente selezionata in elenco
 
 **Elimina Zona**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_area.bmp](./assets/media/image298.png) ): consente di eliminare la Zona
+(![](./assets/media/image298.png) ): consente di eliminare la Zona
 attualmente selezionata in elenco
 
 **Svuota** ( ) consente invece di eliminare in blocco tutte le Zone
 attualmente presenti in elenco.
 
 **Aggiungi Zona**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_area.bmp](./assets/media/image300.png) ): consente di codificare una nuova Zona
+(![](./assets/media/image300.png) ): consente di codificare una nuova Zona
 geografica. In questo senso è bene sottolineare subito che:
 
 - per Tasse addizionali (**Tipologia di Tassa = Tassa Extra**) sarà
@@ -61,7 +61,7 @@ geografica. In questo senso è bene sottolineare subito che:
 Cliccando sul pulsante "Aggiungi Zona" verrà quindi visualizzata la
 maschera "**Configurazione Zona**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tasse_configurazione_zona.bmp](./assets/media/image450.png)
+![](./assets/media/image450.png)
 
 all'interno della quale poter associare una specifica etichetta (campo
 **Nome**) alla Zona che si sta codificando.
@@ -70,7 +70,7 @@ Fatto questo sarà poi necessario associare a questa stessa zona una o
 più aree geografiche agendo all'interno della sezione "**Aree di
 Spedizione**".
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tasse_aree_geografiche.bmp](./assets/media/image451.png)
+![](./assets/media/image451.png)
 
 In questo senso sarà possibile agire in maniera inclusiva, andando
 quindi ad includere una ad una tutte le aree geografiche da associare
@@ -115,14 +115,14 @@ pulsanti presenti nella barra degli strumenti della sezione "Aree di
 Spedizione", pulsanti questi che consentono rispettivamente di:
 
 **Italia** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_italia.bmp](./assets/media/image303.png) ) **-- solo per "Tipologia Tassa = Tassa
+![](./assets/media/image303.png) ) **-- solo per "Tipologia Tassa = Tassa
 Extra"** -- Consente di associare alla zona che si sta codificando una
 specifica area geografica all'interno della nazione Italia.
 
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 "**Configurazione Italia**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_italia.bmp](./assets/media/image304.png)
+![](./assets/media/image304.png)
 
 all'interno della quale sarà necessario indicare un valore per i
 seguenti parametri:
@@ -151,7 +151,7 @@ all'interno della quale poter differenziare ulteriormente in base ai
 singoli codici di avviamento postale (**utile soprattutto nel caso in
 cui sia necessario gestire i "C.A.P." disagiati**)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_italia_2.bmp](./assets/media/image305.png)
+![](./assets/media/image305.png)
 
 Per aggiungere un nuovo C.A.P. sarà sufficiente indicarlo all'interno
 dell'apposito campo e confermare poi da tastiera con il pulsante
@@ -244,7 +244,7 @@ dall'Italia.
 Cliccando su questo pulsante verrà visualizzata la maschera
 "**Configurazione Paesi Esteri**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_paesi_esteri.bmp](./assets/media/image307.png)
+![](./assets/media/image307.png)
 
 all'interno della quale sarà necessario indicare un valore per i
 seguenti parametri:
@@ -279,14 +279,14 @@ dei caratteri effettivamente presenti nel relativo codice di avviamento
 postale.
 
 **Nazioni** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nazioni.bmp](./assets/media/image308.png) ): consente di associare alla zona che si
+![](./assets/media/image308.png) ): consente di associare alla zona che si
 sta codificando un'area geografica relativa ad un'intera Nazione
 (comunque diversa dall'Italia).
 
 Cliccando su questo pulsante verrà visualizzata la maschera
 "**Configurazione Nazioni**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_nazioni.bmp](./assets/media/image309.png)
+![](./assets/media/image309.png)
 
 all'interno della quale sarà necessario indicare un valore per i
 seguenti parametri:
@@ -316,14 +316,14 @@ sufficiente selezionarla dall'elenco di destra e cliccare poi sul
 pulsante raffigurante la piccola freccia rossa rivolta verso sinistra
 
 **Importa da file**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_importa_da_file.bmp](./assets/media/image388.png) ): consente di definire le varie aree
+(![](./assets/media/image388.png) ): consente di definire le varie aree
 geografiche da associare alla zona di spedizione in esame importandole
 in blocco da un file di tipo txt o csv appositamente formattato.
 
 Cliccando su questo pulsante verrà infatti visualizzata un'ulteriore
 sezione "**Importazione Aree da File**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\importazione_aree_da_file.bmp](./assets/media/image310.png)
+![](./assets/media/image310.png)
 
 all'interno della quale poter selezionare (campo **File**), importandolo
 ad esempio dal proprio pc, il file .txt o .csv con indicate tutte le
@@ -427,14 +427,14 @@ Viserbella.
 zone geografiche distinte unicamente in base alla Nazione
 
 **Esporta** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_esporta_testo.bmp](./assets/media/image311.png) ): consente di esportare all'interno di
+![](./assets/media/image311.png) ): consente di esportare all'interno di
 un file csv, nello stesso formato valido anche per l'importazione,
 l'elenco di tutte le aree geografiche attualmente presenti in elenco.
 
 Cliccando su questo pulsante verrà infatti visualizzata un'ulteriore
 sezione "**Esportazione Aree**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\esportazione_aree.bmp](./assets/media/image312.png)
+![](./assets/media/image312.png)
 
 all'interno della quale poter indicare il carattere separatore che dovrà
 essere utilizzato in fase di creazione del file csv.
@@ -443,10 +443,10 @@ Il pulsante "**Salva**" presente nella parte bassa della maschera
 consente di avviare la procedura di esportazione
 
 **Elimina Area** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_zona_geografica.bmp](./assets/media/image313.png) ): consente di eliminare l'area
+![](./assets/media/image313.png) ): consente di eliminare l'area
 geografica attualmente selezionata in elenco
 
 **Svuota** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_svuota_area.bmp](./assets/media/image299.png) ): consente di eliminare in blocco tutte le aree
+![](./assets/media/image299.png) ): consente di eliminare in blocco tutte le aree
 geografiche associate alla zona in esame
 

@@ -54,7 +54,7 @@ querystring e corrispondente link di filtraggio:
 4.  Utilizzare il pannello di ricerca per impostare e applicare il
     filtro desiderato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\querystring_ricerca_testuale_1.bmp](./assets/media/image201.png)
+![](./assets/media/image201.png)
 
 > Nell'esempio in figura è stato impostato un filtro di ricerca testuale
 > sulla stringa "supporto"
@@ -64,13 +64,13 @@ querystring e corrispondente link di filtraggio:
     una piccola icona "**Copia**" grazie alla quale poter ottenere la
     querystring corrispondente al filtro appena impostato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\querystring_ricerca_testuale_2.bmp](./assets/media/image202.png)
+![](./assets/media/image202.png)
 
 6.  Cliccare quindi sull'icona "**Copia**" per copiare nella Clipboard
     (Appunti) la relativa querystring ed incollarla in un qualsiasi
     editor di testo
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\querystring_ricerca_testuale_3.bmp](./assets/media/image203.png)
+![](./assets/media/image203.png)
 
 > A questo punto per ottenere il link di filtraggio automatico sarà
 > sufficiente **unire il percorso della pagina del sito in cui è
@@ -92,7 +92,7 @@ querystring e corrispondente link di filtraggio:
 > Per far questo e sufficiente visitare questo stesso link inserendolo
 > nella barra degli indirizzi del browser.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\querystring_ricerca_testuale_4.bmp](./assets/media/image204.png)
+![](./assets/media/image204.png)
 
 > **ATTENZIONE!** La pagina del sito utilizzata per costruire il link di
 > filtraggio e a cui verrà quindi applicato il relativo filtro dovrà

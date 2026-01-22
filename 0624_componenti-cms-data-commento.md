@@ -4,7 +4,7 @@
 
 Il Componente **"Data Commento"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cms_commenti_componente_data_res.bmp](./assets/media/image90.png)
+![](./assets/media/image90.png)
 
 può essere inserito solo ed esclusivamente all'interno di un componente
 "**Commenti Associati**" e consente di visualizzare la data di
@@ -14,7 +14,7 @@ A livello di configurazione, una volta inserito il Componente
 all'interno della pagina web, verrà aperta in automatico **la sua
 maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\data_commento_configurazione_res.bmp](./assets/media/image91.png)
+![](./assets/media/image91.png)
 
 suddivisa in varie sezioni.
 

@@ -9,7 +9,7 @@ allegare al form stesso un generico file.
 Rilasciando il componente all'interno del form si aprirà **la sua
 maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_campo_file_res.bmp](./assets/media/image142.png)
+![](./assets/media/image142.png)
 
 suddivisa in varie sezioni.
 

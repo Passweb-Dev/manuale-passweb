@@ -4,13 +4,13 @@
 
 Il Componente **"Aggiunta al Comparatore"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_aggiunta_comparatore_res.bmp](./assets/media/image510.png)
+![](./assets/media/image510.png)
 
 consente di inserire all'interno corrispondente Componente Ecommerce di
 primo livello (es. Catalogo Ecommerce), un pulsante mediante il quale
 poter aggiungere lo specifico articolo al Comparatore.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\componente_ecommerce_aggiungi_comparatore.bmp](./assets/media/image511.png)
+![](./assets/media/image511.png)
 
 Per maggiori informazioni relativamente alla gestione in Passweb del
 componente "Comparatore" si veda anche la relativa sezione di questo
@@ -19,7 +19,7 @@ manuale.
 Rilasciando il Componente nella posizione desiderata verrà visualizzata
 **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\aggiungi_comparatore_configurazione_res.bmp](./assets/media/image512.png)
+![](./assets/media/image512.png)
 
 suddivisa in varie sezioni.
 
@@ -68,14 +68,14 @@ possibile impostare un valore per i seguenti parametri:
   (indipendentemente dal fatto che nella stessa pagina sia presente o
   meno anche il componente Mini Comparatore).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\messaggio_aggiungi_comparatore.bmp](./assets/media/image513.png)
+![](./assets/media/image513.png)
 
 > **ATTENZIONE**! Il messaggio di notifica può essere personalizzato
 > inserendo l'apposito codice HTML all'interno del campo "**Aggiunta**"
 > presente nella sezione "Gestione Testi / Messaggi del Sito" in
 > corrispondenza del componente "**Aggiunta al Comparatore**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\messaggio_aggiungi_comparatore_personalizzazione.bmp](./assets/media/image514.png)
+![](./assets/media/image514.png)
 
 > Nel caso in cui il questo parametro non venga selezionato l'evento
 > utilizzato dall'applicazione per notificare all'utente l'avvenuto

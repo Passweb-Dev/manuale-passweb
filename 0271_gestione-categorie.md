@@ -10,13 +10,13 @@ Categorie**") cui associare questi stessi elementi.
 
 Per definire una nuova categoria è sufficiente cliccare sul relativo
 pulsante di aggiunta (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_aggiungi.bmp](./assets/media/image47.png) ) presente all'interno della sezione
+![](./assets/media/image47.png) ) presente all'interno della sezione
 "**Gestione Categorie**".
 
 In questo modo verrà infatti visualizzato, nella parte destra della
 maschera, il form "**Nuova Categoria**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\store_locator_nuova_categoria.bmp](./assets/media/image75.png)
+![](./assets/media/image75.png)
 
 all'interno del quale poter assegnare, in tutte le lingue gestite
 all'interno del sito, uno specifico nome alla categoria che si intende
@@ -27,10 +27,10 @@ i vari Marker.
 
 Per far questo è sufficiente cliccare sul pulsante "**Associa
 categorie**" (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_associa_categorie.bmp](./assets/media/image76.png) ) in modo tale da visualizzare la
+![](./assets/media/image76.png) ) in modo tale da visualizzare la
 maschera "**Associazione Categorie Marker**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\associazione_categorie_marker.bmp](./assets/media/image77.png)
+![](./assets/media/image77.png)
 
 all'interno della quale poter realizzare le associazioni desiderate.
 
@@ -58,7 +58,7 @@ del componente "Store Locator" comparirà poi, nella colonna "Lista
 Comandi" un apposito menu a tendina contenente l'elenco delle categorie
 precedentemente codificate.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\associazione_categorie_marker_2.bmp](./assets/media/image78.png)
+![](./assets/media/image78.png)
 
 Selezionando una delle categorie presenti in elenco verranno
 automaticamente filtrati, sulla base delle associazioni create, i marker

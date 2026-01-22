@@ -7,7 +7,7 @@ visualizzare l'elenco di tutti i messaggi inviati dall'utente
 attualmente connesso in Area Riservata; per ogni messaggio sono indicati
 il destinatario, l'oggetto e la data.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_messaggi_inviati_passcom.bmp](./assets/media/image43.png)
+![](./assets/media/image43.png)
 
 Per ogni messaggio sono indicati:
 
@@ -22,7 +22,7 @@ Per ogni messaggio sono indicati:
 Come per i messaggi in arrivo, anche in questo caso per visualizzare il
 contenuto di un messaggio inviato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\messaggi_inviati_dettaglio_passcom.bmp](./assets/media/image44.png)
+![](./assets/media/image44.png)
 
 sarà sufficiente:
 

@@ -5,7 +5,7 @@
 Il parametro "**Layout Associato**" presente nella parte alta della
 maschera "**Modifica Variante Sito**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\variante_layout_associato_res.bmp](./assets/media/image22.png)
+![](./assets/media/image22.png)
 
 consente di associare alla Variante in esame uno specifico Layout
 selezionandolo tra quelli attualmente codificati per la Variante stessa.

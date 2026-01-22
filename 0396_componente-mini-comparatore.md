@@ -5,13 +5,13 @@
 Il Componente **"Mini Comparatore"** può essere inserito in una
 qualsiasi pagina del sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_mini_comparatore.bmp](./assets/media/image216.png)
+![](./assets/media/image216.png)
 
 Grazie a questo componente è possibile visualizzare tutta una serie di
 informazioni, aggiornate in tempo reale, relative agli articoli
 attualmente presenti all'interno del Comparatore ad esso collegato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mini_comparatore_esempio_res.bmp](./assets/media/image217.png)
+![](./assets/media/image217.png)
 
 In particolare le informazioni presenti all'interno del componente
 possono essere:

@@ -19,7 +19,7 @@ di Cookiebot (<https://www.cookiebot.com>) sarà necessario:
 > accertarsi di aver impostato la "**Modalità di blocco dei cookie**"
 > (sezione "**I tuoi script**") sull'opzione "**Manuale**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cookiebot_1.bmp](./assets/media/image10.png)
+![](./assets/media/image10.png)
 
 > **Impostando infatti l'opzione in esame sul valore "Automatico"
 > potrebbe poi essere compromessa l'intera funzionalità del sito**
@@ -28,20 +28,20 @@ di Cookiebot (<https://www.cookiebot.com>) sarà necessario:
     Cookiebot, sarà necessario prelevare il codice di integrazione
     (sezione "**I tuoi script**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cookiebot_2.bmp](./assets/media/image11.png)
+![](./assets/media/image11.png)
 
 > ed inserirlo all'interno del campo "**Code Snippet Cookie**" presente
 > alla pagina "**Sito -- Preferenze**" del Wizard (tab "**Tracciamento
 > Dati**" sezione "**Blocco Preventivo**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\code_snippet_cookie.bmp](./assets/media/image6.png)
+![](./assets/media/image6.png)
 
 > Il secondo script invece è relativo alla "**Cookie Declaration**" e,
 > volendo, potrebbe anche essere inserito solo in una specifica pagina
 > del sito (es. la pagina relativa alla Privacy o quella specifica della
 > Cookie Policy)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cookiebot_6.bmp](./assets/media/image12.png)
+![](./assets/media/image12.png)
 
 3.  Impostare il parametro "**Blocco Preventivo dei Cookie**" presente
     anch'esso alla pagina "**Sito -- Preferenze**" del Wizard (tab

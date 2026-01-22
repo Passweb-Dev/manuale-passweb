@@ -32,7 +32,7 @@ della struttura di appartenenza dell'articolo** secondo quanto indicato
 in fase di configurazione dell'inserzione collegata alla lista che sta
 realizzando.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_lista_taglie.bmp](./assets/media/image163.png)
+![](./assets/media/image163.png)
 
 **[ATTENZIONE!]{.underline}**
 

@@ -20,7 +20,7 @@ Beauty, in maniera completamente automatica, un nuovo Buono Sconto:
   nella maschera di dettaglio del Buono Sconto per accedere maschera
   "**Dati ulteriori buono sconto**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dettaglio_buono_sconto_beauty.bmp](./assets/media/image346.png)
+![](./assets/media/image346.png)
 
 - con importo (**ivato**) pari all'importo del Trattamento stesso
   **(2)**
@@ -35,7 +35,7 @@ Beauty, in maniera completamente automatica, un nuovo Buono Sconto:
   gestionale, in fase di configurazione del codice a barre in uso ai
   Buoni Sconto **(4)**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dettaglio_buono_sconto_beauty_2.bmp](./assets/media/image347.png)
+![](./assets/media/image347.png)
 
 A fronte invece dell'inserimento sul gestionale di un ordine web
 contenente l'acquisto di un articolo di tipo "Ricarica Promozione" verrà
@@ -46,7 +46,7 @@ Sconto
   nella maschera di dettaglio del Buono Sconto per accedere maschera
   "**Dati ulteriori buono sconto**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dettaglio_buono_sconto_beauty_3.bmp](./assets/media/image348.png)
+![](./assets/media/image348.png)
 
 - con importo (**ivato**) pari al valore (ivato) della ricarica
   acquistata **(2)**
@@ -61,13 +61,13 @@ Sconto
   gestionale, in fase di configurazione del codice a barre in uso ai
   Buoni Sconto **(4)**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dettaglio_buono_sconto_beauty_4.bmp](./assets/media/image349.png)
+![](./assets/media/image349.png)
 
 In entrambi i casi il campo "Cliente" presente nella maschera di
 configurazione del Buono Sconto verrà valorizzato, ovviamente, con il
 nominativo dell'utente che ha effettuato l'acquisto sul web.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gift_card_horeca_12.bmp](./assets/media/image350.png)
+![](./assets/media/image350.png)
 
 **ATTENZIONE!** Il fatto che nel campo "Cliente" del Buono Sconto sia
 indicato l'utente che ha effettuato l'acquisto sul web non significa che
@@ -81,7 +81,7 @@ Codice a barre del corrispondente Buono Sconto generato su Beauty e che
 potrà essere visualizzato anche sul Wizard di Passweb all'interno della
 pagina "*Utenti -- Gift Card -- Codici*"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gift_card_horeca_13.bmp](./assets/media/image351.png)
+![](./assets/media/image351.png)
 
 **ATTENZIONE!** i codici relativi alla Gift Card di tipo Ho.Re.Ca sono
 creati in maniera completamente automatica solo ed esclusivamente a
@@ -135,7 +135,7 @@ un eventuale nota sarà necessario attivare per quel tipo di trattamento
 e/o per quel tipo di ricarica promozione il modulo aggiuntivo delle
 Custom Option
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gift_card_horeca_14.bmp](./assets/media/image352.png)
+![](./assets/media/image352.png)
 
 In queste condizioni eventuali informazioni aggiuntive verranno inserite
 nel corpo del relativo documento gestionale (secondo le normali modalità
@@ -144,7 +144,7 @@ presente nella maschera del Buono Sconto Beauty generato a seguito
 dell'acquisto di quel determinato Trattamento o di quella determinata
 Ricarica Promozione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gift_card_horeca_15.bmp](./assets/media/image353.png)
+![](./assets/media/image353.png)
 
 Per maggiori informazioni relativamente all'utilizzo delle Custom Option
 si veda quanto indicato nel relativo capitolo di questo manuale

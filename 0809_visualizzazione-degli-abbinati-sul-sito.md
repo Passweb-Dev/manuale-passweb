@@ -15,7 +15,7 @@ tab-strip con tante sezioni (tab) quante sono le Categorie Abbinati cui
 appartengono gli articoli effettivamente abbinati al prodotto in
 questione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gestione_abbinati_11.bmp](./assets/media/image461.png)
+![](./assets/media/image461.png)
 
 Se, in relazione ad un certo prodotto, per una certa categoria non
 dovessero esistere abbinati, all'interno della tab-strip il relativo tab

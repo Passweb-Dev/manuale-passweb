@@ -3,11 +3,11 @@
 
 
 L'icona "**Elimina Componente**" (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\icona_elimina_componente.bmp](./assets/media/image267.png) ) presente nel R.O.C. del componente e/o
+![](./assets/media/image267.png) ) presente nel R.O.C. del componente e/o
 nella barra degli strumenti dell' Albero dei Componenti consente di
 eliminare definitivamente il Componente in esame
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\elimina_componente.bmp](./assets/media/image268.png)
+![](./assets/media/image268.png)
 
 **ATTENZIONE!!: Eliminando un Componente distribuito su più pagine,
 questo verrà eliminato definitivamente da tutte le pagine**.

@@ -6,7 +6,7 @@ Il Componente **"Offerte/Novità"** **può essere inserito in una
 qualsiasi pagina del sito, sia essa una pagina di tipo E-Commerce, di
 tipo Catalogo/Prodotto o ancora una pagina Generica**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_offerte.bmp](./assets/media/image16.png)
+![](./assets/media/image16.png)
 
 Tale componente potrà essere utilizzato, essenzialmente, in due modi
 differenti:
@@ -17,7 +17,7 @@ a)  Può essere collegato alle tre Funzionalità Articolo **"Articoli in
 > Nel caso di **siti Ecommerce collegati a Mexal** tali funzionalità
 > sono attivabili e gestibili direttamente all'interno del gestionale
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_web_articolo_offerte_speciali.bmp](./assets/media/image17.png)
+![](./assets/media/image17.png)
 
 > Nel caso invece di **siti Ecommerce collegati ad uno dei gestionali
 > Ho.Re.Ca.** i campi mediante i quali poter marcare un articolo come in
@@ -25,7 +25,7 @@ a)  Può essere collegato alle tre Funzionalità Articolo **"Articoli in
 > nell'Anagrafica del relativo articolo all'interno della sezione "Lista
 > Articoli e Listini"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\offerte_novita_horeca.bmp](./assets/media/image18.png)
+![](./assets/media/image18.png)
 
 > ***NOTA BENE:** per maggiori informazioni in merito alla gestione
 > degli articoli in Offerta, Novità e/o Fine Serie si vedano anche i

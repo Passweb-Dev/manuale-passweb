@@ -75,12 +75,12 @@ messaggio del tipo "Per riscattare la tua carta regalo devi essere
 autenticato") e, soprattutto, dovrà essere messo nelle condizioni di
 poter effettuare la registrazione / autenticazione al sito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\messaggio_autenticazione_giftcard.bmp](./assets/media/image247.png)
+![](./assets/media/image247.png)
 
 Una volta effettuata l'autenticazione verrà visualizzato il componente
 "Gift Card" suddiviso in due distinte sezioni:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\attivazione_giftcard_1.bmp](./assets/media/image248.png)
+![](./assets/media/image248.png)
 
 Nella parte bassa verrà visualizzata una tabella contenente l'elenco dei
 codici Gift Card già riscattati dall'utente in esame (con il relativo
@@ -93,7 +93,7 @@ secondo quelli che sono i dati inseriti all'interno della sezione
 "**Template**" presente nella maschera di creazione e gestione delle
 Gift Card
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\giftcard_template.bmp](./assets/media/image249.png)
+![](./assets/media/image249.png)
 
 Per maggiori informazioni in merito alla creazione e alla gestione del
 "Template" utilizzato per il "Dettaglio della Gift Card" si veda anche
@@ -126,7 +126,7 @@ il codice, dovrà quindi accedere alla pagina Gift Card del sito (anche
 in questo caso previa autenticazione) dove potrà utilizzare il
 componente "Gift Card" da noi inserito per riscattarlo.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\attivazione_giftcard_2.bmp](./assets/media/image250.png)
+![](./assets/media/image250.png)
 
 Non essendo partiti, come detto, da un link di condivisione all'interno
 del componente "Gift Card" non sarà presente la sezione "Buono Regalo"
@@ -172,7 +172,7 @@ Infine per ciascuno dei codici in tabella è presente anche un pulsante
 "**Transazioni**" che consente di accedere all'elenco di tutte le
 operazioni che sono state fatte in relazione al codice in esame.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\attivazione_giftcard_3.bmp](./assets/media/image251.png)
+![](./assets/media/image251.png)
 
 Nello specifico su ogni singolo codice Gift Card possono essere
 effettuate operazioni di tre tipi diversi:
@@ -207,7 +207,7 @@ informazioni relativamente a come poter attivare in Carrello la sezione
 "*Varianti Sito Responsive -- Lista Componenti Ecommerce -- Componente
 Carrello Custom -- Configurazione*" di questo manuale)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\attivazione_giftcard_4.bmp](./assets/media/image252.png)
+![](./assets/media/image252.png)
 
 Ovviamente però l'effettivo utilizzo del saldo Gift Card sull'ordine in
 esame avverrà all'interno del componente Checkout.
@@ -219,7 +219,7 @@ check verrà automaticamente visualizzato, all'interno della sezione
 pagamenti, nel momento in cui l'utente dovesse avere un saldo Gift Card
 spendibile per l'ordine in questione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\attivazione_giftcard_5.bmp](./assets/media/image253.png)
+![](./assets/media/image253.png)
 
 **ATTENZIONE!** tanto in carrello quanto in checkout l'importo
 visualizzato in corrispondenza del check "**Usa il saldo**" **è quello

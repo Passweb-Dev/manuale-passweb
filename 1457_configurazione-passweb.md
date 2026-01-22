@@ -12,7 +12,7 @@ sezione "**Integrazioni**" del menu "**Sito**".
 In questo modo si avrà infatti accesso alla maschera "**Lista degli
 Account**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ac_2.bmp](./assets/media/image2.png)
+![](./assets/media/image2.png)
 
 contenente l'elenco di tutti gli Account relativi alle piattaforme di
 terze parti (diverse da MailChimp) attualmente collegate e integrate con
@@ -24,7 +24,7 @@ all'interno della quale poter impostare tutti i parametri necessari per
 attivare l'integrazione tra il proprio sito Passweb e la piattaforma
 selezionata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ac_3.bmp](./assets/media/image3.png)
+![](./assets/media/image3.png)
 
 In questo senso il campo:
 
@@ -38,7 +38,7 @@ In questo senso il campo:
 Nel caso in esame sarà quindi necessario impostare quest'ultimo campo
 sul valore "**WhatsApp Business**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\wa_smart_1.bmp](./assets/media/image4.png)
+![](./assets/media/image4.png)
 
 in maniera tale da visualizzare il campo "**Access Token**" (sezione
 "**Credenziali**") all'interno del quale dovrà poi essere inserito il
@@ -62,7 +62,7 @@ Una volta effettuato il salvataggio dell'Account compariranno:
 
 - Il nuovo tab "**Configurazione Invio Messaggi**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\wa_smart_2.bmp](./assets/media/image5.png)
+![](./assets/media/image5.png)
 
 Per maggiori informazioni relativamente a ciascuna delle sezioni sopra
 evidenziate si vedano i successivi capitoli di questo manuale.

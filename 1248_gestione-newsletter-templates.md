@@ -6,7 +6,7 @@ All'interno di questa sezione l'utente avrà la possibilità di
 sincronizzare e configurare tutti i template precedentemente salvati
 all'interno del proprio account MailChimp nella sezione "**Templates**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_newsletter_template.bmp](./assets/media/image63.png)
+![](./assets/media/image63.png)
 
 Il pulsante **"Sincronizza da MailChimp"** presente nella barra degli
 strumenti consente di effettuare la sincronizzazione tra il sito Passweb
@@ -118,12 +118,12 @@ alla Tipologia di Campagna all'interno della quale dovrà poi essere
 utilizzato.
 
 In questo senso cliccando sul pulsante "**Modifica**" (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica.bmp](./assets/media/image64.png) ) presente nella barra degli strumenti
+![](./assets/media/image64.png) ) presente nella barra degli strumenti
 della tabella contenente l'elenco dei Template sincronizzati da
 MailChimp, sarà possibile accedere alla maschera di configurazione del
 Template attualmente selezionato.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\newsletter_modifica_template.bmp](./assets/media/image65.png)
+![](./assets/media/image65.png)
 
 - **Le sezioni del template non ancora configurate** verranno
   evidenziate da un riquadro con **bordo tratteggiato di colore blu**.
@@ -141,7 +141,7 @@ quelli che dovranno essere i suoi contenuti, è sufficiente posizionarsi
 e cliccare col mouse sopra di essa. In questo modo verrà infatti aperta
 la maschera **"Modifica Sezione Template"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_sezione_template.bmp](./assets/media/image66.png)
+![](./assets/media/image66.png)
 
 all'interno della quale poter appunto impostare i parametri di
 configurazione della relativa sezione.
@@ -176,7 +176,7 @@ valori:
 > verranno poi proposti, a default, all'interno di questa stessa sezione
 > del template in fase di creazione ed invio della Campagna
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sezione_template_personalizzata.bmp](./assets/media/image67.png)
+![](./assets/media/image67.png)
 
 - **Valore di un campo CMS:** selezionando questa opzione il contenuto
   della sezione in esame verrà prelevato automaticamente da uno dei post
@@ -187,7 +187,7 @@ valori:
 
 > Il successivo parametro **"Campo associato alla Sezione"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sezione_template_cms.bmp](./assets/media/image68.png)
+![](./assets/media/image68.png)
 
 > consente di indicare lo specifico elemento del post CMS da cui
 > prelevare il contenuto da inserire all'interno della sezione. In
@@ -233,7 +233,7 @@ valori:
 
 > Il successivo parametro **"Campo associato alla Sezione"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sezione_template_prodotto.bmp](./assets/media/image69.png)
+![](./assets/media/image69.png)
 
 > consente di indicare quale informazione relativa allo specifico
 > prodotto dovrà essere prelevata ed inserita all'interno della sezione.
@@ -303,7 +303,7 @@ valori:
 >
 > Il successivo parametro **"Campo associato alla Sezione"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sezione_template_lista_regalo.bmp](./assets/media/image70.png)
+![](./assets/media/image70.png)
 
 > consente di indicare quale informazione relativa alla specifica Lista
 > Regalo dovrà essere prelevata ed inserita all'interno della sezione in
@@ -313,7 +313,7 @@ valori:
 > end del sito, direttamente in fase di creazione della Lista Regalo dal
 > creatore della lista stessa
 >
-> ![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\wl_lista_regalo_3.bmp](./assets/media/image71.png)
+> ![](./assets/media/image71.png)
 >
 > Nello specifico sarà quindi possibile selezionare uno dei seguenti
 > elementi:
@@ -379,13 +379,13 @@ alla sezione** su "**Valore Personalizzato**" il contenuto di default da
 inserire non sarà più gestito con un editor HTML ma con un controllo di
 tipo immagine
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\newsletter_immagini_template.bmp](./assets/media/image73.png)
+![](./assets/media/image73.png)
 
 Allo stesso modo nel caso in cui il campo **Tipologia del contenuto
 associato alla sezione** fosse impostato su "**Valore di un campo CMS**"
 gli unici contenuti prelevabili dal post CMS saranno:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\newsletter_immagini_template3.bmp](./assets/media/image74.png)
+![](./assets/media/image74.png)
 
 - **Immagine Sommario CMS:** selezionando questa opzione, l'immagine in
   esame verrà automaticamente sostituita, in fase di creazione e invio
@@ -401,7 +401,7 @@ Nel caso in cui invece il campo **Tipologia del contenuto associato alla
 sezione** fosse impostato su "**Valore di un campo Articolo**" gli unici
 contenuti prelevabili da prodotto saranno:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\newsletter_immagini_template2.bmp](./assets/media/image75.png)
+![](./assets/media/image75.png)
 
 - **Immagine Catalogo Prodotto:** selezionando questa opzione,
   l'immagine in esame verrà automaticamente sostituita, in fase di
@@ -418,7 +418,7 @@ alla sezione** fosse impostato su "**Valore di un campo Lista Regalo"**
 l'unico contenuto prelevabile dalla corrispondente lista regalo sarà il
 seguente
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\newsletter_immagini_lista_regalo.bmp](./assets/media/image76.png)
+![](./assets/media/image76.png)
 
 - **Immagine Evento:** selezionando questa opzione, l'immagine in esame
   verrà automaticamente sostituita, in fase di creazione e invio della

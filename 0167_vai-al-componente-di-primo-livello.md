@@ -3,7 +3,7 @@
 
 
 L'icona "**Vai al componente di primo livello**" (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\icona_primo_livello.bmp](./assets/media/image208.png) ) presente nel R.O.C. del componente e/o
+![](./assets/media/image208.png) ) presente nel R.O.C. del componente e/o
 nella barra degli strumenti dell' Albero dei Componenti consente di
 risalire l'albero di due o più livelli contemporaneamente portando la
 selezione ed il focus sul componente di primo livello che contiene il

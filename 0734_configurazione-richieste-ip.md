@@ -6,7 +6,7 @@ La sezione "**Configurazione Richieste IP**" consente di attivare
 eventuali blocchi sulla base dell'indirizzo ip delle richieste in arrivo
 al sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ddos_8.bmp](./assets/media/image282.png)
+![](./assets/media/image282.png)
 
 Nello specifico il parametro:
 

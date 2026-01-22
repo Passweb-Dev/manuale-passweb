@@ -13,12 +13,12 @@ presente in corrispondenza di ogni singola riga della tabella contente
 l'elenco delle visite registrate dal sito nell'intervallo di tempo
 selezionato.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\attivita_per_sessione_1.bmp](./assets/media/image44.png)
+![](./assets/media/image44.png)
 
 In questo modo, infatti, verrà visualizzata la maschera "**Attività per
 Sessione -- Id sessione**" evidenziata in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\attivita_per_sessione.bmp](./assets/media/image41.png)
+![](./assets/media/image41.png)
 
 all'interno della quale poter ottenere informazioni più dettagliate
 relativamente alla sessione di navigazione in questione e alle pagine

@@ -8,7 +8,7 @@ Il valore inserito in questo campo deve coincidere esattamente con
 quello presente all'interno del omonimo parametro del campo MyDB da
 mappare (campo **Codice**)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\codice_campo_mydb.bmp](./assets/media/image253.png)
+![](./assets/media/image253.png)
 
 **ATTENZIONE! Il campo chiave delle varie tabelle (quello con codice
 zzz) non dovrà mai essere mappato**

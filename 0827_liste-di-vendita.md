@@ -3,7 +3,7 @@
 
 
 Il pulsante **Liste di Vendita** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_liste_vendita.bmp](./assets/media/image115.png) ) presente nella parte alta della
+![](./assets/media/image115.png) ) presente nella parte alta della
 maschera "**Gestione Liste di Vendita"** accessibile dalla voce di menu
 ***"Catalogo -- eBay"***, consente di visualizzare e gestire tutte le
 Liste di Vendita attualmente codificate, oltre che ovviamente di crearne
@@ -12,7 +12,7 @@ di nuove.
 All'interno della tabella "**Elenco delle Liste di Vendita eBay**"
 verranno quindi visualizzate tutte le liste attualmente configurate.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_gestione_liste_vendita_ebay.bmp](./assets/media/image114.png)
+![](./assets/media/image114.png)
 
 Il campo di ricerca attivabile cliccando sulla lente di ingrandimento,
 presente in testata alle varie colonne, consente di filtrare i dati in
@@ -21,7 +21,7 @@ griglia sulla base dei valori presenti all'interno della colonna stessa.
 Una volta impostato un filtro di ricerca, per poterlo poi eliminare sarà
 sufficiente cliccare sull'icona raffigurante una piccola lente di
 ingrandimento con un -- all'interno (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina_filtro.bmp](./assets/media/image69.png) ) che comparirà in testata alla colonna
+![](./assets/media/image69.png) ) che comparirà in testata alla colonna
 in corrispondenza della quale è stato impostato il filtro stesso.
 
 L' icona raffigurante due piccole frecce posta in testata ad ogni
@@ -37,7 +37,7 @@ quali informazioni dovranno essere visualizzate direttamente in tabella.
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 "**Colonne**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_vendita_ebay_colonne.bmp](./assets/media/image119.png)
+![](./assets/media/image119.png)
 
 mediante la quale poter decidere quale campo attivare / disattivare e
 conseguentemente quale informazione mostrare / nascondere.
@@ -48,7 +48,7 @@ disponibili cliccando sul pulsante raffigurante una piccola i (
 ![Videate\\icona_proprieta.bmp](./assets/media/image120.png) ) posto in corrispondenza di ogni
 singola riga
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dettaglio_info_liste_vendita_ebay.bmp](./assets/media/image121.png)
+![](./assets/media/image121.png)
 
 In definitiva dunque, all'interno di questa maschera sarà possibile
 visualizzare / nascondere per ogni singolo documento le seguenti
@@ -95,7 +95,7 @@ I pulsanti presenti nella contestuale barra degli strumenti consentono
 rispettivamente di:
 
 **Elimina Lista di Vendita** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_lista.bmp](./assets/media/image122.png) ): consente di eliminare la lista di
+![](./assets/media/image122.png) ): consente di eliminare la lista di
 vendita attualmente selezionata in elenco
 
 **ATTENZIONE!** eliminando una lista gli articoli già messi in vendita
@@ -103,25 +103,25 @@ all'interno di un Marketplace eBay continueranno comunque a vivere come
 entità a se stanti all'interno del corrispondente sito eBay.
 
 **Modifica Lista di Vendita** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_lista.bmp](./assets/media/image123.png) ): consente di modificare le caratteristiche della
+![](./assets/media/image123.png) ): consente di modificare le caratteristiche della
 lista di vendita attualmente selezionata in elenco.
 
 **ATTENZIONE!** E' possibile modificare il nome della lista di vendita
 ma non l'inserzione cui la lista stessa è stata collegata
 
 **Aggiungi Lista di Vendita** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_lista_vendita.bmp](./assets/media/image124.png) ): consente di creare una nuova lista di vendita.
+![](./assets/media/image124.png) ): consente di creare una nuova lista di vendita.
 
 Per maggiori informazioni a come poter creare una nuova lista di vendita
 si veda il successivo capitolo di questo manuale
 
 **Elenco Lista Articoli** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elenco_lista_articoli.bmp](./assets/media/image125.png) ): consente di gestire l'elenco degli articoli che
+![](./assets/media/image125.png) ): consente di gestire l'elenco degli articoli che
 dovranno essere associati alla lista attualmente selezionata in elenco e
 che potranno quindi essere esportati su eBay
 
 **Elenco Tutti Articoli** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elenco_tutti_articoli.bmp](./assets/media/image126.png) ): consente di visualizzare un elenco di
+![](./assets/media/image126.png) ): consente di visualizzare un elenco di
 **tutti gli articoli presenti all'interno di tutte le liste di vendita**
 attualmente codificate
 
@@ -135,14 +135,14 @@ Per maggior informazioni in merito si vedano dunque i successivi
 capitoli di questo manuale
 
 **Lista Pubblicazioni** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_lista_pubblicazioni.bmp](./assets/media/image127.png) ): consente di visualizzare un elenco
+![](./assets/media/image127.png) ): consente di visualizzare un elenco
 delle ultime operazioni di pubblicazione articoli relative alla Lista di
 Vendita attualmente selezionata in elenco.
 
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 "**Pubblicazioni Lista di Vendita -- Nome Lista**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pubblicazioni_liste_vendita.bmp](./assets/media/image128.png)
+![](./assets/media/image128.png)
 
 contenete l'elenco delle ultime pubblicazioni effettuate. Per ogni
 pubblicazione presente in elenco sono indicati.
@@ -171,11 +171,11 @@ limitati al periodo temporale definito in corrispondenza del parametro
 "**Sistema**")
 
 Il pulsante "**Visualizza Dettaglio**" (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_visualizza_dettaglio.bmp](./assets/media/image129.png) ), presente solo dopo aver selezionato
+![](./assets/media/image129.png) ), presente solo dopo aver selezionato
 una delle pubblicazioni in elenco consente di accedere invece alla
 maschera "**Dettaglio Pubblicazione Lista di Vendita -- Nome Lista**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dettaglio_pubblicazioni_lista_vendita.bmp](./assets/media/image130.png)
+![](./assets/media/image130.png)
 
 all'interno della quale sarà possibile visualizzare tutti gli articoli
 presenti, al momento della pubblicazione, in quella specifica lista di
@@ -183,19 +183,19 @@ vendita e, per ciascuno di essi, cliccando sull'icona raffigurante una
 piccola i sarà anche possibile visualizzare il dettaglio del relativo
 log
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dettaglio_log_pubblicazione.bmp](./assets/media/image131.png)
+![](./assets/media/image131.png)
 
 ##### NUOVA LISTA DI VENDITA
 
 Per creare una nuova Lista di Vendita è necessario cliccare sul pulsante
 **Aggiungi Lista di Vendita** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_lista_vendita.bmp](./assets/media/image124.png) ) presente all'interno della maschera "**Elenco delle
+![](./assets/media/image124.png) ) presente all'interno della maschera "**Elenco delle
 Liste di Vendita**" esaminata nel precedente capitolo di questo manuale.
 
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 **"Dati Lista di Vendita"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuova_lista_vendita_eBay.bmp](./assets/media/image132.png)
+![](./assets/media/image132.png)
 
 attraverso cui poter indicare un valore per i seguenti parametri:
 
@@ -246,7 +246,7 @@ azzurro) oltre che dal valore presente nella corrispondente colonna
 della tabella (quella identificata dall'icona
 ![Videate\\colonna_aggiunta_automatica.bmp](./assets/media/image133.png) )
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\liste_vendita_aggiunta_automatica_articoli.bmp](./assets/media/image134.png)
+![](./assets/media/image134.png)
 
 **ATTENZIONE! Gli articoli aggiunti automaticamente ad un lista di
 vendita non possono essere gestiti in maniera manuale. Ciò significa
@@ -384,7 +384,7 @@ azzurro) oltre che dal valore presente nella corrispondente colonna
 della tabella (quella identificata dall'icona
 ![Videate\\colonna_aggiunta_automatica.bmp](./assets/media/image133.png) )
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\liste_vendita_aggiunta_automatica_articoli.bmp](./assets/media/image134.png)
+![](./assets/media/image134.png)
 
 **ATTENZIONE! Gli articoli aggiunti automaticamente ad un lista di
 vendita non possono essere gestiti in maniera manuale. Ciò significa
@@ -402,13 +402,13 @@ elenco e cliccare poi sul pulsante "**Elenco Lista Articoli**",
 accedendo così alla maschera "**Elenco Articoli della Lista di Vendita
 eBay -- Nome Lista**" evidenziata in figura.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\elenco_articoli_lista.bmp](./assets/media/image135.png)
+![](./assets/media/image135.png)
 
 I pulsanti presenti nella barra degli strumenti di questa maschera
 consentono rispettivamente di:
 
 **Elimina Articolo** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_articolo.bmp](./assets/media/image136.png) ): consente di eliminare gli articoli
+![](./assets/media/image136.png) ): consente di eliminare gli articoli
 attualmente selezionati dalla relativa lista di vendita. Tale pulsante
 sarà quindi visibile solo ed esclusivamente nel momento in cui gli
 articoli attualmente selezionati siano tutti a gestione manuale.
@@ -430,7 +430,7 @@ pubblicazione potrebbe non andare a buon fine a causa di problemi legati
 alla duplicazione dell'articolo su eBay
 
 **Modifica Articolo** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_articolo_ebay.bmp](./assets/media/image137.png) ): visualizzato unicamente nel caso in cui sia
+![](./assets/media/image137.png) ): visualizzato unicamente nel caso in cui sia
 selezionato un solo articolo tra quelli presenti in elenco.
 
 Permette di variare alcune impostazioni di pubblicazione dell'articolo
@@ -439,7 +439,7 @@ selezionato.
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 "**Dati Articolo nella Lista di Vendita**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_articolo_lista_ebay.bmp](./assets/media/image138.png)
+![](./assets/media/image138.png)
 
 all'interno della quale poter visualizzare e gestire le seguenti
 informazioni:
@@ -513,7 +513,7 @@ informazioni:
 > in fase di configurazione dell'Inserzione.
 
 **Articolo su eBay** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_articolo_ebay.bmp](./assets/media/image139.png) ): consente di accedere alla pagina eBay contenente la
+![](./assets/media/image139.png) ): consente di accedere alla pagina eBay contenente la
 scheda prodotto dell'articolo attualmente selezionato in elenco.
 
 ![Videate\\scheda_prodotto_ebay.bmp](./assets/media/image140.png)
@@ -525,18 +525,18 @@ informazioni in merito si veda il capitolo di questo manuale relativo
 alla gestione delle Inserzioni.
 
 **Log Articolo** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_log_articolo.bmp](./assets/media/image141.png) ): visualizzato unicamente nel caso in cui sia
+![](./assets/media/image141.png) ): visualizzato unicamente nel caso in cui sia
 selezionato un solo articolo tra quelli presenti in elenco.
 
 Permette di accedere ai dettagli relativi alle operazioni di
 pubblicazione/arresto/modifica effettuate sul prodotto in esame.
 
 **Filtri Avanzati** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_filtri_avanzati.bmp](./assets/media/image142.png) ): consente di aprire una sezione di ricerca contenete
+![](./assets/media/image142.png) ): consente di aprire una sezione di ricerca contenete
 un query builder utilizzabile per creare e customizzare filtri di
 ricerca per gli articoli presenti in lista.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_ebay_filtri_avanzati.bmp](./assets/media/image143.png)
+![](./assets/media/image143.png)
 
 Per maggiori informazioni in merito a come poter costruire il proprio
 filtro di ricerca si rimanda a quanto indicato all'interno del capitolo
@@ -544,7 +544,7 @@ filtro di ricerca si rimanda a quanto indicato all'interno del capitolo
 Servizio*" di questo manuale
 
 **eBay** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_ebay.bmp](./assets/media/image144.png) ): consente di accedere alla sezione di
+![](./assets/media/image144.png) ): consente di accedere alla sezione di
 pubblicazione degli articoli sul relativo marketplace.
 
 Per maggiori informazioni in merito alle azioni collegate a questo
@@ -552,10 +552,10 @@ pulsante si rimanda a quanto indicato nel successivo capitolo di questo
 manuale.
 
 **Aggiungi Articoli** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_articoli.bmp](./assets/media/image145.png) ): consente di accedere all'elenco degli articoli
+![](./assets/media/image145.png) ): consente di accedere all'elenco degli articoli
 attualmente gestiti all'interno del proprio sito Passweb
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_elenco_articoli_ebay.bmp](./assets/media/image146.png)
+![](./assets/media/image146.png)
 
 e di poter quindi selezionare tra di essi quelli da inserire all'interno
 della lista in oggetto.
@@ -612,7 +612,7 @@ Lista di Vendita eBay -- Nome Lista**" consente di visualizzare l'elenco
 completo degli articoli attualmente presenti all'interno di quella
 specifica lista di vendita.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\elenco_articoli_lista.bmp](./assets/media/image135.png)
+![](./assets/media/image135.png)
 
 Il campo di ricerca attivabile cliccando sulla lente di ingrandimento,
 presente in testata alle varie colonne, consente di filtrare i dati in
@@ -675,7 +675,7 @@ disponibili cliccando sul pulsante raffigurante una piccola i (
 ![Videate\\icona_proprieta.bmp](./assets/media/image120.png) ) posto in corrispondenza di ogni
 singola riga
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dettaglio_info_lista_articoli_ebay.bmp](./assets/media/image151.png)
+![](./assets/media/image151.png)
 
 In definitiva dunque, all'interno di questa maschera sarà possibile
 visualizzare / nascondere per ogni singolo articolo presente in lista:
@@ -759,7 +759,7 @@ visualizzare / nascondere per ogni singolo articolo presente in lista:
 
 - Il fatto che l'articolo sia stato aggiunto alla lista in maniera
   manuale o automatica (con tutto ciò che ne consegue) -- colonna
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\colonna_aggiunta_automatica.bmp](./assets/media/image152.png)
+  ![](./assets/media/image152.png)
 
 > Il valore:
 
@@ -774,21 +774,21 @@ all'interno di eBay.
 
 In queste senso sarà quindi necessario, per prima cosa, cliccare sul
 pulsante **"eBay"** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_ebay.bmp](./assets/media/image144.png) ) presente nella barra degli strumenti
+![](./assets/media/image144.png) ) presente nella barra degli strumenti
 della maschera "**Elenco Articoli della Lista di Vendita eBay -- Nome
 Lista**".
 
 Nella stessa barra degli strumenti compariranno ora dei nuovi pulsanti:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\elenco_articoli_lista3.bmp](./assets/media/image153.png)
+![](./assets/media/image153.png)
 
 **Gestione Lista** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_gestione_lista.bmp](./assets/media/image154.png) ): consente di tornare alla precedente
+![](./assets/media/image154.png) ): consente di tornare alla precedente
 maschera di gestione degli articoli associati alla lista, potendo quindi
 decidere poi di rimuoverne alcuni e/o di aggiungerne altri.
 
 **Pubblica su eBay**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_pubblica_ebay.bmp](./assets/media/image155.png) ): consente eseguire la pubblicazione sul relativo
+(![](./assets/media/image155.png) ): consente eseguire la pubblicazione sul relativo
 marketplace eBay **degli articoli attualmente selezionati in elenco**.
 
 Una volta avviato il processo di pubblicazione nella parte bassa della
@@ -808,7 +808,7 @@ di test è necessario quindi trovare l'esatta combinazione di opzioni,
 soprattutto a livello di metodi di spedizione e pagamento.
 
 **Arresta su eBay**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_arresta_su_ebay.bmp](./assets/media/image156.png) ): consente di arrestare la pubblicazione e,
+(![](./assets/media/image156.png) ): consente di arrestare la pubblicazione e,
 conseguentemente, la vendita all'interno del marketplace di eBay degli
 articoli attualmente selezionati in elenco.
 
@@ -828,7 +828,7 @@ rimozione fisica dell'articolo all'interno di eBay dovrà quindi avvenire
 necessariamente all'interno del back office di eBay.
 
 **Filtri Avanzati** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_filtri_avanzati.bmp](./assets/media/image142.png) ): consente di aprire una sezione di ricerca contenete
+![](./assets/media/image142.png) ): consente di aprire una sezione di ricerca contenete
 un query builder utilizzabile per creare e customizzare filtri di
 ricerca per gli articoli presenti in lista.
 
@@ -838,7 +838,7 @@ filtro di ricerca si rimanda a quanto indicato all'interno del capitolo
 Servizio*" di questo manuale
 
 **Log Articolo** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_log_articolo.bmp](./assets/media/image141.png) ): visualizzato unicamente nel caso in cui sia
+![](./assets/media/image141.png) ): visualizzato unicamente nel caso in cui sia
 selezionato un solo articolo tra quelli presenti in elenco.
 
 Permette di accedere ai dettagli relativi alle operazioni di
@@ -846,7 +846,7 @@ pubblicazione/arresto/modifica effettuate sul prodotto in esame.
 Cliccando su questo pulsante verrà quindi visualizzata la maschera
 "**Lista Log Articolo: \<nome prodotto\>**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_log_articolo.bmp](./assets/media/image157.png)
+![](./assets/media/image157.png)
 
 contenente il dettaglio dei log di ogni operazione di
 pubblicazione/arresto/modifica cui è stato sottoposto il prodotto in

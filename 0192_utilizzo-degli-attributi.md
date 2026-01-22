@@ -15,7 +15,7 @@ grafica all'interno della quale poter selezionare visivamente lo
 specifico colore desiderato, anche una combo box contenente l'elenco di
 tutti gli Attributi precedentemente creati**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\temi_9_res.bmp](./assets/media/image334.png)
+![](./assets/media/image334.png)
 
 Nel momento in cui si dovesse dunque decidere di utilizzare anziché uno
 specifico codice colore uno degli Attributi presenti in elenco, la
@@ -41,7 +41,7 @@ gestire anche le Immagini di sfondo dei vari elementi.**
 Sempre nello Style Editor infatti, all'interno della sezione "Sfondi" è
 presente il pulsante "**Aggiungi da Tema**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\temi_10_res.bmp](./assets/media/image335.png)
+![](./assets/media/image335.png)
 
 mediante il quale poter accedere all'elenco di Attributi attualmente
 gestiti.
@@ -56,7 +56,7 @@ anche:
 
 - nei **Componenti di tipo Immagine**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\temi_11_res.bmp](./assets/media/image336.png)
+![](./assets/media/image336.png)
 
 > In questo caso al di sotto del pulsante "Seleziona la Risorsa"
 > utilizzabile per individuare la specifica immagine da inserire
@@ -69,7 +69,7 @@ anche:
 - in quelle tipologie di componenti che prevedono parametri di
   configurazione con la possibilità di impostare delle immagini
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\temi_12_res.bmp](./assets/media/image337.png)
+![](./assets/media/image337.png)
 
 > Un esempio in tal senso è rappresentato dal componente "Rating Review"
 > che ha come parametri di configurazione le immagini che dovranno da
@@ -78,7 +78,7 @@ anche:
 
 - nella sezione **CSS dei layout**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\temi_14_res.bmp](./assets/media/image338.png)
+![](./assets/media/image338.png)
 
 > Come per il componente HTML anche in questo caso sarà sufficiente
 > posizionare il cursore nella posizione in cui si desidera inserire

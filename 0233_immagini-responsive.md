@@ -90,7 +90,7 @@ a chi realizza il sito di indicare immagini diverse da fornire in
 corrispondenza di diverse larghezze del dispositivo di visualizzazione
 del sito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\markup_immagine_responsiva.bmp](./assets/media/image55.png)
+![](./assets/media/image55.png)
 
 All'atto pratico tutto ciò si traduce nella possibilità, in fase di
 configurazione dello stesso componente "**Immagine con Link**", di
@@ -101,7 +101,7 @@ indicare:
   maggiore o uguale a 992px) e sui browser più datati che non offrono
   supporto all'attributo srcset.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\immagine_desktop.bmp](./assets/media/image56.png)
+![](./assets/media/image56.png)
 
 > Tecnicamente è l'immagine indicata all'interno del classico attributo
 > src
@@ -110,7 +110,7 @@ indicare:
   "**Immagine per dispositivi Tablet**" -- che verrà visualizzata su
   dispositivi di larghezza compresa tra i 576 px e i 991 px
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\immagine_tablet.bmp](./assets/media/image57.png)
+![](./assets/media/image57.png)
 
 > Tecnicamente è l'immagine indicata all'interno dell'attributo srcset
 > corrispondente al tag
@@ -121,7 +121,7 @@ indicare:
   "**Immagine per dispositivi Smartphone**" -- che verrà visualizzata su
   dispositivi di larghezza inferiore ai 576 px
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\immagine_smartphone.bmp](./assets/media/image58.png)
+![](./assets/media/image58.png)
 
 > Tecnicamente è l'immagine indicata all'interno dell'attributo srcset
 > corrispondente al tag

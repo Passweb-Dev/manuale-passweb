@@ -28,24 +28,24 @@ due piattaforme.
   installazione Magento con le credenziali di amministratore e portarsi
   poi all'interno della sezione "**System -- Extension -- Integration**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\magento_1.bmp](./assets/media/image722.png)
+![](./assets/media/image722.png)
 
 - Una volta effettuato l'accesso a questa sezione cliccare sul pulsante
   "**Add New Integration**" presente nella parte alta della pagina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\magento_2.bmp](./assets/media/image723.png)
+![](./assets/media/image723.png)
 
 - Assegnare un nome all'integrazione che si sta configurando in maniera
   tale da poterla poi distinguere da eventuali altre integrazioni
   presenti sulla propria installazione Magento (campo "**Name**"
   all'interno della sezione "**Integration Info**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\magento_3.bmp](./assets/media/image724.png)
+![](./assets/media/image724.png)
 
 - Portarsi poi all'interno della sezione "**API**" e impostare il
   parametro "**Resource Access**" sul valore "**All**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\magento_4.bmp](./assets/media/image725.png)
+![](./assets/media/image725.png)
 
 > Cliccare quindi sul pulsante "**Save**" presente nella parte alta
 > della pagina in maniera tale da poter salvare le impostazione appena
@@ -58,18 +58,18 @@ due piattaforme.
 > All'interno della sezione "**Integrations**" individuare quindi
 > l'integrazione appena creata, cliccare sul pulsante "**Activate**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\magento_5.bmp](./assets/media/image726.png)
+![](./assets/media/image726.png)
 
 > e successivamente nella schermata di riepilogo delle API che verranno
 > effettivamente attivate cliccare sul pulsante "**Allow**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\magento_6.bmp](./assets/media/image727.png)
+![](./assets/media/image727.png)
 
 - Una volta attivate le API verranno visualizzate tutte le chiavi
   necessarie per sfruttare questo tipo di integrazione tra cui anche l'
   **Access Token** necessario per attivare l'integrazione con Passweb
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\magento_7.bmp](./assets/media/image728.png)
+![](./assets/media/image728.png)
 
 > **ATTENZIONE!** le informazioni presenti all'interno della maschera
 > sopra evidenziata saranno accessibili, una volta terminata

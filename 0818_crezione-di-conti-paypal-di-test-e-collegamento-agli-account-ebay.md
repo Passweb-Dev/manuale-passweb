@@ -32,40 +32,40 @@ ancora una volta, al sito americano (indirizzo
 <https://signin.sandbox.ebay.com>) utilizzando le credenziali
 dell'utente Compratore / Venditore precedentemente creato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\ebay_23.bmp](./assets/media/image28.png)
+![](./assets/media/image28.png)
 
 Una volta effettuato l'accesso portarsi nella sezione relativa alle
 impostazioni dell'account cliccando per questo sulla prima voce del menu
 presente in testata e selezionando, nel relativo menu contestuale, la
 voce **"Account Settings"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\ebay_20.bmp](./assets/media/image25.png)
+![](./assets/media/image25.png)
 
 Nella successiva maschera cliccare sulla voce "**PayPal Account**"
 presente nel menu posto nella parte sinistra della pagina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\ebay_29.bmp](./assets/media/image34.png)
+![](./assets/media/image34.png)
 
 A questo punto per collegare l'Account Venditore / Compratore al
 relativo Account di test creato nell'ambiente developer di PayPal sarà
 sufficiente cliccare sul pulsante "**Link My PayPal Account**" presente
 nel box di destra
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\ebay_30.bmp](./assets/media/image35.png)
+![](./assets/media/image35.png)
 
 inserire nella successiva maschera le credenziali dell'Account di test
 precedentemente creato nell'ambiente developer di PayPal e cliccare sul
 pulsante "**Link your Account**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\ebay_31.bmp](./assets/media/image36.png)
+![](./assets/media/image36.png)
 
 Per completare il collegamento sarà ora sufficiente tornare all'ambiente
 Sandbox di eBay cliccando per questo sul relativo pulsante "**Return to
 eBay"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\ebay_32.bmp](./assets/media/image37.png)
+![](./assets/media/image37.png)
 
 e verificare nella sezione "**PayPal Account**" l'avvenuto collegamento
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\ebay_33.bmp](./assets/media/image38.png)
+![](./assets/media/image38.png)
 

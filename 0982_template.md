@@ -22,7 +22,7 @@ che verrà poi utilizzato in due diversi punti:
 > all'interno del capitolo "*Varianti Sito Responsive -- Lista
 > Componenti Ecommerce -- Componente Gift Card*" di questo manuale.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\giftcard_template.bmp](./assets/media/image315.png)
+![](./assets/media/image315.png)
 
 **ATTENZIONE!** La possibilità di costruire e gestire l'elemento
 "Dettaglio della Gift Card" intervenendo direttamente sul codice HTML di
@@ -56,7 +56,7 @@ in cui dovrà essere inserita la nuova informazione, sarà necessario
 cliccare sul pulsante "**Seleziona un segnaposto ...**" in maniera tale
 da visualizzare l'elenco di tutti i segnaposto disponibili
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\giftcard_template3.bmp](./assets/media/image316.png)
+![](./assets/media/image316.png)
 
 Selezionando il segnaposto desiderato tra quelli presenti in elenco,
 Passweb provvederà poi ad inserire automaticamente nel template tutto il

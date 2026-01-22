@@ -19,7 +19,7 @@ All'interno della sezione **"Integrazioni"** è possibile:
 - Gestire l'integrazione del proprio sito con alcuni servizi di terze
   parti come ad esempio i Google web font, MailChimp, Qaplà, Puffin ...
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\seo_integrazioni.bmp](./assets/media/image63.png)
+![](./assets/media/image63.png)
 
 Nei successivi capitoli di questo manuale verranno analizzate più nel
 dettaglio le diverse sezioni presenti in questa pagina del Wizard

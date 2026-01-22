@@ -3,13 +3,13 @@
 
 
 Il pulsante **Regole di Vendita** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_regole_vendita.bmp](./assets/media/image116.png) ) presente nella parte alta della
+![](./assets/media/image116.png) ) presente nella parte alta della
 maschera "**Gestione Liste di Vendita"** accessibile dalla voce di menu
 ***"Catalogo -- eBay"***, consente di visualizzare e gestire tutte le
 Regole di Vendita attualmente codificate, oltre che ovviamente di
 crearne di nuove.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_regole_vendita.bmp](./assets/media/image158.png)
+![](./assets/media/image158.png)
 
 Ciascuna delle Regole presenti all'interno di questa sezione potrà
 essere associata ad una o più Liste di Vendita e permetterà di fare in
@@ -26,37 +26,37 @@ della colonna stessa.
 Una volta impostato un filtro di ricerca, per poterlo poi eliminare sarà
 sufficiente cliccare sull'icona raffigurante una piccola lente di
 ingrandimento con un -- all'interno (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina_filtro.bmp](./assets/media/image69.png) ) che comparirà in testata alla colonna
+![](./assets/media/image69.png) ) che comparirà in testata alla colonna
 in corrispondenza della quale è stato impostato il filtro stesso.
 
 Infine è anche possibile ordinare, in maniera crescente e/o decrescente,
 gli elementi in griglia cliccando semplicemente sull'icona raffigurante
 due piccole frecce (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_ordinamento_griglia.bmp](./assets/media/image70.png) )
+![](./assets/media/image70.png) )
 
 I pulsanti presenti nella contestuale barra degli strumenti consentono
 rispettivamente di:
 
 - **Elimina Regola di Vendita** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_regola_vendita.bmp](./assets/media/image159.png) ): consente di eliminare la Regola di vendita
+  ![](./assets/media/image159.png) ): consente di eliminare la Regola di vendita
   attualmente selezionata in elenco
 
 > **ATTENZIONE!** E' possibile eliminare una Regola di Vendita solo se
 > non associata ad alcuna Lista
 
 - **Modifica Regola di Vendita** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_regola_vendita.bmp](./assets/media/image160.png) ): consente di modificare le
+  ![](./assets/media/image160.png) ): consente di modificare le
   caratteristiche della Regola di vendita attualmente selezionata in
   elenco.
 
 - **Aggiungi Regola di Vendita** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_regola_vendita.bmp](./assets/media/image160.png) ): consente di creare una nuova Regola
+  ![](./assets/media/image160.png) ): consente di creare una nuova Regola
   di vendita
 
 In particolare cliccando su quest'ultimo pulsante verrà visualizzata la
 maschera "**Dati Regola di Vendita**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\crea_regola_vendita_ebay.bmp](./assets/media/image161.png)
+![](./assets/media/image161.png)
 
 all'interno della quale poter indicare le specifiche della Regola che si
 intende codificare.
@@ -91,7 +91,7 @@ azzurro) oltre che dal valore presente nella corrispondente colonna
 della tabella (quella identificata dall'icona
 ![Videate\\colonna_aggiunta_automatica.bmp](./assets/media/image133.png) )
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\liste_vendita_aggiunta_automatica_articoli.bmp](./assets/media/image134.png)
+![](./assets/media/image134.png)
 
 **ATTENZIONE! Gli articoli aggiunti automaticamente ad un lista di
 vendita non possono essere gestiti in maniera manuale. Ciò significa

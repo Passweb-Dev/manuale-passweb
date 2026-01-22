@@ -8,5 +8,5 @@ automaticamente ridiretto nel caso in cui quella inizialmente richiesta
 non sia per lui accessibile a causa dei permessi di visibilità impostati
 sulla pagina stessa.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\variante_9_res.bmp](./assets/media/image25.png)
+![](./assets/media/image25.png)
 

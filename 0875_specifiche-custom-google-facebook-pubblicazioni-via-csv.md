@@ -41,7 +41,7 @@ specifiche è invece sempre lo stesso, ossia il JSON Builder presente
 all'interno della sezione "**Struttura Specifica Custom**" esaminato nel
 precedente capitolo di questo manuale.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\json_builder_specifiche_custom.bmp](./assets/media/image328.png)
+![](./assets/media/image328.png)
 
 Il punto fondamentale sarà quindi quello di capire esattamente quale
 struttura dati dovremo utilizzare all'interno di questo JSON Builder per
@@ -80,13 +80,13 @@ diverse righe del file senza dover utilizzare particolari sintassi
 
 **Esempio**: '*material'*
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\csv_specifica_custom_semplice_1.bmp](./assets/media/image348.png)
+![](./assets/media/image348.png)
 
 Per poter gestire specifiche custom di questo tipo, nel JSON Builder
 dovremo quindi creare **un solo nodo con valore semplice utilizzando
 come "nome proprietà" il nome stesso della specifica**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\csv_specifica_custom_semplice_2.bmp](./assets/media/image349.png)
+![](./assets/media/image349.png)
 
 L'unica cosa a cui prestare attenzione, in queste condizioni, sono i
 valori ammessi dalla specifica che possono essere, come nel caso in
@@ -100,7 +100,7 @@ utilizzare dovrebbe essere *product_height*
 
 Osservando la documentazione in merito a questa specifica
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\csv_specifica_custom_semplice_3.bmp](./assets/media/image350.png)
+![](./assets/media/image350.png)
 
 possiamo notare che essa rientra effettivamente nel caso delle
 specifiche gestite come attributi semplici per cui, lato Passweb dovrà
@@ -130,7 +130,7 @@ prodotto potrebbe anche non essere pubblicato.
 
 **Esempio**: *excluded_destination*
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\csv_specifica_custom_valori_multipli.bmp](./assets/media/image351.png)
+![](./assets/media/image351.png)
 
 Come nel caso precedente anche questo tipo di specifiche non hanno sotto
 attributi per cui, a livello di intestazione, nel file csv andrà
@@ -142,7 +142,7 @@ Controllando però le informazioni di dettaglio relative alla specifica
 in oggetto (informazioni queste a cui si può accedere cliccando sul nome
 della specifica stessa)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\csv_specifica_custom_valori_multipli_2.bmp](./assets/media/image352.png)
+![](./assets/media/image352.png)
 
 si potrà osservare non solo che la specifica in questione può accettare
 solo determinati valori (indicati in "**Supported values**"), ma anche
@@ -161,7 +161,7 @@ questa specifica potrebbe anche avere più di un valore allora la
 struttura dati da creare in Passweb dovrà essere sì quella di un solo
 nodo **ma di tipo "Array di Stringhe"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\csv_specifica_custom_valori_multipli_3.bmp](./assets/media/image353.png)
+![](./assets/media/image353.png)
 
 ##### SPECIFICA GESTITE COME ATTRIBUTI CON SOTTO ATTRIBUTI 
 
@@ -169,13 +169,13 @@ nodo **ma di tipo "Array di Stringhe"**
 
 Come indicato nella relativa documentazione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\es_specifica_csv_certification_1.bmp](./assets/media/image354.png)
+![](./assets/media/image354.png)
 
 questo tipo di specifiche hanno un certo numero di sotto attributi.
 Inoltre analizzando anche le informazioni di dettaglio relative alla
 specifica in oggetto
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\csv_specifica_custom_sotto_attributi.bmp](./assets/media/image355.png)
+![](./assets/media/image355.png)
 
 possiamo osservare che, in queste condizioni a livello di intestazione,
 nel file csv deve essere utilizzata una sintassi di questo tipo
@@ -199,5 +199,5 @@ nome della specifica con tante proprietà quanti sono i suoi sotto
 attributi e assegnando anche a ciascuna proprietà il nome del relativo
 sotto attributo**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\csv_specifica_custom_sotto_attributi_2.bmp](./assets/media/image356.png)
+![](./assets/media/image356.png)
 

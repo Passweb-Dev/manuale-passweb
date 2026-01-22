@@ -10,11 +10,11 @@ all'interno del campo del "**Buono Sconto**", campo questo che potrà
 essere visualizzato in Carrello (posto di aver selezionato in fase di
 configurazione l'apposito parametro "Visualizza Applica Buono Sconto")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\carrello-preventivo-buono-sconto.bmp](./assets/media/image596.png)
+![](./assets/media/image596.png)
 
 oppure direttamente in fase di checkout all'interno del modulo d'ordine
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\checkout_buono_sconto.bmp](./assets/media/image597.png)
+![](./assets/media/image597.png)
 
 **ATTENZIONE! Il campo relativo all'inserimento dei codici sconto sarà
 visibile solo ed esclusivamente nel caso in cui esista almeno un Buono

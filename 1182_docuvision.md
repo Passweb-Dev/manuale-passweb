@@ -6,7 +6,7 @@ La sezione Docuvision consente all'Agente di accedere in tempo reale al
 documentale Passepartout (Docuvision) **e prelevare tutte le risorse
 associate all'anagrafica del cliente attualmente selezionato**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_dettaglio_utente_docuvision.bmp](./assets/media/image202.png)
+![](./assets/media/image202.png)
 
 Effettuando l'accesso a questa sezione verrà infatti aperta una
 connessione in tempo reale con Mexal e verrà visualizzato l'elenco di
@@ -43,5 +43,5 @@ all'utente che l'operazione sta procedendo e, dall'altra parte, da
 impedirgli di effettuare ulteriori click su eventuali altri documenti da
 scaricare prima che l'operazione in essere sia terminata correttamente
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ec_loading_docuvison.bmp](./assets/media/image204.png)
+![](./assets/media/image204.png)
 

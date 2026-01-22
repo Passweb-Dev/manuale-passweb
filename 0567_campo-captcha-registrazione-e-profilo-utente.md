@@ -4,7 +4,7 @@
 
 Il Componente **"Campo Captcha"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\campo_captcha_registrazione_res.bmp](./assets/media/image120.png)
+![](./assets/media/image120.png)
 
 consente di inserire all'interno dei form di Registrazione e di Profilo
 Utente il captcha (***c**ompletely **a**utomated **p**ublic **T**uring
@@ -45,7 +45,7 @@ sempre visualizzato il campo Captcha classico.
 Rilasciando il componente all'interno della pagina si aprirà **la sua
 maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\Form_modifica_Campo_Captcha_res.bmp](./assets/media/image123.png)
+![](./assets/media/image123.png)
 
 Il campo è completamente automatizzato, è necessario inserire solo il
 nome del campo e l'etichetta che dovrà avere sul sito, a generare il

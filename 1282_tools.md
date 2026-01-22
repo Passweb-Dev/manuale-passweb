@@ -17,7 +17,7 @@ effettuate dagli spider sebbene anche questi ultimi siano a tutti gli
 effetti software che visitano in maniera automatizzata il nostro sito
 (ma con scopi di indicizzazione)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\statistiche_tools_1.bmp](./assets/media/image50.png)
+![](./assets/media/image50.png)
 
 Per ogni singolo elemento presente in griglia verrà visualizzata la data
 di accesso al sito da parte del relativo tool (colonna "**Data**"), il

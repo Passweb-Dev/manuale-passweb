@@ -5,7 +5,7 @@
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_iu_barra_utente_configurazione_res.bmp](./assets/media/image17.png)
+![](./assets/media/image17.png)
 
 suddivisa in varie sezioni.
 
@@ -56,7 +56,7 @@ Il pulsante "**Aggiungi Segnaposto**" consente di inserire appositi
 placeholder che verranno poi sostituiti a runtime con informazioni
 relative all'utente attualmente loggato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\segnaposto_barra_utente.bmp](./assets/media/image18.png)
+![](./assets/media/image18.png)
 
 Nello specifico è possibile utilizzare i seguenti segnaposto:
 
@@ -87,7 +87,7 @@ effettuare la disconnessione dal sito.
 **Pagina di destinazione al Logout:** consente di specificare la pagina
 del sito cui l'utente verrà automaticamente ridiretto una volta
 effettuato il Logout dal sito. Il pulsante "**Deseleziona**"
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_deseleziona_res.bmp](./assets/media/image4.png) ), presente nella contestuale barra degli
+(![](./assets/media/image4.png) ), presente nella contestuale barra degli
 strumenti, consente di eliminare l'associazione ad una specifica pagina
 cui effettuare il redirect automatico.
 

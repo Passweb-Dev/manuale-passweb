@@ -4,14 +4,14 @@
 
 Il Componente "**Prodotti Correlati**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cms_componente_prodotti_correlati_res.bmp](./assets/media/image78.png)
+![](./assets/media/image78.png)
 
 può essere inserito solo ed esclusivamente all'interno del componente
 "**Dettaglio News**" e consente di visualizzare l'insieme dei prodotti
 associati alla relativa news mediante il filtro articoli impostato in
 fase di configurazione della news stessa (tab "**Associazioni**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cms_dettaglio_news_prodotti_correlati.bmp](./assets/media/image79.png)
+![](./assets/media/image79.png)
 
 Per maggiori informazioni relativamente a come poter associare ad una
 news un determinato insieme di articoli, si veda quanto indicato
@@ -41,7 +41,7 @@ A livello di configurazione, una volta inserito il Componente
 all'interno della pagina web, verrà aperta in automatico **la sua
 maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cms_prodotti_correlati_configurazione.bmp](./assets/media/image80.png)
+![](./assets/media/image80.png)
 
 suddivisa in varie sezioni.
 

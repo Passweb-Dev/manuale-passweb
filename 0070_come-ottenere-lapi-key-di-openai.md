@@ -60,12 +60,12 @@ In questo senso sarà quindi necessario:
 - Accedere all'indirizzo <https://platform.openai.com/>, cliccare sul
   pulsante "**Sign up**" posto nella parte alta della pagina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\account_openai_1.bmp](./assets/media/image360.png)
+![](./assets/media/image360.png)
 
 > e completare poi la creazione dell'account inserendo tutti i dati
 > richiesti
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\account_openai_2.bmp](./assets/media/image361.png)
+![](./assets/media/image361.png)
 
 > Ovviamente nel caso in cui si dovesse disporre già di un account
 > OpenAI non sarà necessario crearne uno nuovo ma sarà sufficiente
@@ -75,7 +75,7 @@ In questo senso sarà quindi necessario:
   all'interno della sezione "**API keys**" e cliccare sul pulsante
   "**Create new secret key**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\account_openai_3.bmp](./assets/media/image362.png)
+![](./assets/media/image362.png)
 
 - Nella successiva maschera assegnare un nome all'API key che si sta
   creando e associarla anche ad uno specifico progetto.
@@ -84,13 +84,13 @@ In questo senso sarà quindi necessario:
 > progetti differenti e di assegnare quindi a ciascuno di essi e/o a
 > specifici team di utenti chiavi di configurazione differenti
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\account_openai_4.bmp](./assets/media/image363.png)
+![](./assets/media/image363.png)
 
 - Mantenere selezionata l'opzione "**All**" in corrispondenza della voce
   "**Permission**" e cliccare quindi sul pulsante "**Create secret
   key**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\account_openai_5.bmp](./assets/media/image364.png)
+![](./assets/media/image364.png)
 
 - Considerando che l'API key appena creata è l'elemento grazie al quale
   poter accedere programmaticamente alle API di OpenAI, e quindi di
@@ -102,7 +102,7 @@ In questo senso sarà quindi necessario:
   del proprio account per cui nel momento in cui dovessimo perderla
   saremo poi costretti ad eliminarla e a crearne una nuova
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\account_openai_6.bmp](./assets/media/image365.png)
+![](./assets/media/image365.png)
 
 > In considerazione di ciò **è quindi indispensabile, prima di chiudere
 > la maschera evidenziata in figura, copiare la chiave appena generata e
@@ -123,9 +123,9 @@ Per inserire un nuovo metodo di pagamento è necessario portarsi
 all'interno della sezione "**Billing**" e cliccare sul pulsante "**Add
 payment details**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\account_openai_7.bmp](./assets/media/image366.png)
+![](./assets/media/image366.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\account_openai_8.bmp](./assets/media/image367.png)
+![](./assets/media/image367.png)
 
 Una volta inseriti i dati della carta di credito e codificato quindi il
 metodo di pagamento, sarà poi necessario utilizzare tale metodo per
@@ -137,12 +137,12 @@ All'interno del proprio account OpenAI, infine, sarà sempre possibile
 tenere sotto controllo gli importi relativi ai costi attualmente
 sostenuti (sezione "**Usage**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\account_openai_10.bmp](./assets/media/image369.png)
+![](./assets/media/image369.png)
 
 E, volendo, sarà possibile impostare anche eventuali limiti di utilizzo
 per non incorre in fatture impreviste (sezione "Limits")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\account_openai_11.bmp](./assets/media/image370.png)
+![](./assets/media/image370.png)
 
 Per maggiori informazioni relativamente a questo tipo di procedure si
 rimanda alla documentazione della specifica piattaforma

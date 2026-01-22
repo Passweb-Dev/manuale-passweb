@@ -22,7 +22,7 @@ diventa quindi "la colonna" e l'effettiva larghezza di un blocco di
 contenuti dipenderà da quante colonne occupa e da quante sono le N
 colonne in cui avevamo pensato di suddividere la riga.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gr_8.png](./assets/media/image52.png)
+![](./assets/media/image52.png)
 
 Nell'esempio illustrato in figura si è pensato di suddividere:
 

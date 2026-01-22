@@ -33,12 +33,12 @@ salvati è necessario, per prima cosa, abilitare la modalità di Gestione
 dei Layout cliccando per questo sul corrispondente pulsante presente
 all'interno del menu di Editing del sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_editing_layout_1.bmp](./assets/media/image139.png)
+![](./assets/media/image139.png)
 
 o, in alternativa, sulla corrispondente icona presente nella Barra degli
 Strumenti del Live Editing
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_editing_layout_2.bmp](./assets/media/image140.png)
+![](./assets/media/image140.png)
 
 In entrambi i casi verrà aperta la maschera "**Gestione Layout**"
 all'interno della quale poter visualizzare e gestire, nella sezione
@@ -46,7 +46,7 @@ all'interno della quale poter visualizzare e gestire, nella sezione
 precedentemente creati e salvati per la Variante Sito attualmente
 caricata all'interno del Wizard.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_layout_res.bmp](./assets/media/image141.png)
+![](./assets/media/image141.png)
 
 Per creare un nuovo Layout sarà invece necessario agire sul pulsante
 "**Crea un Layout**" presente nella parte sinistra di questa stessa
@@ -61,7 +61,7 @@ del layout che si sta realizzando e che serviranno quindi per
 individuarlo, tra gli altri, sia in maniera visiva che in maniera
 mnemonica.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuovo_layout_definizione_res.bmp](./assets/media/image142.png)
+![](./assets/media/image142.png)
 
 Impostate queste informazioni, cliccando sul pulsante "**Salva**",
 presente nella parte bassa della maschera, il nuovo layout verrà salvato
@@ -76,7 +76,7 @@ In questo senso sarà sufficiente selezionare, tra quelli presenti in
 elenco, il Layout desiderato e agire poi da uno dei pulsanti presenti
 nella contestuale barra degli strumenti.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_layout2_res.bmp](./assets/media/image143.png)
+![](./assets/media/image143.png)
 
 Di seguito verranno quindi illustrate le diverse azioni effettuabili su
 uno qualsiasi dei Layout gestiti all'interno del proprio sito.

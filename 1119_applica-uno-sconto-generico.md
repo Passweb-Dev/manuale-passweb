@@ -11,7 +11,7 @@ articoli da aggiungere in omaggio e compariranno invece i parametri di
 configurazione della particolare tipologia di sconto da applicare nel
 momento in cui il codice sconto dovesse essere correttamente validato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\buiono_sconto_applica_sconto.bmp](./assets/media/image583.png)
+![](./assets/media/image583.png)
 
 In particolare il parametro:
 
@@ -51,7 +51,7 @@ In particolare il parametro:
 > dovuto all'applicazione del Buono Sconto applicato sul sito mediante
 > un relativo Abbuono, verrà riportato all'interno del campo **Sconto**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_promozioni_12.bmp](./assets/media/image542.png)
+![](./assets/media/image542.png)
 
 - **Tipo:** permette di definire il tipo di sconto da applicare per il
   Buono in esame. Sono gestite le seguenti tipologie di sconti:
@@ -173,12 +173,12 @@ percentuale verrà considerato un importo NON ivato. Nello specifico:
 > indicato verrà sempre maggiorato dell'iva calcolata sulla base di tale
 > aliquota.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\aliquota_fissa_spese_trasporto.bmp](./assets/media/image315.png)
+![](./assets/media/image315.png)
 
 Infine, per questa particolare tipologia di Buoni Sconto, verrà sempre
 visualizzata anche la sezione "**Pagamenti non consentiti**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\promozione_pagamenti_non_consentiti.bmp](./assets/media/image514.png)
+![](./assets/media/image514.png)
 
 sezione questa all'interno della quale poter indicare eventuali metodi
 di pagamento che non dovranno essere mostrati in fase di checkout nel
@@ -255,7 +255,7 @@ Nel momento in cui il campo "**Tipo**", presente all'interno della
 sezione "**Azione**", dovesse essere impostato sul valore "**Sconto
 sull'Articolo più Economico**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sconto_articolo_economico.bmp](./assets/media/image517.png)
+![](./assets/media/image517.png)
 
 sarà poi possibile decidere, ragionando in termini di prezzo degli
 articoli presenti in carrello, a quale di essi dovrà essere applicato lo
@@ -345,11 +345,11 @@ In queste condizioni verrà visualizzata, come evidenziato in figura, un
 ulteriore sezione contenente l'elenco degli articoli cui applicare lo
 sconto.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\promozioni_sconto_determinati_articoli.bmp](./assets/media/image518.png)
+![](./assets/media/image518.png)
 
 Per aggiungere un nuovo articolo all'elenco è sufficiente cliccare sul
 pulsante **"Aggiungi Articolo"** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_aggiungi.bmp](./assets/media/image584.png) ). In questo modo verrà infatti
+![](./assets/media/image584.png) ). In questo modo verrà infatti
 visualizzata la maschera "**Articolo"** grazie alla quale poter
 selezionare il prodotto da aggiungere in elenco indicando anche quello
 che dovrà essere lo sconto da applicargli.
@@ -384,12 +384,12 @@ Buono Sconto. In questo senso i due pulsanti presenti nella barra degli
 strumenti consentono rispettivamente di:
 
 - **Importa** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_importa.bmp](./assets/media/image505.png) ): consente di importare in maniera
+  ![](./assets/media/image505.png) ): consente di importare in maniera
   massiva un elenco di tutti gli articoli cui dovrà essere applicato il
   buono sconto. Cliccando su questo pulsante verrà infatti visualizzata
   la maschera **"Importa Valori"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\promozioni_sconto_importa_valori.bmp](./assets/media/image519.png)
+![](./assets/media/image519.png)
 
 > all'interno della quale poter indicare:
 
@@ -445,14 +445,14 @@ strumenti consentono rispettivamente di:
 > all'interno del file andrà a sovrascrivere il precedente valore.
 
 - **Esporta**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_esporta.bmp](./assets/media/image508.png) ): consente di esportare l'attuale
+  (![](./assets/media/image508.png) ): consente di esportare l'attuale
   elenco di articoli cui dovrà essere applicato lo sconto all'interno di
   un' apposito file .csv.
 
 > Cliccando su questo pulsante verrà infatti visualizzata la maschera
 > **"Esporta Valori"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\esporta_valori_promozione2.bmp](./assets/media/image520.png)
+![](./assets/media/image520.png)
 
 > all'interno della quale poter indicare:
 
@@ -465,7 +465,7 @@ strumenti consentono rispettivamente di:
 Impostando il campo "**Tipo**", presente all'interno della sezione
 "**Azione**", sul valore **"Spedizione"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sconto_spedizione.bmp](./assets/media/image521.png)
+![](./assets/media/image521.png)
 
 lo sconto indicato andrà ad impattare sulle spese di trasporto
 **modificando quindi il loro importo originale**.
@@ -569,7 +569,7 @@ attualmente codificati all'interno della corrispondente sezione del
 Wizard. Per ciascuno di essi è riportato, tra parentesi, l'id del
 relativo metodo di trasporto e la descrizione ad esso assegnata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\promozioni_spedizione.bmp](./assets/media/image522.png)
+![](./assets/media/image522.png)
 
 Nel caso in cui il Buono Sconto in oggetto debba essere associato
 soltanto a determinati metodi di trasporto, sarà quindi sufficiente
@@ -623,7 +623,7 @@ configurare un buono sconto del tipo "**Prendi 3 paghi 2**".
 In queste condizioni verranno infatti visualizzati, come evidenziato in
 figura, i due campi X e Y
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prendiX_paghiY.bmp](./assets/media/image523.png)
+![](./assets/media/image523.png)
 
 all'interno dei quali poter indicare rispettivamente il numero di
 articoli (**X**) che devono essere acquistati (affinché questa
@@ -646,7 +646,7 @@ articoli presenti in carrello.
 
 In queste condizioni verrà dunque visualizzato un ulteriore campo **X**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sconto_ogni_x_carrello.bmp](./assets/media/image524.png)
+![](./assets/media/image524.png)
 
 all'interno del quale poter indicare la quantità di riferimento da
 considerare per applicare il relativo sconto (che potrà essere fisso o
@@ -777,7 +777,7 @@ articoli presenti in riga.
 
 In queste condizioni verrà dunque visualizzato un ulteriore campo **X**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sconto_ogni_x_riga.bmp](./assets/media/image525.png)
+![](./assets/media/image525.png)
 
 all'interno del quale poter indicare la quantità di riferimento da
 considerare per applicare il relativo sconto (che potrà essere fisso o
@@ -905,7 +905,7 @@ applicare allo sconto associato al buono.
 
 In queste condizioni verrà dunque visualizzato un ulteriore campo **Z**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sconto_z_carrello.bmp](./assets/media/image585.png)
+![](./assets/media/image585.png)
 
 all'interno del quale poter indicare un importo **IVATO** che verrà
 utilizzato come divisore del **Totale Merce** al fine di individuare il
@@ -976,7 +976,7 @@ in Carrello"** il buono sconto in esame si espliciterà nella possibilità
 da parte dell'utente di definire, dinamicamente, un moltiplicatore da
 applicare allo sconto associato al buono.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sconto_z_imponibile_carrello.bmp](./assets/media/image586.png)
+![](./assets/media/image586.png)
 
 In sostanza del buono sconto in esame è in tutto e per tutto analoga al
 buono "Sconto ogni Z in carrello" esaminato all'interno del precedente

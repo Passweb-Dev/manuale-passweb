@@ -5,7 +5,7 @@
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_ordini_configurazione_res.bmp](./assets/media/image406.png)
+![](./assets/media/image406.png)
 
 suddivisa in varie sezioni.
 
@@ -121,18 +121,18 @@ possibile selezionare uno dei seguenti valori:
   documenti generati a seguito della vendita (**Ecommerce**) di un
   determinato prodotto
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\horeca_componente_ecommerce_ordini_esempio.bmp](./assets/media/image407.png)
+![](./assets/media/image407.png)
 
 - **Prenotazioni:** selezionando questa opzione all'interno del
   componente verrà visualizzato solo ed esclusivamente la sezione
   relativa alle prenotazioni web
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\horeca_componente_ecommerce_ordini_esempio2.bmp](./assets/media/image408.png)
+![](./assets/media/image408.png)
 
 - **Ordini e Prenotazioni:** selezionando questa opzione all'interno del
   componente verranno visualizzate sia le sezioni relative a documenti
   generati a seguito della vendita (ecommerce) di un determinato
   prodotto, sia quella relativa alle prenotazioni web
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\horeca_componente_ecommerce_ordini_configurazione3.bmp](./assets/media/image409.png)
+![](./assets/media/image409.png)
 

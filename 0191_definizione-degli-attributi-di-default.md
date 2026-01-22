@@ -30,7 +30,7 @@ sul pulsante "**Temi**" presente nel menu di "Editing Sito". In questo
 modo verrà infatti visualizzato, immediatamente a fianco del menu di
 Editing, un ulteriore box
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_editing_gestione_temi.bmp](./assets/media/image326.png)
+![](./assets/media/image326.png)
 
 all'interno del quale il campo:
 
@@ -44,7 +44,7 @@ all'interno del quale il campo:
 Cliccando dunque su quest'ultimo pulsante verrà visualizzata la maschera
 di "**Gestione Temi"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\temi_3_res.bmp](./assets/media/image327.png)
+![](./assets/media/image327.png)
 
 suddivisa in due distinte sezioni:
 
@@ -60,7 +60,7 @@ necessario portarsi nella relativa sezione, cliccare sul pulsante
 "**Nuovo Attributo**" presente nella contestuale barra degli strumenti,
 e nella successiva maschera indicare un valore per i seguenti campi:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\temi_4_res.bmp](./assets/media/image328.png)
+![](./assets/media/image328.png)
 
 - **Nome Attributo:** consente di assegnare un nome allo specifico
   Attributo che si sta realizzando
@@ -96,11 +96,11 @@ I pulsanti presenti nella barra degli strumenti di questa sezione
 consentiranno rispettivamente di:
 
 **Nuovo Attributo** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuovo_attributo_tema_res.bmp](./assets/media/image329.png) ): consente di creare un nuovo Attributo
+![](./assets/media/image329.png) ): consente di creare un nuovo Attributo
 di Default
 
 **Modifica Attributo** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_attributo_tema_res.bmp](./assets/media/image330.png) ): consente di modificare l'Attributo di
+![](./assets/media/image330.png) ): consente di modificare l'Attributo di
 Default attualmente selezionato in elenco
 
 **ATTENZIONE! Una volta creato e definito un Attributo sarà poi
@@ -108,7 +108,7 @@ possibile modificare il valore di Default ad esso associato ma non il
 suo nome**
 
 **Elimina Attributo** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_attributo_tema_res.bmp](./assets/media/image331.png) ): Consente di eliminare l'Attributo
+![](./assets/media/image331.png) ): Consente di eliminare l'Attributo
 attualmente selezionato in elenco.
 
 **ATTENZIONE! Nel momento in cui si dovesse decidere di eliminare un
@@ -119,7 +119,7 @@ inserito l'Attributo che si intende eliminare.**
 Cliccando su questo pulsante verrà quindi visualizzata la sezione
 "**Elimina Attributo**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\temi_8_res.bmp](./assets/media/image332.png)
+![](./assets/media/image332.png)
 
 all'interno della quale il campo:
 

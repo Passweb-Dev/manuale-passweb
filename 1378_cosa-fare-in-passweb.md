@@ -22,7 +22,7 @@ In questo caso sarà necessario:
   Preferenze -- Tracciamento Dati -- Google -- Google Ads*" di questo
   manuale
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\conversioni_offline_1.bmp](./assets/media/image30.png)
+![](./assets/media/image30.png)
 
 **ATTENZIONE!** il consiglio, come indicato anche nella stessa
 documentazione di Google Ads, è quello di attivare sempre anche il
@@ -43,7 +43,7 @@ In questo caso sarà necessario:
   Tag Manager**" alla pagina "**Sito -- Preferenze**" del Wizard (tab
   "**Tracciamento Dati**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\conversioni_offline_2.bmp](./assets/media/image31.png)
+![](./assets/media/image31.png)
 
 L'attivazione del parametro evidenziato in figura farà si che nel
 momento in cui l'utente abbandonerà il sito per essere ridiretto al

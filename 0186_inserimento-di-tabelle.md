@@ -12,7 +12,7 @@ pixel della tabella, il posizionamento e il testo dell'eventuale
 intestazione, la spaziatura e il padding (spaziatura interna) tra le
 celle , la dimensione del bordo e l'allineamento.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\proprieta_tabella_res.bmp](./assets/media/image297.png)
+![](./assets/media/image297.png)
 
 Una volta confermate con **"OK"** le impostazioni di base, la tabella
 comparirà all'interno del paragrafo. Cliccando col tasto destro del

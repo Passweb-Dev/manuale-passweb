@@ -5,7 +5,7 @@
 Il Componente "**Selezione Indirizzo**" può essere utilizzato in una
 qualsiasi pagina del sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_selezione_indirizzo.bmp](./assets/media/image413.png)
+![](./assets/media/image413.png)
 
 e consente di inserire all'interno della pagina stessa una combo box
 contenente un piccolo form che l'utente potrà utilizzare per indicare

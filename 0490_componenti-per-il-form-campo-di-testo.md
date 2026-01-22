@@ -4,7 +4,7 @@
 
 Il Componente per il form **"Campo di Testo"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_interno_campo_testo.bmp](./assets/media/image548.png)
+![](./assets/media/image548.png)
 
 può essere inserito, dipendentemente dalla tipologia di sito
 considerata, all'interno dei componenti Ecommerce di primo livello
@@ -17,9 +17,9 @@ In particolare, se inserito all'interno del componente:
   abilitati per inserire e/o variare gli sconti e/o il prezzo di vendita
   degli articoli presenti in carrello.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\campo_testo_carrello_custom.bmp](./assets/media/image549.png)
+![](./assets/media/image549.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\campo_testo_carrello_custom2.bmp](./assets/media/image550.png)
+![](./assets/media/image550.png)
 
 > **ATTENZIONE! In queste condizioni il componente verrà visualizzato
 > solo ed esclusivamente nel momento in cui ad effettuare l'ordine per
@@ -31,12 +31,12 @@ In particolare, se inserito all'interno del componente:
   il quale l'utente potrà variare le quantità degli articoli presenti
   all'interno del documento di reso merce.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\campo_testo_reso_custom.bmp](./assets/media/image551.png)
+![](./assets/media/image551.png)
 
 Rilasciando il Componente nella posizione desiderata verrà visualizzata
 **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\campo_testo_custom_configurazione_res.bmp](./assets/media/image552.png)
+![](./assets/media/image552.png)
 
 suddivisa in varie sezioni.
 

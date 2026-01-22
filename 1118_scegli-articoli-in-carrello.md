@@ -7,7 +7,7 @@ Carrello"** il Buono Sconto si espliciterà nella possibilità da parte
 dell'utente di scegliere tra una lista di articoli predefiniti, quali
 poter aggiungere gratuitamente (o a condizioni particolari) in Ordine.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\scelta_articoli_carrello.bmp](./assets/media/image581.png)
+![](./assets/media/image581.png)
 
 Il parametro **"Numero Articoli da scegliere**" consente di impostare il
 numero esatto di articoli che l'utente potrà selezionare tra quelli
@@ -25,7 +25,7 @@ condizioni particolari per essi definite.
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 "**Articolo**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\scelta_articoli_carrello2.bmp](./assets/media/image511.png)
+![](./assets/media/image511.png)
 
 all'interno della quale poter indicare:
 
@@ -312,7 +312,7 @@ In questo senso i due pulsanti presenti nella barra degli strumenti
 consentono rispettivamente di:
 
 - **Importa** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_importa.bmp](./assets/media/image505.png) ): consente di importare in maniera
+  ![](./assets/media/image505.png) ): consente di importare in maniera
   massiva un elenco di tutti gli articoli, con i relativi parametri di
   configurazione che dovranno essere inseriti nell'elenco di selezione
   mostrato all'utente al verificarsi delle condizioni di applicabilità
@@ -428,7 +428,7 @@ consentono rispettivamente di:
 > all'interno del file di importazione.
 
 - **Esporta**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_esporta.bmp](./assets/media/image508.png) ): consente di esportare l'attuale
+  (![](./assets/media/image508.png) ): consente di esportare l'attuale
   elenco di articoli all'interno di un' apposito file .csv.
 
 > Cliccando su questo pulsante verrà infatti visualizzata la maschera
@@ -449,7 +449,7 @@ che sia stato correttamente inserito e configurato, in fase di
 costruzione del sito, all'interno della stessa pagina anche il
 componente "**Selezione Regalo"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\scelta_articoli_carrello4.bmp](./assets/media/image582.png)
+![](./assets/media/image582.png)
 
 Per maggiori informazioni relativamente alla configurazione e alla
 gestione del componente "**Selezione Regalo**" si vedano anche le

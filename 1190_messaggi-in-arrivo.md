@@ -27,7 +27,7 @@ Per leggere un messaggio è sufficiente selezionarlo tra quelli presenti
 in elenco; in questo modo infatti verrà immediatamente visualizzata la
 relativa maschera di dettaglio.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_comm_messaggi_dettaglio_messaggio_passcom.bmp](./assets/media/image19.png)
+![](./assets/media/image19.png)
 
 In visualizzazione mobile sarà invece necessario, per prima cosa,
 selezionare il messaggio desiderato tra quelli presenti in elenco e,
@@ -35,7 +35,7 @@ successivamente, cliccare sul pulsante "**Visualizza Dettaglio**"
 presente nel menu contestuale attivabile dall'icona raffigurante tre
 piccoli puntini
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_comm_visualizza_dettagli_messaggi_mobile.bmp](./assets/media/image20.png)
+![](./assets/media/image20.png)
 
 Una volta visualizzato il dettaglio di un messaggio, i pulsanti presenti
 nella relativa barra degli strumenti consentiranno rispettivamente di:
@@ -44,7 +44,7 @@ nella relativa barra degli strumenti consentiranno rispettivamente di:
 ![Videate\\ar_pulsante_elimina_messaggio.bmp](./assets/media/image21.png) ): consente, previa ulteriore conferma,
 di eliminare il messaggio attualmente visualizzato.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_conferma_elimina_messaggio_passcom.bmp](./assets/media/image22.png)
+![](./assets/media/image22.png)
 
 **ATTENZIONE!** I messaggi eliminati verranno automaticamente spostati
 all'interno della sotto sezione **"Messaggi Eliminati"** da dove,
@@ -80,12 +80,12 @@ selezionare tra quelli presenti in elenco.
 Per creare un nuovo messaggio è invece sufficiente cliccare sull'icona
 raffigurante una piccola matita posta nella parte bassa della pagina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuovo_messaggio_Ar_passcom.bmp](./assets/media/image27.png)
+![](./assets/media/image27.png)
 
 Cliccando su questo pulsante verrà infatti visualizzata la maschera di
 creazione nuovo messaggio
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ec_nuovo_messaggio.bmp](./assets/media/image28.png)
+![](./assets/media/image28.png)
 
 all'interno della quale poter indicare il destinatario, l'oggetto,
 eventuali allegati ed il testo del messaggio.
@@ -105,7 +105,7 @@ In questo modo si avrà infatti accesso alla maschera "**Destinatari**"
 contenente una lista, organizzata ad albero, di tutti i possibili
 destinatari del messaggio.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_comm_destinatari.bmp](./assets/media/image30.png)
+![](./assets/media/image30.png)
 
 All'interno di questo elenco è possibile distinguere evidenziati in:
 
@@ -139,19 +139,19 @@ Per inserire un nuovo destinatario sarà quindi sufficiente selezionarlo
 dall'elenco sopra evidenziato, mettendo l'apposita spunta, e cliccare
 poi sul relativo pulsante di conferma
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_nuovo_destinatario_passcom.bmp](./assets/media/image31.png)
+![](./assets/media/image31.png)
 
 Il destinatario così selezionato comparirà poi all'interno del pannello
 **"Destinatari"**.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_messaggi_destinatario.bmp](./assets/media/image32.png)
+![](./assets/media/image32.png)
 
 Per eliminare uno dei destinatari del messaggio è sufficiente
 selezionarlo tra quelli presenti in elenco e cliccare poi sul pulsante
 **Rimuovi Utenti**
 (![Videate\\ar_pulsante_elimina_utenti.bmp](./assets/media/image33.png)).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_messaggi_rimuovi_destinatario.bmp](./assets/media/image34.png)
+![](./assets/media/image34.png)
 
 Il pulsante **Allega File** (
 ![Videate\\ar_pulsante_allega_file.bmp](./assets/media/image35.png) ), presente nella barra degli strumenti della
@@ -173,7 +173,7 @@ Per eliminare eventuali allegati al messaggio è sufficiente cliccare
 sull'icona raffigurante un piccolo cestino posta a fianco del nome
 dell'allegato stesso.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_messaggi_elimina_allegati.bmp](./assets/media/image38.png)
+![](./assets/media/image38.png)
 
 I check "**E-Mail**"**,** "**SMS**"**,** "**Telegram**" e
 **"Whatsapp"**, presenti all'interno del pannello **"Notifica invio del
@@ -182,7 +182,7 @@ un SMS, con un messaggio Telegram e con un messaggio Whatsapp, il/i
 destinatari relativamente alla presenza di questo nuovo messaggio
 disponibile in area riservata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_notifica_messaggio_passcom.bmp](./assets/media/image39.png)
+![](./assets/media/image39.png)
 
 I check "**E-Mail**"**,** "**SMS**"**,** "**Telegram**" e **"Whatsapp"**
 presenti invece all'interno del pannello **"Notifica lettura del
@@ -190,7 +190,7 @@ Messaggio"**, consentono di notificare via SMS, Mail, Telegram o
 Whatsapp il mittente del messaggio relativamente alla lettura dello
 stesso da parte di uno dei suoi destinatari.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_notifica_ricezione.bmp](./assets/media/image40.png)
+![](./assets/media/image40.png)
 
 **ATTENZIONE!** affinché tali notifiche possano essere recapitate in
 maniera corretta è indispensabile che i destinatari di queste stesse

@@ -3,7 +3,7 @@
 
 
 L'icona "**Vai al componente Padre**" (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\icona_vai_al_padre.bmp](./assets/media/image207.png) ) presente nel R.O.C. del componente e/o
+![](./assets/media/image207.png) ) presente nel R.O.C. del componente e/o
 nella barra degli strumenti dell' Albero dei Componenti consente di
 risalire di un livello l'albero dei componenti portando quindi la
 selezione ed il focus sul componente di livello immediatamente superiore

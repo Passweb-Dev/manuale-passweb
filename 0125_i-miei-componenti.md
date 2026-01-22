@@ -6,7 +6,7 @@ All'interno di questa sezione del Wizard è possibile visualizzare
 l'elenco completo dei Componenti esportati a partire da una qualsiasi
 Variante del Sito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_componenti_esportati.bmp](./assets/media/image574.png)
+![](./assets/media/image574.png)
 
 Per ciascuno dei componenti presenti in elenco è indicata:
 

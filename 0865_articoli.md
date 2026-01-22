@@ -16,7 +16,7 @@ All'interno di questa sezione sarà possibile, essenzialmente, definire i
 Magazzini da collegare all'Account in esame, dato questo obbligatorio al
 fine di poter salvare correttamente l'Account che si sta codificando
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_mkt_2.bmp](./assets/media/image314.png)
+![](./assets/media/image314.png)
 
 **ATTENZIONE!** I magazzini indicati all'interno di questa sezione
 saranno poi quelli che verranno presi in considerazione per valutare la

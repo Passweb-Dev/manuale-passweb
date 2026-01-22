@@ -14,7 +14,7 @@ pagina personalizzata della Categoria, al momento della creazione di
 quest'ultima (da Sito -- Gestione CMS) occorre selezionare la pagina in
 cui si desidera creare la Pagina Categoria.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cms_paginacategoria.bmp](./assets/media/image106.png)
+![](./assets/media/image106.png)
 
 In questo esempio si vuol creare una pagina Categoria per le News che
 trattano di cinema.

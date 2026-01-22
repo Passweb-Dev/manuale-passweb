@@ -6,7 +6,7 @@ I menu Lista sono caratterizzati dal fatto di essere visualizzati sempre
 in verticale e dal fatto di avere tutte le voci di menu sempre
 visualizzate (indipendentemente dal loro livello di appartenenza).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\menu_lista_esempio.bmp](./assets/media/image26.png)
+![](./assets/media/image26.png)
 
 Per realizzare questo tipo di menu è necessario impostare:
 

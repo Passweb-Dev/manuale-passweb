@@ -8,7 +8,7 @@ cartelle che possono essere utilizzate per organizzare i documenti
 dell'utente attualmente loggato e, eventualmente, delle aziende che esso
 è in grado di gestire (utenti di tipo Commercialista o Dipendete)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_comm_cartelle_documenti.bmp](./assets/media/image61.png)
+![](./assets/media/image61.png)
 
 **ATTENZIONE**! per poter visualizzare le cartelle di una determinata
 azienda è necessario, per prima cosa, selezionarla mediante l'apposito
@@ -36,7 +36,7 @@ Cliccando quindi su uno dei risultati presenti in elenco verrà aperta la
 relativa cartella e verranno, ovviamente, visualizzati nella colonna di
 destra, tutti i documenti in essa contenuti
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_comm_ricerca_cartelle_risultati_2.bmp](./assets/media/image64.png)
+![](./assets/media/image64.png)
 
 Il pulsante "**Annulla**" consente invece di ripulire e azzerare il
 filtro precedentemente impostato.

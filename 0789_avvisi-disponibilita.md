@@ -9,7 +9,7 @@ effettivamente fatto queste richieste, quando queste richieste sono
 state effettuate, se sono già state inviate le notifiche di
 disponibilità ecc...
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\avvisi_disponibilita.bmp](./assets/media/image310.png)
+![](./assets/media/image310.png)
 
 **ATTENZIONE!** ogni giorno dopo la mezzanotte, **solo** **nel caso in
 cui dovessero essere presenti, nell'elenco sopra evidenziato, dei
@@ -26,14 +26,14 @@ stessa.
 Una volta impostato un filtro di ricerca, per poterlo poi eliminare sarà
 sufficiente cliccare sull'icona raffigurante una piccola lente di
 ingrandimento con un -- all'interno (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina_filtro.bmp](./assets/media/image86.png) ) che comparirà in testata alla colonna
+![](./assets/media/image86.png) ) che comparirà in testata alla colonna
 in corrispondenza della quale è stato impostato il filtro stesso.
 
 Infine è anche possibile ordinare, in maniera crescente e/o decrescente,
 gli elementi in griglia cliccando semplicemente sull'icona raffigurante
 due piccole frecce posta anch' essa in testata ad ogni singola colonna
 della griglia (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_ordinamento_griglia.bmp](./assets/media/image87.png) )
+![](./assets/media/image87.png) )
 
 Per ciascuno dei prodotti presenti in elenco è possibile visualizzare:
 
@@ -56,12 +56,12 @@ Per ciascuno dei prodotti presenti in elenco è possibile visualizzare:
 
 Selezionando uno degli articoli presenti in elenco, e cliccando sul
 pulsante "**Visualizza Notifiche Disponibilità**" (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_visualizza_notifiche_disponibilita.bmp](./assets/media/image311.png) ) è possibile visualizzare l'elenco
+![](./assets/media/image311.png) ) è possibile visualizzare l'elenco
 dettagliato di tutti gli utenti che hanno effettivamente richiesto di
 essere avvisati in merito alla disponibilità di quello specifico
 articolo.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\avvisi_disponibilita_iscritti.bmp](./assets/media/image312.png)
+![](./assets/media/image312.png)
 
 Per ogni utente è possibile visualizzare:
 
@@ -90,7 +90,7 @@ utenti che hanno effettuato una richiesta di notifica disponibilità.
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 "**Esporta Notifiche Disponibilità**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\esporta_notifiche_disponibilita.bmp](./assets/media/image314.png)
+![](./assets/media/image314.png)
 
 all'interno della quale poter configurare l'esportazione dei dati.
 

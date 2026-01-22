@@ -6,7 +6,7 @@ All'interno di questa sezione l'Agente avrà la possibilità di consultare
 tutti i documenti **(Ordini, Preventivi, Bolle e Fatture)** relativi al
 cliente in esame
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_dettaglio_utente_ordini.bmp](./assets/media/image195.png)
+![](./assets/media/image195.png)
 
 **ATTENZIONE:** nel momento in cui l'esigenza dovesse essere quella di
 visualizzare all'interno di questa sezione anche documenti NON nati da
@@ -27,24 +27,24 @@ presenti all'interno della relativa colonna.
 
 Selezionando uno dei documenti in elenco, il pulsante "**Visualizza
 Dettaglio**" (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_pulsante_visualizza_dettaglio.bmp](./assets/media/image196.png) ) consentirà di accedere al dettaglio di
+![](./assets/media/image196.png) ) consentirà di accedere al dettaglio di
 tale documento
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_dettaglio_utente_ordini_dettaglio.bmp](./assets/media/image197.png)
+![](./assets/media/image197.png)
 
 Il pulsante "**Docuvision**" (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_docuvision_ordine.bmp](./assets/media/image198.png) ) presente nella maschera di dettaglio
+![](./assets/media/image198.png) ) presente nella maschera di dettaglio
 consente invece di prelevare in tempo reale eventuali file allegati, in
 Docuvision, al documento in esame.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_docuvision_ordini.bmp](./assets/media/image199.png)
+![](./assets/media/image199.png)
 
 In particolare, effettuando l'accesso a questa sezione verrà
 visualizzata, inizialmente, la lista di tutti i file allegati in
 Docuvision al documento in questione.
 
 Il pulsante "**Download**" (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_pulsante_download_docuvison.bmp](./assets/media/image200.png) ), presente in corrispondenza di
+![](./assets/media/image200.png) ), presente in corrispondenza di
 ciascuno dei file in elenco, consente invece di scaricare il relativo
 allegato.
 

@@ -5,7 +5,7 @@
 Il Componente **"Reso Custom (RMA)"** può essere inserito, ovviamente,
 soltanto all'interno della pagina "Reso"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_reso_custom_res.bmp](./assets/media/image327.png)
+![](./assets/media/image327.png)
 
 dove consente di creare il modulo per la visualizzazione e la gestione
 delle richieste di reso merce**.**
@@ -13,7 +13,7 @@ delle richieste di reso merce**.**
 **ATTENZIONE!** Non è possibile effettuare richieste di reso merce in
 relazione ad articoli di tipo "Gift Card"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\reso_custom_1.bmp](./assets/media/image328.png)
+![](./assets/media/image328.png)
 
 **ATTENZIONE! Utilizzando questo Componente i totali del documento
 verranno visualizzati solo ed esclusivamente nel caso in cui sia stato
@@ -29,7 +29,7 @@ reso merce.**
 Il pulsante "**Genera Template**" presente nella parte alta della
 maschera di configurazione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\reso_genera_template_res.bmp](./assets/media/image329.png)
+![](./assets/media/image329.png)
 
 **consente, infine, di generare automaticamente, sulla base della
 struttura attuale del componente, delle informazioni in esso presenti e

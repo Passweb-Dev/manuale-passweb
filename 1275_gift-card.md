@@ -20,7 +20,7 @@ All'interno della maschera **Gift Cards** verranno quindi visualizzati
 tutti i codici Gift Card che sono stati utilizzati almeno una volta
 all'interno di un documento.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\statistiche_gc_0.bmp](./assets/media/image34.png)
+![](./assets/media/image34.png)
 
 E' possibile filtrare i dati in elenco in base al nome del cliente
 intestatario dell\'ordine (campo "**Nome / Ragione Sociale"**), in base
@@ -56,7 +56,7 @@ ad ulteriori dettagli relativi all'utilizzo di questo stesso codice.
 In questo modo verranno infatti visualizzate le righe di tutte le
 matrici Passweb coinvolte nell'utilizzo del codice Gift Card selezionato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\statistiche_gc_1.bmp](./assets/media/image35.png)
+![](./assets/media/image35.png)
 
 e per ciascuna di esse verranno visualizzate le seguenti informazioni:
 
@@ -87,7 +87,7 @@ Cliccando su ciascuna delle righe presenti all'interno di questa
 maschera, sarà possibile accedere anche al dettaglio dell'intera matrice
 in cui è stato utilizzato il relativo codice Gift Card.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\statistiche_gc_2.bmp](./assets/media/image36.png)
+![](./assets/media/image36.png)
 
 Il link presente nella parte alta della maschera di dettaglio, in
 corrispondenza della voce "**Documenti Correlati**", consente di passare
@@ -100,7 +100,7 @@ Per far questo è sufficiente selezionare uno dei formati di esportazione
 presenti nel menu a tendina attivabile cliccando sul campo evidenziato
 in figura e cliccare poi sul pulsante "**Esporta**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\statistiche_gc_3.bmp](./assets/media/image37.png)
+![](./assets/media/image37.png)
 
 Nello specifico l'opzione:
 

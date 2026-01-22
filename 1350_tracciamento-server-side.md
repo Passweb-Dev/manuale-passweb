@@ -52,7 +52,7 @@ indirizzo:
 
 https://developers.google.com/tag-platform/tag-manager/server-side/intro
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_ss_23.bmp](./assets/media/image155.png)
+![](./assets/media/image155.png)
 
 In sostanza come evidenziato dalla figura sopra riportata, in un
 tracciamento lato client "tradizionale" implementato, ad esempio,
@@ -121,7 +121,7 @@ come effettivamente si modifica tutto il sistema con l'introduzione del
 tracciamento server-side e, per questo, facciamo riferimento ancora una
 volta alla documentazione ufficiale messa a disposizione da Google
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_ss_24.bmp](./assets/media/image156.png)
+![](./assets/media/image156.png)
 
 Come si può osservare nella figura sopra riportata il tracciamento
 server side introduce, rispetto al tracciamento lato client appena
@@ -173,9 +173,9 @@ Entrambe queste domande trovano risposta nella nuova entità presente
 esclusivamente nei contenitori GTM di tipo server, i cosiddetti
 **Client**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_ss_16.bmp](./assets/media/image157.png)
+![](./assets/media/image157.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_ss_25.bmp](./assets/media/image158.png)
+![](./assets/media/image158.png)
 
 Questi client sono una sorta di adattatori che si interpongono tra il
 software in esecuzione sul dispositivo dell'utente e i Tag presenti nel
@@ -235,7 +235,7 @@ prenderà in carico e passerà alla fase successiva, in caso contrario
 passerà la richiesta ad un altro Client che farà esattamente la stessa
 cosa.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_ss_26.bmp](./assets/media/image159.png)
+![](./assets/media/image159.png)
 
 In questo modo le richieste in arrivo dal sistema di tracciamento
 implementato sul sito verranno prese in carico dal Client GA4, quelle
@@ -254,7 +254,7 @@ siano effettivamente in grado di comprendere e questo qualcosa sono,
 ovviamente, **eventi** che possano poi essere gestiti (come avviene
 normalmente) da Attivatori, Tag e Variabili.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_ss_27.bmp](./assets/media/image160.png)
+![](./assets/media/image160.png)
 
 **[I CLIENT ATTIVANO I TAG PRESENTI NEL CONTENITORE SERVER SIDE DI
 GTM]{.underline}**
@@ -270,7 +270,7 @@ potrebbe voler dire inoltrare la richiesta stessa ad un ulteriore
 endpoint destinato a raccogliere i dati di tracciamento (3) come
 potrebbe essere Google Analytics, Google Ads, Facebook ...
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_ss_28.bmp](./assets/media/image161.png)
+![](./assets/media/image161.png)
 
 ma, più in generale, potrebbe anche voler dire rispondere al dispositivo
 che ha originato la richiesta dicendo semplicemente "Ok fatto" oppure

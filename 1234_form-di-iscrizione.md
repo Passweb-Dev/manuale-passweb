@@ -18,13 +18,13 @@ innanzitutto, aprire il menu contestuale alla lista stessa cliccando sul
 pulsante raffigurante una piccola freccia rivolta verso il basso;
 occorre poi cliccare sulla voce "**Signup Forms**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_step_28.bmp](./assets/media/image20.png)
+![](./assets/media/image20.png)
 
 In questo modo verremo quindi ricondotti ad una maschera all'interno
 della quale poter selezionare la tipologia di form che ci interessa
 realizzare.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_forms.bmp](./assets/media/image21.png)
+![](./assets/media/image21.png)
 
 Ai fini di una corretta integrazione del form di iscrizione alla
 Newsletter all'interno del proprio sito Passweb, mediante la relativa
@@ -34,7 +34,7 @@ In questo modo verremo ricondotti alla maschera di creazione dei form,
 la cui tipologia potrà essere selezionata all'interno dell'apposito
 campo "Forms and response emails"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_step_30.bmp](./assets/media/image22.png)
+![](./assets/media/image22.png)
 
 All'interno del tab **"Build It"** sarà possibile personalizzare il form
 di iscrizione secondo le proprie specifiche esigenze aggiungendo o
@@ -62,7 +62,7 @@ all'interno del form immediatamente al di sopra della sezione relativa
 ai gruppi; nella parte destra delle pagina (tab **"Field Settings"**)
 verranno poi visualizzate le impostazioni del nuovo campo.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_step_31.bmp](./assets/media/image23.png)
+![](./assets/media/image23.png)
 
 Sarà quindi necessario definire, ad esempio, il nome del campo (**Field
 Label**), la sua visibilità (**Field Visibility**) oppure se il campo in
@@ -92,7 +92,7 @@ Il menu a tendina presente nella parte alta della pagina in
 corrispondenza della voce **"Forms and Response Emails"** consente, come
 detto di selezionare la tipologia di form che si intende realizzare.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_step_32.bmp](./assets/media/image24.png)
+![](./assets/media/image24.png)
 
 **Ai fini dell'integrazione con Passweb sono comunque gestite le sole
 tipologie "Singup Form" (Form di inscrizione) e "Unscribe fomr" (Form di

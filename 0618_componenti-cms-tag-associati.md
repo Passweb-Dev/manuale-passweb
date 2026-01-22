@@ -4,19 +4,19 @@
 
 Il Componente **"Tags Associati"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cms_componente_tag_asso_res.bmp](./assets/media/image75.png)
+![](./assets/media/image75.png)
 
 consente di visualizzare per ogni singola notizia presente all'interno
 del componente CMS di livello superiore, i tag associati alla notizia
 stessa
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\tag_associati_esempio_res.bmp](./assets/media/image76.png)
+![](./assets/media/image76.png)
 
 A livello di configurazione, una volta inserito il Componente
 all'interno della pagina web, verrà aperta in automatico **la sua
 maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_cms_tags_configurazione_res.bmp](./assets/media/image77.png)
+![](./assets/media/image77.png)
 
 suddivisa in varie sezioni.
 

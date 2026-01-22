@@ -5,7 +5,7 @@
 Le "**Cartelle Azienda**" sono quelle identificate all'interno
 dell'albero dall'icona colorata di rosso
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_comm_cartelle_azienda.bmp](./assets/media/image86.png)
+![](./assets/media/image86.png)
 
 e a differenza di quelle Standard, che possono essere liberamente create
 da ogni utente abilitato ad accedere in area riservata, le cartelle di

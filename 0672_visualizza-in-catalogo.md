@@ -5,7 +5,7 @@
 Il parametro "**Visualizza in Catalogo**" presente nella sezione
 "Informazioni Generali" dell'Anagrafica Passweb di ogni articolo
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_visualizza_in_catalogo.bmp](./assets/media/image123.png)
+![](./assets/media/image123.png)
 
 consente di attivare una particolare modalità di gestione a seguito
 della quale sarà possibile decidere se lo specifico articolo dovrà o

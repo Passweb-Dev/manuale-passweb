@@ -20,19 +20,19 @@ passare direttamente al punto 3
     <https://developer.twitter.com> e cliccare sulla voce **Apps**
     presente nel menu
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_login_twitter1.bmp](./assets/media/image251.png)
+![](./assets/media/image251.png)
 
 2.  Cliccare quindi sul pulsante "**Create an App**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_login_twitter3.bmp](./assets/media/image252.png)
+![](./assets/media/image252.png)
 
 > e completare, fornendo tutti i dati richiesti dalla piattaforma, i
 > passaggi necessari per portare a termine correttamente la creazione
 > del proprio account sviluppatore
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_login_twitter3a.bmp](./assets/media/image253.png)
+![](./assets/media/image253.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_login_twitter3b.bmp](./assets/media/image254.png)
+![](./assets/media/image254.png)
 
 > Una volta completata la creazione del proprio account sviluppatore
 > verremo ridiretti automaticamente all'interno del "**Developer
@@ -47,7 +47,7 @@ passare direttamente al punto 3
 > A questo punto sarà necessario selezionare, dal menu presente nella
 > parte alta della pagina, la voce **Apps**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_login_twitter3c.bmp](./assets/media/image255.png)
+![](./assets/media/image255.png)
 
 > in maniera tale da poter accedere alla sezione del portale di sviluppo
 > in cui poter creare la nostra nuova app
@@ -56,18 +56,18 @@ passare direttamente al punto 3
     deputata alla creazione delle app cliccare sul pulsante "**Create
     App**" evidenziato in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_login_twitter3d.bmp](./assets/media/image256.png)
+![](./assets/media/image256.png)
 
 5.  Assegnare quindi un nome all'App e cliccare sul pulsante
     "**Complete**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_login_twitter4.bmp](./assets/media/image257.png)
+![](./assets/media/image257.png)
 
 6.  Completata la creazione dell'App verrà visualizzata una maschera
     contenente i dati da inserire all'interno del proprio sito Passweb
     per realizzare l'integrazione tra le due piattaforme
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_login_twitter4a.bmp](./assets/media/image258.png)
+![](./assets/media/image258.png)
 
 > Copiare quindi il contenuto del campo "**Api Key**" ed inserirlo
 > all'interno del campo "**Consumer Key (API Key)** presente alla pagina
@@ -85,17 +85,17 @@ passare direttamente al punto 3
     "Keys and tokens") i parametri di configurazione "Api Key" e "Api
     secret key") indicati al punto precedente
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_login_twitter4b.bmp](./assets/media/image259.png)
+![](./assets/media/image259.png)
 
 8.  Nella pagina di gestione delle impostazioni della propria app,
     cliccare sul pulsante "**Edit**" presente in corrispondenza della
     sezione "**Authentication settings**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_login_twitter5.bmp](./assets/media/image260.png)
+![](./assets/media/image260.png)
 
 > e compilare i campi richiesti come di seguito indicato:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_login_twitter5a.bmp](./assets/media/image261.png)
+![](./assets/media/image261.png)
 
 - Abilitare il check "**Enable 3rd party authentication**"
 
@@ -128,14 +128,14 @@ qualsiasi account LinkedIn regolarmente registrato.
 Nel momento in cui l'utente dovesse cliccare sul relativo pulsante
 presente all'interno del pannello di login
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_login_twitter13.bmp](./assets/media/image262.png)
+![](./assets/media/image262.png)
 
 verrà ridiretto su una pagina di accesso di Twitter all'interno della
 quale dovrà inserire le credenziali del proprio account, oltre ad
 autorizzare la trasmissione dei dati dal proprio profilo Twitter al sito
 Passweb.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_login_twitter14.bmp](./assets/media/image263.png)
+![](./assets/media/image263.png)
 
 Nel caso in cui l'utente fosse già autenticato al Social Network non gli
 sarà richiesto di inserire nuovamente le sue credenziali ma soltanto di
@@ -157,7 +157,7 @@ manuale.
 Il campo **Account Twitter** presente alla pagina "*Sito -- Preferenze
 -- Social Media*" del Wizard consente infine di
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_twitter.bmp](./assets/media/image264.png)
+![](./assets/media/image264.png)
 
 **Account Twitter:** consente di specificare il proprio account Twitter.
 E' necessario per valorizzare il Meta Tag "**twitter:site**" nel momento

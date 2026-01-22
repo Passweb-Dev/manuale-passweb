@@ -17,7 +17,7 @@ dell'inserzione):
 - **Parentage:** consente di abilitare l'inserzione che si sta
   realizzando per la gestione di articoli a Taglie
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_taglie2.bmp](./assets/media/image279.png)
+![](./assets/media/image279.png)
 
 > **ATTENZIONE! In assenza di tale specifica l'inserzione potrà essere
 > utilizzata per pubblicare solo ed esclusivamente articoli di magazzino
@@ -27,7 +27,7 @@ dell'inserzione):
 > valore **child** che sarà quindi l'unica opzione possibile in fase di
 > valorizzazione della specifica stessa
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_taglie1.bmp](./assets/media/image280.png)
+![](./assets/media/image280.png)
 
 - **Variation Theme:** consente di indicare quali sono gli elementi di
   variazione degli articoli (es. taglia, colore, taglia e colore, colore
@@ -36,7 +36,7 @@ dell'inserzione):
 > **ATTENZIONE! E' possibile gestire fino ad un massimo di due diversi
 > elementi di variazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_taglie3.bmp](./assets/media/image281.png)
+![](./assets/media/image281.png)
 
 > Tale specifica **deve essere mappata con un "Attributo Amazon"** e
 > dovrà quindi assumere necessariamente uno dei valori proposti nel
@@ -44,7 +44,7 @@ dell'inserzione):
 > e variabili in relazione alla particolare Categoria di articoli
 > utilizzata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_taglie4.bmp](./assets/media/image282.png)
+![](./assets/media/image282.png)
 
 Una volta definiti, mediante la specifica "Variation Theme", gli
 elementi di variazione, sarà poi necessario inserire anche le
@@ -62,12 +62,12 @@ le specifiche Size e Color della sezione "Variation Data"
 
 - **Color (Nome categoria \> Variation Data \> Color )**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_taglie6.bmp](./assets/media/image283.png)
+![](./assets/media/image283.png)
 
 indicando inoltre da dove dovranno essere prelevati i valori sia per
 l'una che per l'altra specifica.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_taglie5.bmp](./assets/media/image284.png)
+![](./assets/media/image284.png)
 
 In questo senso le opzioni possibili saranno, per i siti Ecommerce
 collegati a Mexal, "**Tabella Taglie**" e "**Ultimo campo Struttura**".
@@ -105,7 +105,7 @@ possono quindi essere mappate tranquillamente su valori
 effettiva valorizzazione verrà poi effettuata direttamente da Passweb in
 fase di pubblicazione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_taglie8.bmp](./assets/media/image285.png)
+![](./assets/media/image285.png)
 
 **ATTENZIONE! Le inserzioni configurate con le specifiche indicate
 all'interno di questo capitolo, e abilitate quindi per poter gestire

@@ -18,14 +18,14 @@ clienti (Tabella "**Clienti attualmente associati**") o le singole
 categorie clienti (Tabella "**Categoria Cliente**") coinvolte nella
 Promozione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_promozioni_19.bmp](./assets/media/image547.png)
+![](./assets/media/image547.png)
 
 Per poter definire il tipo di sconto che dovrà essere associato ai
 clienti coinvolti è invece necessario utilizzare il parametro "**Tipo**"
 presente all'interno della scheda "**Opzioni**" (sezione "**Opzioni
 sconto cliente**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_promozioni_20.bmp](./assets/media/image548.png)
+![](./assets/media/image548.png)
 
 E' possibile selezionare uno dei seguenti valori:
 
@@ -42,7 +42,7 @@ E' possibile selezionare uno dei seguenti valori:
 > dopo aver impostato il campo "Tipo" sul valore in esame, oppure
 > richiamabile mediante il pulsante "**Opzioni**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_promozioni_21.bmp](./assets/media/image549.png)
+![](./assets/media/image549.png)
 
 > consente di definire nei dettagli la formula di applicazione dello
 > sconto.
@@ -55,7 +55,7 @@ E' possibile selezionare uno dei seguenti valori:
 > dopo aver impostato il campo "Tipo" sul valore in esame, oppure
 > richiamabile mediante il pulsante "**Opzioni**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_promozioni_22.bmp](./assets/media/image550.png)
+![](./assets/media/image550.png)
 
 > consente di definire (campo "**Sconto Incondizionato**" ) la
 > percentuale di sconto che dovrà effettivamente essere applicata.
@@ -71,7 +71,7 @@ E' possibile selezionare uno dei seguenti valori:
 > dopo aver impostato il campo "Tipo" sul valore in esame, oppure
 > richiamabile mediante il pulsante "**Opzioni**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_promozioni_23.bmp](./assets/media/image551.png)
+![](./assets/media/image551.png)
 
 > consente di definire (**Tabella Sconto**) gli scaglioni di spesa
 > (campo "**Spesa da..**") ed il relativo sconto da applicare (campo
@@ -110,13 +110,13 @@ sul pulsante "**Attiva Promozione**" oppure agendo dal parametro
 "**Attivo**" presente nella maschera di configurazione della Promozione
 stessa.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_promozioni_33.bmp](./assets/media/image552.png)
+![](./assets/media/image552.png)
 
 **ATTENZIONE! Gli sconti dovuti all'applicazione di questo tipo di
 Promozioni verranno applicati, all'interno del sito, sempre e comunque a
 livello di Carrello mediante l'inserimento di un relativo Abbuono**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_promozioni_30.bmp](./assets/media/image538.png)
+![](./assets/media/image538.png)
 
 In queste condizioni non sarà ovviamente possibile visualizzare gli
 sconti dovuti alla promozione ne in Catalogo ne tanto meno all'interno
@@ -132,7 +132,7 @@ dovuto alla promozione e **applicato sul sito a livello di Carrello**
 mediante un relativo **Abbuono,** verrà riportato all'interno del campo
 **Sconto**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_promozioni_12.bmp](./assets/media/image542.png)
+![](./assets/media/image542.png)
 
 **ATTENZIONE!** Le Promozioni di tipo **Sconto Cliente** sono
 considerate tra l'elenco delle Promozioni da poter escludere nel caso di

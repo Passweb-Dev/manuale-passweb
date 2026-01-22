@@ -22,7 +22,7 @@ accedere in Area Riservata solo se opportunamente abilitato attraverso
 l'apposito campo presente nelle Videate Ecommerce della sua anagrafica
 gestionale.**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_abilitazione_cliente.bmp](./assets/media/image1.png)
+![](./assets/media/image1.png)
 
 Nel caso invece di **siti Ecommerce collegati ad uno dei gestionali
 Ho.Re.Ca**. gli unici utenti abilitati ad accedere a questa particolare
@@ -30,7 +30,7 @@ sezione del sito saranno quelli abilitati mediante l'apposito parametro
 presente nella loro Anagrafica Passweb (**Tipologia = Cliente Area
 Riservata**)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_cliente_area_riservata.bmp](./assets/media/image2.png)
+![](./assets/media/image2.png)
 
 In ogni caso considerando che, per ogni utente di tipo cliente, la
 possibilità di accedere o meno in Area Riservata viene decisa
@@ -141,7 +141,7 @@ Per attivare o disattivare una specifica App (e la relativa sezione in
 Area Riservata) è sufficiente agire all'interno dell'apposita sezione
 del Wizard accessibile dal menu "*Sito -- Preferenze*".
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_app_area_riservata.bmp](./assets/media/image3.png)
+![](./assets/media/image3.png)
 
 Per maggiori informazioni in merito si veda anche la sezione "*Sito --
 Preferenze -- Area Riservata*" di questo manuale

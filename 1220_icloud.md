@@ -35,7 +35,7 @@ Nello specifico sarà necessario accedere alla pagina di configurazione
 del proprio Account Apple, cliccare sul pulsante "Genera Password"
 presente all'interno della sezione "Sicurezza"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\server_smtp_icloud.bmp](./assets/media/image17.png)
+![](./assets/media/image17.png)
 
 specificare un nome come richiesto e cliccare sul pulsante "**Crea**".
 

@@ -14,7 +14,7 @@ gestionali agendo per questo all'interno della sezione "Listini"
 presente nella maschera di configurazione di ogni singola Inserzione
 (sezione "Prezzo, quantità e formato")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\marketplace_prezzo_listini_magento.bmp](./assets/media/image754.png)
+![](./assets/media/image754.png)
 
 Di seguito vengono indicati gli aspetti fondamentali di cui tener conto
 nella determinazione del prezzo applicato agli articoli pubblicati sulla
@@ -29,7 +29,7 @@ piattaforma terza:
   inserito all'interno del campo "**Price**" della corrispondente
   anagrafica articolo
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\magento_prezzo_articolo.bmp](./assets/media/image755.png)
+![](./assets/media/image755.png)
 
 - nel caso di prodotti gestiti a confezione i prezzi dei due articoli
   creati su Magento (articolo semplice e articolo bundle) verranno
@@ -43,7 +43,7 @@ piattaforma terza:
   inserito all'interno del campo "**Special Price**" della
   corrispondente anagrafica articolo
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\magento_prezzo_articolo2.bmp](./assets/media/image756.png)
+![](./assets/media/image756.png)
 
 > Lo sconto creato non avrà particolari limitazioni e sarà quindi
 > valido:

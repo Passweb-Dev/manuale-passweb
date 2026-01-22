@@ -23,14 +23,14 @@ Nel caso in cui non si disponga ancora di un account PayPal sarà quindi
 necessario, per prima cosa, collegarsi al **sito
 https://www.paypal.com** e creare gratuitamente un proprio account
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pp_ck_ex_1.bmp](./assets/media/image163.png)
+![](./assets/media/image163.png)
 
 Una volta immesse le informazioni richieste e creato il proprio account
 sarà poi possibile utilizzare queste stesse credenziali per accedere al
 sito **https://developer.paypal.com** da cui poter gestire il proprio
 ambiente Sandbox
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pp_ck_ex_3.bmp](./assets/media/image164.png)
+![](./assets/media/image164.png)
 
 All'interno dell'ambiente developer sarà infatti possibile:
 

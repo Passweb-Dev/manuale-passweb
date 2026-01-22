@@ -12,7 +12,7 @@ utente e/o di variazione dei dati di un utente già registrato.
 All'interno di questa pagina verrà quindi visualizzata la maschera
 **"Lista delle Categorie Statistiche Cliente"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_categorie_statistiche_cliente.bmp](./assets/media/image216.png)
+![](./assets/media/image216.png)
 
 contente tutte le 99 categorie definite all'interno del gestionale e
 gestite anche all'interno del proprio sito ecommerce.
@@ -38,14 +38,14 @@ I pulsanti presenti nella contestuale barra degli strumenti consentono
 rispettivamente di:
 
 **Modifica**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica.bmp](./assets/media/image116.png) ): consente di gestire la descrizione in
+(![](./assets/media/image116.png) ): consente di gestire la descrizione in
 Italiano e in Lingua associata alla Categoria Statistica attualmente
 selezionata in elenco.
 
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 "**Modifica Categoria Statistica Cliente**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_categoria_statistica_cliente.bmp](./assets/media/image217.png)
+![](./assets/media/image217.png)
 
 attraverso cui poter gestire, nelle varie lingue, la descrizione della
 relativa Categoria.
@@ -83,7 +83,7 @@ infatti visualizzata la maschera "**Esportazione Categorie Statistiche
 Cliente**" all'interno della quale poter configurare l'esportazione dei
 dati.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\esportazione_categorie_statiostiche_cliente.bmp](./assets/media/image219.png)
+![](./assets/media/image219.png)
 
 Nel caso di sito in multilingua è possibile selezionare, tra quelle
 attualmente gestite, la lingua in relazione alla quale dovranno essere
@@ -105,7 +105,7 @@ Categorie Statistiche attualmente presenti in elenco.
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 "**Importazione Categorie Statistiche Cliente**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\importazione_categorie_statistiche_cliente.bmp](./assets/media/image221.png)
+![](./assets/media/image221.png)
 
 all'interno della quale poter configurare l'importazione dei dati in
 oggetto. In particolare il campo

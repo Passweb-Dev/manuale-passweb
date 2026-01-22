@@ -13,7 +13,7 @@ requests**" presente all'interno della sezione "**Data collection and
 modification**" nel pannello di Amministrazione della proprietà GA4 in
 esame
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ga4_54.bmp](./assets/media/image2.png)
+![](./assets/media/image2.png)
 
 E' possibile avere un massimo di 12 richieste attive per ciascuna
 proprietà e l'elaborazione, da parte di Google, di ciascuna di queste

@@ -11,7 +11,7 @@ All'interno di questa sezione del Wizard è possibile
 - Gestire e personalizzare il menu di navigazione di Passweb Monitor --
   sezione "**Configurazione Menu**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\passweb_monitor_configurazione_impostazioni.bmp](./assets/media/image575.png)
+![](./assets/media/image575.png)
 
 **ATTENZIONE!** Per maggiori informazioni relativamente all'utilizzo e
 alla configurazione dell'App Passweb Monitor si veda anche il relativo

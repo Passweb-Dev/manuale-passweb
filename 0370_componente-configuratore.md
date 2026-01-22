@@ -4,7 +4,7 @@
 
 Il componente Configuratore
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_configuratore_Res.bmp](./assets/media/image106.png)
+![](./assets/media/image106.png)
 
 consente di gestire all'interno del proprio sito Ecommerce, **Articoli
 Strutturati**, nel caso di siti collegati a Mexal, e **Varianti
@@ -73,7 +73,7 @@ Scheda Prodotto un insieme di controlli attraverso cui un utente del
 sito potrà arrivare a scegliere, tra diverse possibili opzioni, l'esatta
 configurazione dell'articolo che intende acquistare.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\configuratore_sito_web.bmp](./assets/media/image107.png)
+![](./assets/media/image107.png)
 
 Il Configuratore di prodotto potrà comportarsi in maniera diversa a
 seconda di come sono stati impostati, all'interno dell'apposita sezione
@@ -90,7 +90,7 @@ presenti all'interno di uno specifico livello dovranno dipendere dalle
 scelte effettuate dall'utente, in fase di configurazione del prodotto,
 ad uno dei livelli precedenti.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\strutture_tipologia_visualizzazione.bmp](./assets/media/image108.png)
+![](./assets/media/image108.png)
 
 **Tipologia di Visualizzazione = Esploso Completamente 🡪** il
 configuratore visualizzerà sempre tutti i diversi livelli della
@@ -108,7 +108,7 @@ In quest'ultimo caso inoltre il campo "Generazione Elementi" consente di
 decidere sulla base di che cosa dovranno essere definite le diverse
 possibili configurazioni di prodotto finito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\strutture_generazione_elementi.bmp](./assets/media/image109.png)
+![](./assets/media/image109.png)
 
 In particolare se impostato a:
 
@@ -135,7 +135,7 @@ impostato il parametro "**Modalità di Visualizzazione**" presente
 anch'esso all'interno maschera "**Modifica Struttura Articoli**"
 (sezione *"Catalogo -- Gestione Articoli --Strutture"*).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\strutture_modalita_visualizzazione.bmp](./assets/media/image110.png)
+![](./assets/media/image110.png)
 
 **Modalità di Visualizzazione = Lineare:** i diversi livelli della
 struttura verranno visualizzati mediante i controlli grafici (Lista,
@@ -293,7 +293,7 @@ specifico articolo figlio al verificarsi delle seguenti condizioni:
   maschera di configurazione dello specifico componente "**Scheda
   Prodotto**" è stato impostato sul valore "**Figlio**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configuratore_riferimento_articoli_strutturati.bmp](./assets/media/image115.png)
+![](./assets/media/image115.png)
 
 Se entrambe le condizioni sopra indicate dovessero essere soddisfatte
 una volta completata la configurazione dell'articolo figlio tutte le

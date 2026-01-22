@@ -12,7 +12,7 @@ Ruolo amministrativo contenente l'utente da abilitare, entrare
 nell'anagrafica dell'utente desiderato e selezionare il relativo check
 "**Abilita Passweb Monitor**".
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\passweb_monitor_1.bmp](./assets/media/image1.png)
+![](./assets/media/image1.png)
 
 A questo punto, una volta scaricata, gratuitamente, l'App dal relativo
 store
@@ -26,7 +26,7 @@ store
 sarà sufficiente avviarla ed inserire all'interno dei campi del pannello
 di login i seguenti dati
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pwb_monitor_accesso.bmp](./assets/media/image2.png)
+![](./assets/media/image2.png)
 
 - **Username**: username dell'utente del Wizard abilitato anche
   all'accesso a Passweb Monitor
@@ -41,7 +41,7 @@ ai vari utenti, è indicata alla pagina "**Sito -- Passweb Monitor --
 Impostazioni**" del Wizard (campo "**Api Key**", sezione
 "**Configurazione APIKEY**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\passweb_monitor_2.bmp](./assets/media/image3.png)
+![](./assets/media/image3.png)
 
 Come precedentemente indicato Passweb Monitor gestisce i sistemi di
 autenticazione biometrica presenti sul dispositivo (Face Id / Touch ID)
@@ -56,7 +56,7 @@ sufficiente cliccare sul pulsante "**Accesso biometrico**", presente
 nella maschera di login, per avviare in maniera manuale questo tipo di
 autenticazione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pwb_monitor_avvia_biometrico.bmp](./assets/media/image4.png)
+![](./assets/media/image4.png)
 
 Per maggiori informazioni relativamente a come poter
 attivare/disattivare i sistemi di autenticazione biometrica si veda

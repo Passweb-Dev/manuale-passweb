@@ -16,7 +16,7 @@ proprio account Linkedin regolarmente funzionante**
     **My Apps** presente nel menu principale e da qui selezionare la
     voce "**Create app**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login39.bmp](./assets/media/image276.png)
+![](./assets/media/image276.png)
 
 > In alternativa cliccare direttamente sul pulsante "**Create app**"
 > presente nella pagina
@@ -26,7 +26,7 @@ proprio account Linkedin regolarmente funzionante**
     asterisco sono obbligatori) e cliccare quindi sul pulsante "**Create
     app**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login43.bmp](./assets/media/image277.png)
+![](./assets/media/image277.png)
 
 > **ATTENZIONE!** la creazione di una nuova app richiede anche la
 > presenza o la creazione di una propria pagina LinkedIn (campo
@@ -36,7 +36,7 @@ proprio account Linkedin regolarmente funzionante**
     obbligatori, cliccando sul pulsante **Invia** verremo
     automaticamente ricondotti alla sezione **Setting** della nuova App
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login43a.bmp](./assets/media/image278.png)
+![](./assets/media/image278.png)
 
 > Portarsi quindi all'interno della sezione **Auth** cliccando sulla
 > corrispondente voce di menu presente nella parte alta della pagina
@@ -45,7 +45,7 @@ proprio account Linkedin regolarmente funzionante**
     API Key da inserire poi in Passweb in maniera tale da poter
     completare l'integrazione tra le due piattaforme
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login44.bmp](./assets/media/image279.png)
+![](./assets/media/image279.png)
 
 > copiare il codice presente all'interno del campo "**Client ID"** ed
 > inserirlo alla pagina "*Sito -- Preferenze -- Social Media*" del
@@ -55,7 +55,7 @@ proprio account Linkedin regolarmente funzionante**
 > **Client Secret** e incollarlo all'interno del campo **Secret**
 > **client** del Wizard di Passweb
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login45c.bmp](./assets/media/image280.png)
+![](./assets/media/image280.png)
 
 > Una volta inseriti in Passweb i due parametri di configurazione
 > richiesti cliccare sul pulsante "**Salva**" presente nella parte bassa
@@ -75,7 +75,7 @@ proprio account Linkedin regolarmente funzionante**
 > settings**, l'indirizzo del proprio sito Passweb seguito dalla stringa
 > **/callbackSocial/LinkedIn**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login45.bmp](./assets/media/image281.png)
+![](./assets/media/image281.png)
 
 6.  **Selezionare il tipo di app che si intende creare**.
 
@@ -83,13 +83,13 @@ proprio account Linkedin regolarmente funzionante**
 > **Products** cliccando sulla relativa voce di menu presente nella
 > parte alta della pagina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login45a.bmp](./assets/media/image282.png)
+![](./assets/media/image282.png)
 
 > Selezionare quindi l'opzione "**Sign In with Linkedin**", accettare i
 > termini e le condizioni d'uso e cliccare sul pulsante "**Add
 > product**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login45b.bmp](./assets/media/image283.png)
+![](./assets/media/image283.png)
 
 > **ATTENZIONE!** A seguito di questa fase l'app potrebbe andare in
 > revisione a LinkedIn. Sarà quindi necessario attendere l'approvazione
@@ -99,7 +99,7 @@ proprio account Linkedin regolarmente funzionante**
 > prodotto "**Sign In with Linkedin**" all'interno della sezione
 > "**Added products**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login45d.bmp](./assets/media/image284.png)
+![](./assets/media/image284.png)
 
 7.  Una volta approvata l'app da parte di Linkedin e verificato che il
     prodotto "**Sign In with Linkedin**" sia stato correttamente
@@ -109,7 +109,7 @@ proprio account Linkedin regolarmente funzionante**
     sezione "**OAuth 2.0 scopes**" siano stati correttamente aggiunti i
     permessi **r_emailaddress** e **r_liteprofile**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login45e.bmp](./assets/media/image285.png)
+![](./assets/media/image285.png)
 
 A questo punto l'integrazione tra le due piattaforme sarà completata e
 gli utenti del sito Passweb potranno quindi autenticarsi utilizzando il
@@ -119,20 +119,20 @@ Completato il processo di integrazione dunque, l'App sarà subito on line
 e sarà possibile verificarne il corretto funzionamento utilizzando un
 qualsiasi account LinkedIn regolarmente registrato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login50.bmp](./assets/media/image286.png)
+![](./assets/media/image286.png)
 
 Nel momento in cui l'utente dovesse cliccare sul relativo pulsante
 presente all'interno del pannello di login, verrà ridiretto su una
 pagina di accesso di Linkedin all'interno della quale dovrà inserire le
 credenziali del proprio account
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login67.bmp](./assets/media/image287.png)
+![](./assets/media/image287.png)
 
 Una volta inserite le credenziali del proprio account verrà visualizzata
 un ulteriore maschera di consenso al trasferimento dei dati indicati dal
 proprio account LinkedIn al sito Passweb
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login67a.bmp](./assets/media/image288.png)
+![](./assets/media/image288.png)
 
 **ATTENZIONE**! Nel caso in cui l'utente fosse già autenticato al Social
 Network non gli sarà richiesto di inserire nuovamente le sue credenziali

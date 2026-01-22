@@ -21,7 +21,7 @@ seguenti metriche:
 
 - Entrate per visita.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_report_24.bmp](./assets/media/image55.png)
+![](./assets/media/image55.png)
 
 Dipendentemente dallo specifico rapporto considerato sarà possibile
 ottenere informazioni più dettagliate relativamente:

@@ -4,7 +4,7 @@
 
 Il Componente **"Campo Radio"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\campo_radio_registrazione_res.bmp](./assets/media/image95.png)
+![](./assets/media/image95.png)
 
 consente di inserire all'interno dei form di Registrazione e di Profilo
 Utente un modulo a scelta multipla di tipo "Radio Button", modulo che
@@ -15,7 +15,7 @@ la prima selezione verrà automaticamente deselezionata)
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_iu_radio_configurazione_res.bmp](./assets/media/image96.png)
+![](./assets/media/image96.png)
 
 suddivisa in varie sezioni.
 
@@ -233,7 +233,7 @@ compilazione del form.
 > valore "**Fattura B2B**" abilitando, di fatto, per il cliente in esame
 > l'emissione della fattura elettronica.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\campo_radio_fa_3_res.bmp](./assets/media/image98.png)
+![](./assets/media/image98.png)
 
 > Al contrario nel momento in cui l'utente dovesse selezionare l'opzione
 > **NO,** in fase di sincronizzazione il campo **Tipo Fattura
@@ -254,7 +254,7 @@ compilazione del form.
   controllo mediante il quale l'utente avrà la possibilità di dichiarare
   se è o meno un Ente Pubblico**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\campo_radio_fa_4_res.bmp](./assets/media/image99.png)
+![](./assets/media/image99.png)
 
 > Le etichette delle due diverse possibili opzioni di scelta possono
 > essere personalizzate all'interno della sezione "Testi / Messaggi del
@@ -270,7 +270,7 @@ compilazione del form.
 > cliente in esame l'emissione della fattura elettronica come ente
 > pubblico.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\campo_radio_fa_5_res.bmp](./assets/media/image100.png)
+![](./assets/media/image100.png)
 
 > Al contrario nel momento in cui l'utente dovesse selezionare l'opzione
 > **NO,** in fase di sincronizzazione il check "**Ente Pubblico**" non
@@ -294,7 +294,7 @@ compilazione del form.
   possibilità di dichiarare se dovrà essere considerato o meno come una
   ditta individuale**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\campo_radio_fa_4a_res.bmp](./assets/media/image101.png)
+![](./assets/media/image101.png)
 
 > **ATTENZIONE!** Il campo in esame verrà visualizzato, ovviamente, solo
 > per utenti di tipo Azienda
@@ -316,7 +316,7 @@ compilazione del form.
 - in Mexal verrà creata un'anagrafica utente con il campo "Persona
   Fisica" deselezionato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mexal_persona_giuridica.bmp](./assets/media/image102.png)
+![](./assets/media/image102.png)
 
 > Nel momento in cui l'utente dovesse invece selezionare l'opzione
 > "**Si**", indicando quindi di essere una ditta individuale:
@@ -328,7 +328,7 @@ compilazione del form.
 - in Mexal verrà creata un'anagrafica utente con il campo "Persona
   Fisica" selezionato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mexal_persona_fisica.bmp](./assets/media/image103.png)
+![](./assets/media/image103.png)
 
 > **ATTENZIONE!** si ricorda che per utenti di tipo "Azienda" la
 > corrispondente anagrafica Mexal avrà sempre il campo "Soggetto
@@ -414,10 +414,10 @@ di scelta che verranno visualizzate all'interno del controllo.
 
 Per aggiungere una nuova opzione di scelta al controllo è sufficiente
 cliccare sul relativo pulsante di aggiunta nuovo elemento (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_aggiungi.bmp](./assets/media/image47.png) ) e inserire poi i dati di
+![](./assets/media/image47.png) ) e inserire poi i dati di
 configurazione dell'elemento stesso nella parte destra della maschera.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\Form_radio_nuovo_valore_res.bmp](./assets/media/image104.png)
+![](./assets/media/image104.png)
 
 Per ciascuna delle possibili opzioni di scelta sarà necessario indicare:
 
@@ -450,11 +450,11 @@ Gli altri pulsanti presenti nella parte sinistra della maschera
 consentono rispettivamente di:
 
 - **Elimina elemento** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina.bmp](./assets/media/image48.png) ): consente di eliminare l'elemento
+  ![](./assets/media/image48.png) ): consente di eliminare l'elemento
   attualmente selezionata in elenco
 
 - **Sposta su / giù**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icone_su_giu.bmp](./assets/media/image49.png) ): consente di riordinare tra loro le
+  (![](./assets/media/image49.png) ): consente di riordinare tra loro le
   varie opzioni di scelta spostando verso l'alto o il basso l'elemento
   attualmente selezionato in elenco.
 

@@ -5,7 +5,7 @@
 Il Componente **"Ordine Custom(Checkout)"** può essere inserito,
 ovviamente, soltanto all'interno della pagina "Ordine"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ordine_custom_res.bmp](./assets/media/image277.png)
+![](./assets/media/image277.png)
 
 e consente di visualizzare **il modulo di Conferma Ordine** attraverso
 cui l'utente dovrà necessariamente passare per poter confermare il
@@ -142,7 +142,7 @@ confermare il proprio ordine l'utente potrebbe dover inserire (in step
 distinti o all'interno di un unico modulo) le seguenti informazioni
 (tutte o solo parte di esse):
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\ordine_step_unico.bmp](./assets/media/image278.png)
+![](./assets/media/image278.png)
 
 a)  **Informazioni Utente** (es. dati di spedizione, dati di
     fatturazione, eventuali credenziali ecc...)
@@ -167,7 +167,7 @@ g)  **Indirizzo di spedizione merce**
 > spedizione inserito nel relativo campo della maschera "Condizioni
 > Documenti di Magazzino" del gestionale**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\indirizzo_spedizione_default.bmp](./assets/media/image279.png)
+![](./assets/media/image279.png)
 
 > Nel caso in cui per il cliente che sta effettuando l'ordine non sia
 > stato impostato nel campo sopra evidenziato uno specifico indirizzo di
@@ -181,7 +181,7 @@ g)  **Indirizzo di spedizione merce**
 > all'indirizzo del gestore della Lista Regalo" che consentiranno
 > rispettivamente di:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\check_out_selezione_indirizzo.bmp](./assets/media/image280.png)
+![](./assets/media/image280.png)
 
 - **Spedire a questo indirizzo:** consente, se selezionato, di
   utilizzare come indirizzo di spedizione merce quello indicato
@@ -221,7 +221,7 @@ i)  **Tipologia di pagamento che intende adottare**
 > check "**Usa il saldo**" con a fianco l'importo da poter utilizzare
 > per pagare l'ordine in esame
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\attivazione_giftcard_5.bmp](./assets/media/image253.png)
+![](./assets/media/image253.png)
 
 > **ATTENZIONE!** l'importo visualizzato in corrispondenza del check
 > "**Usa il saldo**" **è quello effettivamente spendibile per l'ordine
@@ -247,7 +247,7 @@ i)  **Tipologia di pagamento che intende adottare**
 > sezione relativa ai pagamenti comparirà anche il check "**Usa il saldo
 > di X punti (Y €)**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\punti_premio_checkout.bmp](./assets/media/image281.png)
+![](./assets/media/image281.png)
 
 > con l'indicazione dunque del numero massimo di punti gestibili per
 > l'ordine in esame e il corrispondente importo espresso nella valuta
@@ -305,7 +305,7 @@ visualizzato (dipendentemente dalle impostazioni settate per il
 componente) un riepilogo definitivo dell'ordine con tutti i dati
 inseriti.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\conferma_ordine_conferma.bmp](./assets/media/image282.png)
+![](./assets/media/image282.png)
 
 **NOTA BENE:** per poter visualizzare nel riepilogo del documento il
 **totale degli articoli** inseriti in ordine è necessario impostare,

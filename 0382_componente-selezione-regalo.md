@@ -5,7 +5,7 @@
 Il Componente **"Selezione Regalo"** può essere inserito solo ed
 esclusivamente all'interno della pagina Carrello e/o della pagina Ordine
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_selezione_regalo_res.bmp](./assets/media/image173.png)
+![](./assets/media/image173.png)
 
 e consente di visualizzare, al verificarsi delle condizioni di
 applicabilità della relativa Promozione / Buono Sconto, un elenco di
@@ -13,7 +13,7 @@ articoli "Omaggio" (o a "condizioni particolari"), tra cui l'utente
 potrà selezionare quali andare ad inserire effettivamente in ordine per
 poter usufruire della Promozione / Buono Sconto in oggetto.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\selezione_regalo1.bmp](./assets/media/image174.png)
+![](./assets/media/image174.png)
 
 **ATTENZIONE! lato Sito il componente "Selezione Regalo" verrà
 effettivamente visualizzato solo ed esclusivamente nel momento in cui
@@ -70,7 +70,7 @@ Nello specifico occorre dunque considerare che:
 > Carrello" la grafica minimale (select box) per la selezione della
 > Taglia
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\selezione_regalo3.bmp](./assets/media/image175.png)
+![](./assets/media/image175.png)
 
 > Nel caso in cui invece la promozione dovesse consentire all'utente di
 > inserire in carrello solo una specifica Taglia\\Colore del relativo

@@ -8,7 +8,7 @@ all'interno del sito, i contenuti delle e-mail inviate in automatico
 dall'applicazione in corrispondenza dei diversi possibili stati assunti
 da un documento di reso merce.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_resi_dati_email.bmp](./assets/media/image731.png)
+![](./assets/media/image731.png)
 
 Per ciascuna mail sarà possibile indicare i seguenti dati:
 
@@ -78,13 +78,13 @@ E\' possibile selezionare uno dei seguenti valori:
 Il Check "**Allegati**" presente in corrispondenza di tutte le diverse
 tipologie di Mail presenti all'interno di questa sezione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_resi_dati_email_2.bmp](./assets/media/image732.png)
+![](./assets/media/image732.png)
 
 consente invece di indicare se alle mail di quella determinata tipologia
 dovranno essere allegati o meno anche tutti i file che hanno il campo
 "**Mail**" impostato sul valore S
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_resi_dati_email_3.bmp](./assets/media/image733.png)
+![](./assets/media/image733.png)
 
 In questo senso è bene ricordare che:
 
@@ -120,7 +120,7 @@ personalizzare l'oggetto e/o il testo della relativa mail inserendo
 appositi segnaposto che verranno poi valorizzati dinamicamente da
 Passweb a seconda dello specifico documento.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\resi_dati_email_segnaposto.bmp](./assets/media/image734.png)
+![](./assets/media/image734.png)
 
 Per comporre l'oggetto e/o il testo di una mail è quindi possibile
 utilizzare i seguenti segnaposto:
@@ -171,7 +171,7 @@ Per quel che riguarda invece il testo delle mail, oltre ai segnaposto
 appena analizzati, sarà possibile utilizzare anche il segnaposto
 **"Dettaglio Documento"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\segnaposto_dettaglio_documento_reso.bmp](./assets/media/image735.png)
+![](./assets/media/image735.png)
 
 In questo senso è bene ricordare che il testo delle mail, configurabili
 all'interno dei questa sezione del Wizard, è composto, essenzialmente,
@@ -282,7 +282,7 @@ Sono gestite le seguenti mail :
   reso merce dei nuovi allegati con il flag "**Notifica Utente**"
   selezionato.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_resi_3.bmp](./assets/media/image736.png)
+![](./assets/media/image736.png)
 
 > **ATTENZIONE!** Nel caso in cui, in fase di inserimento di un nuovo
 > allegato da Wizard, non dovesse essere selezionato il flag "Notifica

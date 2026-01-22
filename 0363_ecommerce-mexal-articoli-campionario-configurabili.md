@@ -23,7 +23,7 @@ Articoli*") selezionando il Campionario in esame, attivando il check
 minime e massime tra cui l'utente potrà muoversi per ogni singolo
 componente del Campionario.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\campionario_configurabile.bmp](./assets/media/image71.png)
+![](./assets/media/image71.png)
 
 **ATTENZIONE!** Per maggiori informazioni relativamente a come rendere
 configurabile un articolo di tipo Campionario e come poter impostare per
@@ -41,7 +41,7 @@ eventualmente in che quantità, e quali no, il tutto ovviamente sempre
 nei limiti impostati in fase di abilitazione del Campionario
 Configurabile.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\campionario_configurabile2.bmp](./assets/media/image72.png)
+![](./assets/media/image72.png)
 
 Per ogni singolo componente del Campionario potrà quindi essere
 visualizzato:
@@ -63,7 +63,7 @@ visualizzato:
   componente del campionario la quantità con cui quello stesso articolo
   dovrà essere inserito nel Box.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\campionario_configurabile3.bmp](./assets/media/image73.png)
+![](./assets/media/image73.png)
 
 > **ATTENZIONE!** Per visualizzare tale campo sarà necessario inserire,
 > in fase di creazione della scheda prodotto, all'interno del componente
@@ -72,7 +72,7 @@ visualizzato:
 > Nel caso in cui l'articolo in esame fosse un articolo a Taglie /
 > Colori verrà visualizzata la configurazione estesa delle taglie.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\campionario_configurabile4.bmp](./assets/media/image74.png)
+![](./assets/media/image74.png)
 
 > Inoltre, dipendentemente dal fatto di aver selezionato o meno in fase
 > di configurazione dello specifico componente il parametro "**Solo
@@ -80,7 +80,7 @@ visualizzato:
 > quali è stata effettivamente inserita, lato gestionale, una quantità
 > o, in alternativa, tutte le taglie/colori gestite.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\anagrafica_passweb_box6.bmp](./assets/media/image75.png)
+![](./assets/media/image75.png)
 
 > Immediatamente al di sopra del campo di input verrà visualizzata anche
 > un'etichetta (personalizzabile alla sezione "Testi / Messaggi" del
@@ -88,13 +88,13 @@ visualizzato:
 > Carrello") con **l'indicazione delle quantità minima e massima
 > impostabili per lo specifico componente.**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\campionario_configurabile6.bmp](./assets/media/image76.png)
+![](./assets/media/image76.png)
 
 > Il valore minimo indicato coincide con quello impostato all'interno
 > del campo "**Quantità Minima**" e definito, lato Passweb, in fase di
 > abilitazione del singolo componente del Campionario
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\anagrafica_passweb_box4.bmp](./assets/media/image77.png)
+![](./assets/media/image77.png)
 
 > **ATTENZIONE! Se l'esigenza dovesse essere quella di rendere un
 > componente del Box non obbligatorio sarà sufficiente:**
@@ -122,7 +122,7 @@ visualizzato:
 > articolo è stato inserito, lato gestionale, all'interno del
 > Campionario
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\campionario_configurabile7.bmp](./assets/media/image78.png)
+![](./assets/media/image78.png)
 
 > Infine **nel caso in cui lo specifico componente del Campionario fosse
 > stato impostato come "non configurabile" (parametro "Abilita
@@ -130,7 +130,7 @@ visualizzato:
 > delle quantità sarà disabilitato e non verranno visualizzati neppure i
 > relativi pulsanti incrementali**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\campionario_configurabile5.bmp](./assets/media/image79.png)
+![](./assets/media/image79.png)
 
 > In queste condizioni dunque l'utente non potrà apportare nessun tipo
 > di variazione al componente che verrà quindi inserito nel Box così
@@ -142,7 +142,7 @@ immediatamente al di sotto del componente Campionario, anche un testo
 riepilogativo con l'indicazione delle quantità minima e massima globali
 effettivamente gestibili per l'intero Box.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\campionario_configurabile8.bmp](./assets/media/image80.png)
+![](./assets/media/image80.png)
 
 In questo caso il numero minimo di elementi (inteso come quantità
 complessive) che dovranno essere necessariamente presenti all'interno
@@ -150,7 +150,7 @@ del Box prima di poterlo inserire in carrello, coincide con il valore
 impostato, lato Passweb, in corrispondenza del parametro "**Numero
 Minimo Componenti**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\campionario_configurabile9.bmp](./assets/media/image81.png)
+![](./assets/media/image81.png)
 
 **ATTENZIONE! Il valore di questo parametro dovrà essere, ovviamente,
 minore o uguale alla somma delle quantità minime dei singoli componenti
@@ -168,7 +168,7 @@ all'interno del gestionale mediante il parametro "**N° massimo
 complessivo**" presente nella scheda di configurazione del Composto che
 si sta considerando
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\anagrafica_passweb_box1.bmp](./assets/media/image82.png)
+![](./assets/media/image82.png)
 
 In questo caso inoltre il campo "**Numero massimo di componenti**"
 presente nell'anagrafica Passweb dello specifico articolo sarà in sola
@@ -180,7 +180,7 @@ massimo di componenti potrà essere specificato direttamente
 nell'Anagrafica Passweb dell'articolo mediante il campo in "**Numero
 massimo di componenti**" indicato in figura.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\campionario_configurabile_numero_massimo_componenti_mexal.bmp](./assets/media/image83.png)
+![](./assets/media/image83.png)
 
 **ATTENZIONE! Nel momento in cui questo campo non dovesse essere
 valorizzato, il numero massimo di articoli che potranno essere inseriti
@@ -223,7 +223,7 @@ quantità dei singoli componenti del Box:
 > padre**" in fase di configurazione della struttura stessa all'interno
 > del Wizard
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\disponibilita_campionario.bmp](./assets/media/image84.png)
+![](./assets/media/image84.png)
 
 > Una volta impostata una ben precisa configurazione, e selezionato
 > quindi il relativo articolo figlio, verrà poi considerata la sua
@@ -250,7 +250,7 @@ Infine è bene sottolineare anche come:
   in relazione ai Campionari Configurabili, sia l'articolo Campionario
   che l'elenco dei suoi componenti
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\campionario_configurabile10.bmp](./assets/media/image85.png)
+![](./assets/media/image85.png)
 
 > Per l'articolo Campionario sarà possibile modificare la quantità
 > presente in carrello, eliminarlo dal carrello, inserire note di riga,

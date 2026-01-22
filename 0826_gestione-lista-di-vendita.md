@@ -20,17 +20,17 @@ Quest'ultimo passo potrà essere fatto grazie alla sezione **"Gestione
 Liste di Vendita"** accessibile dalla voce di menu ***"Catalogo --
 eBay"***
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_gestione_liste_vendita_ebay.bmp](./assets/media/image114.png)
+![](./assets/media/image114.png)
 
 e suddivisa in due ulteriori sottosezioni attivabili mediante i relativi
 pulsanti presenti nella parte alta della pagina:
 
 - **Liste di Vendita** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_liste_vendita.bmp](./assets/media/image115.png) ): consente di definire nuove liste di
+  ![](./assets/media/image115.png) ): consente di definire nuove liste di
   vendita e di gestire quelle già codificate
 
 - **Regole di Vendita** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_regole_vendita.bmp](./assets/media/image116.png) ): consente di creare delle regole
+  ![](./assets/media/image116.png) ): consente di creare delle regole
   mediante le quali poter fare in modo che aggiungendo nuovi articoli ad
   una determinata categoria merceologica, questi stessi articoli vengano
   automaticamente inseriti anche nella Lista di Vendita collegata alla

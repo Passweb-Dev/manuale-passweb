@@ -9,7 +9,7 @@ dovrà essere utilizzato per il metodo di spedizione in esame.
 **ATTENZIONE! In queste condizioni, ovviamente, l'unico tipo di
 trasporto selezionabile sarà quello a mezzo Vettore**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trasporto_mexal_mezzo_vettore.bmp](./assets/media/image344.png)
+![](./assets/media/image344.png)
 
 In considerazione di ciò anche per i Trasporti di tipo Mexal sarà
 possibile gestire un Number Tracking, secondo le stesse modalità

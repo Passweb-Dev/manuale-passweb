@@ -5,7 +5,7 @@
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_immagine_prodotto_configurazione_res.bmp](./assets/media/image470.png)
+![](./assets/media/image470.png)
 
 suddivisa in varie sezioni.
 
@@ -70,7 +70,7 @@ La sotto sezione "**Opzioni Avanzate per immagine rappresentativa della
 scheda prodotto**" consente di settare i parametri di configurazione
 relativi alla galleria delle immagini secondarie.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_immagine_prodotto_configurazione_2_res.bmp](./assets/media/image471.png)
+![](./assets/media/image471.png)
 
 Nello specifico dunque il parametro
 
@@ -94,7 +94,7 @@ selezionare uno dei seguenti valori:
 > frecce di navigazione (verso destra e verso sinistra) poste ai lati
 > dell'immagine stessa.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\galleria_immagini_prodotto_small.bmp](./assets/media/image472.png)
+![](./assets/media/image472.png)
 
 - **Visualizza la gallery:** in queste condizioni anche per risoluzioni
   inferiori ai 992 px il componente manterrà comunque sia l'immagine
@@ -158,7 +158,7 @@ Infine, all'interno della sotto sezione "**Opzioni avanzate per lo zoom
 dell'Immagine del prodotto**" sarà possibile attivare e configurare
 l'effetto di zoom sull'Immagine Principale del prodotto.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_immagine_prodotto_configurazione_3_res.bmp](./assets/media/image473.png)
+![](./assets/media/image473.png)
 
 Nello specifico dunque il parametro
 
@@ -204,7 +204,7 @@ di zoom. Tali dimensioni verranno prese in considerazione solo nel
 momento in cui il successivo parametro "**Tipo di zoom**" sia impostato
 sul valore "**Finestra Esterna**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\zoom_immagine_prodotto_1.bmp](./assets/media/image477.png)
+![](./assets/media/image477.png)
 
 **Offset orizzontale / verticale della finestra dell'immagine:** solo
 per "Tipo di zoom = Finestra Esterna"

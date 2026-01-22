@@ -8,7 +8,7 @@ infatti possibile verificare quante vendite sta registrando il sito, il
 valore delle entrate generate, il tasso di conversione, il numero di
 carrelli abbandonati ...
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_report_16.bmp](./assets/media/image48.png)
+![](./assets/media/image48.png)
 
 Nello specifico poi il grafico "**Evoluzione nel periodo**" consente di
 ottenere una visione più dettagliata di come sono andate le vendite nel
@@ -17,7 +17,7 @@ metriche da visualizzare all'interno di questo grafico cliccando per
 questo sull'icona "**Metriche da Tracciare**" presente nella parte alta
 di questo stesso grafico
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_report_17.bmp](./assets/media/image49.png)
+![](./assets/media/image49.png)
 
 Immediatamente al di sotto del grafico "Evoluzione nel periodo" è
 possibile visualizzare invece informazioni dettagliate relativamente a:

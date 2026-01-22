@@ -5,7 +5,7 @@
 Il Componente **"Recupero Credenziali** può essere utilizzato
 all'interno di una qualsiasi pagina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_recupero_credenziali_res.bmp](./assets/media/image13.png)
+![](./assets/media/image13.png)
 
 e consente di inserire all'interno del proprio sito un modulo mediante
 il quale un qualsiasi utente avrà la possibilità di resettare, nel caso
@@ -14,7 +14,7 @@ in cui le abbia perse, le proprie credenziali di accesso.
 Tale Componente potrà essere inserito all'interno di una qualsiasi
 pagina del sito indipendentemente dalla sua tipologia.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\recupero_credenziali_sito.bmp](./assets/media/image14.png)
+![](./assets/media/image14.png)
 
 L'utente dovrà semplicemente inserire, nel corrispondente campo,
 l'indirizzo mail fornito in fase di registrazione e cliccare poi sul
@@ -66,7 +66,7 @@ Nello specifico:
 1.  Tutte le Varianti attualmente gestite devono avere impostata una
     specifica pagina di "Cambio Password".
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\varianti_cambio_password.bmp](./assets/media/image11.png)
+![](./assets/media/image11.png)
 
 > **ATTEZNIONE!** Nel caso in cui per una determinata Variante non fosse
 > stata indicata, la "Pagina di Cambio Password", il componente
@@ -85,7 +85,7 @@ Nello specifico:
     degli Utenti -- Dati Email**") deve essere stato inserito
     necessariamente il segnaposto **{{VERIFYURL}}**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\segnaposto_link_cambio_password.bmp](./assets/media/image10.png)
+![](./assets/media/image10.png)
 
 > **ATTENZIONE!** Qualora nel testo della mail di recupero credenziali
 > non sia stato inserito il segnaposto \"{{VERIFYURL}}\", al salvataggio

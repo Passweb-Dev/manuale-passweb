@@ -5,7 +5,7 @@
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico la sua maschera **di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_griglia_res.bmp](./assets/media/image101.png)
+![](./assets/media/image101.png)
 
 suddivisa in varie sezioni.
 
@@ -61,7 +61,7 @@ In particolare dunque il parametro:
 > "**Top Position per lo Sticky**" e "**Classe o elemento per fermare lo
 > sticky**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\griglia_sticky_1.bmp](./assets/media/image102.png)
+![](./assets/media/image102.png)
 
 > che consentono rispettivamente di:
 
@@ -115,7 +115,7 @@ In particolare dunque il parametro:
 > Una volta selezionato questo parametro, compariranno quindi ulteriori
 > campi mediante i quali poter impostare rispettivamente:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\griglia_offcanvas.bmp](./assets/media/image103.png)
+![](./assets/media/image103.png)
 
 - **Posizionamento del menu:** consente di indicare la posizione in cui
   dovrà essere visualizzata la Griglia nel momento in cui l'utente
@@ -200,7 +200,7 @@ In particolare dunque il parametro:
 > contenitore verrà visualizzato premendo il bottone)**" compariranno
 > poi due ulteriori campi mediante i quali poter rispettivamente:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\griglia_collapse.bmp](./assets/media/image104.png)
+![](./assets/media/image104.png)
 
 - **Immagine del bottone di Collapse**: consente di indicare la
   specifica immagine da utilizzare per il pulsante di apertura della

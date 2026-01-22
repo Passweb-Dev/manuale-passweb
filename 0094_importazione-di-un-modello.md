@@ -18,7 +18,7 @@ richiesto di indicare il nome di una specifica cartella, che verrà poi
 creata in "Gestione Risorse del sito" e all'interno della quale verranno
 inserite tutte le risorse del modello selezionato.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\importa_modello_variante.bmp](./assets/media/image468.png)
+![](./assets/media/image468.png)
 
 **ATTENZIONE!!! Nel caso in cui l'utente decidesse di non indicare una
 specifica cartella le risorse del modello selezionato potrebbero andare

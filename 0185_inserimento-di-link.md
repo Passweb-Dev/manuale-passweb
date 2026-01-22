@@ -8,7 +8,7 @@ selezionare il testo desiderato e premere sul pulsante
 strumenti (). Verrà in questo modo aperta la maschera **"Collegamento"**
 qui di seguito riporta
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\sito_pubb_risorsa_Documentisito_res.bmp](./assets/media/image288.png)
+![](./assets/media/image288.png)
 
 attraverso la quale poter specificare tutte le caratteristiche del
 collegamento ipertestuale che si intende realizzare.
@@ -28,7 +28,7 @@ caratteristiche del collegamento che si intende realizzare.
 Nello specifico la scheda "**Destinazione**" consente di stabilire dove
 e come dovrà essere aperto il collegamento che si sta realizzando.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\link_target_res.bmp](./assets/media/image289.png)
+![](./assets/media/image289.png)
 
 In particolare per il parametro "Target" i valori:
 
@@ -66,7 +66,7 @@ sito internet oppure ad una risorsa interna al sito stesso (es. un
 documento o un file compresso), risorsa questa che potrà poi essere
 downlodata dagli utenti del sito cliccando sul collegamento in esame.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\link_esterno_res.bmp](./assets/media/image290.png)
+![](./assets/media/image290.png)
 
 Nel primo caso (collegamento ad una qualsiasi pagina di un qualsiasi
 altro sito internet) i campi **Protocollo** e **URL** consentono di
@@ -113,7 +113,7 @@ l'ancora e cliccare poi sul pulsante "**Inserisci / Modifica Ancora**" (
 ) presente nella barra degli strumenti. Verrà in questo modo
 visualizzata la maschera "**Proprietà ancora**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\proprieta_ancora.bmp](./assets/media/image291.png)
+![](./assets/media/image291.png)
 
 attraverso cui poter assegnare un nome all'ancora che si sta
 realizzando.
@@ -130,7 +130,7 @@ Impostando il parametro **"Tipo Collegamento**" sul valore "**Link ad
 una Pagina del sito**" è possibile creare un collegamento dinamico ad
 una pagina interna al sito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\link_pagina_interna_res.bmp](./assets/media/image292.png)
+![](./assets/media/image292.png)
 
 L'albero delle pagine presente all'interno del riquadro "**Link ad una
 pagina del sito**" permette di selezionare la specifica pagina di
@@ -155,7 +155,7 @@ collegamento verrà gestita a livello di codice HTML, come evidenziato
 nella figura di seguito riportata, con il segnaposto **AR** racchiuso
 tra doppie parentesi graffe.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\paragrafo_link_AR_1_res.bmp](./assets/media/image293.png)
+![](./assets/media/image293.png)
 
 In queste condizioni il link creato funzionerà in maniera diversa a
 seconda del fatto che l'utente abbia o meno già effettuato
@@ -218,7 +218,7 @@ Impostando il parametro **"Tipo Collegamento**" sul valore "**Link a
 Prodotto**" è possibile creare un collegamento ad una specifica pagina
 Prodotto.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\link_prodotto_res.bmp](./assets/media/image294.png)
+![](./assets/media/image294.png)
 
 Il prodotto da utilizzare come destinazione del collegamento potrà
 essere selezionato tra quelli presenti all'interno del riquadro "**Link
@@ -231,7 +231,7 @@ Articolo CMS**" è possibile creare un collegamento ad uno specifico
 articolo/post del proprio sito web, realizzato utilizzando i componenti
 CMS messi a disposizione da Passweb.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\link_cms_res.bmp](./assets/media/image295.png)
+![](./assets/media/image295.png)
 
 Lo specifico articolo da utilizzare come destinazione del collegamento
 potrà essere selezionato tra quelli presenti all'interno del box
@@ -251,7 +251,7 @@ si veda la corrispondente sezione di questo manuale.
 Impostando il parametro **"Tipo Collegamento**" sul valore "**E-mail**"
 è possibile creare un collegamento ad una specifica casella di posta.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\link_mail_res.bmp](./assets/media/image296.png)
+![](./assets/media/image296.png)
 
 Cliccando sul di un link di questo tipo verrà aperto in maniera
 completamente automatica il client di posta predefinito dell'utente e

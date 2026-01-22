@@ -74,7 +74,7 @@ impostare, oltre ai parametri classici di configurazione del pagamento,
 anche quelli specifici del gateway attualmente considerato e presenti
 all'interno della sezione "**Parametri Gateway**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_findomestic.bmp](./assets/media/image94.png)
+![](./assets/media/image94.png)
 
 Nel caso specifico i parametri presenti all'interno di questa sezione
 potranno variare in relazione al fatto di aver attivato il modulo di
@@ -92,7 +92,7 @@ corrispondenza di certi importi, sarà sufficiente agire mediante i campi
 "Limite minimo / massimo" presenti nella maschera di configurazione del
 pagamento stesso
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\soisy_3.bmp](./assets/media/image95.png)
+![](./assets/media/image95.png)
 
 In questo modo saremo quindi sicuri che questa specifica modalità di
 pagamento verrà proposta al cliente solo ed esclusivamente nel caso in
@@ -106,7 +106,7 @@ sarà memorizzato nel database di Passweb, e l'utente verrà reindirizzato
 automaticamente sulla piattaforma di Findomestic dove potrà completare
 la propria richiesta.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\findomestic_1.bmp](./assets/media/image96.png)
+![](./assets/media/image96.png)
 
 **A questo punto però l'ordine non è ancora concluso in maniera corretta
 e, conseguentemente, non è ancora avvenuto alcun pagamento**. L'utente
@@ -138,7 +138,7 @@ Una volta conclusa la procedura per la richiesta del finanziamento
 l'utente potrà tornare sul sito Ecommerce dove l'ordine risulterà ora
 concluso in maniera corretta.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\findomestic_2.bmp](./assets/media/image97.png)
+![](./assets/media/image97.png)
 
 **ATTENZIONE!** **Findomestic supporta la modalità Server to Server**.
 In tale modalità la piattaforma di finanziamento invierà una notifica al

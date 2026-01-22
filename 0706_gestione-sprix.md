@@ -32,7 +32,7 @@ un apposito file.
 All'interno della pagina viene visualizzata la maschera "**Gestione
 Sprix**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_sprix.bmp](./assets/media/image201.png)
+![](./assets/media/image201.png)
 
 contenente l'elenco degli eseguibili attualmente codificati e
 richiamabili quindi dall'Area Riservata del proprio sito web.
@@ -45,20 +45,20 @@ stessa.
 Una volta impostato un filtro di ricerca, per poterlo poi eliminare sarà
 sufficiente cliccare sull'icona raffigurante una piccola lente di
 ingrandimento con un -- all'interno (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina_filtro.bmp](./assets/media/image169.png) ) che comparirà in testata alla colonna
+![](./assets/media/image169.png) ) che comparirà in testata alla colonna
 in corrispondenza della quale è stato impostato il filtro stesso.
 
 Infine è anche possibile ordinare, in maniera crescente e/o decrescente,
 gli elementi in griglia cliccando semplicemente sull'icona raffigurante
 due piccole frecce posta anch' essa in testata ad ogni singola colonna
 della griglia (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_ordinamento_griglia.bmp](./assets/media/image170.png) )
+![](./assets/media/image170.png) )
 
 I pulsanti presenti nella corrispondente barra degli strumenti
 consentono rispettivamente di:
 
 **Elimina** **(**
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina.bmp](./assets/media/image202.png) **)**: consente di eliminare
+![](./assets/media/image202.png) **)**: consente di eliminare
 definitivamente lo sprix attualmente selezionato in elenco.
 
 **ATTENZIONE!** il pulsante "Elimina" consente, ovviamente, di eliminare
@@ -68,25 +68,25 @@ gestionale ed è solo dal gestionale che potrà quindi essere fisicamente
 eliminato.
 
 **Modifica** **(**
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica.bmp](./assets/media/image171.png) **)**: consente di modificare i
+![](./assets/media/image171.png) **)**: consente di modificare i
 parametri di configurazione utilizzati per mappare lo sprix attualmente
 selezionato in elenco
 
 **Modifica Parametri**
-**(**![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_parametri_sprix.bmp](./assets/media/image203.png) **)**: consente di accedere alla gestione
+**(**![](./assets/media/image203.png) **)**: consente di accedere alla gestione
 dei parametri dello sprix attualmente selezionato in elenco (per
 maggiori informazioni in merito si vedano anche i successivi capitoli di
 questo manuale)
 
 **Nuovo**
-**(**![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuovo.bmp](./assets/media/image204.png) **)**: consente di mappare un nuovo sprix
+**(**![](./assets/media/image204.png) **)**: consente di mappare un nuovo sprix
 (che, ovviamente, dovrà essere già stato creato all'interno del
 gestionale)
 
 Cliccando su questo pulsante verrà quindi visualizzata la maschera
 "**Nuovo Sprix**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuovo_sprix.bmp](./assets/media/image205.png)
+![](./assets/media/image205.png)
 
 all'interno della quale poter indicare, innanzitutto, un valore per il
 parametro "Tipologia"

@@ -25,7 +25,7 @@ inserire in fase di checkout.
 Una volta effettuato l'accesso a questa sezione del Wizard verrà
 mostrata la maschera **Set di Opzioni**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\set_opzioni_ordine.bmp](./assets/media/image695.png)
+![](./assets/media/image695.png)
 
 che consente di visualizzare e gestire tutti i Set di Opzioni Ordine
 attualmente codificati oltre che, ovviamente, crearne di nuovi.
@@ -34,32 +34,32 @@ I pulsanti presenti nella barra principale degli strumenti consentono
 rispettivamente di:
 
 **Modifica** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica.bmp](./assets/media/image675.png) ): consente di modificare il set di
+![](./assets/media/image675.png) ): consente di modificare il set di
 opzioni attualmente selezionato in elenco sia a livello di
 configurazione che di campi custom in esso presenti
 
 **Elimina** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina.bmp](./assets/media/image592.png) ): consente di eliminare il set di
+![](./assets/media/image592.png) ): consente di eliminare il set di
 opzioni attualmente selezionato in elenco
 
 **Copia** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_copia.bmp](./assets/media/image696.png) ): consente di effettuare una copia del
+![](./assets/media/image696.png) ): consente di effettuare una copia del
 il set di opzioni attualmente selezionato in elenco
 
 **Nuovo**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuovo.bmp](./assets/media/image676.png) ): consente di definire un nuovo Set di
+(![](./assets/media/image676.png) ): consente di definire un nuovo Set di
 Opzioni.
 
 Cliccando su questo pulsante verrà visualizzato il campo "**Nome Set**"
 mediante il quale poter assegnare un nome al Set di Opzioni che si sta
 realizzando
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\set_opzioni_ordine_2.bmp](./assets/media/image697.png)
+![](./assets/media/image697.png)
 
 Dopo aver assegnato un nome al Set, cliccando sul pulsante "**Salva**"
 presente nella parte bassa della maschera verrà visualizzata la sezione
 "**Opzioni**" all'interno della quale poter definire i singoli campi che
 andranno poi a comporre il Set in esame
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\set_opzioni_ordine_3.bmp](./assets/media/image698.png)
+![](./assets/media/image698.png)
 

@@ -4,7 +4,7 @@
 
 Il Componente **"Filtro Lista"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_filtro_lista.bmp](./assets/media/image613.png)
+![](./assets/media/image613.png)
 
 **può essere inserito unicamente all'interno del componente Ecommerce di
 primo livello "Ricerca".**
@@ -14,13 +14,13 @@ all'interno del pannello di ricerca un combo box attraverso il quale
 l'utente del sito potrà selezionare, dal relativo menu a tendina, ciò
 che intende ricercare all'interno del catalogo.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\filtro_lista_esempio.bmp](./assets/media/image614.png)
+![](./assets/media/image614.png)
 
 Rilasciando il Componente nella posizione desiderata all'interno della
 pagina web, verrà visualizzata **la sua maschera di gestione e
 configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_filtro_lista_configurazione_res.bmp](./assets/media/image615.png)
+![](./assets/media/image615.png)
 
 suddivisa in varie sezioni.
 

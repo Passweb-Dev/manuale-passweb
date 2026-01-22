@@ -12,7 +12,7 @@ Portandosi quindi nella sezione "*Catalogo -- Altri Marketplace --
 Gestione Inserzioni*" del Wizard verrà visualizzata la maschera "**Lista
 delle Inserzioni**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_mkt_lista_inserzioni.bmp](./assets/media/image365.png)
+![](./assets/media/image365.png)
 
 all'interno della quale verranno visualizzate tutte le Inserzioni
 attualmente configurate.
@@ -25,20 +25,20 @@ stessa.
 Una volta impostato un filtro di ricerca, per poterlo poi eliminare sarà
 sufficiente cliccare sull'icona raffigurante una piccola lente di
 ingrandimento con un -- all'interno (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina_filtro.bmp](./assets/media/image69.png) ) che comparirà in testata alla colonna
+![](./assets/media/image69.png) ) che comparirà in testata alla colonna
 in corrispondenza della quale è stato impostato il filtro stesso.
 
 Infine è anche possibile ordinare, in maniera crescente e/o decrescente,
 gli elementi in griglia cliccando semplicemente sull'icona raffigurante
 due piccole frecce posta anch' essa in testata ad ogni singola colonna
 della griglia (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_ordinamento_griglia.bmp](./assets/media/image70.png) )
+![](./assets/media/image70.png) )
 
 I pulsanti presenti nella contestuale barra degli strumenti consentono
 rispettivamente di:
 
 - **Cancella Inserzione** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_cancella_inserzione.bmp](./assets/media/image71.png) ): consente di eliminare l'inserzione
+  ![](./assets/media/image71.png) ): consente di eliminare l'inserzione
   attualmente selezionata in elenco.
 
 > **ATTENZIONE:** eliminando un'inserzione verranno eliminate anche
@@ -54,14 +54,14 @@ rispettivamente di:
   da poterne gestire la configurazione.
 
 - **Copia Inserzione** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_copia_inserzione.bmp](./assets/media/image72.png) ): consente di copiare l' Inserzione
+  ![](./assets/media/image72.png) ): consente di copiare l' Inserzione
   attualmente selezionata in elenco
 
 > Cliccando su questo pulsante verrà visualizzato un pop up all'interno
 > del quale poter indicare lo specifico Account da collegare alla nuova
 > Inserzione (risultato della copia che si sta effettuando).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\copia_inserzione.bmp](./assets/media/image366.png)
+![](./assets/media/image366.png)
 
 > **ATTENZONE!** Per ovvie ragioni sarà possibile selezionare solo ed
 > esclusivamente account dello stesso tipo di quello utilizzato
@@ -111,12 +111,12 @@ rispettivamente di:
 > View Magento in Italiano)
 
 - **Aggiungi Inserzione** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_inserzione.bmp](./assets/media/image73.png) ): consente di codificare una nuova Inserzione.
+  ![](./assets/media/image73.png) ): consente di codificare una nuova Inserzione.
 
 Cliccando su quest'ultimo pulsante verrà infatti visualizzata la
 maschera "**Dati Inserzione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_mkt_dati_inserzione.bmp](./assets/media/image367.png)
+![](./assets/media/image367.png)
 
 attraverso cui poter configurare l'Inserzione stessa.
 
@@ -142,7 +142,7 @@ possibile definire:
 > compariranno, organizzati all'interno di appositi Tab, altri campi da
 > dover impostare per terminare la configurazione dell'Inserzione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_mkt_dati_inserzione_specifiche.bmp](./assets/media/image368.png)
+![](./assets/media/image368.png)
 
 - **Store Marketplace**: consente di indicare a quale Marketplace della
   piattaforma definita tramite il precedente parametro Account dovrà
@@ -246,7 +246,7 @@ campi gestionali e / o Passweb decidendo, di fatto, quali informazioni
 dovranno essere trasferite per ogni singolo articolo pubblicato,
 mediante l'Inserzione in esame.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_mkt_inserzione_specifiche.bmp](./assets/media/image369.png)
+![](./assets/media/image369.png)
 
 **ATTENZIONE!** Nel momento in cui si dovesse utilizzare una
 pubblicazione via API, inserendo una determinata specifica all'interno
@@ -323,7 +323,7 @@ specifiche effettivamente gestibili per l'Inserzione in esame (sulla
 sinistra) e (sulla destra) l'elenco delle specifiche già in uso per
 questa stessa inserzione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\aggiungi_specifiche.bmp](./assets/media/image370.png)
+![](./assets/media/image370.png)
 
 A questo punto sarà quindi necessario selezionare le specifiche
 desiderate dall'elenco di sinistra, cliccare sul pulsante
@@ -338,7 +338,7 @@ innanzitutto, da dove poter andare a prelevare questo valore
 selezionando, per questo, una delle opzioni disponibili all'interno del
 relativo menu a tendina (colonna "**Modalità**").
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_mkt_inserzione_specifiche3.bmp](./assets/media/image371.png)
+![](./assets/media/image371.png)
 
 In questo senso è possibile selezionare una delle seguenti opzioni:
 
@@ -422,7 +422,7 @@ custom verranno effettivamente gestite solo nel caso di integrazioni
 verso Prestashop o Magento e solo nel caso in cui il metodo di
 pubblicazione adottato sia via csv)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_destinazione_inserzioni.bmp](./assets/media/image372.png)
+![](./assets/media/image372.png)
 
 **ATTENZIONE!** **Per tutti gli articoli pubblicati attraverso una
 stessa Inserzione verranno trasmesse alla piattaforma terza le stesse
@@ -486,7 +486,7 @@ Nel caso, ad esempio, di integrazione con il Business Manager di
 Facebook, il campo in questione è quello rappresentato dalla specifica
 addizionale **"id"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_mkt_inserzioni_specifiche.bmp](./assets/media/image373.png)
+![](./assets/media/image373.png)
 
 specifica questa che dovrà essere mappata su di un Attributo Passweb
 valorizzato, articolo per articolo, con il codice identificativo
@@ -502,7 +502,7 @@ All'interno di questa sezione è possibile definire come dovranno essere
 gestiti gli articoli pubblicati mediante l'Inserzione in esame a livello
 di prezzo e quantità.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_mkt_inserzione_prezzo_qta.bmp](./assets/media/image374.png)
+![](./assets/media/image374.png)
 
 In questo senso la sezione "**Metodo di Prezzo, quantità e formato**"
 consente di decidere se adottare uno dei Template precedentemente
@@ -530,7 +530,7 @@ In questa sezione è possibile decidere come dovrà essere gestita la
 quantità degli articoli pubblicati, mediante l'Inserzione in esame,
 all'interno della piattaforma terza
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_mkt_inserzione_qta.bmp](./assets/media/image375.png)
+![](./assets/media/image375.png)
 
 Nello specifico, per il campo Quantità è possibile selezionare uno dei
 seguenti valori:
@@ -568,7 +568,7 @@ della disponibilità che in termini di Scorta Minima
 In queste condizioni sarà quindi necessario impostare un valore anche
 per i seguenti campi:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_mkt_inserzione_qta2.bmp](./assets/media/image376.png)
+![](./assets/media/image376.png)
 
 - **Percentuale della Quantità:** la quantità con cui gli articoli
   coinvolti nell'Inserzione in esame verranno pubblicati sulla
@@ -751,7 +751,7 @@ questi strumenti una specifica aliquota per i vari articoli pubblicati)
 **e che siano esattamente i prezzi attualmente in uso all'interno del
 sito**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_mkt_inserzione_prezzo.bmp](./assets/media/image377.png)
+![](./assets/media/image377.png)
 
 In questo senso il campo:
 
@@ -830,7 +830,7 @@ Nel caso di integrazioni con Prestashop e Magento oltre ai parametri
 appena analizzati sarà presente anche un ulteriore sezione denominata
 "**Listini**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\marketplace_prezzo_listini.bmp](./assets/media/image378.png)
+![](./assets/media/image378.png)
 
 all'interno della quale poter associare ai Gruppi Utente definiti sulla
 piattaforma terza (Prestashop / Magento) specifici listini gestionali.
@@ -859,7 +859,7 @@ ciascuno degli articoli pubblicati sulla piattaforma terza mediante
 l'Inserzione in esame verrà creata una specifica entry all'interno della
 sezione "**Prezzi Specifici**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_listini_gruppi.bmp](./assets/media/image379.png)
+![](./assets/media/image379.png)
 
 **valida solo per il gruppo "Rivenditori", dove il prezzo dell'articolo
 sarà esattamente quello definito in Mexal per il listino "Aziende".**
@@ -880,7 +880,7 @@ ciascuno degli articoli pubblicati sulla piattaforma terza mediante
 l'Inserzione in esame verrà creata una specifica entry all'interno della
 sezione "**Advanced Pricing**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\magento_listini_gruppi.bmp](./assets/media/image380.png)
+![](./assets/media/image380.png)
 
 valida anche in questo caso solo per gli utenti appartenenti al gruppo
 "Rivenditori" e il cui prezzo sarà quello definito in Mexal per il
@@ -932,7 +932,7 @@ una delle associazioni precedentemente create sarà necessario:
   ai listini gestionali (colonna "**Listino Gestionale**") sul valore
   "Non applicare a nessun listino"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\elimina_listini_gruppi.bmp](./assets/media/image381.png)
+![](./assets/media/image381.png)
 
 - salvare l'Inserzione e procedere ad una nuova pubblicazione degli
   articoli in maniera tale da applicare le impostazioni appena settate
@@ -948,7 +948,7 @@ una delle associazioni precedentemente create sarà necessario:
   fisicamente l'associazione "Listino -- Gruppo Utenti" cliccando sulla
   piccola **x** posta a fianco di questa stessa associazione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\elimina_listini_gruppi_2.bmp](./assets/media/image382.png)
+![](./assets/media/image382.png)
 
 **ATTENZIONE!** Nel momento in cui si dovesse tentare di eliminare
 un'associazione "Listino -- Gruppo Utenti" senza seguire la procedura
@@ -988,7 +988,7 @@ determinate regole mediante le quali poter automatizzare:
   automaticamente) la pubblicazione -- sezione "**Regole di Rimessa in
   Vendita**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_mkt_inserzione_sincronizzazione.bmp](./assets/media/image383.png)
+![](./assets/media/image383.png)
 
 In questo senso la sezione "**Metodo di Sincronizzazione**" consente di
 decidere se adottare uno dei Template precedentemente codificati (e
@@ -1017,7 +1017,7 @@ condizioni in relazione alle quali poter automatizzare la pubblicazione
 sulla piattaforma terza degli articoli coinvolti nell'Inserzione in
 esame
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_mkt_regole_messa_in_vendita.bmp](./assets/media/image384.png)
+![](./assets/media/image384.png)
 
 Nello specifico per quel che riguarda le "**Regole di Messa in
 Vendita**" il campo:
@@ -1166,7 +1166,7 @@ in che termini dovranno essere aggiornati a seguito di una
 sincronizzazione Sito -- Gestionale, gli articoli pubblicati mediante
 l'inserzione in esame.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_mkt_regole_modifica_in_vendita.bmp](./assets/media/image385.png)
+![](./assets/media/image385.png)
 
 Nello specifico dunque il campo:
 
@@ -1247,7 +1247,7 @@ In questo senso dunque il campo:
 
 > Facendo riferimento alle impostazioni visualizzate in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_regole_modifica_in_vendita_2.bmp](./assets/media/image386.png)
+![](./assets/media/image386.png)
 
 > supponendo che nell'Inserzione siano coinvolti gli articoli ARTA,
 > ARTB, ARTC e che a seguito di una sincronizzazione la quantità di
@@ -1342,7 +1342,7 @@ In particolare dunque il campo:
 >
 > Facendo riferimento alle impostazioni visualizzate in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_mkt_regole_modifica_in_vendita_3.bmp](./assets/media/image387.png)
+![](./assets/media/image387.png)
 
 > supponiamo che nell'Inserzione siano coinvolti gli articoli ARTA e
 > ARTB e che a seguito di una sincronizzazione il prezzo di questi
@@ -1394,7 +1394,7 @@ sincronizzazione Sito -- Gestionale l'applicazione dovesse rilevare una
 modifica al "Metodo di Quantità, Prezzo e Formato" o al "Metodo di
 Descrizione" utilizzato nell'Inserzione in esame.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_mkt_condizioni_modifiche_totali.bmp](./assets/media/image388.png)
+![](./assets/media/image388.png)
 
 In particolare dunque il campo:
 
@@ -1476,7 +1476,7 @@ rimessa in vendita, è un'operazione relativa invece ai soli articoli
 che, pur essendo ancora all'interno della piattaforma terza, non possono
 attualmente essere acquistati.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_mkt_regole_rimessa_in_vendita.bmp](./assets/media/image389.png)
+![](./assets/media/image389.png)
 
 Per quel che riguarda le "**Regole di Rimessa in Vendita**" il campo:
 
@@ -1645,7 +1645,7 @@ fase di applicazione di una regola di blocco, gli articoli interessati
 dovranno essere solamente arrestati o se dovranno invece essere
 completamente eliminati dal marketplace
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_regole_di_blocco.bmp](./assets/media/image390.png)
+![](./assets/media/image390.png)
 
 A differenza delle condizioni definite nelle "Regole di messa in
 vendita" e di quelle definite nelle "Regole di rimessa in vendita", le

@@ -11,7 +11,7 @@ impostato sull'opzione "**Pagamento Semplice / One click**" e andranno
 impostati solamente i parametri di configurazione presenti all'interno
 della sezione "**Pagamento Semplic**e"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nexi_pagamento_semplice.bmp](./assets/media/image122.png)
+![](./assets/media/image122.png)
 
 Nello specifico il parametro:
 
@@ -53,7 +53,7 @@ dell'ordine, selezionare la modalità di pagamento in esame, l'ordine
 sarà memorizzato nel database di Passweb, e l'utente verrà reindirizzato
 sul sito del gateway di pagamento dove dovrà inserire i relativi dati.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamenti_nexi_2.bmp](./assets/media/image123.png)
+![](./assets/media/image123.png)
 
 **A questo punto però l'ordine non è ancora stato preso in carico dalla
 banca e, conseguentemente, non è ancora avvenuto alcun pagamento**.
@@ -77,12 +77,12 @@ Nel secondo caso (conferma della transazione) dopo aver inserito i dati
 della propria carta di credito verrà presentata all'utente una pagina
 web con il riassunto dei dati relativi alla transazione in essere.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamenti_nexi_4.bmp](./assets/media/image124.png)
+![](./assets/media/image124.png)
 
 Cliccando sul pulsante "**Conferma**" verrà visualizzato un ulteriore
 step in cui il cliente dovrà il codice 3D Secure
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamenti_cartasi_5.bmp](./assets/media/image125.png)
+![](./assets/media/image125.png)
 
 Una volta completata la transazione (pulsante "**Prosegui**") l'utente
 sarà ricondotto automaticamente al sito Ecommerce e l'esercente verrà

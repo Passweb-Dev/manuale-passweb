@@ -11,7 +11,7 @@ possibile procedere in due modi diversi:
     gestionale dell'articolo in esame (sezione "Lista Articoli e
     Listini")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\anagrafica_ar_horeca2.bmp](./assets/media/image111.png)
+![](./assets/media/image111.png)
 
 > Per maggiori informazioni relativamente alle modalità di
 > esportazione/eliminazione degli articoli all'interno del sito
@@ -51,7 +51,7 @@ allo spazio su disco.
 nell'anagrafica Passweb dell'articolo che si è deciso di oscurare in
 maniera temporanea e deselezionare il parametro "Pubblica"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_pubblica_no.bmp](./assets/media/image122.png)
+![](./assets/media/image122.png)
 
 **ATTENZIONE! A default il parametro "Pubblica" è sempre selezionato.**
 

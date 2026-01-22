@@ -56,7 +56,7 @@ metodo questo che può essere impostato all'interno della sezione
 "**Identità Report**" presente nell'interfaccia di amministrazione della
 relativa proprietà GA4
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ga4_60.bmp](./assets/media/image142.png)
+![](./assets/media/image142.png)
 
 GA4 imposta a default l'Identificazione nei report sull'opzione
 "**Sfumato**" il che significa che verranno valutati, nell'ordine, i
@@ -93,7 +93,7 @@ nel Data Layer**" presente alla pagina "**Sito -- Preferenze**" del
 Wizard (tab "**Tracciamento Dati**" sezione "**Google Tag Manager**")
 come nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_150.bmp](./assets/media/image143.png)
+![](./assets/media/image143.png)
 
 **ATTENZIONE!** prima di attivare, lato Passweb, il tracciamento
 mediante User ID è necessario accertarsi bene di gestire in maniera
@@ -108,7 +108,7 @@ parametro "user_id" nei Data Layer di Passweb utilizzando la modalità
 Passweb nel Data Layer di uno degli eventi tracciati all'interno del
 proprio sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_152.bmp](./assets/media/image144.png)
+![](./assets/media/image144.png)
 
 ##### STEP 3: CREARE UNA VARIABILE DI LIVELLO DATI PER MEMORIZZARE LO USER ID
 
@@ -139,7 +139,7 @@ oppure Tag del singolo evento per cui si desidera tracciare lo User_id
 
 **Nome varabile di livello dati**: impostare sul valore "**user_id"**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_151.bmp](./assets/media/image145.png)
+![](./assets/media/image145.png)
 
 ##### STEP 4: INSERIRE LO USER ID COME PARAMETRO DEL TAG DI CONFIGURAZIONE DI GA4
 
@@ -164,12 +164,12 @@ Tag di configurazione di GA4, apriamo la sezione "**Campi da
 impostare**" e clicchiamo sul pulsante "**Aggiungi Riga**" come nella
 figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_153.bmp](./assets/media/image146.png)
+![](./assets/media/image146.png)
 
 Aggiungere quindi il nuovo parametro completando i campi "Nome
 parametro" e "Valore" come nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_154.bmp](./assets/media/image147.png)
+![](./assets/media/image147.png)
 
 - **Nome parametro**: user_id
 
@@ -196,7 +196,7 @@ Fatto questo dovremo portarci nella Debug View di GA4 e verificare che
 tra parametri arrivati con l'evento tracciato ci sia anche lo user_id
 come nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_155.bmp](./assets/media/image148.png)
+![](./assets/media/image148.png)
 
 ##### UTILIZZARE LO USER ID NEI REPORT
 
@@ -219,14 +219,14 @@ dato non è presente per cui dovrà essere, eventualmente, inserito nei
 report customizzati che ogni utente può costruirsi all'interno della
 sezione "**Esplora**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_156.bmp](./assets/media/image149.png)
+![](./assets/media/image149.png)
 
 Per far questo sarà quindi necessario creare un nuovo report
 personalizzato o, eventualmente, accedere ad uno di quelli già creati e
 cliccare sul pulsante + accanto alla voce "**Dimensioni**" evidenziata
 in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_157.bmp](./assets/media/image150.png)
+![](./assets/media/image150.png)
 
 in maniera tale da aprire, nella parte destra dello schermo, l'elenco
 delle dimensioni disponibili che possono effettivamente essere aggiunte
@@ -238,24 +238,24 @@ figura, spuntare la voce "**Accesso eseguito con lo User-ID**" e
 cliccare sul pulsante "**Importa**" presente nella parte alta della
 maschera
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_158.bmp](./assets/media/image151.png)
+![](./assets/media/image151.png)
 
 Fatto questo troveremo ora la dimensione appena selezionata assieme a
 tutte le atre presenti nella relativa colonna e che possono
 effettivamente essere inserite nel report che stiamo esaminando
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_159.bmp](./assets/media/image152.png)
+![](./assets/media/image152.png)
 
 Sarà quindi sufficiente selezionare questa dimensione e trascinarla tra
 le righe o le colonne gestite nel report
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_160.bmp](./assets/media/image153.png)
+![](./assets/media/image153.png)
 
 Fatto questo il report verrà rielaborato in tempo reale mostrando quindi
 anche (laddove presente) il dato relativo alla dimensione appena
 inserita
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_161.bmp](./assets/media/image154.png)
+![](./assets/media/image154.png)
 
 **ATTENZIONE!** Come precedentemente evidenziato questa dimensione non
 ci consente di visualizzare esattamente l'id assegnato all'utente in

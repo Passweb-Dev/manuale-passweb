@@ -11,7 +11,7 @@ impostare, in tutte le lingue gestite all'interno del sito, i contenuti
 delle e-mail inviate in automatico dall'applicazione in corrispondenza
 di diversi eventi ecc...
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_parametri_utente_impostazioni_generali.bmp](./assets/media/image169.png)
+![](./assets/media/image169.png)
 
 ##### IMPOSTAZIONI GENERALI -- GESTIONE DELLE CREDENZIALI
 
@@ -19,7 +19,7 @@ All'interno di questa sezione è possibile definire i criteri per la
 gestione delle password utente e abilitare o meno il Case Sensitive sul
 pannello di login.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\parametri_utente_gestione_credenziali.bmp](./assets/media/image170.png)
+![](./assets/media/image170.png)
 
 In particolare dunque il campo:
 
@@ -76,7 +76,7 @@ In particolare dunque il campo:
 > andrebbero impostati, ovviamente, come nella figura di seguito
 > riportata:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\formato_password_1.bmp](./assets/media/image172.png)
+![](./assets/media/image172.png)
 
 > Nel caso in cui si volesse invece privilegiare la semplicità **a
 > discapito della sicurezza**, si potrebbe allora pensare di non imporre
@@ -84,7 +84,7 @@ In particolare dunque il campo:
 > campi in esame come nella figura di seguito indicata (senza cioè
 > creare nessuna specifica espressione regolare)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\formato_password_2.bmp](./assets/media/image173.png)
+![](./assets/media/image173.png)
 
 > **ATTENZIONE!** In queste condizioni gli utenti potrebbero utilizzare,
 > per il proprio account, una password qualsiasi (al limite anche di un
@@ -143,7 +143,7 @@ In particolare dunque il campo:
 > accedere alla sua Anagrafica e impostare il campo "**Numero di
 > Tentativi Password**" sul valore 0.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\numero_tentativi_password.bmp](./assets/media/image174.png)
+![](./assets/media/image174.png)
 
 > A questo punto l'utente avrà di nuovo a disposizione altri N tentativi
 > per poter inserire correttamente la proprio Password prima che la sua
@@ -155,7 +155,7 @@ All'interno della sezione "**Gestione Utenti**" è possibile impostare
 alcuni parametri di configurazione relativi, principalmente, alla
 registrazione e all'attivazione di nuovi utenti.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\parametri_utente_gestione_utenti.bmp](./assets/media/image175.png)
+![](./assets/media/image175.png)
 
 Nello specifico il parametro:
 
@@ -245,7 +245,7 @@ E' possibile selezionare uno dei seguenti valori:
 > potrebbe essere molto utile filtrare per tipologia utente selezionando
 > i soli utenti di tipo "Contatto Non Attivo") e cliccare poi sul
 > pulsante **"Attiva Contatto"** (
-> ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_attiva_contatto.bmp](./assets/media/image176.png) ) presente nella contestuale barra
+> ![](./assets/media/image176.png) ) presente nella contestuale barra
 > degli strumenti.
 >
 > Lo stato dell'utente in esame passerà quindi da "Contatto Non Attivo"
@@ -339,7 +339,7 @@ E' possibile selezionare uno dei seguenti valori:
 > Per far questo sarà necessario portarsi alla pagina "Utenti -- Utenti
 > Sito", selezionare tra quelli presenti in elenco lo specifico
 > "Contatto" da eliminare, e cliccare poi sul pulsante "Elimina" (
-> ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina.bmp](./assets/media/image95.png) ) presente nella contestuale barra
+> ![](./assets/media/image95.png) ) presente nella contestuale barra
 > degli strumenti.
 >
 > **Nel momento in cui un Contatto effettuerà il suo primo ordine,
@@ -475,7 +475,7 @@ abilitare o meno, in relazione alla gestione, nel Gestionale, della
 Partita IVA secondaria, il relativo campo collegato nell'anagrafica
 utente di Mexal.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\p_iva_secondaria.bmp](./assets/media/image177.png)
+![](./assets/media/image177.png)
 
 Nello specifico occorre dunque considerare che per i nuovi utenti:
 
@@ -571,7 +571,7 @@ della fattura elettronica lato gestionale e, nello specifico, come dovrà
 quindi essere impostato il parametro "**Tipo Fattura Elettronica**"
 della corrispondente anagrafica.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\campo_radio_fa_3_res.bmp](./assets/media/image178.png)
+![](./assets/media/image178.png)
 
 In questo senso è subito bene evidenziare che nel momento in cui nei
 form di Registrazione / Profilo Utente dovesse essere inserito un Campo
@@ -645,7 +645,7 @@ indicare il numero di sezionale che dovrà essere inserito in fase di
 memorizzazione della relativa anagrafica utente, all'interno del campo
 "**Sezionale iva**".
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\sezionale_elettronico.bmp](./assets/media/image179.png)
+![](./assets/media/image179.png)
 
 Grazie a questo parametro è quindi possibile specificare in quale, tra i
 sezionali abilitati alla fatturazione elettronica, dovranno essere
@@ -664,14 +664,14 @@ essere valorizzato, all'interno del gestionale, il campo
 "**Descrizione**" presente nell'anagrafica di ogni singolo indirizzo di
 spedizione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\parametri_utente_gestione_indirizzi.bmp](./assets/media/image180.png)
+![](./assets/media/image180.png)
 
 **Formato della Descrizione degli Indirizzi secondari:** consente di
 decidere come e con che cosa dovrà essere valorizzato il campo
 **Descrizione** presente all'interno di ogni singolo indirizzo di
 spedizione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\descrizione_indirizzi_spedizione.bmp](./assets/media/image181.png)
+![](./assets/media/image181.png)
 
 **ATTENZIONE!** Nel caso in cui si dovesse inserire all'interno del
 campo in oggetto una specifica stringa, questa verrà poi riportata allo
@@ -684,7 +684,7 @@ spedizione sarà quindi necessario inserire all'interno di questo campo
 uno dei segnaposto messi a disposizione da Passweb cliccando sul
 relativo pulsante **"Aggiungi segnaposto"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\descrizione_indirizzi_spedizione2.bmp](./assets/media/image182.png)
+![](./assets/media/image182.png)
 
 Sono gestiti i seguenti segnaposto:
 
@@ -693,7 +693,7 @@ Sono gestiti i seguenti segnaposto:
   valorizzato con quanto inserito dall'utente, in fase di codifica
   dell'indirizzo stesso, all'interno del campo "**Nominativo**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\descrizione_indirizzi_spedizione3.bmp](./assets/media/image183.png)
+![](./assets/media/image183.png)
 
 - **Nominativo dell'utente:** in queste condizioni il campo Descrizione
   del corrispondente indirizzo di spedizione Mexal verrà valorizzato con
@@ -712,7 +712,7 @@ Sono gestiti i seguenti segnaposto:
   quanto inserito dall'utente in fase di codifica dell'indirizzo stesso
   all'interno del campo "**Indirizzo**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\descrizione_indirizzi_spedizione4.bmp](./assets/media/image184.png)
+![](./assets/media/image184.png)
 
 **Se il parametro in oggetto non dovesse essere valorizzato, il campo
 "Descrizione" dell'indirizzo di spedizione verrà valorizzato
@@ -728,7 +728,7 @@ Descrizione degli Indirizzi secondari"** verrà poi riportato anche come
 primo elemento di ogni singolo indirizzo di spedizione visualizzabile e
 selezionabile in fase di checkout ordine dall'apposito menu a tendina.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\formato_indirizzi_spedizione_checkout.bmp](./assets/media/image185.png)
+![](./assets/media/image185.png)
 
 ##### IMPOSTAZIONI GENERALI -- GESTIONE ORDINI
 
@@ -736,7 +736,7 @@ All'interno di questa sezione è possibile gestire l'applicazione di un
 eventuale minimo d'ordine in relazione agli utenti abilitati ad
 effettuare ordini all'interno del sito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\parametri_utente_gestione_ordini.bmp](./assets/media/image186.png)
+![](./assets/media/image186.png)
 
 In questo senso il parametro:
 
@@ -836,7 +836,7 @@ amministrazione, di specifiche mail al verificarsi di determinati eventi
 quali la registrazione da parte di un nuovo utente e/o l'accesso al sito
 (login) da parte di un utente già registrato.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\parametri_utente_gestione_mail.bmp](./assets/media/image187.png)
+![](./assets/media/image187.png)
 
 In questo senso dunque il campo:
 
@@ -961,7 +961,7 @@ Tali mail potranno essere personalizzate sia a livello di Oggetto che a
 livello di contenuti operando per questo all'interno della sezione
 "**Dati Email**".
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_parametri_utente_dati_email.bmp](./assets/media/image188.png)
+![](./assets/media/image188.png)
 
 E' possibile indicare uno specifico contenuto ed uno specifico oggetto
 per le seguenti mail:
@@ -1135,7 +1135,7 @@ il Template utilizzato per la costruzione e la visualizzazione del
 dettaglio del form utente, ossia dei dati inseriti dall'utente sul front
 end del sito in fase di compilazione del form stesso
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\personalizzazione_form_utente.bmp](./assets/media/image189.png)
+![](./assets/media/image189.png)
 
 Nel momento in cui l'esigenza dovesse essere dunque quella di
 personalizzare, all'interno di una mail, i dati inseriti dall'utente sul
@@ -1146,7 +1146,7 @@ necessario agire sul codice HTML presente all'interno del campo
 Volendo è possibile aprire l'editor in modalità full screen utilizzando
 il tasto funzione **F11**.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_utente_full_screen.bmp](./assets/media/image190.png)
+![](./assets/media/image190.png)
 
 Una volta entrati in modalità full screen è poi possibile ritornare alla
 visualizzazione standard utilizzando il tasto **ESC**.
@@ -1156,7 +1156,7 @@ consente invece di visualizzare un'anteprima del Template che si sta
 realizzando, dove, ovviamente, al posto dei dati reali relativi ai campi
 del form, verranno visualizzati appositi segnaposto.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_utente_preview.bmp](./assets/media/image191.png)
+![](./assets/media/image191.png)
 
 In modalità Preview è possibile selezionare uno qualsiasi degli elementi
 presenti all'interno del Template **(2)**.
@@ -1191,7 +1191,7 @@ in cui dovrà essere inserita la nuova informazione, sarà necessario
 cliccare sul pulsante "**Seleziona un segnaposto ...**" in maniera tale
 da visualizzare l'elenco di tutti i segnaposto disponibili
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\personalizzazione_form_utente_2.bmp](./assets/media/image192.png)
+![](./assets/media/image192.png)
 
 Selezionando quindi il segnaposto desiderato tra quelli presenti in
 elenco, Passweb provvederà poi ad inserire automaticamente nel template
@@ -1325,7 +1325,7 @@ Supponendo quindi di voler inserire nel Template del form, ad esempio,
 il campo relativo al "Cognome" dell'utente sarà necessario, per prima
 cosa, individuare il valore del suo attributo name
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\info_componente_name.bmp](./assets/media/image194.png)
+![](./assets/media/image194.png)
 
 valore questo che, come evidenziato in figura, è esattamente
 "**last_name**", e successivamente sarà necessario inserire nel Template

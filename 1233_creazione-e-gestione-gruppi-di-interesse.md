@@ -19,11 +19,11 @@ aprire il menu contestuale alla specifica lista cliccando sul pulsante
 raffigurante una piccola freccia rivolta verso il basso; occorre poi
 cliccare sulla voce "**Manage subscribers**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\manage_subscribers.bmp](./assets/media/image13.png)
+![](./assets/media/image13.png)
 
 e, infine cliccare sulla voce **"Groups"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\groups.bmp](./assets/media/image17.png)
+![](./assets/media/image17.png)
 
 Verremo quindi ricondotti alla sezione di creazione e gestione dei
 gruppi di interesse associati alla lista.
@@ -31,12 +31,12 @@ gruppi di interesse associati alla lista.
 Il pulsante **Create Groups** permetterà di definire i nuovi gruppi di
 interesse.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_step_24.bmp](./assets/media/image18.png)
+![](./assets/media/image18.png)
 
 Per poter definire un nuovo gruppo di interesse occorrerà indicare uno
 specifico valore per i seguenti campi:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_step_26.bmp](./assets/media/image19.png)
+![](./assets/media/image19.png)
 
 - **How should we show group options on your signup form?:** consente di
   specificare il tipo di controllo web che dovrà essere utilizzato per

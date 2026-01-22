@@ -16,7 +16,7 @@ pulsante **Aggiungi Tassa**
 "**Tasse**" precedentemente analizzata e, successivamente, impostare il
 parametro "**Tipologia Tassa**" sull'opzione "**IVA**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tassa_iva_configurazione.bmp](./assets/media/image446.png)
+![](./assets/media/image446.png)
 
 I restanti parametri presenti all'interno di questa maschera consentono
 rispettivamente di:
@@ -127,7 +127,7 @@ rispettivamente di:
 > l'aliquota o l'esenzione cui sarà soggetto l'articolo in quella stessa
 > nazione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\app_passweb_oss_1.bmp](./assets/media/image447.png)
+![](./assets/media/image447.png)
 
 > Si consiglia quindi di installare questa App Mexal e di creare gli
 > Attributi Articolo mappandoli esattamente sui campi di questa

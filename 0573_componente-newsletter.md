@@ -4,7 +4,7 @@
 
 Il Componente **"Newsletter"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_newsletter.bmp](./assets/media/image145.png)
+![](./assets/media/image145.png)
 
 può essere inserito unicamente all'interno dei componenti di primo
 livello:

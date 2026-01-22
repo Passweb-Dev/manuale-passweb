@@ -61,8 +61,8 @@ clienti presenti su Passweb.
 
 Possono essere eseguite cliccando sui relativi pulsanti **Sincro
 Ordini** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_sincro_ordini_ebay.bmp](./assets/media/image45.png) ) / **Sincro Clienti** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_sincro_clienti.bmp](./assets/media/image309.png) ) presenti nella barra degli strumenti della maschera
+![](./assets/media/image45.png) ) / **Sincro Clienti** (
+![](./assets/media/image309.png) ) presenti nella barra degli strumenti della maschera
 "**Gestione Account**" dopo aver selezionato l'Account Magento in esame.
 
 **ATTENZIONE!** In queste condizioni le operazioni di sincronizzazione
@@ -136,7 +136,7 @@ sincronizzazione relativa a quella eventualmente in corso
 all'interno della sezione "**Schedulazione**" nella maschera di
 configurazione dell'Account Magento
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_mkt_account_schedulazione.bmp](./assets/media/image704.png)
+![](./assets/media/image704.png)
 
 All'interno di questa sezione è infatti possibile impostare la Frequenza
 con cui eseguire la sincronizzazione Passweb -- Magento (giornaliera,
@@ -149,7 +149,7 @@ ricorrenze impostate secondo i parametri presenti all'interno di questa
 maschera e di visualizzare quindi date e orari delle prossime dieci
 sincronizzazioni
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_mkt_account_schedulazione_2.bmp](./assets/media/image710.png)
+![](./assets/media/image710.png)
 
 Il pulsante "**Reset**" consente invece di azzerare tale calcolo
 
@@ -272,7 +272,7 @@ maniera manuale o schedulata, verranno eseguite le seguenti operazioni:
   articolo alla Categoria Merceologica**", "**Rimozione di un
   articolo**", e "**Aggiornamento di un articolo**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\aggiornamento_liste_vendita.bmp](./assets/media/image711.png)
+![](./assets/media/image711.png)
 
 > Per maggiori informazioni in merito ai parametri evidenziati si veda
 > anche quanto indicato all'interno del capitolo "*Altri Marketplace --

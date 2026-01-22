@@ -10,7 +10,7 @@ corretto funzionamento di quelli che saranno poi i moduli Clerk
 (Ricerca, Raccomandazioni, Chat ...) implementati all'interno del
 proprio sito Ecommerce.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_parametri_store.bmp](./assets/media/image8.png)
+![](./assets/media/image8.png)
 
 Nello specifico il campo:
 
@@ -60,7 +60,7 @@ prelevato direttamente dal proprio account Clerk all'interno della
 sezione "**Developers -- Tracking Code**" dello store con cui si
 desidera effettuare l'integrazione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_tracking_code.bmp](./assets/media/image9.png)
+![](./assets/media/image9.png)
 
 Va detto però che lo script prelevabile dalla sezione sopra evidenziata,
 viene fornito da Clerk in una versione "base" dove cioè l'unico

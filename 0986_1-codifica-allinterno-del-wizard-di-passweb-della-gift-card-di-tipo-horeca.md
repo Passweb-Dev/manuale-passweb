@@ -7,20 +7,20 @@ In questa fase sarà necessario portarsi all'interno della sezione
 Gift Card**" presente nella barra degli strumenti della maschera
 "**Lista delle Gift Card**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gift_card_horeca_1.bmp](./assets/media/image335.png)
+![](./assets/media/image335.png)
 
 In questo modo verrà infatti visualizzata la maschera "**Nuova Gift
 Card**" all'interno della quale poter impostare tutti i parametri di
 configurazione della Gift Card che si intende effettivamente codificare.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gift_card_horeca_2.bmp](./assets/media/image336.png)
+![](./assets/media/image336.png)
 
 **ATTENZIONE!** I parametri presenti all'interno di questa sezione
 variano in relaziona alla specifica tipologia di Gift Card considerata
 
 Dopo aver impostato il parametro "**Tipologia**" sul valore HoReCa
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gift_card_horeca_3.bmp](./assets/media/image337.png)
+![](./assets/media/image337.png)
 
 sarà quindi necessario configurare correttamente anche i seguenti campi:
 
@@ -61,7 +61,7 @@ sarà quindi necessario configurare correttamente anche i seguenti campi:
 > presente nella maschera di configurazione del relativo Buono Sconto di
 > Beauty
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gift_card_horeca_4.bmp](./assets/media/image338.png)
+![](./assets/media/image338.png)
 
 > Supponendo di aver impostato il campo in oggetto sul valore 30 il
 > Buono Sconto creato su Beauty a seguito di un ordine web effettuato in
@@ -72,7 +72,7 @@ Per completare la creazione della Gift Card HoReCa sarà poi necessario
 configurare correttamente anche la **mail di Attivazione** (tab "**Dati
 Email**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gift_card_horeca_5.bmp](./assets/media/image339.png)
+![](./assets/media/image339.png)
 
 e il Template da utilizzare per la creazione di questa stessa mail (tab
 "**Template**")
@@ -115,5 +115,5 @@ una seconda Gift Card di questo tipo verrà quindi visualizzato un
 messaggio di errore del tipo di quello evidenziato nell'immagine di
 seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gift_card_horeca_7.bmp](./assets/media/image341.png)
+![](./assets/media/image341.png)
 

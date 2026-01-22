@@ -15,7 +15,7 @@ quelli che sono:
 - nuovi documenti inseriti all'interno delle proprie cartelle (**Box
   Documenti**).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ec_bacheca.bmp](./assets/media/image4.png)
+![](./assets/media/image4.png)
 
 Ogni elemento presente all'interno dei box Messaggi e Documenti consente
 di accedere alla relativa sezione dell'Area Riservata e di visualizzare
@@ -45,7 +45,7 @@ all'interno di questa sezione della Dashboard è necessario cliccare sul
 pulsante "**Carica Statistiche**" oppure applicare uno dei filtri
 disponibili (Cliente, Stato Documento o Data)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ec_bacheca_ecommerce_carica_statistiche.bmp](./assets/media/image5.png)
+![](./assets/media/image5.png)
 
 **ATTENZIONE!** Le informazioni presenti all'interno di questa sezione
 della Dashboard possono variare in relazione alla specifica tipologia di
@@ -53,7 +53,7 @@ utenza considerata e alle impostazioni settate alla pagina "**Preferenze
 Sito**" del Wizard (tab "**Configurazione**" sezione "**Dashboard
 Cliente**" e "**Dashboard Agente**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_preferenze_dashboard_cliente_e_agente.bmp](./assets/media/image6.png)
+![](./assets/media/image6.png)
 
 In ogni caso comunque, **se ad effettuare l'accesso in area riservata
 dovesse essere un Cliente** opportunamente abilitato verranno
@@ -73,7 +73,7 @@ specifici Stati Ordine che potranno essere attivati e/o disattivati
 mediante l'apposito controllo presente, anch'esso, nella barra dei
 filtri**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ec_bacheca_ecommerce_1.bmp](./assets/media/image7.png)
+![](./assets/media/image7.png)
 
 **ATTENZIONE!** La sezione "**Riepilogo Ecommerce**" è direttamente
 collegata all'App "**Business**" e verrà quindi visualizzata solo nel
@@ -99,13 +99,13 @@ immediatamente al di sotto della barra dei filtri consentono invece di:
   marketplace, il numero di resi, il numero di carrelli abbandonati, il
   valore complessivo dei carrelli abbandonati ecc...
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_dashboard_indicatori.bmp](./assets/media/image8.png)
+![](./assets/media/image8.png)
 
 - **Grafici:** consente di visualizzare una serie di grafici (di base
   uno per ogni indicatore presente nella precedente sezione) che
   mostrano l'andamento nel tempo dei principali dati Ecommerce
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_dashboard_grafici.bmp](./assets/media/image9.png)
+![](./assets/media/image9.png)
 
 - **Tabelle:** consente di visualizzare, all'interno di apposite
   tabelle, gli ultimi 10 documenti, i 10 articoli più visti / venduti e
@@ -116,7 +116,7 @@ immediatamente al di sotto della barra dei filtri consentono invece di:
 > cliente opportunamente abilitato, verrà ovviamente visualizzata
 > soltanto la situazione di quel determinato cliente
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_dashboard_tabelle.bmp](./assets/media/image10.png)
+![](./assets/media/image10.png)
 
 Per maggiori informazioni relativamente ad Indicatori, Grafici e Tabelle
 si veda anche quanto indicato nei successivi capitoli di questo manuale.
@@ -126,7 +126,7 @@ così come in una qualsiasi altra pagina dell'Area Riservata, consentono
 rispettivamente di:
 
 **Menu Utente** **(**
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_menu_utente.bmp](./assets/media/image11.png) **):** consente di aprire un piccolo menu
+![](./assets/media/image11.png) **):** consente di aprire un piccolo menu
 a cascata all'interno del quale sarà possibile visualizzare:
 
 - Nome Cognome / Ragione Sociale dell'utente autenticato
@@ -135,10 +135,10 @@ a cascata all'interno del quale sarà possibile visualizzare:
 
 - Pulsante di Logout
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_menu_utente_dettaglio.bmp](./assets/media/image12.png)
+![](./assets/media/image12.png)
 
 **Home** **(**
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_menu_home.bmp](./assets/media/image13.png) **):** consente di accedere al front end del sito,
+![](./assets/media/image13.png) **):** consente di accedere al front end del sito,
 nello specifico alla pagina impostata in corrispondenza del parametro
 "**Pagina Home/Logout Area Riservata"** presente nella maschera di
 configurazione della variante sito attualmente online (per maggiori
@@ -147,18 +147,18 @@ informazioni in merito si veda quanto indicato all'interno del capitolo
 Pagina Home/Logout*" di questo manuale)
 
 **Dark / Light Mode** **(**
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_menu_dark_mode.bmp](./assets/media/image14.png) /
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_menu_light_mode.bmp](./assets/media/image15.png) **):** consente di attivare /
+![](./assets/media/image14.png) /
+![](./assets/media/image15.png) **):** consente di attivare /
 disattivare la modalità Dark Mode
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_dark_mode.bmp](./assets/media/image16.png)
+![](./assets/media/image16.png)
 
 **Full Screen (**
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_menu_full_screen.bmp](./assets/media/image17.png) **):** consente di attivare /
+![](./assets/media/image17.png) **):** consente di attivare /
 disattivare la modalità di visualizzazione in full screen
 
 **Nuovi Messaggi / Attività / Documenti** **(**
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_menu_notifiche.bmp](./assets/media/image18.png) **):** consente di notificare all'utente
+![](./assets/media/image18.png) **):** consente di notificare all'utente
 la presenza di:
 
 - nuovi messaggi in arrivo
@@ -178,5 +178,5 @@ Cliccando su questa icona verrà poi aperto un piccolo menu a tendina con
 il dettaglio delle novità da visualizzare e il link alla relativa
 sezione dell'area riservata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_menu_notifiche_dettaglio.bmp](./assets/media/image19.png)
+![](./assets/media/image19.png)
 

@@ -12,7 +12,7 @@ All'interno di questa sezione è inoltre possibile attivare il componente
 delle notifiche relative alla richiesta di disponibilità dei vari
 prodotti.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_catalogo_mexal_disponibilita.bmp](./assets/media/image20.png)
+![](./assets/media/image20.png)
 
 In particolare il campo:
 
@@ -27,7 +27,7 @@ seguenti valori:
   magazzino indicato all'interno del campo "**Magazzino**" presente
   nella maschera di "**Configurazione Ordini**" del Wizard.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\disponibilita_mexal_magazzino_1.bmp](./assets/media/image21.png)
+![](./assets/media/image21.png)
 
 - **Tutti i Magazzini:** selezionando questo valore nel calcolo della
   disponibilità verranno considerati tutti i magazzini del gestionale
@@ -39,7 +39,7 @@ seguenti valori:
   disponibilità verrà quindi effettuato considerando l'insieme dei
   magazzini appositamente selezionati.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\catalogo_mexal_disponibilita_personalizzata.bmp](./assets/media/image22.png)
+![](./assets/media/image22.png)
 
 **Disponibilità:** consente di impostare, selezionandola tra le opzioni
 disponibili, la specifica formula che dovrà essere utilizzata per il
@@ -129,7 +129,7 @@ può essere impostato anche articolo per articolo, agendo direttamente
 dalla relativa Anagrafica Passweb mediante l'apposito parametro "Scorta
 Minima"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\scorta_minima_articolo.bmp](./assets/media/image23.png)
+![](./assets/media/image23.png)
 
 Ovviamente i valori impostati sul singolo articolo avranno priorità
 rispetto a quelli impostati a livello generale all'interno della sezione
@@ -256,14 +256,14 @@ E' possibile selezionare uno dei seguenti valori:
 > chiaramente che quella specifica configurazione porterà ad ottenere un
 > articolo al momento non disponibile e quindi non acquistabile.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\configuratore_articoli_non_disponibili_1.bmp](./assets/media/image24.png)
+![](./assets/media/image24.png)
 
 > Per stilizzare in maniera diversa dalle altre le opzioni di selezione
 > relative a configurazioni di articoli figlio non disponibili è
 > sufficiente agire dallo style editor del componente "Configuratore"
 > selezionando uno degli elementi evidenziati in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\configuratore_articoli_non_disponibili_2.bmp](./assets/media/image25.png)
+![](./assets/media/image25.png)
 
 > Ovviamente gli articoli corrispondenti a configurazioni attualmente
 > non disponibili non potranno essere acquistati per cui selezionando
@@ -272,7 +272,7 @@ E' possibile selezionare uno dei seguenti valori:
 > visualizzata, anche in questo caso, l'etichetta di "Articolo
 > Esaurito".
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\configuratore_articoli_non_disponibili_3.bmp](./assets/media/image26.png)
+![](./assets/media/image26.png)
 
 > **ATTENZIONE!** Il fatto di ammettere, in queste condizioni, anche la
 > configurazione di articoli figli attualmente non disponibili potrebbe
@@ -333,7 +333,7 @@ essere impostata anche articolo per articolo, agendo direttamente dalla
 relativa Anagrafica Passweb mediante l'apposito parametro "Gestione
 Acquisto"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_acquisto.bmp](./assets/media/image27.png)
+![](./assets/media/image27.png)
 
 **In questo senso però è bene sottolineare come in fase di
 sincronizzazione verrà valutato, per ogni articolo coinvolto nella
@@ -380,7 +380,7 @@ la metodologia di calcolo della disponibilità di un singolo articolo di
 tipo DBA sarà possibile agire dall'analogo parametro presente
 nell'Anagrafica Passweb dell'articolo stesso
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\anagrafica_passweb_disponibilita_DBA.bmp](./assets/media/image28.png)
+![](./assets/media/image28.png)
 
 In ogni caso occorre sempre tenere in considerazione che un'eventuale
 variazione del parametro "**Gestione Disponibilità DBA"** presente

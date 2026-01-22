@@ -5,7 +5,7 @@
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_menu_categoria_res.bmp](./assets/media/image18.png)
+![](./assets/media/image18.png)
 
 suddivisa in varie sezioni.
 
@@ -85,7 +85,7 @@ E' possibile selezionare uno tra i seguenti valori.
 > essere visualizzato il menu nel momento in cui un utente dovesse
 > richiamarlo cliccando sull'apposito pulsante.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_cat_news_offcanvas_configurazione.bmp](./assets/media/image19.png)
+![](./assets/media/image19.png)
 
 > Nello specifico dunque il parametro:
 
@@ -129,7 +129,7 @@ E' possibile selezionare uno tra i seguenti valori.
 In questo caso sarà inoltre possibile specificare un valore per i
 seguenti parametri:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_treeview_cat_configurazione.bmp](./assets/media/image20.png)
+![](./assets/media/image20.png)
 
 - **Immagine Controllo Apri/Chiudi Ramo:** consente di selezionare una
   specifica immagine da poter utilizzare per il controllo di apertura /

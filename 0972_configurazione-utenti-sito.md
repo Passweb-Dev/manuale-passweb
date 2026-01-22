@@ -19,7 +19,7 @@ voce di menu principale "**Utenti**" è possibile
   delle proprie credenziali di accesso al sito (sezione "**Dati
   Email**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\passcom_configurazione_parametri_utenti_mail.bmp](./assets/media/image267.png)
+![](./assets/media/image267.png)
 
 In particolare dunque il campo:
 

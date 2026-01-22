@@ -12,12 +12,12 @@ e/o dell'intero sito.
 variare a seconda della specifica sezione del Wizard in cui si sta
 operando
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_principale_res.bmp](./assets/media/image6.png)
+![](./assets/media/image6.png)
 
 Il pulsante:
 
 **Nascondi**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_principale_nascondi.bmp](./assets/media/image7.png) ): consente di nascondere il menu
+(![](./assets/media/image7.png) ): consente di nascondere il menu
 principale visualizzando così la pagina che si sta editando su tutta la
 larghezza dell'ambiente di sviluppo
 
@@ -29,41 +29,41 @@ mediante i quali poter accedere rapidamente alle principali funzionalità
 di editing (funzionalità queste accessibili comunque anche dalle
 corrispondenti voci del menu "Editing"):
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_principale_nascondi_2.bmp](./assets/media/image8.png)
+![](./assets/media/image8.png)
 
 In questo senso dunque il pulsante:
 
 - **Apri il menu**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\barra_strumenti_chiudi.bmp](./assets/media/image9.png) ): consente di chiudere la barra degli
+  (![](./assets/media/image9.png) ): consente di chiudere la barra degli
   strumenti e di visualizzare nuovamente il menu principale mediante il
   quale poter accedere ad esempio ad una altra sezione del Wizard
 
 - **Menu Editing**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\barra_strumenti_menu_editing.bmp](./assets/media/image10.png) ): consente di accedere rapidamente al
+  (![](./assets/media/image10.png) ): consente di accedere rapidamente al
   menu di Editing del sito senza dover passare per forza di cose dal
   menu principale
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\barra_strumenti_menu_editing_2.bmp](./assets/media/image11.png)
+![](./assets/media/image11.png)
 
 > Per maggiori informazioni relativamente alle diverse funzionalità
 > attivabili dal menu di "Editing" si veda anche il successivo capitolo
 > di questo manuale.
 
 - **Gestione Pagine**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\barra_strumenti_gestione_pagine.bmp](./assets/media/image12.png) ): consente di accedere al menu di
+  (![](./assets/media/image12.png) ): consente di accedere al menu di
   gestione delle pagine del sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_pagine.bmp](./assets/media/image13.png)
+![](./assets/media/image13.png)
 
 > Per maggiori informazioni in merito alla "Gestione Pagine" si rimanda
 > al corrispondente capitolo di questo manuale ("*Live Editing per
 > Varianti Responsive -- Gestione Pagine*"
 
 - **Gestione Protezione**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\barra_strumenti_gestione_protezione.bmp](./assets/media/image14.png) ): consente di accedere alla maschera
+  (![](./assets/media/image14.png) ): consente di accedere alla maschera
   di gestione delle protezioni componente
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_protezione_componenti.bmp](./assets/media/image15.png)
+![](./assets/media/image15.png)
 
 > Per maggiori informazioni in merito alla Gestione della Protezione dei
 > componenti, sia lato Wizard che lato Sito, si rimanda al
@@ -71,10 +71,10 @@ In questo senso dunque il pulsante:
 > -- Gestione Protezione*")
 
 - **Gestione Varianti**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\barra_strumenti_gestione_varianti.bmp](./assets/media/image16.png) ): consente di accedere al menu di
+  (![](./assets/media/image16.png) ): consente di accedere al menu di
   gestione delle Varianti Sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_varianti_res.bmp](./assets/media/image17.png)
+![](./assets/media/image17.png)
 
 > Il colore del piccolo cerchio e il codice indicato immediatamente al
 > suo fianco rappresentano colore e codice assegnati alla variante
@@ -85,20 +85,20 @@ In questo senso dunque il pulsante:
 > Responsive / Varianti Standard e Mobile*")
 
 - **Gestione Layout**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\barra_strumenti_gestione_layout.bmp](./assets/media/image18.png) ): consente di accedere al menu di
+  (![](./assets/media/image18.png) ): consente di accedere al menu di
   gestione del Layout
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_layout_res.bmp](./assets/media/image19.png)
+![](./assets/media/image19.png)
 
 > Per maggiori informazioni in merito alla "Gestione Layout" si rimanda
 > al corrispondente capitolo di questo manuale ("*Layout per Varianti
 > Responsive - Layout*")
 
 - **Layout Sito
-  (**![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\barra_strumenti_layout_sito.bmp](./assets/media/image20.png) **):** consente di accedere
+  (**![](./assets/media/image20.png) **):** consente di accedere
   direttamente alla maschera di gestione del Layout di sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\layout_sito.bmp](./assets/media/image21.png)
+![](./assets/media/image21.png)
 
 > **ATTENZIONE!** il pulsante in esame è visibile solo nel caso in cui
 > sia stato definito un layout di sito.
@@ -108,17 +108,17 @@ In questo senso dunque il pulsante:
 > Responsive - Layout*")
 
 - **Gestione Temi**
-  **(**![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\barra_strumenti_gestione_temi.bmp](./assets/media/image22.png) **)**: consente di accedere alla
+  **(**![](./assets/media/image22.png) **)**: consente di accedere alla
   maschera di gestione dei Temi
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_temi_rapida_res.bmp](./assets/media/image23.png)
+![](./assets/media/image23.png)
 
 > Per maggiori informazioni in merito alla "Gestione Layout" si rimanda
 > al corrispondente capitolo di questo manuale ("*Layout per Varianti
 > Responsive - Temi*")
 
 - **Modifica Componenti**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\barra_strumenti_modifica_componenti.bmp](./assets/media/image24.png) ): consente di attivare la modalità di
+  (![](./assets/media/image24.png) ): consente di attivare la modalità di
   gestione dei Componenti presenti all'interno della pagina web. Una
   volta attivata tale modalità di gestione sarà sufficiente selezionare,
   direttamente all'interno della pagina web piuttosto che dall'albero
@@ -127,7 +127,7 @@ In questo senso dunque il pulsante:
   all'azione che si vuol eseguire (Configurazione del componente,
   Editing Grafico ...)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modalita_modifica_componenti.bmp](./assets/media/image25.png)
+![](./assets/media/image25.png)
 
 > Per maggiori informazioni relativamente alla gestione dei componenti
 > Passweb si veda anche il corrispondente capitolo di questo manuale
@@ -138,15 +138,15 @@ In questo senso dunque il pulsante:
 > relativa al componente stesso.
 
 - **Aggiungi Componenti**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\barra_strumenti_aggiungi_componenti.bmp](./assets/media/image26.png) ): consente di abilitare la modalità
+  (![](./assets/media/image26.png) ): consente di abilitare la modalità
   di aggiunta di nuovi componenti attivando la libreria di componenti
   all'interno della quale poter selezionare lo specifico elemento da
   inserire nella pagina web
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\libreria_componenti_res.bmp](./assets/media/image27.png)
+![](./assets/media/image27.png)
 
 - **Mostra i componenti solo Web** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\barra_strumenti_componenti_web.bmp](./assets/media/image28.png) ): disponibile solo nel caso in cui sia
+  ![](./assets/media/image28.png) ): disponibile solo nel caso in cui sia
   stato attivato il modulo di gestione dell'App mobile e la pagina in
   esame sia stata impostata come visibile tanto per il Sito quanto per
   l'App
@@ -164,10 +164,10 @@ In questo senso dunque il pulsante:
 
 - **Sia Sito che App**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componenti_visibilita_app.bmp](./assets/media/image29.png)
+![](./assets/media/image29.png)
 
 - **Mostra i componenti solo App** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\barra_strumenti_componenti_app.bmp](./assets/media/image30.png) ): disponibile solo nel caso in cui
+  ![](./assets/media/image30.png) ): disponibile solo nel caso in cui
   sia stato attivato il modulo di gestione dell'App mobile e la pagina
   in esame sia stata impostata come visibile tanto per il Sito quanto
   per l'App
@@ -205,24 +205,24 @@ In questo senso dunque il pulsante:
 > di questo manuale ("*App Mobile e Progressive Web App*")
 
 - **Classi Responsive**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\barra_strumenti_classi_responsive.bmp](./assets/media/image31.png) ): consente di visualizzare
+  (![](./assets/media/image31.png) ): consente di visualizzare
   all'interno del Wizard, indipendentemente da quella che è l'attuale
   dimensione della finestra del browser, quei componenti che, in base
   alle loro impostazioni, dovrebbero essere invece visibili solo in
   corrispondenza di certe risoluzioni.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modalita_classi_responsive.bmp](./assets/media/image32.png)
+![](./assets/media/image32.png)
 
 - **Evidenzia i Componenti**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\barra_strumenti_componenti_gestione.bmp](./assets/media/image33.png) )**:** consente, se cliccato, di
+  (![](./assets/media/image33.png) )**:** consente, se cliccato, di
   evidenziare mediante un apposito riquadro rosso i componenti che
   l'utente attualmente loggato sul Wizard può effettivamente gestire
   all'interno della specifica pagina web.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\evidenzia_componenti_gestiti.bmp](./assets/media/image34.png)
+![](./assets/media/image34.png)
 
 - **Evidenzia i Componenti Statici**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\barra_strumenti_componenti_statici.bmp](./assets/media/image35.png) )**:** consente, se cliccato, di
+  (![](./assets/media/image35.png) )**:** consente, se cliccato, di
   evidenziare mediante un apposito riquadro marrone i componenti statici
   presenti all'interno della pagina.
 
@@ -233,7 +233,7 @@ In questo senso dunque il pulsante:
 > dei componenti*" di questo manuale
 
 - **Evidenzia i componenti solo web**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\barra_strumenti_componenti_gestione_web.bmp](./assets/media/image36.png) ): disponibile solo nel caso in cui
+  (![](./assets/media/image36.png) ): disponibile solo nel caso in cui
   sia stato attivato il modulo di gestione dell'App mobile e la pagina
   in esame sia stata impostata come visibile tanto per il Sito quanto
   per l'App.
@@ -246,7 +246,7 @@ In questo senso dunque il pulsante:
 > di configurazione, è stato impostato sul valore "**Solo Sito**")
 
 - **Evidenzia i componenti solo App**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\barra_strumenti_componenti_gestione_app.bmp](./assets/media/image37.png) ): disponibile solo nel caso in cui
+  (![](./assets/media/image37.png) ): disponibile solo nel caso in cui
   sia stato attivato il modulo di gestione dell'App mobile e la pagina
   in esame sia stata impostata come visibile tanto per il Sito quanto
   per l'App.
@@ -259,7 +259,7 @@ In questo senso dunque il pulsante:
 > configurazione, è stato impostato sul valore "**Solo app**")
 
 - **Visualizza pagina Front End**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\barra_strumenti_visualizza_front_end.bmp](./assets/media/image38.png) ): consente, se cliccato, di aprire in
+  (![](./assets/media/image38.png) ): consente, se cliccato, di aprire in
   un nuovo tab del browser la pagina in cui si sta operando direttamente
   sul front end del sito
 
@@ -267,100 +267,100 @@ In questo senso dunque il pulsante:
 > presente, ovviamente, solo per la variante online
 
 **Sito**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_principale_sito_res.bmp](./assets/media/image39.png) ): consente di aprire il menu "Sito"
+(![](./assets/media/image39.png) ): consente di aprire il menu "Sito"
 mediante il quale poter accedere alle principali sezioni di
 amministrazione e configurazione del proprio sito (Preferenze, Gestione
 Lingue, IP Bannati, Gestione Risorse ecc...)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_sito.bmp](./assets/media/image40.png)
+![](./assets/media/image40.png)
 
 Per maggiori informazioni relativamente alle diverse sezioni del Wizard
 accessibili da questa specifica voce di menu si rimanda ai
 corrispondenti capitoli di questo manuale
 
 **Catalogo**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_principale_catalogo.bmp](./assets/media/image41.png) ): consente di aprire il menu "Catalogo"
+(![](./assets/media/image41.png) ): consente di aprire il menu "Catalogo"
 mediante il quale poter accedere alle principali sezioni di
 amministrazione e gestione del proprio catalogo web (Gestione Articoli,
 Parametri Catalogo, Gestione Taglie, Gestione Strutture ...) oltre che
 alle sezioni relative all'integrazione con i Marketplace di eBay ed
 Amazon
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_catalogo.bmp](./assets/media/image42.png)
+![](./assets/media/image42.png)
 
 Per maggiori informazioni relativamente alle diverse sezioni del Wizard
 accessibili da questa specifica voce di menu si rimanda ai
 corrispondenti capitoli di questo manuale
 
 **Utenti**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_principale_utenti_res.bmp](./assets/media/image43.png) ): consente di aprire il menu "Utenti"
+(![](./assets/media/image43.png) ): consente di aprire il menu "Utenti"
 mediante il quale poter accedere alle principali sezioni di gestione
 delle funzionalità relative agli utenti del proprio sito, sia a livello
 di front end che a livello di back end
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_utenti.bmp](./assets/media/image44.png)
+![](./assets/media/image44.png)
 
 **Ordini**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_principale_ordini_res.bmp](./assets/media/image45.png) ): consente di aprire il menu "Ordini"
+(![](./assets/media/image45.png) ): consente di aprire il menu "Ordini"
 mediante il quale poter accedere alle principali sezioni di
 configurazione degli ordini che verranno poi effettuati all'interno del
 sito (Gestione Ordini, Gestione Resi, Gestione Matrici ...)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_ordini.bmp](./assets/media/image46.png)
+![](./assets/media/image46.png)
 
 Per maggiori informazioni relativamente alle diverse sezioni del Wizard
 accessibili da questa specifica voce di menu si rimanda ai
 corrispondenti capitoli di questo manuale
 
 **Configurazione**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_principale_configurazione_res.bmp](./assets/media/image47.png) ): consente di aprire il menu
+(![](./assets/media/image47.png) ): consente di aprire il menu
 "Configurazione" mediante il quale poter accedere alle sezioni di
 configurazione dell'integrazione tra il proprio sito e lo specifico
 gestionale Mexal
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_configurazione.bmp](./assets/media/image48.png)
+![](./assets/media/image48.png)
 
 Per maggiori informazioni relativamente alle diverse sezioni del Wizard
 accessibili da questa specifica voce di menu si rimanda ai
 corrispondenti capitoli di questo manuale
 
 **Posta / SMS**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_principale_posta_res.bmp](./assets/media/image49.png) ): consente di aprire il menu "Posta /
+(![](./assets/media/image49.png) ): consente di aprire il menu "Posta /
 SMS" mediante il quale poter gestire le funzionalità di mailing
 disponibili all'interno dell'applicativo
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_posta_sms.bmp](./assets/media/image50.png)
+![](./assets/media/image50.png)
 
 Per maggiori informazioni relativamente alle diverse sezioni del Wizard
 accessibili da questa specifica voce di menu si rimanda ai
 corrispondenti capitoli di questo manuale
 
 **Statistiche**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_principale_statistiche_res.bmp](./assets/media/image51.png) ): consente di aprire il menu
+(![](./assets/media/image51.png) ): consente di aprire il menu
 "Statistiche" mediante il quale poter accedere alla specifica sezione
 del Wizard contente alcune interessanti statistiche relative
 all'utilizzo del proprio sito web
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_statistiche.bmp](./assets/media/image52.png)
+![](./assets/media/image52.png)
 
 Per maggiori informazioni relativamente alle diverse sezioni del Wizard
 accessibili da questa specifica voce di menu si rimanda ai
 corrispondenti capitoli di questo manuale
 
 **Logout**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\logout_wizard.bmp](./assets/media/image53.png) ): consente di effettuare il logout
+(![](./assets/media/image53.png) ): consente di effettuare il logout
 dall'ambiente di sviluppo del sito
 
 **Vai al sito web**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\vai_al_sito.bmp](./assets/media/image54.png) ): consente di accedere al front end del
+(![](./assets/media/image54.png) ): consente di accedere al front end del
 sito
 
 **Vai al Passstore**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\vai_al_passstore.bmp](./assets/media/image55.png) ): consente di accedere alla sezione di
+(![](./assets/media/image55.png) ): consente di accedere alla sezione di
 Passstore relativa ai Moduli Web attivabili per il proprio sito Passweb
 
 **Opacità**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_principale_opacita.bmp](./assets/media/image56.png) ): consente di abbassare l'opacità del
+(![](./assets/media/image56.png) ): consente di abbassare l'opacità del
 menu principale lasciando quindi intravedere gli elementi della pagina
 web posizionati al di sotto di esso
 
@@ -370,7 +370,7 @@ compare invece all'interno della altre sezioni di amministrazione del
 sito
 
 Il pulsante "**Cerca nel menu**"
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_cerca_menu.bmp](./assets/media/image57.png) ), presente nella parte alta del menu
+(![](./assets/media/image57.png) ), presente nella parte alta del menu
 principale, consente infine di effettuare una ricerca tra le varie voci
 presenti in tutti i sottomenu di Passweb
 
@@ -380,5 +380,5 @@ desiderato le voci di menu che soddisfano il filtro verranno
 visualizzate immediatamente al di sotto di questo stesso campo di
 ricerca
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cerca_menu.bmp](./assets/media/image58.png)
+![](./assets/media/image58.png)
 

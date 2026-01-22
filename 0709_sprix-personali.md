@@ -115,14 +115,14 @@ carattere "&".
 Consente di indicare l'etichetta assegnata all'interno del gestionale al
 Collage Server Remoto che verrà poi richiamato da Area Riservata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sprix_web_api_etichetta_collage.bmp](./assets/media/image220.png)
+![](./assets/media/image220.png)
 
 **Codice App** -- **solo per "Interfaccia = Web Api"**
 
 Consente di indicare il codice dell'App gestionale corrispondente al
 Collage Server Remoto che verrà poi richiamato da Area Riservata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sprix_web_api_codice_app.bmp](./assets/media/image221.png)
+![](./assets/media/image221.png)
 
 **Estensione file di ritorno:** estensione del file ritornato come
 risultato dallo sprix
@@ -163,7 +163,7 @@ tra quelli presenti in elenco, e cliccare poi sul pulsante **"Modifica
 Parametri"** **(** ) in maniera tale da accedere alla maschera
 "**Gestione Parametri per lo Sprix 'Nome Sprix'** "
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\parametri_sprix_remoto.bmp](./assets/media/image222.png)
+![](./assets/media/image222.png)
 
 Per aggiungere un nuovo parametro, e conseguentemente un nuovo campo del
 form, sarà quindi sufficiente cliccare sul pulsante **"Nuovo Parametro
@@ -173,7 +173,7 @@ Sprix"** **(**
 In questo modo verrà infatti visualizzata la maschera "**Nuovo Parametro
 Sprix**".
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuovo_parametro_sprix.bmp](./assets/media/image224.png)
+![](./assets/media/image224.png)
 
 all'interno della quale poter impostare un valore per i seguenti campi:
 
@@ -227,7 +227,7 @@ E' possibile selezionare uno dei seguenti valori:
   utilizzare per selezionare, tra le possibili opzioni di scelta
   proposte per il parametro in oggetto, quella desiderata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sprix_lista_valori.bmp](./assets/media/image226.png)
+![](./assets/media/image226.png)
 
 - **Autocompletamento:** consente di inserire all'interno del form di
   compilazione dello sprix un campo di tipo testo che, sulla base di
@@ -235,7 +235,7 @@ E' possibile selezionare uno dei seguenti valori:
   da selezionare per auto completare il valore immesso all'interno di
   questo stesso campo.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sprix_autocompletamento.bmp](./assets/media/image227.png)
+![](./assets/media/image227.png)
 
 **Tipo Valore -- solo per "Tipo Parametro = Lista Valori" o " Tipo
 Parametro = Autocompletamento".**

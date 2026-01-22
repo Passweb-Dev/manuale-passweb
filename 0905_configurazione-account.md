@@ -17,7 +17,7 @@ Nello specifico sarà necessario:
   selezionare, all'interno del campo "**Marketplace**" l'opzione
   "**Prestashop**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_7.bmp](./assets/media/image594.png)
+![](./assets/media/image594.png)
 
 - Compilare quindi i campi presenti all'interno della sezione
   "**Credenziali**" con i dati di seguito indicati:
@@ -37,7 +37,7 @@ Nello specifico sarà necessario:
 > maggiori informazioni in merito si faccia riferimento a quanto
 > indicato nel precedente capitolo di questo manuale)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\prestashop_8.bmp](./assets/media/image595.png)
+![](./assets/media/image595.png)
 
 > chiave questa che dovrà essere copiata ed incollata all'interno del
 > campo in questione
@@ -62,7 +62,7 @@ Nello specifico sarà necessario:
 > Negozi attivi e presenti all'interno della sezione "**Configura --
 > Parametri Avanzati -- Multi Negozio**" del back end di Prestashop
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\prestashop_9.bmp](./assets/media/image596.png)
+![](./assets/media/image596.png)
 
 > **ATTENZIONE**! Ovviamente se l'esigenza dovesse essere quella di
 > esportare i prodotti e acquisire ordini da tutti i Negozi gestiti su
@@ -170,7 +170,7 @@ valori:
   richiesti, per ovvie ragioni, altri specifici parametri di
   configurazione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pubblicazione_articoli_via_api.bmp](./assets/media/image597.png)
+![](./assets/media/image597.png)
 
 - **CSV**: in questo caso la pubblicazione dei dati articolo avverrà
   mediante la creazione di appositi file csv il cui contenuto dovrà poi
@@ -191,7 +191,7 @@ poi anche tutta una serie di parametri che consentiranno di
 personalizzare, secondo le specifiche esigenze del caso, il processo di
 creazione e gestione di questi stessi file.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_metodi_pubblicazione.bmp](./assets/media/image598.png)
+![](./assets/media/image598.png)
 
 In particolare dunque il campo
 
@@ -570,7 +570,7 @@ disponibili i file prodotti da Passweb questa può essere impostata
 sempre dal tab "Metodi di pubblicazione" operando all'interno della
 sezione "**Repository**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_repository_1.bmp](./assets/media/image600.png)
+![](./assets/media/image600.png)
 
 Nello specifico dunque il campo:
 
@@ -615,7 +615,7 @@ csv prodotti da Passweb in maniera completamente manuale, e senza quindi
 ricorrere a nessun Repository, sarà sufficiente impostare il parametro
 "**Repository CSV**" sull'opzione "**Non Gestito**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_repository_2.bmp](./assets/media/image601.png)
+![](./assets/media/image601.png)
 
 In queste condizioni dunque a seguito di ogni operazione di
 pubblicazione articoli (indipendentemente dal fatto che sia una
@@ -688,7 +688,7 @@ direttamente al fornitore del servizio
 Per attivare questo tipo di repository è necessario, per prima cosa,
 impostare il parametro "**Repository CSV**" sull'opzione "**FTPS**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_repository_4.bmp](./assets/media/image602.png)
+![](./assets/media/image602.png)
 
 Fatto questo sarà poi necessario impostare anche tutta una serie di
 altri parametri necessari per consentire a Passweb di accedere all'area
@@ -765,7 +765,7 @@ Per attivare questo tipo di repository è necessario, per prima cosa,
 impostare il parametro "**Repository CSV**" sull'opzione "**Google
 Drive**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_repository_5.bmp](./assets/media/image603.png)
+![](./assets/media/image603.png)
 
 Fatto questo sarà poi necessario impostare anche tutta una serie di
 altri parametri necessari per consentire a Passweb di connettersi
@@ -792,7 +792,7 @@ indirizzi sotto il dominio assegnato al proprio Connettore Passweb.
 Per attivare questo tipo di repository è necessario impostare il
 parametro "**Repository CSV**" sull'opzione "**URL Passweb**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_repository_6.bmp](./assets/media/image604.png)
+![](./assets/media/image604.png)
 
 In queste condizioni non sarà necessario impostare nessun'altro
 parametro di configurazione essendo i file in esame disponibili
@@ -831,7 +831,7 @@ All'interno del tab "**Articoli**" è possibile impostare i parametri di
 configurazione del proprio Account in relazione alla pubblicazione dei
 prodotti sul Marketplace.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_configurazione_articoli.bmp](./assets/media/image605.png)
+![](./assets/media/image605.png)
 
 Il parametro "**Magazzino degli articoli**" (sezione "Generale")
 consente di indicare quelli che dovranno essere i Magazzini da collegare
@@ -1066,7 +1066,7 @@ All'interno di questa sezione è possibile decidere se l'Account in esame
 dovrà interagire o meno con la piattaforma terza anche a livello di
 ordini ed eventualmente in che modo.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_configurazione_ordini.bmp](./assets/media/image606.png)
+![](./assets/media/image606.png)
 
 Per maggiori informazioni in merito si rimanda a quanto indicato
 all'interno del successivo capitolo "*Configurazione Ordini*"
@@ -1078,7 +1078,7 @@ a seguito di apposite operazioni di sincronizzazione, le anagrafiche dei
 clienti presenti su Passweb con i dati prelevati direttamente dalla
 piattaforma esterna.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_account_clienti.bmp](./assets/media/image607.png)
+![](./assets/media/image607.png)
 
 Per maggiori informazioni in merito alla gestione dei clienti si veda
 anche quanto indicato all'interno del successivo capitolo "*Codifica
@@ -1089,7 +1089,7 @@ Automatica di nuove anagrafiche utente*"
 All'interno di questa sezione è possibile schedulare le operazioni di
 sincronizzazione automatica tra Passweb e la piattaforma esterna.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_account_schedulazione.bmp](./assets/media/image318.png)
+![](./assets/media/image318.png)
 
 Per maggiori informazioni in merito alla gestione dei clienti si veda
 anche quanto indicato all'interno del successivo capitolo
@@ -1172,7 +1172,7 @@ Una volta effettuato l'accesso alla sezione "Backup" della maschera
 "Dati Account" verrà quindi visualizzato un elenco di tutti i Backup
 attualmente disponibili
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_account_backup.bmp](./assets/media/image319.png)
+![](./assets/media/image319.png)
 
 **ATTENZIONE! Passweb conserva in automatico i backup effettuati negli
 ultimi 7 giorni**
@@ -1188,7 +1188,7 @@ I pulsanti presenti in corrispondenza delle colonne "Elimina" e
 "Scarica" consentono invece di:
 
 **Elimina** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_backup_marketplace.bmp](./assets/media/image608.png) ): consente di eliminare definitivamente
+![](./assets/media/image608.png) ): consente di eliminare definitivamente
 il corrispondente file di backup.
 
 In questo senso è bene ricordare, come precedentemente evidenziato, che
@@ -1229,7 +1229,7 @@ rientra quindi nel criterio dei 7 giorni di conservazione) e gli ultimi
 quindi essere più vecchi degli ultimi 7 giorni).
 
 **Scarica** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_scarica_backup_marketplace.bmp](./assets/media/image448.png) ): consente di effettuare il download
+![](./assets/media/image448.png) ): consente di effettuare il download
 dei relativi file di backup.
 
 Nello specifico, per ciascuno dei backup presenti in elenco sarà
@@ -1257,7 +1257,7 @@ Tali file saranno in formato json o csv in base alle impostazioni
 settate per il parametro "**Formato del File di Backup**" presente
 all'interno del tab "Articoli"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_account_backup_5.bmp](./assets/media/image609.png)
+![](./assets/media/image609.png)
 
 In particolare, nel momento in cui il parametro evidenziato in figura
 dovesse essere impostato sul valore **JSON**, all'interno del file .zip
@@ -1277,7 +1277,7 @@ maschera relativa ai backup, consente di effettuare il download di un
 esempio di file di backup generati da Passweb (sia in formato json che
 in formato csv)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_account_backup_esempio.bmp](./assets/media/image610.png)
+![](./assets/media/image610.png)
 
 **Prima di procedere ad un eventuale ripristino si consiglia sempre di
 scaricare il file di esempio in maniera tale da poter verificare
@@ -1336,7 +1336,7 @@ utilizzato), sarà possibile visualizzare e gestire in maniera manuale i
 vari file prodotti da Passweb a seguito di una qualsiasi operazione
 (automatica o manuale) di pubblicazione / arresto articoli
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_mkt_download_csv.bmp](./assets/media/image320.png)
+![](./assets/media/image320.png)
 
 **ATTENZIONE! Passweb conserva uno storico dei file relativo alle ultime
 10 pubblicazioni effettuate**

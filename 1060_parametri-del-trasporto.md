@@ -12,7 +12,7 @@ questo particole metodo di spedizione, dovrà essere a carico del
 mittente, del destinatario (con ritiro in uno dei punti vendita o dei
 fermopoint abilitati) o di un ben preciso Vettore.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trasporto_mezzo_vettore.bmp](./assets/media/image278.png)
+![](./assets/media/image278.png)
 
 Nello specifico dunque il parametro
 
@@ -29,9 +29,9 @@ scegliere tra una delle seguenti opzioni:
 **ATTENZIONE!** Il valore impostato per questo parametro verrà poi
 memorizzato nel corrispondente campo del piede del documento
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trasporto_a_mezzo_mexal.bmp](./assets/media/image279.png)
+![](./assets/media/image279.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trasporto_a_mezzo_gestionale.bmp](./assets/media/image280.png)
+![](./assets/media/image280.png)
 
 Dipendentemente dal fatto di considerare trasporti a mezzo mittente,
 destinatario o vettore, andranno poi impostati altri specifici parametri
@@ -50,7 +50,7 @@ Tipicamente questo tipo di trasporto viene quindi utilizzato per
 configurare dei ritiri in sede o presso specifici Punti Vendita
 opportunamente abilitati.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trasporto_mezzo_destinatario.bmp](./assets/media/image281.png)
+![](./assets/media/image281.png)
 
 In queste condizioni infatti sarà necessario specificare un valore anche
 per i seguenti parametri:
@@ -145,7 +145,7 @@ mezzo**" sull'opzione "**Mittente**", ciò starà a significare che il
 trasporto dovrà essere a carico del mittente ossia di chi ha venduto la
 merce.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trasporto_mezzo_mittente.bmp](./assets/media/image282.png)
+![](./assets/media/image282.png)
 
 In queste condizioni sarà necessario specificare un valore anche per i
 seguenti parametri:
@@ -385,7 +385,7 @@ In questo senso è bene sottolineare che, al momento, l'integrazione con
 il servizio di consegna e ritiro in Fermopoint è disponibile unicamente
 per il vettore **BRT -- Bartolini**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trasporto_mezzo_vettore.bmp](./assets/media/image283.png)
+![](./assets/media/image283.png)
 
 In queste condizioni dunque, oltre ai parametri "**Tipo di Porto**",
 "**Tipologia di Spesa**" e "**Gestione Punti Vendita**" già esaminati
@@ -459,7 +459,7 @@ dovesse visualizzare, all'interno del sito, il dettaglio del relativo
 documento avrebbe la possibilità di visualizzare questo stesso codice
 nella parte alta dell'ordine.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\number_tracking1.bmp](./assets/media/image284.png)
+![](./assets/media/image284.png)
 
 Per maggiori informazioni relativamente al campo da utilizzare per la
 gestione del Number Tracking, si veda anche quanto indicato all'interno
@@ -546,7 +546,7 @@ un'apposita anagrafica fornitore), che dovrà essere inserito nel piede
 del documento nel momento in cui l'utente dovesse selezionare, in fase
 di ordine sul sito, il metodo di trasporto in esame.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\codice_gestionale_mexal.bmp](./assets/media/image285.png)
+![](./assets/media/image285.png)
 
 **ATTENZIONE!**: Nel caso in cui venga indicato il codice mastro di un
 Vettore non ancora codificato in Mexal, in fase di inserimento ordine
@@ -598,7 +598,7 @@ corrispondente vettore e verranno mostrati all'utente in fase di
 checkout sia sotto forma di elenco sia all'interno di un' apposita
 Google Map
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pudo_brt_3.bmp](./assets/media/image286.png)
+![](./assets/media/image286.png)
 
 Per maggiori informazioni relativamente a come poter effettivamente
 abilitare e utilizzare questa specifica modalità di trasporto in
@@ -625,7 +625,7 @@ servizio con il Vettore in questione, sarà poi necessario:
   key**" presente alla pagina "**Sito -- Preferenze**" del Wizard (tab
   "**Integrazione**" sezione "**Logistica -- BRT**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pudo_brt_1.bmp](./assets/media/image287.png)
+![](./assets/media/image287.png)
 
 > **ATTENZIONE!** Il parametro evidenziato in figura sarà disponibile
 > solo dopo aver attivato il corrispondente modulo su Passstore
@@ -637,7 +637,7 @@ servizio con il Vettore in questione, sarà poi necessario:
   ritiro**", presenti all'interno della sezione "Parametri del
   trasporto" come di seguito indicato:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pudo_brt_2.bmp](./assets/media/image288.png)
+![](./assets/media/image288.png)
 
 > **Trasporto a Mezzo**: **Vettore**
 >
@@ -650,7 +650,7 @@ fase di checkout, il metodo di trasporto in esame avrà poi la
 possibilità di indicare esattamente il punto di ritiro in cui il
 corriere dovrà consegnare la merce
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pudo_brt_3.bmp](./assets/media/image286.png)
+![](./assets/media/image286.png)
 
 I punti di ritiro verranno prelevati direttamente dal sito del relativo
 Vettore e, come evidenziato nella figura sopra riportata, potranno
@@ -698,7 +698,7 @@ indirizzi di spedizione, posto ovviamente che non esista già, un
 indirizzo di tipo "Punto di ritiro" che, come tale, non sarà quindi
 associato a nessun utente in particolare.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pudo_brt_5.bmp](./assets/media/image289.png)
+![](./assets/media/image289.png)
 
 **ATTENZIONE!** Nel campo "**Riferimento**" dell'indirizzo di spedizione
 verrà inserito l'identificativo del Punto di ritiro selezionato
@@ -707,7 +707,7 @@ dall'utente in fase di acquisto.
 Tale indirizzo verrà poi inserito, come indirizzo di spedizione, anche
 nel piede del corrispondente documento gestionale
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pudo_brt_4.bmp](./assets/media/image290.png)
+![](./assets/media/image290.png)
 
 Nel momento in cui il sito in esame dovesse essere **collegato invece
 con uno dei gestionali Ho.Re.Ca.**, non essendo presente una specifica
@@ -716,5 +716,5 @@ selezionato dall'utente in fase di acquisto verrà semplicemente inserito
 (con anche il relativo codice identificativo) nel piede del
 corrispondente documento gestionale.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pudo_brt_6.bmp](./assets/media/image291.png)
+![](./assets/media/image291.png)
 

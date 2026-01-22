@@ -14,7 +14,7 @@ pulsante **Aggiungi Tassa**
 "**Tasse**" precedentemente analizzata e, successivamente, impostare il
 parametro "**Tipologia Tassa**" sull'opzione "**Tassa Extra**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tassa_extra_configurazione.bmp](./assets/media/image445.png)
+![](./assets/media/image445.png)
 
 I restanti parametri presenti all'interno di questa maschera consentono
 rispettivamente di:

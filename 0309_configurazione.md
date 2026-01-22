@@ -5,7 +5,7 @@
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_video_configurazione.bmp](./assets/media/image163.png)
+![](./assets/media/image163.png)
 
 suddivisa in varie sezioni.
 
@@ -78,19 +78,19 @@ possibile impostare un valore per i seguenti parametri:
 - Accedere, su YouTube, alla pagina di visualizzazione del video e
   cliccare sul pulsante "**Condividi**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\url_video_youtube_1.bmp](./assets/media/image164.png)
+![](./assets/media/image164.png)
 
 - Selezionare dal corrispondente menu contestuale l'opzione
   "**Incorpora**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\url_video_youtube_2.bmp](./assets/media/image165.png)
+![](./assets/media/image165.png)
 
 - Prelevare, dal codice di incorporamento, il link del video di YouTube
   (valore dell' attributo src dell' iframe) e inserirlo come valore del
   parametro **Link** nella maschera di configurazione del componente
   Passweb
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\url_video_youtube_3.bmp](./assets/media/image166.png)
+![](./assets/media/image166.png)
 
 > In maniera del tutto analoga nel caso in cui la sorgente del video
 > dovesse essere **Vimeo** sarà necessario:
@@ -98,14 +98,14 @@ possibile impostare un valore per i seguenti parametri:
 - Accedere, su Vimeo, alla pagina di visualizzazione del video e
   cliccare sul pulsante "**Share**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\url_video_vimeo_1.bmp](./assets/media/image167.png)
+![](./assets/media/image167.png)
 
 - Prelevare, dal codice di condivisione, il link del video di Vimeo
   (valore dell' attributo src dell' iframe) e inserirlo come valore del
   parametro **Link** nella maschera di configurazione del componente
   Passweb
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\url_video_vimeo_2.bmp](./assets/media/image168.png)
+![](./assets/media/image168.png)
 
 I successivi parametri consentono di attivare o meno determinate
 funzionalità sul player del video e possono variare in relazione alla

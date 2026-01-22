@@ -21,7 +21,7 @@ struttura che dovrà essere utilizzata per poi generare le Keywords e le
 Description relative agli articoli gestiti all'interno del proprio sito
 e-commerce.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\seo_keywords_description_articoli.bmp](./assets/media/image26.png)
+![](./assets/media/image26.png)
 
 I campi presenti all'interno di questa sezione consentono
 rispettivamente di:
@@ -89,7 +89,7 @@ Sono gestiti i seguenti segnaposto:
 > "**Description Meta**" presente nell' Anagrafica Passweb (sezione
 > "*SEO -- Sitemap*") del relativo articolo
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\segnaposto_meta.bmp](./assets/media/image27.png)
+![](./assets/media/image27.png)
 
 > **ATTENZIONE!** Nel caso in cui per un determinato articolo non sia
 > stato specificato nulla per i campi Meta evidenziati in figura, il
@@ -220,7 +220,7 @@ seguenti segnaposto:
 > Passweb (sezione "*SEO -- Sitemap*") della relativa categoria
 > merceologica
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\segnaposto_description_meta.bmp](./assets/media/image28.png)
+![](./assets/media/image28.png)
 
 > **ATTENZIONE!** Nel caso in cui per una determinata categoria non sia
 > stato specificato nulla per il campo Meta evidenziati in figura, il
@@ -235,7 +235,7 @@ seguenti segnaposto:
 > Passweb (sezione "*SEO -- Sitemap*") della relativa categoria
 > merceologica
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\segnaposto_description_meta.bmp](./assets/media/image28.png)
+![](./assets/media/image28.png)
 
 > **ATTENZIONE!** A differenza del caso precedente, in queste condizioni
 > se per una determinata categoria non dovesse essere stato specificato

@@ -26,7 +26,7 @@ dell'albero delle pagine. Supponendo ad esempio di avere a che fare, per
 il sito **www.nome_sito.passweb.it**, con un albero del tipo di quello
 indicato in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\albero_pagine_alias.bmp](./assets/media/image471.png)
+![](./assets/media/image471.png)
 
 alla pagina "Dettaglio" corrisponderà l' url
 **www.nome_sito.passweb.it/blog/archivio-notizie/dettaglio**

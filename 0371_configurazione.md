@@ -5,7 +5,7 @@
 **Il Componente "Configuratore" può essere inserito, per sua stessa
 natura, unicamente all'interno del componente "Scheda Prodotto".**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_configuratore.bmp](./assets/media/image116.png)
+![](./assets/media/image116.png)
 
 In particolare, lavorando all'interno della pagina "Prodotti" generica,
 accessibile dalla corrispondente voce del menu "Gestione Pagine" o
@@ -31,7 +31,7 @@ in maniera corretta.
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e di configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_configuratore_configurazione_res.bmp](./assets/media/image117.png)
+![](./assets/media/image117.png)
 
 suddivisa in varie sezioni.
 
@@ -78,7 +78,7 @@ possibile impostare un valore per i seguenti parametri:
 > presente nella sezione "Gestione Testi / Messaggi del Sito" in
 > corrispondenza del componente "**Configuratore**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\messaggio_articolo_non_configurato.bmp](./assets/media/image118.png)
+![](./assets/media/image118.png)
 
 - **Tempo di chiusura popup messaggio (ms):** consente di indicare
   l'intervallo di tempo (in millisecondi) trascorso il quale il popup di

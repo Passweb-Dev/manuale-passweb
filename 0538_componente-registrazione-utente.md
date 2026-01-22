@@ -24,7 +24,7 @@ Può essere inserito:
 > Responsive -- Lista Componenti Ecommerce -- Componente Ordine
 > Custom"*)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_registrazione_utente_res.bmp](./assets/media/image19.png)
+![](./assets/media/image19.png)
 
 In genere, la registrazione di un nuovo utente mediante questo form non
 determina la creazione immediata della relativa anagrafica cliente

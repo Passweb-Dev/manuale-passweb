@@ -8,7 +8,7 @@ embeddare all'interno del sito form di iscrizione creati direttamente
 sulla piattaforma operando in questo senso all'interno della sezione
 "**Sito -- Moduli**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\activecampaign_form_iscrizione_1.bmp](./assets/media/image9.png)
+![](./assets/media/image9.png)
 
 **ATTENZIONE!** per maggiori informazioni relativamente a come poter
 creare e gestire all'interno di ActiveCampaign i vari form di iscrizione
@@ -51,7 +51,7 @@ Componente di primo livello **Registrazione Utente** e impostando, in
 fase di configurazione, il campo "**Tipo di Integrazione**" sul valore
 "**ActiveCampaign**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_newsletter_activecampaign.bmp](./assets/media/image10.png)
+![](./assets/media/image10.png)
 
 Una volta completata la configurazione del componente, al salvataggio,
 l'applicazione si preoccuperà di contattare ActiveCampaign, utilizzando
@@ -75,7 +75,7 @@ un Radio Button con le due opzioni **Si / No**, **opzioni queste che**
 **permetteranno all'utente di poter decidere se iscriversi o meno anche
 alla Newsletter**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_newsletter_mailchimp_1.bmp](./assets/media/image11.png)
+![](./assets/media/image11.png)
 
 Nel caso in cui l'utente dovesse decidere di registrarsi al sito senza
 iscriversi alla Newsletter (opzione **No**) non verrà visualizzato
@@ -87,7 +87,7 @@ alla Newsletter (opzione **Si**) verranno visualizzati **i campi
 importati da ActiveCampaign** che si è deciso, in fase di
 configurazione, di voler effettivamente visualizzare.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\newsletter_registrazione3.bmp](./assets/media/image12.png)
+![](./assets/media/image12.png)
 
 Per maggiori informazioni in merito a come poter gestire l'iscrizione
 alla Newsletter direttamente in fase di registrazione al sito si rimanda

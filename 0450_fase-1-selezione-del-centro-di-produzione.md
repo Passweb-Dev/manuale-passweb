@@ -11,7 +11,7 @@ Radio Button in cui ogni opzione corrisponderà ad un ben determinato
 Centro di Produzione opportunamente codificato all'interno del
 gestionale
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\spiagge_configurazione_9.bmp](./assets/media/image377.png)
+![](./assets/media/image377.png)
 
 Per fare in modo che un Centro di Produzione possa essere visualizzato
 all'interno di questa lista, abilitando quindi la prenotazione via web
@@ -24,7 +24,7 @@ delle relative risorse, sarà necessario:
   "**Abilita Passweb**" presente all'interno della sezione "**Opzione
   Risorse**" nella maschera di configurazione del Centro di Produzione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\spiagge_configurazione_1.bmp](./assets/media/image378.png)
+![](./assets/media/image378.png)
 
 - Definire l'intervallo temporale entro cui il Centro di Produzione
   potrà effettivamente essere disponibile consentendo quindi la
@@ -34,7 +34,7 @@ delle relative risorse, sarà necessario:
 > disponibilità agendo mediante i relativi campi presenti, anche in
 > questo caso, all'interno della sezione "**Opzione Risorse**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\spiagge_configurazione_2.bmp](./assets/media/image379.png)
+![](./assets/media/image379.png)
 
 > **ATTENZIONE! le date di inizio e fine disponibilità evidenziate in
 > figura condizioneranno poi, nel successivo step, i giorni

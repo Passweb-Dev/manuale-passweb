@@ -9,18 +9,18 @@ cosa abilitare la modalità di "**Gestione Componenti**" cliccando per
 questo sul corrispondente pulsante presente all'interno del menu di
 Editing del sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_editing_modifica_componente.bmp](./assets/media/image195.png)
+![](./assets/media/image195.png)
 
 o, in alternativa, sulla corrispondente icona presente nella Barra degli
 Strumenti del Live Editing
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_editing_modifica_componente_2.bmp](./assets/media/image196.png)
+![](./assets/media/image196.png)
 
 Una volta abilitata questa particolare modalità di gestione, all'interno
 del menu di Editing del sito compariranno solamente i tre pulsanti
 evidenziati in figura:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_editing_modifica_componente_3.bmp](./assets/media/image197.png)
+![](./assets/media/image197.png)
 
 che consentono rispettivamente di :
 
@@ -34,7 +34,7 @@ nuovi Componenti" analizzata nei precedenti capitoli di questo manuale
 del menu di editing del sito, l'albero dei Contenitori e dei Componenti
 presenti all'interno della pagina web che si sta editando.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\albero_componenti.bmp](./assets/media/image198.png)
+![](./assets/media/image198.png)
 
 E' possibile ricercare uno specifico componente presente all'interno
 dell'albero utilizzando la piccola lente di ingrandimento posta a fianco
@@ -42,7 +42,7 @@ dell'intestazione.
 
 Cliccando su questo pulsante verrà infatti visualizzato un piccolo form
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\albero_componenti_ricerca.bmp](./assets/media/image199.png)
+![](./assets/media/image199.png)
 
 contenente i seguenti campi di ricerca
 
@@ -63,7 +63,7 @@ Il pulsante raffigurante una piccola gomma consente invece di azzerare
 il filtro impostato rendendo nuovamente visibili all'interno dell'albero
 tutti i componenti effettivamente presenti all'interno della pagina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\albero_componenti_azzera_filtro.bmp](./assets/media/image200.png)
+![](./assets/media/image200.png)
 
 Passando con il mouse su uno qualsiasi dei componenti presenti nella
 pagina questo stesso componente verrà automaticamente evidenziato

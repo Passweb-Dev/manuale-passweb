@@ -8,7 +8,7 @@ conto) dovrà per prima cosa autenticarsi sul sito e portarsi alla pagina
 "Ordini" dove potrà visualizzare, come noto, l'elenco di tutti i suoi
 documenti (ordini, bolle, fatture ecc...)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_resi1.bmp](./assets/media/image747.png)
+![](./assets/media/image747.png)
 
 Portandosi nella sezione relativa alle fatture l'utente avrà quindi modo
 di visualizzare l'elenco di tutti i documenti a partire dai quali
@@ -22,7 +22,7 @@ analizzata) comparirà, in corrispondenza di questo stesso documento,
 oltre al pulsante di visualizzazione del dettaglio, anche il pulsante
 grazie al quale poter avviare una nuova richiesta di reso merce.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_resi2.bmp](./assets/media/image748.png)
+![](./assets/media/image748.png)
 
 Cliccando su questo pulsante (il cui testo può essere personalizzato
 dalla sezione "*Testi / Messaggi del Sito*") l'utente verrà quindi
@@ -37,7 +37,7 @@ All'interno di questa pagina verrà infatti visualizzato il dettaglio
 della fattura (o del corrispettivo) in relazione alla quale effettuare
 la richiesta di reso merce
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_resi3.bmp](./assets/media/image749.png)
+![](./assets/media/image749.png)
 
 Nel dettaglio del documento verranno inoltre considerati i soli articoli
 in relazione ai quali è effettivamente possibile richiedere il reso
@@ -70,7 +70,7 @@ collegati a Mexal. Quella di corpo è disponibile invece tanto per i siti
 Ecommerce collegati a Mexal quanto per quelli collegati ad uno dei
 gestionali Ho.Re.Ca.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_resi6.bmp](./assets/media/image750.png)
+![](./assets/media/image750.png)
 
 **ATTENZIONE!** **i campi di input per l'inserimento della quantità e/o
 della nota di riga verranno visualizzati solo dopo aver selezionato
@@ -103,7 +103,7 @@ presenti in elenco quella in relazione alla quale ha appena ricevuto la
 mail di notifica e visualizzarne il dettaglio, cliccando per questo sul
 pulsante "**Visualizza Reso**".
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_resi5.bmp](./assets/media/image741.png)
+![](./assets/media/image741.png)
 
 In questa fase, come precedentemente evidenziato, l'amministratore avrà
 la possibilità di modificare le quantità (**che non potranno essere mai
@@ -131,7 +131,7 @@ Nel caso in cui invece sia stata approvata il cliente potrà
 visualizzarla alla pagina "Ordini" del sito nella sezione riservata ai
 Resi.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_resi8.bmp](./assets/media/image751.png)
+![](./assets/media/image751.png)
 
 Pur essendo stata approvata, la richiesta di reso merce si trova però
 ancora solo sul database del sito, per cui sarà ora necessario inserirla
@@ -140,7 +140,7 @@ elaborare.
 
 Per far questo è sufficiente selezionarla tra quelle presenti in elenco
 e cliccare sul pulsante "**Memorizza Reso**"
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_memorizza_reso.bmp](./assets/media/image752.png) ) che, come precedentemente evidenziato,
+(![](./assets/media/image752.png) ) che, come precedentemente evidenziato,
 viene effettivamente visualizzato solo ed esclusivamente per richieste
 in stato **CONFERMATO**
 
@@ -163,9 +163,9 @@ Ricevuta tale mail l'utente potrà quindi accedere nuovamente alla pagina
 "Ordini" del sito e visualizzare, all'interno della sezione
 "**Crediti**". il dettaglio della sua nota d'accredito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_resi9.bmp](./assets/media/image753.png)
+![](./assets/media/image753.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_resi10.bmp](./assets/media/image754.png)
+![](./assets/media/image754.png)
 
 > **NOTA BENE:** qualora in fase di sincronizzazione dovessero essere
 > presenti delle richieste di reso merce in stato DA VERIFICARE, verrà

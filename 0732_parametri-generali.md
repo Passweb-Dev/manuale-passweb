@@ -8,7 +8,7 @@ automatico delle richieste indesiderate e di impostare i parametri che
 andranno a definire le condizioni necessarie per far scattare un
 determinato blocco.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ddos_1.bmp](./assets/media/image276.png)
+![](./assets/media/image276.png)
 
 Nello specifico dunque il parametro:
 
@@ -76,14 +76,14 @@ seguente schema:
 > uno degli user agent bloccati, la risposta che si otterrà sarà
 > esattamente quella evidenziata in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ddos_2.bmp](./assets/media/image277.png)
+![](./assets/media/image277.png)
 
 > Gli indirizzi IP e/o gli user agent bloccati a seguito
 > dell'applicazione di un ban temporaneo potranno essere visualizzati
 > alla pagina "**Real Time Monitor**" del Wizard (menu "*Configurazione
 > -- DDos -- Real Time Monitor*")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ddos_3.bmp](./assets/media/image278.png)
+![](./assets/media/image278.png)
 
 - Trascorso l'intervallo di tempo indicato all'interno del parametro
   "Intervallo Richieste" il ban temporaneo verrà automaticamente rimosso
@@ -171,7 +171,7 @@ Detto ciò i valori proposti a default da Passweb in corrispondenza dei
 campi presenti all'interno della sezione "Generale" possono sicuramente
 essere un ottimo punto di partenza.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ddos_9.bmp](./assets/media/image280.png)
+![](./assets/media/image280.png)
 
 Nel caso in cui si dovesse decidere di utilizzare tali valori, eventuali
 regole di blocco verranno applicate nel momento in cui dovessero

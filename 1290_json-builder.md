@@ -17,7 +17,7 @@ il titolo, la descrizione, il prezzo, la disponibilità ecc... sarà
 necessario utilizzare il JSON Builder presente all'interno della sezione
 "**Struttura JSON-LD**" evidenziata in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\json-ld_json_builder.bmp](./assets/media/image5.png)
+![](./assets/media/image5.png)
 
 Analizzando infatti il vocabolario di Schema.org in relazione alle
 proprietà disponibili per lo Schema Product
@@ -47,20 +47,20 @@ I pulsanti presenti all'interno di questa sezione consentono
 rispettivamente di:
 
 **Pulisci Struttura** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_pulisci_struttura.bmp](./assets/media/image10.png) ): consente di azzerare la struttura
+![](./assets/media/image10.png) ): consente di azzerare la struttura
 dati che si sta realizzando
 
 **Esporta JSON** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_esporta_json.bmp](./assets/media/image11.png) ): consente di esportare la struttura
+![](./assets/media/image11.png) ): consente di esportare la struttura
 dati in esame all'interno di un file JSON
 
 **Importa JSON da file** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_importa_json.bmp](./assets/media/image12.png) ): consente di creare automaticamente
+![](./assets/media/image12.png) ): consente di creare automaticamente
 una struttura dati più o meno complessa importandola direttamente da un
 file JSON correttamente strutturato.
 
 **Aggiungi nodo** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_nodo.bmp](./assets/media/image13.png) ): consente di aggiungere alla struttura
+![](./assets/media/image13.png) ): consente di aggiungere alla struttura
 del JSON-LD un nuovo nodo di tipo radice che verrà quindi inserito allo
 stesso livello di *\"@type\", \"name\", \"description\"* ... dopo quelle
 che sono le proprietà gestite in automatico da Passweb
@@ -98,7 +98,7 @@ selezionare una delle seguenti opzioni:
   inserire nel JSON-LD dovesse essere gestita con una struttura dati
   "semplice"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\json-ld_json_builder_campi_nodo.bmp](./assets/media/image14.png)
+![](./assets/media/image14.png)
 
 > del tipo
 >
@@ -114,7 +114,7 @@ selezionare una delle seguenti opzioni:
   cui la proprietà da inserire nel JSON-LD dovesse essere gestita come
   un Array di stringhe / Array di numeri
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\json-ld_json_builder_array.bmp](./assets/media/image15.png)
+![](./assets/media/image15.png)
 
 > quindi con una struttura dati del tipo
 >
@@ -131,18 +131,18 @@ selezionare una delle seguenti opzioni:
 > verranno visualizzati gli ulteriori campi **"Sorgente valore**" e
 > "**Seleziona campo/attributo ...**" e al loro posto comparirà invece
 > il pulsante "**Aggiungi stringa / numero**" (
-> ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_stringa.bmp](./assets/media/image16.png) ).
+> ![](./assets/media/image16.png) ).
 >
 > Cliccando su questo pulsante sarà quindi possibile aggiungere
 > all'array, in maniera manuale, i singoli elementi impostando un
 > mapping specifico per ciascuno di essi
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\json-ld_json_builder_array_2.bmp](./assets/media/image17.png)
+![](./assets/media/image17.png)
 
 - **Oggetto**: da selezionare nel caso in cui la proprietà da inserire
   nel JSON-LD dovesse essere gestita come un oggetto
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\json-ld_json_builder_oggetto.bmp](./assets/media/image18.png)
+![](./assets/media/image18.png)
 
 > e quindi con una struttura dati del tipo
 >
@@ -166,12 +166,12 @@ selezionare una delle seguenti opzioni:
 > dati l'opzione "Oggetto", non verranno visualizzati immediatamente i
 > campi **"Sorgente valore**" e "**Seleziona campo/attributo ...**" e al
 > loro posto comparirà invece il pulsante "**Aggiungi proprietà**" (
-> ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_proprieta.bmp](./assets/media/image19.png) ) grazie al quale poter aggiungere, in
+> ![](./assets/media/image19.png) ) grazie al quale poter aggiungere, in
 > maniera manuale, le singole proprietà dell'oggetto effettuando anche
 > per ciascuna di esse uno specifico mapping con i Campi o gli Attributi
 > Passweb da cui prelevare i relativi valori.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\json-ld_json_builder_oggetto_2.bmp](./assets/media/image20.png)
+![](./assets/media/image20.png)
 
 > **ATTENZIONE!** se necessario è possibile creare anche strutture dati
 > più complesse come ad esempio, un oggetto di array o un oggetto di
@@ -180,7 +180,7 @@ selezionare una delle seguenti opzioni:
 - **Array di oggetti**: da selezionare nel caso in cui la proprietà da
   inserire nel JSON-LD dovesse essere gestita come un array di oggetti
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\json-ld_json_builder_array_oggetti_0.bmp](./assets/media/image21.png)
+![](./assets/media/image21.png)
 
 > e quindi con una struttura dai del tipo
 >
@@ -217,24 +217,24 @@ selezionare una delle seguenti opzioni:
 > Anche in questo caso una volta impostato il campo "**Tipo**"
 > sull'opzione "**Array di oggetti**" comparirà il pulsante "**Aggiungi
 > Elemento**" (
-> ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_elemento_1.bmp](./assets/media/image22.png) ) grazie al quale poter aggiungere, in
+> ![](./assets/media/image22.png) ) grazie al quale poter aggiungere, in
 > maniera manuale, i singoli oggetti all'array.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\json-ld_json_builder_array_oggetti_2.bmp](./assets/media/image23.png)
+![](./assets/media/image23.png)
 
 > I due pulsante "**Aggiungi proprietà**" (
-> ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_proprieta.bmp](./assets/media/image19.png) ) e "**Rimuovi proprietà**" (
-> ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_rimuovi_proprieta.bmp](./assets/media/image24.png) ) consentiranno invece di definire la
+> ![](./assets/media/image19.png) ) e "**Rimuovi proprietà**" (
+> ![](./assets/media/image24.png) ) consentiranno invece di definire la
 > struttura e mappare con i relativi Campi / Attributi Passweb le
 > proprietà di ogni oggetto dell'Array
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\json-ld_json_builder_array_oggetti.bmp](./assets/media/image25.png)
+![](./assets/media/image25.png)
 
 Per quel che riguarda invece **la tipologia di campo Passweb** **con cui
 poter mappare le varie proprietà** è possibile selezionare una delle
 seguenti opzioni:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\json-ld_campi_passweb.bmp](./assets/media/image26.png)
+![](./assets/media/image26.png)
 
 - **Valore Personalizzato:** in questo caso sarà possibile indicare
   esplicitamente, all'interno del successivo campo di input

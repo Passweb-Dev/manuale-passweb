@@ -5,7 +5,7 @@
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_selezione_regalo_res.bmp](./assets/media/image176.png)
+![](./assets/media/image176.png)
 
 suddivisa in varie sezioni.
 
@@ -50,7 +50,7 @@ E' possibile selezionare uno dei seguenti valori:
   all'interno del componente verranno disposti tutti su di un\'unica
   riga all'interno di uno slider a scorrimento orizzontale.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\selezione_regalo2.bmp](./assets/media/image177.png)
+![](./assets/media/image177.png)
 
 - **Senza caricamento della pagina:** selezionando questa opzioni gli
   articoli presenti all'interno del componente verranno visualizzati in
@@ -140,7 +140,7 @@ La sezione **"Gestione Campi di Ordinamento"** consente, infine, di
 impostare il criterio di ordinamento per gli articoli presenti
 all'interno del componente.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_catalogo_ecommerce2_res.bmp](./assets/media/image13.png)
+![](./assets/media/image13.png)
 
 All'interno di questa sezione, sulla sinistra sono elencati gli elementi
 di ordinamento attualmente codificati, sulla destra sono invece
@@ -151,7 +151,7 @@ sezione "**Modifica Campo Ordinamento**".
 
 Allo stesso modo per codificare un nuovo elemento sarà necessario
 cliccare sull'icona raffigurante un piccolo + (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_aggiungi.bmp](./assets/media/image14.png) ) e definire poi le proprietà
+![](./assets/media/image14.png) ) e definire poi le proprietà
 dell'elemento stesso.
 
 In particolare per ogni singolo elemento di ordinamento occorrerà

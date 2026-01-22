@@ -9,7 +9,7 @@ massimo/minimo fatturabile dovranno o meno essere aggiunti in carrello
 anche nel caso in cui la quantità indicata dall'utente in fase di
 acquisto non dovesse soddisfare le condizioni impostate.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_catalogo_mexal_maxmin_fatturabile.bmp](./assets/media/image13.png)
+![](./assets/media/image13.png)
 
 In particolare dunque per il parametro **Aggiungi al Carrello,** il
 valore:

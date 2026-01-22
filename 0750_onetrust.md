@@ -11,7 +11,7 @@ di Iubenda (<https://www.onetrust.it/> )sarà necessario:
     cookie in uso sul sito) che il Banner necessario per gestire l'
     Informativa breve
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\onetrust1.bmp](./assets/media/image13.png)
+![](./assets/media/image13.png)
 
 > Per maggiori informazioni relativamente a come configurare su OneTrust
 > l'Informativa estesa e la Cookie Solution si rimanda alla relativa
@@ -22,22 +22,22 @@ di Iubenda (<https://www.onetrust.it/> )sarà necessario:
     Informativa breve sarà necessario prelevare il codice di
     integrazione fornito dalla piattaforma terza
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\onetrust2.bmp](./assets/media/image14.png)
+![](./assets/media/image14.png)
 
 > ed inserirlo all'interno del campo "**Code Snippet Cookie**" presente
 > alla pagina "**Sito -- Preferenze**" del Wizard (tab "**Tracciamento
 > Dati**" sezione "**Blocco Preventivo**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\code_snippet_cookie.bmp](./assets/media/image6.png)
+![](./assets/media/image6.png)
 
 > Una volta inserito correttamente lo script di integrazione, nel
 > momento in cui un utente dovesse effettuare per la prima volta
 > l'accesso al sito verrà visualizzato l'apposito banner di consenso e
 > di gestione dei cookie
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\onetrust4.bmp](./assets/media/image15.png)
+![](./assets/media/image15.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\onetrust5.bmp](./assets/media/image16.png)
+![](./assets/media/image16.png)
 
 > e non verranno rilasciati cookie di profilazione o di terze parti fino
 > a che l'utente non abbia fornito esplicitamente il proprio consenso

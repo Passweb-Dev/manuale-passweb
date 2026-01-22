@@ -11,7 +11,7 @@ All'interno di questa sezione è possibile:
 - Decidere quali campi articolo, oltre a quello obbligatori, dovranno
   essere inseriti all'interno del feed e inviati a Clerk
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_feed_articoli.bmp](./assets/media/image18.png)
+![](./assets/media/image18.png)
 
 In questo senso dunque il parametro:
 
@@ -52,7 +52,7 @@ specificare, oltre a quelli obbligatori, quali campi e quindi quali dati
 dovranno essere effettivamente inseriti nel feed Articoli e condivisi
 quindi anche con Clerk.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_feed_articoli_campi_aggiuntivi.bmp](./assets/media/image19.png)
+![](./assets/media/image19.png)
 
 Sulla sinistra sono elencati i campi articolo attualmente codificati e
 che verranno quindi inseriti nel Feed.

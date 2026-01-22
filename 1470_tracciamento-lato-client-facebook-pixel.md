@@ -75,13 +75,13 @@ di Facebook è installarlo all'interno del proprio sito Passweb.
 > API**" alla pagina "**Sito -- Preferenze**" del Wizard (tab
 > "**Tracciamento Dati**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\facebook_tracciamento_client_6.bmp](./assets/media/image6.png)
+![](./assets/media/image6.png)
 
 - Completare quindi l'attivazione del tracciamento lato client per il
   proprio sito Passweb verificando di aver correttamente selezionando il
   parametro "**Tracciamento Client**" evidenziato in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\facebook_tracciamento_client_7.bmp](./assets/media/image7.png)
+![](./assets/media/image7.png)
 
 **ATTENZIONE!** Nel momento in cui l'esigenza dovesse essere quella di
 **attivare solamente il tracciamento mediante Facebook Pixel** sarà
@@ -127,7 +127,7 @@ da Facebook può essere visualizzato al seguente link
 
 Il parametro "**Abilita eventi custom**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\facebook_eventi_custom.bmp](./assets/media/image8.png)
+![](./assets/media/image8.png)
 
 consente invece, se selezionato, di attivare anche il tracciamento dei
 seguenti eventi personalizzati:

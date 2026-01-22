@@ -4,7 +4,7 @@
 
 Il Componente **"Filtro Indice"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_filtro_indice_res.bmp](./assets/media/image616.png)
+![](./assets/media/image616.png)
 
 **può essere inserito unicamente all'interno del componente Ecommerce di
 primo livello "Ricerca"**.
@@ -26,7 +26,7 @@ Rilasciando il Componente nella posizione desiderata all'interno della
 pagina web, verrà visualizzata **la sua maschera di gestione e
 configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_filtro_indice_configurazione_res.bmp](./assets/media/image617.png)
+![](./assets/media/image617.png)
 
 suddivisa in varie sezioni.
 
@@ -112,7 +112,7 @@ E' possibile selezionare una delle seguenti opzioni.
   controllo di tipo Drop Down. Nella pagina sarà quindi presente una
   label del tipo di quella evidenziata in figura.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\filtro_indice_opzione_mobile.bmp](./assets/media/image618.png)
+![](./assets/media/image618.png)
 
 > Cliccando sulla label evidenziata verrà aperto un piccolo Pop Up
 > contenente tutte le diverse possibili opzioni di scelta offerte dal

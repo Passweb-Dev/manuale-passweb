@@ -8,7 +8,7 @@ statali, per completare la configurazione del pagamento sarà sufficiente
 settare i parametri presenti all'interno della sezione "Parametri
 Gateway"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_findomestic.bmp](./assets/media/image94.png)
+![](./assets/media/image94.png)
 
 In particolare dunque:
 

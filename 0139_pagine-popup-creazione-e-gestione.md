@@ -15,7 +15,7 @@ forma di Popup, è sufficiente seguire tre semplici passaggi:
     parametro "**Utilizza come Popup**" presente nelle proprietà della
     pagina stessa sul valore "Si"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagina_popup_1_res.bmp](./assets/media/image116.png)
+![](./assets/media/image116.png)
 
 > **ATTENZIONE!** Le pagine di tipo E-Commerce non possono essere
 > marcate come pagine Popup
@@ -44,15 +44,15 @@ forma di Popup, è sufficiente seguire tre semplici passaggi:
 > tipo Immagine comparirà anche il parametro **"Apri come Finestra
 > Modale"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\popup_immagine_res.bmp](./assets/media/image117.png)
+![](./assets/media/image117.png)
 
 > Allo stesso modo anche in fase di configurazione delle singole voci di
 > un menu, oppure utilizzando un componente Paragrafo per creare dei
 > link a pagine interne al sito, comparirà lo stesso tipo di parametro
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\popup_menu_res.bmp](./assets/media/image118.png)
+![](./assets/media/image118.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\link_pagina_interna_res.bmp](./assets/media/image119.png)
+![](./assets/media/image119.png)
 
 > **Selezionando questo parametro la pagina di destinazione del link di
 > collegamento associato all'immagine, alla specifica voce di menu o

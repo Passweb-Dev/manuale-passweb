@@ -25,7 +25,7 @@ utilizzare il componente di primo livello "Iscrizione Newsletter
 "**Tipo di Integrazione**" e "**Tipologia Form**" rispettivamente sui
 valori "**MailChimp**" e "**Disiscrzione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_disiscrizione_newsletter_mailchimp.bmp](./assets/media/image51.png)
+![](./assets/media/image51.png)
 
 In queste condizioni, esattamente allo stesso modo di quanto avviene per
 il form di iscrizione, al salvataggio del componente l'applicazione si
@@ -40,7 +40,7 @@ In genere, questo tipo di form ha il solo campo mail che l'utente dovrà
 valorizzare, ovviamente, con lo stesso indirizzo utilizzato in fase di
 iscrizione al servizio.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_disiscrizone_newsletter.bmp](./assets/media/image52.png)
+![](./assets/media/image52.png)
 
 Una volta inserito l'indirizzo mail, cliccando sul pulsante
 "**Disiscriviti**" l'utente verrà quindi disiscritto dal servizio.

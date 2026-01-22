@@ -29,7 +29,7 @@ attribuzione delle diverse conversioni, il tutto sempre in relazione
 anche a come è stato settato il **report identity** della proprietà di
 GA4 interessata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ga4_attivazione_upd_4.bmp](./assets/media/image22.png)
+![](./assets/media/image22.png)
 
 Inoltre è bene considerare anche che:
 
@@ -121,7 +121,7 @@ Analytics, lato Passweb sarà sufficiente abilitare il parametro
 Analytics alla pagina "Sito -- Preferenze" del Wizard (tab
 "**Tracciamento Dati**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ga4_attivazione_upd_5.bmp](./assets/media/image26.png)
+![](./assets/media/image26.png)
 
 **ATTENZIONE! per poter gestire in GA4 le conversioni avanzate, non è
 sufficiente attivare il parametro "Raccolta Dati Utente GA" ma è

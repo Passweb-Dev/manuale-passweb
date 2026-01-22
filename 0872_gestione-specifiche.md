@@ -19,7 +19,7 @@ Effettuando l'accesso a questa sezione del Wizard verrà visualizzata la
 maschera "**Lista delle specifiche**" contenente l'elenco di tutte le
 Specifiche Custom attualmente codificate.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\specifiche_custom_1.bmp](./assets/media/image321.png)
+![](./assets/media/image321.png)
 
 Per ciascuna delle specifiche presenti in elenco verrà indicato:
 
@@ -35,7 +35,7 @@ I pulsanti presenti nella relativa barra degli strumenti consentono
 rispettivamente di:
 
 - **Elimina Specifica** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_specifica_custom.bmp](./assets/media/image322.png) ): consente di eliminare la specifica
+  ![](./assets/media/image322.png) ): consente di eliminare la specifica
   custom attualmente selezionata in elenco.
 
 > **ATTENZIONE!** Eliminando una specifica custom la stessa verrà
@@ -43,7 +43,7 @@ rispettivamente di:
 > Inserzioni in cui era stata eventualmente gestita
 
 - **Modifica Specifica** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_specifica_custom.bmp](./assets/media/image323.png) ): consente di modificare la specifica
+  ![](./assets/media/image323.png) ): consente di modificare la specifica
   attualmente selezionata in elenco.
 
 > **ATTENZIONE!** Nel caso di pubblicazione via CSV, la modifica di
@@ -59,7 +59,7 @@ rispettivamente di:
 > utilizzato per la pubblicazione dei file csv.**
 
 - **Aggiungi Specifica** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_specifica_custom.bmp](./assets/media/image324.png) ): consente di codificare una nuova Specifica
+  ![](./assets/media/image324.png) ): consente di codificare una nuova Specifica
   Custom.
 
 **ATTENZIONE!** la tipologia e la gestione delle Specifiche definite

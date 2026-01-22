@@ -48,7 +48,7 @@ dei Layout. Nello specifico:
 > manualmente l'elemento \< link \> potendo inserire per esso tutti gli
 > attributi necessari, compreso ovviamente l'attributo media.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gr_3_res.bmp](./assets/media/image47.png)
+![](./assets/media/image47.png)
 
 > Nell' esempio riportato in figura il file colore.css viene caricato
 > nelle pagine associate al layout in esame solo ed esclusivamente nel
@@ -61,7 +61,7 @@ dei Layout. Nello specifico:
   inserito direttamente all'interno della sezione CSS del layout di
   pagina / sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gr_4_res.bmp](./assets/media/image48.png)
+![](./assets/media/image48.png)
 
 Per maggiori informazioni in merito alla gestione dei layout Passweb si
 veda anche la sezione "*Live Editing per Varianti Responsive -- Layout*"

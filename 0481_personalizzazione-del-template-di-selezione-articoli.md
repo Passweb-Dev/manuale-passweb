@@ -7,19 +7,19 @@ possibile personalizzare, sia graficamente che a livello di contenuti,
 il Template utilizzato per la visualizzazione dei risultati nel modulo
 di ricerca e inserimento rapido di articoli in carrello.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\autocompletamento_carrello_configurazione3.bmp](./assets/media/image499.png)
+![](./assets/media/image499.png)
 
 In questo senso è infatti possibile agire dalla pagina "**Gestione Testi
 / Messaggi Sito**" selezionando il Componente "**Autocompletamento**" ed
 intervenendo poi direttamente sul codice HTML presente all'interno della
 sezione **"Articoli"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\autocompletamento_carrello_configurazione4.bmp](./assets/media/image500.png)
+![](./assets/media/image500.png)
 
 Volendo è possibile aprire l'editor in modalità Full Screen utilizzando
 per questo il tasto funzione **F11**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\autocompletamento_carrello_configurazione5.bmp](./assets/media/image501.png)
+![](./assets/media/image501.png)
 
 Una volta entrati in modalità full screen è poi possibile ritornare alla
 visualizzazione standard utilizzando il tasto **ESC**.

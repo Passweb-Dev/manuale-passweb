@@ -5,7 +5,7 @@
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_iu_login_configurazione_res.bmp](./assets/media/image3.png)
+![](./assets/media/image3.png)
 
 suddivisa in varie sezioni.
 
@@ -82,7 +82,7 @@ aver effettuato il login **nel caso in cui non siano presenti articoli
 in carrello.**
 
 Il pulsante "**Deseleziona**"
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_deseleziona_res.bmp](./assets/media/image4.png) ), presente nella contestuale barra degli
+(![](./assets/media/image4.png) ), presente nella contestuale barra degli
 strumenti, consente di eliminare l'associazione ad una specifica pagina
 cui effettuare il redirect automatico.
 
@@ -92,7 +92,7 @@ automaticamente ridiretto dopo aver effettuato il login **nel caso in
 cui siano già stati inseriti articoli in carrello e/o si sia già scelto
 di prenotare uno specifico trattamento/servizio**. Il pulsante
 "**Deseleziona**" (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_deseleziona_res.bmp](./assets/media/image4.png) ), presente nella contestuale barra degli
+![](./assets/media/image4.png) ), presente nella contestuale barra degli
 strumenti, consente di eliminare l'associazione ad una specifica pagina
 cui effettuare il redirect automatico.
 
@@ -106,7 +106,7 @@ In particolare, dunque, in relazione alla pagina cui verrà
 effettivamente ricondotto l'utente dopo aver effettuato l'accesso al
 sito occorrerà considerare il seguente schema:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\tabella_accessi_login.bmp](./assets/media/image5.png)
+![](./assets/media/image5.png)
 
 **Pagina di destinazione uguale anche per gli Agenti:** consente di
 impostare la specifica pagina del sito cui dovranno essere ridiretti gli

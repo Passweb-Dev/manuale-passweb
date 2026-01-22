@@ -10,7 +10,7 @@ componenti sarà necessario:
   sul corrispondente pulsante presente all'interno del menu di Editing
   del sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_editing_modifica_componente.bmp](./assets/media/image85.png)
+![](./assets/media/image85.png)
 
 > o, in alternativa, sulla corrispondente icona presente nella Barra
 > degli Strumenti del Live Editing
@@ -23,11 +23,11 @@ componenti sarà necessario:
   del sito.
 
 - Cliccare sull'icona "**Accedi ai Componenti Interni**" (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_accedi_componenti_interni.bmp](./assets/media/image87.png) )" presente tanto nel R.O.C. del
+  ![](./assets/media/image87.png) )" presente tanto nel R.O.C. del
   componente, quanto nella barra degli strumenti dell'albero dei
   componenti
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componenti_interni_contenitore.bmp](./assets/media/image88.png)
+![](./assets/media/image88.png)
 
 - Una volta ottenuto l'accesso ai "Componenti interni al Contenitore"
   sarà sufficiente passare alla modalità di aggiunta nuovo componente,

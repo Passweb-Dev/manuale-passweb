@@ -16,17 +16,17 @@
 
 3.  Selezionare tra quelli proposti il tag "**Google Ads**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_remarketing_dinamico_3.bmp](./assets/media/image220.png)
+![](./assets/media/image220.png)
 
 > e tra le successive tipologie di Tag per Google Ads selezionare
 > l'opzione "**Google Ads Remarketing**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_remarketing_dinamico_4.bmp](./assets/media/image221.png)
+![](./assets/media/image221.png)
 
 4.  Nella successiva maschera di configurazione del tag impostare i
     parametri richiesti come di seguito indicato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_remarketing_dinamico_5.bmp](./assets/media/image222.png)
+![](./assets/media/image222.png)
 
 - **Conversion ID**: utilizzare il proprio ID Conversione di Google Ads
 
@@ -48,7 +48,7 @@
 > Cliccare quindi sul pulsante "**Scegli un attivatore per attivare
 > questo tag**" presente all'interno del box "**Attivazione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_remarketing_dinamico_6.bmp](./assets/media/image223.png)
+![](./assets/media/image223.png)
 
 > e, successivamente, cliccare sul pulsante di creazione di un nuovo
 > attivatore (il piccolo + posto nella parte alta della maschera)
@@ -68,7 +68,7 @@
 7.  Nella successiva maschera impostare i parametri di configurazione
     dell'attivatore come nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_remarketing_dinamico_7.bmp](./assets/media/image224.png)
+![](./assets/media/image224.png)
 
 - **Nome Evento**: impostare su
   "***view_item_list\$\|view_item\$\|add_to_cart\$\|purchase\$***"

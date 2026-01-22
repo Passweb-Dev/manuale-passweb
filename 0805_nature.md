@@ -10,7 +10,7 @@ del sito.
 All'interno di questa sezione verrà quindi visualizzata la maschera
 "**Lista delle Nature Articolo**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_nature.bmp](./assets/media/image443.png)
+![](./assets/media/image443.png)
 
 contenente l'elenco di tutte le Nature Articolo definite all'interno del
 gestionale e gestite anche all'interno del proprio sito ecommerce.
@@ -31,26 +31,26 @@ stessa.
 Una volta impostato un filtro di ricerca, per poterlo poi eliminare sarà
 sufficiente cliccare sull'icona raffigurante una piccola lente di
 ingrandimento con un -- all'interno (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina_filtro.bmp](./assets/media/image86.png) ) che comparirà in testata alla colonna
+![](./assets/media/image86.png) ) che comparirà in testata alla colonna
 in corrispondenza della quale è stato impostato il filtro stesso.
 
 Infine è anche possibile ordinare, in maniera crescente e/o decrescente,
 gli elementi in griglia cliccando semplicemente sull'icona raffigurante
 due piccole frecce posta anch' essa in testata ad ogni singola colonna
 della griglia (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_ordinamento_griglia.bmp](./assets/media/image87.png) )
+![](./assets/media/image87.png) )
 
 I pulsanti presenti nella contestuale barra degli strumenti consentono
 rispettivamente di:
 
 **Modifica Natura** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_natura.bmp](./assets/media/image444.png) ): consente di gestire la descrizione in Italiano e in
+![](./assets/media/image444.png) ): consente di gestire la descrizione in Italiano e in
 Lingua associata alla Natura Articolo attualmente selezionata in elenco.
 
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 "**Modifica Natura Articolo**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_natura.bmp](./assets/media/image445.png)
+![](./assets/media/image445.png)
 
 attraverso cui poter gestire, nelle varie lingue, la descrizione della
 relativa Natura Articolo.
@@ -72,13 +72,13 @@ potranno invece essere prese direttamente dal gestionale e dovranno per
 forza di cose essere gestite all'interno di questa sezione del Wizard.**
 
 **Esporta** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_esporta.bmp](./assets/media/image440.png) ): consente di esportare, all'interno di un apposito
+![](./assets/media/image440.png) ): consente di esportare, all'interno di un apposito
 file .csv, le descrizioni delle Nature attualmente presenti in elenco.
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 "**Esportazione Nature**" all'interno della quale poter configurare
 l'esportazione dei dati.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\esportazione_nature.bmp](./assets/media/image446.png)
+![](./assets/media/image446.png)
 
 Nel caso di sito in multilingua è possibile selezionare, tra quelle
 attualmente gestite, la lingua in relazione alla quale dovranno essere
@@ -93,14 +93,14 @@ l'identificativo Passweb della relativa Natura, il codice gestionale e
 la corrispondente descrizione nella lingua selezionata
 
 **Importa** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_importa.bmp](./assets/media/image134.png) ): consente di importare in maniera massiva,
+![](./assets/media/image134.png) ): consente di importare in maniera massiva,
 utilizzando un apposito file .csv o .txt, le descrizioni di tutte le
 Nature attualmente presenti in elenco.
 
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 "**Importazione Nature**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\importazione_nature.bmp](./assets/media/image447.png)
+![](./assets/media/image447.png)
 
 all'interno della quale poter configurare l'importazione dei dati in
 oggetto. In particolare il campo

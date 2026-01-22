@@ -14,7 +14,7 @@ all'interno del menu "**Privacy**" nella pagina di **Amministrazione**
 operando, nello specifico, all'interno del box "**Anonymize previously
 tracked raw data**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_11.bmp](./assets/media/image11.png)
+![](./assets/media/image11.png)
 
 E' possibile scegliere quali dati anonimizzare e relativamente a quale
 periodo temporale.

@@ -30,14 +30,14 @@ Merceologiche sarà necessario, per prima cosa, effettuare un doppio
 click sulla voce di menu **"Articoli - Categoria Articolo"** presente
 all'interno del Navigatore.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\hroeca_categorie_articolo_1.bmp](./assets/media/image78.png)
+![](./assets/media/image78.png)
 
 In questo modo verrà infatti aperta la maschera **"Categoria articolo
 \<nuovo\>"** all'interno della quale poter impostare tutte le
 informazioni e i parametri di configurazione della categoria
 merceologica che si intende realizzare.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\horeca_categorie_articolo_2.bmp](./assets/media/image79.png)
+![](./assets/media/image79.png)
 
 In particolare il campo:
 
@@ -157,7 +157,7 @@ caso della gestione delle prenotazioni di servizi/trattamenti) e quelli
 che dovranno essere inviati al sito ai fini di una prenotazione via web
 dello specifico trattamento/servizio.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\horeca_categorie_articolo_3.bmp](./assets/media/image80.png)
+![](./assets/media/image80.png)
 
 > **NOTA BENE:** i valori impostati all'interno della tabella "Tipi
 > Risorsa" di una categoria articolo, verranno trasmessi a tutti gli
@@ -231,14 +231,14 @@ all'interno del gestionale sarà necessario:
   alla categoria merceologica desiderata mediante il parametro
   "**Categoria**" presente all'interno della scheda "**Anagrafica**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\horeca_categorie_articolo_4.bmp](./assets/media/image81.png)
+![](./assets/media/image81.png)
 
 - Lato sito sarà invece necessario accedere alla sezione
   "*Configurazione -- Configurazione Gestionale*" del Wizard e
   verificare di aver impostato il parametro "**Categorizzazione**" sul
   valore "**Primaria**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_categorie_articolo_5.bmp](./assets/media/image82.png)
+![](./assets/media/image82.png)
 
 **ATTENZIONE!** in queste condizioni verranno esportate sul sito tutte
 le categorie merceologiche definite all'interno del gestionale e
@@ -254,7 +254,7 @@ all'interno del sito una categorizzazione ad hoc sarà necessario:
   il parametro **"Categoria Passweb"** presente all'interno della scheda
   "**Lista Articoli e Listini**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\horeca_categorie_articolo_6.bmp](./assets/media/image83.png)
+![](./assets/media/image83.png)
 
 > **ATTEZIONE!** all'interno del campo "Categoria Passweb" sopra
 > evidenziato potranno essere selezionate ed inserite solo ed
@@ -272,7 +272,7 @@ all'interno del sito una categorizzazione ad hoc sarà necessario:
   verificare di aver impostato il parametro "**Categorizzazione**" sul
   valore "**Secondaria**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_categorie_articolo_7.bmp](./assets/media/image84.png)
+![](./assets/media/image84.png)
 
 **ATTENZIONE!** in queste condizioni verranno esportate sul sito solo ed
 esclusivamente le categorie merceologiche marcate come "categorie web" e

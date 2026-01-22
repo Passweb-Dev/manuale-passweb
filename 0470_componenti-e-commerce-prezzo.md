@@ -13,7 +13,7 @@ caso ad esempio di articoli come i profumi, il prezzo per "Unità di
 misura" ossia il prezzo di vendita rapportato ad una certa quantità
 predefinita di prodotto (es. prezzo per 100ml)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_prezzo.bmp](./assets/media/image433.png)
+![](./assets/media/image433.png)
 
 **Inserendo questo Componente all'interno di un Componente E-Commerce di
 primo livello (es. Catalogo E-commerce), esso verrà quindi sostituito,
@@ -36,7 +36,7 @@ sincronizzazione.**
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_prezzo_configurazione_res.bmp](./assets/media/image434.png)
+![](./assets/media/image434.png)
 
 suddivisa in varie sezioni.
 
@@ -161,7 +161,7 @@ possibile selezionare uno dei seguenti valori:
 > pagina web, ad esempio, il prezzo di vendita dell'articolo in esame
 > per 100 ml di prodotto.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prezzo_unitario_misura_2_res.bmp](./assets/media/image435.png)
+![](./assets/media/image435.png)
 
 > Il template utilizzato per stampare questa informazione può essere
 > gestito all'interno della sezione "**Testi / Messaggi del Sito**"
@@ -188,7 +188,7 @@ possibile selezionare uno dei seguenti valori:
 > specificati in corrispondenza dei successivi parametri "**Misura del
 > Prezzo**" e "**Misura Base del Prezzo**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prezzo_unitario_misura_1_res.bmp](./assets/media/image436.png)
+![](./assets/media/image436.png)
 
 > Nello specifico il prezzo risultante verrà calcolato utilizzando la
 > seguente formula:

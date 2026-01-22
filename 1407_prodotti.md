@@ -6,7 +6,7 @@ Il rapporto Prodotti è utile per ottenere informazioni di alto livello
 relativamente a quelli che sono i prodotti che hanno generato vendite
 all'interno del sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_report_19.bmp](./assets/media/image51.png)
+![](./assets/media/image51.png)
 
 Grazie a questo report è quindi possibile, ad esempio, verificare quali
 prodotti e/o quali categorie merceologiche hanno prodotto le maggiori
@@ -31,12 +31,12 @@ metriche:
 Passando con il mouse sulle righe presenti in tabella verrà visualizzata
 l'icona di un piccolo grafico a linee.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_report_20.bmp](./assets/media/image52.png)
+![](./assets/media/image52.png)
 
 Cliccando su di essa sarà possibile visualizzare un grafico che mostra
 l'andamento nel tempo del relativo prodotto
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_report_21.bmp](./assets/media/image53.png)
+![](./assets/media/image53.png)
 
 Infine è bene sottolineare che tutti i dati presenti in questo report
 fanno riferimento, a default, alle vendite e quindi agli ordini
@@ -54,5 +54,5 @@ carrello verde visualizzata nella parte bassa della tabella dei dati,
 selezionando poi, nel relativo menu a tendina l'opzione "**Carrelli
 Abbandonati**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_report_23.bmp](./assets/media/image54.png)
+![](./assets/media/image54.png)
 

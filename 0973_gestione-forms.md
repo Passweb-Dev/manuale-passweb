@@ -7,7 +7,7 @@ principale "**Utenti**", consente di visualizzare e gestire i form
 presenti all'interno del sito impostati per il salvataggio dei dati in
 appositi file csv o xml
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_forms.bmp](./assets/media/image268.png)
+![](./assets/media/image268.png)
 
 **ATTENZIONE! All'interno della maschera "Elenco Forms" verranno
 visualizzati, tra i form presenti in tutte le Varianti gestite, solo ed
@@ -17,7 +17,7 @@ file xml o csv**
 I pulsanti presenti nella barra degli strumenti consentono invece
 
 **Visualizza**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_visualizza.bmp](./assets/media/image269.png) ): consente di accedere al dettaglio del
+(![](./assets/media/image269.png) ): consente di accedere al dettaglio del
 form selezionato in elenco.
 
 Cliccando su questo pulsante sarà infatti possibile accedere alla
@@ -25,7 +25,7 @@ maschera "**Elenco Iscritti**" all'interno della quale verrà
 visualizzato, in un'apposita griglia paginata, il contenuto del file in
 cui sono stati salvati i dati del Form.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_forms3.bmp](./assets/media/image270.png)
+![](./assets/media/image270.png)
 
 Ogni colonna della griglia corrisponde ad uno dei campi presenti
 all'interno del form e avrà come intestazione la label assegnata al
@@ -44,11 +44,11 @@ nome del file e cliccando su di esso sarà possibile effettuarne il
 download.
 
 **Download File**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_pulsante_download_file.bmp](./assets/media/image271.png) ): consente di effettuare il download di un archivio
+(![](./assets/media/image271.png) ): consente di effettuare il download di un archivio
 compresso (file .zip) contenente il file csv/xml in cui sono stati
 salvati i dati del form più eventuali allegati al form stesso
 
 **Elimina File**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_pulsante_elimina.bmp](./assets/media/image272.png) ): consente di eliminare il file csv/xml in cui sono
+(![](./assets/media/image272.png) ): consente di eliminare il file csv/xml in cui sono
 stati salvati i dati del form più eventuali allegati al form stesso
 

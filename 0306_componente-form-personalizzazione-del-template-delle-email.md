@@ -19,7 +19,7 @@ questo componente è composto, essenzialmente, da due distinti elementi:
 Per quel che riguarda il "Testo Libero", questo può essere
 tranquillamente gestito all'interno del campo "**Testo Mail**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_form_testo_mail_res.bmp](./assets/media/image149.png)
+![](./assets/media/image149.png)
 
 campo questo presente tra i parametri di configurazione del Componente
 Form, nel momento in cui si dovesse decidere di configurarlo impostando
@@ -30,7 +30,7 @@ configurazione del Form, consente invece di definire e personalizzare il
 Template utilizzato per la costruzione e la visualizzazione del
 dettaglio del form
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_form_template_mail_res.bmp](./assets/media/image150.png)
+![](./assets/media/image150.png)
 
 Nel momento in cui l'esigenza dovesse essere dunque, quella di
 personalizzare, in relazione alle mail inviate da un Componente Form i
@@ -41,7 +41,7 @@ all'interno del campo "**Template Mail**" evidenziato in figura.
 Volendo è possibile aprire l'editor in modalità full screen utilizzando
 il tasto funzione **F11**.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_utente_full_screen.bmp](./assets/media/image151.png)
+![](./assets/media/image151.png)
 
 Una volta entrati in modalità full screen è poi possibile ritornare alla
 visualizzazione standard utilizzando il tasto **ESC**.
@@ -141,7 +141,7 @@ dove \<name\> dovrà essere sostituito, ovviamente, con quanto indicato,
 nella maschera di configurazione del relativo campo del form, in
 corrispondenza del parametro "Id/Name"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\personalizzazione_form_res_2.bmp](./assets/media/image152.png)
+![](./assets/media/image152.png)
 
 Supponendo quindi di aver impostato, come in figura, per un determinato
 campo del form, il suo parametro "Id/Name" sul valore "Nome_Utente", per
@@ -157,7 +157,7 @@ posizione del corpo della relativa mail utilizzando il segnaposto
 corrispondente pulsante presente immediatamente al di sotto del campo
 "Testo Mail"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\personalizzazione_form_res_3.bmp](./assets/media/image153.png)
+![](./assets/media/image153.png)
 
 **ATTENZIONE!** Nel caso in cui si decida di non utilizzare nel testo di
 una mail il segnaposto "Dettaglio Form" i dati del relativo form

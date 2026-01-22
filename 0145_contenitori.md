@@ -37,13 +37,13 @@ abilitare la modalità di "**Gestione dei Contenitori**" cliccando per
 questo sul corrispondente pulsante presente all'interno del menu di
 Editing del sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_editing_contenitori_1.bmp](./assets/media/image131.png)
+![](./assets/media/image131.png)
 
 Una volta abilitata questa particolare modalità di gestione, all'interno
 del menu di Editing del sito compariranno solamente i due pulsanti
 evidenziati in figura:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_editing_contenitori_2.bmp](./assets/media/image132.png)
+![](./assets/media/image132.png)
 
 **Chiudi Contenitori**: consente di uscire dalla modalità di "Gestione
 dei Contenitori"
@@ -52,14 +52,14 @@ dei Contenitori"
 del menu di editing del sito, l'albero dei Contenitori e dei Componenti
 presenti all'interno della pagina web che si sta editando.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\albero_contenitori.bmp](./assets/media/image133.png)
+![](./assets/media/image133.png)
 
 Per modificare le **caratteristiche grafiche** di uno specifico
 Contenitore sarà quindi sufficiente selezionarlo all'interno dell'albero
 sopra evidenziato e cliccare poi sull'icona di "Editing Grafico"
 presente nella contestuale barra degli strumenti
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\albero_contenitori2.bmp](./assets/media/image134.png)
+![](./assets/media/image134.png)
 
 In alternativa, una volta abilitata la modalità di Gestione dei
 Contenitori, è anche possibile chiudere il menu di Editing del sito e
@@ -70,7 +70,7 @@ In questo modo verrà infatti evidenziato il R.O.C. (Riquadro Opzioni
 Contenitore) del Contenitore Strutturale con all'interno il relativo
 pulsante di Editing Grafico
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\albero_contenitori3.bmp](./assets/media/image135.png)
+![](./assets/media/image135.png)
 
 **ATTENZIONE!** A differenza di quanto avveniva, ad esempio per le
 Varianti Standard, gli unici contenitori strutturali selezionabili
@@ -80,12 +80,12 @@ contenitori strutturali potranno essere selezionati invece dall' albero
 dei Contenitori e Componenti precedentemente evidenziato.
 
 In ogni caso una volta cliccato sul pulsante di Editing Grafico (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\pulsante_editing_grafico.bmp](./assets/media/image136.png) ) verrà visualizzato lo **Style Editor**
+![](./assets/media/image136.png) ) verrà visualizzato lo **Style Editor**
 attraverso cui poter poi personalizzare (sfruttando tutte le proprietà
 CSS a disposizione) l'aspetto grafico del contenitore attualmente
 selezionato.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\style_editor_contenitori.bmp](./assets/media/image137.png)
+![](./assets/media/image137.png)
 
 Sarà quindi possibile, ad esempio, modificare le dimensioni del
 contenitore, i margini, i bordi, i colori di sfondo ecc ...
@@ -98,7 +98,7 @@ Confermando le personalizzazioni apportate ad un contenitore strutturale
 sarà poi possibile decidere di salvare queste stesse modifiche per la
 specifica pagina, oppure per tutte le pagine del sito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\salva_per_pagina_sito.bmp](./assets/media/image138.png)
+![](./assets/media/image138.png)
 
 Infine nel caso in cui alla pagina sia stato associato un particolare
 Layout sarà possibile decidere di salvare tali personalizzazioni anche

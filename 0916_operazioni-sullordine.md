@@ -58,7 +58,7 @@ porre il corrispondente ordine Prestashop nello stato indicato in
 corrispondenza del parametro "**Stato Ordine Annullato**" presente nella
 sezione "Ordini" della maschera di configurazione dell'Account
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_annullamento_ordine.bmp](./assets/media/image719.png)
+![](./assets/media/image719.png)
 
 ##### CREARE UNA SPEDIZIONE
 
@@ -90,14 +90,14 @@ Nello specifico poi nel momento in cui il gestionale in uso dovesse
 essere **Mexal, Vettore Data di Inizio Trasporto** e N**umber Tracking**
 dovranno essere inseriti nei relativi campi del piede del documento
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\ebay_parametri_spedizione_3.bmp](./assets/media/image301.png)
+![](./assets/media/image301.png)
 
 **ATTENZIONE!** Affinchè data e ora di inizio trasporto possano essere
 correttamente visibili nel piede di tutti i documenti Mexal, è
 necessario che il parametro di magazzino "**Memorizza data e ora inizio
 trasporto**" sia stato correttamente selezionato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\memorizza_data_spedizione.bmp](./assets/media/image177.png)
+![](./assets/media/image177.png)
 
 Nel caso in cui il parametro in oggetto non fosse stato selezionato Data
 e ora di inizio trasporto potranno essere visibili all'interno di bolle
@@ -116,7 +116,7 @@ Nel caso in cui il gestionale in uso dovesse invece essere **uno dei
 gestionali Ho.Re.Ca.** ,**Vettore e Data di Inizio Trasporto** dovranno
 essere inseriti nei relativi campi del piede del documento
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\ebay_parametri_spedizione_3a.bmp](./assets/media/image302.png)
+![](./assets/media/image302.png)
 
 **ATTENZIONE!** Nel caso in cui si sia scelto di gestire il **Number
 Tracking** mediante un apposito attributo Passweb, il codice di
@@ -130,7 +130,7 @@ documento Prestashop nello stato indicato in corrispondenza del
 parametro "**Stato Ordine Spedito**" presente nella sezione "Ordini"
 della maschera di configurazione dell'Account
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_spedizione_ordine.bmp](./assets/media/image720.png)
+![](./assets/media/image720.png)
 
 ##### CREARE UNA FATTURA
 
@@ -149,7 +149,7 @@ quindi a porre il corrispondente ordine Prestashop nello stato indicato
 in corrispondenza del parametro "**Stato Ordine Fatturato**" presente
 nella sezione "Ordini" della maschera di configurazione dell'Account
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_fatturazione_ordine.bmp](./assets/media/image721.png)
+![](./assets/media/image721.png)
 
 In questo senso è bene sottolineare poi che se la trasformazione
 effettuata nel gestionale dovesse essere **direttamente da ordine a
@@ -190,5 +190,5 @@ Nel caso specifico di Prestashop è possibile disabilitare la
 fatturazione mediante il parametro "**Attiva Fatturazione**" presente
 all'interno della sezione **"Ordini -- Fatture"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\fatturazione_prestashop.bmp](./assets/media/image675.png)
+![](./assets/media/image675.png)
 

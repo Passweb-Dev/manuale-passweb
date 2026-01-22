@@ -14,7 +14,7 @@ l'informazione che ci interessa.
 
 Nel caso in esame la proprietà che fa al caso nostro sarà "**brand**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\json-ld_esempio_3.bmp](./assets/media/image29.png)
+![](./assets/media/image29.png)
 
 i cui valori però, a differenza dell'esempio precedente, non possono
 essere delle semplici stringhe ma devono essere necessariamente degli
@@ -58,7 +58,7 @@ struttura dati richiesta da Schema.org per gestire la marca dei
 prodotti, dovremo impostare il Json Builder come nella figura di seguito
 riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\json-ld_esempio_4.bmp](./assets/media/image30.png)
+![](./assets/media/image30.png)
 
 In questo modo, una volta salvate le impostazioni e avviata la procedura
 di rigenerazione dei dati (pulsante .....) il JSON-LD di un prodotto con

@@ -15,11 +15,11 @@ aderire o meno anche alla ricezione di eventuali newsletter
 
 **Obbligatorio** = No
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_welcome_campo_newsletter_configurazione.bmp](./assets/media/image30.png)
+![](./assets/media/image30.png)
 
 Confermando l'iscrizione alla newsletter troveremo poi selezionato il
 relativo check (**Newsletter**) anche nel dettaglio della richiesta
 inserita all'interno del gestionale
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_welcome_campo_newsletter_2.bmp](./assets/media/image31.png)
+![](./assets/media/image31.png)
 

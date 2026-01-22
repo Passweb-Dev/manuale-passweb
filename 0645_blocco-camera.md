@@ -11,7 +11,7 @@ e, per ciascun bambino la relativa età.
 Nello specifico dunque **per ogni "blocco camera"** dovranno essere
 inseriti i seguenti componenti:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_welcome_blocco_camera.bmp](./assets/media/image37.png)
+![](./assets/media/image37.png)
 
 - **Intestazione Camera -- Campo intestazione** -- necessario per
   indicare in maniera chiara a quale camera faranno poi riferimento i
@@ -31,5 +31,5 @@ bambini e, conseguentemente i valori minimi e massimi da impostare sui
 rispettivi campi Passweb dovranno essere coerenti con le impostazioni
 settate, in questo senso, all'interno del gestionale
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\welcome_eta_riduzioni.bmp](./assets/media/image38.png)
+![](./assets/media/image38.png)
 

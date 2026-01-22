@@ -8,7 +8,7 @@ ricerca mediante i quali gli utenti del sito avranno la possibilità,
 dipendentemente da come verrà configurato il componente stesso, di
 effettuare diverse tipologie di ricerca.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ricerca.bmp](./assets/media/image197.png)
+![](./assets/media/image197.png)
 
 In particolare questo componente offrirà all'utente la possibilità di
 realizzare ricerche tra:
@@ -26,7 +26,7 @@ realizzare ricerche tra:
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la su maschera di gestione e di configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ricerca_ecommerce1_res.bmp](./assets/media/image198.png)
+![](./assets/media/image198.png)
 
 mediante la quale poter impostare i principali parametri di
 configurazione che determineranno il contenuto ed il comportamento del

@@ -36,11 +36,11 @@ Nello specifico sarà necessario accedere alla configurazione del proprio
 profilo Outlook.com / Hotmail, cliccare sulla voce di menu relativa alle
 impostazioni di sicurezza
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\server_smtp_outlook.bmp](./assets/media/image4.png)
+![](./assets/media/image4.png)
 
 e da qui selezionare la voce "**Altre opzioni di sicurezza**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\server_smtp_outlook2.bmp](./assets/media/image5.png)
+![](./assets/media/image5.png)
 
 All'interno della pagina "Altre opzioni di sicurezza" sarà quindi
 possibile gestire l'attivazione/disattivazione dell' autenticazione in

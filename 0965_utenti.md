@@ -8,7 +8,7 @@ proprio sito web.
 
 Effettuando l'accesso verrà visualizzata la maschera **"Lista Utenti"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_utenti_NOBP_2.comm.bmp](./assets/media/image223.png)
+![](./assets/media/image223.png)
 
 attraverso cui poter ricercare uno specifico utente, visualizzarne
 l'anagrafica e, in determinati casi, bloccargli anche l'accesso in Area
@@ -21,7 +21,7 @@ evidenziati:
 
 - **in bianco** gli utenti di tipo "**NON Passcom"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\utenti_passcom_e_non_passcom.bmp](./assets/media/image224.png)
+![](./assets/media/image224.png)
 
 **NOTA BENE:** per maggiori informazioni relativamente alle due macro
 categorie "Utenti Passcom" e "Utenti NON Passcom" si vedano i successivi
@@ -51,7 +51,7 @@ quali informazioni dovranno essere visualizzate direttamente in tabella.
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 "**Colonne**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_utenti_colonne_comm.bmp](./assets/media/image225.png)
+![](./assets/media/image225.png)
 
 mediante la quale poter decidere quale campo attivare / disattivare e
 conseguentemente quale informazione mostrare / nascondere.
@@ -63,7 +63,7 @@ sul pulsante raffigurante una piccola i (
 ![Videate\\icona_proprieta.bmp](./assets/media/image40.png) ) posto in corrispondenza di ogni
 singola riga
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dettaglio_utente_comm.bmp](./assets/media/image226.png)
+![](./assets/media/image226.png)
 
 In definitiva dunque, all'interno di questa maschera sarà possibile
 visualizzare / nascondere per ogni singolo cliente le seguenti
@@ -117,7 +117,7 @@ consente di impostare uno specifico filtro di ricerca attraverso il
 quale poter selezionare, tra tutti gli utenti del sito, solamente quelli
 che soddisfano i parametri del filtro impostato.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ricerca_utenti_comm.bmp](./assets/media/image230.png)
+![](./assets/media/image230.png)
 
 Dopo aver impostato il proprio filtro di ricerca cliccando sul pulsante
 "**Vai**" verrà visualizzato l'elenco di tutti gli utenti che soddisfano
@@ -129,7 +129,7 @@ pannello stesso.
 
 Infine, per poter eliminare i filtri di ricerca eventualmente impostati
 è sufficiente cliccare sul pulsante "**Elimina filtri**" (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_filtri.bmp](./assets/media/image231.png) ) che verrà visualizzato, una volta applicato un
+![](./assets/media/image231.png) ) che verrà visualizzato, una volta applicato un
 filtro di questo tipo, nella relativa barra degli strumenti
 
 Gli altri pulsanti presenti nella barra degli strumenti, consentono
@@ -148,7 +148,7 @@ Cliccando su questo pulsante verrà visualizzata la maschera **"File Dati
 Utenti"** mediante la quale poter effettuare l'upload del file
 contenente le informazioni desiderate.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\import_file_dati_utente_commercialsita.bmp](./assets/media/image233.png)
+![](./assets/media/image233.png)
 
 Nello specifico all'interno di questa sezione sarà necessario indicare:
 
@@ -243,7 +243,7 @@ in formato csv. Cliccando su questo pulsante verrà visualizzata la
 maschera "**Esportazione Utenti**" all'interno della quale poter
 configurare l'esportazione dei dati.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\passcom_esportazione_utenti.bmp](./assets/media/image234.png)
+![](./assets/media/image234.png)
 
 È possibile definire un filtro sulla base del quale selezionare gli
 utenti che dovranno essere esportati (sezione **Filtro**) e,
@@ -264,7 +264,7 @@ il basso permettono infine di variare l'ordinamento dei campi e
 conseguentemente delle informazioni che dovranno essere esportate.
 
 **Elimina Utente** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_utente.bmp](./assets/media/image68.png) ): consente di eliminare l'utente
+![](./assets/media/image68.png) ): consente di eliminare l'utente
 attualmente selezionato dal database di Passweb
 
 **ATTENZIONE!: per Utenti di tipo Passcom la corretta procedura di
@@ -273,7 +273,7 @@ gestionale mediante l'apposito parametro presente in "*Dati Aziendali
 (F4 da "Anagrafica Azienda") -- Configurazione Moduli -- Collegamento
 sito commercialista*"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gestione_sito_19.comm.bmp](./assets/media/image235.png)
+![](./assets/media/image235.png)
 
 Nel caso in cui si dovesse comunque decidere di procedere
 all'eliminazione di un utente Passcom tramite questo pulsante, sarà poi
@@ -304,14 +304,14 @@ Le Cartelle di tipo "Azienda" legate a Docuvision saranno invece sempre
 eliminate contestualmente all'eliminazione del relativo Utente Passcom
 
 **Modifica Utente** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_utente.bmp](./assets/media/image10.png) ): consente di visualizzare ed
+![](./assets/media/image10.png) ): consente di visualizzare ed
 eventualmente modificare l'anagrafica dell'utente attualmente
 selezionato.
 
 Cliccando su questo pulsante verrà infatti aperta la maschera **Dati
 Utente**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\passcom_maschera_modifica_utente.bmp](./assets/media/image236.png)
+![](./assets/media/image236.png)
 
 attraverso la quale poter visualizzare ed eventualmente modificare i
 dati anagrafici dell'utente selezionato.
@@ -349,7 +349,7 @@ l'associazione tra i gruppi della "Gerarchia Utenti Passcom" generati in
 automatico da Passweb ed i relativi utenti.**
 
 **Crea Nuovo** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_crea_nuovo.bmp](./assets/media/image237.png) ): consente di creare un nuovo utente
+![](./assets/media/image237.png) ): consente di creare un nuovo utente
 **NON Passcom**
 
 **ATTENZIONE! la creazione e la gestione degli utenti di tipo Passcom è
@@ -360,7 +360,7 @@ all'Area Riservata del sito web occorre quindi cliccare sul pulsante
 "**Crea** **Nuovo"**. In questo modo verrà visualizzata la maschera
 "**Nuovo Utente**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\passcom_nuovo_utente.bmp](./assets/media/image238.png)
+![](./assets/media/image238.png)
 
 attraverso la quale poter inserire i dati anagrafici del nuovo utente,
 definirne la tipologia ed eventualmente associarlo ad uno dei gruppi

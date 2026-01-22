@@ -73,13 +73,13 @@ figlio
 
 - FNU04ADIGRI
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\marketplace_strutture_es2.bmp](./assets/media/image507.png)
+![](./assets/media/image507.png)
 
 Supponiamo infine di aver personalizzato, in Passweb, i possibili valori
 assunti dal penultimo livello della struttura (NIK e ADI)
 rispettivamente con le stringhe "Nike" e "Adidas"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\marketplace_strutture_es3.bmp](./assets/media/image508.png)
+![](./assets/media/image508.png)
 
 In queste condizioni, posto di aver configurato correttamente (secondo
 quanto indicato nei precedenti capitoli) l'Inserzione da utilizzare per
@@ -87,7 +87,7 @@ la pubblicazione dei prodotti , tentando di aggiungere articoli alla
 Lista di Vendita troveremo ora tra le possibili scelte l'articolo padre
 FNU04
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\marketplace_strutture_es4.bmp](./assets/media/image509.png)
+![](./assets/media/image509.png)
 
 Selezionando questo articolo e inserendolo nella Lista di Vendita
 Passweb prenderà in considerazione i soli articoli figlio ad esso
@@ -96,7 +96,7 @@ i tre precedentemente indicati) e, in relazione ad ognuno di essi, andrà
 ad inserire in lista un elemento per ogni taglia indicata nella
 corrispondente tabella Mexal.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\marketplace_strutture_es5.bmp](./assets/media/image510.png)
+![](./assets/media/image510.png)
 
 A questo punto sarà quindi possibile selezionare gli articoli presenti
 in lista e pubblicarli sul Merchant Center di Google.
@@ -111,25 +111,25 @@ FNU04NIKNER e FNU04NIKROS verrà assegnato:
 
 - il **titolo** "Felpa Elite Performance -- NIKE"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_pubblicazione_taglie.bmp](./assets/media/image511.png)
+![](./assets/media/image511.png)
 
 - lo stesso valore per l'attributo "**identificatore di gruppo**" in
   maniera tale da poter raggruppare tra loro tutti i colori e le taglie
   della felpa di marca NIKE
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_pubblicazione_taglie_2.bmp](./assets/media/image512.png)
+![](./assets/media/image512.png)
 
 Allo stesso modo, a tutte le taglie dell'articolo FNU04ADIGRI verrà
 assegnato
 
 - il **titolo** "Felpa Elite Performance -- ADIDAS"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_pubblicazione_taglie_1.bmp](./assets/media/image513.png)
+![](./assets/media/image513.png)
 
 - uno stesso valore per l'attributo "**identificatore di gruppo**"
   (diverso ovviamente da quello assegnato alle taglie e ai colori della
   felpa di marca NIKE) in maniera tale da poter raggruppare tra loro,
   questa volta, tutti i colori e le taglie della felpa di marca ADIDAS
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_pubblicazione_taglie_3.bmp](./assets/media/image514.png)
+![](./assets/media/image514.png)
 

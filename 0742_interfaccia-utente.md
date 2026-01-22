@@ -93,5 +93,5 @@ stesso id. Dall'altra parte avremo invece la div con
 dovremo poi inserire e visualizzare le informazioni ottenute a seguito
 della chiamata API
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\portali_esempio_utilizzo_4.bmp](./assets/media/image297.png)
+![](./assets/media/image297.png)
 

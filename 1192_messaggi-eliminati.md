@@ -6,7 +6,7 @@ All'interno della sotto sezione "**Messaggi Eliminati**" è possibile
 visualizzare l'elenco di tutti i messaggi eliminati mediante le apposite
 funzioni presenti nella altre aree della sezione Messaggi
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_messaggi_eliminati_passcom.bmp](./assets/media/image47.png)
+![](./assets/media/image47.png)
 
 Il pulsante "**Ripristina Messaggio**" (
 ![Videate\\pulsante_ripristina_messaggio.bmp](./assets/media/image48.png) ), visualizzato solo dopo aver selezionato uno dei

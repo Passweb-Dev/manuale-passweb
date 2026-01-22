@@ -35,21 +35,21 @@ Nello specifico sarà necessario accedere alla pagina di configurazione
 del proprio Account Libero, entrare nella sezione relativa alla gestione
 delle mail, cliccare sul pulsante evidenziato in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\server_smtp_libero.bmp](./assets/media/image10.png)
+![](./assets/media/image10.png)
 
 e selezionare dal successivo menu l'opzione "**Impostazione Mail**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\server_smtp_libero2.bmp](./assets/media/image11.png)
+![](./assets/media/image11.png)
 
 Una volta effettuato l'accesso alle impostazioni della propria casella
 mail sarà necessario portarsi nella sezione "**Account**" e cliccare sul
 pulsante "**Password Sicura**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\server_smtp_libero3.bmp](./assets/media/image12.png)
+![](./assets/media/image12.png)
 
 Cliccando quindi sulla voce "**Genera Password**" evidenziata in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\server_smtp_libero4.bmp](./assets/media/image13.png)
+![](./assets/media/image13.png)
 
 verrà cerata la password che dovrà poi essere copiata all'interno del
 relativo campo presente nella maschera di configurazione del server SMTP

@@ -6,7 +6,7 @@ La sezione "**IP/UA Bannati**" accessibile dalla relativa voce del menu
 "**Sito** -- **Preferenze**" del Wizard consente di gestire indirizzi ip
 / user agent ai quali impedire in maniera permanente l'accesso al sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_ip_bannati.bmp](./assets/media/image351.png)
+![](./assets/media/image351.png)
 
 Gli elementi presenti in lista possono essere di due tipi diversi:
 
@@ -23,11 +23,11 @@ Gli elementi presenti in lista possono essere di due tipi diversi:
 
 Per aggiungere un nuovo indirizzo IP / User Agent alla black list è
 sufficiente cliccare sul pulsante "**Aggiungi IP**" (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi.bmp](./assets/media/image352.png) ) presente nella contestuale barra degli
+![](./assets/media/image352.png) ) presente nella contestuale barra degli
 strumenti e inserire l'indirizzo o lo user agent desiderato all'interno
 del successivo campo **IP/UA**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuovo_ip_bannato.bmp](./assets/media/image353.png)
+![](./assets/media/image353.png)
 
 **ATTENZIONE!** Per ovvie ragioni lo stesso indirizzo IP non potrà
 essere inserito contemporaneamente nella lista degli IP Bannati e in
@@ -49,12 +49,12 @@ Gli altri pulsanti presenti nella barra degli strumenti consentono
 rispettivamente di:
 
 **Modifica** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica.bmp](./assets/media/image349.png) ): presente solo per indirizzi ip / user
+![](./assets/media/image349.png) ): presente solo per indirizzi ip / user
 agent inseriti in maniera manuale. Consente di modificare l'elemento
 attualmente selezionato in elenco
 
 **Elimina** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina.bmp](./assets/media/image347.png) ): consente di eliminare dalla black
+![](./assets/media/image347.png) ): consente di eliminare dalla black
 list l'elemento attualmente selezionato in elenco
 
 **ATTENZIONE! Nel momento in cui si dovesse tentare di accedere al sito

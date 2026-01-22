@@ -73,13 +73,13 @@ figlio
 
 - FNU04ADIGRI
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\marketplace_strutture_es2.bmp](./assets/media/image507.png)
+![](./assets/media/image507.png)
 
 Supponiamo infine di aver personalizzato, in Passweb, i possibili valori
 assunti dal penultimo livello della struttura (NIK e ADI)
 rispettivamente con le stringhe "Nike" e "Adidas"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\marketplace_strutture_es3.bmp](./assets/media/image508.png)
+![](./assets/media/image508.png)
 
 In queste condizioni, posto di aver configurato correttamente (secondo
 quanto indicato nei precedenti capitoli) l'Inserzione da utilizzare per
@@ -87,7 +87,7 @@ la pubblicazione dei prodotti , tentando di aggiungere articoli alla
 Lista di Vendita troveremo ora tra le possibili scelte l'articolo padre
 FNU04
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\marketplace_strutture_es4.bmp](./assets/media/image509.png)
+![](./assets/media/image509.png)
 
 Selezionando questo articolo e inserendolo nella Lista di Vendita
 Passweb prenderà in considerazione i soli articoli figlio ad esso
@@ -96,7 +96,7 @@ i tre precedentemente indicati) e, in relazione ad ognuno di essi, andrà
 ad inserire in lista un elemento per ogni taglia indicata nella
 corrispondente tabella Mexal.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\marketplace_strutture_es5.bmp](./assets/media/image510.png)
+![](./assets/media/image510.png)
 
 Ora, tenendo conto di quanto precedentemente indicato, in fase di
 pubblicazione l'elemento che consentirà di raggruppare gli articoli
@@ -115,18 +115,18 @@ verranno pubblicati i seguenti articoli:
 
 - **Felpa Elite Performance -- ADIDAS**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\facebook_pubblicazione_taglie.bmp](./assets/media/image576.png)
+![](./assets/media/image576.png)
 
 Il primo dei due prodotti sopra evidenziati (Felpa Elite Performance --
 NIKE) raggrupperà tutte le possibili combinazione dei due articoli
 Passweb FNU04NIKNER e FNU04NIKROS
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\facebook_pubblicazione_taglie_1.bmp](./assets/media/image577.png)
+![](./assets/media/image577.png)
 
 Il secondo (Felpa Elite Performance -- ADIDAS) raggrupperà invece tutte
 le possibili combinazione dell' articolo Passweb FNU04ADIGRI
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\facebook_pubblicazione_taglie_2.bmp](./assets/media/image578.png)
+![](./assets/media/image578.png)
 
 Coerentemente con le impostazioni dell'Inserzione dunque, sulla
 piattaforma terza l'utente avrà la possibilità di scegliere al massimo

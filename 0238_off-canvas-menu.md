@@ -15,7 +15,7 @@ In alternativa il menu può anche sovrapporsi temporaneamente ai
 contenuti della pagina (lasciandone comunque una piccola porzione sempre
 visibile)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gr_17.png](./assets/media/image65.png)
+![](./assets/media/image65.png)
 
 **[COME REALIZZARLO NELLE VARIANTI PASSWEB RESPONSIVE]{.underline}**
 
@@ -23,7 +23,7 @@ In Passweb questa soluzione può essere implementata in maniera nativa
 utilizzando, molto semplicemente, un Componente Menu configurato con
 l'opzione di visualizzazione "**Off Canvas**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_offcanvas.bmp](./assets/media/image66.png)
+![](./assets/media/image66.png)
 
 Una volta settata questa impostazione l'utente avrà poi la possibilità
 di agire anche su altri semplici parametri di configurazione per
@@ -42,5 +42,5 @@ dispositivi mobile di dimensioni inferiori ai 992 px, senza la necessità
 dunque di dover gestire manualmente due differenti menu con le relative
 impostazioni di visualizzazione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_offcanvas2.bmp](./assets/media/image67.png)
+![](./assets/media/image67.png)
 

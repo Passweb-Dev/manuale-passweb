@@ -9,7 +9,7 @@ sia alle pagine generiche che alle pagine prodotto e necessari per
 evitare eventuali errori di tipo 404 (pagina non trovata) che potrebbero
 pregiudicare un corretto posizionamento del proprio sito web.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\seo_alias.bmp](./assets/media/image45.png)
+![](./assets/media/image45.png)
 
 Per maggiori informazioni relativamente agli Alias di Pagina e/o agli
 Alias Articolo si veda anche la sezione "*Sito -- Gestione Alias*" di
@@ -40,7 +40,7 @@ verificarsi delle seguenti condizioni:
 
 1.  **Viene modificato il nome di una pagina esistente**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\alias_automatici_nome_pagina.bmp](./assets/media/image46.png)
+![](./assets/media/image46.png)
 
 > Al salvataggio del nuovo nome, Passweb creerà automaticamente il
 > relativo Alias di Pagina in maniera tale che eventuali url già
@@ -74,7 +74,7 @@ verificarsi delle seguenti condizioni:
 2.  **Viene modificato all'interno della sezione "Gestione Articoli" del
     Wizard il nome di una categoria merceologica**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\alias_automatici_nome_categoria.bmp](./assets/media/image47.png)
+![](./assets/media/image47.png)
 
 > Indipendentemente dal fatto che la variazione al nome della Categoria
 > Merceologica, già gestita all'interno del sito, avvenga mediante
@@ -97,7 +97,7 @@ verificarsi delle seguenti condizioni:
 3.  **Viene modificata all'interno del gestionale la descrizione di una
     Categoria Merceologica**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\alias_automatici_nome_categoria_mexal.bmp](./assets/media/image48.png)
+![](./assets/media/image48.png)
 
 > Nel caso in cui sia stato selezionato il parametro "**Tabella
 > Categorie Merceologiche**" in relazione al campo "**Aggiornamento**
@@ -125,7 +125,7 @@ verificarsi delle seguenti condizioni:
     viene modificata all'interno del gestionale la descrizione di uno
     degli articoli gestiti all'interno del sito.**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\alias_automatici_descrizione_articolo_mexal.bmp](./assets/media/image35.png)
+![](./assets/media/image35.png)
 
 > In queste condizioni, in fase di sincronizzazione, una volta rilevata
 > la nuova descrizione verrà automaticamente creato il relativo Alias
@@ -146,7 +146,7 @@ verificarsi delle seguenti condizioni:
 6.  **Viene modificato il valore del campo "Titolo" presente all'interno
     dell'Anagrafica Passweb di un determinato prodotto**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\permalink_passweb.bmp](./assets/media/image41.png)
+![](./assets/media/image41.png)
 
 > **ATTENZIONE! Il campo "Titolo" presente nell'Anagrafica Passweb di un
 > determinato articolo può essere modificato solo ed esclusivamente nel
@@ -165,7 +165,7 @@ verificarsi delle seguenti condizioni:
 7.  **Viene modificato il tipo di dato utilizzato per gestire il
     permalink delle pagine prodotto**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\permalink_prodotti_passweb.bmp](./assets/media/image42.png)
+![](./assets/media/image42.png)
 
 > **ATTENZIONE! La variazione del parametro in oggetto di per se non
 > apporta nessuna cambiamento al "Titolo" degli Articoli gestiti
@@ -186,7 +186,7 @@ gestibili dalla relativa sezione del Wizard ("***Sito -- Gestione
 Alias***") e si differenzieranno da quelli creati manualmente
 dall'utente in base al contenuto della colonna "**Automatico**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\alias_automatici_e_manuali.bmp](./assets/media/image49.png)
+![](./assets/media/image49.png)
 
 In ogni caso gli Alias generati in automatico dal sistema potranno
 essere gestiti liberamente e potranno quindi essere eliminati e/o

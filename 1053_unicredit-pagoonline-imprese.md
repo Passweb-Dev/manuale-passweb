@@ -37,7 +37,7 @@ impostare, oltre ai parametri classici di configurazione del pagamento,
 anche quelli specifici del gateway attualmente considerato e presenti
 all'interno della sezione "**Parametri Gateway**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_unicredit_imprese.bmp](./assets/media/image186.png)
+![](./assets/media/image186.png)
 
 Nel caso specifico il parametro:
 
@@ -102,7 +102,7 @@ conferma dell'ordine, selezionare la modalità di pagamento in esame,
 l'ordine sarà memorizzato nel database di Passweb, e l'utente verrà
 reindirizzato alla specifica pagina di accesso del gateway "PagOnline":
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagonline_imprese_1.bmp](./assets/media/image248.png)
+![](./assets/media/image248.png)
 
 **A questo punto però l'ordine non è ancora stato preso in carico dalla
 banca e, conseguentemente, non è ancora avvenuto alcun pagamento**.

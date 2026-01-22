@@ -7,7 +7,7 @@ e **mensile** questa sezione permette all'utente attualmente loggato di
 consultare e/o inserire attività scadenze o appuntamenti nella propria
 Agenda piuttosto che in quella dei propri clienti.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ec_agenda.bmp](./assets/media/image119.png)
+![](./assets/media/image119.png)
 
 Volendo, inoltre, è possibile fare in modo che le attività inserite in
 agenda vengano riportate automaticamente anche nel calendario Google
@@ -39,7 +39,7 @@ aver attivato la relativa App operando per questo all'interno
 dell'apposita sezione del Wizard accessibile dal menu "*Sito --
 Preferenze*".
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ec_agenda_attivazione.bmp](./assets/media/image120.png)
+![](./assets/media/image120.png)
 
 Come si può facilmente osservare l'Agenda è suddivisa in due distinte
 sezioni: una colonna di destra (**colonna "Agenda"**) in cui viene
@@ -48,7 +48,7 @@ inserita l'Agenda vera e propria e una colonna di sinistra (**colonna
 sono inseriti i diversi filtri che possono essere applicati all'Agenda
 oltre ai controlli necessari per creare, eventualmente, nuovi calendari.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_agenda_struttura.bmp](./assets/media/image121.png)
+![](./assets/media/image121.png)
 
 Nello specifico poi, nella parte alta della **colonna "Agenda"**
 possiamo trovare, nell'ordine:
@@ -61,7 +61,7 @@ possiamo trovare, nell'ordine:
   i successivi capitoli di questo manuale)
 
 - **il pulsante Visualizza / Nascondi colonna Opzioni** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_agenda_pulsante_visualizza_nascondi_opzioni.bmp](./assets/media/image122.png) ): consente di visualizzare / nascondere la colonna
+  ![](./assets/media/image122.png) ): consente di visualizzare / nascondere la colonna
   opzioni aumentando / diminuendo di conseguenza l'area di
   visualizzazione della pagina a disposizione per la colonna Agenda
 
@@ -76,12 +76,12 @@ possiamo trovare, nell'ordine:
   giorno corrente
 
 - i pulsanti **"Giorno", "Settimana", "Mese"**
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_agenda_modalita_visualizzazione.bmp](./assets/media/image125.png) : disponibili solo in visualizzazione
+  ![](./assets/media/image125.png) : disponibili solo in visualizzazione
   "Desktop". Consentono di modificare la modalità di visualizzazione
   dell'Agenda passando dalla visualizzazione giornaliera a quella
   settimanale a quella mensile
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_agenda_modalita_visualizzazione_2.bmp](./assets/media/image126.png)
+![](./assets/media/image126.png)
 
 **ATTENZIONE!** la modalità di visualizzazione dell'Agenda applicata a
 default può essere selezionata dalla pagina "Profilo"
@@ -89,12 +89,12 @@ default può essere selezionata dalla pagina "Profilo"
 **ATTENZIONE! In visualizzazione mobile l'unica opzione disponibile è
 quella dell'Agenda Giornaliera**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_agenda_mobile.bmp](./assets/media/image127.png)
+![](./assets/media/image127.png)
 
 Per quel che riguarda invece la **colonna "Opzioni"** troviamo
 (dall'alto verso il basso):
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_agenda_dettaglio_colonna_opzioni.bmp](./assets/media/image128.png)
+![](./assets/media/image128.png)
 
 - **Calendario di selezione del giorno (1)** : consente di selezionare
   uno specifico giorno senza dover per forza di cose scorrere tutta
@@ -119,7 +119,7 @@ Per quel che riguarda invece la **colonna "Opzioni"** troviamo
 > indicare che quella attualmente caricata non è la propria Agenda ma
 > bensì una di quelle condivise
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\agende_condivise_icona.bmp](./assets/media/image129.png)
+![](./assets/media/image129.png)
 
 - **Filtro Attività di (3)**: consente di filtrare le attività
   visualizzate in Agenda sulla base dell'utente a cui quelle stesse
@@ -137,7 +137,7 @@ Per quel che riguarda invece la **colonna "Opzioni"** troviamo
 > attualmente gestiti con la possibilità di selezionarne anche più di
 > uno alla volta
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_elenco_calendari.bmp](./assets/media/image130.png)
+![](./assets/media/image130.png)
 
 > Per creare un nuovo Calendario cui associare poi determinate attività
 > / scadenze è sufficiente cliccare sul pulsante "**Aggiungi
@@ -148,7 +148,7 @@ Per quel che riguarda invece la **colonna "Opzioni"** troviamo
 > In questo modo verrà infatti aperta la maschera di creazione "**Nuovo
 > Calendario**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\creazione_nuovo_calendario.bmp](./assets/media/image132.png)
+![](./assets/media/image132.png)
 
 > all'interno della quale poter specificare:
 
@@ -169,7 +169,7 @@ Per quel che riguarda invece la **colonna "Opzioni"** troviamo
 > esattamente allo stesso modo del calendario cui l'attività stessa è
 > stata associata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\attivita_per_calendario.bmp](./assets/media/image133.png)
+![](./assets/media/image133.png)
 
 - **Predefinito**: consente di decidere se il calendario che si sta
   creando dovrà o meno essere considerato come quello di default. Il
@@ -192,25 +192,25 @@ Per quel che riguarda invece la **colonna "Opzioni"** troviamo
 > a tendina, individuare poi, tra quelli presenti in elenco, il
 > calendario desiderato e, infine, cliccare sulla relativa icona di
 > "**Modifica Calendario**" (
-> ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_calendario.bmp](./assets/media/image134.png) )
+> ![](./assets/media/image134.png) )
 >
 > In questo modo verrà infatti aperta la maschera di "**Modifica
 > Calendario**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_agenda_modifica_calendario.bmp](./assets/media/image135.png)
+![](./assets/media/image135.png)
 
 > in cui poter andare a variare uno qualsiasi dei parametri settati in
 > fase di creazione di quello stesso calendario e, volendo, anche
 > decidere di eliminarlo cliccando per questo sul pulsante "**Elimina
 > Calendario**" (
-> ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_agenda_pulsante_elimina_calendario.bmp](./assets/media/image136.png))
+> ![](./assets/media/image136.png))
 >
 > **ATTENZIONE!** Eliminando un Calendario sarà possibile decidere di
 > eliminare completamente anche tutte le attività in esso contenute
 > oppure di spostare queste stesse attività all'interno del calendario
 > predefinito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dialog_elimina_calendario.bmp](./assets/media/image137.png)
+![](./assets/media/image137.png)
 
 > **ATTENZIONE! per poter eliminare un Calendario è necessario esserne
 > il proprietario. In generale creazione, modifica ed eliminazione di
@@ -232,10 +232,10 @@ Per quel che riguarda invece la **colonna "Opzioni"** troviamo
 I pulsanti presenti a fianco della colonna Agenda consentono, infine,
 di:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsanti_agenda_ar.bmp](./assets/media/image138.png)
+![](./assets/media/image138.png)
 
 **Nuova Attività (**
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuovo_agenda_ar.bmp](./assets/media/image139.png) **):** consente di inserire una nuova
+![](./assets/media/image139.png) **):** consente di inserire una nuova
 attività/scadenza/appuntamento in agenda.
 
 Per maggiori informazioni in merito alla procedura di creazione ed
@@ -249,7 +249,7 @@ automaticamente anche nell'eventuale Calendario Google ad esso
 collegato**
 
 **Condivisione (**
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_condivisione.bmp](./assets/media/image140.png) **):** consente di selezionare un elenco
+![](./assets/media/image140.png) **):** consente di selezionare un elenco
 di utenti con cui poter condividere la propria agenda.
 
 Per maggiori informazioni in merito alle funzionalità di condivisione
@@ -257,26 +257,26 @@ della propria agenda e/o per come accedere ad agende condivise da altri
 utenti si vedano anche i successivi capitoli di questo manuale.
 
 **Elimina (**
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_pulsante_elimina_attivita.bmp](./assets/media/image141.png) **):** consente, previa ulteriore
+![](./assets/media/image141.png) **):** consente, previa ulteriore
 conferma, di eliminare l'attività attualmente selezionata in agenda.
 
 **ATTENZIONE!** l'attività attualmente selezionata in Agenda verrà
 evidenziata in viola
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\conferma_elimina_attivita.bmp](./assets/media/image142.png)
+![](./assets/media/image142.png)
 
 Nel caso in cui l'attività da eliminare sia presente nell'agenda di più
 destinatari il creatore di questa stessa attività, avrà la possibilità
 di decidere se eliminarla solo dalla sua agenda o anche da quella di
 tutti i destinatari in cui essa compare**.**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\elimina_da_calendario_utente.bmp](./assets/media/image143.png)
+![](./assets/media/image143.png)
 
 Nel caso in cui invece l'attività da eliminare sia un' attività ripetuta
 l'utente avrà la possibilità di scegliere se eliminare la singola
 occorrenza oppure l'intera serie
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\elimina_serie.bmp](./assets/media/image144.png)
+![](./assets/media/image144.png)
 
 In queste condizioni nel caso in cui **si dovesse decidere di eliminare
 la singola occorrenza, questa verrà eliminata solo ed esclusivamente
@@ -305,7 +305,7 @@ automaticamente anche l'eliminazione della relativa attività dal
 Calendario Google in cui era stata precedentemente inserita
 
 **Proprietà (**
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_pulsante_proprieta.bmp](./assets/media/image145.png) **):** permette di aprire il dettaglio
+![](./assets/media/image145.png) **):** permette di aprire il dettaglio
 dell'attività attualmente selezionata in agenda e di modificarne quindi
 il contenuto e le proprietà.
 
@@ -337,7 +337,7 @@ b)  Nel caso in cui debba essere modificato non solo l'intervallo di
 
 > In entrambi i casi verrà aperta la maschera di **Modifica Attività**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_modifica_attivita.bmp](./assets/media/image146.png)
+![](./assets/media/image146.png)
 
 > attraverso cui poter modificare l'attività stessa in ogni suo aspetto
 > (dal contenuto, allo stato ai possibili destinatari) oltre che poterne
@@ -349,7 +349,7 @@ l'attività non potrà essere modificata, ovviamente, a livello di "Utenti
 e Gruppi" di destinazione.
 
 Il pulsante **Aggiorna (**
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_pulsante_aggiorna.bmp](./assets/media/image147.png) **),** presente nella barra degli
+![](./assets/media/image147.png) **),** presente nella barra degli
 strumenti della maschera di "**Modifica Attività**" **unicamente nel
 caso in cui a modificare l'attività/scadenza sia il suo creatore**,
 permette di propagare le modifiche apportate all'attività/scadenza in
@@ -360,7 +360,7 @@ Nel caso in cui tali modifiche non debbano essere propagate alle
 attività collegate ma **debbano invece essere salvate solo nell'agenda
 del creatore**, non occorre agire sul pulsante Aggiorna ma bensì sul
 pulsante **Salva (**
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_pulsante_salva_attivita.bmp](./assets/media/image148.png) **)**.
+![](./assets/media/image148.png) **)**.
 
 **NOTA BENE**: propagando le modifiche di un'attività su tutte le
 attività ad essa collegate (pulsante "Aggiorna"), verranno sovrascritte
@@ -375,7 +375,7 @@ uno qualsiasi dei due modi precedentemente esaminati, verrà visualizzato
 all'utente un messaggio per chiedergli se desidera modificare la singola
 occorrenza o l'intera serie:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\area_riservata_agenda_modifica_ricorrenza.comm.bmp](./assets/media/image149.png)
+![](./assets/media/image149.png)
 
 - Selezionando **"Apri l'occorrenza"** verrà aperta la singola
   occorrenza della serie ed eventuali modifiche saranno relative

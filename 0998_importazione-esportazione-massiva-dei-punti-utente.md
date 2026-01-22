@@ -19,7 +19,7 @@ barra degli strumenti
 In questo modo verrà infatti visualizzata la maschera "**Importazione
 Punti**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\importazione_punti.bmp](./assets/media/image404.png)
+![](./assets/media/image404.png)
 
 dalla quale poter importare un file csv / txt con l'indicazione dei
 punti da caricare / sottrarre al saldo attuale dei vari utenti.
@@ -103,7 +103,7 @@ utente;punti;dataScadenza;nota
 302;-15;;allineamento amministrativo saldo punti utente
 
 Il pulsante **Esporta** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_esporta_testo.bmp](./assets/media/image329.png) ), presente anch'esso nella barra degli
+![](./assets/media/image329.png) ), presente anch'esso nella barra degli
 strumenti della maschera "Lista Punti Utente" consente invece di
 esportare all'interno di un apposito file csv / txt il residuo punti di
 ciascun utente del sito.
@@ -111,7 +111,7 @@ ciascun utente del sito.
 Cliccando sul questo pulsante verrà infatti visualizzata la maschera
 "**Esportazione Punti**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\esportazione_punti.bmp](./assets/media/image405.png)
+![](./assets/media/image405.png)
 
 all'interno della quale poter indicare il carattere separatore da
 utilizzare nel file di esportazione.

@@ -8,7 +8,7 @@ all-in-one che combina **Email Marketing**, **Marketing Automation**,
 permette di migliorare la gestione dei clienti e ottimizzare le campagne
 di marketing attraverso automazioni intelligenti e personalizzate.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\activecampaign_1.bmp](./assets/media/image1.png)
+![](./assets/media/image1.png)
 
 Tra le altre cose la piattaforma offre anche un sistema di tracciamento
 proprietario che consente di registrare l'attività degli utenti

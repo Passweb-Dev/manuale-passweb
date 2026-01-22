@@ -36,11 +36,11 @@ In quest'ultimo caso poi, utenti Passcom di tipo:
 all'interno dell'apposita sezione del Wizard accessibile dal menu "*Sito
 -- Preferenze*"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_comm_documenti_attivazione.bmp](./assets/media/image55.png)
+![](./assets/media/image55.png)
 
 La pagina è suddivisa in tre distinte sezioni:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_comm_documenti_struttura.bmp](./assets/media/image56.png)
+![](./assets/media/image56.png)
 
 - Nella parte alta è presente campo di ricerca ad autocompletamento
   utile per indicare l'azienda per cui si vogliono visualizzare o
@@ -88,17 +88,17 @@ all'interno dell'albero o, in alternativa la radice "Documenti" e
 cliccare poi sul pulsante "**Elenco Documenti**" (
 ![Videate\\pulsante_elenco_documenti_mobile.bmp](./assets/media/image57.png) )
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_comm_documenti_mobile.bmp](./assets/media/image58.png)
+![](./assets/media/image58.png)
 
 In questo modo infatti verrà visualizzata la griglia dei documenti
 attualmente presenti all'interno della cartella selezionata con il
 relativo pannello di "Ricerca Documenti"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\documenti_comm_azioni_file_mobile_0.bmp](./assets/media/image59.png)
+![](./assets/media/image59.png)
 
 Una volta selezionato uno dei documenti presenti in elenco il pulsante
 raffigurante tre piccoli puntini consentirà di accedere al menu delle
 azioni effettuabili sul file selezionato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\documenti_comm_azioni_file_mobile.bmp](./assets/media/image60.png)
+![](./assets/media/image60.png)
 

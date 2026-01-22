@@ -19,7 +19,7 @@ chiamata "**Docuvision**" con a fianco un piccolo lucchetto rosso ad
 indicare che, alla cartella in esame, sono assegnati i permessi di sola
 lettura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\area_riservata_documenti_1_passcom.bmp](./assets/media/image126.png)
+![](./assets/media/image126.png)
 
 **ATTENZIONE!** la cartella Docuvision è presente SOLO per utenti
 Passcom di tipo Azienda con delle classi Docuvision impostate per essere
@@ -35,7 +35,7 @@ eventuali tipologie di documento anch'esse impostate per essere
 pubblicate sul sito e, sulla base di queste informazioni, verrà poi
 creata la corrispondente struttura di cartelle.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\area_riservata_documenti_2_passcomm.bmp](./assets/media/image127.png)
+![](./assets/media/image127.png)
 
 **ATTENZIONE!** ovviamente come la Cartella Docuvision, anche tutte le
 sue sotto cartelle avranno i permessi di sola lettura (icona lucchetto)
@@ -52,7 +52,7 @@ e, nella parte destra della pagina, verrà visualizzato l'elenco dei
 documenti presenti all'interno del gestionale nella corrispondente
 Classe Docuvision per l'anno indicato.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\comm_ricerca_documenti_da_albero.bmp](./assets/media/image114.png)
+![](./assets/media/image114.png)
 
 **ATTENZIONE!** in questa fase i singoli documenti non sono ancora stati
 prelevati dal gestionale

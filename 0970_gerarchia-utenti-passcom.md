@@ -11,7 +11,7 @@ Per poter far ciò occorre selezionare il parametro **"Crea gerarchia
 Utenti del gestionale"** presente alla pagina Parametri
 **Configurazione** dal menù del Wizard **"Configurazione"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\passcom_gerarchia_utenti_gestionale.bmp](./assets/media/image265.png)
+![](./assets/media/image265.png)
 
 **NOTA BENE:** la maschera sopra evidenziata è visibile unicamente nel
 caso in cui il sito sia collegato ad un'installazione Passcom.

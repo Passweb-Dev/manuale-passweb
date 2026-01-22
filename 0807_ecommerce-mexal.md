@@ -12,17 +12,17 @@ In anagrafica articolo è infatti presente il pulsante **"Altri Dati
 Anagrafici (F5)"** che consente di accedere ad ulteriori dati anagrafici
 relativi all'articolo considerato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mexal_abbinati_1.bmp](./assets/media/image448.png)
+![](./assets/media/image448.png)
 
 All'interno della maschera "**Altri Dati Anagrafici**" sono poi presenti
 due ulteriori pulsanti, **Alias e Abbinati**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mexal_abbinati_2.bmp](./assets/media/image449.png)
+![](./assets/media/image449.png)
 
 Selezionato Abbinati, se nessun codice è presente comparirà il seguente
 messaggio:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gestione_abbinati_4.bmp](./assets/media/image450.png)
+![](./assets/media/image450.png)
 
 dove sono attivi i seguenti comandi:
 
@@ -34,7 +34,7 @@ dove sono attivi i seguenti comandi:
 
 Premuto **Inserisci \[Ins\]** viene aperta la seguente finestra:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gestione_abbinati_5.bmp](./assets/media/image451.png)
+![](./assets/media/image451.png)
 
 dove vengono gestiti i seguenti campi:
 
@@ -67,7 +67,7 @@ dove vengono gestiti i seguenti campi:
 > relativa maschera di gestione degli abbinati (sezione "Catalogo --
 > Gestione Articoli -- Gestione Abbinati").
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gestione_abbinati_7.bmp](./assets/media/image452.png)
+![](./assets/media/image452.png)
 
 > Il pulsante **"\[F10\] OK"** memorizza la categoria fino ad un massimo
 > di 50, mentre **"\[ShF3\] Elimina"** la cancella.
@@ -104,7 +104,7 @@ Se i codici Abbinati sono suddivisi per categoria, saranno visualizzati
 solo quelli della categoria di appartenenza che viene indicata nel
 titolo della finestra.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gestione_abbinati_8.bmp](./assets/media/image453.png)
+![](./assets/media/image453.png)
 
 Nel caso in cui per uno stesso articolo siano presenti più categorie di
 abbinati, prima della finestra di selezione degli articoli abbinati
@@ -118,7 +118,7 @@ Una volta individuato l'articolo desiderato è attivo il pulsante
 il bisogno di accedere all'anagrafica dell'articolo quelli che sono i
 suoi abbinati
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gestione_abbinati_10.bmp](./assets/media/image454.png)
+![](./assets/media/image454.png)
 
 Selezionando Abbinati, se presenti dei codici abbinati agganciati
 all\'articolo su cui è posizionata la barra di scorrimento, si apre la
@@ -138,13 +138,13 @@ lingue gestite le descrizioni di ciascuna di queste categorie.
 All'interno di questa pagina verrà infatti visualizzata la maschera
 **"Gestione Articoli Abbinati"**, suddivisa in due distinte sezioni:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mexal_gestione_abbinati.bmp](./assets/media/image455.png)
+![](./assets/media/image455.png)
 
 - Nella parte sinistra della maschera sono elencate tutte le Categorie
   di Abbinati codificate in Mexal ed esportate all'interno del sito.
 
 > Il pulsante **Modifica** (
-> ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica.bmp](./assets/media/image43.png) ) presente nella corrispondente barra
+> ![](./assets/media/image43.png) ) presente nella corrispondente barra
 > degli strumenti, consente di modificare e personalizzare la
 > descrizione della Categoria Abbinati attualmente selezionata in
 > elenco.
@@ -152,7 +152,7 @@ All'interno di questa pagina verrà infatti visualizzata la maschera
 > Cliccando su questo pulsante verrà infatti visualizzata la maschera
 > **Modifica Categoria**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_categoria.bmp](./assets/media/image456.png)
+![](./assets/media/image456.png)
 
 > all'interno della quale poter indicare, in ciascuna delle lingue
 > gestite all'interno del sito, l'etichetta utilizzata per identificare,
@@ -175,7 +175,7 @@ All'interno di questa pagina verrà infatti visualizzata la maschera
 > nei rispettivi campi codice o descrizione.
 >
 > Il pulsante **Esporta** (
-> ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_esporta_testo.bmp](./assets/media/image136.png) ) presente nella contestuale barra
+> ![](./assets/media/image136.png) ) presente nella contestuale barra
 > degli strumenti, consente invece di esportare l'elenco degli articoli
 > associati a ciascuna delle Categorie Abbinati gestite, in un file csv
 > in cui verranno inserite, rispettivamente, le seguenti informazioni:
@@ -186,7 +186,7 @@ All'interno di questa pagina verrà infatti visualizzata la maschera
 > maschera "Gestione Articoli Abbinati" un' ulteriore sezione
 > "**Esportazione Abbinati**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\esportazione_abbinati.bmp](./assets/media/image457.png)
+![](./assets/media/image457.png)
 
 > all'interno della quale poter indicare, selezionandolo dall'apposito
 > menu a tendina, il carattere che dovrà essere utilizzato all'interno

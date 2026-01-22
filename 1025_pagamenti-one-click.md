@@ -26,7 +26,7 @@ sufficiente impostare i parametri della sezione "Pagamenti One Click" ma
 vanno impostati in maniera corretta anche quelli della sezione
 "Pagamento Semplice"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nexi_pagamento_one_click.bmp](./assets/media/image126.png)
+![](./assets/media/image126.png)
 
 Nello specifico per quel che riguarda la sezione "Pagamento One Click" i
 parametri "**Alias**" , "**Chiave** **Segreta**" e "**Gruppo**"
@@ -47,7 +47,7 @@ prima volta, la modalità di pagamento in oggetto gli verrà proposta
 anche l'opzione memorizzare i dati della carta che andrà poi ad
 utilizzare
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nexi_pagamento_ricorrente_2.bmp](./assets/media/image127.png)
+![](./assets/media/image127.png)
 
 **ATTENZIONE! La memorizzazione dei dati sensibili avviene solo ed
 esclusivamente sul sito della banca e NON sul sito Passweb.**
@@ -61,7 +61,7 @@ pagamento Nexi potrà scegliere se pagare con una delle carte di credito
 precedentemente memorizzate oppure se utilizzare una nuova carta non
 ancora presente tra quelle in elenco.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\carta_si_pagamento_ricorrente_3.bmp](./assets/media/image128.png)
+![](./assets/media/image128.png)
 
 Nel caso in cui decida di utilizzare una nuova carta la procedura per il
 completamente dell'ordine sarà in tutto e per tutto analoga a quella
@@ -72,7 +72,7 @@ precedentemente memorizzate, una volta reindirizzato sul sito della
 banca l'unico dato da inserire per completare il pagamento sarà quello
 relativo al codice CVV della carta stessa.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\carta_si_pagamento_ricorrente_4.bmp](./assets/media/image129.png)
+![](./assets/media/image129.png)
 
 **NOTA BENE**: Nexi XPay gestisce solamente importi in euro; per
 eventuali ordini in valuta il totale del documento verrà quindi

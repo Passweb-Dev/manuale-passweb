@@ -4,7 +4,7 @@
 
 Il Componente **"Navigazione Prodotti"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_navigazione_prodotti_res.bmp](./assets/media/image542.png)
+![](./assets/media/image542.png)
 
 può essere inserito solo ed esclusivamente all'interno del componente
 ecommerce di primo livello "**Scheda Prodotto**" e consente di inserire
@@ -13,12 +13,12 @@ catalogo passando da un articolo all'altro operando direttamente
 all'interno dalla pagina prodotto e senza dover quindi tornare per forza
 di cose al Catalogo Articoli.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\navigazione_prodotti.bmp](./assets/media/image543.png)
+![](./assets/media/image543.png)
 
 Rilasciando il Componente nella posizione desiderata verrà visualizzata
 **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\navigazione_prodotti_configurazione_res.bmp](./assets/media/image544.png)
+![](./assets/media/image544.png)
 
 suddivisa in varie sezioni.
 

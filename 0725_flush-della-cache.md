@@ -86,7 +86,7 @@ diversi **manuale, temporizzato e automatico** dipendentemente dalle
 impostazioni settate per il parametro **Flush** presente all'interno
 della maschera "Gestione Cache"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\flush_cache_1.bmp](./assets/media/image268.png)
+![](./assets/media/image268.png)
 
 **ATTENZIONE!** **indipendentemente dal fatto di operare in modalità
 manuale, automatica o temporizzata nel momento in cui di dovesse partire

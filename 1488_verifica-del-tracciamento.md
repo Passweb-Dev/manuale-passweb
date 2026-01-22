@@ -30,25 +30,25 @@ Una volta attivata l'estensione vedremo comparire l'icona del Pixel
 Helper alla destra della barra di ricerca del browser. L'icona sarà
 grigia nel caso in cui non venga rilevato nessun pixel.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pixel_helper_disattivo.bmp](./assets/media/image37.png)
+![](./assets/media/image37.png)
 
 Nel momento in cui dovesse invece essere rilevata nella pagina la
 presenza di un pixel di facebook l'icona del pixel helper si attiverà
 diventando di colore blu
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pixel_helper_attivo.bmp](./assets/media/image38.png)
+![](./assets/media/image38.png)
 
 In questo caso cliccando su di essa si aprirà un piccolo pop up
 all'interno del quale potremo trovare diverse informazioni relative al
 pixel rilevato come ad esempio l'ID del pixel stesso, il suo tempo di
 caricamento, l'URL della pagina ...
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pixel_helper_attivo_2.bmp](./assets/media/image39.png)
+![](./assets/media/image39.png)
 
 oltre che ovviamente agli specifici eventi tracciati con questo stesso
 pixel e ai parametri passati con l'evento stesso.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pixel_helper_attivo_3.bmp](./assets/media/image40.png)
+![](./assets/media/image40.png)
 
 Il consiglio dunque è quello di testare tutti gli eventi gestiti
 completando le varie azioni (es. aggiunta di articoli in carrello,
@@ -67,7 +67,7 @@ lato client di quel determinato evento non avrà funzionato in maniera
 corretta. Potremo quindi aprire il dettaglio di quell'evento per
 verificare cosa effettivamente non funzioni e agire poi di conseguenza
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pixel_helper_attivo_4.bmp](./assets/media/image41.png)
+![](./assets/media/image41.png)
 
 Un altro strumento particolarmente utile per verificare che tutto
 funzioni in maniera corretta è quello rappresentato dalla sezione
@@ -75,7 +75,7 @@ funzioni in maniera corretta è quello rappresentato dalla sezione
 Facebook (sezione "**Gestione Eventi**"), sezione questa che rappresenta
 una sorta di raccolta degli eventi in tempo reale
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\facebook_testa_eventi.bmp](./assets/media/image42.png)
+![](./assets/media/image42.png)
 
 All'interno di questa sezione è infatti possibile testare la corretta
 ricezione da parte di Facebook di tuti gli eventi (e relativi parametri)
@@ -90,14 +90,14 @@ presente nel box "**Testa gli eventi del browser**" e cliccare poi sul
 pulsante "**Apri il sito web**" in maniera tale da aprire il sito
 indicato in una nuova tab dello stesso browser.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\facebook_testa_eventi_2.bmp](./assets/media/image43.png)
+![](./assets/media/image43.png)
 
 A questo punto ricaricando il tab in cui è stato aperto lo strumento
 "Testa gli eventi" e iniziando a navigare il nostro sito, se tutto
 funziona in maniera corretta, dovremmo veder arrivare i diversi eventi
 raccolti dal pixel installato sul sito stesso
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\facebook_testa_eventi_3.bmp](./assets/media/image44.png)
+![](./assets/media/image44.png)
 
 Per ciascuno degli eventi raccolti sarà possibile visualizzare:
 
@@ -117,7 +117,7 @@ Inoltre cliccando su uno degli eventi presenti in elenco sarà possibile
 visualizzare anche il dettaglio di tutti i parametri (con relativi
 valori) che sono stati inviati a facebook assieme all'evento stesso
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\facebook_testa_eventi_4.bmp](./assets/media/image45.png)
+![](./assets/media/image45.png)
 
 Nel momento in cui l'esigenza dovesse invece essere quella di testare e
 verificare la corretta ricezione degli eventi inviati lato server sarà
@@ -130,7 +130,7 @@ e incollarlo poi all'interno del campo "**Codice di Test**" presente
 alla pagina "**Sito -- Preferenze**" del Wizard, tab "**Tracciamento
 Dati**" sezione "**Facebook Pixel -- Conversion API**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\facebook_test_event_code_2.bmp](./assets/media/image47.png)
+![](./assets/media/image47.png)
 
 **ATTENZIONE!** il codice in esame non è sempre lo stesso, per cui va
 prelevato dal Business Manager di Facebook, ed inserito nel relativo
@@ -153,7 +153,7 @@ nella sezione "Testa gli eventi" i diversi eventi inviati a facebook,
 questa volta però non dal browser degli utenti, ma direttamente
 dall'applicativo e quindi dal server su cui è hostato il sito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\facebook_test_event_code_3.bmp](./assets/media/image48.png)
+![](./assets/media/image48.png)
 
 In queste condizioni dunque, in corrispondenza della colonna "Ricevuto
 da" dovremo trovare per ogni singolo evento il valore "Server" ad
@@ -183,7 +183,7 @@ nella sezione "Testa gli eventi", se tutto funziona correttamente,
 dovremmo trovarci di fronte ad una situazione del tipo di quella
 evidenziata in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\facebook_test_event_code_4.bmp](./assets/media/image49.png)
+![](./assets/media/image49.png)
 
 situazione questa che evidenzia come di fatto lo stesso evento (es.
 PageView) sia stato inviato a Facebook sia lato client che lato server

@@ -28,13 +28,13 @@ Template di prompt secondo quanto indicato nei precedenti capitoli di
 questo manuale, e impostarlo poi come default per il campo o i campi a
 cui è stato associato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ai_oneclick.bmp](./assets/media/image416.png)
+![](./assets/media/image416.png)
 
 Fatto questo, in corrispondenza del campo cui è stato associato il
 Template di default comparirà, oltre al pulsante "Genera con AI", anche
 un nuovo pulsante "**One Click**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ai_oneclick_2.bmp](./assets/media/image417.png)
+![](./assets/media/image417.png)
 
 che, come detto, consentirà di velocizzare ancora di più il processo di
 generazione dei contenuti.
@@ -44,7 +44,7 @@ all'AI il prompt di default precedentemente definito e la risposta
 ottenuta verrà inserita automaticamente all'interno del corrispondente
 campo Passweb
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ai_oneclick_3.bmp](./assets/media/image418.png)
+![](./assets/media/image418.png)
 
 Anche in questo caso, ovviamente, l'effettiva valorizzazione del campo
 Passweb con il contenuto generato dall'AI avverrà solo al salvataggio

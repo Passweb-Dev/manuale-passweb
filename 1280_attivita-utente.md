@@ -13,7 +13,7 @@ relative ai visitatori del sito, filtrare le visite dei soli utenti
 autenticati e cliccare questa volta sul nome dell'utente interessato
 (presente all'interno della colonna "**Utente**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\attivita_per_utente_1.bmp](./assets/media/image46.png)
+![](./assets/media/image46.png)
 
 In questo modo, infatti, verrà visualizzata la maschera "**Attività per
 Utente**" evidenziata in figura
@@ -30,7 +30,7 @@ Il pannello di ricerca presente immediatamente al di sopra della tabella
 consente di filtrare i dai in griglia in base alla specifica attività
 registrata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\attivita_per_utente_2.bmp](./assets/media/image47.png)
+![](./assets/media/image47.png)
 
 **ATTENZIONE! Le attività tracciabili sono solo ed esclusivamente quelle
 indicate in elenco ossia:**

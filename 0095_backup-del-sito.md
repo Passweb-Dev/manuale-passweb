@@ -8,14 +8,14 @@ In Passweb è possibile effettuare una copia di backup del proprio sito
 Per poter effettuare questo tipo di operazione è necessario agire
 all'interno della sezione **"Siti Salvati"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\siti_salvati.bmp](./assets/media/image469.png)
+![](./assets/media/image469.png)
 
 e, nello specifico, cliccare sul pulsante "**Effettua Copia**"
 
 In questo modo verrà infatti visualizzata la maschera "**Copia Grafica
 Variante in uso**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\backup_sito_corrente.bmp](./assets/media/image470.png)
+![](./assets/media/image470.png)
 
 all'interno della quale poter impostare un valore per i seguenti campi:
 

@@ -6,7 +6,7 @@ All'interno di questa sezione è possibile visualizzare informazioni
 dettagliate relativamente a quelle che sono i **Comparatori Attivi** per
 il proprio sito web
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\report_comparatori_attivi.bmp](./assets/media/image19.png)
+![](./assets/media/image19.png)
 
 Come per i Carrelli anche i Comparatori sono considerati attivi nel
 momento in cui utente inserisce almeno un articolo al suo interno e
@@ -39,5 +39,5 @@ Cliccando su uno qualsiasi degli elementi presenti in griglia sarà poi
 possibile visualizzare, ed eventualmente stampare (pulsante "Stampa") il
 dettaglio del relativo comparatore.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\statistiche_comparatore_attivo_dettaglio.bmp](./assets/media/image20.png)
+![](./assets/media/image20.png)
 

@@ -9,23 +9,23 @@ descrizioni impostate sul gestionale per l'Aspetto Esteriore dei Beni.
 Una volta entrati in questa sezione verrà quindi visualizzata la
 maschera **Lista Aspetto Esteriore Beni**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_aspetto_esteriore_beni.bmp](./assets/media/image742.png)
+![](./assets/media/image742.png)
 
 in cui sono elencate tutte le descrizioni impostate in Mexal all'interno
 della relativa tabella (*Magazzino -- Tabelle Aziendali -- Aspetto
 Esteriore dei Beni*)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mexal_aspetto_esteriore_beni.bmp](./assets/media/image743.png)
+![](./assets/media/image743.png)
 
 Il pulsante **Modifica Aspetto**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_aspetto.bmp](./assets/media/image744.png) ), visualizzato nella barra degli
+(![](./assets/media/image744.png) ), visualizzato nella barra degli
 strumenti dopo aver selezionato una delle descrizioni presenti in
 elenco, consente di modificare, se necessario, la relativa descrizione
 impostata in Mexal e soprattutto, in caso di sito multilingua, consente
 di impostare tale descrizione per tutte le lingue gestite all'interno
 del sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_aspetto_esteriore_beni.bmp](./assets/media/image745.png)
+![](./assets/media/image745.png)
 
 **ATTENZIONE!** L'aggiornamento automatico alla sincronizzazione delle
 descrizioni in italiano utilizzate per l'aspetto esteriore dei beni,

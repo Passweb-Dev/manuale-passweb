@@ -4,7 +4,7 @@
 
 Il Componente **"Aggiunta alla Wishlist"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_aggiunta_wishlist_res.bmp](./assets/media/image502.png)
+![](./assets/media/image502.png)
 
 consente di inserire all'interno del corrispondente Componente Ecommerce
 di primo livello (es. Catalogo Ecommerce), un pulsante mediante il quale
@@ -20,20 +20,20 @@ In particolare:
   articolo verrà aggiunto alla "**Wishlist Corrente**" (l'unica
   effettivamente disponibile per utenti non autenticati).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\componente_ecommerce_aggiungi_wishlist.bmp](./assets/media/image503.png)
+![](./assets/media/image503.png)
 
 - nel caso in cui, invece, l'utente **abbia già effettuato
   l'autenticazione al sito e abbia anche delle Wishlist precedentemente
   salvate,** accanto al pulsante di Aggiunta alla Wishlist comparirà
   anche una piccola freccia rivolta verso il basso.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\aggiunta-ws-lista-regalo.bmp](./assets/media/image504.png)
+![](./assets/media/image504.png)
 
 > In queste condizioni cliccando sul pulsante in oggetto verrà aperto un
 > piccolo menu contestuale contenente l'elenco (ordinato per nome) di
 > tutte le Wishlist precedentemente create e salvate dall'utente stesso.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\aggiunta-ws-lista-regalo2.bmp](./assets/media/image505.png)
+![](./assets/media/image505.png)
 
 > Oltre alle Wishlist salvate, ovviamente, sarà presente in elenco anche
 > la "**Wishlist corrente"**, indicata come "**Nuova**" (il testo è
@@ -55,7 +55,7 @@ Custom**"
 Rilasciando il Componente nella posizione desiderata verrà visualizzata
 **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_aggiungi_wishlist_configurazione_res.bmp](./assets/media/image506.png)
+![](./assets/media/image506.png)
 
 suddivisa in varie sezioni.
 
@@ -108,14 +108,14 @@ possibile impostare un valore per i seguenti parametri:
   (indipendentemente dal fatto che nella stessa pagina sia presente o
   meno anche il componente Mini Wishlist).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\messaggio_aggiungi_wishlist.bmp](./assets/media/image507.png)
+![](./assets/media/image507.png)
 
 > **ATTENZIONE**! Il messaggio di notifica può essere personalizzato
 > inserendo l'apposito codice HTML all'interno del campo "**Aggiunta**"
 > presente nella sezione "Gestione Testi / Messaggi del Sito" in
 > corrispondenza del componente "**Aggiunta alla Wishlist**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\messaggio_aggiungi_wish_personalizzazione.bmp](./assets/media/image508.png)
+![](./assets/media/image508.png)
 
 > In relazione a quelli che sono i contenuti del pop up di aggiunta in
 > wishlist occorre poi sottolineare che le quantità eventualmente
@@ -140,7 +140,7 @@ possibile impostare un valore per i seguenti parametri:
 > pari a 38.61€ in quantità 2, in entrambi i casi verrà visualizzato un
 > pop up del tipo di quello di seguito riportato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\popup_aggiunta_wishlisti_nuova_riga.bmp](./assets/media/image509.png)
+![](./assets/media/image509.png)
 
 > in cui cioè la quantità indicata sarà sempre pari a 2
 

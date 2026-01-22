@@ -33,7 +33,7 @@ Per accedere al Live Editing e iniziare quindi a personalizzare e
 gestire le pagine del proprio sito web è sufficiente cliccare sull'icona
 "**Editing**" presente tra le voci di menu di primo livello
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\live_editing_vocemenu_principale_res.bmp](./assets/media/image1.png)
+![](./assets/media/image1.png)
 
 Nei successivi capitoli di questo manuale verranno illustrati, per prima
 cosa, alcuni concetti generali necessari per comprendere al meglio la

@@ -7,7 +7,7 @@ operazioni di copia e incolla da sorgenti esterne all'editor stesso,
 utilizzando per questo gli appositi pulsanti presenti nella barra degli
 strumenti.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\editorHTML-contenuti5_res.bmp](./assets/media/image280.png)
+![](./assets/media/image280.png)
 
 In questo senso è possibile utilizzare come sorgente sia normali file di
 testo privi di qualsiasi formattazione, sia documenti Word. In

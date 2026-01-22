@@ -4,7 +4,7 @@
 
 Il Componente **"Campo Password"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\campo_password_registrazione_res.bmp](./assets/media/image92.png)
+![](./assets/media/image92.png)
 
 consente di inserire all'interno dei form di Registrazione e di Profilo
 Utente un campo di input che dovrà poi essere utilizzato dall'utente per
@@ -13,7 +13,7 @@ impostare la propria password di accesso al sito.
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_iu_campo_password_configurazione_res.bmp](./assets/media/image93.png)
+![](./assets/media/image93.png)
 
 suddivisa in varie sezioni.
 
@@ -127,7 +127,7 @@ password, una serie di suggerimenti utili per informare l'utente
 relativamente ai criteri da soddisfare affinché la password da lui
 inserita possa essere ritenuta corretta
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\suggerimenti_password.bmp](./assets/media/image94.png)
+![](./assets/media/image94.png)
 
 **ATTENZIONE!** I criteri da soddisfare per validare la password e,
 conseguentemente, i relativi suggerimenti dipendono direttamente da

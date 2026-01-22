@@ -16,7 +16,7 @@ soggetto a quel tipo di tassa, il relativo importo direttamente in
 catalogo piuttosto che, ad esempio, all'interno della sua scheda
 prodotto utilizzando per questo il componente E-commerce "Tasse"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tasse_fe.bmp](./assets/media/image452.png)
+![](./assets/media/image452.png)
 
 Per maggiori informazioni relativamente alla configurazione e
 all'utilizzo del componente "Tasse" si veda anche il corrispondente
@@ -83,7 +83,7 @@ Provincia, Città e Cap, oppure selezionando, se autenticato, uno dei
 suoi indirizzi di spedizione) una ben precisa zona in relazione alla
 quale valutare l'importo delle Tasse Addizionali.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\selezione_indirizzo.bmp](./assets/media/image453.png)
+![](./assets/media/image453.png)
 
 Per maggiori informazioni relativamente al componente "Selezione
 Indirizzo" si veda anche quanto indicato nel relativo capitolo di questo

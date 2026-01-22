@@ -9,7 +9,7 @@ proprio sito web.
 **ATTENZIONE! per poter accedere a questa sezione è necessario aver
 acquistato il corrispondente modulo presente all'interno di Passstore**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_cache_1.bmp](./assets/media/image259.png)
+![](./assets/media/image259.png)
 
 I parametri presenti all'interno della sezione "Generale" consentono
 rispettivamente di:
@@ -113,7 +113,7 @@ della cache*" di questo manuale
 All'interno della sezione "**Tipologia di Cache**" sono indicate le
 tipologie di cache gestite da Passweb
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tipologie_cache.bmp](./assets/media/image260.png)
+![](./assets/media/image260.png)
 
 Come si può facilmente osservare, al momento, Passweb gestisce solamente
 un cache di pagina che, se attivata, consentirà di salvare il codice
@@ -132,7 +132,7 @@ I pulsanti presenti all'interno della sezione "**Gestione Cache**"
 (molti dei quali visualizzati solo dopo aver confermato l'attivazione
 della cache) consentono infine di:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsanti_gestione_cache.bmp](./assets/media/image261.png)
+![](./assets/media/image261.png)
 
 **Evidenziatore** ( ): consente di evidenziare, all'interno del Live
 Editing gli elementi che, in fase di visualizzazione della pagina,

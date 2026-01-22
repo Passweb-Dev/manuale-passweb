@@ -9,7 +9,7 @@ livello funzionale.
 Rilasciando il componente all'interno del form si aprirà **la sua
 maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_campo_pulsante_res.bmp](./assets/media/image143.png)
+![](./assets/media/image143.png)
 
 suddivisa in varie sezioni.
 

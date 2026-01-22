@@ -49,7 +49,7 @@ destinazione e quindi se questa stessa specifica verrà poi presa in
 considerazione nella pubblicazione via API, nella pubblicazione via CSV
 o in entrambi i casi
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_destinazione_inserzioni.bmp](./assets/media/image372.png)
+![](./assets/media/image372.png)
 
 **ATTENZIONE!** **Eventuali specifiche custom verranno prese in
 considerazione, per ovvie ragioni, solo ed esclusivamente nel momento in
@@ -82,7 +82,7 @@ dell'anagrafica articolo presente sulla piattaforma terza che devono
 essere necessariamente valorizzati per poter codificare correttamente il
 relativo prodotto.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_specifiche_1.bmp](./assets/media/image611.png)
+![](./assets/media/image611.png)
 
 **ATTENZIONE!** Indipendentemente dal fatto che la specifica considerata
 sia una di quelle obbligatorie o una di quelle addizionali la cosa
@@ -115,7 +115,7 @@ piattaforma terza
 
 **Modalità ammesse:** Attributo Articolo / Attributo Passweb
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_specifiche_name.bmp](./assets/media/image612.png)
+![](./assets/media/image612.png)
 
 Mappando la specifica in esame sulla modalità "**Attributo Articolo**"
 il campo valore potrà poi essere impostato unicamente sulla seguente
@@ -170,7 +170,7 @@ associare l'articolo all'interno di Prestashop
 **Modalità ammesse:** Attributo Marketplace / Attributo Articolo /
 Attributo Passweb
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_category_default.bmp](./assets/media/image613.png)
+![](./assets/media/image613.png)
 
 **ATTENZIONE! Lo schema delle categorie merceologiche cui fare
 riferimento** è quello definito direttamente all'interno di Prestashop
@@ -186,7 +186,7 @@ lo schema delle categorie merceologiche create e gestite sulla
 piattaforma terza (e coerenti ovviamente con quanto digitato
 dall'utente)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_specifiche_2.bmp](./assets/media/image614.png)
+![](./assets/media/image614.png)
 
 Sarà quindi sufficiente selezionare, tra quelle proposte, l'opzione
 desiderata in maniera tale da inserire all'interno del campo
@@ -210,7 +210,7 @@ piattaforma terza articoli appartenenti a diverse categorie
 merceologiche sarà necessario configurare la specifica in esame
 impostandola, questa volta, sulla modalità "**Attributo Articolo**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_specifiche_4.bmp](./assets/media/image615.png)
+![](./assets/media/image615.png)
 
 In queste condizioni il campo "**Valore**" verrà gestito come una combo
 box e l'unica opzione di scelta disponibile sarà "**Prestashop Categoria
@@ -223,7 +223,7 @@ Product Category Default**" presente all'interno della sezione
 "**Marketplace**" nell' Anagrafica Passweb della categoria merceologica
 di appartenenza dell'articolo.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_specifiche_5.bmp](./assets/media/image616.png)
+![](./assets/media/image616.png)
 
 Il campo **"Prestashop Product Category Default"** è infatti un campo ad
 autocompletamento e, come nel caso precedente per il campo Valore, anche
@@ -283,9 +283,9 @@ quelli relativi alle regole di assoggettamento IVA definite su
 Prestashop all'interno della sezione "**Internazionale -- Tasse --
 Aliquote Iva**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\prestashop_specifiche_iva.bmp](./assets/media/image617.png)
+![](./assets/media/image617.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_specifiche_iva2.bmp](./assets/media/image618.png)
+![](./assets/media/image618.png)
 
 Sarà quindi sufficiente selezionare, tra quelle proposte, l'opzione
 desiderata in maniera tale da inserirla all'interno del campo
@@ -301,7 +301,7 @@ piattaforma terza articoli con aliquote IVA differenti sarà necessario
 configurare la specifica in esame impostandola, questa volta, sulla
 modalità "**Attributo Articolo**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_specifiche_iva3.bmp](./assets/media/image619.png)
+![](./assets/media/image619.png)
 
 In queste condizioni il campo "**Valore**" verrà gestito come una combo
 box e l'unica opzione di scelta disponibile sarà "**IVA**"
@@ -322,16 +322,16 @@ rispettivamente:
 - Articolo A (iva gestionale = 22%): verrà associato all' aliquota iva
   di prestashop definita per il paese Italia con percentuale al 22
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_specifiche_iva4.bmp](./assets/media/image620.png)
+![](./assets/media/image620.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_specifiche_iva5.bmp](./assets/media/image621.png)
+![](./assets/media/image621.png)
 
 - Articolo B (iva gestionale = 4%): verrà associato all' aliquota iva di
   prestashop definita per il paese Italia con percentuale al 4
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_specifiche_iva6.bmp](./assets/media/image622.png)
+![](./assets/media/image622.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_specifiche_iva7.bmp](./assets/media/image623.png)
+![](./assets/media/image623.png)
 
 **ATTENZIONE!** Nel caso in cui siano presenti, lato Prestashop, più
 regole di assoggettamento IVA che utilizzano, per lo stesso paese
@@ -569,7 +569,7 @@ Una volta individuata e selezionata la prima categoria merceologica
 comparirà quindi un nuovo campo ad autocompletamento mediante il quale
 poter selezionare ulteriori categorie.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_categories2.bmp](./assets/media/image625.png)
+![](./assets/media/image625.png)
 
 Come al solito, lavorando in questo modo tutti gli articoli pubblicati
 mediante l'Inserzione in esame verranno associati, ovviamente, alle
@@ -585,7 +585,7 @@ In queste condizioni il campo "**Valore**" verrà gestito come una combo
 box e l'unica opzione di scelta disponibile sarà "**Prestashop Categoria
 Prodotto**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_categories3.bmp](./assets/media/image626.png)
+![](./assets/media/image626.png)
 
 Ciò significa che per ogni articolo pubblicato mediante l'Inserzione in
 esame il valore relativo alle categorie secondarie coinciderà
@@ -594,7 +594,7 @@ esattamente con quanto impostato in corrispondenza del campo
 "**Marketplace**" nell' Anagrafica Passweb della categoria merceologica
 di appartenenza dell'articolo.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_categories4.bmp](./assets/media/image627.png)
+![](./assets/media/image627.png)
 
 Il campo **"Prestashop Product Category"** è un campo ad
 autocompletamento che accetta valori multipli. Anche in questo caso
@@ -627,7 +627,7 @@ Consente di mappare la **Descrizione estesa** di Prestashop (tab
 "**Descrizione**" presente all'interno della scheda "**Impostazioni di
 base**" dell'anagrafica articolo di Prestashop)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\prestashop_descrizione_estesa.bmp](./assets/media/image628.png)
+![](./assets/media/image628.png)
 
 **Modalità ammesse:** Attributo Articolo / Attributo Passweb /
 Personalizzato
@@ -655,7 +655,7 @@ Consente di mappare la **Descrizione breve** di Prestashop (tab
 "**Riepilogo**" presente all'interno della scheda "**Impostazioni di
 base**" dell'anagrafica articolo di Prestashop)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\prestashop_descrizione_breve.bmp](./assets/media/image629.png)
+![](./assets/media/image629.png)
 
 **Modalità ammesse:** Attributo Articolo / Attributo Passweb /
 Personalizzato
@@ -682,7 +682,7 @@ opzioni:
 Consente di mappare il parametro che determina l'effettiva pubblicazione
 dell'articolo sulla piattaforma terza.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\prestashop_specifiche_pubblica.bmp](./assets/media/image630.png)
+![](./assets/media/image630.png)
 
 Grazie a questa specifica sarà quindi possibile decidere **se l'articolo
 in esame, pur essendo presente nel Back end di Prestashop, dovrà essere
@@ -731,7 +731,7 @@ Consente di mappare il parametro (**Solo sul web**) che determina se gli
 articoli coinvolti nell' Inserzione dovranno essere impostati come
 vendibili solo online oppure anche all'interno del negozio al dettaglio.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\prestashop_online_only.bmp](./assets/media/image631.png)
+![](./assets/media/image631.png)
 
 **Modalità ammesse:** Attributo Passweb / Attributo Marketplace
 
@@ -787,7 +787,7 @@ autocompletamento e gli unici due valori ammessi saranno:
 > automaticamente inseriti nella sezione "**Prodotti Correlati**"
 > presente nell'Anagrafica Prestashop del singolo articolo
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\prestashop_abbinati.bmp](./assets/media/image632.png)
+![](./assets/media/image632.png)
 
 > **ATTENZIONE! In queste condizioni, eventuali associazioni create
 > direttamente in Prestashop verranno sovrascritte dalle informazioni
@@ -828,13 +828,13 @@ Consente di mappare i Marchi attualmente codificati e gestiti
 all'interno di Prestashop (sezione "**Catalogo -- Marchi & Fornitori -
 Marchi**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\prestashop_marchi.bmp](./assets/media/image633.png)
+![](./assets/media/image633.png)
 
 Grazie a questa specifica è quindi possibile valorizzare il campo
 "**Marca**" presente all'interno della sezione "**Impostazioni di
 base**" dell'anagrafica articolo Prestashop
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\prestashop_marchi3.bmp](./assets/media/image634.png)
+![](./assets/media/image634.png)
 
 **Modalità ammesse:** Attributo Passweb / Attributo Marketplace
 
@@ -843,7 +843,7 @@ Marketplace**" il campo "**Valore**" verrà gestito come un campo ad
 autocompletamento e i valori accettati saranno esattamente i **Nomi**
 dei marchi codificati su Prestashop:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_marchi2.bmp](./assets/media/image635.png)
+![](./assets/media/image635.png)
 
 **La cosa importante da tenere in considerazione è che la specifica in
 esame corrisponde, in particolare, all'id delle varie marche gestite su
@@ -882,7 +882,7 @@ marche**.
 **Modalità ammesse:** Attributo Articolo / Attributo Passweb /
 Personalizzato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_manufacturer_name.bmp](./assets/media/image636.png)
+![](./assets/media/image636.png)
 
 Mappando la specifica in esame sulla modalità "**Personalizzato**" il
 dato da passare alla piattaforma terza dovrà essere inserito
@@ -898,7 +898,7 @@ all'interno della stessa inserzione, quale valore dovrà assumere,
 articolo per articolo, il campo Marca, sarà necessario configurare la
 specifica impostandola sulla modalità "**Attributo Articolo**".
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_manufacturer_name_2.bmp](./assets/media/image637.png)
+![](./assets/media/image637.png)
 
 In queste condizioni il campo "**Valore**" verrà gestito come una combo
 box e le possibili opzioni di scelta saranno:
@@ -959,7 +959,7 @@ Consente di impostare il Fornitore predefinito selezionandolo tra uno di
 quelli attualmente codificati su Prestashop (sezione "**Catalogo --
 Marchi & Fornitori - Fornitori**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\prestashop_fornitori.bmp](./assets/media/image638.png)
+![](./assets/media/image638.png)
 
 **Modalità ammesse:** Attributo Passweb / Attributo Marketplace
 
@@ -972,7 +972,7 @@ Il fornitore selezionato verrà impostato come predefinito all'interno
 della sezione "**Fornitori**" nel tab "**Opzioni**" dell'anagrafica
 articolo di Prestashop)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\prestashop_fornitori2.bmp](./assets/media/image639.png)
+![](./assets/media/image639.png)
 
 **ATTENZIONE!** Lavorando in questo modo a tutti gli articoli pubblicati
 mediante l'Inserzione in esame verrà associato lo stesso fornitore
@@ -994,7 +994,7 @@ Le specifiche EAN13 / ISBN / UPC consentono di mappare i relativi campi
 presenti all'interno della sezione "**Condizioni & Riferimenti**" nel
 tab "**Opzioni**" dell'anagrafica articolo di Prestashop
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\prestashop_codici_ean.bmp](./assets/media/image640.png)
+![](./assets/media/image640.png)
 
 **Modalità ammesse:** Attributo Articolo / Attributo Passweb /
 Personalizzato
@@ -1035,7 +1035,7 @@ opzioni:
 > Per far questo è sufficiente accedere alla maschera di creazione del
 > codice Alias
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuovo_codice_alias.bmp](./assets/media/image87.png)
+![](./assets/media/image87.png)
 
 > e compilare i vari campi come di seguito indicato:
 
@@ -1096,7 +1096,7 @@ rispettivamente i campi **Larghezza, Altezza, Profondità e Peso**
 presenti all'interno della sezione "Spedizione" dell'anagrafica articolo
 di Prestashop
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\prestashop_dimensioni_spedizione.bmp](./assets/media/image641.png)
+![](./assets/media/image641.png)
 
 **Modalità ammesse:** Attributo Passweb / Personalizzato
 
@@ -1124,7 +1124,7 @@ l'esatto valore del campo "Ubicazione Magazzino" da passare a Prestashop
 Consente di mappare il campo "**Tempi di consegna**" presente
 all'interno tab "**Spedizione**" dell'anagrafica articolo di Prestashop
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\prestashop_additiona_delivery_time.bmp](./assets/media/image642.png)
+![](./assets/media/image642.png)
 
 **Modalità ammesse:** Attributo Passweb / Attributo Marketplace
 
@@ -1133,7 +1133,7 @@ Marketplace**" il campo "**Valore**" verrà gestito come un menu a
 tendina all'interno del quale poter selezionare una delle opzioni
 presenti su Prestashop per il campo "Tempi di Consegna"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_additiona_delivery_time2.bmp](./assets/media/image643.png)
+![](./assets/media/image643.png)
 
 **ATTENZIONE!** Lavorando in questo modo tutti gli articoli pubblicati
 mediante l'Inserzione in esame avranno, per il campo "Tempi di Consegna"
@@ -1172,7 +1172,7 @@ Consentono di mappare rispettivamente il campo:
 presenti all'interno tab "**Spedizione**" dell'anagrafica articolo di
 Prestashop
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\prestashop_delivery_inout_stock.bmp](./assets/media/image644.png)
+![](./assets/media/image644.png)
 
 **Modalità ammesse:** Attributo Passweb / Personalizzato
 
@@ -1204,13 +1204,13 @@ possibile mappare anche tutte le Funzioni gestite in Prestashop e
 definite all'interno della corrispondente sezione "**Attributi e
 Funzionalità** **-- Funzioni**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\prestashop_funzioni.bmp](./assets/media/image645.png)
+![](./assets/media/image645.png)
 
 Nel momento in cui dovessimo quindi aver codificato, lato Prestashop,
 una Funzione denominata ad esempio "**Paper Type**" che può assumere i
 valori indicati in figura ("Ruled", "Plain", "Squarred" e "Doted")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\prestashop_funzioni2.bmp](./assets/media/image646.png)
+![](./assets/media/image646.png)
 
 tra le specifiche addizionali da poter gestire all'interno delle nostre
 inserzioni, troveremo poi anche il corrispondente campo "Paper Type"
@@ -1223,7 +1223,7 @@ Nel primo caso il campo "**Valore**" verrà gestito come un campo ad
 autocompletamento e i valori ammessi corrisponderanno esattamente alle
 opzioni codificate per la stessa specifica all'interno di Prestashop
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_funzioni3.bmp](./assets/media/image647.png)
+![](./assets/media/image647.png)
 
 Come al solito lavorando in questo modo tutti gli articoli coinvolti
 nell'Inserzione avranno per la specifica in questione lo stesso valore.
@@ -1254,7 +1254,7 @@ varianti saranno tutte quelle corrispondenti ad attributi prodotto
 definiti all'interno della sezione "**Attributi e Funzionalità --
 Attributi**" di Prestashop.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\prestashop_attributi_varianti.bmp](./assets/media/image648.png)
+![](./assets/media/image648.png)
 
 Tali attributi possono essere di tipo:
 
@@ -1288,7 +1288,7 @@ l'attributo utilizzato per il colore riporti ad esempio il valore "Nero"
 verrà creata per il corrispondente attributo Prestashop, una nuova
 opzione di scelta corrispondente, appunto, al valore fornito da Passweb.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\prestashop_attributo_colore.bmp](./assets/media/image649.png)
+![](./assets/media/image649.png)
 
 Inoltre, in relazione agli Attributi Prestashop di tipo "**Colore /
 Texture**" è necessario sottolineare che Passweb potrà inserire, a
@@ -1310,7 +1310,7 @@ articoli verrà creata una nuova opzione con il valore inserito da
 Passweb, valore questo che, come nel caso precedente, verrà inserito
 all'interno della corrispondente colonna Valore
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\prestashop_attributo_dropdown.bmp](./assets/media/image650.png)
+![](./assets/media/image650.png)
 
 Per maggiori informazioni relativamente a come gestire inserzioni con
 articoli che presentano un massimo di due elementi varianti (es. Taglie
@@ -1328,7 +1328,7 @@ Tali specifiche dovranno prima essere codificate all'interno della
 corrispondente sezione del Wizard (*Catalogo -- Altri Marketplace --
 Specifiche*)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\specifiche_custom_1.bmp](./assets/media/image651.png)
+![](./assets/media/image651.png)
 
 Una volta codificate sarà poi possibile gestirle, per ogni singola
 Inserzione, esattamente allo stesso modo in cui si gestiscono le
@@ -1365,7 +1365,7 @@ dipende esattamente dalle impostazioni settate all'interno della sezione
 Inserzione (tab "Prezzo, quantità e formato") utilizzata per pubblicare
 i prodotti.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_quantita.bmp](./assets/media/image502.png)
+![](./assets/media/image502.png)
 
 Per maggiori informazioni in merito ai parametri di configurazione
 presenti all'interno di questa sezione si rimanda a quanto indicato
@@ -1409,7 +1409,7 @@ gestionali agendo per questo all'interno della sezione "Listini"
 presente nella maschera di configurazione di ogni singola Inserzione
 (sezione "Prezzo, quantità e formato)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\marketplace_prezzo_listini.bmp](./assets/media/image378.png)
+![](./assets/media/image378.png)
 
 Di seguito vengono indicati gli aspetti fondamentali di cui tener conto
 nella determinazione del prezzo applicato agli articoli pubblicati sulla
@@ -1425,7 +1425,7 @@ piattaforma terza:
   "**Prezzo**" dell'anagrafica articolo Prestashop ("Prezzo (tasse
   escl.)" e "Prezzo (tasse incl.)")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\prestashop_prezzo_articolo.bmp](./assets/media/image653.png)
+![](./assets/media/image653.png)
 
 - nel caso di prodotti gestiti a confezione i prezzi dei due articoli
   creati su Prestashop (articolo semplice e articolo bundle) verranno
@@ -1438,7 +1438,7 @@ piattaforma terza:
   nella sezione "**Prezzi Specifici**" presente nell'anagrafica
   Prestashop del relativo articolo
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\prestashop_prezzo_articolo2.bmp](./assets/media/image654.png)
+![](./assets/media/image654.png)
 
 > Lo sconto creato non avrà particolari limitazioni e sarà quindi
 > valido:
@@ -1499,7 +1499,7 @@ piattaforma terza:
 > sulla piattaforma terza mediante l'Inserzione in esame verrà creata
 > una specifica entry all'interno della sezione "**Prezzi Specifici**"
 >
-> ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_listini_gruppi.bmp](./assets/media/image379.png)
+> ![](./assets/media/image379.png)
 >
 > **valida solo per il gruppo "Rivenditori", dove il prezzo
 > dell'articolo sarà esattamente quello definito in Mexal per il listino

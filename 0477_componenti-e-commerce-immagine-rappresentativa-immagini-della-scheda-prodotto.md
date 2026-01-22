@@ -71,7 +71,7 @@ Articoli -- Articoli"* di questo manuale.
 Tipicamente la visualizzazione delle immagini articolo all'interno della
 scheda prodotto potrebbe essere del tipo di quella evidenziata in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\scheda_prodotto_immagini_esempio.bmp](./assets/media/image467.png)
+![](./assets/media/image467.png)
 
 All'interno della scheda prodotto il Componente "Immagine
 Rappresentativa" sarà quindi costituito da:
@@ -82,7 +82,7 @@ Rappresentativa" sarà quindi costituito da:
   delle tipologie di immagini nel Catalogo**" alla sezione "*Catalogo -
   Configurazione Parametri-- Parametri Immagini*" del Wizard.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\scheda_prodotto_immagini_esempio1.bmp](./assets/media/image468.png)
+![](./assets/media/image468.png)
 
 - una "**Galleria di immagini secondarie**" posizionata all'interno di
   uno Slider a scorrimento orizzontale o verticale, e costituita da
@@ -92,7 +92,7 @@ Rappresentativa" sarà quindi costituito da:
   immagini nel Catalogo**" alla sezione "*Catalogo - Configurazione
   Parametri-- Parametri Immagini*" del Wizard.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\scheda_prodotto_immagini_esempio2.bmp](./assets/media/image469.png)
+![](./assets/media/image469.png)
 
 **ATTENZIONE! Nel caso in cui sia gestita una sola immagine per un
 determinato articolo, verrà comunque creata una Galleria contenente

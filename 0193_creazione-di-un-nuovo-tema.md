@@ -13,7 +13,7 @@ precedentemente analizzata e cliccare sul pulsante "**Temi**" in maniera
 tale da poter visualizzare e gestire tutti i Temi creati per il sito in
 oggetto
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\temi_15_res.bmp](./assets/media/image339.png)
+![](./assets/media/image339.png)
 
 dove sarà possibile visualizzare e gestire tutti i Temi creati per il
 sito in oggetto.
@@ -22,12 +22,12 @@ I pulsanti presenti nella contestuale barra degli strumenti
 consentiranno rispettivamente di:
 
 **Nuovo Tema** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuovo_tema_res.bmp](./assets/media/image340.png) ): consente di creare un nuovo Tema.
+![](./assets/media/image340.png) ): consente di creare un nuovo Tema.
 
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 "**Nuovo Tema**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\temi_16_res.bmp](./assets/media/image341.png)
+![](./assets/media/image341.png)
 
 all'interno della quale poter assegnare un Nome al Tema (campo "**Nome
 Tema**").
@@ -39,7 +39,7 @@ sta realizzando e che verrà effettivamente applicato solo ed
 esclusivamente nel momento in cui si dovesse decidere di impostare
 questo stesso Tema come Tema corrente del sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_tema.bmp](./assets/media/image342.png)
+![](./assets/media/image342.png)
 
 **ATTENZIONE! Ogni nuovo Tema contiene ovviamente tutti gli Attributi
 inizialmente definiti con il loro valore di Default.**
@@ -50,19 +50,19 @@ di Salvare il Tema rendendolo quindi effettivamente utilizzabile
 all'interno del sito.
 
 **Elimina Tema** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_tema_res.bmp](./assets/media/image343.png) ): consente di eliminare il Tema
+![](./assets/media/image343.png) ): consente di eliminare il Tema
 attualmente selezionato in elenco.
 
 **Modifica Tema** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_tema_res.bmp](./assets/media/image344.png) ): consente di modificare il Tema
+![](./assets/media/image344.png) ): consente di modificare il Tema
 attualmente selezionato in elenco. E' possibile variare tanto il Nome
 del Tema quanto i valori associati a d ogni singolo Attributo.
 
 **Duplica Tema** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_duplica_tema_res.bmp](./assets/media/image345.png) ): consente di duplicare il Tema
+![](./assets/media/image345.png) ): consente di duplicare il Tema
 attualmente selezionato in elenco
 
 **Applica Tema** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_applica_tema_res.bmp](./assets/media/image346.png) ): consente di applicare al sito il Tema
+![](./assets/media/image346.png) ): consente di applicare al sito il Tema
 attualmente selezionato in elenco
 

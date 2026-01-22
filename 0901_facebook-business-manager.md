@@ -14,34 +14,34 @@ sezione "**Origine dei dati -- Cataloghi**" potremo trovare il Catalogo
 prodotto dall'integrazione tra questa piattaforma ed il nostro sito
 Ecommerce
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\business_manager_19.bmp](./assets/media/image579.png)
+![](./assets/media/image579.png)
 
 Per visualizzare e gestire gli articoli presenti all'interno di questo
 catalogo è necessario cliccare sul pulsante "**Apri in Gestore delle
 vendite**" posto nella parte alta della pagina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\business_manager_20.bmp](./assets/media/image580.png)
+![](./assets/media/image580.png)
 
 In questo modo verremo ricondotti alla sezione del Business Manager da
 cui poter gestire il catalogo utilizzando i dati in esso presenti per
 creare inserzioni pubblicitarie, per pubblicarli sulla nostra pagina
 facebook ecc...
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\business_manager_23.bmp](./assets/media/image581.png)
+![](./assets/media/image581.png)
 
 Per visualizzare i prodotti presenti nel catalogo (ed esportati
 direttamente dal nostro sito Ecommerce) sarà sufficiente accedere alla
 sezione "**Articoli**" cliccando sulla corrispondente voce di menu
 presente sulla sinistra della pagina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\business_manager_24.bmp](./assets/media/image582.png)
+![](./assets/media/image582.png)
 
 Cliccando su uno dei prodotti presenti nel catalogo potremo visualizzare
 tutte le informazioni per esso presenti (titolo, prezzo, descrizione
 ....) e verificare quindi che siano esattamente quelle inviate dal
 nostro sito Ecommerce
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\business_manager_25.bmp](./assets/media/image583.png)
+![](./assets/media/image583.png)
 
 Nel caso in cui l'informazione cercata non sia tra quelle presenti nella
 schermata "principale" sarà possibile passare alla visualizzazione
@@ -52,5 +52,5 @@ utile nel caso in cui l'esigenza dovesse essere quella di agganciare un
 prodotto caricato in precedenza mediante altri strumenti diversi da
 Passweb)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\business_manager_26.bmp](./assets/media/image584.png)
+![](./assets/media/image584.png)
 

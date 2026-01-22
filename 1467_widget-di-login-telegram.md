@@ -16,7 +16,7 @@ indirizzo
 
 e impostare i parametri di configurazione come di seguito indicato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\telegram_widget_login.bmp](./assets/media/image26.png)
+![](./assets/media/image26.png)
 
 Nello specifico:
 
@@ -50,7 +50,7 @@ lo snippet di codice presente in corrispondenza del campo "**Embed
 Code**" e inserirlo all'interno del proprio sito utilizzando un
 Componente HTML
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\telegram_widget_login_2.bmp](./assets/media/image27.png)
+![](./assets/media/image27.png)
 
 **ATTENZIONE! il Widget Login di Telegram deve essere reso visibile ai
 soli utenti autenticati.**
@@ -74,7 +74,7 @@ pagina e/o una sezione specifica del sito in cui fornire agli utenti
 tutte le indicazioni relative a come poter iscriversi al Bot Telegram e
 ricevere così i vari messaggi di notifica
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\telegram_widget_login_3.bmp](./assets/media/image28.png)
+![](./assets/media/image28.png)
 
 **ATTENZIONE!** nel momento in cui l'esigenza dovesse essere quella di
 nascondere il Widget di Login Telegram agli utenti autenticati che
@@ -87,7 +87,7 @@ Una volta inserito il Widget, nel momento in cui l'utente dovesse poi
 cliccare sul relativo pulsante gli verrà visualizzata una maschera di
 accesso a Telegram del tipo di quella evidenziata in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\telegram_widget_login_4.bmp](./assets/media/image29.png)
+![](./assets/media/image29.png)
 
 L'utente dovrà quindi inserire il numero di cellulare collegato
 all'account Telegram su cui verranno poi inviati i vari messaggi (numero
@@ -99,7 +99,7 @@ verrà inviato un messaggio di notifica da parte di Telegram relativo
 alla richiesta di accesso appena effettuata con i due pulsanti
 "**Rifiuta**" e "**Conferma**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\telegram_widget_login_5.bmp](./assets/media/image30.png)
+![](./assets/media/image30.png)
 
 Cliccando sul pulsante "**Conferma**" l'utente potrà quindi autorizzare
 la ricezione di messaggi da parte del Bot.
@@ -108,7 +108,7 @@ Contemporaneamente sul sito verrà visualizzata anche un'ulteriore
 maschera necessaria per accettare il trasferimento di dati (Nome,
 Username e Foto del profilo) tra Passweb e Telegram.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\telegram_widget_login_6.bmp](./assets/media/image31.png)
+![](./assets/media/image31.png)
 
 Per portare a termine il processo di connessione, sarà quindi
 sufficiente cliccare sul pulsante "**Accetta**"
@@ -117,5 +117,5 @@ A questo punto, se correttamente configurato, l'utente riceverà anche il
 primo messaggio automatico (quello di Benvenuto) da parte del Bot del
 sito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\telegram_widget_login_7.bmp](./assets/media/image32.png)
+![](./assets/media/image32.png)
 

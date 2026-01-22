@@ -4,7 +4,7 @@
 
 Il Componente **"Voto Commento"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cms_commenti_componente_voto_res.bmp](./assets/media/image99.png)
+![](./assets/media/image99.png)
 
 può essere inserito solo ed esclusivamente all'interno di un componente
 "**Commenti Associati**" e consente di visualizzare, in corrispondenza
@@ -33,7 +33,7 @@ A livello di configurazione, una volta inserito il Componente
 all'interno della pagina web, verrà aperta in automatico **la sua
 maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\voto_commento_configurazione_res.bmp](./assets/media/image101.png)
+![](./assets/media/image101.png)
 
 suddivisa in varie sezioni.
 

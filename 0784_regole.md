@@ -36,33 +36,33 @@ pulsante.
 I pulsanti presenti nella barra degli strumenti della maschera "**Regole
 di valorizzazione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\regole_valorizzazione_articolo.bmp](./assets/media/image294.png)
+![](./assets/media/image294.png)
 
 consentono rispettivamente di:
 
 **Modifica Regola**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_regola.bmp](./assets/media/image295.png) ): consente di modificare la regola attualmente
+(![](./assets/media/image295.png) ): consente di modificare la regola attualmente
 selezionata
 
 **Elimina Regola**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_regola.bmp](./assets/media/image296.png) ): consente di eliminare la regola
+(![](./assets/media/image296.png) ): consente di eliminare la regola
 attualmente selezionata
 
 **Copia Regola**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_copia_regola.bmp](./assets/media/image297.png) ): consente di copiare la regola
+(![](./assets/media/image297.png) ): consente di copiare la regola
 attualmente selezionata. La nuova regola avrà lo stesso nome della
 regola copiata preceduto dal testo "Copia"
 
 **Applica Regola**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_applica_regola.bmp](./assets/media/image298.png) ): consente di applicare la regola attualmente
+(![](./assets/media/image298.png) ): consente di applicare la regola attualmente
 selezionata
 
 **Nuova Regola**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuova_regola.bmp](./assets/media/image299.png) ): consente di creare una nuova regola di
+(![](./assets/media/image299.png) ): consente di creare una nuova regola di
 valorizzazione degli Attributi Articolo
 
 **Nuova Regola Classi**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuova_regola_classi.bmp](./assets/media/image299.png) ): consente di creare una nuova regola di
+(![](./assets/media/image299.png) ): consente di creare una nuova regola di
 valorizzazione delle classi CSS
 
 Le regole presenti in elenco ed evidenziate in grassetto, oltre a poter

@@ -7,7 +7,7 @@ necessario, innanzitutto, aver abilitato l'App Sprix operando per questo
 all'interno dell'apposita sezione del Wizard accessibile dal menu "*Sito
 -- Preferenze*".
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ec_sprix_attivazione.bmp](./assets/media/image223.png)
+![](./assets/media/image223.png)
 
 **ATTENZIONE! La sezione Sprix è disponibile solo per siti Ecommerce
 collegati a Mexal**
@@ -22,19 +22,19 @@ oppure uno sprix standard) e per come renderlo visibile o meno ad un
 determinato gruppo di utenti si rimanda a quanto indicato all'interno
 della sezione "**Configurazione -- Gestione Sprix**" di questo manuale.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ec_sprix.bmp](./assets/media/image224.png)
+![](./assets/media/image224.png)
 
 Per poter lanciare l'esecuzione, lato gestionale, di uno degli sprix
 presenti in elenco è necessario per prima cosa selezionarlo e cliccare
 poi sul pulsante **Configura** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_pulsante_configura.bmp](./assets/media/image225.png) ) presente nella contestuale barra degli
+![](./assets/media/image225.png) ) presente nella contestuale barra degli
 strumenti.
 
 In questo modo verrà infatti visualizzata la maschera di configurazione
 dello sprix attraverso cui poter inserire tutti i parametri necessari
 per il suo corretto funzionamento
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_sprix.bmp](./assets/media/image226.png)
+![](./assets/media/image226.png)
 
 **NOTA BENE:** per maggiori informazioni relativamente a come gestire
 questo form si veda anche la sezione "Configurazione -- Gestione Sprix"
@@ -89,24 +89,24 @@ Nel caso in cui lo sprix dovesse ritornare degli errori, questi
 verrebbero visualizzati all'interno del form di esecuzione, nella parte
 bassa.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_sprix_errore.bmp](./assets/media/image227.png)
+![](./assets/media/image227.png)
 
 Nel caso in cui invece l'elaborazione vada a buon fine verrà aperto un
 nuovo tab del browser all'interno del quale poter visualizzare
 un'anteprima del contenuto del file restituito dall'elaborazione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\preview_documento.bmp](./assets/media/image228.png)
+![](./assets/media/image228.png)
 
 Tale risultato verrà poi memorizzato anche all'interno della sezione
 **"Risultati"**, sezione questa dove l'utente verrà automaticamente
 ridiretto al termine dell'elaborazione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_sprix_risultati.bmp](./assets/media/image229.png)
+![](./assets/media/image229.png)
 
 All'interno di questa sezione, accessibile direttamente anche attraverso
 l'apposito pulsante presente nella barra degli strumenti della sezione
 Sprix (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_pulsante_risultati.bmp](./assets/media/image230.png) ), l'utente avrà quindi la possibilità di gestire,
+![](./assets/media/image230.png) ), l'utente avrà quindi la possibilità di gestire,
 relativamente ai vari sprix, tutti i risultati generati dalle successive
 elaborazioni.
 
@@ -123,14 +123,14 @@ Una volta selezionato uno dei file dei risultati i pulsanti presenti
 nella contestuale barra degli strumenti consentiranno di:
 
 **Scarica Documento** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_pulsante_scarica_documento.bmp](./assets/media/image231.png) ): consente di effettuare il download del file dei
+![](./assets/media/image231.png) ): consente di effettuare il download del file dei
 risultati attualmente selezionato in elenco
 
 **Anteprima** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\area_riservata_documenti_anteprima_documento.bmp](./assets/media/image232.png) ):: consente di visualizzare un' anteprima del file
+![](./assets/media/image232.png) ):: consente di visualizzare un' anteprima del file
 dei risultati attualmente selezionato in elenco
 
 **Elimina** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sprix_elimina_documento.bmp](./assets/media/image233.png) ): consente di eliminare il file dei risultati
+![](./assets/media/image233.png) ): consente di eliminare il file dei risultati
 attualmente selezionato in elenco
 

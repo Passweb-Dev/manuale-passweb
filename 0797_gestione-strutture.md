@@ -22,13 +22,13 @@ struttura gestita, di:
 All'interno di questa pagina verrà quindi visualizzata la maschera
 **"Lista delle Strutture Articolo"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_strutture_articolo.bmp](./assets/media/image349.png)
+![](./assets/media/image349.png)
 
 contenente l'elenco di tutte le strutture codificate in Mexal attraverso
 l'apposito menu (*Magazzino -- Tabelle Aziendali -- Strutture
 Articolo*).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mexal_strutture_articolo.bmp](./assets/media/image350.png)
+![](./assets/media/image350.png)
 
 **NOTA BENE:** per maggiori informazioni relativamente alla gestione in
 Mexal di articoli strutturati si rimanda allo specifico manuale.
@@ -52,14 +52,14 @@ stessa.
 Una volta impostato un filtro di ricerca, per poterlo poi eliminare sarà
 sufficiente cliccare sull'icona raffigurante una piccola lente di
 ingrandimento con un -- all'interno (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina_filtro.bmp](./assets/media/image86.png) ) che comparirà in testata alla colonna
+![](./assets/media/image86.png) ) che comparirà in testata alla colonna
 in corrispondenza della quale è stato impostato il filtro stesso.
 
 Infine è anche possibile ordinare, in maniera crescente e/o decrescente,
 gli elementi in griglia cliccando semplicemente sull'icona raffigurante
 due piccole frecce posta anch' essa in testata ad ogni singola colonna
 della griglia (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_ordinamento_griglia.bmp](./assets/media/image87.png) )
+![](./assets/media/image87.png) )
 
 Selezionando una delle strutture presenti in elenco, compariranno nella
 contestuale barra degli strumenti, dei nuovi pulsanti mediante i quali
@@ -76,7 +76,7 @@ successivi capitoli di questo manuale.
 ##### MODIFICA STRUTTURA
 
 Il pulsante **"Modifica Struttura"**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_struttura.bmp](./assets/media/image351.png) ), presente nella barra degli strumenti
+(![](./assets/media/image351.png) ), presente nella barra degli strumenti
 della maschera "**Lista delle Strutture Articolo**" consente di
 impostare i principali parametri di configurazione della struttura
 selezionata.
@@ -84,7 +84,7 @@ selezionata.
 Cliccando su questo pulsante verrà visualizzata la maschera "**Modifica
 Struttura Articoli**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_struttura_articoli.bmp](./assets/media/image352.png)
+![](./assets/media/image352.png)
 
 all'interno della quale il campo:
 
@@ -231,7 +231,7 @@ impostando il campo **"Tipologia di Visualizzazione"** sul valore:
   determinate sulla base dei vari elementi presenti nel corrispondente
   livello della Cartella Abbinamenti Mexal dell\'articolo in esame.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\strutture_grafica_estesa.bmp](./assets/media/image353.png)
+![](./assets/media/image353.png)
 
 > **ATTENZIONE!** questo tipo di gestione offre all\'utente la
 > possibilità di creare e conseguentemente di acquistare un qualsiasi
@@ -252,7 +252,7 @@ impostando il campo **"Tipologia di Visualizzazione"** sul valore:
   visualizzati i restanti campi con i valori ammessi sulla base delle
   indicazioni precedenti
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\strutture_grafica_vincolata.bmp](./assets/media/image354.png)
+![](./assets/media/image354.png)
 
 > **ATTENZIONE!** in questo tipo di gestione l\'utente ha la possibilità
 > di arrivare a selezionare solamente determinate configurazioni di
@@ -266,7 +266,7 @@ impostando il campo **"Tipologia di Visualizzazione"** sul valore:
 > maschera "Modifica Struttura" precedentemente evidenziata un ulteriore
 > campo **"Generazione Elementi"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\strutture_generazione_elementi.bmp](./assets/media/image355.png)
+![](./assets/media/image355.png)
 
 > attraverso il quale poter decidere sulla base di che cosa dovranno
 > essere definite le diverse possibili configurazioni di prodotto finito
@@ -315,7 +315,7 @@ E' possibile selezionare una delle seguenti opzioni:
   Radio, Select) impostati per ogni singolo livello in fase di
   configurazione della struttura stessa.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\modalita_visualizzazione_lineare.bmp](./assets/media/image356.png)
+![](./assets/media/image356.png)
 
 > Per maggiori informazioni in merito si veda anche il successivo
 > capitolo "*Modifica Campi Struttura*" di questo manuale
@@ -345,7 +345,7 @@ E' possibile selezionare una delle seguenti opzioni:
 > strutturato sia gestito anche mediante la tabella Taglie/Colori di
 > Mexal).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modalita_visualizzazione_tabella_esplosa.bmp](./assets/media/image357.png)
+![](./assets/media/image357.png)
 
 > Nelle prime due colonne della tabella verranno quindi inseriti i
 > possibili valori degli ultimi due livelli della struttura o, nel caso
@@ -392,7 +392,7 @@ E' possibile selezionare una delle seguenti opzioni:
 > l'articolo strutturato dovesse essere gestito anche mediante la
 > tabella Taglie/Colori di Mexal).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modalita_visualizzazione_tabella_esplosa_uno.bmp](./assets/media/image358.png)
+![](./assets/media/image358.png)
 
 > Nelle prima colonna della tabella verranno quindi inseriti i possibili
 > valori dell' ultimo livello della struttura o, nel caso di articoli a
@@ -445,7 +445,7 @@ E' possibile selezionare una delle seguenti opzioni:
 > strutturato sia gestito anche mediante la tabella Taglie/Colori di
 > Mexal).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modalita_visualizzazione_tabella_esplosa_divisa.bmp](./assets/media/image359.png)
+![](./assets/media/image359.png)
 
 > I dati degli articoli figli, come detto, non saranno più raggruppati
 > all'interno di un\'unica colonna ma saranno inseriti in colonne
@@ -484,7 +484,7 @@ E' possibile selezionare una delle seguenti opzioni:
 > l'articolo strutturato dovesse essere gestito anche mediante la
 > tabella Taglie/Colori di Mexal).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modalita_visualizzazione_tabella_esplosa_divisa_uno.bmp](./assets/media/image360.png)
+![](./assets/media/image360.png)
 
 > Facendo dunque riferimento all'esempio precedentemente considerato, in
 > queste condizioni dovremo selezionare, innanzitutto, il colore del
@@ -517,7 +517,7 @@ E' possibile selezionare una delle seguenti opzioni:
   livello della struttura e in colonna l'ultimo livello della struttura
   o l'elenco delle Taglie/Colori gestite per il prodotto in esame
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\modalita_visualizzazione_tabella_matrice.bmp](./assets/media/image361.png)
+![](./assets/media/image361.png)
 
 > In queste condizioni ogni cella della tabella, determinata
 > dall'incrocio riga/colonna, individuerà un possibile articolo figlio i
@@ -647,12 +647,12 @@ uno dei seguenti valori:
 ##### MODIFICA CAMPI STRUTTURA
 
 Il pulsante "**Modifica Campi Struttura**"
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_campi_struttura.bmp](./assets/media/image362.png) ) presente nella barra degli strumenti
+(![](./assets/media/image362.png) ) presente nella barra degli strumenti
 della maschera "**Lista delle Strutture Articolo**" una vota selezionata
 una delle strutture presenti in elenco, consente di accedere alla
 maschera "**Modifica Campi della Struttura**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_campi_struttura.bmp](./assets/media/image363.png)
+![](./assets/media/image363.png)
 
 all'interno della quale poter configurare ogni singolo livello.
 
@@ -668,7 +668,7 @@ seguenti opzioni
   verranno stampate tutte all'interno della pagina web in un'apposita
   lista
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\configuratore_controllo_lista.bmp](./assets/media/image364.png)
+![](./assets/media/image364.png)
 
 > In queste condizioni l'utente dovrà quindi selezionare, cliccandoci
 > sopra, l'opzione desiderata tra quelle presenti in elenco
@@ -676,7 +676,7 @@ seguenti opzioni
 - **Radio:** in questo caso le diverse possibili opzioni di scelta
   verranno inserite all'interno di controlli di tipo Radio Button
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\configuratore_controllo_radio.bmp](./assets/media/image365.png)
+![](./assets/media/image365.png)
 
 > Anche in questo caso sarà quindi sufficiente selezionare l'opzione
 > desiderata semplicemente cliccandoci sopra
@@ -685,7 +685,7 @@ seguenti opzioni
   possibili opzioni semplicemente selezionandola tra quelle presenti
   all'interno di un apposito menu a tendina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\configuratore_controllo_select.bmp](./assets/media/image366.png)
+![](./assets/media/image366.png)
 
 **Abilita Ricerca:** consente di decidere se abilitare o meno la ricerca
 articoli in relazione alle opzioni presenti nel corrispondente livello
@@ -741,12 +741,12 @@ selezione.
 ##### MODIFICA ELEMENTI STRUTTURA
 
 Il pulsante **"Modifica Elementi Struttura"**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_elementi_struttura.bmp](./assets/media/image367.png) ) presente nella barra degli strumenti
+(![](./assets/media/image367.png) ) presente nella barra degli strumenti
 della maschera "**Lista delle Strutture Articolo"** consente di accedere
 alla sezione **"Campi Struttura"** contenente l'elenco di tutti i campi
 della struttura attualmente selezionata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\campi_struttura.bmp](./assets/media/image368.png)
+![](./assets/media/image368.png)
 
 **ATTENZIONE!** all'interno di questa maschera sono visualizzati
 solamente i campi strettamente appartenenti alla struttura in esame e
@@ -757,10 +757,10 @@ contestuale barra degli strumenti altri tre pulsanti **Modifica Elementi
 Campo, Importa File, Esporta** che consentono rispettivamente di:
 
 **Modifica Elementi Campo**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_elementi_campo.bmp](./assets/media/image369.png) ): consente di accedere alla maschera
+(![](./assets/media/image369.png) ): consente di accedere alla maschera
 "**Modifica Elementi Campo Struttura**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_elementi_campo_struttura.bmp](./assets/media/image370.png)
+![](./assets/media/image370.png)
 
 maschera questa all'interno della quale è possibile personalizzare il
 contenuto e il posizionamento delle diverse possibili opzioni di scelta
@@ -779,13 +779,13 @@ personalizzazione di tali opzioni, è possibile:
   opzione di scelta** agendo per questo sul campo evidenziato in figura
   (campo "**Titolo**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configuratore_grafico_etichetta.bmp](./assets/media/image371.png)
+![](./assets/media/image371.png)
 
 > In questo senso è bene sottolineare anche che, **a default, queste
 > etichette corrispondono ai valori definiti nella Cartella Abbinamenti
 > Mexal associata agli "articoli padre" della struttura in esame**.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\strutture_campi_statistici.bmp](./assets/media/image372.png)
+![](./assets/media/image372.png)
 
 > Facendo quindi riferimento all'esempio riportato in figura, in
 > relazione alle opzioni di scelta evidenziate, l'utente sul front end
@@ -822,7 +822,7 @@ personalizzazione di tali opzioni, è possibile:
   questo mediante il color picker messo a disposizione dal campo
   evidenziato in figura (campo "**Colore**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configuratore_grafico_colore.bmp](./assets/media/image373.png)
+![](./assets/media/image373.png)
 
 > Ovviamente il campo in esame non è obbligatorio ma si rivelerà
 > particolarmente utile nel momento in cui il livello di selezione della
@@ -853,7 +853,7 @@ personalizzazione di tali opzioni, è possibile:
   per questo sul pulsante "**Seleziona la Risorsa**" presente in
   corrispondenza del campo "**Immagine**" o "**Immagine Background**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configuratore_grafico_immagine.bmp](./assets/media/image374.png)
+![](./assets/media/image374.png)
 
 > In questo senso è bene sottolineare anche che nel caso in cui si
 > dovesse decidere di associare una determinata immagine all'opzione in
@@ -908,13 +908,13 @@ personalizzazione di tali opzioni, è possibile:
   tale descrizione all'interno della text area evidenziata in figura
   (campo "**Testo**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configuratore_grafico_descrizione.bmp](./assets/media/image375.png)
+![](./assets/media/image375.png)
 
 - Definire per l'opzione in esame la **posizione** che dovrà assumere,
   sul front end del sito, all'interno dell'elenco di selezione delle
   diverse possibili opzioni di scelta (campo "**Posizione**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configuratore_grafico_posizione.bmp](./assets/media/image376.png)
+![](./assets/media/image376.png)
 
 > Agendo sul campo "Posizione" è quindi possibile definire, per le
 > opzioni di scelta visualizzate sul front end del sito, un ordinamento
@@ -953,7 +953,7 @@ descrizione estesa, il risultato che si potrà ottenere sul front end del
 sito, in fase di configurazione del prodotto, sarà esattamente del tipo
 di quello di quello di seguito riportato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\configuratore_grafico_frontend.bmp](./assets/media/image377.png)
+![](./assets/media/image377.png)
 
 **ATTENZIONE!** in fase di sincronizzazione con il gestionale, qualora
 sia stato inserito nella Cartella Abbinamenti di un nuovo padre di
@@ -973,7 +973,7 @@ tutti gli articoli padre con associata una cartella abbinamenti
 contenente l'elemento in esame, oppure se tali personalizzazioni
 dovranno essere diverse per ogni singolo articolo padre.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\elementi_raggruppati_per_codice.bmp](./assets/media/image378.png)
+![](./assets/media/image378.png)
 
 Per comprendere meglio il funzionamento di questo parametro supponiamo
 di dover personalizzare il contenuto delle possibili opzioni di scelta
@@ -984,7 +984,7 @@ Supponiamo inoltre di avere all'interno di questo campo della cartella
 abbinamenti (campo di tipo Statistico) un codice C02 corrispondente al
 colore Grigio
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\es_cartella_colori.bmp](./assets/media/image379.png)
+![](./assets/media/image379.png)
 
 Supponiamo, infine, di avere diversi padri (es. SHPA, SHPB ecc...) con
 associata una cartella abbinamenti contente, per il campo in esame, lo
@@ -996,7 +996,7 @@ Struttura**" verranno poi elencati tutti gli elementi presenti per il
 campo in esame, in ogni cartella abbinamenti associata ad articoli padre
 esportati e gestiti sul sito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\es_cartella_colori2.bmp](./assets/media/image380.png)
+![](./assets/media/image380.png)
 
 Come evidenziato nella figura sopra riportata, in queste condizioni, non
 verrà però fatta alcuna distinzione in base allo specifico articolo
@@ -1013,7 +1013,7 @@ codice**" NON venga selezionato gli elementi della successiva sezione
 loro codice ma, al contrario, saranno distinti per ogni singolo articolo
 padre esportato e gestito all'interno del sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\es_cartella_colori3.bmp](./assets/media/image381.png)
+![](./assets/media/image381.png)
 
 In queste condizioni sarà quindi possibile personalizzare l'opzione di
 scelta relativa al codice C02 presente nella cartella abbinamenti dei
@@ -1036,7 +1036,7 @@ l'elemento "Grigio Opaco" (con la relativa immagine e descrizione) nel
 caso in cui abbia inizialmente selezionato l'articolo padre FAD02.
 
 **Importa da File**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_importa_da_file.bmp](./assets/media/image382.png) ): consente di impostare, per il campo
+(![](./assets/media/image382.png) ): consente di impostare, per il campo
 della struttura attualmente selezionato, gli elementi di
 personalizzazione delle possibili opzioni di scelta, in maniera massiva
 mediante l'upload di un file .csv o .txt.
@@ -1044,7 +1044,7 @@ mediante l'upload di un file .csv o .txt.
 Cliccando su questo pulsante verrà infatti aperta la maschera "**File
 Elementi Campo Struttura**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\file_elementi_campo_struttura.bmp](./assets/media/image383.png)
+![](./assets/media/image383.png)
 
 all'interno della quale poter indicare:
 
@@ -1152,14 +1152,14 @@ Infine è bene ricordare anche che:
 > anche come separatore sia necessariamente racchiuso da virgolette
 
 **Esporta**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_esporta_testo.bmp](./assets/media/image136.png) ): consente di esportare gli elementi di
+(![](./assets/media/image136.png) ): consente di esportare gli elementi di
 personalizzazione delle possibili opzioni di scelta attualmente
 utilizzate per il campo in esame all'interno di un file .csv.
 
 Cliccando su questo pulsante verrà infatti aperta la maschera
 "**Esportazione Elementi Campo Struttura**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\esportazione_elementi_campo_struttura.bmp](./assets/media/image384.png)
+![](./assets/media/image384.png)
 
 all'interno della quale poter selezionare la lingua in relazione alla
 quale esportare le possibili opzioni di scelta (campo **Lingua**), il
@@ -1191,12 +1191,12 @@ di Visualizzazione" vincolante al precedente livello con "Generazione
 Elementi" Manuale, sarà infatti attivo all'interno della maschera
 "**Lista delle Strutture Articolo**" precedentemente esaminata, anche il
 pulsante **"Modifica Elementi Manuale"** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_elementi_manuale.bmp](./assets/media/image385.png) ).
+![](./assets/media/image385.png) ).
 
 Cliccando su questo pulsante verrà visualizzata la maschera **"Lista
 degli Elementi dell'Articolo Strutturato"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_elementi_articolo1.bmp](./assets/media/image386.png)
+![](./assets/media/image386.png)
 
 attraverso cui poter definire manualmente tutte le diverse possibili
 configurazioni ed i relativi prodotti finiti cui potrà arrivare un
@@ -1219,12 +1219,12 @@ prodotto finito effettivamente gestibile.
 
 Per aggiungere un nuovo elemento (articolo figlio) alla lista sarà
 sufficiente cliccare sul pulsante **"Aggiungi Elemento"**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_elemento.bmp](./assets/media/image387.png)) presente nella barra degli strumenti.
+(![](./assets/media/image387.png)) presente nella barra degli strumenti.
 
 In questo modo verrà infatti visualizzata la maschera **"Elemento
 Struttura"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\elemento_struttura.bmp](./assets/media/image388.png)
+![](./assets/media/image388.png)
 
 grazie al quale poter definire la nuova possibile configurazione di
 prodotto e l'eventuale articolo (già presente in Passweb) da associare a
@@ -1246,7 +1246,7 @@ Alternativo**" consentirà poi, se necessario, di associare a questa
 stessa configurazione uno specifico articolo già presente all'interno
 delle anagrafiche di Passweb.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\elemento_struttura2.bmp](./assets/media/image389.png)
+![](./assets/media/image389.png)
 
 **Articolo Alternativo**: consente di indicare il codice di uno
 specifico articolo che dovrà essere associato alla configurazione di
@@ -1344,11 +1344,11 @@ maschera "**Lista degli Elementi dell'Articolo Strutturato**" consentono
 rispettivamente di:
 
 - **Cancella Elemento**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_cancella_elemento.bmp](./assets/media/image390.png)) **:** consente di eliminare la
+  (![](./assets/media/image390.png)) **:** consente di eliminare la
   configurazione di prodotto attualmente selezionata in elenco.
 
 - **Svuota**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_svuota.bmp](./assets/media/image131.png)) **:** consente di eliminare tutte le
+  (![](./assets/media/image131.png)) **:** consente di eliminare tutte le
   configurazioni di prodotto attualmente codificate, svuotando
   interamente l'elenco sottostante.
 
@@ -1359,7 +1359,7 @@ rispettivamente di:
 > gestionale.
 
 - **Modifica Elemento**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_elemento.bmp](./assets/media/image391.png)) **:** consente di modificare la
+  (![](./assets/media/image391.png)) **:** consente di modificare la
   configurazione di prodotto attualmente selezionata in elenco. Nello
   specifico sarà però possibile modificare la sola associazione tra la
   configurazione di prodotto in esame e l'eventuale "Articolo
@@ -1370,14 +1370,14 @@ rispettivamente di:
 > andranno a sovrascrivere quelli precedentemente impostati.
 
 - **Esporta**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_esporta_testo.bmp](./assets/media/image136.png)): consente di esportare all'interno di
+  (![](./assets/media/image136.png)): consente di esportare all'interno di
   un apposito file csv le configurazioni di prodotto finito attualmente
   presenti in elenco e l'eventuale codice alternativo ad esse associato.
 
 > Cliccando su questo pulsante verrà infatti visualizzata la maschera
 > "**Esportazione Codici Articoli Figlio**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\esportazione_codici_figli_manuale.bmp](./assets/media/image392.png)
+![](./assets/media/image392.png)
 
 > All'interno della quale poter selezionare il carattere da utilizzare
 > come separatore dei vari campi nel file csv di esportazione
@@ -1386,7 +1386,7 @@ rispettivamente di:
 > utilizzato anche per l'analoga funzionalità di importazione
 
 - **Importa da File**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_importa_da_file.bmp](./assets/media/image382.png)) **:** consente di importare un file
+  (![](./assets/media/image382.png)) **:** consente di importare un file
   all'interno del quale poter indicare una o più configurazioni di
   prodotto finito che dovranno poi essere inserite nell'elenco
   sottostante.
@@ -1443,7 +1443,7 @@ poter decidere come dovrà comportarsi l'applicazione in relazione a
 codici articolo già presenti in elenco ma non specificatamente indicati
 all'interno del file.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\strutture_importa_file.bmp](./assets/media/image393.png)
+![](./assets/media/image393.png)
 
 **Elimina combinazioni non presenti nel file**: se flaggato tutte le
 combinazioni di codici articolo figlio già inserite in Passweb (e
@@ -1490,7 +1490,7 @@ nelle condizioni indicate (vincolata al precedente livello, generazione
 elementi manuali e almeno un campo della struttura abilitato per la
 funzionalità di ricerca)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_strutture_aggiorna_ricerca.bmp](./assets/media/image394.png)
+![](./assets/media/image394.png)
 
 Questo per evitare che a seguito di una qualsiasi modifica sugli
 elementi della struttura manuale (inserimenti, cancellazioni, modifiche

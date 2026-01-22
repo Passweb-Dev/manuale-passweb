@@ -81,7 +81,7 @@ Cliente per Ordini Incompleti da Logistica Amazon**" presente nella
 maschera di configurazione del proprio Account Amazon (sezione
 "**Ordini**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_gestione_ordini_afn.bmp](./assets/media/image305.png)
+![](./assets/media/image305.png)
 
 campo questo all'interno del quale poter inserire il codice conto di un
 utente del gestionale cui verranno associati in maniera automatica tutti

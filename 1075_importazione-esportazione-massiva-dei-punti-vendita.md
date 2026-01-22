@@ -17,23 +17,23 @@ avvenire, dipendentemente dalla tipologia di gestionale utilizzata,
 secondo quanto indicato nel precedente capitolo di questo manuale.
 
 I due pulsanti **Esporta**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_esporta.bmp](./assets/media/image367.png) ) / **Importa**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_importa.bmp](./assets/media/image368.png) ) presenti nella barra degli strumenti
+(![](./assets/media/image367.png) ) / **Importa**
+(![](./assets/media/image368.png) ) presenti nella barra degli strumenti
 della machera "Lista dei Punti Vendita" consentono di avviare le
 relative procedure.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\import_esport_punti_vendita.bmp](./assets/media/image369.png)
+![](./assets/media/image369.png)
 
 Nello specifico dunque il pulsante:
 
 **Esporta**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_esporta.bmp](./assets/media/image367.png) ) consente di esportare, all'interno di un apposito
+(![](./assets/media/image367.png) ) consente di esportare, all'interno di un apposito
 file .csv i dati di tutti i Punti Vendita attualmente presenti in
 elenco. Cliccando su questo pulsante verrà infatti visualizzata la
 maschera "**Esportazione Punti Vendita**" all'interno della quale poter
 configurare l'esportazione dei dati.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\esporta_punti_vendita.bmp](./assets/media/image370.png)
+![](./assets/media/image370.png)
 
 Nel caso di sito in multilingua è possibile selezionare, tra quelle
 attualmente gestite, la lingua in relazione alla quale dovranno essere
@@ -83,14 +83,14 @@ All'interno del file di esportazione saranno presenti i seguenti campi:
 - **descrizione**: descrizione, nella lingua indicata, del punto vendita
 
 **Importa**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_importa.bmp](./assets/media/image368.png) ): consente di importare, e
+(![](./assets/media/image368.png) ): consente di importare, e
 conseguentemente di modificare, in maniera massiva i dati di tutti i
 Punti Vendita attualmente presenti in elenco.
 
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 "**Importa Punti Vendita**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\importa_punti_vendita.bmp](./assets/media/image371.png)
+![](./assets/media/image371.png)
 
 all'interno della quale poter configurare l'importazione dei dati in
 oggetto. In particolare il campo

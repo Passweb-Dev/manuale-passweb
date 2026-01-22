@@ -38,7 +38,7 @@ variabile in questione:
 3.  Nella successiva maschera impostare i campi di configurazione della
     variabile come di seguito indicato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_remarketing_dinamico_1.bmp](./assets/media/image218.png)
+![](./assets/media/image218.png)
 
 - **Nome varabile di livello dati**: impostare sul valore
   "**remarketing_ads.value**"
@@ -49,7 +49,7 @@ variabile in questione:
     remarketing_ads.value**") utilizzando l'apposito campo presente
     nella parte alta della pagina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_remarketing_dinamico_2.bmp](./assets/media/image219.png)
+![](./assets/media/image219.png)
 
 > e cliccare sul pulsante "**Salva**"
 

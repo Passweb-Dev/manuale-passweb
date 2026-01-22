@@ -9,7 +9,7 @@ in maniera tale da poter visualizzare tutti i parametri necessari per
 realizzare l'integrazione sito-gestionale in questa specifica
 configurazione di prodotto.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_gestionale_generale.bmp](./assets/media/image4.png)
+![](./assets/media/image4.png)
 
 In queste condizioni, dunque, sarà necessario specificare un valore per
 i seguenti parametri:
@@ -68,7 +68,7 @@ riferimento il parametro "**Aggiorna descrizioni in ... dal
 Gestionale**" presente all'interno della maschera "**Parametri di
 Sincronizzazione**" del Wizard
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lingua_installazione.bmp](./assets/media/image5.png)
+![](./assets/media/image5.png)
 
 **Sottodominio Predesk:** codice identificativo dell\'installazione
 Mexal all\'interno della web Farm Passepartout, a cui collegare il sito
@@ -95,7 +95,7 @@ possibile selezionare uno dei seguenti valori:
   il parametro "**Gruppo merceologico**" presente nella maschera
   "**Altri dati anagrafici**" della relativa anagrafica articolo
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mexal_categoria_primaria_1.bmp](./assets/media/image6.png)
+![](./assets/media/image6.png)
 
 - **Secondaria:** selezionando questa opzione all'interno del sito web
   verrà utilizzata una categorizzazione articoli realizzata (sempre
@@ -108,13 +108,13 @@ possibile selezionare uno dei seguenti valori:
   senso l'apposito parametro presente nell'anagrafica gestionale della
   categoria stessa)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mexal_categoria_secondaria_1.bmp](./assets/media/image7.png)
+![](./assets/media/image7.png)
 
 - l'associazione **articolo -- categoria** sarà quella definita mediante
   il parametro "**Categoria WEB**" presente nella maschera "**Altri dati
   anagrafici**" della relativa anagrafica articolo
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mexal_categoria_secondaria_2.bmp](./assets/media/image8.png)
+![](./assets/media/image8.png)
 
 Per maggiori informazioni relativamente alla possibilità di definire
 all'interno del gestionale una categorizzazione articoli ad hoc per il
@@ -153,7 +153,7 @@ Infine, all'interno della sezione "**Web API**" è possibile impostare le
 credenziali di un utente Mexal appositamente abilitato alla gestione
 delle relative API
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\parametri_conf_Mexal_webAPI.bmp](./assets/media/image9.png)
+![](./assets/media/image9.png)
 
 Per maggiori informazioni relativamente a come poter effettuare delle
 chiamate alle Web API di Mexal all'interno del proprio sito Passweb si

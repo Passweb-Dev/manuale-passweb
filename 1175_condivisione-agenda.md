@@ -13,13 +13,13 @@ condivisione
 
 Per eseguire questo tipo di operazione è necessario cliccare sul
 pulsante "**Condividi Agenda**" (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_condivisione.bmp](./assets/media/image140.png) **)** presente nella parte bassa della
+![](./assets/media/image140.png) **)** presente nella parte bassa della
 pagina
 
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 **"Condividi Agenda"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\condivisione_agenda.bmp](./assets/media/image158.png)
+![](./assets/media/image158.png)
 
 all'interno della quale poter visualizzare gli utenti con i quali è
 attualmente condivisa la propria agenda oltre che, ovviamente, poterne
@@ -31,7 +31,7 @@ cliccare sul pulsante "**Inserisci Utente**" (
 albero e cliccare, infine, sul pulsante "Conferma" presente nella parte
 alta della maschera di selezione degli utenti
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\elenco_utenti_agende_condivise.bmp](./assets/media/image160.png)
+![](./assets/media/image160.png)
 
 Nello specifico, sarà quindi possibile condividere la propria agenda
 con:
@@ -60,7 +60,7 @@ la propria agenda, nella parte bassa della maschera di condivisione,
 verrà abilitata un'ulteriore sezione mediante la quale poter specificare
 i permessi da assegnare
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\condivisione_agenda_permessi.bmp](./assets/media/image161.png)
+![](./assets/media/image161.png)
 
 Relativamente ai singoli permessi occorre poi sottolineare che:
 
@@ -119,7 +119,7 @@ sufficiente aprire nuovamente la maschera di condivisione dell'agenda,
 selezionare l'utente e/o il gruppo desiderato tra quelli con cui si era
 precedentemente deciso di condividere l'Agenda ed eliminarlo dall'elenco
 cliccando sul pulsante "**Elimina Utente**" (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_pulsante_elimina_utenti.bmp](./assets/media/image53.png) )
+![](./assets/media/image53.png) )
 
 Infine, come già evidenziato nei precedenti capitoli di questo manuale,
 per poter caricare all'interno della propria area riservata una delle
@@ -127,7 +127,7 @@ agende condivise, sarà sufficiente visualizzare la colonna Opzioni e
 selezionare l'utente per il quale si desidera caricare l'Agenda, tra
 quelli disponibili all'interno del campo "**Agende Condivise**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\agende_condivise_selezione.bmp](./assets/media/image162.png)
+![](./assets/media/image162.png)
 
 **ATTENZIONE!** all'interno del campo "Agende Condivise" saranno
 visualizzati ovviamente, soltanto gli utenti che hanno deciso di
@@ -139,7 +139,7 @@ quella specifica Agenda e, sulla destra, una specifica icona atta ad
 indicare che quella attualmente caricata non è la propria Agenda ma
 bensì una di quelle condivise
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\agende_condivise_icona.bmp](./assets/media/image129.png)
+![](./assets/media/image129.png)
 
 **ATTENZIONE!** **nel caso in cui sia stata correttamente configurata e
 attivata l'integrazione con Google Calendar, la creazione di una nuova

@@ -4,7 +4,7 @@
 
 Il Componente **"Campo di Testo"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\campo_testo_login_res.bmp](./assets/media/image67.png)
+![](./assets/media/image67.png)
 
 consente di inserire all'interno del pannello di login il campo che
 dovrà poi essere utilizzato dall'utente, in fase di autenticazione al
@@ -13,14 +13,14 @@ sito, per inserire la propria username.
 **Tale campo corrisponderà quindi con quello utilizzato all'interno del
 gestionale per memorizzare la login utente.**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\campo_testo_username.bmp](./assets/media/image68.png)
+![](./assets/media/image68.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\horeca_campo_testo_login.bmp](./assets/media/image69.png)
+![](./assets/media/image69.png)
 
 Inserendo questo Componente all'interno del pannello di login verrà
 aperta **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_iu_username_configurazione_res.bmp](./assets/media/image70.png)
+![](./assets/media/image70.png)
 
 suddivisa in varie sezioni.
 

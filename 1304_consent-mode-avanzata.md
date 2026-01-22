@@ -112,7 +112,7 @@ essere impostati mediante i relativi parametri presenti all'interno del
 Wizard del proprio sito Passweb (menu "**Sito -- Preferenze**", tab
 "**Tracciamento Dati**", sezione "**Valori Consent Default**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\valori_consent_default.bmp](./assets/media/image13.png)
+![](./assets/media/image13.png)
 
 Sotto questo punto di vista è bene sottolineare che, come
 precedentemente evidenziato, generalmente il valore di default dei vari

@@ -12,7 +12,7 @@ Dopo aver selezionato la Sala in esame, verrà infatti visualizzata
 all'interno del sito, la piantina associata, nel gestionale, alla sala
 stessa.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\configurazione_sala_tavolo_1.bmp](./assets/media/image360.png)
+![](./assets/media/image360.png)
 
 I Tavoli presenti all'interno della piantina rifletteranno esattamente
 la stessa configurazione, a livello di dimensioni, forme e disposizione,
@@ -27,7 +27,7 @@ Per ogni singolo tavolo verrà visualizzato
 
 - Il numero di coperti massimi
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\configurazione_sala_tavolo_2.bmp](./assets/media/image361.png)
+![](./assets/media/image361.png)
 
 **Tali informazioni (numero del tavolo, coperti minimi e coperti
 massimi) verranno prelevate, e dovranno quindi essere impostate,
@@ -37,14 +37,14 @@ Nello specifico, per quel che riguarda il numero del tavolo ed i coperti
 massimi, tali dati potranno essere inseriti direttamente in fase di
 creazione del tavolo
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\configurazione_sala_tavolo_3.bmp](./assets/media/image362.png)
+![](./assets/media/image362.png)
 
 Per quel che riguarda invece il numero di **coperti minimi** questo dato
 dovrà essere impostato utilizzando il corrispondente parametro,
 appositamente riservato a Passweb, presente nel "Dettaglio" della
 configurazione dello specifico tavolo.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\configurazione_sala_tavolo_4.bmp](./assets/media/image363.png)
+![](./assets/media/image363.png)
 
 **Coperti minimi Passweb:** consente di definire per il tavolo in esame
 un ben preciso numero di coperti minimi.
@@ -114,7 +114,7 @@ prenotazione, l'utente verrebbe bloccato e gli verrebbe visualizzato un
 apposito messaggio per informarlo del perché la sua prenotazione non può
 andare a buon fine:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\configurazione_sala_tavolo_5.bmp](./assets/media/image364.png)
+![](./assets/media/image364.png)
 
 Se le condizioni per poter effettuare la prenotazione dovessero invece
 essere pienamente soddisfatte, dopo aver selezionato anche il tavolo o i
@@ -122,7 +122,7 @@ tavoli desiderati cliccando sul pulsante "**Procedi**" l'utente verrà
 immediatamente ricondotto alla pagina di riepilogo per la conferma della
 sua prenotazione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\menu_conferma_prenotazione.bmp](./assets/media/image358.png)
+![](./assets/media/image358.png)
 
 I dati della prenotazione saranno inserito all'interno di una griglia
 responsiva le cui colonne possono essere definite direttamente
@@ -142,5 +142,5 @@ stato di "**CONFERMATA**"
 > gestionale), l'utente verrebbe avvisato con un apposito messaggio e la
 > sua prenotazione verrebbe bloccata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\configurazione_sala_tavolo_6.bmp](./assets/media/image365.png)
+![](./assets/media/image365.png)
 

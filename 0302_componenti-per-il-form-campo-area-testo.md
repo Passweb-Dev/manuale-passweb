@@ -8,7 +8,7 @@ del Form un campo testuale liberamente compilabile dal cliente.
 Rilasciando il componente all'interno del form si aprirà **la sua
 maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_campo_area_testo_modifica_res.bmp](./assets/media/image141.png)
+![](./assets/media/image141.png)
 
 suddivisa in varie sezioni.
 

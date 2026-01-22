@@ -5,13 +5,13 @@
 Il Componente **"Carrello Custom"** può **essere inserito unicamente
 nella della pagina "Carrello"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_carrello_custom_res.bmp](./assets/media/image128.png)
+![](./assets/media/image128.png)
 
 dove mostrerà, all'interno di una griglia responsiva, tutti gli articoli
 selezionati all\'interno del negozio, offrendo quindi un riassunto di
 ciò che l'utente sta effettivamente per acquistare.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\componente_ecommerce_carrello_esempio_res.bmp](./assets/media/image129.png)
+![](./assets/media/image129.png)
 
 Inoltre, dipendentemente da chi sta effettuando l'ordine (un Cliente
 oppure un Agente) e, ovviamente, da come sono stati settati i parametri
@@ -49,7 +49,7 @@ componente, vanno fatte le seguenti considerazioni:
   gestionale. Nel caso di Mexal, ad esempio, è possibile impostare il
   numero di decimali gestiti direttamente sul singolo articolo.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\decimali_quantita_articoli.bmp](./assets/media/image130.png)
+![](./assets/media/image130.png)
 
 > **NOTA BENE:** per maggiori informazioni relativamente a come gestire
 > in Mexal o su uno dei gestionali Ho.Re.Ca i decimali sulle quantità
@@ -75,7 +75,7 @@ componente, vanno fatte le seguenti considerazioni:
 > direttamente all'interno del carrello e senza dover per forza di cose
 > passare dalla relativa scheda prodotto.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\articoli_a_taglie_carrello_res.bmp](./assets/media/image131.png)
+![](./assets/media/image131.png)
 
 > **ATTENZIONE**! Nel caso in cui si sia deciso di gestire le
 > disponibilità articolo con i valori presenti nel database di Passweb
@@ -114,7 +114,7 @@ componente "**Campo Testo**" che deve essere necessariamente inserito
 tra i Componenti interni al Carrello e mappato sul campo "**Note**", per
 gestire correttamente questo tipo di informazione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\carrello_agente_res.bmp](./assets/media/image132.png)
+![](./assets/media/image132.png)
 
 Sfruttando tale campo l'utente avrà la possibilità di inserire, per
 ciascuno degli articoli che intende acquistare, una specifica nota
@@ -225,7 +225,7 @@ visualizzato al verificarsi delle seguenti condizioni:
 - Chi effettua l'ordine è un Agente opportunamente abilitato alla
   modifica dei Prezzi
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\carrello_modifica_prezzo.bmp](./assets/media/image133.png)
+![](./assets/media/image133.png)
 
 L'Agente opportunamente abilitato alla modifica dei prezzi avrà quindi
 la possibilità, mediante il campo evidenziato in figura, di impostare
@@ -240,7 +240,7 @@ visualizzato un apposito messaggio di errore per informarlo che il
 valore impostato non è corretto **e il prezzo dell'articolo verrà
 automaticamente impostato sul prezzo minimo consentito.**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\carrello_modifica_prezzo2.bmp](./assets/media/image134.png)
+![](./assets/media/image134.png)
 
 **ATTENZIONE! Il prezzo minimo gestito per un certo articolo non è
 legato ad un eventuale sconto massimo impostato per l'articolo stesso**
@@ -280,7 +280,7 @@ componente "**Campo Data**" che deve essere necessariamente inserito tra
 i Componenti interni al Carrello e mappato sul campo "**Data Scadenza**"
 per poter gestire correttamente questo tipo di informazione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\data_scadenza_per_riga_res.bmp](./assets/media/image135.png)
+![](./assets/media/image135.png)
 
 Grazie a questo campo l'utente avrà quindi la possibilità di indicare
 una specifica data di consegna/scadenza per ogni singolo articolo

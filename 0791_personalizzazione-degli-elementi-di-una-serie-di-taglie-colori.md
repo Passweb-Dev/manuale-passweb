@@ -19,14 +19,14 @@ della maschera **"Lista delle Serie"** precedentemente analizzata, la
 serie in esame e cliccare poi sul pulsante **Modifica Taglie/Colori**
 (![Videate\\pulsante_modifica_taglie_colori.bmp](./assets/media/image323.png) ) presente nella contestuale barra degli strumenti.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_taglie_colori_generale.bmp](./assets/media/image324.png)
+![](./assets/media/image324.png)
 
 In questo modo sarà infatti possibile accedere alla maschera **"Modifica
 Elementi della Serie"** attraverso la quale poter impostare le
 descrizioni i colori e l'ordinamento dei vari elementi componenti la
 serie attualmente selezionata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_elementi_serie.bmp](./assets/media/image325.png)
+![](./assets/media/image325.png)
 
 Nello specifico, per ciascun elemento della serie presente all'interno
 di questa maschera il campo:
@@ -112,7 +112,7 @@ background**" saranno poi quelli visualizzati sul front end del sito:
   componente "**Dati Articolo**" mappato sul campo "**Taglie**" o
   "**Taglie Disponibili**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dati_articolo_taglie_colori.bmp](./assets/media/image326.png)
+![](./assets/media/image326.png)
 
 > Per maggiori informazioni in merito alla possibilità di inserire in
 > una cella articolo o nella scheda articolo le taglie/colori
@@ -123,7 +123,7 @@ background**" saranno poi quelli visualizzati sul front end del sito:
 
 - nei controlli di selezione della taglia / colore da acquistare
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\selezione_colore_acquisto.bmp](./assets/media/image327.png)
+![](./assets/media/image327.png)
 
 - nel momento in cui si dovesse decidere di implementare dei filtri di
   ricerca articolo basati sulle taglie/colori utilizzando in questo
@@ -131,7 +131,7 @@ background**" saranno poi quelli visualizzati sul front end del sito:
   "**Filtro Lista**" mappati sul campo "**Taglie**" o "**Taglie
   Disponibili**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ricerca_articolo_taglie_colori.bmp](./assets/media/image328.png)
+![](./assets/media/image328.png)
 
 > **ATTENZIONE!** il colore associato al relativo elemento della serie
 > di taglie/colori verrà visualizzata solo all'interno di **Filtri
@@ -150,16 +150,16 @@ massivamente i parametri di configurazione (descrizione, posizione,
 colore ...) dei vari elementi componenti la serie attualmente
 selezionata in elenco sarà necessario cliccare sul pulsante "**Importa
 Taglie**"
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_importa_taglie.bmp](./assets/media/image322.png) ) presente anch'esso nella relativa barra degli
+(![](./assets/media/image322.png) ) presente anch'esso nella relativa barra degli
 strumenti
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\importa_taglie_generale.bmp](./assets/media/image329.png)
+![](./assets/media/image329.png)
 
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 **"File Taglie"** mediante la quale poter effettuare l'upload del file
 contenente tutte le informazioni desiderate.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\file_taglie.bmp](./assets/media/image330.png)
+![](./assets/media/image330.png)
 
 Nello specifico il campo:
 
@@ -249,10 +249,10 @@ che dovrà poi essere la struttura del file di importazione affinché la
 relativa procedura possa terminare con successo
 
 Cliccando quindi sul pulsante "**Esporta Taglie**"
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_esporta_taglie.bmp](./assets/media/image321.png) ) presente nella relativa barra degli strumenti verrà
+(![](./assets/media/image321.png) ) presente nella relativa barra degli strumenti verrà
 visualizzata la maschera "**Esportazione Taglie**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\esportazione_taglie.bmp](./assets/media/image332.png)
+![](./assets/media/image332.png)
 
 all'interno della quale poter configurare l'esportazione dei dati.
 

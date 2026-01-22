@@ -38,28 +38,28 @@ Per ogni nuova regola è quindi possibile definire:
 I pulsanti presenti nella barra degli strumenti della maschera "**Regole
 di valorizzazione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\regole_valorizzazione_cliente.bmp](./assets/media/image78.png)
+![](./assets/media/image78.png)
 
 consentono rispettivamente di:
 
 **Modifica Regola** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_regola.bmp](./assets/media/image79.png) ): consente di modificare la regola attualmente
+![](./assets/media/image79.png) ): consente di modificare la regola attualmente
 selezionata in elenco
 
 **Elimina Regola** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_regola.bmp](./assets/media/image80.png) ): consente di eliminare la regola
+![](./assets/media/image80.png) ): consente di eliminare la regola
 attualmente selezionata in elenco
 
 **Nuova Regola** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuova_regola.bmp](./assets/media/image81.png) ): consente di creare una nuova regola di
+![](./assets/media/image81.png) ): consente di creare una nuova regola di
 valorizzazione degli Attributi Utente
 
 **Nuova Regola Condizioni** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuova_regola_condizioni.bmp](./assets/media/image82.png) ): consente di creare una nuova regola di
+![](./assets/media/image82.png) ): consente di creare una nuova regola di
 valorizzazione delle Condizioni Commerciali Utente
 
 **Applica Regola** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_applica_regola.bmp](./assets/media/image83.png) ): consente di applicare manualmente la regola
+![](./assets/media/image83.png) ): consente di applicare manualmente la regola
 attualmente selezionata in elenco
 
 Per maggiori informazioni relativamente alle modalità di creazione delle
@@ -76,13 +76,13 @@ all'interno della regola stessa
 
 Per creare una nuova Regola Utente di questo tipo sarà necessario per
 prima cosa cliccare sul pulsante **Nuova Regola** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuova_regola.bmp](./assets/media/image81.png) ) presente nella barra degli strumenti della maschera
+![](./assets/media/image81.png) ) presente nella barra degli strumenti della maschera
 "**Regole di valorizzazione**"
 
 In questo modo verrà infatti visualizzata la maschera di creazione della
 nuova regola
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuova_regola_cliente.bmp](./assets/media/image84.png)
+![](./assets/media/image84.png)
 
 mediante la quale poter definire i filtri di selezione utente, gli
 attributi coinvolti nella regola e i valori che questi attributi
@@ -102,7 +102,7 @@ A questo punto sarà quindi necessario:
 > necessario cliccare sul pulsante "**Aggiorna**" in modo tale da
 > inserire i campi selezionati all'interno del form sottostante.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuova_regola_cliente2.bmp](./assets/media/image85.png)
+![](./assets/media/image85.png)
 
 2.  **Definire il criterio di selezione degli utenti del sito in
     relazione ai quali dovrà essere applicata la regola che si sta
@@ -115,7 +115,7 @@ A questo punto sarà quindi necessario:
 > all'interno di un corrispondente menu a tendina, tutti i campi che
 > potranno essere utilizzati nel filtro di selezione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuova_regola_cliente3.bmp](./assets/media/image86.png)
+![](./assets/media/image86.png)
 
 > Per maggiori informazioni relativamente alla creazione di un filtro
 > utente si veda anche la sezione *"Utenti -- Gruppi Utenti Sito --
@@ -134,7 +134,7 @@ A questo punto sarà quindi necessario:
 > corrispondenza del relativo campo presente all'interno della sezione
 > "**Regola**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuova_regola_cliente6.bmp](./assets/media/image87.png)
+![](./assets/media/image87.png)
 
 4.  **Definire il criterio di esecuzione della regola.**
 
@@ -157,7 +157,7 @@ A questo punto sarà quindi necessario:
 > regola dovrà invece essere necessariamente applicata in maniera
 > manuale cliccando sul corrispondente pulsante (**Applica Regola**)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuova_regola_cliente8.bmp](./assets/media/image88.png)
+![](./assets/media/image88.png)
 
 Il pulsante "**Salva**", presente nella parte bassa della maschera,
 consente di salvare la regola appena creata e tornare così alla maschera
@@ -187,13 +187,13 @@ gestionale.
 
 Per creare una nuova Regola Utente di questo tipo sarà necessario per
 prima cosa cliccare sul pulsante **Nuova Regola Condizioni**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuova_regola_condizioni.bmp](./assets/media/image82.png)) presente nella barra degli strumenti della maschera
+(![](./assets/media/image82.png)) presente nella barra degli strumenti della maschera
 "**Regole di valorizzazione**"
 
 In questo modo verrà infatti visualizzata la maschera di creazione della
 nuova regola
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuova_regola_condizioni_commerciali.bmp](./assets/media/image89.png)
+![](./assets/media/image89.png)
 
 mediante la quale poter definire i filtri di selezione utente, i campi
 delle condizioni commerciali coinvolti nella regola e i valori che
@@ -213,7 +213,7 @@ A questo punto sarà quindi necessario:
 > necessario cliccare sul pulsante "**Aggiorna**" in modo tale da
 > inserire i campi selezionati all'interno del form sottostante (2).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuova_regola_condizioni2.bmp](./assets/media/image90.png)
+![](./assets/media/image90.png)
 
 2.  **Definire il criterio di selezione degli utenti del sito in
     relazione ai quali dovrà essere applicata la regola che si sta
@@ -226,7 +226,7 @@ A questo punto sarà quindi necessario:
 > all'interno di un corrispondente menu a tendina, tutti i campi che
 > potranno essere utilizzati nel filtro di selezione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuova_regola_condizioni3.bmp](./assets/media/image91.png)
+![](./assets/media/image91.png)
 
 > Per maggiori informazioni relativamente alla creazione di un filtro
 > utente si veda anche la sezione *"Utenti -- Gruppi Utenti Sito --
@@ -245,7 +245,7 @@ A questo punto sarà quindi necessario:
 > corrispondenza del relativo campo presente all'interno della sezione
 > "**Regola**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuova_regola_condizioni4.bmp](./assets/media/image92.png)
+![](./assets/media/image92.png)
 
 **ATTENZIONE! Le regole di valorizzazione delle condizioni commerciali
 potranno essere applicate solo ed esclusivamente in maniera manuale**
@@ -255,5 +255,5 @@ sarà quindi necessario tornare alla maschera "Regole di valorizzazione",
 selezionarla tra quelle presenti in elenco e cliccare sul pulsante
 **Applica Regola** presente nella contestuale barra degli strumenti
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuova_regola_condizioni5.bmp](./assets/media/image93.png)
+![](./assets/media/image93.png)
 

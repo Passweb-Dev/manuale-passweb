@@ -6,7 +6,7 @@ All'interno della sezione "**Codici Gift Card**" è possibile
 visualizzare e gestire tutti i codici di eventuali Gift Card collegati
 al documento in esame
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dettaglio_ordine_giftcard.bmp](./assets/media/image672.png)
+![](./assets/media/image672.png)
 
 In questo senso è bene ricordare che in Passweb è possibile gestire due
 diverse tipologie di Gift Card, Fisiche e Virtuali ciascuna con un

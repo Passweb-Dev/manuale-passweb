@@ -51,7 +51,7 @@ caratteristiche di seguito indicate:
 
 **[ESENZIONE IVA PER VENDITE INTRACOMUNITARIE]{.underline}**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tassa_cessioni_intra_ue.bmp](./assets/media/image458.png)
+![](./assets/media/image458.png)
 
 - **Soggetto**: Azienda iscritta al VIES
 
@@ -68,7 +68,7 @@ caratteristiche di seguito indicate:
 
 **[ESENZIONE IVA PER VENDITE EXTRA UE]{.underline}**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tassa_cessioni_extra_ue.bmp](./assets/media/image459.png)
+![](./assets/media/image459.png)
 
 - **Soggetto**: Azienda iscritta al VIES, Azienda non iscritta al VIES,
   Privato

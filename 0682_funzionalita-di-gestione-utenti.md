@@ -16,16 +16,16 @@ saranno limitate alla possibilità di:
 
 - Abilitare o meno un utente per l'accesso in Area Riservata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_funzionalita_utenti1.bmp](./assets/media/image140.png)
+![](./assets/media/image140.png)
 
 - Impostare per ogni utente uno specifico Minimo d'Ordine.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_funzionalita_utenti2.bmp](./assets/media/image141.png)
+![](./assets/media/image141.png)
 
 - Impedire ad un'utente di effettuare l'autenticazione al sito e/o di
   effettuare nuovi ordini.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_funzionalita_utenti3.bmp](./assets/media/image142.png)
+![](./assets/media/image142.png)
 
 Ciascuna delle funzionalità sopra indicate è attivabile impostando un
 apposito flag nell'Anagrafica Passweb del relativo utente.

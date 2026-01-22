@@ -4,7 +4,7 @@
 
 Il Componente Store Locator
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_store_locator.bmp](./assets/media/image55.png)
+![](./assets/media/image55.png)
 
 consente di inserire all'interno della pagina web un modulo suddiviso in
 due distinte sezioni: da una parte una Google Map su cui poter
@@ -14,7 +14,7 @@ dettagliato per Nome, Indirizzo, Descrizione ... , e un insieme di
 controlli necessari per filtrare ed interagire con i rispettivi elementi
 presenti sulla Mappa
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\store_locator_1.bmp](./assets/media/image56.png)
+![](./assets/media/image56.png)
 
 **ATTENZIONE! Come già indicato per il componente Google Map, dal 16
 Luglio 2018 è entrato in vigore un nuovo piano tariffario basato sul
@@ -32,7 +32,7 @@ cui, effettuando per la prima volta l'accesso alla pagina del sito
 contenente lo Store Locator, il browser si preoccuperà di richiedere
 all'utente l'autorizzazione ad utilizzare tali servizi.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\store_locator_geolocalizzazione.bmp](./assets/media/image57.png)
+![](./assets/media/image57.png)
 
 Nel momento in cui l'utente dovesse acconsentire ad utilizzare questo
 tipo di servizio, il campo indirizzo verrà automaticamente compilato con
@@ -93,7 +93,7 @@ Il pulsante "**Indicazioni**" consente invece di evidenziare sulla mappa
 il percorso verso l'ultimo marker selezionato o, nel caso in cui non
 fosse stato selezionato alcun marker, verso quello più vicino.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\store_locator_2.bmp](./assets/media/image58.png)
+![](./assets/media/image58.png)
 
 Cliccando infine su uno degli elementi (es. Punti vendita) presenti in
 elenco lo stesso elemento verrà evidenziato anche sulla mappa mediante

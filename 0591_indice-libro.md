@@ -4,7 +4,7 @@
 
 Il Componente **"Indice Libro"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_indice_libro_res.bmp](./assets/media/image12.png)
+![](./assets/media/image12.png)
 
 consente di generare un menu, conforme agli altri menu di Passweb, in
 grado di riprodurre l'indice di una particolare gerarchia CMS.

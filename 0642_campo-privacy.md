@@ -5,7 +5,7 @@
 Consente di gestire l'accettazione alla privacy da parte dell'utente che
 compila il form di richiesta informazioni
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_welcome_campo_privacy.bmp](./assets/media/image27.png)
+![](./assets/media/image27.png)
 
 **Tipologia di componente Passweb**: Campo Checkbox
 
@@ -15,11 +15,11 @@ compila il form di richiesta informazioni
 
 **Obbligatorio** = Si
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_welcome_campo_privacy_configurazione.bmp](./assets/media/image28.png)
+![](./assets/media/image28.png)
 
 Accettando le condizioni di privacy all'interno del form troveremo poi
 selezionando il relativo check (**Privacy**) anche nel dettaglio della
 richiesta inserita all'interno del gestionale
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_welcome_campo_privacy_2.bmp](./assets/media/image29.png)
+![](./assets/media/image29.png)
 

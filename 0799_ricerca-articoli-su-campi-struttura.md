@@ -11,7 +11,7 @@ sarà necessario:
   struttura selezionando per questo il parametro "**Abilita Ricerca**"
   presente all'interno della maschera "**Modifica Struttura Articoli**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\struttura_abilita_ricerca.bmp](./assets/media/image396.png)
+![](./assets/media/image396.png)
 
 > **ATTENZIONE!** l' effettiva selezione di questo parametro, e la
 > conseguente attivazione della funzionalità di ricerca per la struttura
@@ -35,7 +35,7 @@ sarà necessario:
   "**Abilita Ricerca**" presente, in corrispondenza del campo stesso,
   all'interno della maschera "**Modifica Campi Struttura**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\campo_struttura_abilita_ricerca.bmp](./assets/media/image397.png)
+![](./assets/media/image397.png)
 
 > **ATTENZIONE!** Dipendentemente dal numero dei campi della struttura
 > abilitati per la ricerca e dalle impostazioni di configurazione e
@@ -53,7 +53,7 @@ sarà necessario:
   Indice**", "**Filtro Checkbox**" o "**Filtro Lista**" mappato sul
   Campo Articolo "**Strutture**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ricerca_strutture_filtro_indice.bmp](./assets/media/image398.png)
+![](./assets/media/image398.png)
 
 > Per maggiori informazioni in merito all'inserimento di questi
 > componenti all'interno di un pannello di ricerca e alla loro
@@ -67,13 +67,13 @@ assunti dagli articoli gestiti all'interno del sito, in relazione ai
 campi della relativa struttura di appartenenza effettivamente abilitati
 per la ricerca.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ricerca_campi_struttura.bmp](./assets/media/image399.png)
+![](./assets/media/image399.png)
 
 In questo senso è bene sottolineare che nel momento in cui il filtro di
 ricerca dovesse essere configurato impostando anche una specifica
 struttura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ricerca_campi_struttura_2.bmp](./assets/media/image400.png)
+![](./assets/media/image400.png)
 
 le opzioni di selezione saranno ovviamente riferite sempre e solo ai
 campi di quella stessa struttura abilitati per la funzione di ricerca,
@@ -83,7 +83,7 @@ corrispondente pannello di ricerca**
 Se invece in fase di configurazione del filtro non dovesse essere
 indicata nessuna struttura in particolare,
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ricerca_campi_struttura_3.bmp](./assets/media/image401.png)
+![](./assets/media/image401.png)
 
 le opzioni di selezione visualizzate all'interno del pannello di ricerca
 dipenderanno dalla specifica pagina in cui il pannello stesso è stato
@@ -122,7 +122,7 @@ esattamente con quanto inserito, per il campo stesso, in corrispondenza
 del parametro "**Testo**" presente all'interno della maschera
 "**Modifica Campi Struttura**" del Wizard
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ricerca_campi_struttura_4.bmp](./assets/media/image402.png)
+![](./assets/media/image402.png)
 
 Ad ogni singola "sezione di ricerca" verrà inoltre associata anche una
 specifica classe css (**optiongroup\_\<id campo\>**) utilizzabile nel
@@ -135,7 +135,7 @@ l'opzione stessa in corrispondenza del campo "**Titolo**" presente
 all'interno della maschera "**Modifica Elementi Campo Struttura**" del
 Wizard
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ricerca_campi_struttura_5.bmp](./assets/media/image403.png)
+![](./assets/media/image403.png)
 
 **ATTENZIONE!** solo per **Filtri Indice**, **Filtri Checkbox** e
 **Filtri Lista**, nel momento in cui ad un' opzione dovesse essere
@@ -147,7 +147,7 @@ L'ordine in cui verranno visualizzate queste sezioni è stabilito dal
 parametro "Campo di Ordinamento" presente nella maschera di
 configurazione del relativo filtro
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtro_strutture_ordinamento.bmp](./assets/media/image404.png)
+![](./assets/media/image404.png)
 
 In questo senso è possibile optare per due diverse tipologie di
 ordinamento:
@@ -209,7 +209,7 @@ sempre bene tenere in considerazione anche le seguenti osservazioni:
   "**Lista delle Strutture Articolo**" comparirà anche il pulsante
   "**Aggiorna Ricerca**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_strutture_aggiorna_ricerca.bmp](./assets/media/image394.png)
+![](./assets/media/image394.png)
 
 > pulsante questo che dovrà essere utilizzato per aggiornare in maniera
 > manuale la tabella di appoggio del database utilizzata per gestire il

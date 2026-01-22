@@ -256,7 +256,7 @@ Una volta salvata la Gift Card si attiverà infatti, come mostrato in
 figura, un nuovo pulsante mediante il quale poter gestire, attraverso
 l'apposita maschera, l'inserimento di una nuova condizione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuova_condizione_giftcard.bmp](./assets/media/image304.png)
+![](./assets/media/image304.png)
 
 Per ogni condizione è possibile impostare un valore per i seguenti
 parametri:
@@ -326,7 +326,7 @@ Di base quindi lavorando sul "Filtro Carrello" sarà possibile:
 Cliccando sul pulsante "**Aggiungi Filtro**" verranno quindi
 visualizzate le seguenti opzioni:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuova_condizione_gc.bmp](./assets/media/image305.png)
+![](./assets/media/image305.png)
 
 - **Quantità in carrello:** permette di definire una condizione sulla
   **quantità complessiva di articoli presenti in carrello**. Supponendo
@@ -387,7 +387,7 @@ visualizzate le seguenti opzioni:
 > Articoli, sarà allora necessario impostare un Filtro Carrello del tipo
 > "**Percentuale elementi in carrello = 100**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gc_percentuale_articoli.bmp](./assets/media/image306.png)
+![](./assets/media/image306.png)
 
 > In queste condizioni se dovessimo avere in carrello anche un solo
 > articolo che non soddisfa la condizione impostata all'interno del
@@ -596,7 +596,7 @@ visualizzate le seguenti opzioni:
 > Considerando dunque una configurazione del tipo di quella
 > rappresentata in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gc_sconto_in_riga.bmp](./assets/media/image311.png)
+![](./assets/media/image311.png)
 
 > la condizione in esame verrà validata e la relativa Gift Card potrà
 > essere applicata solo nel caso in cui tutti gli articoli presenti in
@@ -636,7 +636,7 @@ solo ed esclusivamente nel momento in cui tutte le condizioni impostate
 siano state soddisfatte oppure se è sufficiente che ne siano verificate
 solamente un certo numero.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuova_condizione_gc_8.bmp](./assets/media/image312.png)
+![](./assets/media/image312.png)
 
 In particolare dunque impostando questo parametro sul valore:
 

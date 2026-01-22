@@ -37,7 +37,7 @@ impostare, oltre ai parametri classici di configurazione del pagamento,
 anche quelli specifici del gateway attualmente considerato e presenti
 all'interno della sezione "**Parametri Gateway**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_afone.bmp](./assets/media/image39.png)
+![](./assets/media/image39.png)
 
 Nello specifico all'interno della sezione "**Configurazione Parametri
 del Gateway**" sarà possibile indicare se utilizzare l'ambiente di test
@@ -79,7 +79,7 @@ dell'ordine, selezionare la modalità di pagamento in esame, l'ordine
 sarà memorizzato nel database di Passweb, e l'utente verrà reindirizzato
 sul sito del gateway di pagamento dove dovrà inserire i relativi dati.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamenti_afone_3.bmp](./assets/media/image40.png)
+![](./assets/media/image40.png)
 
 **A questo punto però l'ordine non è ancora stato preso in carico dalla
 banca e, conseguentemente, non è ancora avvenuto alcun pagamento**.
@@ -109,7 +109,7 @@ eventualmente anche il codice per il 3D secure verrà presentata
 all'utente una pagina web con il riassunto dei dati relativi alla
 transazione in essere.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamenti_afone_3.bmp](./assets/media/image41.png)
+![](./assets/media/image41.png)
 
 Cliccando sul pulsante "**Torna la negozio**" l'utente sarà ricondotto
 automaticamente al sito Ecommerce, l'ordine verrà considerato valido ed
@@ -134,7 +134,7 @@ back end del proprio account esercente Afone, portarsi all'interno della
 sezione "**Configuiration -- MyURLs**" e inserire il dominio del proprio
 sito all'interno del box "**Allow domain for IPN**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamenti_afone_4.bmp](./assets/media/image42.png)
+![](./assets/media/image42.png)
 
 In ogni caso nel momento in cui siano stati effettuati ordini a seguito
 dei quali l'applicazione di Back Office non ha restituito alcuna

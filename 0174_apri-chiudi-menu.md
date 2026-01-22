@@ -3,11 +3,11 @@
 
 
 L'icona "**Apri/chiudi Menu**" (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\icona_apri_chiudi_menu.bmp](./assets/media/image263.png) ) consente di aprire direttamente
+![](./assets/media/image263.png) ) consente di aprire direttamente
 all'interno del Live Editing del sito eventuali menu e/o contenitori
 impostati in modalità Off-Canvas.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\apri_chiudi_menu.bmp](./assets/media/image264.png)
+![](./assets/media/image264.png)
 
 Cliccando sull'icona evidenziata in figura verrà quindi visualizzato il
 relativo componente (menu o contenitore) off-canvas in maniera tale da
@@ -19,7 +19,7 @@ In particolare:
   questo verrà aperto immediatamente al di sotto del relativo pulsante
   di apertura.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\off_canvas_1.bmp](./assets/media/image265.png)
+![](./assets/media/image265.png)
 
 > Una volta visualizzato il contenitore off-canvas all'interno della
 > pagina, sarà possibile selezionarlo, accedere ai suoi componenti in
@@ -32,7 +32,7 @@ In particolare:
   indipendentemente da quelle possono essere le sue specifiche opzioni
   di configurazione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\off_canvas_2.bmp](./assets/media/image266.png)
+![](./assets/media/image266.png)
 
 > Una volta visualizzato il menu off-canvas all'interno della pagina
 > sarà possibile accedere al suo Style Editor in maniera tale da

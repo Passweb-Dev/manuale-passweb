@@ -10,5 +10,5 @@ All'interno di questa sezione del Wizard è possibile:
 - Effettuare o ripristinare copie del solo layout grafico del proprio
   sito web.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_modelli_temi.bmp](./assets/media/image467.png)
+![](./assets/media/image467.png)
 

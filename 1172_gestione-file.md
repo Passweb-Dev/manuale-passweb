@@ -13,7 +13,7 @@ di ricercare specifici documenti tra tutti quelli presenti all'interno
 della cartella attualmente selezionata in elenco e di eventuali sue
 sottocartelle
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ricerca_documenti.bmp](./assets/media/image103.png)
+![](./assets/media/image103.png)
 
 **ATTENZIONE!** nel momento in cui l'esigenza dovesse quindi essere
 quella di ricercare uno specifico documento all'interno di tutte le
@@ -27,7 +27,7 @@ Una volta indicato il testo da ricercare cliccando sul pulsante
 "**Vai**" verranno poi visualizzati, immediatamente al di sotto del
 campo di ricerca, tutti i risultati che soddisfano il filtro impostato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ricerca_documenti_risultati.bmp](./assets/media/image104.png)
+![](./assets/media/image104.png)
 
 Ogni risultato mostra il percorso completo della file che soddisfa il
 filtro.
@@ -36,7 +36,7 @@ Cliccando quindi su uno dei risultati in elenco verrà aperta la relativa
 cartella e verranno visualizzati, in griglia, tutti i documenti in essa
 contenuti
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ricerca_documenti_risultati_2.bmp](./assets/media/image105.png)
+![](./assets/media/image105.png)
 
 Il pulsante "**Annulla**" consente invece di ripulire e azzerare il
 filtro precedentemente impostato.
@@ -45,10 +45,10 @@ Dipendentemente dai permessi concessi all'utente sulla cartella
 attualmente selezionata, i pulsanti presenti nella relativa barra degli
 strumenti consentiranno rispettivamente di:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\area_riservata_documenti_azioni_file.bmp](./assets/media/image106.png)
+![](./assets/media/image106.png)
 
 **Carica** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\area_riservata_documenti_carica_documento.bmp](./assets/media/image107.png) ): consente di uplodare nuovi documenti all'interno
+![](./assets/media/image107.png) ): consente di uplodare nuovi documenti all'interno
 della cartella selezionata.
 
 Richiede i permessi di **Scrittura** o di **Modifica** sulla cartella in
@@ -60,14 +60,14 @@ e cartelle partendo da un apposito file .zip.
 Cliccando su questo pulsante verrà visualizzata la maschera "**Carica
 Documento**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\area_riservata_documenti_carica_file2.bmp](./assets/media/image108.png)
+![](./assets/media/image108.png)
 
 mediante la quale poter effettuare l'upload desiderato.
 
 In questo senso sarà quindi necessario:
 
 - cliccare sul pulsante **"File" (**
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_scegli_file.bmp](./assets/media/image95.png) **)**
+  ![](./assets/media/image95.png) **)**
 
 - selezionare il file desiderato tra quelli presenti all'interno del
   proprio PC
@@ -75,7 +75,7 @@ In questo senso sarà quindi necessario:
 - assegnargli un nome (campo **Nome**)
 
 - cliccare infine sul pulsante **"Upload File" (**
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_upload_file.bmp](./assets/media/image109.png) **)** presente nella parte alta della
+  ![](./assets/media/image109.png) **)** presente nella parte alta della
   maschera.
 
 **ATTENZIONE! L'upload di nuovi file all'interno di una cartella può
@@ -117,7 +117,7 @@ archivio compresso (file .zip) precedentemente creato.**
 Per far questo sarà sufficiente abilitare, prima dell'upload, il check
 **"Archivio"** evidenziato in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\upload_zip.bmp](./assets/media/image110.png)
+![](./assets/media/image110.png)
 
 Attivando questo parametro l'applicazione saprà di dover trattare, in
 fase di upload, un archivio compresso e si preoccuperà quindi di
@@ -174,7 +174,7 @@ considerata la seguente regola:
   alcun file.
 
 **Elimina Documento** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_pulsante_elimina_documento.bmp](./assets/media/image111.png) ): consente di eliminare il documento
+![](./assets/media/image111.png) ): consente di eliminare il documento
 selezionato.
 
 Richiede i permessi di **Modifica** o di **Scrittura** sulla cartella
@@ -187,14 +187,14 @@ di avviso e la procedura di eliminazione, ovviamente, non potrà
 terminare in maniera corretta
 
 **Scarica (File)** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\area_riservata_documenti_scarica_documento.bmp](./assets/media/image112.png) ): consente di effettuare il download
+![](./assets/media/image112.png) ): consente di effettuare il download
 del documento selezionato.
 
 Opzione è sempre attiva indipendentemente dai permessi che l'utente
 attualmente loggato ha sulla cartella selezionata
 
 **Anteprima** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\area_riservata_documenti_anteprima_documento.bmp](./assets/media/image113.png) ): consente di visualizzare un'anteprima
+![](./assets/media/image113.png) ): consente di visualizzare un'anteprima
 del documento selezionato senza doverlo necessariamente scaricare.
 
 Opzione è sempre attiva indipendentemente dai permessi che l'utente
@@ -203,7 +203,7 @@ cui il browser non possa effettuare l'anteprima del documento
 selezionato verrà comunque avviato il download
 
 **Sposta File** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\area_riservata_documenti_sposta_file.bmp](./assets/media/image114.png) ): consente di spostare il documento
+![](./assets/media/image114.png) ): consente di spostare il documento
 selezionato all'interno di un'altra cartella della struttura.
 
 Richiede i permessi di **Modifica** o di **Scrittura** **sulla cartella
@@ -234,14 +234,14 @@ cartella sarà necessario:
   verrà richiesta un' ultima conferma prima di poter effettuare lo
   spostamento indicato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\conferma_sposta_file.bmp](./assets/media/image115.png)
+![](./assets/media/image115.png)
 
 Nel caso in cui l'utente non abbia i permessi richiesti sulla cartella
 di destinazione, verrà visualizzato un apposito messaggio e l'operazione
 di spostamento, ovviamente, non potrà terminare in maniera corretta
 
 **Svuota** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\area_riservata_documenti_svuota.bmp](./assets/media/image116.png) ): grazie a questo pulsante, visibile
+![](./assets/media/image116.png) ): grazie a questo pulsante, visibile
 solo ed esclusivamente nel caso in cui l'utente attualmente connesso
 abbia i permessi di Modifica o di Scrittura sulla cartella attualmente
 selezionata, è possibile eliminare in blocco tutti i documenti presenti
@@ -276,5 +276,5 @@ dei documenti presenti in elenco il pulsante raffigurante tre piccoli
 puntini consentirà di accedere al menu delle azioni effettuabili sul
 file selezionato.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\documenti_azioni_file_mobile.bmp](./assets/media/image118.png)
+![](./assets/media/image118.png)
 

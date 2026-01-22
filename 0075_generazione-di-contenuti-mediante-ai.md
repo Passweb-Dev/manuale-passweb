@@ -32,29 +32,29 @@ con AI**"
   **Descrizione** **HTML / 2 / 3** nella scheda "Descrizione"
   dell'Anagrafica Passweb di ogni singolo articolo
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ai_descrizione_prodotti.bmp](./assets/media/image393.png)
+![](./assets/media/image393.png)
 
 - Campo **Descrizione** nella scheda "Informazioni Generali"
   dell'Anagrafica Passweb di ogni singola Categoria Merceologica
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ai_descrizione_categoria_merceologica.bmp](./assets/media/image394.png)
+![](./assets/media/image394.png)
 
 - **Attributi Articolo di tipo Testo o Testo HTML** -- scheda
   "Attributi" dell'Anagrafica Passweb di ogni singola Categoria
   Merceologica
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ai_attributi_articolo.bmp](./assets/media/image395.png)
+![](./assets/media/image395.png)
 
 - Campi **Title**, **Keywords Meta**, **Description Meta** nella scheda
   "Seo -- Site Map" dell'Anagrafica Passweb di ogni singola articolo
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ai_seo_articoli.bmp](./assets/media/image396.png)
+![](./assets/media/image396.png)
 
 - Campi **Title**, **Keywords Meta**, **Description Meta** nella scheda
   "Seo -- Site Map" dell'Anagrafica Passweb di ogni singola categoria
   merceologica
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ai_seo_categore_merceologiche.bmp](./assets/media/image397.png)
+![](./assets/media/image397.png)
 
 - Campi **Titolo**, **Sommario**, **Dettaglio** nella scheda "Contenuto"
   della maschera di dettaglio di un contenuto CMS
@@ -64,27 +64,27 @@ con AI**"
 - Campi **Descrizione 1 / 2 / 3** nella scheda "Ulteriori Contenuti"
   della maschera di dettaglio di un contenuto CMS
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ai_cms_ulteriori_contnuti.bmp](./assets/media/image399.png)
+![](./assets/media/image399.png)
 
 - Camp **Tag Associati** nella scheda "Associazioni" della maschera di
   dettaglio di un contenuto CMS
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ai_cms_tag.bmp](./assets/media/image400.png)
+![](./assets/media/image400.png)
 
 - Campi **Title**, **Keywords Meta**, **Description Meta** nella scheda
   "Seo -- Site Map" della maschera di dettaglio di un contenuto CMS
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ai_seo_cms.bmp](./assets/media/image401.png)
+![](./assets/media/image401.png)
 
 - Campo **Descrizione** nella maschera di dettaglio di ogni singola
   Categoria CMS
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ai_seo_categoria_cms.bmp](./assets/media/image402.png)
+![](./assets/media/image402.png)
 
 - Campi **Titolo di Pagina**, **Keywords**, **Description** nella
   maschera di configurazione delle pagine generiche in uso al sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ai_seo_pagina.bmp](./assets/media/image403.png)
+![](./assets/media/image403.png)
 
 - Campo **Contenuto** nella maschera di configurazione del componente
   "Paragrafo"
@@ -93,16 +93,16 @@ con AI**"
 
 - Campo **HTML** nella maschera di configurazione del componente "HTML"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ai_componente_html.bmp](./assets/media/image405.png)
+![](./assets/media/image405.png)
 
 - Sezione **CSS** nella maschera di gestione dei Layout in uso al sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ai_layout_css.bmp](./assets/media/image406.png)
+![](./assets/media/image406.png)
 
 - Sezione **Javascript** nella maschera di gestione dei Layout in uso al
   sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ai_layout_js.bmp](./assets/media/image407.png)
+![](./assets/media/image407.png)
 
 Il comportamento del pulsante "**Genera con AI**" sarà poi diverso a
 seconda del fatto che allo specifico campo siano stati associati o meno
@@ -114,7 +114,7 @@ la maschera "**Genera contenuto per \<nome campo\>**" (dove \<nome
 campo\> varierà, ovviamente, in relazione allo specifico campo da cui si
 è partiti)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ai_genera_contenuto_template.bmp](./assets/media/image408.png)
+![](./assets/media/image408.png)
 
 In queste condizioni il parametro "**Seleziona un prompt"** consentirà
 di indicare, selezionandolo tra quelli precedentemente associati al
@@ -162,13 +162,13 @@ Una volta verificato che sia effettivamente tutto corretto cliccando sul
 pulsante "**Genera**" posto nella parte bassa della maschera verrà
 inviata la domanda al modello di AI associato al Template
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ai_genera_contenuto_template_2.bmp](./assets/media/image409.png)
+![](./assets/media/image409.png)
 
 e, dopo un breve intervallo di tempo (che non dipende da Passweb),
 all'interno della maschera "Genera contenuto per ..." verrà visualizzata
 un ulteriore sezione contente la risposta generata dall'AI
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ai_genera_contenuto_template_3.bmp](./assets/media/image410.png)
+![](./assets/media/image410.png)
 
 La risposta fornita verrà inserita all'interno di un editor dello stesso
 tipo di quello disponibile ad esempio per il componente "Paragrafo" e
@@ -191,9 +191,9 @@ nuova.
 Se invece la risposta ottenuta dovesse essere soddisfacente il pulsante
 "**Applica**" permetterà di inserirla nel campo di partenza
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ai_genera_contenuto_template_4.bmp](./assets/media/image411.png)
+![](./assets/media/image411.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ai_genera_contenuto_template_5.bmp](./assets/media/image412.png)
+![](./assets/media/image412.png)
 
 **ATTENZIONE!** **per ovvie ragioni la generazione di contenuti relativi
 ai layout (codice CSS e js) non prevede la presenza del pulsante
@@ -221,7 +221,7 @@ Avremo infatti comunque a disposizione il pulsante "**Genera con AI**" e
 cliccando su di esso verrà sempre aperta la maschera "**Genera contenuto
 per ...**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ai_genera_contenuto_no_template.bmp](./assets/media/image413.png)
+![](./assets/media/image413.png)
 
 In queste condizioni non sarà però presente il campo "Seleziona un
 prompt" e dovremo quindi digitare da zero la domanda da porre all'AI
@@ -242,10 +242,10 @@ quella precedentemente analizzata. Una volta inserita la domanda
 all'interno del campo Prompt sarà quindi necessario anche questa volta
 cliccare sul pulsante "**Genera**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ai_genera_contenuto_no_template_2.bmp](./assets/media/image414.png)
+![](./assets/media/image414.png)
 
 Una volta ottenuta la risposta il pulsante "**Applica**" consentirà come
 sempre di inserirla nel relativo campo Passweb
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ai_genera_contenuto_no_template_3.bmp](./assets/media/image415.png)
+![](./assets/media/image415.png)
 

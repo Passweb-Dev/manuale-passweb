@@ -41,7 +41,7 @@ impostare, oltre ai parametri classici di configurazione del pagamento,
 anche quelli specifici del gateway attualmente considerato e presenti
 all'interno della sezione "**Parametri Gateway**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_banca_sella.bmp](./assets/media/image46.png)
+![](./assets/media/image46.png)
 
 Nel caso specifico il parametro:
 
@@ -82,7 +82,7 @@ sottoscrizione del contratto, portarsi nella sezione**
 da accedere alla maschera di inserimento degli indirizzi IP abilitati
 alle transazioni**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\banca_sella_indirizzi_ip.bmp](./assets/media/image47.png)
+![](./assets/media/image47.png)
 
 All'interno di questa maschera andranno quindi specificati i due
 indirizzi IP di seguito riportati:
@@ -103,7 +103,7 @@ portarsi all'interno della sezione "**Sicurezza**", cliccare sulla voce
 l'opzione "**Verifica correttezza di almeno uno tra indirizzo IP e API
 Key**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\banca_sella_indirizzi_ip_2.bmp](./assets/media/image48.png)
+![](./assets/media/image48.png)
 
 Infine, sempre all'interno dell'applicazione di Back Office di Banca
 Sella sarà necessario impostare anche gli url cui la stessa applicazione
@@ -117,7 +117,7 @@ una volta all'applicazione di back office della banca, portarsi nella
 sezione **"*Configurazione"*** e cliccare questa volta "**Indirizzi
 Risposte**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\banca_sella_8.bmp](./assets/media/image49.png)
+![](./assets/media/image49.png)
 
 All'interno della relativa maschera "Indirizzi Risposte" andranno quindi
 inserite le seguenti informazioni:
@@ -191,7 +191,7 @@ nel database di Passweb, e l'utente verrà reindirizzato alla specifica
 pagina di accesso del gateway GestPay in cui dovrà inserire i dati
 relativi al pagamento.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\banca_sella_10.bmp](./assets/media/image50.png)
+![](./assets/media/image50.png)
 
 Prima di reindirizzare l\'utente al sito Banca Sella l\'ordine viene
 sempre salvato all\'interno del database di Passweb e vengono
@@ -223,7 +223,7 @@ quindi presentata all\'utente una pagina web (ricevuta digitale)
 contenente i dati della transazione e gli verrà inviata una mail di
 notifica.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\banca_sella_11.bmp](./assets/media/image51.png)
+![](./assets/media/image51.png)
 
 Il numero ordine che viene riportato nella mail o visualizzato nel Back
 Office rappresenta l\'identificativo dell\'ordine sul database di

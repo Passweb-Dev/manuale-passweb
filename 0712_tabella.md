@@ -15,12 +15,12 @@ dove:
 - **ProduttoreNome**: è il codice della relativa App Passbuilder creata
   all'interno del gestionale per gestire la tabella in esame
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mydb_produttore_nome.bmp](./assets/media/image240.png)
+![](./assets/media/image240.png)
 
 - **Codice:** è il codice assegnato alla specifica tabella di tipo
   "Anagrafica MyDB" in cui è presente il campo che si intende mappare
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\codice_tabella_mydb.bmp](./assets/media/image241.png)
+![](./assets/media/image241.png)
 
 Facendo dunque riferimento alle figure sopra riportate e supponendo:
 

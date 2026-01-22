@@ -6,7 +6,7 @@ In questa fase l'utente avrà la possibilità di selezionare tra quelle
 proposte la specifica modalità di pagamento che intende adottare per la
 propria prenotazione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\spiagge_configurazione_18.bmp](./assets/media/image389.png)
+![](./assets/media/image389.png)
 
 Tipicamente potrebbe essere presente un pagamento online (carta di
 credito) oppure un pagamento in contanti una volta arrivato in

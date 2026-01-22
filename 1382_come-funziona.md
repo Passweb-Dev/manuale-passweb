@@ -15,7 +15,7 @@ che avviene anche con Google Analytics, inserendo quindi un apposito
 snippet di codice, prelevabile direttamente dalle impostazioni di
 configurazione di Matomo, nelle pagine del proprio sito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_6.bmp](./assets/media/image6.png)
+![](./assets/media/image6.png)
 
 L\'utente che si collega e naviga sul sito così configurato verrà quindi
 inserito in una sessione collegata generalmente a dei cookie.
@@ -56,12 +56,12 @@ client (che fa uso di javascript e cookie), Matomo offre poi anche altre
 impostazioni avanzate di configurazione che consentono, ad esempio, di
 tracciare gli utenti che hanno javascript disabilitato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_7.bmp](./assets/media/image7.png)
+![](./assets/media/image7.png)
 
 e/o di attivare un tracciamento cookieless (che non prevede cioè
 l'utilizzo di cookie)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_8.bmp](./assets/media/image8.png)
+![](./assets/media/image8.png)
 
 Per maggiori informazioni relativamente a quest'ultima possibilità
 (tracciamento cookieless) ed, eventualmente, a come poter gestire

@@ -11,7 +11,7 @@ E' possibile mettere in promozione singoli articoli (Tabella "**Articoli
 in Promozione**") oppure intere categorie di articoli (Tabella
 **"Articoli appartenenti alle categorie"**)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_promozioni_25.bmp](./assets/media/image553.png)
+![](./assets/media/image553.png)
 
 **ATTENZIONE! In queste condizioni, il programma crea un'offerta M x N
 diversa per ogni articolo inserito.**
@@ -39,7 +39,7 @@ N**" permettono di definire esattamente tanto il numero di articoli che
 devono essere acquistati per poter applicare la promozione quanto quelli
 che verranno poi effettivamente pagati.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_promozioni_26.bmp](./assets/media/image554.png)
+![](./assets/media/image554.png)
 
 In particolare il campo:
 
@@ -54,7 +54,7 @@ della tabella "Articoli appartenenti alle categorie" consente invece, di
 definire esattamente come dovranno essere trattati gli M -- N articoli
 oggetto della promozione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_promozioni_27.bmp](./assets/media/image555.png)
+![](./assets/media/image555.png)
 
 Non è detto, infatti, che tali articoli debbano per forza di cose essere
 gratuiti. Ad essi potrebbe tranquillamente essere applicata una certa
@@ -67,7 +67,7 @@ terzo articolo in ordine sia gratuito. Per ottenere questo tipo di
 risultato sarà necessario selezionare, per il campo in esame, l'opzione
 "**Percentuale**" ed inserire poi nel campo sottostante il valore 100.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_promozioni_28.bmp](./assets/media/image556.png)
+![](./assets/media/image556.png)
 
 In queste condizione al terzo articolo verrà quindi applicato uno sconto
 del 100%.
@@ -82,7 +82,7 @@ il terzo articolo debba sempre essere pagato 5 €, sarà necessario
 selezionare, per il parametro in esame, l'opzione **Valore** inserendo
 poi il valore 5 nel successivo campo.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_promozioni_29.bmp](./assets/media/image557.png)
+![](./assets/media/image557.png)
 
 In queste condizioni il terzo articolo verrà pagato sempre 5 €,
 indipendentemente da quello che possa essere il suo effettivo prezzo di
@@ -103,7 +103,7 @@ sul pulsante "**Attiva Promozione**" oppure agendo dal parametro
 "**Attivo**" presente nella maschera di configurazione della Promozione
 stessa.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_promozioni_35.bmp](./assets/media/image558.png)
+![](./assets/media/image558.png)
 
 Il campo **Descrizione** presente all'interno della maschera di
 configurazione della promozione consente di specificare, in tutte le
@@ -138,7 +138,7 @@ possibile inserire all'interno del testo il seguente placeholder:
 Promozioni verranno applicati, all'interno del sito, sempre e comunque a
 livello di Carrello mediante l'inserimento di un relativo Abbuono**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_promozioni_30.bmp](./assets/media/image540.png)
+![](./assets/media/image540.png)
 
 In queste condizioni non sarà ovviamente possibile visualizzare gli
 sconti dovuti alla promozione ne in Catalogo ne tanto meno all'interno
@@ -179,7 +179,7 @@ cassa, l'ordine nato all'interno del sito web, lo sconto, dovuto alla
 promozione e **applicato sul sito a livello di Carrello** mediante un
 relativo **Abbuono,** verrà riportato all'interno del campo **Sconto**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_promozioni_12.bmp](./assets/media/image542.png)
+![](./assets/media/image542.png)
 
 **ATTENZIONE!** Le Promozioni di tipo **Offerte M x N semplice** sono
 considerate tra l'elenco delle Promozioni da poter escludere nel caso di

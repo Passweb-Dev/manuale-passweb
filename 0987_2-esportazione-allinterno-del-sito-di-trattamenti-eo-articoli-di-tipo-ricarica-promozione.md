@@ -10,11 +10,11 @@ Nel momento in cui per un sito collegato a Beauty dovesse, infatti,
 essere attivato **il modulo aggiuntivo delle Gift Card**, tutti gli
 articoli di tipo "**Trattamento**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trattamenti_beauty.bmp](./assets/media/image342.png)
+![](./assets/media/image342.png)
 
 e/o "**Ricarica promozione**",
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ricarica_promozionale_beauty.bmp](./assets/media/image343.png)
+![](./assets/media/image343.png)
 
 correttamente esportati e gestiti all'interno del sito, **verranno
 considerati automaticamente come delle Gift Card di tipo Ho.Re.Ca.**
@@ -22,7 +22,7 @@ considerati automaticamente come delle Gift Card di tipo Ho.Re.Ca.**
 In queste condizioni dunque per ogni Trattamento presente all'interno
 del Catalogo Web saranno disponibili due diversi pulsanti:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gift_card_horeca_8.bmp](./assets/media/image344.png)
+![](./assets/media/image344.png)
 
 - **Prenota:** consente di effettuare una prenotazione del relativo
   Trattamento (per maggiori informazioni si veda anche quanto indicato
@@ -40,7 +40,7 @@ Per quel che riguarda invece gli articoli di tipo "**Ricarica
 Promozione**", anche questi potranno essere acquistati come un qualsiasi
 altro prodotto presente all'interno del sito (pulsante "**Acquista**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gift_card_horeca_9.bmp](./assets/media/image345.png)
+![](./assets/media/image345.png)
 
 Differentemente però da quello che avviene per i prodotti
 "tradizionali", l'acquisto di un articolo di tipo "Ricarica Promozione"

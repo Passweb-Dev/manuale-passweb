@@ -6,18 +6,18 @@ Tornando a prendere in considerazione la maschera principale
 "**Attributi per il Catalogo**" i pulsanti presenti nella barra degli
 strumenti consentono rispettivamente di:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\attributi_catalogo2.bmp](./assets/media/image113.png)
+![](./assets/media/image113.png)
 
 **Modifica** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica.bmp](./assets/media/image43.png) ): permette di modificare le
+![](./assets/media/image43.png) ): permette di modificare le
 caratteristiche dell'attributo attualmente selezionato in elenco.
 
 **Elimina**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina.bmp](./assets/media/image114.png) ): consente di eliminare definitivamente
+(![](./assets/media/image114.png) ): consente di eliminare definitivamente
 l'attributo selezionato.
 
 **Utilità**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_utilita.bmp](./assets/media/image115.png) ): consente di richiamare alcune
+(![](./assets/media/image115.png) ): consente di richiamare alcune
 procedure automatiche che potranno essere effettuate sugli articoli
 attualmente selezionati in elenco.
 
@@ -34,12 +34,12 @@ esclusivamente all'interno del gestionale.
 Nella barra degli strumenti compariranno ora nuove icone a ciascuna
 delle quali sarà associata una specifica procedura.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\attributi_catalogo_utilita.bmp](./assets/media/image116.png)
+![](./assets/media/image116.png)
 
 In particolare il pulsante
 
 **Default**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_default.bmp](./assets/media/image117.png) ): consente di impostare, per tutti gli
+(![](./assets/media/image117.png) ): consente di impostare, per tutti gli
 articoli appartenenti a categorie merceologiche cui è stato associato un
 set di attributi che comprende uno degli attributi attualmente
 selezionanti in elenco, il valore di questi stessi attributi al loro
@@ -52,7 +52,7 @@ articolo, questo valore all'interno del database di Passweb occorre
 lanciare necessariamente la procedura in oggetto.
 
 **Azzera**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_azzera.bmp](./assets/media/image118.png) ): consente di rimuovere, per tutti gli
+(![](./assets/media/image118.png) ): consente di rimuovere, per tutti gli
 articoli appartenenti a categorie merceologiche cui è stato associato un
 set di attributi che comprende uno degli attributi attualmente
 selezionanti in elenco, il valore attualmente memorizzato, per questi
@@ -77,7 +77,7 @@ attributi nelle condizioni iniziali (in cui il valore di default è
 considerato soltanto come un valore propositivo)
 
 **Riorganizza**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_riorganizza.bmp](./assets/media/image119.png) ): consente di rimuovere i valori degli
+(![](./assets/media/image119.png) ): consente di rimuovere i valori degli
 attributi selezionati per tutti gli articoli appartenenti a categorie
 merceologiche che non usano un set di attributi che include gli
 attributi attualmente selezionati in elenco.
@@ -113,11 +113,11 @@ queste stesse procedure verranno eseguite per tutti gli attributi in
 elenco.
 
 **Deseleziona**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_deseleziona.bmp](./assets/media/image120.png) ): consente di deselezionare in un colpo
+(![](./assets/media/image120.png) ): consente di deselezionare in un colpo
 solo tutti gli attributi attualmente selezionati in elenco.
 
 **Gestione**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_gestione.bmp](./assets/media/image121.png) ): consente di uscire dalla sezione
+(![](./assets/media/image121.png) ): consente di uscire dalla sezione
 relativa alle Utilità tornando quindi alla normale gestione degli
 Attributi Articolo.
 

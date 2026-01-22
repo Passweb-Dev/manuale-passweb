@@ -26,7 +26,7 @@ semplice, che la proprietà che fa al caso nostro è "**material**" e che
 tale proprietà può avere dei semplici valori testuali utilizzati appunto
 per indicare il materiale di cui è fatto un determinato prodotto
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\json-ld_esempio_1.bmp](./assets/media/image27.png)
+![](./assets/media/image27.png)
 
 In sostanza dovremo quindi andare ad integrare il JSON-LD prodotto da
 Passweb con un'informazione del tipo:
@@ -46,7 +46,7 @@ all'interno del JSON-LD dovremo utilizzare il Json Builder creando una
 **proprietà semplice** (del tipo "chiave":"valore") analoga a quella di
 seguito indicata:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\json-ld_esempio_2.bmp](./assets/media/image28.png)
+![](./assets/media/image28.png)
 
 - Nome proprietà 🡪 **material**
 

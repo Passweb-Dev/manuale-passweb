@@ -19,25 +19,25 @@ Per poter far questo occorrerà portarsi alla pagina *"Catalogo --
 Gestione Articoli --Articoli"* del Wizard, selezionare l'articolo a
 taglie/colori desiderato e cliccare sul pulsante "Risorse" presente
 nella barra degli strumenti (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_risorse.bmp](./assets/media/image201.png) ) accedendo così all'elenco delle risorse
+![](./assets/media/image201.png) ) accedendo così all'elenco delle risorse
 collegate all'articolo selezionato.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\risorse_articolo2.bmp](./assets/media/image342.png)
+![](./assets/media/image342.png)
 
 All'interno di questa maschera verranno quindi visualizzate tutte le
 risorse (immagini e schede tecniche) associate allo specifico articolo.
 Selezionando un'immagine tra quelle presenti in elenco e cliccando poi
 sul pulsante **"Collega Serie"** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_collega_serie.bmp](./assets/media/image343.png) ) presente nella barra degli strumenti
+![](./assets/media/image343.png) ) presente nella barra degli strumenti
 verrà visualizzata la maschera "Serie -- Colori"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_risorse_articolo_taglie2.bmp](./assets/media/image344.png)
+![](./assets/media/image344.png)
 
 attraverso cui poter associare l'immagine attualmente selezionata ad uno
 specifico elemento (taglia o colore) della serie.
 
 Il pulsante **"Scollega Serie"** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_scollega_serie.bmp](./assets/media/image345.png) ) presente nella barra degli strumenti
+![](./assets/media/image345.png) ) presente nella barra degli strumenti
 consente di eliminare l'associazione di un'immagine ad uno specifico
 elemento della serie.
 

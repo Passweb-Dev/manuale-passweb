@@ -9,7 +9,7 @@ necessario agire mediante il pulsante "**Metodi di Prezzo, quantità e
 formato"**.
 
 **Metodi di Prezzo, quantità e formato** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_metodi_quantita.bmp](./assets/media/image49.png) )**:** consente di creare e salvare in
+![](./assets/media/image49.png) )**:** consente di creare e salvare in
 un apposito Template le impostazioni di configurazione di un'Inserzione
 relative a quantità e prezzo degli articoli da pubblicare.
 
@@ -23,21 +23,21 @@ Cliccando su questo pulsante verrà quindi visualizzata la maschera
 "**Lista dei Metodi di Prezzo, quantità e formato**" contenente l'elenco
 di tutti i modelli attualmente codificati.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\elenco_metodi_quantita.bmp](./assets/media/image358.png)
+![](./assets/media/image358.png)
 
 I pulsanti presenti nella contestuale barra degli strumenti consentono
 rispettivamente di:
 
 - **Elimina Metodi di Prezzo, quantità e formato** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_metodi_quantita.bmp](./assets/media/image51.png) ): consente di eliminare il template
+  ![](./assets/media/image51.png) ): consente di eliminare il template
   attualmente selezionato in elenco
 
 - **Modifica Metodi di Prezzo, quantità e formato** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_metodi_quantita.bmp](./assets/media/image52.png) ): consente di modificare il template
+  ![](./assets/media/image52.png) ): consente di modificare il template
   attualmente selezionato in elenco
 
 - **Aggiungi Metodi di Prezzo, quantità e formato** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_metodi_quantita.bmp](./assets/media/image53.png) ): consente di creare un nuovo
+  ![](./assets/media/image53.png) ): consente di creare un nuovo
   template all'interno del quale salvare le impostazioni di
   configurazione dell'Inserzione relative a quantità e prezzo degli
   articoli da pubblicare.
@@ -45,7 +45,7 @@ rispettivamente di:
 > Cliccando su questo pulsante verrà quindi visualizzata la maschera
 > "*Dati Metodo di Prezzo, quantità e formato*"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_mkt_inserzioni_3.bmp](./assets/media/image359.png)
+![](./assets/media/image359.png)
 
 > all'interno della quale poter indicare un valore per i seguenti campi:
 
@@ -88,6 +88,6 @@ le corrispondenti informazioni verranno automaticamente aggiornate anche
 in tutte le Inserzioni che utilizzano quello stesso Template
 
 Il pulsante **Inserzioni** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_inserzioni.bmp](./assets/media/image55.png) ) consente di tornare all'elenco delle Inserzioni
+![](./assets/media/image55.png) ) consente di tornare all'elenco delle Inserzioni
 attualmente codificate
 

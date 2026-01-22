@@ -3,14 +3,14 @@
 
 
 L'icona "**Esporta Componente**" (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\icona_esporta_componente.bmp](./assets/media/image269.png) ) presente nel R.O.C. del componente
+![](./assets/media/image269.png) ) presente nel R.O.C. del componente
 e/o nella barra degli strumenti dell' Albero dei Componenti consente di
 esportare il componente in esame in maniera tale da poterlo poi
 importare e riutilizzare in una qualsiasi altra pagina della stessa
 Variante e/o di Varianti differenti (presenti comunque all'interno dello
 stesso ambiente di sviluppo e quindi dello stesso sito)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\esporta_componente.bmp](./assets/media/image270.png)
+![](./assets/media/image270.png)
 
 **ATTENZIONE!** I componenti esportati possono essere riutilizzati
 **solo ed esclusivamente** **all'interno dello stesso ambiente di
@@ -34,7 +34,7 @@ necessario:
 Cliccando su questo pulsante verrà visualizzata la maschera
 "**Esportazione Componente**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\maschera_esporta_componente.bmp](./assets/media/image271.png)
+![](./assets/media/image271.png)
 
 all'interno della quale poter assegnare un valore ai seguenti parametri:
 
@@ -64,7 +64,7 @@ inserire nella pagina un nuovo Componente di tipo Contenitore, cliccando
 sul pulsante "**I miei componenti**" troveremo, nell'elenco dei
 componenti importabili, anche quello appena esportato.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\import_componenti_pulsante.bmp](./assets/media/image272.png)
+![](./assets/media/image272.png)
 
 Al contrario, se dovessimo inserire nella pagina, ad esempio, un
 Componente di tipo Paragrafo cliccando sul pulsante "I miei componenti"
@@ -84,7 +84,7 @@ eventuali regole CSS utilizzate per stilizzare il componente in esame ed
 inserite all'interno del campo "CSS" presente nella maschera di
 configurazione del componente stesso (sezione "Avanzate e Animazioni")**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\avanzate_animazioni_css.bmp](./assets/media/image273.png)
+![](./assets/media/image273.png)
 
 Per maggiori informazioni relativamente alla gestione del campo
 evidenziato in figura si veda anche la corrispondente sezione di questo
@@ -101,7 +101,7 @@ procedura di esportazione al termine della quale il componente in
 oggetto potrà essere visualizzato e gestito anche all'interno della
 sezione "**Sito -- Componenti -- I miei Componenti**" del Wizard
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_componenti_esportati.bmp](./assets/media/image274.png)
+![](./assets/media/image274.png)
 
 Per maggiori informazioni in merito a questa specifica sezione del
 Wizard si veda anche il corrispondente capitolo di questo manuale

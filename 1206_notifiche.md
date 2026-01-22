@@ -14,7 +14,7 @@ notificati, a seconda dei check selezionati, nel momento in cui
 dovessero essere caricati, all'interno della cartella in esame, dei
 nuovi documenti
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_comm_amministratore_cartella.bmp](./assets/media/image76.png)
+![](./assets/media/image76.png)
 
 Nel caso delle **Cartelle Azienda** corrispondenti ad **utenti
 codificati dal back end del proprio sito Passweb,** il discorso è
@@ -141,7 +141,7 @@ inviate le relative notifiche sono quelli impostati all'interno dei
 rispettivi campi dell'anagrafica gestionale, dati questi visibili anche
 in area riservata all'interno della sezione "Profilo Utente"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\comm_riferimenti_notifiche.bmp](./assets/media/image128.png)
+![](./assets/media/image128.png)
 
 Nel momento in cui l'esigenza dovesse essere quella di gestire le
 notifiche SMS, Telegram o Whatsapp in relazione, ad esempio, alle
@@ -185,7 +185,7 @@ icona delle notifiche
 
 sia in bacheca all'interno del box "**Documenti**".
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\comm_notifica_doc_docuvision_bacheca.bmp](./assets/media/image129.png)
+![](./assets/media/image129.png)
 
 **ATTENZIONE! all'interno del box Documenti verranno visualizzati tutti
 i documenti che sono stati aggiunti in Docuvision piuttosto che

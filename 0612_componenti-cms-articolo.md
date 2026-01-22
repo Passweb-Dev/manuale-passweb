@@ -4,7 +4,7 @@
 
 Il Componente CMS **"Articolo"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cms_componente_articolo_res.bmp](./assets/media/image53.png)
+![](./assets/media/image53.png)
 
 corrisponde esattamente al dettaglio della notizia che dovrà essere
 pubblicata all'interno del corrispondente Componente CMS di livello
@@ -15,12 +15,12 @@ Tale componente è composto poi da due diversi elementi:
 1.  Il testo inserito, in fase di codifica della notizia, all'interno
     del campo "**Contenuto**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_cms_articolo.bmp](./assets/media/image54.png)
+![](./assets/media/image54.png)
 
 2.  L'immagine inserita in fase di codifica della notizia in
     corrispondenza del campo "**Immagine (Articolo)**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_cms_articolo2_res.bmp](./assets/media/image55.png)
+![](./assets/media/image55.png)
 
 **Entrambi questi elementi potranno essere o meno visualizzati
 all'interno del componente Articolo dipendentemente dalla configurazione
@@ -30,7 +30,7 @@ A livello di configurazione, una volta inserito il Componente
 all'interno della pagina web, verrà aperta in automatico **la sua
 maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_cms_articolo_configurazione_res.bmp](./assets/media/image56.png)
+![](./assets/media/image56.png)
 
 suddivisa in varie sezioni.
 

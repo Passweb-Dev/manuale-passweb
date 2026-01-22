@@ -23,28 +23,28 @@ Per attivare questo tipo di modalità è sufficiente accedere alla
 dashboard di gestione del Contenitore e cliccare sul pulsante
 "**Anteprima**" presente nella parte alta della maschera
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_25a.bmp](./assets/media/image27.png)
+![](./assets/media/image27.png)
 
 In alternativa è anche possibile accedere alla sezione "**Versioni**"
 dell'interfaccia web di GTM, individuare la versione dello specifico
 Contenitore su cui si desidera operare e selezionare dal menu
 **"Azioni"** la voce **Anteprima**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_26a.bmp](./assets/media/image28.png)
+![](./assets/media/image28.png)
 
 In ogni caso dopo aver avviato la modalità Anteprima ci verrà chiesto di
 connettere una pagina del nostro sito a GTM mediante Tag Assistant (di
 cui è presente anche un'apposita estensione per Chrome o per i browser
 WebKit)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_26b.bmp](./assets/media/image29.png)
+![](./assets/media/image29.png)
 
 Una volta indicata la pagina del sito da collegare cliccando sul
 pulsante "**Connect**" verrà aperto un nuovo tab del browser con la
 pagina indicata e verrà stabilita la connessione tra quella specifica
 sessione di visita e Google Tag Manager
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_26c.bmp](./assets/media/image30.png)
+![](./assets/media/image30.png)
 
 Tornando invece nel tab relativo a Tag Assistant e Tag Manager avremo la
 possibilità di visualizzare una console contenente informazioni
@@ -52,7 +52,7 @@ dettagliate sul Contenitore che dovrebbe essere pubblicato all'interno
 del sito e sui Tag in esso contenuti, compreso il loro stato di
 attivazione (Tags Fired o Tags not Fired).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_27a.bmp](./assets/media/image31.png)
+![](./assets/media/image31.png)
 
 **ATTENZIONE!** La Console evidenziata in figura verrà visualizzata solo
 ed esclusivamente sullo stesso browser utilizzato per gestire GTM. In
@@ -63,7 +63,7 @@ gestendo GTM non invieranno alcun tipo di dati.
 Cliccando su uno di questi Tag sarà possibile visualizzare informazioni
 dettagliate sulle sue proprietà e sui suoi attivatori
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_29a.bmp](./assets/media/image32.png)
+![](./assets/media/image32.png)
 
 Per maggiori informazioni sulle funzionalità di anteprima e debug e
 sulla relativa console si consiglia di fare riferimento alla specifica

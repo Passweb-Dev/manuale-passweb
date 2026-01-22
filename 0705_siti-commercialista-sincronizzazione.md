@@ -17,7 +17,7 @@ di tempo.
 La maschera "**Parametri Sincronizzazione**", accessibile dalla voce di
 menu **"Configurazione - Sincronizzazione"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\passcom_parametri_sincronizzazione.bmp](./assets/media/image200.png)
+![](./assets/media/image200.png)
 
 consente quindi di indicare con che frequenza dovranno essere effettuate
 le operazioni di sincronizzazione gestite in automatico

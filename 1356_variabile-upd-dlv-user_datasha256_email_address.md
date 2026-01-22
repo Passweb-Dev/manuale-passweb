@@ -36,7 +36,7 @@ variabile in questione:
 3.  Nella successiva maschera impostare i campi di configurazione della
     variabile come di seguito indicato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\upd_dlv_email.bmp](./assets/media/image200.png)
+![](./assets/media/image200.png)
 
 - **Nome varabile di livello dati**: impostare sul valore
   "**user_data.sha256_email_address**"
@@ -47,7 +47,7 @@ variabile in questione:
     user_data.sha256_email_address**") utilizzando l'apposito campo
     presente nella parte alta della pagina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\upd_dlv_email_2.bmp](./assets/media/image201.png)
+![](./assets/media/image201.png)
 
 > e cliccare sul pulsante "**Salva**"
 

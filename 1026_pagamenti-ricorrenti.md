@@ -95,18 +95,18 @@ direttamente dal backoffice di Nexi, potrà essere gestito in Passweb:
   "**Nota nuovo Ordine**" alla pagina "**Configurazione Parametri
   Ordine**" del Wizard )
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\segnaposto_nexi_nota_ordine.bmp](./assets/media/image131.png)
+![](./assets/media/image131.png)
 
 > Utilizzando il segnaposto evidenziato in figura il codice contratto
 > creato su Nexi verrà quindi riportato anche nella nota di testata
 > dell'ordine inserito all'interno del gestionale
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\segnaposto_nexi_nota_ordine_mexal.bmp](./assets/media/image132.png)
+![](./assets/media/image132.png)
 
 - Come segnaposto nel dettaglio documento (tab "**Documento**" alla
   pagina "**Configurazione Parametri Ordine**" del Wizard)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\segnaposto_nexi_dettaglio_documento.bmp](./assets/media/image133.png)
+![](./assets/media/image133.png)
 
 > Utilizzando il segnaposto evidenziato in figura il codice contratto
 > creato su Nexi potrà quindi essere riportato anche nel dettaglio
@@ -116,7 +116,7 @@ direttamente dal backoffice di Nexi, potrà essere gestito in Passweb:
 - Come segnaposto per il parametro "**Dettaglio**" presente nella
   maschera di configurazione del pagamento
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\segnaposto_nexi_dettaglio_pagamento.bmp](./assets/media/image134.png)
+![](./assets/media/image134.png)
 
 > Utilizzando il segnaposto evidenziato in figura il codice contratto
 > creato su Nexi potrà quindi essere riportato anche nel dettaglio
@@ -125,7 +125,7 @@ direttamente dal backoffice di Nexi, potrà essere gestito in Passweb:
 - nel dettaglio del documento visualizzabile direttamente all'interno
   del Wizard
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\segnaposto_nexi_dettaglio_documento_wizard.bmp](./assets/media/image135.png)
+![](./assets/media/image135.png)
 
 - come campo presente nel tracciato record degli ordini esportati dal
   Wizard di Passweb
@@ -165,7 +165,7 @@ Ora per poter ottenere un risultato di questo tipo sarà necessario:
   di vendita**" disponibile nelle videate aggiuntive articolo Mexal
   riservate a Passweb
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\qta_max_vendita.bmp](./assets/media/image136.png)
+![](./assets/media/image136.png)
 
 > **ATTENZIONE!** per maggiori informazioni in merito alla funzionalità
 > "Quantità massima di vendita" si veda quanto indicato all'interno del
@@ -189,7 +189,7 @@ Ora per poter ottenere un risultato di questo tipo sarà necessario:
 > "**Configurazione Catalogo**" del Wizard sull'opzione "**Modifica riga
 > articolo**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\qta_max_vendita_2.bmp](./assets/media/image137.png)
+![](./assets/media/image137.png)
 
 > In queste condizioni infatti nel momento in cui l'utente dovesse
 > cercare di inserire in carrello due volte lo stesso servizio, non

@@ -4,7 +4,7 @@
 
 Il Componente **"Filtro Slider"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_filtro_slider_res.bmp](./assets/media/image624.png)
+![](./assets/media/image624.png)
 
 **può essere inserito unicamente all'interno del componente Ecommerce di
 primo livello "Ricerca".**
@@ -18,7 +18,7 @@ sulla base:
 
 - di generici **attributi di tipo numerico**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\filtro_slider_prezzo.bmp](./assets/media/image625.png)
+![](./assets/media/image625.png)
 
 È possibile impostare il range di ricerca mediante il trascinamento dei
 due piccoli pulsanti posti ai lati della barra orizzontale oppure
@@ -38,7 +38,7 @@ Rilasciando il Componente nella posizione desiderata all'interno della
 pagina web, verrà visualizzata **la sua maschera di gestione e
 configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_filtro_slider_configurazione_res.bmp](./assets/media/image626.png)
+![](./assets/media/image626.png)
 
 suddivisa in varie sezioni.
 

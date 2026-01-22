@@ -8,7 +8,7 @@ proprio sito web.
 
 Effettuando l'accesso verrà visualizzata la maschera **"Lista Utenti"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\utenti.bmp](./assets/media/image36.png)
+![](./assets/media/image36.png)
 
 attraverso cui poter ricercare uno specifico utente, visualizzarne
 l'anagrafica, modificarne, se possibile, i dati ed eventualmente
@@ -45,7 +45,7 @@ quali informazioni dovranno essere visualizzate direttamente in tabella.
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 "**Colonne**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_utenti_colonne.bmp](./assets/media/image39.png)
+![](./assets/media/image39.png)
 
 mediante la quale poter decidere quale campo attivare / disattivare e
 conseguentemente quale informazione mostrare / nascondere.
@@ -57,7 +57,7 @@ sul pulsante raffigurante una piccola i (
 ![Videate\\icona_proprieta.bmp](./assets/media/image40.png) ) posto in corrispondenza di ogni
 singola riga
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dettaglio_cliente.bmp](./assets/media/image41.png)
+![](./assets/media/image41.png)
 
 In definitiva dunque, all'interno di questa maschera sarà possibile
 visualizzare / nascondere per ogni singolo cliente le seguenti
@@ -94,19 +94,19 @@ di telefono e indirizzo mail) assegnate al relativo cliente e consentono
 rispettivamente di:
 
 - **Mail** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_mail.bmp](./assets/media/image42.png) ): consente, se cliccato, di aprire
+  ![](./assets/media/image42.png) ): consente, se cliccato, di aprire
   automaticamente il programma di posta elettronica, impostato a default
   sul proprio dispositivo, già settato per l'invio di una nuova mail
   all'indirizzo del relativo utente
 
 - **Telefono** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_telefono.bmp](./assets/media/image43.png) ): consente, se cliccato, di avviare
+  ![](./assets/media/image43.png) ): consente, se cliccato, di avviare
   automaticamente una chiamata al numero di telefono del relativo utente
   (utile nel momento in cui questa sezione del Wizard dovesse essere
   consultata da mobile o da app Passweb Monitor)
 
 - **Whatsapp** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_whatsapp.bmp](./assets/media/image44.png) ): consente, se cliccato, di aprire
+  ![](./assets/media/image44.png) ): consente, se cliccato, di aprire
   Whatsapp sul numero di telefono del relativo utente (utile nel momento
   in cui questa sezione del Wizard dovesse essere consultata da mobile o
   da app Passweb Monitor e, ovviamente, nel caso in cui su tale
@@ -116,15 +116,15 @@ rispettivamente di:
 presenti anche in corrispondenza dei relativi campi nell'Anagrafica
 Passweb di ogni singolo cliente
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsanti_azioni_utente.bmp](./assets/media/image45.png)
+![](./assets/media/image45.png)
 
 Infine, nel momento in cui l'esigenza dovesse essere quella di ricercare
 determinati clienti tra quelli presenti in elenco, sarà possibile
 utilizzare i due pulsanti "**Filtri**" (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_filtri.bmp](./assets/media/image46.png) ) e "**Filtri Avanzati**" (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_filtri_avanzati.bmp](./assets/media/image47.png) ) presenti nella contestuale barra degli strumenti.
+![](./assets/media/image46.png) ) e "**Filtri Avanzati**" (
+![](./assets/media/image47.png) ) presenti nella contestuale barra degli strumenti.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsanti_ricerca_clienti.bmp](./assets/media/image48.png)
+![](./assets/media/image48.png)
 
 Nello specifico il pulsante:
 
@@ -133,7 +133,7 @@ Nello specifico il pulsante:
 ricerca contenente una serie di campi standard sulla base dei quali
 poter ricercare gli utenti in griglia
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\utenti_filtri_standard.bmp](./assets/media/image50.png)
+![](./assets/media/image50.png)
 
 Utilizzando questa tipologia di filtro sarà quindi possibile effettuare
 delle ricerche sulla base dei seguenti campi:
@@ -155,16 +155,16 @@ delle ricerche sulla base dei seguenti campi:
 - **Gruppo di appartenenza**
 
 **Filtri** **Avanzati**(
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_filtri_avanzati.bmp](./assets/media/image47.png) ) : consente, se cliccato, di aprire un pannello di
+![](./assets/media/image47.png) ) : consente, se cliccato, di aprire un pannello di
 ricerca contenente un query builder utilizzabile per creare e
 customizzare il proprio filtro
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\utenti_filtri_avanzati.bmp](./assets/media/image51.png)
+![](./assets/media/image51.png)
 
 Il pulsante "**Aggiungi un nuovo filtro**" consente di visualizzare
 l'elenco dei campi su cui poter impostare la condizione di filtro.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\utenti_filtri_avanzati_2.bmp](./assets/media/image52.png)
+![](./assets/media/image52.png)
 
 Oltre a campi utente "standard" come Codice, Categoria Statistica, Zona,
 Partita IVA ... saranno disponibili e selezionabili anche tutti gli
@@ -176,7 +176,7 @@ necessario selezionare l'operatore relazionale (uguale, contiene, è in
 campo in esame dovrà assumere affinché la condizione impostata possa
 essere effettivamente soddisfatta.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\utenti_filtri_avanzati_3.bmp](./assets/media/image53.png)
+![](./assets/media/image53.png)
 
 In questo senso, ovviamente, gli operatori disponibili e le modalità di
 inserimento del valore da soddisfare potranno cambiare in relazione alla
@@ -193,7 +193,7 @@ selezionato quello desiderato, cliccando sull'etichetta "**Nazioni**"
 verrà aperta una piccola finestra contenente l'elenco delle Nazioni
 attualmente gestite all'interno del sito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\utenti_filtri_avanzati_4.bmp](./assets/media/image54.png)
+![](./assets/media/image54.png)
 
 A questo punto sarà quindi sufficiente selezionare le Nazioni
 desiderate, tra quelle presenti in elenco, e chiudere la finestra di
@@ -218,7 +218,7 @@ articoli.
 Cliccando su questo elemento verranno visualizzati tutti gli operatori
 logici da poter utilizzare nella costruzione della propria query.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\utenti_filtri_avanzati_5.bmp](./assets/media/image55.png)
+![](./assets/media/image55.png)
 
 In questo senso, come precedentemente evidenziato, la **"e"**
 corrisponderà all'operatore logico **AND** mentre la **"o"**
@@ -227,7 +227,7 @@ questi operatori, potranno essere utilizzate, esattamente come avviene
 in algebra, per specificare quali condizioni dovranno essere valutate
 prima e quali dopo.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\utenti_filtri_avanzati_6.bmp](./assets/media/image56.png)
+![](./assets/media/image56.png)
 
 Il filtro rappresentato in figura consente, ad esempio, di ricercare
 tutti gli utenti di una data Nazione e che risultano avere l'attributo
@@ -251,7 +251,7 @@ impostati è possibile procedere in due modi diversi:
   applicato un filtro di questo tipo, nella relativa barra degli
   strumenti
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\utenti_filtri_avanzati_7.bmp](./assets/media/image59.png)
+![](./assets/media/image59.png)
 
 **ATTENZIONE! i filtri standard non sono compatibili con i filtri di
 ricerca avanzati**
@@ -268,7 +268,7 @@ evidenziati:
 
 - **in bianco** gli utenti di tipo "**Cliente"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clienti_ecommerce_no_ar.bmp](./assets/media/image60.png)
+![](./assets/media/image60.png)
 
 Questo tipo di utenti rappresentano i **clienti del sito E-commerce che
 hanno già effettuato degli ordini e la cui anagrafica è già stata
@@ -281,7 +281,7 @@ del sito web.
 - **in azzurro** gli utenti di tipo "**Cliente Area Riservata"**
   abilitati ad accedere all'Area Riservata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clienti_ecommerce_ar.bmp](./assets/media/image61.png)
+![](./assets/media/image61.png)
 
 Questo tipo di utenti rappresentano i **clienti del sito E-commerce che
 hanno già effettuato degli ordini e la cui anagrafica è già stata
@@ -292,7 +292,7 @@ funzionalità caratteristiche di questa particolare sezione del sito web.
 
 - **in grigio** gli utenti di tipo **"Agente" (solo Ecommerce Mexal)**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clienti_agente.bmp](./assets/media/image62.png)
+![](./assets/media/image62.png)
 
 Questo tipo di utenti altro non sono se non gli **Agenti Mexal**
 correttamente esportati e gestiti anche all'interno del sito. Ogni
@@ -312,7 +312,7 @@ capitolo "Utenti Area Riservata" di questo manuale
 
 - **in giallo** gli utenti di tipo **"Contatto"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\contatto.bmp](./assets/media/image63.png)
+![](./assets/media/image63.png)
 
 Questa tipologia rappresenta i nuovi utenti del sito E-commerce, ossia
 quei clienti che hanno effettuato una nuova registrazione senza però
@@ -391,7 +391,7 @@ I pulsanti presenti nella barra degli strumenti della maschera "Lista
 Utenti" consentono rispettivamente di:
 
 **Importazione Dati Utente**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_importa_dati_utente.bmp](./assets/media/image64.png) ): consente di gestire in maniera
+(![](./assets/media/image64.png) ): consente di gestire in maniera
 massiva, mediante l'upload di un apposito file csv, determinati dati
 degli utenti attualmente presenti all'interno del proprio sito Passweb.
 
@@ -403,7 +403,7 @@ Cliccando su questo pulsante verrà visualizzata la maschera **"File Dati
 Utenti"** mediante la quale poter effettuare l'upload del file
 contenente le informazioni desiderate.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\import_file_dati_utente.bmp](./assets/media/image65.png)
+![](./assets/media/image65.png)
 
 Nello specifico all'interno di questa sezione sarà necessario indicare:
 
@@ -619,7 +619,7 @@ Mail**" del Wizard filtrando per tipo "**Mail di Importazione Dati
 Utenti**"
 
 **Esportazione Utenti**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_esporta_utenti.bmp](./assets/media/image66.png) ): consente di esportare **in formato
+(![](./assets/media/image66.png) ): consente di esportare **in formato
 csv** l'elenco di tutti gli utenti attualmente presenti all'interno del
 proprio sito.
 
@@ -627,7 +627,7 @@ Cliccando su questo pulsante verrà visualizzata la maschera
 "**Esportazione Utenti**" all'interno della quale poter configurare
 l'esportazione dei dati.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\esportazione_utenti.bmp](./assets/media/image67.png)
+![](./assets/media/image67.png)
 
 E' possibile impostare (campo **Separatore**) il carattere che dovrà
 essere utilizzato nel file di esportazione come separatore dei vari
@@ -665,7 +665,7 @@ generato uno zip contenente, oltre al file csv, anche tutti i vari file
 relativi agli utenti oggetto dell'esportazione.
 
 **Elimina Utente**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_utente.bmp](./assets/media/image68.png) ): consente di eliminare, dal database di
+(![](./assets/media/image68.png) ): consente di eliminare, dal database di
 Passweb, gli utenti attualmente selezionati in elenco
 
 **ATTENZIONE! La corretta procedura di eliminazione di un utente dal
@@ -696,7 +696,7 @@ all'eliminazione dell'utente potranno essere gestite all'interno della
 sezione "**Cartelle Non Assegnate**" del Wizard
 
 **Modifica Utente** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_utente.bmp](./assets/media/image10.png) ): consente di accedere all'anagrafica
+![](./assets/media/image10.png) ): consente di accedere all'anagrafica
 Passweb dell'utente attualmente selezionato in elenco in maniera tale da
 poterne visualizzare e, nel caso, anche modificare i relativi dati.
 
@@ -704,7 +704,7 @@ Per maggiori informazioni in merito si vedano anche i successivi
 capitoli di questo manuale
 
 **Converti Contatto in Cliente** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_converti_contatto.bmp](./assets/media/image69.png) ): visibile solo nel caso in cui
+![](./assets/media/image69.png) ): visibile solo nel caso in cui
 l'utente selezionato in elenco sia un utente di tipo "**Contatto**".
 
 Consente di convertire il contatto attualmente selezionato in cliente.
@@ -726,7 +726,7 @@ La sezione "**Informazioni Generali**" presente all'interno della
 maschera "**Dati Utente"** consente di visualizzare e gestire i
 principali dati anagrafici dell'utente in esame,
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\anagrafica_utente1.bmp](./assets/media/image70.png)
+![](./assets/media/image70.png)
 
 **ATTENZIONE!** I dati presenti all'interno di questa maschera possono
 variare a seconda della particolare tipologia di utenza considerata e,
@@ -968,7 +968,7 @@ maschera "**Dati Utente"** e **visibile solo ed esclusivamente per
 utenti di tipo Cliente o Contatto,** consente di visualizzare e gestire
 tutti gli indirizzi di spedizione dell'utente in esame.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\anagrafica_utente3.bmp](./assets/media/image71.png)
+![](./assets/media/image71.png)
 
 Nella parte sinistra è visualizzato l'elenco di tutti gli indirizzi di
 spedizione attualmente associati all'utente.
@@ -1006,7 +1006,7 @@ Al pari della sezione relativa agli indirizzi di spedizione, anche
 quella relativa alle "**Condizioni Commerciali**" sarà visibile solo per
 utenti di tipo Cliente o Contatto.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\anagrafica_utente4.bmp](./assets/media/image72.png)
+![](./assets/media/image72.png)
 
 In particolare poi
 
@@ -1028,7 +1028,7 @@ In particolare poi
 - Per **utenti di tipo Contatto** alcune delle informazioni presenti
   all'interno di questa sezione sono ancora perfettamente modificabili.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\condizioni_commerciali_contatti.bmp](./assets/media/image73.png)
+![](./assets/media/image73.png)
 
 In quest'ultimo caso infatti l'anagrafica dell'utente non è ancora stata
 inserita sul gestionale per cui il campo:
@@ -1124,7 +1124,7 @@ La sezione **"Gruppi",** presente all'interno della maschera "**Dati
 Utente"**, consente di gestire l'associazione dell'utente in esame ad
 uno dei gruppi attualmente definiti e gestiti all'interno del sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\anagrafica_utente6.bmp](./assets/media/image74.png)
+![](./assets/media/image74.png)
 
 **NOTA BENE:** l'associazione "Utente -- Gruppo" è di fondamentale
 importanza sia ai fini della comunicazione all'interno dell'area
@@ -1155,7 +1155,7 @@ Utente"**, consente di visualizzare e/o modificare i vari attributi
 utente (Mexal e/o Passweb) codificati all'interno della corrispondente
 sezione del Wizard
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dati_utente_attributi.bmp](./assets/media/image75.png)
+![](./assets/media/image75.png)
 
 **NOTA BENE:** per maggiori informazioni relativamente alla gestione
 degli "Attributi Cliente" si veda anche la corrispondente sezione
@@ -1177,7 +1177,7 @@ Nello specifico occorre considerare che:
   soltanto dagli stessi utenti agendo direttamente dai relativi moduli
   presenti sul front end del sito stesso.**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dati_utente_privacy_opzionale.bmp](./assets/media/image76.png)
+![](./assets/media/image76.png)
 
 > Per maggiori informazioni relativamente alla gestione delle condizioni
 > di privacy e trattamento dei dati personali si vedano anche i capitoli
@@ -1192,5 +1192,5 @@ Nello specifico occorre considerare che:
   download della relativa risorsa (risorse queste che potranno essere
   scaricate anche mediante un export massivo dei dati utente)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dati_utente_campi_file.bmp](./assets/media/image77.png)
+![](./assets/media/image77.png)
 

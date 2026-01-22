@@ -18,7 +18,7 @@ Per ottenere un Set di Chiavi di Configurazione valide è necessario,
 innanzi tutto, registrarsi al sito <https://go.developer.ebay.com>
 cliccando per questo sul relativo pulsante presente in testata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\ebay_1.bmp](./assets/media/image1.png)
+![](./assets/media/image1.png)
 
 Una volta effettuata la registrazione ed effettuato l'accesso
 all'ambiente developer di eBay, sarà poi necessario creare una nuova
@@ -28,7 +28,7 @@ corrispondenza della sezione **"Sandbox"** (2) o **"Production"** (3)
 per creare il Set di Chiavi di Configurazione relativo rispettivamente
 all'ambiente di Test oppure e a quello di Produzione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\ebay_2.bmp](./assets/media/image2.png)
+![](./assets/media/image2.png)
 
 **ATTENZIONE! E' necessario creare il set di Chiavi di Configurazione
 tanto per l'ambiente di Test quanto per quello di Produzione.**
@@ -41,13 +41,13 @@ quello di Produzione è esattamente lo stesso
 Una volta confermati i dati dell'account cliccando sul pulsante
 **"Continue to Create Keys"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\ebay_4.bmp](./assets/media/image3.png)
+![](./assets/media/image3.png)
 
 verranno generate tutte le chiavi di configurazione necessarie per
 realizzare l'integrazione tra il proprio sito Ecommerce e la piattaforma
 di eBay.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\ebay_5.bmp](./assets/media/image4.png)
+![](./assets/media/image4.png)
 
 Tali chiavi dovranno quindi essere inserite all'interno del proprio sito
 Passweb.
@@ -58,15 +58,15 @@ Chiavi di Configurazione eBay"** presente all'interno della sezione
 questa all'interno della quale verranno visualizzate tutte le chiavi di
 configurazione attualmente inserite all'interno del proprio sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_7.bmp](./assets/media/image5.png)
+![](./assets/media/image5.png)
 
 Il pulsante **"Aggiungi Chiave" (**
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_chiave.bmp](./assets/media/image6.png) **)** presente nella contestuale barra
+![](./assets/media/image6.png) **)** presente nella contestuale barra
 degli strumenti consente di creare un nuovo set di chiavi di
 configurazione. Cliccando su di esso verrà infatti aperta la maschera
 **Chiavi di Configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_6.bmp](./assets/media/image7.png)
+![](./assets/media/image7.png)
 
 all'interno della quale poter inserire le chiavi di configurazione
 precedentemente ottenute.
@@ -88,22 +88,22 @@ nuovamente su eBay nella pagina di generazione delle chiavi di
 configurazione e cliccare sulla voce **"User Tokens"** presente in
 corrispondenza della chiave **"App ID"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\ebay_9.bmp](./assets/media/image8.png)
+![](./assets/media/image8.png)
 
 Aprire quindi la sezione **"Get a Token from eBay via Your
 Application"** (1) e cliccare sul pulsante **"Add eBay Redirect URL"**
 (2)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\ebay_10.bmp](./assets/media/image9.png)
+![](./assets/media/image9.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\ebay_11.bmp](./assets/media/image10.png)
+![](./assets/media/image10.png)
 
 Una volta inserti i dati richiesti cliccando sul pulsante "**Continue to
 create RuName**" verrà creato il proprio "**eBay Redirect URL**" che
 potremo quindi prelevare ed inserire all'interno dell'apposito campo sul
 Wizard di Passweb
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\ebay_12.bmp](./assets/media/image11.png)
+![](./assets/media/image11.png)
 
 Una volta inserita anche questa informazione, per completare la
 creazione della "Chiave di Configurazione" necessaria per realizzare
@@ -111,7 +111,7 @@ l'integrazione tra Passweb ed eBay, sarà necessario assegnare un nome
 alla Chiave (campo "Nome") e decidere se attivarla o meno (campo
 "Attiva")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_13.bmp](./assets/media/image12.png)
+![](./assets/media/image12.png)
 
 **ATTENIONE!** E' possibile impostare più chiavi di configurazione ma
 sarà poi possibile attivarne soltanto una
@@ -120,20 +120,20 @@ I pulsanti presenti nella barra degli strumenti della maschera "Lista
 delle Chiavi di Configurazione eBay" consentono, infine, di:
 
 - **Aggiungi Chiave (**
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_chiave.bmp](./assets/media/image6.png) **):** consente di aggiungere un nuovo
+  ![](./assets/media/image6.png) **):** consente di aggiungere un nuovo
   seti di chiavi di configurazione
 
 - **Modifica Chiave (**
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_chiave.bmp](./assets/media/image13.png) **):** consente di modificare il set
+  ![](./assets/media/image13.png) **):** consente di modificare il set
   di chiavi di configurazione attualmente selezionato in elenco
 
 - **Elimina Chiave (**
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_chiave.bmp](./assets/media/image14.png) **):** consente di eliminare il set di chiavi di
+  ![](./assets/media/image14.png) **):** consente di eliminare il set di chiavi di
   configurazione attualmente selezionato in elenco
 
 - **Attiva Chiave (**
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_attiva_chiave.bmp](./assets/media/image15.png) **) / Disattiva Chiave (**
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_disattiva_chiave.bmp](./assets/media/image16.png) **):** consente di attivare /
+  ![](./assets/media/image15.png) **) / Disattiva Chiave (**
+  ![](./assets/media/image16.png) **):** consente di attivare /
   disattivare il seti di chiavi di configurazione attualmente
   selezionato il elenco
 

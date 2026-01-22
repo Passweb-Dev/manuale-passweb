@@ -29,7 +29,7 @@ disposizione da Iubenda sarà necessario:
 > tale da mantenere aggiornati in maniera automatica i documenti legali
 > prodotti da Iubenda con i relativi consensi forniti dagli utenti
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\consent_solution_2.bmp](./assets/media/image7.png)
+![](./assets/media/image7.png)
 
 > Per maggiori informazioni relativamente a come attivare e configurare
 > su Iubenda la Consent Solution si consiglia di fare sempre riferimento
@@ -43,7 +43,7 @@ disposizione da Iubenda sarà necessario:
     inviare alla piattaforma terza (es. form di registrazione utenti,
     form del profilo utente, form generici di richiesta dati ...)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\consent_solution_3.bmp](./assets/media/image8.png)
+![](./assets/media/image8.png)
 
 > Come nel caso della Cookie Solution anche questa volta il codice di
 > integrazione potrà essere inserito nell' \< head \> delle relative
@@ -62,7 +62,7 @@ disposizione da Iubenda sarà necessario:
     memorizzare nel registro dei consensi di Iubenda i dati inserti
     dagli utenti in fase di compilazione di quello stesso form.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\consent_solution_4.bmp](./assets/media/image9.png)
+![](./assets/media/image9.png)
 
 Relativamente all'implementazione della funzione javascript necessaria
 per inviare i relativi consensi al registro di Iubenda occorre

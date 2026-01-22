@@ -36,7 +36,7 @@ impostare, oltre ai parametri classici di configurazione del pagamento,
 anche quelli specifici del gateway attualmente considerato e presenti
 all'interno della sezione "**Parametri Gateway**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_sardexnet.bmp](./assets/media/image192.png)
+![](./assets/media/image192.png)
 
 Nello specifico all'interno di questa sezione il campo:
 
@@ -61,7 +61,7 @@ dell'ordine, selezionare la modalità di pagamento in esame, l'ordine
 sarà memorizzato nel database di Passweb, e l'utente verrà reindirizzato
 sul sito del gateway di pagamento dove dovrà inserire i relativi dati.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sardexnet_1.bmp](./assets/media/image193.png)
+![](./assets/media/image193.png)
 
 **ATTENZIONE! Per poter concludere una transazione l'utente dovrà
 accedere al gateway di pagamento con il proprio account. Nel caso in cui
@@ -73,7 +73,7 @@ alcun pagamento**. L'utente potrà ancora decidere, quindi, di annullare
 tutto oppure di portare a termine l'acquisto e completare la
 transazione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sardexnet_2.bmp](./assets/media/image194.png)
+![](./assets/media/image194.png)
 
 Nel primo caso (pulsante **Annulla**) l'utente verrà reindirizzato al
 sito ecommerce dove si troverà l'ordine ancora da confermare. Volendo
@@ -86,7 +86,7 @@ Nel secondo caso (pulsante **Paga**), una volta confermata la
 transazione verrà presentata all'utente una pagina con la conferma del
 pagamento appena effettuato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sardexnet_3.bmp](./assets/media/image195.png)
+![](./assets/media/image195.png)
 
 e, dopo pochi secondi, sarà automaticamente ricondotto al sito
 Ecommerce. L'ordine verrà considerato valido ed inserito quindi

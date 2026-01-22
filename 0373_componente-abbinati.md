@@ -6,7 +6,7 @@ Il Componente **"Articoli Abbinati"** consente di inserire all'interno
 della pagina prodotto, opportunamente suddivisi per categorie, tutti gli
 articoli abbinati al prodotto attualmente selezionato.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_abbinati_11.bmp](./assets/media/image119.png)
+![](./assets/media/image119.png)
 
 **ATTENZIONE!** La definizione dei vari abbinamenti dovrà essere
 effettuata sul gestionale o all'interno del Wizard di Passweb
@@ -43,7 +43,7 @@ inserito unicamente all'interno della pagina "Prodotti" generica oppure
 all'interno della pagina "Prodotto" relativa ad uno specifico
 articolo**.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_abbinati.bmp](./assets/media/image120.png)
+![](./assets/media/image120.png)
 
 In particolare, inserendo il Componente all'interno della pagina
 "Prodotti" generica, accessibile dalla corrispondente voce del menu
@@ -76,5 +76,5 @@ La tab-strip contenente le varie categorie di abbinati sarà preceduta
 all'interno del sito da un'etichetta modificabile alla pagina "*Testi
 dei Componenti"* del Wizard agendo sul componente "Articoli Abbinati"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\abbinati_etichetta.bmp](./assets/media/image121.png)
+![](./assets/media/image121.png)
 

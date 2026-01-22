@@ -6,7 +6,7 @@ Come precedentemente evidenziato all'interno di Passweb ad ogni singola
 pagina Catalogo, e conseguentemente ad ogni singola categoria
 Merceologica, corrisponde una specifica "**Pagina Prodotto**",
 evidenziata in rosso all'interno dell'albero
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_pagina_prodotto_res.bmp](./assets/media/image104.png) ).
+(![](./assets/media/image104.png) ).
 
 Come per le pagine Catalogo dunque anche le Pagine Prodotto sono pagine
 fortemente tipizzate, presenti unicamente nel caso in cui il sito sia

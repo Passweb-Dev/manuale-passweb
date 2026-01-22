@@ -58,7 +58,7 @@ querystring e corrispondente link di filtraggio:
 4.  Utilizzare il pannello di ricerca per impostare e applicare al
     Catalogo Ecommerce il filtro desiderato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\querystring_ricerca_3.bmp](./assets/media/image48.png)
+![](./assets/media/image48.png)
 
 > Nell'esempio in figura è stato impostato un filtro per ricercare tutti
 > gli articoli a catalogo con marca "Apple" e tipologia "Accessori"
@@ -68,13 +68,13 @@ querystring e corrispondente link di filtraggio:
     una piccola icona "**Copia**" grazie alla quale poter ottenere la
     querystring corrispondente al filtro appena impostato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\querystring_ricerca_4.bmp](./assets/media/image49.png)
+![](./assets/media/image49.png)
 
 6.  Cliccare quindi sull'icona "**Copia**" per copiare nella Clipboard
     (Appunti) la relativa querystring ed incollarla in un qualsiasi
     editor di testo
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\querystring_ricerca_5.bmp](./assets/media/image50.png)
+![](./assets/media/image50.png)
 
 7.  A questo punto per ottenere il link di filtraggio automatico sarà
     sufficiente **unire il percorso della pagina del sito in cui è
@@ -96,7 +96,7 @@ querystring e corrispondente link di filtraggio:
 > Per far questo e sufficiente visitare questo stesso link inserendolo
 > nella barra degli indirizzi del browser.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\querystring_ricerca_6.bmp](./assets/media/image51.png)
+![](./assets/media/image51.png)
 
 > **ATTENZIONE!** La pagina del sito utilizzata per costruire il link di
 > filtraggio e a cui verrà quindi applicato il relativo filtro dovrà

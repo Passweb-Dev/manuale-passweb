@@ -180,7 +180,7 @@ all'interno della pagina "*Sito -- Preferenze -- Integrazioni*" del
 Wizard impostando, questa volta, il parametro "**Formato dati
 strutturati**" sull'opzione "JSON-LD"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\json-ld_1.bmp](./assets/media/image3.png)
+![](./assets/media/image3.png)
 
 **ATTENZIONE!** nel momento in cui si dovesse variare l'impostazione
 settata per il parametro "Formato dati strutturati", passando ad esempio
@@ -497,7 +497,7 @@ Nello specifico il check:
 > corrispondenza del relativo campo presente alla pagina "**Preferenze
 > Sito**" (sezione SEO) del Wizard
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\json-ld_seller_name.bmp](./assets/media/image4.png)
+![](./assets/media/image4.png)
 
 - **Disponibilità prodotto:** consente, se attivato, di inserire
   all'interno del JSON-LD, nella sezione relativa all'oggetto *"offers"*
@@ -656,7 +656,7 @@ il titolo, la descrizione, il prezzo, la disponibilità ecc... sarà
 necessario utilizzare il JSON Builder presente all'interno della sezione
 "**Struttura JSON-LD**" evidenziata in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\json-ld_json_builder.bmp](./assets/media/image5.png)
+![](./assets/media/image5.png)
 
 Per maggiori informazioni in merito all'utilizzo di questo strumento si
 veda quanto indicato nel successivo capitolo "*JSON Builder*" di questo

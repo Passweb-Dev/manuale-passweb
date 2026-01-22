@@ -5,7 +5,7 @@
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\giftcard_configurazione.bmp](./assets/media/image246.png)
+![](./assets/media/image246.png)
 
 suddivisa in varie sezioni.
 

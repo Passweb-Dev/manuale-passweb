@@ -6,13 +6,13 @@ Nel momento in cui l'esigenza dovesse essere quella di creare un nuovo
 Set di Opzioni, sarà necessario accedere alla maschera "Set Opzioni"
 analizzata nel precedente capitolo di questo manuale e cliccare sul
 pulsante **Nuovo**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuovo.bmp](./assets/media/image88.png) ) presente nella contestuale barra degli
+(![](./assets/media/image88.png) ) presente nella contestuale barra degli
 strumenti.
 
 In questo modo verrà infatti visualizzata la maschera "**Set di
 Opzioni**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\set_opzioni_configurazione.bmp](./assets/media/image139.png)
+![](./assets/media/image139.png)
 
 all'interno della quale sarà possibile:
 
@@ -30,7 +30,7 @@ Il pannello "**Generale**" presente all'interno della maschera di
 configurazione di un Set di Opzioni consente di impostare i principali
 parametri di configurazione del Set in questione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\set_opzioni_pannello_generale.bmp](./assets/media/image140.png)
+![](./assets/media/image140.png)
 
 Nello specifico il campo:
 
@@ -63,7 +63,7 @@ relazione alle personalizzazioni effettuate dall'utente.
 > personalizzazione, verrà visualizzato anche il relativo aumento di
 > prezzo che l'opzione stessa andrà a determinare.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\set_opzioni_prezzo_opzione.bmp](./assets/media/image141.png)
+![](./assets/media/image141.png)
 
 > Inoltre, nel caso in cui il prezzo della singola opzione dovesse
 > variare in relazione alla quantità dell'articolo effettivamente
@@ -74,7 +74,7 @@ relazione alle personalizzazioni effettuate dall'utente.
 > dell'articolo inserita in carrello dovesse ricadere in determinato
 > scaglione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\set_opzioni_scaglioni_prezzo_opzione.bmp](./assets/media/image142.png)
+![](./assets/media/image142.png)
 
 > **ATTENZIONE!** nel caso in cui l'opzione dovesse essere gestita con
 > un controllo di tipo List il messaggio in esame verrà visualizzato al
@@ -95,7 +95,7 @@ relazione alle personalizzazioni effettuate dall'utente.
   definire esattamente quella che dovrà essere la formula da utilizzare
   per calcolare il prezzo finale dell'articolo
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\custom_option_formula.bmp](./assets/media/image143.png)
+![](./assets/media/image143.png)
 
 > In queste condizioni, in corrispondenza delle singole opzioni di
 > personalizzazione, non verrà visualizzato l'aumento di prezzo che
@@ -197,7 +197,7 @@ Il pulsante "**Aggiungi Segnaposto**" presente immediatamente al di
 sotto del relativo campo di input consente di inserire all'interno della
 formula per il calcolo del prezzo anche i seguenti elementi:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\formula_custom_option_segnaposto.bmp](./assets/media/image144.png)
+![](./assets/media/image144.png)
 
 - **Prezzo Articolo(articlePrice):** consente di inserire all'interno
   della formula il prezzo base dell'articolo da personalizzare
@@ -381,7 +381,7 @@ esaminati in relazione alla Formula di calcolo del prezzo, anche:
   "**Tipo di campo**" e "**Campo**" presenti nella maschera di
   configurazione dello specifico metodo di trasporto
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\formula_misuratore_custom_option_2.bmp](./assets/media/image145.png)
+![](./assets/media/image145.png)
 
 > il valore effettivamente inserito all'interno della formula potrà
 > essere prelevato:
@@ -528,7 +528,7 @@ Il pannello "**Categorie Merceologiche**" presente all'interno della
 maschera di configurazione di un Set di Opzioni consente di indicare la
 / le categorie merceologiche cui associare il set di opzioni in esame
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\set_opzioni_pannello_categorie_merceologiche.bmp](./assets/media/image146.png)
+![](./assets/media/image146.png)
 
 Il campo di ricerca presente immediatamente al disopra dell'albero delle
 categorie consente, digitando almeno 3 caratteri, di filtrare le
@@ -549,7 +549,7 @@ categorie merceologiche indicate sarà necessario agire mediante il
 pulsante "**Associa il set agli articoli**" visibile solo dopo aver
 salvato il set che si sta realizzando
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\set_opzioni_configurazione2.bmp](./assets/media/image147.png)
+![](./assets/media/image147.png)
 
 - **Associa il set agli articoli:** visibile solo dopo aver effettuato
   un primo salvataggio del set di opzioni. Consente di associare il set
@@ -569,7 +569,7 @@ essere fatto anche:
 - Operando direttamente all'interno della maschera di configurazione
   della specifica categoria (sezione "**Opzioni della Categoria**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\set_opzioni_configurazione3.bmp](./assets/media/image148.png)
+![](./assets/media/image148.png)
 
 > Anche in questo caso l'associazione impostata a livello di singola
 > categoria merceologica verrà applicato solo ed esclusivamente alla
@@ -587,7 +587,7 @@ specifico:
 - Direttamente all'interno della maschera "Dati Articolo" (campo "**Set
   Opzioni**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\set_opzioni_configurazione4.bmp](./assets/media/image149.png)
+![](./assets/media/image149.png)
 
 > Ovviamente in queste condizioni l'associazione del Set di opzioni allo
 > specifico articolo sarà immediata
@@ -615,7 +615,7 @@ verrà visualizzata la sezione "**Opzioni**" all'interno della quale
 poter definire e gestire le singole opzioni di personalizzazione che
 andranno a comporre il Set in esame
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\set_opzioni_configurazione5.bmp](./assets/media/image150.png)
+![](./assets/media/image150.png)
 
 ##### OPZIONI DEL SET
 
@@ -631,21 +631,21 @@ verrà infatti visualizzatala sezione "**Opzioni**" all'interno della
 quale poter definire e gestire le singole opzioni di personalizzazione
 che andranno a comporre il Set in esame
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\set_opzioni_configurazione5.bmp](./assets/media/image150.png)
+![](./assets/media/image150.png)
 
 I pulsanti presenti nella contestuale barra degli strumenti consentono
 rispettivamente di:
 
 **Modifica**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica.bmp](./assets/media/image43.png) ): consente di modificare l'opzione di
+(![](./assets/media/image43.png) ): consente di modificare l'opzione di
 personalizzazione attualmente selezionata in elenco
 
 **Elimina**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina.bmp](./assets/media/image114.png) ): consente di eliminare l'opzione di
+(![](./assets/media/image114.png) ): consente di eliminare l'opzione di
 personalizzazione attualmente selezionata in elenco
 
 **Giù / Su**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_giu_su.bmp](./assets/media/image151.png)): consentono di modificare la posizione dell'opzione
+(![](./assets/media/image151.png)): consentono di modificare la posizione dell'opzione
 di personalizzazione attualmente selezionata in elenco spostandola
 rispettivamente verso il basso o verso l'alto.
 
@@ -658,13 +658,13 @@ base, quella che verrà visualizzata, sul front end del sito, come primo
 elemento all'interno del componente **"Set Opzioni"**
 
 **Nuovo**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuovo.bmp](./assets/media/image88.png) ): consente di creare una nuova opzione
+(![](./assets/media/image88.png) ): consente di creare una nuova opzione
 di personalizzazione.
 
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 **"Opzione"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\custom_option.bmp](./assets/media/image152.png)
+![](./assets/media/image152.png)
 
 all'interno della quale poter impostare un valore per i seguenti
 parametri:
@@ -854,13 +854,13 @@ visualizzate tutte le opzioni dello stesso set ad esclusione di quelle
 per cui il parametro "**Tipo di Campo**" è stato impostato sul valore
 "**Date**" o "**File**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\opzioni_set_visibilita.bmp](./assets/media/image153.png)
+![](./assets/media/image153.png)
 
 Una volta selezionata l'opzione desiderata sarà poi possibile impostare
 il filtro da soddisfare affinché l'opzione di personalizzazione in esame
 possa effettivamente essere visualizzata sul front end del sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\opzioni_set_visibilita_2.bmp](./assets/media/image154.png)
+![](./assets/media/image154.png)
 
 Nell'esempio rappresentato in figura, l'opzione in esame verrà
 effettivamente visualizzata e proposta sul front end agli utenti del
@@ -899,13 +899,13 @@ visualizzate tutte le opzioni dello stesso set ad esclusione di quelle
 per cui il parametro "**Tipo di Campo**" è stato impostato sul valore
 "**Date**" o "**File**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\opzioni_set_obbligatorieta.bmp](./assets/media/image155.png)
+![](./assets/media/image155.png)
 
 Una volta selezionata l'opzione desiderata sarà poi possibile impostare
 il filtro da soddisfare affinché l'opzione di personalizzazione in esame
 possa diventare effettivamente obbligatoria
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\opzioni_set_obbligatorieta_2.bmp](./assets/media/image156.png)
+![](./assets/media/image156.png)
 
 Nell'esempio rappresentato in figura, l'opzione in esame diventerà
 obbligatoria per poter aggiungere l'articolo in
@@ -999,7 +999,7 @@ custom option in esame.
 > Selezionando questa opzione verrà infatti visualizzata la sezione
 > "**Gestione Prezzi a Scaglioni**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\opzione_set_prezzo_scaglioni.bmp](./assets/media/image157.png)
+![](./assets/media/image157.png)
 
 > all'interno della quale saranno elencati, sulla sinistra, gli
 > scaglioni attualmente codificati e, sulla destra, le proprietà dello
@@ -1128,7 +1128,7 @@ front end del sito all'interno del relativo controllo.
 necessario aver effettuato almeno un salvataggio della custom option in
 esame.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\custom_option_gestione_valori.bmp](./assets/media/image159.png)
+![](./assets/media/image159.png)
 
 Nella parte sinistra della sezione "Gestione Valori" è riportato
 l'elenco delle possibili opzioni di scelta che verranno poi visualizzate
@@ -1138,26 +1138,26 @@ I pulsanti presenti nella contestuale barra degli strumenti consentono
 rispettivamente di:
 
 **Elimina**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina.bmp](./assets/media/image160.png) ): consente di eliminare l'opzione
+(![](./assets/media/image160.png) ): consente di eliminare l'opzione
 attualmente selezionata in elenco
 
 **Copia**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_copia.bmp](./assets/media/image161.png) ): consente di copiare l'opzione
+(![](./assets/media/image161.png) ): consente di copiare l'opzione
 attualmente selezionata in elenco
 
 **Modifica**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_edita.bmp](./assets/media/image162.png) ): consente di modificare l'opzione attualmente
+(![](./assets/media/image162.png) ): consente di modificare l'opzione attualmente
 selezionata in elenco
 
 **Sposta Su / Giù**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_freccia_su.bmp](./assets/media/image163.png) /
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_freccia_giu.bmp](./assets/media/image164.png) ): consente di spostare l'opzione
+(![](./assets/media/image163.png) /
+![](./assets/media/image164.png) ): consente di spostare l'opzione
 attualmente selezionata verso l'alto / il basso in modo tale da
 riordinare le opzioni presenti in elenco secondo le specifiche esigenze
 del caso
 
 **Aggiungi**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_aggiungi.bmp](./assets/media/image99.png) ): consente di aggiungere una nuova
+(![](./assets/media/image99.png) ): consente di aggiungere una nuova
 opzione di selezione
 
 Per ciascuna delle possibili opzioni di scelta sarà necessario indicare:

@@ -4,7 +4,7 @@
 
 Il Componente "**Campo di Testo**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\campo_testo_registrazione_res.bmp](./assets/media/image82.png)
+![](./assets/media/image82.png)
 
 consente di inserire all'interno dei form di Registrazione e di Profilo
 Utente un classico campo di input all'interno del quale l'utente dovrà
@@ -17,7 +17,7 @@ telefono
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico la sua maschera di gestione e configurazione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_iu_campo_testo_configurazione_res.bmp](./assets/media/image83.png)
+![](./assets/media/image83.png)
 
 suddivisa in varie sezioni.
 

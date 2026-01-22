@@ -4,7 +4,7 @@
 
 Il componente "**Commenti Associati**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_commenti_res.bmp](./assets/media/image29.png)
+![](./assets/media/image29.png)
 
 consente di inserire all'interno del sito tutti gli elementi necessari
 per permettere agli utenti di commentare le singole notizie CMS.

@@ -3,7 +3,7 @@
 
 
 Il pulsante **Liste di Vendita** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_liste_vendita.bmp](./assets/media/image115.png) ) presente nella parte alta della
+![](./assets/media/image115.png) ) presente nella parte alta della
 maschera "**Gestione Liste di Vendita"** accessibile dalla voce di menu
 ***"Catalogo -- Amazon"***, consente di visualizzare e gestire tutte le
 Liste di Vendita attualmente codificate, oltre che ovviamente di crearne
@@ -12,7 +12,7 @@ di nuove.
 All'interno della tabella "**Elenco delle Liste di Vendita Amazon**"
 verranno quindi visualizzate tutte le liste attualmente configurate.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_32.bmp](./assets/media/image245.png)
+![](./assets/media/image245.png)
 
 Il campo di ricerca attivabile cliccando sulla lente di ingrandimento,
 presente in testata alle varie colonne, consente di filtrare i dati in
@@ -21,7 +21,7 @@ griglia sulla base dei valori presenti all'interno della colonna stessa.
 Una volta impostato un filtro di ricerca, per poterlo poi eliminare sarà
 sufficiente cliccare sull'icona raffigurante una piccola lente di
 ingrandimento con un -- all'interno (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina_filtro.bmp](./assets/media/image69.png) ) che comparirà in testata alla colonna
+![](./assets/media/image69.png) ) che comparirà in testata alla colonna
 in corrispondenza della quale è stato impostato il filtro stesso.
 
 L' icona raffigurante due piccole frecce posta in testata ad ogni
@@ -37,7 +37,7 @@ quali informazioni dovranno essere visualizzate direttamente in tabella.
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 "**Colonne**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_vendita_amazon_colonne.bmp](./assets/media/image246.png)
+![](./assets/media/image246.png)
 
 mediante la quale poter decidere quale campo attivare / disattivare e
 conseguentemente quale informazione mostrare / nascondere.
@@ -48,7 +48,7 @@ disponibili cliccando sul pulsante raffigurante una piccola i (
 ![Videate\\icona_proprieta.bmp](./assets/media/image120.png) ) posto in corrispondenza di ogni
 singola riga
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dettaglio_info_liste_vendita_amazon.bmp](./assets/media/image247.png)
+![](./assets/media/image247.png)
 
 In definitiva dunque, all'interno di questa maschera sarà possibile
 visualizzare / nascondere per ogni singolo documento le seguenti
@@ -95,7 +95,7 @@ I pulsanti presenti nella contestuale barra degli strumenti consentono
 rispettivamente di:
 
 **Elimina Lista di Vendita** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_lista.bmp](./assets/media/image122.png) ): consente di eliminare la lista di
+![](./assets/media/image122.png) ): consente di eliminare la lista di
 vendita attualmente selezionata in elenco
 
 **ATTENZIONE!** eliminando una lista gli articoli già messi in vendita
@@ -103,25 +103,25 @@ all'interno di un Marketplace Amazon continueranno comunque a vivere
 come entità a se stanti all'interno del corrispondente sito Amazon.
 
 **Modifica Lista di Vendita** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_lista.bmp](./assets/media/image123.png) ): consente di modificare le caratteristiche della
+![](./assets/media/image123.png) ): consente di modificare le caratteristiche della
 lista di vendita attualmente selezionata in elenco.
 
 **ATTENZIONE!** E' possibile modificare il nome della lista di vendita
 ma non l'inserzione cui la lista stessa è stata collegata
 
 **Aggiungi Lista di Vendita** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_lista_vendita.bmp](./assets/media/image124.png) ): consente di creare una nuova lista di vendita.
+![](./assets/media/image124.png) ): consente di creare una nuova lista di vendita.
 
 Per maggiori informazioni a come poter creare una nuova lista di vendita
 si veda il successivo capitolo di questo manuale
 
 **Elenco Articoli** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elenco_lista.bmp](./assets/media/image248.png) ): consente di gestire l'elenco degli articoli che
+![](./assets/media/image248.png) ): consente di gestire l'elenco degli articoli che
 dovranno essere associati alla lista e che potranno quindi essere
 esportati sul relativo Marketplace Amazon
 
 **Elenco Tutti Articoli** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elenco_tutti_articoli.bmp](./assets/media/image126.png) ): consente di visualizzare un elenco di
+![](./assets/media/image126.png) ): consente di visualizzare un elenco di
 tutti gli articoli presenti all'interno di tutte le liste di vendita
 attualmente codificate
 
@@ -135,7 +135,7 @@ Per maggior informazioni in merito si vedano dunque i successivi
 capitoli di questo manuale
 
 **Lista Pubblicazioni** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_lista_pubblicazioni.bmp](./assets/media/image127.png) ): consente di visualizzare un elenco
+![](./assets/media/image127.png) ): consente di visualizzare un elenco
 delle ultime operazioni di pubblicazione articoli relative alla Lista di
 Vendita attualmente selezionata in elenco.
 
@@ -145,7 +145,7 @@ Cliccando su questo pulsante verrà infatti visualizzata la maschera
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 "**Pubblicazioni Lista di Vendita -- Nome Lista**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pubblicazioni_liste_vendita.bmp](./assets/media/image128.png)
+![](./assets/media/image128.png)
 
 contenete l'elenco delle ultime pubblicazioni effettuate. Per ogni
 pubblicazione presente in elenco sono indicati.
@@ -174,11 +174,11 @@ limitati al periodo temporale definito in corrispondenza del parametro
 "**Sistema**")
 
 Il pulsante "**Visualizza Dettaglio**" (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_visualizza_dettaglio.bmp](./assets/media/image129.png) ), presente solo dopo aver selezionato
+![](./assets/media/image129.png) ), presente solo dopo aver selezionato
 una delle pubblicazioni in elenco consente di accedere invece alla
 maschera "**Dettaglio Pubblicazione Lista di Vendita -- Nome Lista**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dettaglio_pubblicazioni_lista_vendita.bmp](./assets/media/image130.png)
+![](./assets/media/image130.png)
 
 all'interno della quale sarà possibile visualizzare tutti gli articoli
 presenti, al momento della pubblicazione, in quella specifica lista di
@@ -186,19 +186,19 @@ vendita e, per ciascuno di essi, cliccando sull'icona raffigurante una
 piccola i sarà anche possibile visualizzare il dettaglio del relativo
 log
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dettaglio_log_pubblicazione.bmp](./assets/media/image131.png)
+![](./assets/media/image131.png)
 
 ##### NUOVA LISTA DI VENDITA
 
 Per creare una nuova Lista di Vendita è necessario cliccare sul pulsante
 **Aggiungi Lista di Vendita** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_lista_vendita.bmp](./assets/media/image124.png) ) presente all'interno della maschera "**Elenco delle
+![](./assets/media/image124.png) ) presente all'interno della maschera "**Elenco delle
 Liste di Vendita**" esaminata nel precedente capitolo di questo manuale.
 
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 **"Dati Lista di Vendita"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuova_lista_vendita_amazon.bmp](./assets/media/image249.png)
+![](./assets/media/image249.png)
 
 attraverso cui poter indicare un valore per i seguenti parametri:
 
@@ -330,7 +330,7 @@ di porre **tutti i nuovi articoli** aggiunti alla lista di vendita nello
 stato di "**In attesa di aggancio**" rendendoli di fatto sensibili alle
 regole di "Rimessa in vendita"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_lista_attesa_aggancio.bmp](./assets/media/image251.png)
+![](./assets/media/image251.png)
 
 **ATTENZIONE!** Lo stato "**In attesa di aggancio**" può essere gestito
 solo ed esclusivamente a livello di intera Lista di Vendita. Non sarà
@@ -386,7 +386,7 @@ azzurro) oltre che dal valore presente nella corrispondente colonna
 della tabella (quella identificata dall'icona
 ![Videate\\colonna_aggiunta_automatica.bmp](./assets/media/image133.png) )
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\liste_vendita_aggiunta_automatica_articoli.bmp](./assets/media/image134.png)
+![](./assets/media/image134.png)
 
 **ATTENZIONE! Gli articoli aggiunti automaticamente ad un lista di
 vendita non possono essere gestiti in maniera manuale. Ciò significa
@@ -404,7 +404,7 @@ elenco e cliccare poi sul pulsante "**Elenco Articoli**", accedendo così
 alla maschera "**Elenco Articoli della Lista di Vendita Amazon -- Nome
 Lista**" evidenziata in figura.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_33.bmp](./assets/media/image252.png)
+![](./assets/media/image252.png)
 
 I pulsanti presenti nella barra degli strumenti consentono
 rispettivamente di:
@@ -431,7 +431,7 @@ ma non rimosso fisicamente anche dal marketplace, la pubblicazione
 potrebbe non andare a buon fine
 
 **Modifica Articolo** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_articolo_ebay.bmp](./assets/media/image137.png) ): visualizzato unicamente nel caso in cui sia
+![](./assets/media/image137.png) ): visualizzato unicamente nel caso in cui sia
 selezionato un solo articolo tra quelli presenti in elenco.
 
 Permette di variare alcune impostazioni di pubblicazione dell'articolo
@@ -440,7 +440,7 @@ selezionato.
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 "**Dati Articolo nella Lista di Vendita**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_dati_articolo_lista.bmp](./assets/media/image254.png)
+![](./assets/media/image254.png)
 
 all'interno della quale poter visualizzare e gestire le seguenti
 informazioni:
@@ -579,10 +579,10 @@ informazioni:
 > csv/txt.
 
 **Articolo su Amazon** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_articolo_amazon.bmp](./assets/media/image255.png) ): consente di accedere alla pagina Amazon contenente
+![](./assets/media/image255.png) ): consente di accedere alla pagina Amazon contenente
 la scheda prodotto dell'articolo attualmente selezionato in elenco.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\amazon_42.bmp](./assets/media/image256.png)
+![](./assets/media/image256.png)
 
 **ATTENZIONE!** le informazioni visualizzate all'interno della scheda
 prodotto sopra riportata, possono essere quelle relative all'articolo
@@ -592,18 +592,18 @@ consiglia quindi di controllare sempre la sezione relativa alle offerte
 di tutti i venditori
 
 **Log Articolo** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_log_articolo.bmp](./assets/media/image141.png) ): visualizzato unicamente nel caso in cui sia
+![](./assets/media/image141.png) ): visualizzato unicamente nel caso in cui sia
 selezionato un solo articolo tra quelli presenti in elenco.
 
 Permette di accedere ai dettagli relativi alle operazioni di
 pubblicazione/arresto/modifica effettuate sul prodotto in esame.
 
 **Filtri Avanzati** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_filtri_avanzati.bmp](./assets/media/image142.png) ): consente di aprire una sezione di ricerca contenete
+![](./assets/media/image142.png) ): consente di aprire una sezione di ricerca contenete
 un query builder utilizzabile per creare e customizzare filtri di
 ricerca per gli articoli presenti in lista.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_liste_vendita_filtri_avanzati.bmp](./assets/media/image257.png)
+![](./assets/media/image257.png)
 
 Per maggiori informazioni in merito a come poter costruire il proprio
 filtro di ricerca si rimanda a quanto indicato all'interno del capitolo
@@ -611,7 +611,7 @@ filtro di ricerca si rimanda a quanto indicato all'interno del capitolo
 Servizio*" di questo manuale
 
 **Amazon** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_Amazon.bmp](./assets/media/image258.png) ): consente di accedere alla sezione di pubblicazione
+![](./assets/media/image258.png) ): consente di accedere alla sezione di pubblicazione
 degli articoli sul relativo marketplace.
 
 Per maggiori informazioni in merito alle azioni collegate a questo
@@ -619,10 +619,10 @@ pulsante si rimanda a quanto indicato nel successivo capitolo di questo
 manuale.
 
 **Aggiungi Articoli** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_articoli.bmp](./assets/media/image145.png) ): consente di accedere all'elenco degli articoli
+![](./assets/media/image145.png) ): consente di accedere all'elenco degli articoli
 attualmente gestiti all'interno del proprio sito Passweb
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_elenco_articoli.bmp](./assets/media/image259.png)
+![](./assets/media/image259.png)
 
 e di poter quindi selezionare tra di essi quelli da inserire all'interno
 della lista in oggetto.
@@ -673,7 +673,7 @@ Lista di Vendita Amazon -- Nome Lista**" consente di visualizzare
 l'elenco completo degli articoli attualmente presenti all'interno di
 quella specifica lista di vendita.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_33.bmp](./assets/media/image252.png)
+![](./assets/media/image252.png)
 
 Il campo di ricerca attivabile cliccando sulla lente di ingrandimento,
 presente in testata alle varie colonne, consente di filtrare i dati in
@@ -725,7 +725,7 @@ quali informazioni dovranno essere visualizzate direttamente in tabella.
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 "**Colonne**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_articoli_amazon_colonne.bmp](./assets/media/image260.png)
+![](./assets/media/image260.png)
 
 mediante la quale poter decidere quale campo attivare / disattivare e
 conseguentemente quale informazione mostrare / nascondere.
@@ -736,7 +736,7 @@ disponibili cliccando sul pulsante raffigurante una piccola i (
 ![Videate\\icona_proprieta.bmp](./assets/media/image120.png) ) posto in corrispondenza di ogni
 singola riga
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dettaglio_info_lista_articoli_amazon.bmp](./assets/media/image261.png)
+![](./assets/media/image261.png)
 
 In definitiva dunque, all'interno di questa maschera sarà possibile
 visualizzare / nascondere per ogni singolo articolo presente in lista:
@@ -830,22 +830,22 @@ all'interno del marketplace.
 
 In questo senso sarà quindi necessario, per prima cosa, cliccare sul
 pulsante **"Amazon"** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_Amazon.bmp](./assets/media/image258.png) ) presente nella barra degli strumenti della maschera
+![](./assets/media/image258.png) ) presente nella barra degli strumenti della maschera
 "**Elenco Articoli della Lista di Vendita Amazon -- Nome Lista**".
 
 Nella stessa barra degli strumenti compariranno ora nuovi pulsanti:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_36.bmp](./assets/media/image262.png)
+![](./assets/media/image262.png)
 
 mediante i quali poter rispettivamente:
 
 **Gestione Lista** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_gestione_lista.bmp](./assets/media/image154.png) ): consente di tornare alla precedente
+![](./assets/media/image154.png) ): consente di tornare alla precedente
 maschera di gestione degli articoli associati alla lista, potendo quindi
 decidere di rimuoverne alcuni e/o di aggiungerne altri.
 
 **Ricerca ASIN su Amazon** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_ricerca_asin.bmp](./assets/media/image263.png) )**:** consente di effettuare,
+![](./assets/media/image263.png) )**:** consente di effettuare,
 direttamente dal Wizard del proprio sito Passweb, una ricerca sul
 database Amazon utilizzando come chiave l'identificativo EAN/UPC/ISBN (o
 al limite lo stesso codice ASIN) degli articoli attualmente selezionati
@@ -875,7 +875,7 @@ tutti quegli articoli che, all'interno del database Amazon risultano
 avere lo stesso codice EAN/UPC/ISBN (o lo stesso ASIN) indicato per il
 nostro articolo -- sezione **Prodotti Corrispondenti su Amazon**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_ricerca_asin_2.bmp](./assets/media/image264.png)
+![](./assets/media/image264.png)
 
 Ovviamente nel caso in cui si disponesse già del codice ASIN, e questo
 fosse già stato inserito nei parametri di configurazione dell'articolo,
@@ -895,7 +895,7 @@ risultati prodotti, quello corrispondente all'articolo che dobbiamo
 effettivamente pubblicare sul marketplace e cliccare poi sul pulsante
 "**Assegna**" presente in corrispondenza dell'articolo stesso.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_ricerca_asin_3.bmp](./assets/media/image265.png)
+![](./assets/media/image265.png)
 
 In questo modo l'ASIN corrispondente al prodotto selezionato verrà
 automaticamente assegnato anche al nostro articolo, articolo che in fase
@@ -906,10 +906,10 @@ di associazione sono caratterizzati dal fatto di avere in corrispondenza
 della loro colonna "Amazon Id", nell'elenco degli articoli presenti
 all'interno della lista di Vendita, l'icona di una piccola stella piena
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_ricerca_asin_4.bmp](./assets/media/image266.png)
+![](./assets/media/image266.png)
 
 **Pubblica su Amazon** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_pubblica_amazon.bmp](./assets/media/image267.png) ): consente eseguire la pubblicazione sul relativo
+![](./assets/media/image267.png) ): consente eseguire la pubblicazione sul relativo
 marketplace Amazon **degli articoli attualmente selezionati in elenco**.
 
 **ATTENZIONE! La pubblicazione di determinati articoli può anche
@@ -935,7 +935,7 @@ all'interno della sezione "**Generale**" nel tab "**Articoli**" della
 maschera di configurazione del proprio account Amazon
 
 **Arresta su Amazon** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_arresta_su_amazon.bmp](./assets/media/image268.png) ): consente di arrestare la pubblicazione e,
+![](./assets/media/image268.png) ): consente di arrestare la pubblicazione e,
 conseguentemente, la vendita all'interno del marketplace di Amazon degli
 articoli attualmente selezionati in elenco.
 
@@ -949,16 +949,16 @@ di Amazon dovrà quindi avvenire necessariamente all'interno del back
 office del proprio Account Venditore.
 
 **Feed Immagini** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_image_feed.bmp](./assets/media/image269.png) ): consente di inviare ad Amazon
+![](./assets/media/image269.png) ): consente di inviare ad Amazon
 esclusivamente le immagini degli articoli selezionati in elenco
 
 **Aggiorna su Amazon** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiorna_su_amazon.bmp](./assets/media/image270.png) ): consente di inviare ad Amazon
+![](./assets/media/image270.png) ): consente di inviare ad Amazon
 solamente i dati relativi al prezzo e alla quantità degli articoli
 attualmente selezionati in elenco
 
 **Filtri Avanzati** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_filtri_avanzati.bmp](./assets/media/image142.png) ): consente di aprire una sezione di ricerca contenete
+![](./assets/media/image142.png) ): consente di aprire una sezione di ricerca contenete
 un query builder utilizzabile per creare e customizzare filtri di
 ricerca per gli articoli presenti in lista.
 
@@ -968,7 +968,7 @@ filtro di ricerca si rimanda a quanto indicato all'interno del capitolo
 Servizio*" di questo manuale
 
 **Log Articolo** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_log_articolo.bmp](./assets/media/image141.png) ): visualizzato unicamente nel caso in cui sia
+![](./assets/media/image141.png) ): visualizzato unicamente nel caso in cui sia
 selezionato un solo articolo tra quelli presenti in elenco.
 
 Permette di accedere ai dettagli relativi alle operazioni di
@@ -976,7 +976,7 @@ pubblicazione/arresto/modifica effettuate sul prodotto in esame.
 Cliccando su questo pulsante verrà quindi visualizzata la maschera
 "**Lista Log Articolo: \<nome prodotto\>**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_log_articolo.bmp](./assets/media/image157.png)
+![](./assets/media/image157.png)
 
 contenente il dettaglio dei log di ogni operazione di
 pubblicazione/arresto/modifica cui è stato sottoposto il prodotto in

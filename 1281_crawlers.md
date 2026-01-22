@@ -7,7 +7,7 @@ informazioni dettagliate relativamente alle visite effettuate al nostro
 sito web da parte dei Crawlers (riconosciuti come tali da Passweb) dei
 vari motori di ricerca.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\statistiche_pagine_6.bmp](./assets/media/image48.png)
+![](./assets/media/image48.png)
 
 Per ogni singolo elemento presente in griglia verrà visualizzata la data
 di accesso al sito da parte del relativo spider (colonna "**Data**"), il
@@ -22,7 +22,7 @@ utilizzato dal relativo Crawler
 Infine, cliccando sul numero di pagine visitate sarà possibile accedere
 alla sezione "**Attività per Crawler**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\attivita_per_crawler_dettaglio.bmp](./assets/media/image49.png)
+![](./assets/media/image49.png)
 
 all'interno della quale poter visualizzare, in ordine cronologico, il
 dettaglio delle pagine effettivamente visualizzate dal crawler durante

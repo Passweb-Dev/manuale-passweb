@@ -22,7 +22,7 @@ Per associare un ben determinato Set di Opzioni al componente Ordine,
 sarà sufficiente agire dalla maschera di configurazione del componente
 stesso mediante il parametro "**Set Opzioni**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_ordine_set_opzioni.bmp](./assets/media/image708.png)
+![](./assets/media/image708.png)
 
 **ATTENZIONE!** Per maggiori informazioni relativamente ai parametri di
 configurazione del componente "Ordine Custom (Checkout)" si veda quanto
@@ -34,7 +34,7 @@ Dopo aver associato un Set di Opzioni al componente Ordine, dunque, sul
 front end del sito, in fase di checkout, verrà visualizzato il form
 contenente tutti i campi definiti per il Set in oggetto
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ordine_visualizzazione_set_opzioni.bmp](./assets/media/image709.png)
+![](./assets/media/image709.png)
 
 **ATTENZIONE!** i campi custom relativi al set di opzioni verranno
 visualizzati in punti diversi del checkout a seconda della specifica
@@ -50,7 +50,7 @@ Step con Accordion**", "**Visualizzazione senza step affiancato**" e
 "**Visualizzazione senza step incolonnato**") i campi custom verranno
 invece visualizzati all'interno della sezione "**Nota**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ordine_visualizzazione_set_opzioni_2.bmp](./assets/media/image710.png)
+![](./assets/media/image710.png)
 
 **ATTENZIONE!** Il titolo della sezione contenente i campi custom può
 essere personalizzato alla pagina "*Testi / Messaggi del Sito -- Testi

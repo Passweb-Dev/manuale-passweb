@@ -18,7 +18,7 @@ impostato sul valore:
   di misura. In queste condizioni dunque la vendita dell'articolo
   all'interno del sito avverrà per quantità multiple.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_multipli_confezioni_1.bmp](./assets/media/image137.png)
+![](./assets/media/image137.png)
 
 > In conseguenza di ciò, nel momento in cui si dovesse decidere di
 > acquistare, sul sito Ecommerce, l'articolo evidenziato in figura
@@ -60,7 +60,7 @@ impostato sul valore:
   comunque, è solamente propositiva e potrà essere modificata secondo le
   specifiche esigenze dell'utente.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_multipli_confezioni_2.bmp](./assets/media/image138.png)
+![](./assets/media/image138.png)
 
 > Supponendo dunque di aver inserito, come evidenziato in figura, in
 > corrispondenza del campo " **qta. conf**" il valore 5 sarà poi
@@ -76,7 +76,7 @@ impostato sul valore:
 > Parametri Catalogo -- Catalogo Ho.Re.Ca.*" del Wizard, oppure
 > all'interno dell'Anagrafica Passweb del relativo articolo.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_multipli_confezioni_3.bmp](./assets/media/image139.png)
+![](./assets/media/image139.png)
 
 > Per maggiori informazioni in merito si veda anche la sezione
 > "*Catalogo -- Configurazione Parametri Catalogo -- Catalogo Mexal --

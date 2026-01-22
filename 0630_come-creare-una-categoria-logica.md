@@ -5,7 +5,7 @@
 Per prima cosa portarsi in "**Gestione CMS -- Categorie**" e nascondere
 la Categoria:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cms_cat_nascosta.bmp](./assets/media/image105.png)
+![](./assets/media/image105.png)
 
 A questo punto, quando si andrà a scrivere il Contenuto della News da
 "Gestione CMS -- Contenuti", selezionare la Categoria nascosta appena

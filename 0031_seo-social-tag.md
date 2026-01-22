@@ -7,7 +7,7 @@ La sezione "**Social Tag**", presente all'interno del menu **"Preferenze
 condivisione, all'interno dei vari social network, dei contenuti
 pubblicati sul proprio sito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\seo_social_tag.bmp](./assets/media/image50.png)
+![](./assets/media/image50.png)
 
 **Gestione dei Social Media Tag:** consente di abilitare o meno **la
 gestione del protocollo** **Opengraph** facilitando così la condivisione
@@ -50,7 +50,7 @@ condividere quella specifica pagina.
 
 Più nel dettaglio, verranno inseriti i seguenti Meta Tag:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\opengraph_tag1.bmp](./assets/media/image51.png)
+![](./assets/media/image51.png)
 
 - **meta property=\"og:title\" content=\"titolo dell'oggetto da
   condividere\"**
@@ -186,7 +186,7 @@ meta tag:
 
 [TWITTER]{.underline}
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\opengraph_tag2.bmp](./assets/media/image52.png)
+![](./assets/media/image52.png)
 
 - **meta name=\"twitter:card\" content=\"tipologia\"**
 
@@ -276,11 +276,11 @@ meta tag:
 > pagina "**Sito -- Preferenze -- Social Media**" del Wizard (sezione
 > Twitter).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\account_twitter.bmp](./assets/media/image53.png)
+![](./assets/media/image53.png)
 
 [GOOGLE +]{.underline}
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\opengraph_tag3.bmp](./assets/media/image54.png)
+![](./assets/media/image54.png)
 
 - **meta itemprop=\"name\" content=\" Titolo della pagina \"**
 

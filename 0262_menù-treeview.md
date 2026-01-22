@@ -9,7 +9,7 @@ Eventuali sottovoci verranno visualizzate (nascoste) al click del mouse
 sull'apposita icona di apertura (chiusura) presente a fianco di ciascuna
 voce che presenti almeno una voce di livello inferiore.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\menu_treeview_esempio.bmp](./assets/media/image32.png)
+![](./assets/media/image32.png)
 
 Per realizzare questo tipo di menu è necessario impostare:
 

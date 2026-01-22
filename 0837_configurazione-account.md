@@ -12,7 +12,7 @@ Selling Partner API (SP-API)
 La prima cosa da fare sarà quindi quella di recarsi al seguente
 indirizzo <https://sellercentral.amazon.it/gp/homepage.html>,
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_1.bmp](./assets/media/image181.png)
+![](./assets/media/image181.png)
 
 cliccare sul pulsante "**Registrati ora**" e completare la creazione del
 proprio Account Venditore, facendo attenzione, ancora una volta, al
@@ -40,7 +40,7 @@ accessibile dalla voce di menu ***"*Catalogo -- Amazon*"*.**
 All'interno di questa sezione verrà infatti visualizzata la maschera
 "**Lista degli Account** **Amazon**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_11.bmp](./assets/media/image182.png)
+![](./assets/media/image182.png)
 
 contenente l'elenco di tutti gli Account attualmente collegati al
 proprio sito Ecommerce.
@@ -55,7 +55,7 @@ Ecommerce.
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 "**Dati Account**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_dati_account_api.bmp](./assets/media/image183.png)
+![](./assets/media/image183.png)
 
 all'interno della quale dover impostare un valore per i seguenti campi:
 
@@ -90,18 +90,18 @@ attraverso cui concedere all'applicazione Passepartout l'autorizzazione
 ad utilizzare questo stesso Account per pubblicare articoli su uno dei
 Marketplaces Amazon.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\autorizza_integrazione_passweb.bmp](./assets/media/image185.png)
+![](./assets/media/image185.png)
 
 Sarà quindi necessario selezionare il check evidenziato in figura e
 cliccare poi sul relativo pulsante di conferma
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\Autorizza_integrazione_Passweb_accetta.bmp](./assets/media/image186.png)
+![](./assets/media/image186.png)
 
 Confermata l'autorizzazione verremo automaticamente riportati indietro
 sulla maschera di configurazione dell'Account Passweb dove troveremo ora
 i campi **Token** e **Selling Partner ID** correttamente valorizzati.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_dati_account_api2.bmp](./assets/media/image187.png)
+![](./assets/media/image187.png)
 
 Arrivati a questo punto sarà necessario cliccare sul pulsante
 "**Salva**" presente nella parte bassa della maschera in maniera tale da
@@ -116,11 +116,11 @@ I pulsanti presenti nella barra degli strumenti della maschera **"Lista
 degli Account Amazon**" consentono, infine, di:
 
 - **Elimina Account** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_account.bmp](./assets/media/image188.png) )**:** consente di eliminare l'account
+  ![](./assets/media/image188.png) )**:** consente di eliminare l'account
   attualmente selezionato in elenco.
 
 - **Sincro Ordini** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_sincro_ordini_ebay.bmp](./assets/media/image45.png) ): consente, nel caso in cui l'Account
+  ![](./assets/media/image45.png) ): consente, nel caso in cui l'Account
   selezionato in elenco sia stato configurato per interagire con Amazon
   anche a livello di ordini, di effettuare la sincronizzazione tra le
   due piattaforme importando quini in Passweb eventuali nuovi ordini, e
@@ -138,6 +138,6 @@ degli Account Amazon**" consentono, infine, di:
 > gestionale*" di questo manuale.
 
 - **Modifica Account** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_account.bmp](./assets/media/image189.png) )**:** consente accedere, in modifica, alle
+  ![](./assets/media/image189.png) )**:** consente accedere, in modifica, alle
   impostazioni di configurazione dell'Account selezionato in elenco.
 

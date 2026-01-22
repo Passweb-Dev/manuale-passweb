@@ -8,7 +8,7 @@ affinchè i codici sconto che andremo poi ad aggiungere possano
 effettivamente essere ritenuti validi dando quindi accesso alla relativa
 scontistica.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\generatore_condizioni.bmp](./assets/media/image574.png)
+![](./assets/media/image574.png)
 
 **ATTENZIONE!** Prima di poter definire delle nuove condizioni è
 necessario effettuare almeno un salvataggio del Buono Sconto
@@ -17,7 +17,7 @@ Una vota salvato il Buono Sconto si attiverà infatti un nuovo pulsante
 mediante il quale poter gestire, attraverso l'apposita maschera,
 l'inserimento di una nuova condizione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\condizioni_promozione1.bmp](./assets/media/image575.png)
+![](./assets/media/image575.png)
 
 Per ogni condizione è possibile impostare un valore per i seguenti
 parametri:
@@ -144,7 +144,7 @@ visualizzate le seguenti opzioni:
 > allora necessario impostare un Filtro Quantità del tipo "**Percentuale
 > elementi in carrello = 100**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\promo_percentuale_articoli.bmp](./assets/media/image576.png)
+![](./assets/media/image576.png)
 
 > In queste condizioni se dovessimo avere in carrello anche un solo
 > articolo che non soddisfa la condizione impostata all'interno del
@@ -173,7 +173,7 @@ visualizzate le seguenti opzioni:
 > 24 ("Outlet Uomo"), dovremmo configurare una condizione di
 > applicabilità del tipo di quella rappresentata in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\promo_percentuale_quantita.bmp](./assets/media/image491.png)
+![](./assets/media/image491.png)
 
 > In questo modo infatti se dovessimo trovarci ad avere in carrello una
 > quantità complessiva di 5 prodotti di cui 4 (quindi 80% del totale)
@@ -196,7 +196,7 @@ visualizzate le seguenti opzioni:
   dunque di considerare una configurazione del tipo di quella
   rappresentata in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\promozioni_riga.bmp](./assets/media/image492.png)
+![](./assets/media/image492.png)
 
 > il Buono Sconto verrà effettivamente applicato solo nel momento in cui
 > in carrello dovessimo avere almeno un articolo il cui codice inizia
@@ -247,7 +247,7 @@ visualizzate le seguenti opzioni:
 > Considerando dunque una configurazione del tipo di quella
 > rappresentata in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\promozioni_riga_2.bmp](./assets/media/image493.png)
+![](./assets/media/image493.png)
 
 > e supponendo di avere in carrello i seguenti articoli
 
@@ -297,7 +297,7 @@ visualizzate le seguenti opzioni:
 > Considerando dunque una configurazione del tipo di quella
 > rappresentata in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\promozioni_riga_3.bmp](./assets/media/image494.png)
+![](./assets/media/image494.png)
 
 > e supponendo di avere in carrello i seguenti articoli
 
@@ -429,7 +429,7 @@ visualizzate le seguenti opzioni:
 > Supponendo quindi di configurare una condizione del tipo di quella
 > rappresentata in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\esempio_condizione_percentuale_subtotale.bmp](./assets/media/image496.png)
+![](./assets/media/image496.png)
 
 > i codici sconto verranno considerati validi solo nel caso in cui
 > dovessero essere presenti in carrello articoli della categoria 113 il
@@ -451,14 +451,14 @@ logici. Le eventuali parentesi, poste prima o dopo questi operatori,
 vanno utilizzate esattamente come avviene in algebra, per specificare
 quali condizioni dovranno essere valutate prima e quali dopo.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuova_condizione4.bmp](./assets/media/image497.png)
+![](./assets/media/image497.png)
 
 Il parametro "**Gestione Condizioni**" permette di decidere, infine, se
 i codici associati al Buono Sconto in esame dovranno essere ritenuti
 validi al verificarsi di tutte le condizioni indicate oppure solamente
 di un determinato numero di esse.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_condizioni.bmp](./assets/media/image498.png)
+![](./assets/media/image498.png)
 
 In particolare dunque impostando questo parametro sul valore:
 

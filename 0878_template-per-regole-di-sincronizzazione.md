@@ -9,7 +9,7 @@ piattaforme integrate, sarà necessario agire mediante il pulsante
 "**Metodi di Sincronizzazione"**
 
 **Metodi di sincronizzazione** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_metodi_sincronizzazione.bmp](./assets/media/image56.png) )**:** consente di creare e salvare in
+![](./assets/media/image56.png) )**:** consente di creare e salvare in
 un apposito Template le impostazioni di configurazione di un'Inserzione
 relative alle regole di sincronizzazione tra Passweb e una delle
 piattaforme integrate.
@@ -18,21 +18,21 @@ Cliccando sul pulsante in esame verrà quindi visualizzata la maschera
 "*Lista dei Metodi di Sincronizzazione*" contenente l'elenco di tutti i
 modelli attualmente codificati.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\elenco_metodi_sincronizzazione.bmp](./assets/media/image360.png)
+![](./assets/media/image360.png)
 
 I pulsanti presenti nella contestuale barra degli strumenti consentono
 rispettivamente di:
 
 - **Elimina Metodi di Sincronizzazione** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_metodi_sincronizzazione.bmp](./assets/media/image58.png) ): consente di eliminare il template
+  ![](./assets/media/image58.png) ): consente di eliminare il template
   attualmente selezionato in elenco
 
 - **Modifica Metodi di Sincronizzazione** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_metodi_sincronizzazione.bmp](./assets/media/image59.png) ): consente di modificare il template attualmente
+  ![](./assets/media/image59.png) ): consente di modificare il template attualmente
   selezionato in elenco
 
 - **Aggiungi Metodi di Sincronizzazione** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_metodi_sincronizzazione.bmp](./assets/media/image60.png) ): consente di creare un nuovo
+  ![](./assets/media/image60.png) ): consente di creare un nuovo
   template all'interno del quale salvare le impostazioni di
   configurazione dell'Inserzione relative alle regole di
   sincronizzazione tra Passweb e una delle piattaforme integrate
@@ -40,7 +40,7 @@ rispettivamente di:
 > Cliccando su questo pulsante verrà quindi visualizzata la maschera
 > "*Dati Metodo Sincronizzazione*"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_mkt_inserzioni_5.bmp](./assets/media/image361.png)
+![](./assets/media/image361.png)
 
 > all'interno della quale poter indicare:
 
@@ -71,6 +71,6 @@ verranno automaticamente aggiornate anche tutte le Inserzioni che
 utilizzano quello stesso Template
 
 Il pulsante **Inserzioni** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_inserzioni.bmp](./assets/media/image55.png) ) consente di tornare all'elenco delle Inserzioni
+![](./assets/media/image55.png) ) consente di tornare all'elenco delle Inserzioni
 attualmente codificate
 

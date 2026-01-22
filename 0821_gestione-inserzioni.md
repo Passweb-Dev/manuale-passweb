@@ -49,7 +49,7 @@ Nello specifico è possibile creare template per:
 
 - Elementi di descrizione dell'inserzione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\inserzioni_ebay_template.bmp](./assets/media/image48.png)
+![](./assets/media/image48.png)
 
 Per maggiori informazioni relativamente alla creazione e gestione di
 questi template si vedano i successivi capitoli di questo manuale.

@@ -6,7 +6,7 @@ Per poter gestire un Contenitore e tutto il suo contenuto come elementi
 Offcanvas è sufficiente selezionare il relativo parametro presente nella
 maschera di configurazione del Contenitore stesso
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\contenitore_offcanvas_0.bmp](./assets/media/image93.png)
+![](./assets/media/image93.png)
 
 **Menu Offcanvas:** consente di trattare il Contenitore che si sta
 considerando nello stesso modo in cui vengono trattati i Menu Off

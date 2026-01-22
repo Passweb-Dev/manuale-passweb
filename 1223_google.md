@@ -12,7 +12,7 @@ inviate le mail (es. mioindirizzo@gmail.com)
 **Token**: generato e inserito automaticamente dopo aver concesso
 all'App Passepartout le autorizzazioni richieste
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\oauth_gmail_1.bmp](./assets/media/image22.png)
+![](./assets/media/image22.png)
 
 Una volta impostati i parametri di configurazione (Tipologia di
 Sicurezza, Tipologia di OAuth e Nome Utente OAuth) come sopra
@@ -20,7 +20,7 @@ evidenziato, cliccando sul pulsante "**Sign in with Google**" verremo
 automaticamente ridiretti sulla pagina di accesso dell'account Gmail
 specificato all'interno del campo "**Nome Utente OAuth**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\oauth_gmail_2.bmp](./assets/media/image23.png)
+![](./assets/media/image23.png)
 
 Dopo aver inserito le credenziali del proprio account, facendo
 attenzione ad utilizzare esattamente lo stesso indirizzo email
@@ -30,7 +30,7 @@ richieste, autorizzazioni queste indispensabili per consentire a Passweb
 di ottenere il token necessario per poter effettuare l'autenticazione
 alla casella di posta da cui verranno poi inviate le diverse mail
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\oauth_gmail_3.bmp](./assets/media/image24.png)
+![](./assets/media/image24.png)
 
 Una volta concesse tutte le autorizzazioni del caso (pulsante
 **Continua**) verremo automaticamente riportati sul Wizard di Passweb

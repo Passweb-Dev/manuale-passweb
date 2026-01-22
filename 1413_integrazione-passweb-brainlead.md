@@ -13,7 +13,7 @@ infatti di abilitare alla pagina "**Sito -- Preferenze**" del Wizard
 (tab "**Tracciamento Dati**") la sezione "**Brainlead -- Marketing
 automation software**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tracciamento_dati_brainlead_1.bmp](./assets/media/image8.png)
+![](./assets/media/image8.png)
 
 Una volta attivato il modulo, per completare l'integrazione, sarà quindi
 sufficiente settare in maniera corretta i parametri presenti all'interno

@@ -63,7 +63,7 @@ verrà utilizzato come campo chiave**. In conseguenza di ciò
   **Ragione Sociale** impostata sul valore inserito dall'utente nel
   campo Azienda di Prestashop
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\anagrafica_azienda_mexal.bmp](./assets/media/image682.png)
+![](./assets/media/image682.png)
 
 - se il campo "Azienda" presente sull'indirizzo di fatturazione di
   Prestashop non dovesse essere valorizzato, allora l'anagrafica creata
@@ -73,14 +73,14 @@ verrà utilizzato come campo chiave**. In conseguenza di ciò
   inseriti dall'utente nei relativi campi dell'indirizzo di fatturazione
   di Prestashop.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\anagrafica_azienda_personale_mexal.bmp](./assets/media/image683.png)
+![](./assets/media/image683.png)
 
 > Al contrario, nel momento in cui il campo relativo alla partita IVA
 > non fosse valorizzato l'utente creato in Passweb (e conseguentemente
 > nel gestionale Passepartout) sarà invece un utente Privato (campi
 > "Soggetto Privato" e "Persona Fisica" entrambi selezionati)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\anagrafica_privato_mexal.bmp](./assets/media/image684.png)
+![](./assets/media/image684.png)
 
 - **I campi SDI e PEC necessari per la fatturazione elettronica**
   verranno valorizzati con i dati inseriti dall'utente nei relativi
@@ -142,12 +142,12 @@ quello di un Cliente Y.**
 Supponendo quindi che l'utente registrato al sito sia l'utente "**Mario
 -- ClienteXA**" come indicato in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\fatturare_a_prestashop_1.bmp](./assets/media/image685.png)
+![](./assets/media/image685.png)
 
 in fase di ordine avremo, per il caso in esame, una situazione del tipo
 di quella qui di seguito evidenziata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\fatturare_a_prestashop_2.bmp](./assets/media/image686.png)
+![](./assets/media/image686.png)
 
 - Indirizzo di **spedizione** relativo al cliente "Mario -- ClienteXA"
   (proprietario dell'account)
@@ -159,25 +159,25 @@ In queste condizioni:
 
 - Sul gestionale verranno create le anagrafiche di entrambi gli utenti
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\fatturare_a_prestashop_3.bmp](./assets/media/image687.png)
+![](./assets/media/image687.png)
 
 - L'ordine acquisito da Prestashop sarà intestato all'anagrafica cliente
   relativa a quanto indicato sull'indirizzo di fatturazione (Giovanni --
   ClienteYA)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\fatturare_a_prestashop_4.bmp](./assets/media/image688.png)
+![](./assets/media/image688.png)
 
 - L'indirizzo di spedizione presente nel piede del documento gestionale
   sarà quello relativo all'anagrafica indicata nell'indirizzo di
   spedizione acquisito da Prestashop (Mario -- ClienteXA)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\fatturare_a_prestashop_5.bmp](./assets/media/image689.png)
+![](./assets/media/image689.png)
 
 - Ovviamente, lato Prestashop, il documento, anche dopo eventuali
   spedizioni / evasioni rimarrà sempre legato all'anagrafica del cliente
   che ha effettuato l'ordine (Mario -- ClienteXA)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\fatturare_a_prestashop_6.bmp](./assets/media/image690.png)
+![](./assets/media/image690.png)
 
 **[CASO 2]{.underline}**
 
@@ -192,7 +192,7 @@ Supponendo quindi che l'utente registrato al sito sia l'utente "**Mario
 in fase di ordine avremo, per il caso in esame, una situazione del tipo
 di quella qui di seguito evidenziata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\fatturare_a_prestashop_7.bmp](./assets/media/image691.png)
+![](./assets/media/image691.png)
 
 - Indirizzo di **spedizione** relativo al cliente "Giovanni --
   ClienteYA"
@@ -206,7 +206,7 @@ In queste condizioni:
   indicato negli indirizzi di fatturazione e spedizione (Giovanni --
   ClienteYA)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\fatturare_a_prestashop_8.bmp](./assets/media/image692.png)
+![](./assets/media/image692.png)
 
 > Passweb effettuerà anche un controllo per verificare se l'anagrafica
 > del cliente indicato nell'ordine acquisto da Prestashop sia
@@ -234,7 +234,7 @@ In queste condizioni:
   relativa a quanto indicato sull'indirizzo di fatturazione (Giovanni --
   ClienteYA)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\fatturare_a_prestashop_9.bmp](./assets/media/image693.png)
+![](./assets/media/image693.png)
 
 > **ATTENZIONE! In queste condizioni non sarà possibile creare sul
 > gestionale l'anagrafica dell'utente "Mario -- Cliente XA"**
@@ -252,7 +252,7 @@ In queste condizioni:
   piede del documento gestionale, all'interno della sezione
   "**Riferimenti di Trasporto**" non verrà inserito nessun indirizzo
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\fatturare_a_prestashop_10.bmp](./assets/media/image694.png)
+![](./assets/media/image694.png)
 
 - Ovviamente, lato Prestashop, il documento, anche dopo eventuali
   spedizioni / evasioni rimarrà sempre legato all'anagrafica del cliente
@@ -274,7 +274,7 @@ Supponendo quindi che l'utente registrato al sito sia l'utente "**Mario
 in fase di ordine avremo, per il caso in esame, una situazione del tipo
 di quella qui di seguito evidenziata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\fatturare_a_prestashop_14.bmp](./assets/media/image695.png)
+![](./assets/media/image695.png)
 
 - Indirizzo di **spedizione** relativo al cliente "Luca -- ClienteZA"
 
@@ -321,13 +321,13 @@ gestionale**
 - verrà creata sul gestionale anche l' anagrafica del cliente indicato
   nell' indirizzo di spedizione (Luca -- ClienteZA)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\fatturare_a_prestashop_15.bmp](./assets/media/image697.png)
+![](./assets/media/image697.png)
 
 - L'ordine acquisito da Prestashop sarà intestato all'anagrafica cliente
   relativa a quanto indicato sull'indirizzo di fatturazione (Giovanni --
   ClienteYA)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\fatturare_a_prestashop_16.bmp](./assets/media/image698.png)
+![](./assets/media/image698.png)
 
 > **ATTENZIONE!** In queste condizioni non sarà possibile creare sul
 > gestionale l'anagrafica dell'utente "Mario -- Cliente XA"
@@ -343,7 +343,7 @@ gestionale**
   sarà quello relativo all'anagrafica indicata nell'indirizzo di
   spedizione acquisito da Prestashop (Luca -- ClienteZA)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\fatturare_a_prestashop_17.bmp](./assets/media/image699.png)
+![](./assets/media/image699.png)
 
 **Nel caso in cui l'utente che ha generato l'ordine su Prestashop (Mario
 -- ClienteXA) dovesse già essere presente tra le anagrafiche del
@@ -355,13 +355,13 @@ gestionale**
   spedizione) collegato all'anagrafica dell'utente che ha generato
   l'ordine su Prestashop (Mario -- ClienteXA)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\fatturare_a_prestashop_12.bmp](./assets/media/image700.png)
+![](./assets/media/image700.png)
 
 - L'ordine acquisito da Prestashop sarà intestato all'anagrafica cliente
   relativa a quanto indicato sull'indirizzo di fatturazione (Giovanni --
   ClienteYA)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\fatturare_a_prestashop_13.bmp](./assets/media/image701.png)
+![](./assets/media/image701.png)
 
 - L'indirizzo di spedizione presente nel piede del documento gestionale
   sarà quello relativo all'anagrafica indicata nell'indirizzo di
@@ -369,7 +369,7 @@ gestionale**
   riportato anche il nominativo del cliente Mexal (Mario -- Cliente XA)
   cui tale indirizzo è stato associato come indirizzo secondario
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\fatturare_a_prestashop_5.bmp](./assets/media/image689.png)
+![](./assets/media/image689.png)
 
 Anche in queste condizioni ovviamente, lato Prestashop, il documento,
 anche dopo eventuali spedizioni / evasioni rimarrà sempre legato

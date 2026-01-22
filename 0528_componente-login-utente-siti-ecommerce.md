@@ -5,7 +5,7 @@
 Il Componente **"Login Utente"** può essere utilizzato all'interno di
 una qualsiasi pagina del sito indipendentemente dalla sua tipologia
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_login.bmp](./assets/media/image1.png)
+![](./assets/media/image1.png)
 
 e permette di inserire all'interno della pagina web il pannello di Login
 necessario per consentire agli utenti del proprio sito E-commerce di
@@ -18,7 +18,7 @@ direttamente sul sito Passweb), oppure sfruttare i dati dei propri
 profili social ed effettuare quindi l'autenticazione utilizzando
 direttamente il proprio account facebook, linkedin, google plus ecc...
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\login_sito.bmp](./assets/media/image2.png)
+![](./assets/media/image2.png)
 
 > **NOTA BENE:** il pannello di login scomparirà automaticamente dal
 > sito subito dopo aver effettuato l'autenticazione.

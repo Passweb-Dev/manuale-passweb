@@ -12,9 +12,9 @@ Mexal / Ho.Re.Ca. delle opzioni di personalizzazione, queste verranno
 riportate **tramite apposite note di riga, precedute, a default, dai
 caratteri "##"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\custom_option_ordine.bmp](./assets/media/image658.png)
+![](./assets/media/image658.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\custom_option_ordine_retail.bmp](./assets/media/image659.png)
+![](./assets/media/image659.png)
 
 Volendo è anche possibile indicare una serie di caratteri differenti da
 anteporre alle note di riga utilizzate per gestire le opzioni di
@@ -22,7 +22,7 @@ personalizzazione agendo, in questo senso, mediante il parametro
 "**Prefisso Opzioni Articolo**" presente alla pagina "Configurazione
 Ordini" del Wizard
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ordini_prefisso_opzioni.bmp](./assets/media/image660.png)
+![](./assets/media/image660.png)
 
 **ATTENZIONE! E' di fondamentale importanza non variare in alcun modo
 sul gestionale le informazioni contenute nelle note relative alle
@@ -51,7 +51,7 @@ In Mexal, ad esempio, sarà necessario portarsi all'interno del menu
 selezionare la sigla del documento interessato (es OC) e cliccare sul
 pulsante "Invio" aprendo così l'editor di modifica.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\stampe_grafiche_mexal.bmp](./assets/media/image661.png)
+![](./assets/media/image661.png)
 
 Sarà quindi necessario inserire all'interno dell'elemento **"Riga
 Descrittiva**" l'espressione che consente di non stampare, nel relativo
@@ -62,7 +62,7 @@ queste note, l'espressione da inserire sarà la seguente:
 
 **IIF(LEFT\$(\_mmdee,2)=\"##\",\"\",\_mmdee)**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\stampe_grafiche_mexal2.bmp](./assets/media/image662.png)
+![](./assets/media/image662.png)
 
 In questo modo nella stampa del documento le righe relative a note che
 iniziano con i caratteri "##" verranno sostituite da righe vuote.

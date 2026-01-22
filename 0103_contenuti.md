@@ -12,7 +12,7 @@ categorie, tag o prodotti ecommerce associati ecc...
 All'interno di questa pagina verrà quindi visualizzata la maschera,
 **"Gestione CMS -- Contenuti"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_cms_contenuti.bmp](./assets/media/image491.png)
+![](./assets/media/image491.png)
 
 contenente l'elenco di tutte le notizie, strutturate o meno, attualmente
 codificate ed eventualmente pubblicate all'interno del sito.
@@ -22,7 +22,7 @@ consente di ricercare specifici post, tra quelli presenti in elenco,
 filtrandoli, ad esempio, sulla base della loro specifica categoria di
 appartenenza (pulsante "**Filtra per Categorie**").
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_cms_ricerca.bmp](./assets/media/image492.png)
+![](./assets/media/image492.png)
 
 Una volta indicato quindi, all'interno del corrispondente campo di
 input, lo specifico testo da ricercare e/o selezionata la specifica
@@ -63,7 +63,7 @@ informazioni relative al post stesso tra cui:
 
 - gli eventuali contenuti dei campi "Descrizione 1/2/3"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\elenco_post_dettagli.bmp](./assets/media/image493.png)
+![](./assets/media/image493.png)
 
 **NOTA BENE**: un post che non è associato in maniera specifica a nessun
 Gruppo di Utenti, è un post che, una volta pubblicato, risulterà
@@ -74,11 +74,11 @@ All'interno di questo elenco sarà possibile distinguere due diverse
 tipologie di elementi:
 
 - **Contenuto** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_cms_contenuto.bmp](./assets/media/image494.png) ): questo tipo di elemento rappresenta
+  ![](./assets/media/image494.png) ): questo tipo di elemento rappresenta
   un post, una notizia, vera e propria
 
 - **Suddivisione Contenuto** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_cms_suddivisione.bmp](./assets/media/image495.png) ): questo tipo di elemento rappresenta
+  ![](./assets/media/image495.png) ): questo tipo di elemento rappresenta
   un raggruppamento logico, un contenitore di tanti singoli contenuti
   collocati al di sotto di esso, e viene quindi utilizzato
   principalmente per creare e gestire contenuti strutturati.
@@ -120,7 +120,7 @@ I pulsanti presenti nella barra degli strumenti della maschera
 "**Gestione Cms -- Contenuti**" consentiranno rispettivamente di:
 
 **Copia Contenuto** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_copia_contenuto.bmp](./assets/media/image496.png) ): consente di effettuare una copia
+![](./assets/media/image496.png) ): consente di effettuare una copia
 esatta del post selezionato in elenco. Il risultato della copia sarà
 quindi un nuovo contenuto CMS, con lo stesso titolo del contenuto
 sorgente più il prefisso "Copia" e con tutti i dati dell\'originale ad
@@ -135,7 +135,7 @@ che si trovano all'interno di una gerarchia e/o che sono essi stessi
 radice della gerarchia.
 
 **Elimina Contenuto**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_contenuto.bmp](./assets/media/image497.png) ): consente di eliminare il post
+(![](./assets/media/image497.png) ): consente di eliminare il post
 attualmente selezionato in elenco.
 
 **ATTENZIONE!** Nel caso in cui il post selezionato sia la radice di un
@@ -143,12 +143,12 @@ contenuto strutturato, eliminando questo elemento verranno eliminati
 anche tutti i post facenti parte della struttura in esame.
 
 **Modifica Contenuto**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_contenuto.bmp](./assets/media/image498.png) ): consente di modificare il post
+(![](./assets/media/image498.png) ): consente di modificare il post
 attualmente selezionato in elenco.
 
 **Nuovo Contenuto / Nuova Suddivisione Contenuto**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuovo_contenuto.bmp](./assets/media/image499.png) ) / (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuova_suddivisione.bmp](./assets/media/image500.png) ): consente di creare un nuovo elemento
+(![](./assets/media/image499.png) ) / (
+![](./assets/media/image500.png) ): consente di creare un nuovo elemento
 di tipo "**Contenuto**" / "**Suddivisone Contenuto**".
 
 **ATTENZIONE!** Per maggiori informazioni in merito alla creazione e
@@ -156,12 +156,12 @@ gestione di un nuovo "Contenuto CMS" e/o di una nuova "Suddivisone
 Contenuto" si vedano anche i successivi capitoli di questo manuale.
 
 **Esporta**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_esporta_testo.bmp](./assets/media/image475.png) ): consente di esportare all'interno di
+(![](./assets/media/image475.png) ): consente di esportare all'interno di
 un apposito file csv tutti i post CMS per i quali è stato correttamente
 valorizzato il campo "**Codice**"
 
 **Importa**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_importa.bmp](./assets/media/image501.png) ): consente di creare / modificare in
+(![](./assets/media/image501.png) ): consente di creare / modificare in
 maniera massiva un insieme di post CMS importando i relativi dati da un
 file csv appositamente strutturato
 
@@ -176,13 +176,13 @@ capitolo "*Importazione / Esportazione massiva di contenuti CMS*" di
 questo manuale
 
 **Commenti** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_commenti.bmp](./assets/media/image502.png) ): consente di accedere ai commenti relativi al post
+![](./assets/media/image502.png) ): consente di accedere ai commenti relativi al post
 attualmente selezionato in elenco.
 
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 "**Gestione Cms -- Commenti**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_cms_commenti_elenco.bmp](./assets/media/image503.png)
+![](./assets/media/image503.png)
 
 all'interno della quale poter visualizzare l'elenco di tutti i commenti
 attualmente associati al post in esame.
@@ -191,17 +191,17 @@ I pulsanti presenti nella contestuale barra degli strumenti consento
 invece di:
 
 **Modifica Commento** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_commento.bmp](./assets/media/image504.png) ):consente di accedere al dettaglio del commento
+![](./assets/media/image504.png) ):consente di accedere al dettaglio del commento
 selezionato in elenco e, eventualmente, di modificarne il contenuto
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dettaglio_commento_1.bmp](./assets/media/image505.png)
+![](./assets/media/image505.png)
 
 **Elimina Commento**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_commento.bmp](./assets/media/image506.png) ):consente di eliminare il commento selezionato in
+(![](./assets/media/image506.png) ):consente di eliminare il commento selezionato in
 elenco
 
 **Pubblica Commento**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_pubblica_commento.bmp](./assets/media/image507.png) ): consente di pubblicare il commento selezionato in
+(![](./assets/media/image507.png) ): consente di pubblicare il commento selezionato in
 elenco.
 
 **ATTENZIONE!! In merito al pulsante "Pubblica Commento" è bene
@@ -248,7 +248,7 @@ l'apposita sezione di questo manuale (*Live Editing -- Lista Componenti
 CMS -- Commenti Associati*)
 
 **Ricarica Commenti**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_ricarica_commenti.bmp](./assets/media/image508.png) ): consente di ricaricare i commenti
+(![](./assets/media/image508.png) ): consente di ricaricare i commenti
 presenti in elenco in modo tale da poter visualizzare eventuali nuovi
 commenti postati all'interno del sito.
 

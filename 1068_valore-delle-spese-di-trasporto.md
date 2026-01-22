@@ -13,7 +13,7 @@ trasporto**" accessibile, nell'anagrafica di ogni singolo cliente, dal
 menu *Condizioni e automatismi -- Condizioni documenti di magazzino --
 Vettore / Dati di trasporto*
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tabella_vettore.bmp](./assets/media/image343.png)
+![](./assets/media/image343.png)
 
 Tra i vari parametri presenti all'interno di questa maschera troviamo
 infatti anche **Tipo spese spedizione**, **Valore** e **Fino a** che

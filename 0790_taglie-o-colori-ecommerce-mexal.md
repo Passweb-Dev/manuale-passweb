@@ -24,14 +24,14 @@ Mexal di articoli a taglie si rimanda allo specifico manuale.
 All'interno di questa pagina verrà quindi visualizzata la maschera
 **"Lista delle Serie"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_delle_serie.bmp](./assets/media/image315.png)
+![](./assets/media/image315.png)
 
 contenente l'elenco di tutte le serie codificate in Mexal **e alle quali
 è stata associata un'apposita descrizione** attraverso la corrispondente
 tabella Mexal (*"Magazzino -- Tabelle Aziendali -- Descrizione tabelle
 -- Taglie articolo"*).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\descrizione_tabella_taglie.bmp](./assets/media/image316.png)
+![](./assets/media/image316.png)
 
 **NOTA BENE:** in Passweb verranno visualizzate e gestite in maniera
 corretta le sole serie per le quali è stata creata in Mexal un'apposita
@@ -56,13 +56,13 @@ I pulsanti presenti nella barra degli strumenti consentono,
 rispettivamente, di:
 
 - **Modifica Serie**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_serie.bmp](./assets/media/image317.png) ): consente di accedere alla maschera "**Modifica
+  (![](./assets/media/image317.png) ): consente di accedere alla maschera "**Modifica
   Serie**" mediante la quale poter impostare manualmente i parametri di
   configurazione della serie attualmente selezionata in elenco.
 
 - **Esporta / Importa Serie** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_esporta_serie.bmp](./assets/media/image318.png) /
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_importa_serie.bmp](./assets/media/image319.png)): consente di esportare / importare (e
+  ![](./assets/media/image318.png) /
+  ![](./assets/media/image319.png)): consente di esportare / importare (e
   conseguentemente modificare) in maniera massiva, mediante appositi
   file .csv / .txt, i dati di configurazione delle serie presenti in
   elenco
@@ -73,7 +73,7 @@ rispettivamente, di:
 > Serie di Taglie / Colori**" di questo manuale
 
 - **Modifica Taglie/Colori**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_taglie_colori.bmp](./assets/media/image320.png) ): consente di accedere alla maschera **"Modifica
+  (![](./assets/media/image320.png) ): consente di accedere alla maschera **"Modifica
   Elementi della Serie"** attraverso la quale poter impostare, in
   maniera manuale, i parametri di configurazione (descrizioni in lingua,
   posizione ...) dei vari elementi componenti la serie attualmente
@@ -83,8 +83,8 @@ rispettivamente, di:
 > eventualmente utilizzati anche in fase di ricerca articoli.
 
 - **Esporta / Importa Taglie** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_esporta_taglie.bmp](./assets/media/image321.png) /
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_importa_taglie.bmp](./assets/media/image322.png)): consente di esportare / importare (e
+  ![](./assets/media/image321.png) /
+  ![](./assets/media/image322.png)): consente di esportare / importare (e
   conseguentemente modificare) in maniera massiva, mediante appositi
   file .csv / .txt i parametri di configurazione (descrizioni in lingua,
   posizione ...) dei vari elementi componenti la serie attualmente

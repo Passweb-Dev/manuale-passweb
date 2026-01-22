@@ -20,7 +20,7 @@ valore che dovrà poi essere inserito in corrispondenza del parametro
 1.  Accedere al live editing del proprio sito e aprire la maschera di
     gestione delle Varianti
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\variante_4_res.bmp](./assets/media/image40.png)
+![](./assets/media/image40.png)
 
 2.  Selezionare la Variante da utilizzare per generare il link di
     filtraggio automatico (tipicamente è la Variante sito attualmente
@@ -52,7 +52,7 @@ valore che dovrà poi essere inserito in corrispondenza del parametro
 4.  Utilizzare il pannello di ricerca per impostare e applicare il
     filtro desiderato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\querystring_ricerca_cms_1.bmp](./assets/media/image41.png)
+![](./assets/media/image41.png)
 
 > Nell'esempio in figura è stato impostato un filtro per ricercare tutte
 > le news in archivio che contengono la parola "Apple"
@@ -62,17 +62,17 @@ valore che dovrà poi essere inserito in corrispondenza del parametro
     una piccola icona "**Copia**" grazie alla quale poter ottenere la
     querystring corrispondente al filtro appena impostato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\querystring_ricerca_cms_2.bmp](./assets/media/image42.png)
+![](./assets/media/image42.png)
 
 6.  Cliccare quindi sull'icona "**Copia**" per copiare nella Clipboard
     (Appunti) la relativa querystring
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\querystring_ricerca_cms_3.bmp](./assets/media/image43.png)
+![](./assets/media/image43.png)
 
 > ed incollarla all'interno del parametro "**Ricerca Iniziale**"
 > presente nella maschera di configurazione del pannello di ricerca
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtro_iniziale_cms.bmp](./assets/media/image45.png)
+![](./assets/media/image45.png)
 
 > **ATTENZIONE!** Una volta impostato il parametro "Ricerca Iniziale"
 > come evidenziato in figura, ogni volta in cui un utente effettuerà

@@ -16,7 +16,7 @@ Business Manager sarà necessario:
     selezionare, all'interno del campo "**Marketplace**" l'opzione
     "**Facebook Catalog**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_mkt_5.bmp](./assets/media/image549.png)
+![](./assets/media/image549.png)
 
 20. Compilare i campi presenti all'interno della sezione
     "**Credenziali**" con i dati di seguito indicati:
@@ -28,7 +28,7 @@ Business Manager sarà necessario:
 > Account Business Manager e portarsi nella sezione "**Informazioni sul
 > Business Manager**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_mkt_6a.bmp](./assets/media/image550.png)
+![](./assets/media/image550.png)
 
 > Copiare quindi il codice presente in corrispondenza del campo "ID
 > Business Manager" e inserirlo nel corrispondente campo Passweb
@@ -131,7 +131,7 @@ parametro "**Modalità pubblicazione articoli**" presente nella sezione
 "**Metodi di pubblicazione**" della maschera "**Dati Account**"
 sull'opzione **API**, come evidenziato nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\facebook_bm_api.bmp](./assets/media/image551.png)
+![](./assets/media/image551.png)
 
 In queste condizioni, come evidenziato anche nel precedente capitolo di
 questo manuale, la pubblicazione dei dati articolo sulla piattaforma
@@ -146,7 +146,7 @@ parametro "**Modalità pubblicazione articoli**" presente nella sezione
 "**Metodi di pubblicazione**" della maschera "**Dati Account**"
 sull'opzione **CSV**, come evidenziato nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\facebook_bm_csv.bmp](./assets/media/image552.png)
+![](./assets/media/image552.png)
 
 In questo caso occorrerà poi impostare anche tutta una serie di altri
 parametri necessari per configurare in maniera corretta la creazione dei
@@ -363,7 +363,7 @@ dati contenuti in questi file sulla piattaforma terza, il tutto
 dipenderà essenzialmente da come verranno impostati i campi presenti
 nella sezione "**Repository**" dal tab "Metodi di pubblicazione"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\facebook_bm_csv2.bmp](./assets/media/image553.png)
+![](./assets/media/image553.png)
 
 In questo senso infatti il campo:
 
@@ -408,7 +408,7 @@ csv prodotti da Passweb in maniera completamente manuale, e senza quindi
 ricorrere a nessun Repository, sarà sufficiente impostare il parametro
 "**Repository CSV**" sull'opzione "**Non gestito**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_csv3.bmp](./assets/media/image445.png)
+![](./assets/media/image445.png)
 
 In queste condizioni dunque a seguito di ogni operazione di
 pubblicazione articoli (indipendentemente dal fatto che sia una
@@ -418,7 +418,7 @@ quindi essere scaricati in maniera manuale operando all'interno del tab
 "**Download CSV**" presente anch'esso nella maschera di configurazione
 del relativo Account
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_csv4.bmp](./assets/media/image446.png)
+![](./assets/media/image446.png)
 
 All'interno di questa sezione, visibile solo nel momento in cui per
 l'Account in esame si stia utilizzando un metodo di pubblicazione
@@ -509,23 +509,23 @@ Per far questo sarà necessario:
   come ad esempio un nome (campo "**Nome dell'elenco dati**"), e la
   valuta predefinita da utilizzare (campo "**Valuta predefinita**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\facebook_bm_csv8.bmp](./assets/media/image559.png)
+![](./assets/media/image559.png)
 
 > **ATTENZIONE!** considerando che abbiamo optato per il caricamento
 > manuale del file, non sarà possibile ovviamente automatizzare questa
 > operazione associando all'Elenco dati una specifica programmazione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\facebook_bm_csv9.bmp](./assets/media/image560.png)
+![](./assets/media/image560.png)
 
 - Una volta inseriti i dati richiesti cliccando sul pulsante "**Salva
   elenco e carica**" verrà avviata la procedura di upload del file
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\facebook_bm_csv10.bmp](./assets/media/image561.png)
+![](./assets/media/image561.png)
 
 - Al termine della procedura i prodotti caricati saranno visibili
   all'interno della sezione "**Catalogo -- Articoli**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\facebook_bm_csv11.bmp](./assets/media/image562.png)
+![](./assets/media/image562.png)
 
 ####### **PUBBLICAZIONE VIA FTP**
 
@@ -540,7 +540,7 @@ anche alla piattaforma terza deputata alla loro elaborazione.
 Per attivare questo tipo di repository è necessario, per prima cosa,
 impostare il parametro "**Repository CSV**" sull'opzione "**FTP**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_csv8.bmp](./assets/media/image452.png)
+![](./assets/media/image452.png)
 
 Fatto questo sarà poi necessario impostare anche tutta una serie di
 altri parametri necessari per consentire a Passweb di accedere all'area
@@ -612,7 +612,7 @@ Per attivare questo tipo di repository è necessario, per prima cosa,
 impostare il parametro "**Repository CSV**" sull'opzione "**Google
 Drive**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_csv9.bmp](./assets/media/image453.png)
+![](./assets/media/image453.png)
 
 Fatto questo sarà poi necessario impostare anche tutta una serie di
 altri parametri necessari per consentire a Passweb di connettersi
@@ -639,7 +639,7 @@ indirizzi sotto il dominio assegnato al proprio sito Passweb.
 Per attivare questo tipo di repository è necessario impostare il
 parametro "**Repository CSV**" sull'opzione "**URL Passweb**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_csv12.bmp](./assets/media/image475.png)
+![](./assets/media/image475.png)
 
 In queste condizioni non sarà necessario impostare nessun'altro
 parametro di configurazione essendo i file in esame disponibili
@@ -689,17 +689,17 @@ sarà necessario:
 - Accedere, sul Business Manager, al "**Gestore delle vendite**"
   collegato al proprio catalogo prodotti
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\facebook_bm_csv3.bmp](./assets/media/image554.png)
+![](./assets/media/image554.png)
 
 - Accedere alla sezione "**Catalogo -- Origini dei dati**" presente nel
   menu sulla sinistra della pagina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\facebook_bm_csv4.bmp](./assets/media/image555.png)
+![](./assets/media/image555.png)
 
 > selezionare, come modalità di creazione del feed l'opzione "**Elenco
 > di dati**" come evidenziato in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\facebook_bm_csv5.bmp](./assets/media/image556.png)
+![](./assets/media/image556.png)
 
 > e cliccare sul pulsante "**Avanti**" in maniera tale da avviare la
 > procedura di upload del relativo file
@@ -745,7 +745,7 @@ sarà necessario:
   esattamente la frequenza e l'orario con cui effettuare il recupero
   automatico del file
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\facebook_bm_csv13.bmp](./assets/media/image564.png)
+![](./assets/media/image564.png)
 
 > Impostare quindi la frequenza desiderata e cliccare sul pulsante
 > "**Avanti**"
@@ -754,7 +754,7 @@ sarà necessario:
   essere già presenti dei prodotti ci verrà chiesto come si dovrà
   comportare l'import automatico in relazione a questi stessi prodotti
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\facebook_bm_csv14.bmp](./assets/media/image565.png)
+![](./assets/media/image565.png)
 
 > Tipicamente sarà possibile decidere di sostituire interamente i dati
 > presenti nel Catalogo oppure di aggiornarli (per maggiori informazioni
@@ -770,7 +770,7 @@ sarà necessario:
   dell'elenco dati**") e la valuta predefinita da utilizzare (campo
   "**Valuta predefinita**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\facebook_bm_csv15.bmp](./assets/media/image566.png)
+![](./assets/media/image566.png)
 
 > Una volta impostati anche questi dati il pulsante "Salva elenco e
 > carica" consentirà di salvare tutte le impostazioni settate e di
@@ -778,12 +778,12 @@ sarà necessario:
 > questo che d'ora in avanti avverrà in maniera completamente automatica
 > con la frequenza precedentemente indicata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\facebook_bm_csv16.bmp](./assets/media/image567.png)
+![](./assets/media/image567.png)
 
 - Anche in questo caso al termine della procedura i prodotti caricati
   saranno visibili all'interno della sezione "**Catalogo -- Articoli**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\facebook_bm_csv11.bmp](./assets/media/image562.png)
+![](./assets/media/image562.png)
 
 **ARTICOLI**
 
@@ -791,7 +791,7 @@ All'interno di questa sezione sarà necessario indicare, selezionandoli
 tra quelli presenti in corrispondenza del parametro "**Magazzino degli
 articoli**" i Magazzini da collegare all'Account in esame
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\facebook_bm_articoli.bmp](./assets/media/image568.png)
+![](./assets/media/image568.png)
 
 **ATTENZIONE!** Per poter salvare correttamente l'Account è necessario
 indicare almeno un Magazzino. **Inoltre i magazzini indicati all'interno
@@ -820,7 +820,7 @@ stata impostata la pubblicazione via CSV**, è possibile schedulare le
 operazioni di creazione dei vari file che dovranno poi essere dati in
 pasto alla piattaforma terza
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\facebook_bm_schedulazione.bmp](./assets/media/image569.png)
+![](./assets/media/image569.png)
 
 Relativamente alle operazioni di pubblicazione automatica dei file CSV
 occorre poi tenere in considerazione alcune cose di fondamentale

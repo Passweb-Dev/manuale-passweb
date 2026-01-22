@@ -36,7 +36,7 @@ Attivazione Passweb*"), sarà poi necessario richiamare la maschera
 **"Configurazione gestione dati web articolo"** qui di seguito
 riportata, e flaggare il campo **"Spese di trasporto a scaglioni".**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dati_web_articolo_spese_a_scaglioni.bmp](./assets/media/image345.png)
+![](./assets/media/image345.png)
 
 > **NOTA BENE:** la maschera "Configurazione gestione dati web articolo"
 > può essere richiamata in un qualsiasi momento grazie al pulsante
@@ -51,7 +51,7 @@ allo specifico sito su cui si intende operare, sarà possibile trovare,
 nella successiva maschera, il campo **Spese Trasp. A Scagli.**
 corrispondente alla "Funzionalità Mexal" precedentemente attivata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dati_passweb_spese_a_scaglioni.bmp](./assets/media/image346.png)
+![](./assets/media/image346.png)
 
 Questo campo dovrà contenere il valore numerico che verrà utilizzato
 come Misuratore per il calcolo delle spese di trasporto quando
@@ -81,7 +81,7 @@ Scaglioni**" dell' Anagrafica Passweb di ogni singolo articolo il valore
 numerico che verrà utilizzato come Misuratore per il calcolo delle spese
 di trasporto quando l\'articolo in esame verrà inserito in un ordine.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\misuratore_trasporto_scaglioni.bmp](./assets/media/image347.png)
+![](./assets/media/image347.png)
 
 **Questo Misuratore dovrà quindi essere, ad esempio, un valore
 identificativo dello spazio occupato dall\'articolo in esame
@@ -100,20 +100,20 @@ Passweb sarà poi necessario:
   maschera "**Configurazione del Metodo di Trasporto**" su uno dei
   valori "**Scaglioni in base al campo Personalizzato ..."**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\base_calcolo_personalizzata.bmp](./assets/media/image348.png)
+![](./assets/media/image348.png)
 
 - Impostare i parametri di configurazione "**Tipo di Campo**" e
   "**Campo**" rispettivamente sui valori "**Campo Articolo**" e
   "**Misuratore**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trasporti_misuratore.bmp](./assets/media/image349.png)
+![](./assets/media/image349.png)
 
 - Definire per la tipologia di spesa di trasporto in esame almeno una
   zona di spedizione per la quale il parametro **"Tipo di Spesa"**
   presente all'interno della maschera **"Configurazione Zona"** sia
   impostato sul valore **"Tabellare"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\zona_trasporto_tabellare.bmp](./assets/media/image318.png)
+![](./assets/media/image318.png)
 
 - Definire i vari scaglioni indicando per ciascuno di essi il valore
   limite ed il corrispondente importo delle spese di trasporto (si veda
@@ -207,7 +207,7 @@ come unità di definizione di questi stessi scaglioni:
 - il **Peso** degli articoli indicato nel relativo campo dell'Anagrafica
   Passweb all'interno della sezione "**Spedizione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trasporti_peso.bmp](./assets/media/image350.png)
+![](./assets/media/image350.png)
 
 > In queste condizioni sarà poi necessario:
 
@@ -225,7 +225,7 @@ come unità di definizione di questi stessi scaglioni:
   "**Campo**" rispettivamente sui valori "**Campo Articolo**" e
   "**Peso**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trasporti_peso2.bmp](./assets/media/image351.png)
+![](./assets/media/image351.png)
 
 - il valore definito per ogni Articolo all'interno di un Attributo
   Passweb appositamente creato.
@@ -248,5 +248,5 @@ come unità di definizione di questi stessi scaglioni:
   successivo campo "**Attributo**" l'attributo Articolo precedentemente
   creato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trasporti_tipo_campo_2.bmp](./assets/media/image352.png)
+![](./assets/media/image352.png)
 

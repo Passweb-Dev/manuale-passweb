@@ -7,7 +7,7 @@ e **mensile** questa sezione permette all'utente attualmente loggato di
 consultare e/o inserire attività scadenze o appuntamenti nella propria
 Agenda piuttosto che in quella dei propri clienti.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_comm_agenda_passcom.bmp](./assets/media/image130.png)
+![](./assets/media/image130.png)
 
 Volendo, inoltre, è possibile fare in modo che le attività inserite in
 agenda vengano riportate automaticamente anche nel calendario Google
@@ -39,7 +39,7 @@ aver attivato la relativa App operando per questo all'interno
 dell'apposita sezione del Wizard accessibile dal menu "*Sito --
 Preferenze*".
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ec_agenda_attivazione_passcom.bmp](./assets/media/image131.png)
+![](./assets/media/image131.png)
 
 Come si può facilmente osservare l'Agenda è suddivisa in due distinte
 sezioni: una colonna di destra (**colonna "Agenda"**) in cui viene
@@ -94,7 +94,7 @@ quella dell'Agenda Giornaliera**
 Per quel che riguarda invece la **colonna "Opzioni"** troviamo
 (dall'alto verso il basso):
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_comm_agenda_dettaglio_colonna_opzioni.bmp](./assets/media/image139.png)
+![](./assets/media/image139.png)
 
 - **Calendario di selezione del giorno (1)** : consente di selezionare
   uno specifico giorno senza dover per forza di cose scorrere tutta
@@ -137,7 +137,7 @@ Per quel che riguarda invece la **colonna "Opzioni"** troviamo
 > attualmente gestiti con la possibilità di selezionarne anche più di
 > uno alla volta
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_comm_elenco_calendari.bmp](./assets/media/image141.png)
+![](./assets/media/image141.png)
 
 > Per creare un nuovo Calendario cui associare poi determinate attività
 > / scadenze è sufficiente cliccare sul pulsante "**Aggiungi
@@ -232,7 +232,7 @@ Per quel che riguarda invece la **colonna "Opzioni"** troviamo
 I pulsanti presenti a fianco della colonna Agenda consentono, infine,
 di:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsanti_agenda_ar_comm.bmp](./assets/media/image149.png)
+![](./assets/media/image149.png)
 
 **Nuova Attività (**
 ![Videate\\pulsante_nuovo_agenda_ar.bmp](./assets/media/image150.png) **):** consente di inserire una nuova
@@ -263,20 +263,20 @@ conferma, di eliminare l'attività attualmente selezionata in agenda.
 **ATTENZIONE!** l'attività attualmente selezionata in Agenda verrà
 evidenziata in viola
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\comm_conferma_elimina_attivita.bmp](./assets/media/image153.png)
+![](./assets/media/image153.png)
 
 Nel caso in cui l'attività da eliminare sia presente nell'agenda di più
 destinatari il creatore di questa stessa attività, avrà la possibilità
 di decidere se eliminarla solo dalla sua agenda o anche da quella di
 tutti i destinatari in cui essa compare**.**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\elimina_da_calendario_utente_comm.bmp](./assets/media/image154.png)
+![](./assets/media/image154.png)
 
 Nel caso in cui invece l'attività da eliminare sia un' attività ripetuta
 l'utente avrà la possibilità di scegliere se eliminare la singola
 occorrenza oppure l'intera serie
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\elimina_serie_comm.bmp](./assets/media/image155.png)
+![](./assets/media/image155.png)
 
 In queste condizioni nel caso in cui **si dovesse decidere di eliminare
 la singola occorrenza, questa verrà eliminata solo ed esclusivamente
@@ -434,7 +434,7 @@ maschera o, in alternativa cliccare direttamente sul periodo desiderato
 In entrambi i casi infatti verrà aperta la maschera di inserimento nuova
 attività
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ec_nuova_attivita_comm.bmp](./assets/media/image161.png)
+![](./assets/media/image161.png)
 
 suddivisa in due distinte sezioni.
 
@@ -479,7 +479,7 @@ raffigurante un orologio
 All'interno della sezione **"Stato Attività"** è invece possibile
 impostare un valore per i seguenti campi:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\agenda_stato_attivita.bmp](./assets/media/image164.png)
+![](./assets/media/image164.png)
 
 - **Stato:** consente di impostare selezionando tra **Pianificata,
   Annullata, Completata, Scaduta** lo specifico Stato da assegnare
@@ -521,7 +521,7 @@ impostare un valore per i seguenti campi:
 - **Rosso** i vari gruppi utente (vedi anche sezione "Utenti --
   Gerarchie" di questo manuale);
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_nuovo_destinatario_comm.bmp](./assets/media/image166.png)
+![](./assets/media/image166.png)
 
 > Per inserire un nuovo destinatario sarà quindi sufficiente
 > selezionarlo dall'elenco sopra evidenziato, mettendo l'apposita
@@ -568,7 +568,7 @@ impostare un valore per i seguenti campi:
   relative notifiche (Email, SMS, Telegram e/o Whatsapp) ai destinatari,
   legati alla scadenza dell'attività in esame
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_promemoria_attivita.bmp](./assets/media/image167.png)
+![](./assets/media/image167.png)
 
 > Per attivare un promemoria è necessario, ovviamente, indicare,
 > selezionandola tra le opzioni disponibili, quanto prima della scadenza
@@ -647,7 +647,7 @@ pagina
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 **"Condividi Agenda"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\condivisione_agenda_comm.bmp](./assets/media/image169.png)
+![](./assets/media/image169.png)
 
 all'interno della quale poter visualizzare gli utenti con i quali è
 attualmente condivisa la propria agenda oltre che, ovviamente, poterne
@@ -755,7 +755,7 @@ agende condivise, sarà sufficiente visualizzare la colonna Opzioni e
 selezionare l'utente per il quale si desidera caricare l'Agenda, tra
 quelli disponibili all'interno del campo "**Agende Condivise**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\agende_condivise_selezione_comm.bmp](./assets/media/image173.png)
+![](./assets/media/image173.png)
 
 **ATTENZIONE!** all'interno del campo "Agende Condivise" saranno
 visualizzati ovviamente, soltanto gli utenti che hanno deciso di

@@ -33,7 +33,7 @@ presente nella barra degli strumenti.
 In questo modo verrà infatti visualizzata la maschera "**Testi
 Componente -- Set Opzioni**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tooltip_prezzo_opzione.bmp](./assets/media/image466.png)
+![](./assets/media/image466.png)
 
 all'interno della quale troveremo un editor HTML (sezione "**Tooltip
 Quantità -- Prezzo**") da utilizzare per personalizzare il messaggio.

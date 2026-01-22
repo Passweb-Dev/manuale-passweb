@@ -21,7 +21,7 @@ Leads sarà necessario:
     -- Impostazioni**" ed espandere la voce "Conversioni avanzate per i
     lead" presente nella parte destra della maschera
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\conversioni_offline_5.bmp](./assets/media/image32.png)
+![](./assets/media/image32.png)
 
 2.  Selezionare il check "**Attiva le conversioni avanzate per i lead**"
 
@@ -40,7 +40,7 @@ Leads sarà necessario:
 > menu a tendina, il metodo adottato nel nostro sistema di tracciamento
 > per inviare a Google Ads i dati utente.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\conversioni_offline_7.bmp](./assets/media/image33.png)
+![](./assets/media/image33.png)
 
 > Come evidenziato in figura le opzioni possibili sono 2:
 
@@ -82,18 +82,18 @@ necessario:
 1.  Accedere all'account Google Ads, portarsi alla sezione "**Obiettivi
     -- Caricamenti - Pianificazioni**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\conversioni_offline_8.bmp](./assets/media/image34.png)
+![](./assets/media/image34.png)
 
 > e, da qui cliccare sul pulsante raffigurante un piccolo **+** per
 > creare una nuova pianificazione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\conversioni_offline_9.bmp](./assets/media/image35.png)
+![](./assets/media/image35.png)
 
 2.  Nella maschera di creazione della nuova pianificazione dovremo
     cliccare sul menu a tendina "**Seleziona origine**" selezionando poi
     tra le opzioni proposte la voce "**HTTPS**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\conversioni_offline_10.bmp](./assets/media/image36.png)
+![](./assets/media/image36.png)
 
 3.  In questo modo avremo la possibilità di indicare a Google Ads un
     indirizzo web che Ads stesso controllerà periodicamente, con la
@@ -120,20 +120,20 @@ necessario:
 > prelevare dal' url indicato il file contenente i dati delle
 > conversioni da importare
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\conversioni_offline_12.bmp](./assets/media/image38.png)
+![](./assets/media/image38.png)
 
 > Cliccando sul pulsante "**Salva e visualizza l'anteprima**" presente
 > nella parte bassa della maschera oltre a salvare la pianificazione
 > indicata potremo anche verificare un anteprima di quello che sarà il
 > risultato dell'importazione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\conversioni_offline_13.bmp](./assets/media/image39.png)
+![](./assets/media/image39.png)
 
 > All'interno della sezione "Caricamenti" avremo invece la possibilità
 > di visualizzare lo storico dei caricamenti effettuati con il relativo
 > esito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\conversioni_offline_14.bmp](./assets/media/image40.png)
+![](./assets/media/image40.png)
 
 Ora per quel che riguarda il file contenente i dati delle conversioni da
 uplodare in Google Ads, disponibile come detto all'indirizzo
@@ -255,12 +255,12 @@ questi file sarà sufficiente:
 > e, da qui cliccare sul pulsante raffigurante un piccolo **+** per
 > avviare un nuovo caricamento manuale
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\conversioni_offline_15.bmp](./assets/media/image41.png)
+![](./assets/media/image41.png)
 
 2.  Cliccare quindi sul menu a tendina "**Seleziona origine**" e
     selezionare tra le opzioni proposte la voce "**Carica un file**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\conversioni_offline_16.bmp](./assets/media/image42.png)
+![](./assets/media/image42.png)
 
 3.  A questo punto sarà sufficiente cliccare sul pulsante "Seleziona un
     file dal tuo computer" e selezionare il file precedentemente
@@ -270,7 +270,7 @@ questi file sarà sufficiente:
 > confermiamo che i dati presenti all'interno del file che andremo ad
 > importare sono stati raccolti secondo le norme previste da Google
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\conversioni_offline_17.bmp](./assets/media/image43.png)
+![](./assets/media/image43.png)
 
 4.  Infine, considerando quella che è la struttura del file prodotto da
     Passweb dovremo anche selezionare tra le due opzioni proposte quella
@@ -281,4 +281,4 @@ questi file sarà sufficiente:
 5.  Il pulsante "**Applica**" presente nella parte bassa di questa
     maschera consentirà di avviare la procedura di import
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\conversioni_offline_19.bmp](./assets/media/image45.png)
+![](./assets/media/image45.png)

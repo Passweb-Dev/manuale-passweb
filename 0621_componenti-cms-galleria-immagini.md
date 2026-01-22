@@ -4,14 +4,14 @@
 
 Il Componente "**Galleri Immagini**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cms_componente_galleria_immagini_res.bmp](./assets/media/image83.png)
+![](./assets/media/image83.png)
 
 può essere inserito solo ed esclusivamente all'interno del componente
 "**Dettaglio News**" e consente di visualizzare all'interno di
 un'apposita galleria le immagini associate al post in esame direttamente
 in fase di configurazione (tab "**Associazioni**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\immagini_correlate.bmp](./assets/media/image84.png)
+![](./assets/media/image84.png)
 
 Per maggiori informazioni relativamente a come poter associare ad una
 news un determinato insieme di immagini, si veda quanto indicato
@@ -22,7 +22,7 @@ A livello di configurazione, una volta inserito il Componente
 all'interno della pagina web, verrà aperta in automatico **la sua
 maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cms_galleria_immagini_configurazione.bmp](./assets/media/image85.png)
+![](./assets/media/image85.png)
 
 suddivisa in varie sezioni.
 

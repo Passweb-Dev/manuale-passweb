@@ -75,7 +75,7 @@ diverse da quelle italiane sarà necessario:
   rispettivamente ed esclusivamente nelle nazioni Germania e Francia e
   configurate come nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tasse_Iva_1.bmp](./assets/media/image454.png)
+![](./assets/media/image454.png)
 
 > **Tipologia Tassa** = IVA
 >
@@ -119,7 +119,7 @@ questo tipo di gestione potrebbe rivelarsi particolarmente utile:
 - Utilizzare il segnaposto "**Zona Spedizione**" presente all'interno
   dei componenti "**Paragrafo**" e "**HTML**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\segnaposto_zona_spedizione.bmp](./assets/media/image455.png)
+![](./assets/media/image455.png)
 
 > segnaposto questo che verrà poi sostituito in fase di generazione
 > della pagina web con i dati relativi alla zona di spedizione
@@ -211,7 +211,7 @@ Infine occorre evidenziare altre tre cose di fondamentale importanza:
     "**Parametri attività IVA**" (menu "*Anagrafica Azienda -- Dati
     Aziendali*")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\parametri_attivita_iva.bmp](./assets/media/image456.png)
+![](./assets/media/image456.png)
 
 > In queste condizioni infatti se il cliente che acquista sul sito è un
 > privato e la merce viene spedita fuori Italia ma comunque in un paese

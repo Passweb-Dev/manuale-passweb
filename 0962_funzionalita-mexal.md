@@ -11,7 +11,7 @@ sito relativamente alla gestione dei clienti.
 All'interno di questa pagina verrà quindi visualizzata la maschera
 **"Configurazione gestione dati web cliente/fornitore"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_gestione_dati_web_cliente_fornitore.bmp](./assets/media/image222.png)
+![](./assets/media/image222.png)
 
 con al suo interno l'elenco delle funzionalità Mexal attualmente
 attivate (valore **SI**) / disattivate (valore **NO**) per il sito

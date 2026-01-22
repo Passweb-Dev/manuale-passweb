@@ -32,7 +32,7 @@ operando in tre modi diversi:
 
 \]
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\allegati_ordine.bmp](./assets/media/image673.png)
+![](./assets/media/image673.png)
 
 All'interno di questa sezione verranno infatti visualizzati tutti i file
 attualmente allegati al documento in esame.
@@ -84,11 +84,11 @@ I pulsanti presenti nella contestuale barra degli strumenti consentono
 rispettivamente di:
 
 - **Download** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_download.bmp](./assets/media/image674.png) ): consente di effettuare il download del file
+  ![](./assets/media/image674.png) ): consente di effettuare il download del file
   attualmente selezionato in elenco
 
 - **Elimina** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina.bmp](./assets/media/image592.png) ): consente di eliminare il file
+  ![](./assets/media/image592.png) ): consente di eliminare il file
   attualmente selezionato in elenco
 
 > **ATTENZIONE!** Se il file eliminato dovesse provenire dal gestionale
@@ -99,7 +99,7 @@ rispettivamente di:
 > seguito della prima sincronizzazione utile.
 
 - **Svuota** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_svuota.bmp](./assets/media/image469.png) ): consente di eliminare in un colpo
+  ![](./assets/media/image469.png) ): consente di eliminare in un colpo
   solo tutti gli allegati associati al documento in esame.
 
 > Anche in questo caso, ovviamente, nel momento in cui eventuali
@@ -110,7 +110,7 @@ rispettivamente di:
 > all'interno del sito,
 
 - **Modifica** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica.bmp](./assets/media/image675.png) ): consente di modificare l'allegato
+  ![](./assets/media/image675.png) ): consente di modificare l'allegato
   attualmente selezionato in elenco.
 
 > **ATTENZIONE!** E' possibile modificare solo ed esclusivamente file
@@ -122,13 +122,13 @@ rispettivamente di:
 > eliminato ma mai modificato
 
 - **Nuovo** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuovo.bmp](./assets/media/image676.png) ): consente di allegare al documento in
+  ![](./assets/media/image676.png) ): consente di allegare al documento in
   esame un nuovo file.
 
 Cliccando su quest'ultimo pulsante verrà quindi visualizzata la maschera
 "**Allegato**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\allegato.bmp](./assets/media/image677.png)
+![](./assets/media/image677.png)
 
 all'interno della quale poter indicare un valore per i seguenti
 parametri:
@@ -175,7 +175,7 @@ parametri:
 > verificando di aver correttamente selezionato anche il relativo
 > parametro "Allegati"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dati_email_allegati.bmp](./assets/media/image618.png)
+![](./assets/media/image618.png)
 
 > Per maggiori informazioni in merito si veda anche il precedente
 > capitolo "*Ordini -- Configurazione Ordini -- Dati Email*" di questo
@@ -230,7 +230,7 @@ parametri:
 > anche verificare di aver configurato in maniera corretta la mail di
 > tipo "Notifica Allegato"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mail_notifica_allegato.bmp](./assets/media/image678.png)
+![](./assets/media/image678.png)
 
 > Per maggiori informazioni in merito si veda anche quanto indicato nel
 > precedente capitolo "*Ordini -- Configurazione Ordini -- Dati Email*"
@@ -275,7 +275,7 @@ in uno dei due modi di seguito indicati:
   comparirà anche la sigla dell'ordine che ha dato origine alla relativa
   bolla / fattura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\allegati_stato_trasformato_2.bmp](./assets/media/image679.png)
+![](./assets/media/image679.png)
 
 > Cliccando sulla sigla dell'ordine sarà quindi possibile accedere al
 > dettaglio del documento di origine da cui poter visualizzare e

@@ -8,12 +8,12 @@ un'azienda Mexal partendo direttamente dal gestionale.
 Per far questo è sufficiente selezionare, innanzitutto, la voce di menu
 "*Azienda -- Sito Passweb Azienda"*
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\sito_passweb_azienda.bmp](./assets/media/image101.png)
+![](./assets/media/image101.png)
 
 In questo modo verrà infatti visualizzato l'elenco dei siti attualmente
 collegati all'azienda in esame
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\multi_sito_ec3.bmp](./assets/media/image102.png)
+![](./assets/media/image102.png)
 
 Selezionando il sito desiderato e cliccando sul pulsante **OK (Invio)**
 verrà aperto automaticamente l' url indicato all'interno del campo

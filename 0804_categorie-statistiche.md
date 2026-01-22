@@ -10,7 +10,7 @@ gestionale e correttamente gestite anche all'interno del sito.
 All'interno di questa sezione verrà quindi visualizzata la maschera
 "**Lista delle Categorie Statistiche Articolo**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_cat_statistiche.bmp](./assets/media/image436.png)
+![](./assets/media/image436.png)
 
 contenente l'elenco di tutte le Categorie Statistiche definite
 all'interno del gestionale e correttamente impostate per essere gestite
@@ -42,7 +42,7 @@ o meno una categoria effettivamente esistente (nella relativa tabella
 delle categorie statistiche) e che abbia o meno una specifica
 descrizione associata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\cat_statistiche_2.bmp](./assets/media/image437.png)
+![](./assets/media/image437.png)
 
 Per evitare quindi possibili problemi legati a questa particolare logica
 di funzionamento la Categoria Statistica con codice 00 non verrà
@@ -78,7 +78,7 @@ Statistiche codificate all'interno del gestionale e alle quali è stato
 associato almeno un articolo esportato e gestito anche all'interno del
 sito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\horeca_cat_statistiche.bmp](./assets/media/image438.png)
+![](./assets/media/image438.png)
 
 **ATTENZIONE!** Nel caso in cui una delle categorie statistiche
 codificate all'interno del gestionale non compaia tra quelle in elenco è
@@ -90,14 +90,14 @@ I pulsanti presenti nella barra degli strumenti consentono
 rispettivamente di:
 
 **Modifica** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica.bmp](./assets/media/image43.png) ): consente di modificare la descrizione
+![](./assets/media/image43.png) ): consente di modificare la descrizione
 in Italiano e in Lingua associata alla categoria statistica attualmente
 selezionata in elenco.
 
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 "**Modifica Categoria Statistica Articolo**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cat_statistiche_3.bmp](./assets/media/image439.png)
+![](./assets/media/image439.png)
 
 attraverso cui poter gestire, nelle varie lingue, la descrizione della
 relativa categoria statistica.
@@ -132,7 +132,7 @@ La Categoria Statistica di appartenenza di uno specifico articolo potrà:
   della Categoria e non il suo Codice).
 
 **Elimina** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina.bmp](./assets/media/image114.png) ): consente di eliminare la categoria
+![](./assets/media/image114.png) ): consente di eliminare la categoria
 statistica attualmente selezionata in elenco. In questo senso occorre
 sottolineare come sia possibile eliminare dall'elenco solo ed
 esclusivamente quelle categorie statistiche che non risultano
@@ -144,14 +144,14 @@ visualizzato un apposito messaggio di errore e la categoria non verrà
 eliminata.
 
 **Esporta** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_esporta.bmp](./assets/media/image440.png) ): consente di esportare, all'interno di un apposito
+![](./assets/media/image440.png) ): consente di esportare, all'interno di un apposito
 file .csv, le descrizioni delle Categorie Statistiche attualmente
 presenti in elenco. Cliccando su questo pulsante verrà infatti
 visualizzata la maschera "**Esportazione Categorie Statistiche
 Articolo**" all'interno della quale poter configurare l'esportazione dei
 dati.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\esportazione_categorie_statistiche.bmp](./assets/media/image441.png)
+![](./assets/media/image441.png)
 
 Nel caso di sito in multilingua è possibile selezionare, tra quelle
 attualmente gestite, la lingua in relazione alla quale dovranno essere
@@ -166,14 +166,14 @@ l'identificativo Passweb della relativa categoria, il suo codice
 gestionale e la relativa descrizione nella lingua selezionata
 
 **Importa** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_importa.bmp](./assets/media/image134.png) ): consente di importare in maniera massiva,
+![](./assets/media/image134.png) ): consente di importare in maniera massiva,
 utilizzando un apposito file .csv o .txt, le descrizioni di tutte le
 Categorie Statistiche attualmente presenti in elenco.
 
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 "**Importazione Categorie Statistiche Articolo**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\importazione_categorie_statistiche.bmp](./assets/media/image442.png)
+![](./assets/media/image442.png)
 
 all'interno della quale poter configurare l'importazione dei dati in
 oggetto. In particolare il campo

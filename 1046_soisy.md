@@ -56,7 +56,7 @@ impostare, oltre ai parametri classici di configurazione del pagamento,
 anche quelli specifici del gateway attualmente considerato e presenti
 all'interno della sezione "**Parametri Gateway**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_soisy.bmp](./assets/media/image214.png)
+![](./assets/media/image214.png)
 
 Nel caso specifico il parametro:
 
@@ -84,7 +84,7 @@ particolare modalità di pagamento, verrà visualizzato, alla conferma,
 un' apposito messaggio d'errore per informarlo che, in relazione a
 quello specifico importo, non è possibile richiedere un finanziamento.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\soisy_2.bmp](./assets/media/image215.png)
+![](./assets/media/image215.png)
 
 **ATTENZIONE! Una volta verificato, direttamente con Soisy, il range
 entro cui poter avviare la richiesta di finanziamento, si consiglia
@@ -92,7 +92,7 @@ quindi di impostare i relativi limiti all'interno dei campi "Limite
 minimo / massimo" presenti nella maschera di configurazione del
 pagamento stesso**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\soisy_3.bmp](./assets/media/image95.png)
+![](./assets/media/image95.png)
 
 In questo modo saremo quindi sicuri che questa specifica modalità di
 pagamento verrà proposta al cliente solo ed esclusivamente nel caso in

@@ -6,7 +6,7 @@ La sezione WebService Passweb consente di configurare le chiavi di
 attivazione da utilizzare per poter effettuare delle chiamate ai
 Webservices messi a disposizione dall'applicativo.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\preferenze_sito_webservice.bmp](./assets/media/image64.png)
+![](./assets/media/image64.png)
 
 Nello specifico, il campo:
 
@@ -40,7 +40,7 @@ Per quel che riguarda Mexal l'App interessata è "**Sync articoli
 Passweb**" disponibile all'interno di Passstore
 (<https://passstore.passepartout.net/Apps/Detail/sync-articoli-passweb/583>)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\app_sync_passweb.bmp](./assets/media/image65.png)
+![](./assets/media/image65.png)
 
 Per quel che riguarda Retail invece la funzionalità interessata è
 relativa alla possibilità di creare un'apposita Operazione Pianificata

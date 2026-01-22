@@ -4,7 +4,7 @@
 
 Il Componente **"Notifica Disponibilità"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_notifica_disponibilita_res.bmp](./assets/media/image584.png)
+![](./assets/media/image584.png)
 
 **può essere inserito unicamente all'interno dei componenti Ecommerce di
 primo livello "Scheda Prodotto" e "Catalogo Ecommerce" o simili** (es.
@@ -16,13 +16,13 @@ richiedere di essere avvisati via mail nel momento in cui determinati
 articoli, attualmente non disponibili, dovessero tornare ad essere
 nuovamente acquistabili.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\notifica_disponibilita_tutti.bmp](./assets/media/image585.png)
+![](./assets/media/image585.png)
 
 Rilasciando il Componente nella posizione desiderata all'interno della
 pagina web, verrà visualizzata la sua maschera di gestione e
 configurazione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\notifica_disponibilita_configurazione_res.bmp](./assets/media/image586.png)
+![](./assets/media/image586.png)
 
 suddivisa in varie sezioni.
 
@@ -142,7 +142,7 @@ Disponibilità", presente alla pagina "*Catalogo -- Configurazione
 Parametri Catalogo -- Catalogo Mexal / Ho.Re.Ca.*" del Wizard, sia stato
 impostato sul valore "Ai soli utenti registri" o "A tutti"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\notifica_disponibilita.bmp](./assets/media/image587.png)
+![](./assets/media/image587.png)
 
 Dipendentemente dal valore assunto dal parametro evidenziato in figura
 infatti, il componente Notifica Disponibilità potrà comportarsi in un
@@ -159,7 +159,7 @@ Disponibilità**" sia stato impostato sul valore:
 > all'interno del sito e configurandolo in maniera corretta, verrà
 > comunque visualizzato un apposito messaggio di avviso.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\notifica_disponibilita_no.bmp](./assets/media/image588.png)
+![](./assets/media/image588.png)
 
 - **Ai soli utenti Registrati:** il componente "Notifica Disponibilità"
   verrà correttamente attivato ma sarà disponibile ai soli utenti
@@ -176,7 +176,7 @@ Disponibilità**" sia stato impostato sul valore:
 > essere avvisato quando il prodotto dovesse tornare ad essere
 > disponibile.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\notifica_disponibilita_utenti_registrati.bmp](./assets/media/image589.png)
+![](./assets/media/image589.png)
 
 > Il messaggio in questione sarà inoltre un link che ricondurrà l'utente
 > direttamente alla pagina impostata all' intero del campo "**Pagina di
@@ -187,7 +187,7 @@ Disponibilità**" sia stato impostato sul valore:
 > ricondotto alla precedente pagina prodotto dove il componente
 > "Notifica Disponibilità" visualizzerà ora un messaggio diverso
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\notifica_disponibilita_utenti_registrati2.bmp](./assets/media/image590.png)
+![](./assets/media/image590.png)
 
 > Cliccando su questo messaggio, e richiedendo espressamente di essere
 > avvisato nel momento in cui l'articolo dovesse tornare disponibile,
@@ -207,7 +207,7 @@ Disponibilità**" sia stato impostato sul valore:
 > "Notifica Disponibilità", visualizzerà esattamente lo stesso messaggio
 > del caso precedente.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\notifica_disponibilita_utenti_registrati2.bmp](./assets/media/image590.png)
+![](./assets/media/image590.png)
 
 > La mail cui verrà inviata la notifica, sarà anche in questo caso
 > quella inserita dall'utente stesso in fase di registrazione al sito.
@@ -219,7 +219,7 @@ Disponibilità**" sia stato impostato sul valore:
 > registrato al sito, potrà comunque inserire la mail cui dovrà essere
 > inviata la notifica di "prodotto nuovamente disponibile"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\notifica_disponibilita_tutti.bmp](./assets/media/image585.png)
+![](./assets/media/image585.png)
 
 Per articoli gestiti a taglie/colori prima del pulsante "Avvisami" o del
 link per richiedere la notifica di disponibilità, verrà visualizzato
@@ -227,7 +227,7 @@ anche un apposito menu a tendina mediante il quale l'utente potrà
 indicare la specifica taglia/colore del prodotto per cui desidera
 effettivamente ricevere la notifica di disponibilità.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\notifica_disponibilita_taglie.bmp](./assets/media/image591.png)
+![](./assets/media/image591.png)
 
 **ATTENZIONE! All' interno del menu a tendina verranno ovviamente
 visualizzate le sole taglie/colori attualmente non disponibili**

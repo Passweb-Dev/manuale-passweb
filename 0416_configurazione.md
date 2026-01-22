@@ -5,7 +5,7 @@
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_lista_catgorie_configurazione_res.bmp](./assets/media/image272.png)
+![](./assets/media/image272.png)
 
 suddivisa in varie sezioni.
 
@@ -295,7 +295,7 @@ E' possibile selezionare uno dei seguenti valori:
   (numerico) assegnato in Passweb alla corrispondente categoria
   merceologica (campo **"Posizione nel Menu di Categoria"**)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\posizione_menu_categoria.bmp](./assets/media/image273.png)
+![](./assets/media/image273.png)
 
 > **NOTA BENE:** a differenza delle precedenti opzioni, l'ordinamento
 > "Personalizzato" è un ordinamento di tipo numerico.

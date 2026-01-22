@@ -12,7 +12,7 @@ di gruppi organizzati secondo una struttura gerarchica ad albero
 All'interno di questa sezione dell'applicazione comparirà quindi la
 maschera **"Gruppi Utenti"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gruppi_utenti_passcom.bmp](./assets/media/image254.png)
+![](./assets/media/image254.png)
 
 in cui verranno visualizzati:
 
@@ -53,19 +53,19 @@ I pulsanti presenti nella contestuale barra degli strumenti
 consentiranno rispettivamente di:
 
 **Lista Utenti Gruppo**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_lista_utenti_gruppo.bmp](./assets/media/image110.png)): consente di visualizzare l'elenco degli utenti
+(![](./assets/media/image110.png)): consente di visualizzare l'elenco degli utenti
 appartenenti al gruppo attualmente selezionato.
 
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 "**Lista Utenti -- Nome Gruppo**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\passcom_lista_utenti_nome_gruppo.bmp](./assets/media/image255.png)
+![](./assets/media/image255.png)
 
 contenente l'elenco degli utenti appartenenti al gruppo in esame. I
 pulsanti presenti nella barra degli strumenti consentono di:
 
 - **Esportazione Utenti**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_esporta_utenti.bmp](./assets/media/image112.png) ): consente di esportare **in formato .csv**
+  (![](./assets/media/image112.png) ): consente di esportare **in formato .csv**
   l'elenco degli utenti del gruppo
 
 > Per maggiori informazioni relativamente alla procedura di esportazione
@@ -73,7 +73,7 @@ pulsanti presenti nella barra degli strumenti consentono di:
 > questo manuale
 
 - **Aggiungi al Gruppo** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_al_gruppo.bmp](./assets/media/image113.png) ): consente di associare al gruppo in
+  ![](./assets/media/image113.png) ): consente di associare al gruppo in
   esame, un qualsiasi utente del sito. Cliccando su questo pulsante
   verrà quindi visualizzata la maschera, **a selezione multipla**, dei
   possibili utenti da aggiungere al gruppo
@@ -88,11 +88,11 @@ pulsanti presenti nella barra degli strumenti consentono di:
 > sul pulsante "**Aggiungi**" visualizzato nella contestuale barra degli
 
 - **Modifica Utente**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_utente.bmp](./assets/media/image10.png)): consente di accedere ai dati
+  (![](./assets/media/image10.png)): consente di accedere ai dati
   anagrafici dell'utente attualmente selezionato in elenco. Cliccando su
   questo pulsante verrà infatti aperta la maschera **"Dati Utente"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\passcom_dati_utente2.bmp](./assets/media/image256.png)
+![](./assets/media/image256.png)
 
 > attraverso cui poter gestire, eventualmente, anche l'associazione
 > "Utente -- Gruppo".
@@ -105,7 +105,7 @@ pulsanti presenti nella barra degli strumenti consentono di:
 > ad essere presente tra gli "Utenti Sito".
 
 - **Elimina Utente:**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_utente.bmp](./assets/media/image68.png) ) consente di eliminare l'utente
+  (![](./assets/media/image68.png) ) consente di eliminare l'utente
   attualmente selezionato dal database di Passweb
 
 > **ATTENZIONE!: per Utenti di tipo Passcom la corretta procedura di
@@ -114,7 +114,7 @@ pulsanti presenti nella barra degli strumenti consentono di:
 > "*Dati Aziendali (F4 da "Anagrafica Azienda") -- Configurazione Moduli
 > -- Collegamento sito commercialista*"**
 >
-> ![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gestione_sito_19.comm.bmp](./assets/media/image235.png)
+> ![](./assets/media/image235.png)
 >
 > Nel caso in cui si dovesse comunque decidere di procedere
 > all'eliminazione di un utente Passcom tramite questo pulsante, sarà
@@ -138,7 +138,7 @@ pulsanti presenti nella barra degli strumenti consentono di:
 > to Business Area Riservata"* di questo manuale.
 
 - **Crea Nuovo** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_crea_nuovo.bmp](./assets/media/image257.png) ): consente di creare un nuovo utente
+  ![](./assets/media/image257.png) ): consente di creare un nuovo utente
   **NON Passcom.** Per maggiori informazioni relativamente alla
   procedura di creazione di un nuovo utente NON Passcom si veda anche la
   sezione *"Utenti -- Utenti Sito -- Utenti"* di questo manuale
@@ -151,7 +151,7 @@ esso da origine.
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 **"Gerarchia Utenti -- Nome gruppo radice"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gruppi_utentiNOBP1_passcom.bmp](./assets/media/image259.png)
+![](./assets/media/image259.png)
 
 all'interno della quale sarà possibile gestire, attraverso l'apposito
 albero presente nella parte sinistra l'eventuale gerarchia.
@@ -161,7 +161,7 @@ potranno quindi essere gestite, le proprietà del gruppo attualmente
 selezionato all'interno dell'albero.
 
 **Elimina** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina.bmp](./assets/media/image95.png) ): consente di eliminare il gruppo
+![](./assets/media/image95.png) ): consente di eliminare il gruppo
 attualmente selezionato.
 
 **NOTA BENE:** nel caso in cui al gruppo sia associata anche una
@@ -169,13 +169,13 @@ gerarchia, eliminando il gruppo verrà eliminata anche l'intera struttura
 di sottogruppi.
 
 **Nuovo Gruppo Utenti** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuovo_gruppo_utenti.bmp](./assets/media/image119.png) ): consente di creare un nuovo gruppo ed
+![](./assets/media/image119.png) ): consente di creare un nuovo gruppo ed
 eventualmente associargli anche una gerarchia di sotto gruppi.
 
 Cliccando su questo pulsante si verrà infatti ricondotti alla maschera
 **"Creazione Gruppo"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\passcom_creazione_gruppo.bmp](./assets/media/image260.png)
+![](./assets/media/image260.png)
 
 attraverso cui poter definire tutte le proprietà del gruppo stesso.
 
@@ -260,7 +260,7 @@ Cliccando sul pulsante in esame verrà visualizzata la maschera
 "**Importazione Dati Gruppi**" mediante la quale poter effettuare
 l'upload del file contenente le informazioni desiderate.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\import_file_dati_gruppi_commercialista.bmp](./assets/media/image261.png)
+![](./assets/media/image261.png)
 
 Nello specifico all'interno di questa sezione sarà necessario indicare:
 

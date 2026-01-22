@@ -8,7 +8,7 @@ specifico campo utilizzato, all'interno del tag \< head \> di ogni
 singola pagina del sito, piuttosto che come ultimi elementi del tag \<
 body \>
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tracciamento_dati_code_snippet.bmp](./assets/media/image66.png)
+![](./assets/media/image66.png)
 
 Nello specifico dunque il campo:
 

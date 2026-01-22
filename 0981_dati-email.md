@@ -7,7 +7,7 @@ configurare, in tutte le lingue attualmente gestite, i contenuti delle
 e-mail inviate in automatico dall'applicazione in relazione alle diverse
 fasi di attivazione e gestione delle Gift Card.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\giftcard_dati_email.bmp](./assets/media/image313.png)
+![](./assets/media/image313.png)
 
 Per ogni singola mail sarà possibile indicare i seguenti dati:
 
@@ -27,7 +27,7 @@ Email**", consente di personalizzare l'oggetto e/o il testo della mail
 inserendo appositi segnaposto che verranno poi valorizzati dinamicamente
 da Passweb in fase di creazione della relativa mail.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\giftcard_dati_email2.bmp](./assets/media/image314.png)
+![](./assets/media/image314.png)
 
 Nello specifico per comporre l'oggetto delle mail presenti all'interno
 di questa sezione del Wizard è possibile utilizzare i seguenti

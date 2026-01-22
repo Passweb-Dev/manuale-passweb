@@ -14,7 +14,7 @@ apposite operazioni di sincronizzazione, le anagrafiche dei clienti
 presenti su Passweb con i dati prelevati direttamente dalla piattaforma
 esterna.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_mkt_account_clienti.bmp](./assets/media/image317.png)
+![](./assets/media/image317.png)
 
 Per maggiori informazioni in merito alla gestione degli clienti si
 rimanda a quanto indicato per la specifica piattaforma

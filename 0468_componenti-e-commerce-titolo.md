@@ -8,7 +8,7 @@ all'interno di componenti Ecommerce di primo livello come possono essere
 il "Catalogo Ecommerce", la "Scheda Prodotto", le "Offerte / Novità"
 ecc...
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_titolo_res.bmp](./assets/media/image423.png)
+![](./assets/media/image423.png)
 
 Il punto da cui verrà prelevato il Titolo degli articoli e, di
 conseguenza, il valore che assumerà il componente in oggetto
@@ -17,7 +17,7 @@ essenzialmente da come è stato impostato il parametro "**Tipo di dato da
 utilizzare**" presente all'interno della sezione "**Titolo / Permalink
 Articolo**" della pagina "**Sito -- Preferenze -- SEO**" del Wizard
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\alias_automatici_permalink_passweb.bmp](./assets/media/image424.png)
+![](./assets/media/image424.png)
 
 **ATTENZIONE!** Il valore assunto dal componente Titolo verrà utilizzato
 anche come valore dell'attributo "title" presente nei link alle varie
@@ -31,7 +31,7 @@ stato impostato sul valore:
   il valore impostato per i singoli articoli all'interno del
   corrispondente campo (Descrizione) della loro anagrafica gestionale
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\componente_ecommerce_titolo.bmp](./assets/media/image425.png)
+![](./assets/media/image425.png)
 
 ![Videate\\horeca_componente_ecommerce_titolo.bmp](./assets/media/image426.png)
 
@@ -46,7 +46,7 @@ stato impostato sul valore:
   impostato per i singoli articoli all'interno del corrispondente campo
   (Titolo) della loro anagrafica Passweb
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\permalink_passweb.bmp](./assets/media/image427.png)
+![](./assets/media/image427.png)
 
 **ATTENZIONE! Il "Titolo" di un articolo verrà utilizzato anche per
 generare il permalink della relativa pagina prodotto ed è quindi
@@ -58,7 +58,7 @@ Titolo / Permalink*" di questo manuale**
 Rilasciando il Componente nella posizione desiderata verrà visualizzata
 **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_titolo_configurazione_res.bmp](./assets/media/image428.png)
+![](./assets/media/image428.png)
 
 suddivisa in varie sezioni.
 

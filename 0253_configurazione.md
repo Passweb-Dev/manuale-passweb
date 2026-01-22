@@ -5,7 +5,7 @@
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componenti-immagine_res.bmp](./assets/media/image5.png)
+![](./assets/media/image5.png)
 
 suddivisa in varie sezioni.
 
@@ -79,7 +79,7 @@ in oggetto. È possibile selezionare uno dei seguenti valori:
   Preferenze**" del Wizard (tab "**SEO**" sezione "**Caricamento
   Pagina**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\leggimi_71.bmp](./assets/media/image6.png)
+![](./assets/media/image6.png)
 
 > Per maggiori informazioni relativamente alla possibilità e
 > all'opportunità di caricare determinate immagini mediante lazy loading
@@ -110,7 +110,7 @@ risorsa che dovrà essere visualizzata:
 
 - negli Smartphone
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componenti-immagine_2_res.bmp](./assets/media/image7.png)
+![](./assets/media/image7.png)
 
 Nello specifico dunque il parametro:
 
@@ -267,7 +267,7 @@ realizzare. E' possibile selezionare uno dei seguenti valori:
   esplicitamente l' url della pagina che si vuole raggiungere (es.
   <http://www.google.it>).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\immagine_link_ar_2_res.bmp](./assets/media/image8.png)
+![](./assets/media/image8.png)
 
 > **ATTENZIONE!** Per creare il collegamento ad una pagina esterna è
 > necessario indicare il percorso assoluto del link (nella forma
@@ -278,7 +278,7 @@ realizzare. E' possibile selezionare uno dei seguenti valori:
 > proprio sito sarà necessario selezionare tale sezione dal relativo
 > menu a tendina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\immagine_link_ar_1_res.bmp](./assets/media/image9.png)
+![](./assets/media/image9.png)
 
 > In queste condizioni il link creato funzionerà in maniera diversa a
 > seconda del fatto che l'utente abbia o meno già effettuato

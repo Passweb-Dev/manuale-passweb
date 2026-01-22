@@ -10,19 +10,19 @@ seguendo la procedura di seguito indicata:
 1.  Visitare la pagina <https://developers.facebook.com/> e cliccare sul
     pulsante "**Accedi**" presente nella parte alta della pagina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\facebook_developer_0.bmp](./assets/media/image520.png)
+![](./assets/media/image520.png)
 
 2.  Effettuare l'accesso a Facebook utilizzando le credenziali del
     proprio account aziendale
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\facebook_developer_0a.bmp](./assets/media/image521.png)
+![](./assets/media/image521.png)
 
 3.  Una volta effettuato l'accesso a Facebook cliccare sul pulsante sul
     pulsante "**Inizia**" presente nella parte alta della pagina in
     maniera tale da avviare il processo di creazione e verifica
     dell'account developer
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\facebook_developer_1.bmp](./assets/media/image522.png)
+![](./assets/media/image522.png)
 
 > **ATTENZIONE!** Nel caso in cui fosse già stato effettuato l'accesso a
 > Facebook portandosi alla pagina <https://developers.facebook.com/>
@@ -30,7 +30,7 @@ seguendo la procedura di seguito indicata:
 
 4.  Cliccare quindi sul pulsante "**Avanti**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\facebook_developer_2.bmp](./assets/media/image523.png)
+![](./assets/media/image523.png)
 
 > e completare i passaggi richiesti per la creazione e la verifica
 > dell'Account
@@ -41,16 +41,16 @@ Facebook" seguendo la procedura di seguito indicata:
 
 1.  Cliccare sul pulsante "**Crea un' app**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\facebook_developer_5a.bmp](./assets/media/image524.png)
+![](./assets/media/image524.png)
 
 2.  Selezionare l' opzione "**Azienda**" e cliccare sul pulsante
     "**Avanti**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\facebook_developer_5b.bmp](./assets/media/image525.png)
+![](./assets/media/image525.png)
 
 3.  Assegnare un nome all'App e cliccare sul pulsante "**Crea app**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\facebook_developer_5d.bmp](./assets/media/image526.png)
+![](./assets/media/image526.png)
 
 > Il campo "**Account Business**" al momento possiamo anche non
 > valorizzarlo, inquanto andremo poi ad associarlo alla nostra app in un
@@ -60,12 +60,12 @@ Facebook" seguendo la procedura di seguito indicata:
     su una schermata all'interno della quale poter quale prodotto, tra
     quelli disponibili aggiungere all'App
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\facebook_developer_6a.bmp](./assets/media/image527.png)
+![](./assets/media/image527.png)
 
 5.  Selezionare il prodotto "**Api Marketing**" e cliccare sul pulsante
     "**Configura**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\facebook_developer_7a.bmp](./assets/media/image528.png)
+![](./assets/media/image528.png)
 
 6.  Completata la creazione dell'App con l'aggiunta dell'API Marketing,
     fondamentale per consentire poi l'esportazione degli articoli dal
@@ -75,13 +75,13 @@ Facebook" seguendo la procedura di seguito indicata:
 > Sviluppo) e può essere lasciata in questo stato per effettuare tutti i
 > test del caso
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\facebook_developer_8a.bmp](./assets/media/image529.png)
+![](./assets/media/image529.png)
 
 > Dal menu "**Strumenti**", ad esempio è possibile attivare un account
 > pubblicitario Sandbox per effettuare inserzioni di test senza
 > incorrere in spese impreviste
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\facebook_developer_9a.bmp](./assets/media/image530.png)
+![](./assets/media/image530.png)
 
 > Terminate tutte le verifiche del caso è consigliabile pubblicare l'App
 > agendo sul pulsante precedentemente evidenziato.
@@ -91,7 +91,7 @@ dell'App appena creato (evidenziato in figura) in quanto ci servirà,
 successivamente, per associare questa stessa App al nostro account
 Business Manager
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\facebook_developer_10a.bmp](./assets/media/image531.png)
+![](./assets/media/image531.png)
 
 Una volta completato la creazione dell'App il passo successivo è quello
 che prevede di creare un Account Facebook Business Manager al quale

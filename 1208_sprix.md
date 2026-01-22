@@ -13,13 +13,13 @@ utente abilitato ad accedere in Area Riservata, anche il permesso di
 eseguire determinati sprix si veda anche la sezione "Configurazione --
 Gestione Sprix" di questo manuale.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_comm_sprix_passcom.bmp](./assets/media/image174.png)
+![](./assets/media/image174.png)
 
 **ATTENZIONE!** Per poter accedere a questa sezione è necessario aver
 abilitato la relativa App operando per questo all'interno dell'apposita
 sezione del Wizard accessibile dal menu "*Sito -- Preferenze*".
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_comm_sprix_attivazione_passcom.bmp](./assets/media/image175.png)
+![](./assets/media/image175.png)
 
 Per poter lanciare l'esecuzione, lato gestionale, di uno degli sprix
 presenti in elenco è necessario per prima cosa selezionarlo e cliccare
@@ -31,7 +31,7 @@ In questo modo verrà infatti visualizzata la maschera di configurazione
 dello sprix attraverso cui poter inserire tutti i parametri necessari
 per il suo corretto funzionamento
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_sprix_passcom.bmp](./assets/media/image177.png)
+![](./assets/media/image177.png)
 
 **NOTA BENE:** per maggiori informazioni relativamente a come gestire
 questo form si veda anche la sezione "Configurazione -- Gestione Sprix"

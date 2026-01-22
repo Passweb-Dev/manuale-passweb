@@ -65,7 +65,7 @@ del menu principale ("*Sito -- Passweb AI -- Prompt Template*") consente
 di accedere a questi prompt predefiniti e, ovviamente, anche di crearne
 di nuovi.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\passweb_ai_prompt_template.bmp](./assets/media/image372.png)
+![](./assets/media/image372.png)
 
 Per ogni prompt presente in elenco viene indicato il Titolo ad esso
 assegnato (colonna "**Titolo**") la sua Descrizione (colonna
@@ -86,7 +86,7 @@ destinazione su cui è stato impostato il relativo template e di avere
 quindi subito chiaro dove quello specifico prompt potrà poi
 effettivamente essere utilizzato.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\passweb_ai_prompt_template_info.bmp](./assets/media/image374.png)
+![](./assets/media/image374.png)
 
 Il campo di ricerca attivabile cliccando sulla lente di ingrandimento,
 presente in testata di ogni singola colonna, consente di filtrare i dati
@@ -108,7 +108,7 @@ della griglia (
 Le righe evidenziate con un piccolo bordo azzurro identificano i prompt
 impostati come "**Default**" per i campi cui sono stati associati
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\passweb_ai_prompt_template_default.bmp](./assets/media/image377.png)
+![](./assets/media/image377.png)
 
 **ATTENZIONE!** I prompt di Default saranno poi collegati alla
 funzionalità di "**One Click**", funzionalità questa che permetterà

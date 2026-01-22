@@ -12,7 +12,7 @@ Portandosi quindi nella sezione "*Catalogo -- Amazon -- Gestione
 Inserzioni*" del Wizard verrà visualizzata la maschera "**Lista delle
 Inserzioni Amazon**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_31.bmp](./assets/media/image201.png)
+![](./assets/media/image201.png)
 
 all'interno della quale verranno visualizzate tutte le Inserzioni
 attualmente configurate.
@@ -25,20 +25,20 @@ stessa.
 Una volta impostato un filtro di ricerca, per poterlo poi eliminare sarà
 sufficiente cliccare sull'icona raffigurante una piccola lente di
 ingrandimento con un -- all'interno (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina_filtro.bmp](./assets/media/image69.png) ) che comparirà in testata alla colonna
+![](./assets/media/image69.png) ) che comparirà in testata alla colonna
 in corrispondenza della quale è stato impostato il filtro stesso.
 
 Infine è anche possibile ordinare, in maniera crescente e/o decrescente,
 gli elementi in griglia cliccando semplicemente sull'icona raffigurante
 due piccole frecce posta anch' essa in testata ad ogni singola colonna
 della griglia (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_ordinamento_griglia.bmp](./assets/media/image70.png) )
+![](./assets/media/image70.png) )
 
 I pulsanti presenti nella contestuale barra degli strumenti consentono
 rispettivamente di:
 
 - **Elimina Inserzione** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_inserzione.bmp](./assets/media/image202.png) ): consente di eliminare l'inserzione attualmente
+  ![](./assets/media/image202.png) ): consente di eliminare l'inserzione attualmente
   selezionata in elenco.
 
 **NOTA BENE:** eliminando un'inserzione verranno eliminate anche tutte
@@ -49,23 +49,23 @@ Inserzione, continueranno comunque a vivere come entità a se stanti
 all'interno del corrispondente sito Amazon
 
 - **Modifica Inserzione** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_inserzione.bmp](./assets/media/image203.png) ): consente di accedere alla maschera
+  ![](./assets/media/image203.png) ): consente di accedere alla maschera
   di configurazione dell'Inserzione attualmente selezionata in maniera
   tale da poterne gestire le singole regole di vendita.
 
 - **Copia Inserzione** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_copia_inserzione.bmp](./assets/media/image72.png) ): consente di copiare l' Inserzione
+  ![](./assets/media/image72.png) ): consente di copiare l' Inserzione
   attualmente selezionata in elenco (verrà creata una nuova inserzione
   con le stesse esatte regole di gestione definite sull' Inserzione
   sorgente).
 
 - **Aggiungi Inserzione** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_inserzione.bmp](./assets/media/image73.png) ): consente di codificare una nuova Inserzione.
+  ![](./assets/media/image73.png) ): consente di codificare una nuova Inserzione.
 
 Cliccando su quest'ultimo pulsante verrà infatti visualizzata la
 maschera "**Dati Inserzione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_dati_inserzione.bmp](./assets/media/image204.png)
+![](./assets/media/image204.png)
 
 attraverso cui poter definire le specifiche regole di vendita che
 andranno a caratterizzare l'Inserzione stessa.
@@ -157,7 +157,7 @@ di gestione, verranno abilitate anche le ulteriori sezioni presenti
 nella parte bassa della maschera di configurazione, sezioni queste
 all'interno delle quali indicare:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_15.bmp](./assets/media/image205.png)
+![](./assets/media/image205.png)
 
 - **Categoria:** consente di impostare le informazioni relative alla
   specifica Categoria Merceologica e alla Tipologia di prodotti che
@@ -206,7 +206,7 @@ sufficiente cliccare sul pulsante "**Cambia Categoria**" presente
 all'interno della sezione "**Categoria**" e selezionare poi quella
 desiderata dal relativo menu a tendina.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_16.bmp](./assets/media/image206.png)
+![](./assets/media/image206.png)
 
 Dipendentemente dalla Categoria Merceologia indicata potrà poi essere
 possibile selezionare anche una o più sottocategorie
@@ -222,7 +222,7 @@ indispensabile indicare, oltre alla Categoria Merceologica anche la
 **Tipologia di Prodotto**, selezionandola, anche in questo caso, dal
 relativo menu a tendina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_19.bmp](./assets/media/image207.png)
+![](./assets/media/image207.png)
 
 **ATTENZIONE! La tipologia di prodotto, così come la Categoria
 Merceologica è un dato obbligatorio, in assenza del quale non sarà
@@ -258,7 +258,7 @@ vari articoli.
 correttamente l'Inserzione sono indicate da un piccolo asterisco rosso
 posto immediatamente a fianco del nome.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_37.bmp](./assets/media/image208.png)
+![](./assets/media/image208.png)
 
 Volendo è anche possibile aggiungere ulteriori specifiche, non
 obbligatorie, al fine di dettagliare maggiormente le informazioni
@@ -270,7 +270,7 @@ Per far questo è necessario:
   visualizzare un elenco di tutte le specifiche gestibili in relazione
   alla Categoria Merceologica in cui si sta operando:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_aggiungi_specifiche.bmp](./assets/media/image209.png)
+![](./assets/media/image209.png)
 
 - selezionare le specifiche desiderate dall'elenco di sinistra ed
   inserirle in quello di destra cliccando per questo sul pulsante
@@ -321,14 +321,14 @@ esempio, la specifica "Disco Rigido" avrà le proprietà:
 
 - ...
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_proprieta_specifiche.bmp](./assets/media/image210.png)
+![](./assets/media/image210.png)
 
 Per definire il valore che dovrà assumere una certa proprietà è
 necessario, innanzitutto, indicare da dove poter andare a prelevare
 questo valore selezionando, per questo, una delle opzioni disponibili
 all'interno del relativo menu a tendina.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_38.bmp](./assets/media/image211.png)
+![](./assets/media/image211.png)
 
 Nello specifico è possibile selezionare una delle seguenti opzioni:
 
@@ -366,7 +366,7 @@ aggiungere più volte la stessa proprietà, comparirà a fianco del nome
 della specifica un piccolo più che se cliccato inserirà la proprietà in
 esame all'interno della relativa specifica
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_aggiungi_proprieta.bmp](./assets/media/image212.png)
+![](./assets/media/image212.png)
 
 **ATTENZIONE!** **Tutti gli articoli messi in vendita attraverso una
 certa Inserzione, oltre ad avere le stesse modalità di gestione,
@@ -419,7 +419,7 @@ All'interno di questa sezione è possibile impostare:
   vari articoli all'interno del Catalogo Amazon -- sezione
   **Identificativi del Catalogo Amazon**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_41.bmp](./assets/media/image213.png)
+![](./assets/media/image213.png)
 
 ###### METODI DI DESCRIZIONE
 
@@ -452,7 +452,7 @@ che saranno poi pubblicati mediante l'Inserzione in oggetto (es.
 Produttore, Quantità del pacco, Paese di Origine, Codice Fiscale del
 prodotto ...)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_22.bmp](./assets/media/image214.png)
+![](./assets/media/image214.png)
 
 Dipendentemente dallo specifico campo considerato sarà quindi possibile
 valorizzare la relativa informazione, per ciascuno degli articoli messi
@@ -611,7 +611,7 @@ in fase di pubblicazione, per ogni articolo coinvolto nell'Inserzione:
 Ciascuno di questi campi può essere mappato con uno dei valori
 selezionabili all'interno del corrispondente menu a tendina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_21.bmp](./assets/media/image215.png)
+![](./assets/media/image215.png)
 
 E' quindi possibile valorizzare questi codici, per ciascuno degli
 articoli messi in vendita tramite l'Inserzione in esame, con:
@@ -644,7 +644,7 @@ articoli messi in vendita tramite l'Inserzione in esame, con:
 > Per far questo è sufficiente accedere alla maschera di creazione del
 > codice Alias
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuovo_codice_alias.bmp](./assets/media/image87.png)
+![](./assets/media/image87.png)
 
 > e compilare i vari campi come di seguito indicato:
 
@@ -674,7 +674,7 @@ articoli messi in vendita tramite l'Inserzione in esame, con:
 > Catalogo Amazon" andrà poi impostato sul valore "**Codice Alias
 > ASIN**" come evidenziato in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\alias_amazon_asin.bmp](./assets/media/image216.png)
+![](./assets/media/image216.png)
 
 > In queste condizioni in fase di pubblicazione sul marketplace verrà
 > passato ad Amazon il codice alias marcato sul gestionale come codice
@@ -686,7 +686,7 @@ articoli messi in vendita tramite l'Inserzione in esame, con:
 > impostare poi, questa volta, il relativo campo UPC / EAN / ISBN
 > dell'Inserzione presente nella sezione "**Codice Alias GTIN**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\alias_amazon_gtin.bmp](./assets/media/image217.png)
+![](./assets/media/image217.png)
 
 > **ATTENZIONE!** Nel caso in cui per determinate ragioni dovessero
 > essere marcati più codici alias come, ad esempio, codici ASIN da
@@ -742,7 +742,7 @@ a.  Chiedere specificatamente ad Amazon l'autorizzazione per l'esenzione
 > stesso inserito, in fase di configurazione dell'inserzione,
 > all'interno del campo "**Marca**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_esenzione_bar_code_1.bmp](./assets/media/image218.png)
+![](./assets/media/image218.png)
 
 > E' di fondamentale importanza che il Brand, in relazione al quale si è
 > richiesta l'esenzione, coincida esattamente con quello inserito poi
@@ -762,7 +762,7 @@ b.  Nel caso in cui Amazon accetti la richiesta il Venditore riceverà
 > inserzione su Passweb all'interno del campo "**MFR Number Part**"
 > evidenziato in figura (sezione "Identificativi Catalogo Amazon")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_mfr_number_part_2.bmp](./assets/media/image219.png)
+![](./assets/media/image219.png)
 
 > Amazon verificherà in fase di pubblicazione che il codice
 > "**PARAMETER_1**" ed il brand inserito all'interno del campo "Marca"
@@ -792,7 +792,7 @@ a.  Registrare il proprio Brand nel relativo catalogo Amazon (per
 > deve essere esattamente lo stesso inserito poi, in fase di
 > configurazione dell'inserzione, all'interno del campo "**Marca**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_esenzione_bar_code_1.bmp](./assets/media/image218.png)
+![](./assets/media/image218.png)
 
 b.  Nel caso in cui Amazon accetti la richiesta il Venditore riceverà
     un' Email del tipo
@@ -876,7 +876,7 @@ Catalogo Amazon" consente invece di gestire, a livello di Inserzione, il
 codice ASIN ossia il codice identificativo associato da Amazon stessa
 agli articoli pubblicati all'interno del marketplace.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\campo_ASIN.bmp](./assets/media/image220.png)
+![](./assets/media/image220.png)
 
 A differenza dei codici EAN/UPC/ISBN, ovviamente, il valore del codice
 ASIN potrà essere determinato solo a seguito di una prima pubblicazione
@@ -943,7 +943,7 @@ di Inserzione e andare poi ad inserire manualmente, o tramite import
 csv, su ogni singolo articolo presente nella lista di vendita, prima di
 effettuare la pubblicazione, il relativo codice ASIN.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_dati_articolo_lista.bmp](./assets/media/image221.png)
+![](./assets/media/image221.png)
 
 Per maggiori informazioni in merito si veda anche il successivo capitolo
 *"Gestione lista di vendita e pubblicazione su Amazon"*
@@ -953,7 +953,7 @@ di articoli gestiti a taglie / colori e consente di raggruppare tutte le
 taglie / colori di uno stesso articolo all'interno della stessa scheda
 prodotto Amazon
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_parent_asin.bmp](./assets/media/image222.png)
+![](./assets/media/image222.png)
 
 Nel caso in cui l'esigenza dovesse dunque essere quella di pubblicare
 una nuova taglia e/o un nuovo colore per un articolo già presente nel
@@ -993,7 +993,7 @@ disponibili tra quelli presenti all'interno del relativo menu a tendina
 (campo **Condizioni**) e inserire un'eventuale Nota (campo **Nota sulle
 Condizioni**).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_condizioni_vendita.bmp](./assets/media/image223.png)
+![](./assets/media/image223.png)
 
 **ATTENZIONE!** Le condizioni di vendita sono fornite direttamente da
 Amazon, possono variare a seconda dello specifico marketplace su cui si
@@ -1009,7 +1009,7 @@ In questo senso va detto che è possibile decidere di pubblicare su
 Amazon fino a 8 immagini diverse selezionando il valore desiderato
 all'interno del corrispondente campo presente in questa sezione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_55.bmp](./assets/media/image224.png)
+![](./assets/media/image224.png)
 
 **ATTENZIONE!** Come Immagini aggiuntive verranno utilizzate le
 **Immagini Secondarie della Scheda Prodotto** Passweb.
@@ -1025,7 +1025,7 @@ altre 3 Immagini Secondarie
 La sottosezione "**Descrizione**" del tab "Descrizione" consente di
 impostare la descrizione dei prodotti coinvolti nell'inserzione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_descrizione.bmp](./assets/media/image225.png)
+![](./assets/media/image225.png)
 
 Il campo in esame può essere mappato con uno degli Attributi Passweb
 attualmente gestiti, oppure con l'Attributo Articolo "Descrizione". In
@@ -1051,7 +1051,7 @@ la sezione:
   soprattutto il "**Gruppo dei costi di spedizione**" associato
   all'inserzione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_gruppo_costi_spedizione.bmp](./assets/media/image226.png)
+![](./assets/media/image226.png)
 
 **ATTENZIONE! Per evitare eventuali messaggi di warning in fase di
 pubblicazione degli articoli occorre impostare correttamente il campo
@@ -1095,7 +1095,7 @@ valori:
 > informazioni in merito si consiglia di fare riferimento alla specifica
 > documentazione Amazon)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\amazon_gruppo_costi_spedizione2.bmp](./assets/media/image227.png)
+![](./assets/media/image227.png)
 
 > In queste condizioni, ovviamente, il gruppo dei costi di spedizione
 > impostato sarà sempre lo stesso per tutti gli articoli collegati
@@ -1125,7 +1125,7 @@ impostare le eventuali Keyword di ricerca e gli elenchi puntati
 (caratteristiche descrittive) che dovranno essere utilizzati per gli
 articoli coinvolti nell'Inserzione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_elenchi_puntati.bmp](./assets/media/image228.png)
+![](./assets/media/image228.png)
 
 Anche in questo caso, tanto le Parole Chiave, quanto gli Elenchi Puntati
 potranno esser mappati su di un "Valore Personalizzato" oppure su un ben
@@ -1138,7 +1138,7 @@ pagamento che dovranno essere rese disponibili agli utenti Amazon in
 fase di acquisto degli articoli messi in vendita tramite l'Inserzione
 che si sta codificando.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_23.bmp](./assets/media/image229.png)
+![](./assets/media/image229.png)
 
 **ATTENZIONE! La lista dei possibili pagamenti è fornita direttamente da
 Amazon e potrebbe variare a seconda dello specifico marketplace su cui
@@ -1158,7 +1158,7 @@ In questo senso è possibile indicare la modalità di pagamento desiderata
 selezionandola tra quelle disponibili all'interno del corrispondente
 menu a tendina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_24.bmp](./assets/media/image230.png)
+![](./assets/media/image230.png)
 
 ##### SPEDIZIONE
 
@@ -1166,7 +1166,7 @@ All'interno di questa sezione è possibile impostare alcuni parametri
 relativi alla spedizioni che dovranno essere utilizzate per gli articoli
 messi in vendita mediante l'Inserzione in esame
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_25.bmp](./assets/media/image231.png)
+![](./assets/media/image231.png)
 
 In particolare il parametro:
 
@@ -1230,7 +1230,7 @@ All'interno di questa sezione è possibile definire le condizioni di
 vendita degli articoli in relazione ad informazioni quali il prezzo e la
 tipologia di vendita.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_29.bmp](./assets/media/image232.png)
+![](./assets/media/image232.png)
 
 In questo senso la sezione "**Metodo di Prezzo, quantità e formato**"
 consente di decidere se adottare uno dei Template precedentemente
@@ -1264,7 +1264,7 @@ quantità pari a 0, cosa questa utile in fase di test (considerando anche
 che Amazon non mette a disposizione delle Sandbox per cui tutte le
 pubblicazioni avvengono sempre nel marketplace reale)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_quantita.bmp](./assets/media/image233.png)
+![](./assets/media/image233.png)
 
 - **Singolo oggetto:** in queste condizioni ogni articolo messo in
   vendita tramite l'Inserzione in esame verrà considerato come oggetto
@@ -1301,7 +1301,7 @@ pubblicazioni avvengono sempre nel marketplace reale)
 > In queste condizioni sarà quindi necessario impostare un valore anche
 > per i seguenti campi:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_inserzione_valore_quantita_percentuale.bmp](./assets/media/image234.png)
+![](./assets/media/image234.png)
 
 - **Percentuale della Quantità:** consente di impostare, selezionandola
   dall'apposito menu a tendina, la percentuale di articoli
@@ -1471,7 +1471,7 @@ All'interno della sezione **"Prezzo"** è possibile definire esattamente
 il prezzo con cui dovranno essere messi in vendita, sul marketplace
 Amazon, gli articoli collegati all'Inserzione che si sta considerando.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_inserzioni_prezzo.bmp](./assets/media/image235.png)
+![](./assets/media/image235.png)
 
 In questo senso il campo:
 
@@ -1546,7 +1546,7 @@ determinate regole mediante le quali poter automatizzare:
   automaticamente) la messa in vendita -- sezione "**Regole di Rimessa
   in Vendita**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_regole_automatiche.bmp](./assets/media/image236.png)
+![](./assets/media/image236.png)
 
 In questo senso la sezione "**Metodo di Sincronizzazione**" consente di
 decidere se adottare uno dei Template precedentemente codificati (e
@@ -1574,7 +1574,7 @@ All'intero di questa sezione è possibile definire un' insieme di
 condizioni in relazione alle quali poter automatizzare la pubblicazione
 sul Marketplace degli articoli coinvolti nell'Inserzione in esame
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_regole_messa_in_vendita.bmp](./assets/media/image237.png)
+![](./assets/media/image237.png)
 
 Nello specifico per quel che riguarda le "**Regole di Messa in
 Vendita**" il campo:
@@ -1730,7 +1730,7 @@ in che termini dovranno essere aggiornati a seguito di una
 sincronizzazione Sito -- Gestionale, gli articoli pubblicati mediante
 l'inserzione in esame.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_regole_modifica_in_vendita.bmp](./assets/media/image238.png)
+![](./assets/media/image238.png)
 
 Nello specifico dunque il campo:
 
@@ -1809,7 +1809,7 @@ In questo senso dunque il campo:
 
 > Facendo riferimento alle impostazioni visualizzate in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_regole_modifica_in_vendita_2.bmp](./assets/media/image239.png)
+![](./assets/media/image239.png)
 
 > supponendo che nell'Inserzione siano coinvolti gli articoli ARTA,
 > ARTB, ARTC e che a seguito di una sincronizzazione la quantità di
@@ -1905,7 +1905,7 @@ In particolare dunque il campo:
 >
 > Facendo riferimento alle impostazioni visualizzate in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_regole_modifica_in_vendita_3.bmp](./assets/media/image240.png)
+![](./assets/media/image240.png)
 
 > supponiamo che nell'Inserzione siano coinvolti gli articoli ARTA e
 > ARTB e che a seguito di una sincronizzazione il prezzo di questi
@@ -1957,7 +1957,7 @@ sincronizzazione Sito -- Gestionale l'applicazione dovesse rilevare una
 modifica al "Metodo di Quantità, Prezzo e Formato" o al "Metodo di
 Descrizione" utilizzato nell'Inserzione in esame.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\condizioni_modifiche_totali.bmp](./assets/media/image241.png)
+![](./assets/media/image241.png)
 
 In particolare dunque il campo:
 
@@ -2040,7 +2040,7 @@ ripubblicazione o rimessa in vendita, è un'operazione relativa invece ai
 soli articoli che, pur essendo ancora all'interno del Marketplace, non
 possono attualmente essere acquistati.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_regole_rimessa_in_vendita.bmp](./assets/media/image242.png)
+![](./assets/media/image242.png)
 
 Per quel che riguarda le "**Regole di Rimessa in Vendita**" il campo:
 
@@ -2209,7 +2209,7 @@ resteranno comunque presenti all'interno del marketplace stesso e, in
 queste condizioni, potranno quindi essere soggetti ad eventuali regole
 di rimessa in vendita.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_regole_di_blocco.bmp](./assets/media/image243.png)
+![](./assets/media/image243.png)
 
 A differenza delle condizioni definite nelle "Regole di messa in
 vendita" e di quelle definite nelle "Regole di rimessa in vendita", le
