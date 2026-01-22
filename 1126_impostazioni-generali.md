@@ -7,8 +7,7 @@ necessari per specificare come dovranno essere gestiti gli ordini
 all\'interno del sito web e come questi stessi ordini dovranno poi
 essere inseriti nel gestionale.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\parametri_ordine.bmp](./assets/media/image598.png){width="5.8375in"
-height="3.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\parametri_ordine.bmp](./assets/media/image598.png)
 
 In particolare occorrerà indicare un valore per i seguenti parametri:
 
@@ -56,8 +55,7 @@ In particolare occorrerà indicare un valore per i seguenti parametri:
 > presente all'interno della sezione "*Configurazione -- Paese Lingua e
 > Valuta -- Gestione Paese*" del Wizard
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\paese_fiscale.bmp](./assets/media/image599.png){width="5.616666666666666in"
-height="3.4611111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\paese_fiscale.bmp](./assets/media/image599.png)
 
 **NOTA BENE:** quanto impostato per i parametri "Documento Clienti
 Privati", "Documento Clienti Privati OSS" e "Documento Clienti Aziende"
@@ -130,8 +128,7 @@ e "Ordine" del sito.
 > disponibili, verrà visualizzata all'utente un'apposita notifica e
 > l'ordine non potrà essere concluso.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\controllo_disponibilita_checkout.bmp](./assets/media/image600.png){width="5.8375in"
-height="3.3958333333333335in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\controllo_disponibilita_checkout.bmp](./assets/media/image600.png)
 
 - **No se documento Agente -- solo Ecommerce Mexal**: in queste
   condizioni il controllo in fase di checkout sulla disponibilità degli
@@ -393,8 +390,7 @@ contratto.
 > "**Cond**" (Condizione agente) in testata al documento **nel caso in
 > cui ad effettuare l'ordine sia un cliente**.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\condizione_agente_mexal.bmp](./assets/media/image601.png){width="5.253472222222222in"
-height="2.623611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\condizione_agente_mexal.bmp](./assets/media/image601.png)
 
 > E' possibile selezionare una delle seguenti opzioni:
 
@@ -431,8 +427,7 @@ height="2.623611111111111in"}
 > solo però nel caso in cui l'Agente che ha effettuato l'ordine coincide
 > con l' "**Agente1**" della condizione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mexal_condizioni_agente1.bmp](./assets/media/image602.png){width="3.577777777777778in"
-height="2.292361111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mexal_condizioni_agente1.bmp](./assets/media/image602.png)
 
 - **Solo se Agente Condizione a qualunque livello**: in questo caso il
   campo "**Agente**" presente nella testata del documento Mexal verrà
@@ -446,8 +441,7 @@ height="2.292361111111111in"}
 > tra gli agenti della condizione, questa verrà inserita sulla riga
 > articolo
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mexal_condizioni_agente1_2.bmp](./assets/media/image603.png){width="5.513194444444444in"
-height="2.9611111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mexal_condizioni_agente1_2.bmp](./assets/media/image603.png)
 
 > **ATTENZIONE!** si ricorda che nel caso in cui, in fase di codifica
 > della provvigione, siano stati indicati un'Agente e/o una condizione
@@ -455,8 +449,7 @@ height="2.9611111111111112in"}
 > questi ad essere inseriti in riga articolo indipendentemente
 > dall'Agente che ha effettuato l'ordine
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mexal_condizioni_agente1_3.bmp](./assets/media/image604.png){width="4.415277777777778in"
-height="2.2729166666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mexal_condizioni_agente1_3.bmp](./assets/media/image604.png)
 
 - **Sempre**: in questo caso il campo "**Agente**" presente nella
   testata del documento Mexal verrà valorizzato sempre con l'Agente che
@@ -681,8 +674,7 @@ height="2.2729166666666667in"}
   piede del documento Mexal verrà impostato ad "**A**" abilitando di
   fatto il calcolo automatico dei colli
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\calcolo_automatico_colli.bmp](./assets/media/image605.png){width="5.259722222222222in"
-height="2.370138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\calcolo_automatico_colli.bmp](./assets/media/image605.png)
 
 - **NO:** selezionando questa opzione in fase di inserimento ordine
   all'interno del gestionale il campo "Colli" presente nel piede del
@@ -704,8 +696,7 @@ height="2.370138888888889in"}
   aliquote iva differenti, verrà comunque gestito su di una singola riga
   con iva ripartita
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\articoli_spesa_ordine_riga_singola.bmp](./assets/media/image606.png){width="6.545138888888889in"
-height="1.6819444444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\articoli_spesa_ordine_riga_singola.bmp](./assets/media/image606.png)
 
 - **Righe Multiple**: selezionando questa opzione, nel momento in cui
   l'articolo spesa dovesse essere inserito in ordine a seguito, ad
@@ -713,8 +704,7 @@ height="1.6819444444444445in"}
   differenti, verranno create, per l'articolo spesa, tante righe quante
   sono le aliquote iva degli articoli presenti in ordine
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\articoli_spesa_ordine_righe_multiple.bmp](./assets/media/image607.png){width="6.480555555555555in"
-height="1.6881944444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\articoli_spesa_ordine_righe_multiple.bmp](./assets/media/image607.png)
 
 > **ATTENZIONE!** Nel momento in cui si dovessero riscontrare problemi
 > relativi ad aliquote iva su articoli spesa e stampanti fiscali si
@@ -730,11 +720,9 @@ height="1.6881944444444446in"}
 > l'apposito campo presente nel piede del relativo documento
 > gestionale**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tracking_mexal.bmp](./assets/media/image608.png){width="4.610416666666667in"
-height="2.0in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tracking_mexal.bmp](./assets/media/image608.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tracking_retail.bmp](./assets/media/image609.png){width="4.610416666666667in"
-height="2.363888888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tracking_retail.bmp](./assets/media/image609.png)
 
 > **ATTENZIONE!** Nel caso in cui si dovesse decidere di gestire il
 > Number Tracking con uno specifico Attributo, sarà possibile
@@ -793,8 +781,7 @@ height="2.363888888888889in"}
 > tendina lo specifico campo su cui impostare la regola che definirà il
 > criterio di applicazione del filtro stesso.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\doc_da_verificare_1.bmp](./assets/media/image610.png){width="5.759722222222222in"
-height="3.5131944444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\doc_da_verificare_1.bmp](./assets/media/image610.png)
 
 > E' possibile filtrare in base alla tipologia di documento (campo
 > "**Preventivo**") e/o in base allo specifico pagamento selezionato
@@ -848,8 +835,7 @@ collegati a Mexal) consente di settare i parametri di configurazione che
 regolano l'integrazione tra gli ordini effettuati all'interno del sito e
 il documentale Passepartout.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_ordini_docuvision.bmp](./assets/media/image611.png){width="5.798611111111111in"
-height="3.3180555555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_ordini_docuvision.bmp](./assets/media/image611.png)
 
 Nello specifico dunque il parametro:
 
@@ -873,8 +859,7 @@ Nello specifico dunque il parametro:
 > alla voce "*Servizi -- Personalizzazioni -- Modulistica Documenti
 > Grafica*"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\elenco_moduli_stampa.bmp](./assets/media/image612.png){width="5.720833333333333in"
-height="3.032638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\elenco_moduli_stampa.bmp](./assets/media/image612.png)
 
 > Nel caso in cui il campo in esame venga lasciato vuoto verrà ricercato
 > ed utilizzato, su Mexal, il modulo corrispondente alla sigla del
@@ -913,8 +898,7 @@ height="3.032638888888889in"}
   Stampa**" **della maschera "Parametri Modulo" impostato sul valore**
   "**Mai**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\parametri_modulo_stampa.bmp](./assets/media/image613.png){width="4.2659722222222225in"
-height="1.5131944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\parametri_modulo_stampa.bmp](./assets/media/image613.png)
 
 > Nel caso in cui tale condizione non dovesse essere verificata, in fase
 > di sincronizzazione verrà restituito l'errore **\"Impossibile accedere
@@ -924,8 +908,7 @@ height="1.5131944444444445in"}
 - Controllare che il parametro "**Numero copie di ristampa/A
   richiesta**" presente all'interno della maschera "**Opzioni Modulo**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\opzioni_modulo_stampa.bmp](./assets/media/image614.png){width="4.649305555555555in"
-height="2.707638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\opzioni_modulo_stampa.bmp](./assets/media/image614.png)
 
 > **non sia stato impostato sul valore S**. In queste condizioni infatti
 > verrebbe richiesta a video la ristampa del documento e considerando
@@ -946,8 +929,7 @@ height="2.707638888888889in"}
 > utilizzato ("*Servizi -- Configurazioni - Stampanti*") sia impostato
 > sul valore "**Dispositivo collegato al server**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\parametri_stampante.bmp](./assets/media/image615.png){width="4.1819444444444445in"
-height="1.6236111111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\parametri_stampante.bmp](./assets/media/image615.png)
 
 > Per ovvie ragioni la stampa automatica su di una stampante fisica può
 > essere abilitata solo nel caso di installazioni Mexal in locale
@@ -1087,8 +1069,7 @@ relativi alle notifiche mail che potranno essere inviate
 all'amministratore del sito nel momento in cui verranno effettuati, ad
 esempio, nuovi ordini sul sito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_ordini_notifiche.bmp](./assets/media/image616.png){width="5.779166666666667in"
-height="3.5256944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_ordini_notifiche.bmp](./assets/media/image616.png)
 
 Nello specifico dunque il parametro:
 

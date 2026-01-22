@@ -25,8 +25,7 @@ impostando i parametri di configurazione "**Tipo di Integrazione**" e
 "**Tipologia Form**" rispettivamente sui valori "**BrainLead**" e
 "**Disiscrzione**"
 
-![Videate\\form_disiscrizione_newsletter_brainlead.bmp](./assets/media/image16.png){width="5.086805555555555in"
-height="3.1055555555555556in"}
+![Videate\\form_disiscrizione_newsletter_brainlead.bmp](./assets/media/image16.png)
 
 Per maggiori informazioni relativamente a questo tipo di operazioni si
 veda anche quanto indicato all'interno del capitolo "*Componenti

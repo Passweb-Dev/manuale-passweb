@@ -8,8 +8,7 @@ configurare e gestire la generazione del feed utilizzato per condividere
 con Clerk informazioni relative agli ordini presenti all'interno del
 proprio sito Ecommerce.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_feed_ordini.bmp](./assets/media/image11.png){width="5.428472222222222in"
-height="3.33125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_feed_ordini.bmp](./assets/media/image11.png)
 
 In questo senso dunque il parametro:
 
@@ -144,8 +143,7 @@ dati relativi alla sorgente (colonna "Source") e all'impatto (colonna
 "Clerk.io impact") registrati da Clerk in corrispondenza di questi
 stessi ordini.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_feed_ordini_2.bmp](./assets/media/image12.png){width="5.428472222222222in"
-height="3.33125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_feed_ordini_2.bmp](./assets/media/image12.png)
 
 Nello specifico:
 

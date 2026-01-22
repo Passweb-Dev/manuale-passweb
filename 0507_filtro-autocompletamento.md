@@ -4,8 +4,7 @@
 
 Il Componente "**Filtro Autocompletamento**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_filtro_autocompletamento_res.bmp](./assets/media/image630.png){width="2.5340277777777778in"
-height="2.5458333333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_filtro_autocompletamento_res.bmp](./assets/media/image630.png)
 
 **può essere inserito unicamente all'interno del componente Ecommerce di
 primo livello "Ricerca".**
@@ -16,15 +15,13 @@ varieranno in base al testo digitato dall'utente, oltre che ovviamente
 sulla base dello specifico campo/attributo con il quale è stato mappato
 il componente in esame.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtro_autocompletamento.bmp](./assets/media/image631.png){width="5.545833333333333in"
-height="3.2576388888888888in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtro_autocompletamento.bmp](./assets/media/image631.png)
 
 Rilasciando il Componente nella posizione desiderata all'interno della
 pagina web, verrà visualizzata **la sua maschera di gestione e
 configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_filtro_autocompletamento_configurazione_res.bmp](./assets/media/image632.png){width="5.159722222222222in"
-height="3.097916666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_filtro_autocompletamento_configurazione_res.bmp](./assets/media/image632.png)
 
 suddivisa in varie sezioni.
 
@@ -108,8 +105,7 @@ filtro di ricerca che si intende implementare (per maggiori informazioni
 in merito si veda anche il precedente capitolo "*Componenti Ecommerce --
 Filtri di ricerca*" di questo manuale)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_filtro_autocompletamento_configurazione_res_2.bmp](./assets/media/image633.png){width="4.65in"
-height="2.9506944444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_filtro_autocompletamento_configurazione_res_2.bmp](./assets/media/image633.png)
 
 Dipendentemente poi dai valori selezionati per i campi "**Tipologia di
 Filtro**" e "**Campo su cui far Filtro**" potranno comparire all'interno
@@ -165,8 +161,7 @@ essere invece impostato sull'opzione:
 oltre ai due parametri appena analizzati comparirà anche il campo
 "**Metodo di Ordinamento**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtro_autocompletamento_fulltext.bmp](./assets/media/image634.png){width="3.9756944444444446in"
-height="3.0555555555555554in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtro_autocompletamento_fulltext.bmp](./assets/media/image634.png)
 
 - **Metodo di Ordinamento**: consente di impostare l'ordinamento che
   verrà poi applicato ai risultati della ricerca. E' possibile
@@ -244,14 +239,12 @@ dovesse soddisfare determinate condizioni, sarà possibile definire e
 personalizzare sia graficamente che a livello di contenuti il formato
 dei risultati mostrati all'interno di questo stesso filtro.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\autocompletamento_template_1.bmp](./assets/media/image635.png){width="5.625694444444444in"
-height="3.2944444444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\autocompletamento_template_1.bmp](./assets/media/image635.png)
 
 In questo senso infatti, il campo "**Template**" presente nella maschera
 di configurazione del componente stesso
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\autocompletamento_template_2.bmp](./assets/media/image636.png){width="4.65in"
-height="2.9569444444444444in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\autocompletamento_template_2.bmp](./assets/media/image636.png)
 
 consente di intervenire direttamente a livello di codice HTML
 specificando dunque il markup e le relative informazioni che dovranno
@@ -261,8 +254,7 @@ autocompletamento
 Volendo è possibile aprire l'editor in modalità Full Screen utilizzando
 per questo il tasto funzione **F11**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\autocompletamento_carrello_configurazione5.bmp](./assets/media/image501.png){width="5.625694444444444in"
-height="3.2944444444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\autocompletamento_carrello_configurazione5.bmp](./assets/media/image501.png)
 
 Una volta entrati in modalità full screen è poi possibile ritornare alla
 visualizzazione standard utilizzando il tasto **ESC**.

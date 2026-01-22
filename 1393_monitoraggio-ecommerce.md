@@ -13,16 +13,14 @@ descritto nel precedente capitolo di questo manuale):
   nella maschera di configurazione del sito, sul valore "**Ecommerce
   Attivato**" come nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_29.bmp](./assets/media/image29.png){width="5.157638888888889in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_29.bmp](./assets/media/image29.png)
 
 - **Lato Passweb** verificare di aver selezionato i due parametri
   "**Abilita Tracciamento Ecommerce**" e "**Abilita Tracciamento
   Ricerca**" presenti alla pagina "**Sito -- Preferenze -- Tracciamento
   Dati**" (sezione "**Matomo -- Client**") del Wizard
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_28.bmp](./assets/media/image28.png){width="5.795833333333333in"
-height="3.50625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_28.bmp](./assets/media/image28.png)
 
 **ATTENZIONE!** Se una delle due condizioni non dovesse essere
 soddisfatta gli eventuali report presenti in Matomo relativamente all'

@@ -5,8 +5,7 @@
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_quickview_configurazione_res.bmp](./assets/media/image64.png){width="4.98125in"
-height="3.01875in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_quickview_configurazione_res.bmp](./assets/media/image64.png)
 
 suddivisa in varie sezioni.
 
@@ -77,8 +76,7 @@ In particolare all'interno di un componente di tipo "Quick View" sarà
 possibile inserire solamente tre diversi componenti mediante i quali
 poter suddividere la finestra modale in tre distinte sezioni:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\quickview_aggiunta_componenti_res.bmp](./assets/media/image65.png){width="2.8097222222222222in"
-height="2.828472222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\quickview_aggiunta_componenti_res.bmp](./assets/media/image65.png)
 
 - **Quick View Header:** consente di inserire all'interno della finestra
   di quick view un contenitore per gestire le informazioni in testata
@@ -122,8 +120,7 @@ fare sarà ovviamente quella di richiamare questa stessa finestra
 cliccando sul relativo pulsante di apertura esattamente come farebbe sul
 front end un normale visitatore del sito.**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\quick_view_gestione.bmp](./assets/media/image66.png){width="4.98125in"
-height="3.509027777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\quick_view_gestione.bmp](./assets/media/image66.png)
 
 **ATTENZIONE!** la visualizzazione della finestra di quick view
 all'interno dell'ambiente di sviluppo è leggermente diversa rispetto a

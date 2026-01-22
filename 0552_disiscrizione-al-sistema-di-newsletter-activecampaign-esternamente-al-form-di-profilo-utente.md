@@ -25,8 +25,7 @@ Newsletter**" impostando i parametri di configurazione "**Tipo di
 Integrazione**" e "**Tipologia Form**" rispettivamente sui valori
 "**ActiveCampaign**" e "**Disiscrzione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_disiscrizione_newsletter_activecampaign.bmp](./assets/media/image64.png){width="4.370138888888889in"
-height="3.9479166666666665in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_disiscrizione_newsletter_activecampaign.bmp](./assets/media/image64.png)
 
 Il campo "**Lista Associata**" consentirà inoltre di indicare,
 selezionandola tra quelle definite all'interno del proprio account
@@ -41,8 +40,7 @@ all'interno di ActiveCampaign
 presente all'interno del form, inserito automaticamente al salvataggio
 del componente, sarà il campo Email**
 
-![Videate\\form_disiscrizone_newsletter.bmp](./assets/media/image57.png){width="5.6625in"
-height="3.298611111111111in"}
+![Videate\\form_disiscrizone_newsletter.bmp](./assets/media/image57.png)
 
 Una volta inserito lo stesso indirizzo mail utilizzato anche in fase di
 iscrizione al servizio, cliccando sul pulsante "**Disiscriviti**",
@@ -55,11 +53,9 @@ Lo stato del contatto potrà essere verificato, ovviamente, anche
 all'interno di ActiveCampaign esaminando il campo "**Liste -- Email**"
 presente all'interno della sua anagrafica
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\annullamento_iscrizione_activecampaign.bmp](./assets/media/image65.png){width="5.538888888888889in"
-height="3.4743055555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\annullamento_iscrizione_activecampaign.bmp](./assets/media/image65.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\annullamento_iscrizione_activecampaign_2.bmp](./assets/media/image66.png){width="5.538888888888889in"
-height="3.4743055555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\annullamento_iscrizione_activecampaign_2.bmp](./assets/media/image66.png)
 
 **ATTENZIONE! la disiscrizione dal servizio di Newsletter di
 ActiveCampaign NON comporta l'eliminazione della relativa anagrafica
@@ -73,8 +69,7 @@ terza, questo potrà essere fatto direttamente dall'interessato operando
 dalla pagina "Profilo Utente" attraverso il pulsante **"Elimina
 Profilo"**
 
-![Videate\\elimina_profilo.bmp](./assets/media/image27.png){width="5.552083333333333in"
-height="3.298611111111111in"}
+![Videate\\elimina_profilo.bmp](./assets/media/image27.png)
 
 **Cliccando su questo pulsante infatti oltre a cancellare la
 corrispondente anagrafica dal database di Passweb, questa verrà
@@ -87,6 +82,5 @@ profilo utente indicando esplicitamente che i dati verranno,
 eventualmente, cancellati in maniera definitiva anche dal database della
 piattaforma di newsletter.
 
-![Videate\\messaggio_conferma_eliminazione_profilo.bmp](./assets/media/image28.png){width="5.552083333333333in"
-height="3.298611111111111in"}
+![Videate\\messaggio_conferma_eliminazione_profilo.bmp](./assets/media/image28.png)
 

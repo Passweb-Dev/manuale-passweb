@@ -14,23 +14,20 @@ Per ottenere queste chiavi sarà necessario:
     (<https://dashboard.stripe.com/login> ) utilizzando l'account appena
     creato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\stripe_1.bmp](./assets/media/image219.png){width="5.2659722222222225in"
-height="2.785416666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\stripe_1.bmp](./assets/media/image219.png)
 
 3.  Portarsi quindi all'interno della sezione "**Sviluppatori -- Chiavi
     API**" selezionando l'apposita voce di menu posta sulla sinistra
     della pagina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\stripe_2.bmp](./assets/media/image220.png){width="5.552083333333333in"
-height="3.325in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\stripe_2.bmp](./assets/media/image220.png)
 
 4.  Copiare le chiavi presenti in corrispondenza dei campi "**Chiave
     Pubblica**" e "**Chiave Segreta**" ed incollarle nei relativi
     parametri di configurazione del pagamento Passweb (sezione
     "Configurazione Parametri del Gateway")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\stripe_3.bmp](./assets/media/image221.png){width="5.844444444444444in"
-height="3.4479166666666665in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\stripe_3.bmp](./assets/media/image221.png)
 
 **ATTENZIONE!** le chiavi di configurazione (pubblica e segreta) da
 inserire all'interno dei campi evidenziati in figura sono diverse a
@@ -66,15 +63,13 @@ Per attivare questa modalità sarà quindi necessario:
     "**Sviluppatore -- WebHook**" cliccando sull'apposita voce di menu
     posta sulla sinistra della pagina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\stripe_5.bmp](./assets/media/image222.png){width="5.552083333333333in"
-height="3.325in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\stripe_5.bmp](./assets/media/image222.png)
 
 2.  Cliccare quindi sul pulsante "**Aggiungi endpoint**" posto nella
     parte alta della pagina e compilare la successiva maschera di
     creazione come di seguito indicato:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\stripe_7.bmp](./assets/media/image223.png){width="5.552083333333333in"
-height="3.325in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\stripe_7.bmp](./assets/media/image223.png)
 
 - **URL endpoint**: inserire all'interno del campo in questione il
   seguente url
@@ -96,8 +91,7 @@ height="3.325in"}
 
   - **checkout.session.async_payment_failed**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\stripe_7a.bmp](./assets/media/image224.png){width="5.552083333333333in"
-height="3.325in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\stripe_7a.bmp](./assets/media/image224.png)
 
 3.  Cliccare quindi sul pulsante "**Aggiungi endpoint**" per completare
     la creazione del relativo endpoint

@@ -10,19 +10,16 @@ file csv.
 Per far questo è sufficiente accedere alla maschera "**Lista Ordini**"
 precedentemente analizzata
 
-![Videate\\gestione_lista_ordini2.bmp](./assets/media/image681.png){width="5.772916666666666in"
-height="3.5194444444444444in"}
+![Videate\\gestione_lista_ordini2.bmp](./assets/media/image681.png)
 
 e cliccare sul pulsante **Esportazione Ordini** (
-![Videate\\pulsante_esportazione_ordini.bmp](./assets/media/image682.png){width="0.6951388888888889in"
-height="0.15555555555555556in"} ) presente nella relativa barra degli
+![Videate\\pulsante_esportazione_ordini.bmp](./assets/media/image682.png) ) presente nella relativa barra degli
 strumenti.
 
 In questo modo verrà infatti visualizzata la maschera "**Esportazione
 Ordini**"
 
-![Videate\\esportazione_ordini.bmp](./assets/media/image683.png){width="5.798611111111111in"
-height="3.3180555555555555in"}
+![Videate\\esportazione_ordini.bmp](./assets/media/image683.png)
 
 all'interno della quale poter impostare la tipologia di esportazione che
 si intende effettuare e, ovviamente, quali documenti dovranno essere poi
@@ -135,8 +132,7 @@ seguenti opzioni**:**
 che dovranno poi essere inseriti all'interno dei vari file di
 esportazione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\esportazione_ordini_filtri.bmp](./assets/media/image684.png){width="5.584722222222222in"
-height="3.441666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\esportazione_ordini_filtri.bmp](./assets/media/image684.png)
 
 E' possibile impostare un filtro sulla base dei seguenti campi:
 

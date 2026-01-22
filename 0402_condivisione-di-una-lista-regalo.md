@@ -22,8 +22,7 @@ passi di seguito indicati:
     degli strumenti in maniera tale da accedere alla maschera di
     configurazione della Tipologia in esame
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\maschera_modifica_tipologia.bmp](./assets/media/image228.png){width="5.809722222222222in"
-height="3.423611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\maschera_modifica_tipologia.bmp](./assets/media/image228.png)
 
 > **Assicurarsi quindi di selezionare il parametro "Email"**
 >
@@ -75,8 +74,7 @@ height="3.423611111111111in"}
 7.  Creare in Passweb una Campagna di tipo **"Lista Regalo"**
     selezionando per essa il Template appena configurato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\wl_lista_regalo_1.bmp](./assets/media/image229.png){width="5.809722222222222in"
-height="3.3743055555555554in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\wl_lista_regalo_1.bmp](./assets/media/image229.png)
 
 > Per maggiori informazioni relativamente alla creazione di Campagne in
 > Passweb si veda anche la sezione "*MailChimp -- Newsletter Passweb e
@@ -91,8 +89,7 @@ height="3.3743055555555554in"}
 > precedente e cliccare sul pulsante "**Gestisci invii per la
 > Campagna**" presente nella barra degli strumenti
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\invii_campagna_lista_regalo.bmp](./assets/media/image230.png){width="5.809722222222222in"
-height="3.3743055555555554in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\invii_campagna_lista_regalo.bmp](./assets/media/image230.png)
 
 > Nella successiva maschera verranno visualizzati gli invii già
 > codificati per la Campagna in esame.
@@ -102,8 +99,7 @@ height="3.3743055555555554in"}
 > degli strumenti e inserire tutti i parametri necessari per la
 > configurazione dell'invio.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\invii_campagna_lista_regalo_2.bmp](./assets/media/image231.png){width="5.809722222222222in"
-height="3.3743055555555554in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\invii_campagna_lista_regalo_2.bmp](./assets/media/image231.png)
 
 > Nello specifico sarà necessario indicare:
 
@@ -199,16 +195,14 @@ la propria Lista Regalo un utente dovrà:
     all'interno della tabella delle Wishlist salvate quella relativa
     alla propria Lista Regalo e cliccare sul pulsante "**Condividi"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\wl_lista_regalo_condividi.bmp](./assets/media/image232.png){width="5.815972222222222in"
-height="3.8958333333333335in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\wl_lista_regalo_condividi.bmp](./assets/media/image232.png)
 
 > Cliccando su questo pulsante verrà infatti visualizzata un ulteriore
 > sezione all'interno della quale l'utente avrà la possibilità di
 > condividere la Lista Regalo in oggetto via social (Facebook, Twitter
 > e/o Google +) oppure via mail
 
-![Videate\\wl_lista_regalo_5.bmp](./assets/media/image233.png){width="5.815972222222222in"
-height="3.1659722222222224in"}
+![Videate\\wl_lista_regalo_5.bmp](./assets/media/image233.png)
 
 3.  Per effettuare la condivisione via Social sarà sufficiente cliccare
     sull'icona del corrispondente Social Network

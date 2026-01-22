@@ -8,8 +8,7 @@ specifica camera, l'età del bambino
 **ATTENZIONE!** Dovrà essere inserito un campo di questo tipo per
 ciascuno dei bambini effettivamente gestiti nella relativa camera
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_welcome_campo_eta_bambini.bmp](./assets/media/image48.png){width="5.723611111111111in"
-height="3.33125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_welcome_campo_eta_bambini.bmp](./assets/media/image48.png)
 
 **Tipologia di componente Passweb**: Campo di Testo
 
@@ -18,8 +17,7 @@ height="3.33125in"}
 **Id/Name** = camera1EtaBambino1 -- dove 1 indica che il campo in esame
 è relativo alla prima camera e al primo Bambino
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_welcome_campo_eta_bambini_2.bmp](./assets/media/image49.png){width="4.398611111111111in"
-height="3.092361111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_welcome_campo_eta_bambini_2.bmp](./assets/media/image49.png)
 
 **Tipo Valore** = Numerico
 
@@ -34,8 +32,7 @@ definita per i bambini all'interno del gestionale
 **Condizioni di obbligatorietà: numeroCamere è in 1,2,3 ... e
 numeroBambini1 è in 1,2 ...**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_welcome_campo_eta_bambini_3.bmp](./assets/media/image50.png){width="4.411111111111111in"
-height="3.097916666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_welcome_campo_eta_bambini_3.bmp](./assets/media/image50.png)
 
 Nell'ipotesi poi il numero massimo di camere gestite all'interno del
 form sia 3 e che il numero massimo di bambini per camera sia 2 lo stesso

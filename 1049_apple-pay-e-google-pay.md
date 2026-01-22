@@ -26,21 +26,18 @@ delle seguenti condizioni:
 - Accedere alle "**Impostazioni**" cliccando sulla corrispondente voce
   presente nel menu posto sulla sinistra della pagina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\stripe_apple_pay_1.bmp](./assets/media/image225.png){width="5.325in"
-height="3.5388888888888888in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\stripe_apple_pay_1.bmp](./assets/media/image225.png)
 
 - Cliccare sulla voce "**Impostazioni di Checkout**" posta all'interno
   del pannello "Payments"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\stripe_apple_pay_2.bmp](./assets/media/image226.png){width="5.325in"
-height="3.5388888888888888in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\stripe_apple_pay_2.bmp](./assets/media/image226.png)
 
 - Verificare che l'interruttore relativo ad Apple Pay presente
   all'interno della sezione relativa ai "**Portafogli Elettronici**" sia
   stato correttamente attivato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\stripe_apple_pay_3.bmp](./assets/media/image227.png){width="5.325in"
-height="3.5388888888888888in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\stripe_apple_pay_3.bmp](./assets/media/image227.png)
 
 2.  Il device utilizzato dal cliente per effettuare il pagamento
     utilizza come sistema operativo **macOS 10.14.1** (o superiore)
@@ -77,21 +74,18 @@ delle seguenti condizioni:
 - Accedere alle "**Impostazioni**" cliccando sulla corrispondente voce
   presente nel menu posto sulla sinistra della pagina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\stripe_apple_pay_1.bmp](./assets/media/image225.png){width="5.325in"
-height="3.5388888888888888in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\stripe_apple_pay_1.bmp](./assets/media/image225.png)
 
 - Cliccare sulla voce "**Impostazioni di Checkout**" posta all'interno
   del pannello "Payments"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\stripe_apple_pay_2.bmp](./assets/media/image226.png){width="5.325in"
-height="3.5388888888888888in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\stripe_apple_pay_2.bmp](./assets/media/image226.png)
 
 - Verificare che l'interruttore relativo ad Google Pay presente
   all'interno della sezione relativa ai "**Portafogli Elettronici**" sia
   stato correttamente attivato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\stripe_google_pay_1.bmp](./assets/media/image228.png){width="5.325in"
-height="3.5388888888888888in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\stripe_google_pay_1.bmp](./assets/media/image228.png)
 
 2.  L'utente che effettua il pagamento sta utilizzando Chrome o Safari
 

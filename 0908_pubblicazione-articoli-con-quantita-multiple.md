@@ -10,8 +10,7 @@ In Mexal questo tipo di gestione si attiva, come noto, utilizzando il
 campo "**Confezione**" presente nella maschera "**Altri Dati
 anagrafici**" di ogni singolo articolo
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\marketplace_articoli_confezione.bmp](./assets/media/image655.png){width="4.175in"
-height="2.6555555555555554in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\marketplace_articoli_confezione.bmp](./assets/media/image655.png)
 
 Nel momento in cui si dovesse decidere di pubblicare sulla piattaforma
 terza anche questa particolare tipologia di articoli andrà sempre
@@ -21,8 +20,7 @@ diversi prodotti**:
 - **un prodotto singolo** con codice (Riferimento) / nome prelevati dai
   relativi dati presenti all'interno del gestionale
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_articoli_confezione_1.bmp](./assets/media/image656.png){width="5.538888888888889in"
-height="3.50625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_articoli_confezione_1.bmp](./assets/media/image656.png)
 
 > **ATTENZIONE!** A default il prodotto singolo sarà impostato in
 > maniera tale da non essere visibile all'interno del catalogo web
@@ -36,8 +34,7 @@ height="3.50625in"}
   "**codiceGestionale-pck**", nome del tipo "**titoloGestionale --
   Pack**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_articoli_confezione_2.bmp](./assets/media/image657.png){width="5.538888888888889in"
-height="3.50625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_articoli_confezione_2.bmp](./assets/media/image657.png)
 
 > Ovviamente le immagini utilizzate per questo prodotto saranno
 > esattamente le stesse impostate, eventualmente, sul gestionale per il

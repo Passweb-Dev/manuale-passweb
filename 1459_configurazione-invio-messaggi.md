@@ -9,8 +9,7 @@ relazione ai quali dovranno essere inviati dei messaggi Whatsapp e di
 impostare anche il Template che dovrà essere utilizzato per l'invio di
 questi stessi messaggi.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\wa_sb_configurazione_messaggi.bmp](./assets/media/image7.png){width="5.538888888888889in"
-height="3.5194444444444444in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\wa_sb_configurazione_messaggi.bmp](./assets/media/image7.png)
 
 La griglia presente sul lato sinistro della sezione "**Template
 Messaggi**" consente di visualizzare quelli che sono gli eventi già
@@ -21,25 +20,21 @@ I pulsanti presenti nella contestuale barra degli strumenti, consentono
 rispettivamente di:
 
 **Elimina** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina.bmp](./assets/media/image8.png){width="0.175in"
-height="0.175in"} ): consente di eliminare l'evento attualmente
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina.bmp](./assets/media/image8.png) ): consente di eliminare l'evento attualmente
 selezionato in elenco
 
 **Modifica** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_modifica.bmp](./assets/media/image9.png){width="0.1951388888888889in"
-height="0.2076388888888889in"} ): consente di modificare l'evento
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_modifica.bmp](./assets/media/image9.png) ): consente di modificare l'evento
 attualmente selezionato in elenco.
 
 **Aggiungi** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_aggiungi.bmp](./assets/media/image10.png){width="0.18819444444444444in"
-height="0.18194444444444444in"} ): consente di codificare un nuovo
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_aggiungi.bmp](./assets/media/image10.png) ): consente di codificare un nuovo
 evento ed il relativo messaggio Whatsapp
 
 Cliccando su questo pulsante, verrà infatti visualizzata, sulla destra
 della pagina la sezione "**Nuovo Template**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\wa_sb_nuovo_template.bmp](./assets/media/image11.png){width="5.538888888888889in"
-height="3.5194444444444444in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\wa_sb_nuovo_template.bmp](./assets/media/image11.png)
 
 all'interno della quale poter definire l'evento in relazione al quale
 dovrà essere inviato un messaggio Whatsapp e il Template da utilizzare
@@ -72,8 +67,7 @@ relazione al quale dovrà essere inviato un messaggio Whatsapp
 > in quello di destra cliccando sull'icona raffigurante una piccola
 > freccia verde
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\wa_sb_nuovo_template_2.bmp](./assets/media/image12.png){width="5.538888888888889in"
-height="3.5194444444444444in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\wa_sb_nuovo_template_2.bmp](./assets/media/image12.png)
 
 > Volendo è possibile selezionare anche più di uno stato
 > contemporaneamente, in questo caso però il messaggio potrà variare
@@ -187,8 +181,7 @@ effettivamente di voler inviare anche questo tipo di notifica (oltre ad
 esempio alla notifica mail o SMS) selezionando per questo l'apposito
 check
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_check_notifica_wa.bmp](./assets/media/image13.png){width="5.454861111111111in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_check_notifica_wa.bmp](./assets/media/image13.png)
 
 Per maggiori informazioni relativamente alle opzioni di notifica legate
 agli eventi di area riservata si veda anche quanto indicato all'interno
@@ -206,8 +199,7 @@ Sezione Area Riservata*" di questo manuale)
 **Gruppi:** consente di impostare i Gruppi Utente in relazione ai quali
 poter effettivamente attivare l'invio del relativo messaggio.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\wa_sb_template_gruppi_utente.bmp](./assets/media/image14.png){width="5.538888888888889in"
-height="3.5194444444444444in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\wa_sb_template_gruppi_utente.bmp](./assets/media/image14.png)
 
 **ATTENZIONE!** nel momento in cui l'esigenza dovesse essere quella di
 poter inviare il messaggio in esame a tutti gli utenti del sito,
@@ -242,8 +234,7 @@ WA Smart Business che sono stati correttamente approvati da Meta e che
 possono quindi essere effettivamente utilizzati per l'invio di un
 messaggio
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\wa_sb_elenco_template.bmp](./assets/media/image15.png){width="5.6625in"
-height="3.4090277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\wa_sb_elenco_template.bmp](./assets/media/image15.png)
 
 **ATTENZIONE!** per maggiori informazioni relativamente a come creare un
 Template all'interno di WA Smart Business e su come mandarlo in
@@ -254,8 +245,7 @@ documentazione di prodotto
 definito (su WA Smart Business) per il Template indicato in
 corrispondenza del precedente parametro.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\wa_sb_testo_template.bmp](./assets/media/image16.png){width="5.454861111111111in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\wa_sb_testo_template.bmp](./assets/media/image16.png)
 
 **ATTENZIONE!** il campo in esame è in sola visualizzazione
 
@@ -269,8 +259,7 @@ segnaposto individuati nel corpo del messaggio (e indicati dai simboli
 dell'ordine, Totale dell'ordine ...) selezionabili dal corrispondente
 menu a tendina.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\wa_sb_variabili_template.bmp](./assets/media/image17.png){width="5.454861111111111in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\wa_sb_variabili_template.bmp](./assets/media/image17.png)
 
 **ATTENZIONE!** è possibile gestire Template di messaggio con un massimo
 di 5 variabili dinamiche

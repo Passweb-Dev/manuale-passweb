@@ -13,8 +13,7 @@ In questo senso, volendo essere più precisi, è bene sottolineare che
 esistono due diverse versioni di questo software, o meglio due diverse
 modalità di installazione:
 
-![Videate\\matomo_5.bmp](./assets/media/image5.png){width="5.565972222222222in"
-height="3.532638888888889in"}
+![Videate\\matomo_5.bmp](./assets/media/image5.png)
 
 - una versione gratuita, **On Premise**
 

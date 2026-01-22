@@ -13,26 +13,22 @@ Per poter implementare questa opzione sarà necessario, nello specifico:
 - Creare un Attributo Cliente Passweb, di tipo Testo, che dovrà poi
   essere utilizzato per memorizzare questo tipo di consenso
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\privacy_clerk_optout.bmp](./assets/media/image70.png){width="5.6625in"
-height="3.5194444444444444in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\privacy_clerk_optout.bmp](./assets/media/image70.png)
 
 - Impostare il parametro "**Attributo OPT OUT**" presente nel tab
   "**Configurazione**" (sezione "**Parametri Store**") della maschera di
   configurazione dell'account Clerk sull' Attributo Cliente creato al
   punto precedente
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\privacy_clerk_optout_0.bmp](./assets/media/image71.png){width="5.467361111111111in"
-height="3.623611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\privacy_clerk_optout_0.bmp](./assets/media/image71.png)
 
 - Inserire nei form di Registrazione e Profilo Utente un componente
   "**Campo Checkbox**" mappato sull'Attributo Cliente di cui ai punti
   precedenti
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\privacy_clerk_optout_1.bmp](./assets/media/image72.png){width="3.967361111111111in"
-height="3.1430555555555557in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\privacy_clerk_optout_1.bmp](./assets/media/image72.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\privacy_clerk_optout_2.bmp](./assets/media/image73.png){width="5.6625in"
-height="3.5194444444444444in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\privacy_clerk_optout_2.bmp](./assets/media/image73.png)
 
 In questo modo per gli utenti non autenticati, così come per quelli
 autenticati che non hanno esercitato questa specifica opzione, tutti i

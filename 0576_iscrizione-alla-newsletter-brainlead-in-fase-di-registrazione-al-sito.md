@@ -11,8 +11,7 @@ primo livello **Registrazione Utente** e impostando, in fase di
 configurazione, il campo "**Tipo di Integrazione**" sul valore
 "**Brainlead**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_newsletter_brainlead.bmp](./assets/media/image156.png){width="5.097222222222222in"
-height="2.4027777777777777in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_newsletter_brainlead.bmp](./assets/media/image156.png)
 
 **ATTENZIONE!** a differenza di quanto avviene con MailChimp nel caso di
 Brainlead il Double Opt-in, di base, non è gestito, per cui in tutti
@@ -121,8 +120,7 @@ agire sul parametro "**Tipo di dato da rilevare**" presente nella
 maschera di configurazione dei componenti interni al form di iscrizione
 alla Newsletter.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\newsletter_registrazione4_res.bmp](./assets/media/image153.png){width="4.597222222222222in"
-height="2.922222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\newsletter_registrazione4_res.bmp](./assets/media/image153.png)
 
 **ATTENZIONE!** Il parametro "**Tipo di dato da rilevare**" è
 visualizzato tra i parametri di configurazione dei componenti interni al
@@ -151,8 +149,7 @@ uno dei seguenti valori:
 > Il successivo parametro **Campo di Origine** consente di indicare lo
 > specifico Campo Cliente da cui dover prelevare questa informazione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\newsletter_registrazione5_res.bmp](./assets/media/image154.png){width="4.597222222222222in"
-height="2.922222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\newsletter_registrazione5_res.bmp](./assets/media/image154.png)
 
 - **Attributo Cliente**: in queste condizioni il relativo campo del form
   di iscrizione alla newsletter non verrà mai visualizzato, per cui se
@@ -165,8 +162,7 @@ height="2.922222222222222in"}
 > lo specifico Attributo Utente da cui dover prelevare questa
 > informazione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\newsletter_registrazione6_res.bmp](./assets/media/image155.png){width="4.610416666666667in"
-height="2.9347222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\newsletter_registrazione6_res.bmp](./assets/media/image155.png)
 
 **ATTENZIONE!** La mail di registrazione inviata all'utente a seguito
 della conferma di registrazione al sito conterrà anche i campi relativi
@@ -181,8 +177,7 @@ visualizzato **un Radio Button con le due opzioni Si, No mediante il
 quale l'utente potrà decidere se iscriversi o meno anche alla
 Newsletter**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_newsletter_mailchimp_1.bmp](./assets/media/image151.png){width="5.604166666666667in"
-height="3.4743055555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_newsletter_mailchimp_1.bmp](./assets/media/image151.png)
 
 Nel caso in cui l'utente dovesse decidere di registrarsi al sito senza
 iscriversi alla Newsletter (opzione **No**) il campo Custom dichiarato
@@ -199,6 +194,5 @@ verranno anche visualizzati **i campi custom (ed eventualmente il campo
 mail)** che si è deciso, in fase di configurazione, di voler
 effettivamente visualizzare.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\newsletter_registrazione3.bmp](./assets/media/image152.png){width="5.604166666666667in"
-height="3.4743055555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\newsletter_registrazione3.bmp](./assets/media/image152.png)
 

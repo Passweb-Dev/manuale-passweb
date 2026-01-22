@@ -30,8 +30,7 @@ Una volta effettuato l'accesso alla sezione "*Ordini -- Gestione
 Attributi*" del Wizard verrà quindi visualizzata la maschera
 "**Attributi Documento**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\attributi_ordine.bmp](./assets/media/image685.png){width="5.779166666666667in"
-height="3.5256944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\attributi_ordine.bmp](./assets/media/image685.png)
 
 contenente l'elenco di tutti gli Attributi attualmente gestiti
 all'interno del proprio sito ecommerce.
@@ -42,10 +41,8 @@ filtrare i dati in griglia sulla base dei valori presenti all'interno
 della colonna stessa.
 
 I pulsanti "**Modifica Attributo**"
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_attributo.bmp](./assets/media/image686.png){width="0.6555555555555556in"
-height="0.175in"} ) ed "**Elimina Attributo**"
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_attributo.bmp](./assets/media/image687.png){width="0.6166666666666667in"
-height="0.16875in"} ) presenti nella contestuale barra degli strumenti,
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_attributo.bmp](./assets/media/image686.png) ) ed "**Elimina Attributo**"
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_attributo.bmp](./assets/media/image687.png) ) presenti nella contestuale barra degli strumenti,
 consentono, rispettivamente di modificare ed eliminare l'Attributo
 attualmente selezionato in elenco.
 
@@ -75,12 +72,10 @@ gestionali Ho.Re.Ca. sono gestiti solo ed esclusivamente Attributi
 Ordine di tipo Passweb
 
 Cliccando quindi sul pulsante **"Nuovo Attributo"**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuovo_attributo.bmp](./assets/media/image688.png){width="0.5909722222222222in"
-height="0.175in"} ), presente nella barra degli strumenti, verrà
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuovo_attributo.bmp](./assets/media/image688.png) ), presente nella barra degli strumenti, verrà
 visualizzata la maschera **"Attributi"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\attributi_ordine_definizione_1.bmp](./assets/media/image689.png){width="5.779166666666667in"
-height="3.5256944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\attributi_ordine_definizione_1.bmp](./assets/media/image689.png)
 
 attraverso cui poter definire le caratteristiche dell'Attributo che si
 sta realizzando, caratteristiche queste che potranno variare in
@@ -142,8 +137,7 @@ tali valori all'interno del sito.
 - **Passweb:** consente di creare un Attributo Ordine la cui gestione
   sarà demandata interamente a Passweb.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\attributi_ordine_passweb.bmp](./assets/media/image690.png){width="5.779166666666667in"
-height="3.5256944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\attributi_ordine_passweb.bmp](./assets/media/image690.png)
 
 > In questo caso sarà quindi necessario indicare un valore anche per i
 > seguenti parametri:
@@ -172,8 +166,7 @@ height="3.5256944444444445in"}
 > Al salvataggio dell'Attributo verrà quindi visualizzata la sezione
 > **"Gestione Opzioni"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\attributo_nuova_opzione.bmp](./assets/media/image691.png){width="5.610416666666667in"
-height="3.7465277777777777in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\attributo_nuova_opzione.bmp](./assets/media/image691.png)
 
 > all'interno della quale poter definire l'elenco dei valori che
 > l'attributo in questione potrà poi assumere.

@@ -5,8 +5,7 @@
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_form_res.bmp](./assets/media/image112.png){width="4.272916666666666in"
-height="3.0972222222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_form_res.bmp](./assets/media/image112.png)
 
 suddivisa in varie sezioni.
 
@@ -82,16 +81,14 @@ possibile impostare un valore per i seguenti parametri:
     il form compilato dall'utente sul sito, all'indirizzo specificato
     nel successivo campo "**Indirizzo e-mail**" (campo obbligatorio)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_mail_res.bmp](./assets/media/image113.png){width="4.259722222222222in"
-height="3.0909722222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_mail_res.bmp](./assets/media/image113.png)
 
 > In queste condizioni sarà inoltre possibile personalizzare l'oggetto
 > della mail (campo **Oggetto Mail**), il testo della Mail (campo
 > **Testo Mail**) ed il Template utilizzato per realizzare questa stessa
 > mail (campo **Template Mail**)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\parametri_mail_componente_form.bmp](./assets/media/image114.png){width="4.9743055555555555in"
-height="3.00625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\parametri_mail_componente_form.bmp](./assets/media/image114.png)
 
 > Per maggiori informazioni in merito alla personalizzazione del
 > template utilizzato per generare le mail inviate dal componente Form
@@ -125,8 +122,7 @@ height="3.00625in"}
   l 'url con i relativi parametri della chiamata post cui ridirigere
   l'utente una volta confermato il form stesso
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_action_post_res.bmp](./assets/media/image115.png){width="4.2659722222222225in"
-height="3.0909722222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_action_post_res.bmp](./assets/media/image115.png)
 
 > **ATTENZIONE!** in queste condizioni alla conferma del form verranno
 > effettuati eventuali controlli di validazione sui dati inseriti (campi
@@ -139,8 +135,7 @@ height="3.0909722222222222in"}
   automatica articoli in carrello tramite l'upload di un file esterno
   appositamente realizzato.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_aggiunta_articoli_carrello_res.bmp](./assets/media/image116.png){width="4.253472222222222in"
-height="3.0909722222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_aggiunta_articoli_carrello_res.bmp](./assets/media/image116.png)
 
 > In queste condizioni i successivi campi **"Separatore File"** e
 > "**Campi Codice**" consentiranno rispettivamente di;
@@ -187,15 +182,13 @@ height="3.0909722222222222in"}
     al suo posto verrà visualizzato il messaggio inserito nel successivo
     campo **"Messaggio"**.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_form_messaggio_res.bmp](./assets/media/image117.png){width="4.980555555555555in"
-height="3.0in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_form_messaggio_res.bmp](./assets/media/image117.png)
 
 - **Pagina di Ringraziamento:** selezionando questo valore, alla
   conferma del form l'utente verrà ridiretto alla pagina selezionata nel
   sottostante albero delle pagine (**Pagina di ringraziamento**).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_form_ringraziamento_res.bmp](./assets/media/image118.png){width="4.9743055555555555in"
-height="2.99375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_form_ringraziamento_res.bmp](./assets/media/image118.png)
 
 - **Posizionamento dei campi:** consente di posizionare gli elementi
   principali del componente, vale a dire il form stesso ed il pulsante
@@ -225,15 +218,13 @@ height="2.99375in"}
 > conferma, si posizioneranno un a fianco all'altro a partire dal bordo
 > sinistro dell'elemento in cui sono contenuti
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\posizionamento_elementi_form.bmp](./assets/media/image119.png){width="5.110416666666667in"
-height="2.870138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\posizionamento_elementi_form.bmp](./assets/media/image119.png)
 
 > Selezionando invece l'opzione "Centrati e Incolonnati" i due elementi
 > si posizioneranno al centro del loro elemento padre uno sotto
 > all'altro
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\posizionamento_elementi_form_2.bmp](./assets/media/image120.png){width="5.110416666666667in"
-height="2.870138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\posizionamento_elementi_form_2.bmp](./assets/media/image120.png)
 
 > **ATTENZIONE!** Nel caso in cui si decidesse di utilizzare uno dei
 > preset presenti in elenco poi il posizionamento dei campi sarà

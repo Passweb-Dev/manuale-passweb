@@ -7,8 +7,7 @@ dagli utenti per controllare lo stato dei propri documenti (ordini,
 bolle, fatture, resi, matrici ecc...) e visualizzarne il relativo
 dettaglio
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ordini_res.bmp](./assets/media/image397.png){width="2.1166666666666667in"
-height="2.5277777777777777in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ordini_res.bmp](./assets/media/image397.png)
 
 Può essere inserito
 
@@ -34,8 +33,7 @@ correlati originati da evasioni parziali di uno stesso ordine, cosi come
 non dovrà preoccuparsi di inserire pulsanti relativi alla possibilità di
 modificare o annullare eventuali ordini in sospeso.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\componente_ecommerce_ordini_esempio.bmp](./assets/media/image398.png){width="5.177777777777778in"
-height="3.4972222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\componente_ecommerce_ordini_esempio.bmp](./assets/media/image398.png)
 
 All'interno del componente sono presenti diverse sezioni, organizzate
 all'interno di appositi tabs, e utilizzate per raggruppare le diverse

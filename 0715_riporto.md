@@ -24,14 +24,12 @@ Nel primo caso (**Tabella MyDB definita come estensione dei campo
 Articolo**) l'unico valore possibile su cui impostare il parametro in
 oggetto sarà **DMRT**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\riporto_1.bmp](./assets/media/image246.png){width="5.759722222222222in"
-height="3.3895833333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\riporto_1.bmp](./assets/media/image246.png)
 
 **ATTENZIONE!** In queste condizioni inoltre, lato Mexal, non è visibile
 il corrispondente campo "**Rip**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\riporto_2.bmp](./assets/media/image247.png){width="5.5777777777777775in"
-height="2.9868055555555557in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\riporto_2.bmp](./assets/media/image247.png)
 
 Nel secondo caso (**Tabella MyDB definita come estensione dei campi
 Utente**) i valori ammessi saranno due. Nello specifico:
@@ -40,27 +38,23 @@ Utente**) i valori ammessi saranno due. Nello specifico:
   Cliente** oppure come **estensione dei campi Fornitore** il parametro
   in oggetto dovrà essere impostato sul valore **DMTC.**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\riporto_3.bmp](./assets/media/image248.png){width="5.759722222222222in"
-height="3.3895833333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\riporto_3.bmp](./assets/media/image248.png)
 
 > Lo stesso valore, corrispondente all'opzione "**Testate Documenti
 > Cliente**", dovrà comparire ovviamente anche in corrispondenza del
 > parametro "**Rip**" del campo MyDB
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\riporto_4.bmp](./assets/media/image249.png){width="5.5777777777777775in"
-height="2.9868055555555557in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\riporto_4.bmp](./assets/media/image249.png)
 
 - Se la Tabella MyDB è stata definita come **estensione di campi Cliente
   e Fornitore** il parametro in oggetto dovrà essere impostato sul
   valore **DMTX**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\riporto_5.bmp](./assets/media/image250.png){width="5.759722222222222in"
-height="3.3895833333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\riporto_5.bmp](./assets/media/image250.png)
 
 > In questo caso il parametro "**Rip**" del corrispondente campo MyDB
 > dovrà essere impostato sul valore **DMT+** (corrispondente all'opzione
 > "**Testate documenti cli / for**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\riporto_6.bmp](./assets/media/image251.png){width="5.5777777777777775in"
-height="2.9868055555555557in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\riporto_6.bmp](./assets/media/image251.png)
 

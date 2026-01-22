@@ -8,8 +8,7 @@ articoli più venduti e più acquistati all'interno del sito (in relazione
 sempre all'intervallo temporale e alla Variante selezionati nei relativi
 controlli)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\statistiche_articoli.bmp](./assets/media/image38.png){width="6.0125in"
-height="3.5340277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\statistiche_articoli.bmp](./assets/media/image38.png)
 
 **ATTENZIONE!** I dati presenti all'interno di questa sezione vengono
 calcolati prendendo in considerazione gli ordini attualmente presenti

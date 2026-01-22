@@ -6,32 +6,27 @@
     dashboard di gestione del Contenitore su cui si desidera operare e
     cliccare sul pulsante "**Aggiungi un uovo Tag**"
 
-![Videate\\gtm_15b.bmp](./assets/media/image36.png){width="5.586111111111111in"
-height="3.4458333333333333in"}
+![Videate\\gtm_15b.bmp](./assets/media/image36.png)
 
 2.  Cliccare sul pulsante "**Scegli un tipo di tag per iniziare
     l'installazione**" presente all'interno del box "**Configurazione
     Tag**"
 
-![Videate\\gtm_ecommerce_avanzato_10.bmp](./assets/media/image37.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_10.bmp](./assets/media/image37.png)
 
 3.  Selezionare tra quelli proposti il tag "**Google Ads**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_remarketing_dinamico_3.bmp](./assets/media/image220.png){width="5.375694444444444in"
-height="3.325in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_remarketing_dinamico_3.bmp](./assets/media/image220.png)
 
 > e tra le successive tipologie di Tag per Google Ads selezionare
 > l'opzione "**Google Ads Remarketing**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_remarketing_dinamico_4.bmp](./assets/media/image221.png){width="5.375694444444444in"
-height="3.325in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_remarketing_dinamico_4.bmp](./assets/media/image221.png)
 
 4.  Nella successiva maschera di configurazione del tag impostare i
     parametri richiesti come di seguito indicato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_remarketing_dinamico_5.bmp](./assets/media/image222.png){width="5.375694444444444in"
-height="3.325in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_remarketing_dinamico_5.bmp](./assets/media/image222.png)
 
 - **Conversion ID**: utilizzare il proprio ID Conversione di Google Ads
 
@@ -53,32 +48,27 @@ height="3.325in"}
 > Cliccare quindi sul pulsante "**Scegli un attivatore per attivare
 > questo tag**" presente all'interno del box "**Attivazione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_remarketing_dinamico_6.bmp](./assets/media/image223.png){width="5.375694444444444in"
-height="3.325in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_remarketing_dinamico_6.bmp](./assets/media/image223.png)
 
 > e, successivamente, cliccare sul pulsante di creazione di un nuovo
 > attivatore (il piccolo + posto nella parte alta della maschera)
 
-![Videate\\gtm_ecommerce_avanzato_19.bmp](./assets/media/image60.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_19.bmp](./assets/media/image60.png)
 
 6.  Nella maschera di creazione del nuovo Attivatore cliccare su
     "**Scegli un tipo di trigger per iniziare l'installazione**"
     presente all'interno del box "**Configurazione attivatore**"
 
-![Videate\\gtm_ecommerce_avanzato_20.bmp](./assets/media/image61.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_20.bmp](./assets/media/image61.png)
 
 > e selezionare, tra le opzioni proposte, "**Evento Personalizzato**"
 
-![Videate\\gtm_ecommerce_avanzato_21.bmp](./assets/media/image62.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_21.bmp](./assets/media/image62.png)
 
 7.  Nella successiva maschera impostare i parametri di configurazione
     dell'attivatore come nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_remarketing_dinamico_7.bmp](./assets/media/image224.png){width="5.375694444444444in"
-height="3.325in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_remarketing_dinamico_7.bmp](./assets/media/image224.png)
 
 - **Nome Evento**: impostare su
   "***view_item_list\$\|view_item\$\|add_to_cart\$\|purchase\$***"

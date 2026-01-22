@@ -65,8 +65,7 @@ del menu principale ("*Sito -- Passweb AI -- Prompt Template*") consente
 di accedere a questi prompt predefiniti e, ovviamente, anche di crearne
 di nuovi.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\passweb_ai_prompt_template.bmp](./assets/media/image372.png){width="6.013194444444444in"
-height="3.9611111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\passweb_ai_prompt_template.bmp](./assets/media/image372.png)
 
 Per ogni prompt presente in elenco viene indicato il Titolo ad esso
 assegnato (colonna "**Titolo**") la sua Descrizione (colonna
@@ -81,15 +80,13 @@ Tipologia considerata) e potrà poi essere utilizzato solo su questi
 stessi campi.
 
 In questo senso il pulsante raffigurante una piccola i (
-![Videate\\icona_proprieta.bmp](./assets/media/image373.png){width="0.11666666666666667in"
-height="0.11666666666666667in"} ), posto in corrispondenza di ogni
+![Videate\\icona_proprieta.bmp](./assets/media/image373.png) ), posto in corrispondenza di ogni
 singola riga della griglia, consente di visualizzare i campi di
 destinazione su cui è stato impostato il relativo template e di avere
 quindi subito chiaro dove quello specifico prompt potrà poi
 effettivamente essere utilizzato.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\passweb_ai_prompt_template_info.bmp](./assets/media/image374.png){width="6.013194444444444in"
-height="3.9611111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\passweb_ai_prompt_template_info.bmp](./assets/media/image374.png)
 
 Il campo di ricerca attivabile cliccando sulla lente di ingrandimento,
 presente in testata di ogni singola colonna, consente di filtrare i dati
@@ -99,22 +96,19 @@ stessa.
 Una volta impostato un filtro di ricerca, per poterlo poi eliminare sarà
 sufficiente cliccare sull'icona raffigurante una piccola lente di
 ingrandimento con un -- all'interno (
-![Videate\\icona_elimina_filtro.bmp](./assets/media/image375.png){width="7.777777777777778e-2in"
-height="9.722222222222222e-2in"} ) che comparirà in testata alla colonna
+![Videate\\icona_elimina_filtro.bmp](./assets/media/image375.png) ) che comparirà in testata alla colonna
 in corrispondenza della quale è stato impostato il filtro stesso.
 
 Infine è anche possibile ordinare, in maniera crescente e/o decrescente,
 gli elementi in griglia cliccando semplicemente sull'icona raffigurante
 due piccole frecce posta anch' essa in testata ad ogni singola colonna
 della griglia (
-![Videate\\icona_ordinamento_griglia.bmp](./assets/media/image376.png){width="0.12361111111111112in"
-height="0.14930555555555555in"} )
+![Videate\\icona_ordinamento_griglia.bmp](./assets/media/image376.png) )
 
 Le righe evidenziate con un piccolo bordo azzurro identificano i prompt
 impostati come "**Default**" per i campi cui sono stati associati
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\passweb_ai_prompt_template_default.bmp](./assets/media/image377.png){width="6.013194444444444in"
-height="3.9611111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\passweb_ai_prompt_template_default.bmp](./assets/media/image377.png)
 
 **ATTENZIONE!** I prompt di Default saranno poi collegati alla
 funzionalità di "**One Click**", funzionalità questa che permetterà
@@ -124,8 +118,7 @@ prompt da utilizzare per porre la domanda alla AI (e questo proprio
 grazie al fatto che il prompt utilizzato sarà esattamente quello
 impostato come default)
 
-![Videate\\passweb_ai_prompt_template_oneclick.bmp](./assets/media/image378.png){width="6.0256944444444445in"
-height="3.4090277777777778in"}
+![Videate\\passweb_ai_prompt_template_oneclick.bmp](./assets/media/image378.png)
 
 Per maggiori informazioni in merito alla funzionalità di "One Click" si
 rimanda a quanto indicato all'interno del successivo capitolo
@@ -135,25 +128,21 @@ I pulsanti presenti nella barra degli strumenti della maschera "Prompt
 Template" consentono rispettivamente di:
 
 **Elimina** (
-![Videate\\pulsante_elimina.bmp](./assets/media/image379.png){width="0.3506944444444444in"
-height="0.18819444444444444in"} ): consente di eliminare il template
+![Videate\\pulsante_elimina.bmp](./assets/media/image379.png) ): consente di eliminare il template
 attualmente selezionato in elenco.
 
 **Modifica** (
-![Videate\\pulsante_modifica.bmp](./assets/media/image380.png){width="0.3958333333333333in"
-height="0.18819444444444444in"} ): consente di modificare e
+![Videate\\pulsante_modifica.bmp](./assets/media/image380.png) ): consente di modificare e
 personalizzare il template attualmente selezionato in elenco
 
 **Aggiungi** (
-![Videate\\pulsante_aggiungi.bmp](./assets/media/image381.png){width="0.43472222222222223in"
-height="0.21458333333333332in"} ): consente di definire un nuovo prompt.
+![Videate\\pulsante_aggiungi.bmp](./assets/media/image381.png) ): consente di definire un nuovo prompt.
 Per maggiori informazioni in merito alla creazione di un nuovo Prompt si
 rimanda a quanto indicato nel successivo capitolo ("*Creazione di un
 nuovo Prompt*") di questo manuale.
 
 **Prompt Predefiniti** (
-![Videate\\pulsante_prompt_predefiniti.bmp](./assets/media/image382.png){width="0.7208333333333333in"
-height="0.18819444444444444in"} ): consente di accedere alla sezione dei
+![Videate\\pulsante_prompt_predefiniti.bmp](./assets/media/image382.png) ): consente di accedere alla sezione dei
 Prompt Predefiniti messi a disposizione da Passweb. Per maggiori
 informazioni relativamente a questi Prompt si rimanda a quanto indicato
 nel successivo capitolo ("*Prompt Predefiniti*") di questo manuale

@@ -4,8 +4,7 @@
 
 Il Componente **"Campo Data"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\campo_data_registrazione_res.bmp](./assets/media/image113.png){width="2.5194444444444444in"
-height="2.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\campo_data_registrazione_res.bmp](./assets/media/image113.png)
 
 consente di inserire all'interno dei form di Registrazione e di Profilo
 Utente un campo di tipo Data tramite il quale poter scegliere,
@@ -14,8 +13,7 @@ attraverso un apposito controllo di tipo calendario una specifica data.
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_iu_campo_data_configurazione_res.bmp](./assets/media/image114.png){width="4.584722222222222in"
-height="2.915277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_iu_campo_data_configurazione_res.bmp](./assets/media/image114.png)
 
 suddivisa in varie sezioni.
 
@@ -152,8 +150,7 @@ sia impostato sul valore:
     tendina ("Campo di Destinazione") alcuni campi dell'Anagrafica
     Clienti/Fornitori del gestionale.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\campo_data_nascita_res.bmp](./assets/media/image115.png){width="4.584722222222222in"
-height="2.915277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\campo_data_nascita_res.bmp](./assets/media/image115.png)
 
 - **Data di nascita:** selezionando questo valore il Componente "Campo
   Data" corrisponderà al campo "**Data Nascita**" dell'Anagrafica
@@ -201,32 +198,28 @@ valori:
   della data sarà costituito da un semplice calendario in cui l'utente
   dovrà utilizzare apposite frecce per passare da un mese all'altro
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\calendario_default.bmp](./assets/media/image116.png){width="1.136111111111111in"
-height="1.038888888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\calendario_default.bmp](./assets/media/image116.png)
 
 - **Mostra menu Mesi:** selezionando questa opzione il controllo per la
   selezione della data sarà costituito da un calendario in cui la
   selezione del mese potrà avvenire anche mediante un apposito menu a
   tendina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\calendario_menu_mesi.bmp](./assets/media/image117.png){width="1.1298611111111112in"
-height="1.363888888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\calendario_menu_mesi.bmp](./assets/media/image117.png)
 
 - **Mostra menu Anni:** selezionando questa opzione il controllo per la
   selezione della data sarà costituito da un calendario in cui la
   selezione dello specifico anno potrà avvenire mediante un apposito
   menu a tendina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\calendario_menu_anni.bmp](./assets/media/image118.png){width="1.1298611111111112in"
-height="1.4090277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\calendario_menu_anni.bmp](./assets/media/image118.png)
 
 - **Mostra menu Mesi e menu Anni:** selezionando questa opzione il
   controllo per la selezione della data sarà costituito da un calendario
   in cui la selezione dello specifico mese così come quella dello
   specifico anno potrà avvenire mediante un apposito menu a tendina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\calendario_menu_mesi_anni.bmp](./assets/media/image119.png){width="1.136111111111111in"
-height="1.4090277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\calendario_menu_mesi_anni.bmp](./assets/media/image119.png)
 
 **Posizionamento dei Campi:** consente di posizionare gli elementi
 principali del componente secondo uno schema prestabilito.

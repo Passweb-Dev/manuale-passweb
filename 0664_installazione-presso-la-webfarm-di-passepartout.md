@@ -9,8 +9,7 @@ maniera tale da poter visualizzare tutti i parametri necessari per
 realizzare l'integrazione sito-gestionale in questa specifica
 configurazione di prodotto.
 
-![Videate\\parametri_conf_Horeca_generale.bmp](./assets/media/image104.png){width="5.8375in"
-height="3.532638888888889in"}
+![Videate\\parametri_conf_Horeca_generale.bmp](./assets/media/image104.png)
 
 In queste condizioni sarà quindi necessario specificare un valore per i
 seguenti campi:
@@ -30,8 +29,7 @@ Server" possono essere trovati nella maschera "Replica Dati" del
 gestionale all'interno della scheda "Configurazione" sezione "Parametri
 di connessione"
 
-![Videate\\replica_dati2.bmp](./assets/media/image105.png){width="6.129861111111111in"
-height="3.7402777777777776in"}
+![Videate\\replica_dati2.bmp](./assets/media/image105.png)
 
 **Valuta Installazione:** consente di indicare, selezionandola da un
 apposito menu a tendina, la valuta di gestione definita all'interno del
@@ -57,15 +55,13 @@ riferimento il parametro "**Aggiorna descrizioni in ... dal
 Gestionale**" presente all'interno della maschera "**Parametri di
 Sincronizzazione**" del Wizard
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lingua_installazione_horeca.bmp](./assets/media/image106.png){width="5.870138888888889in"
-height="3.558333333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lingua_installazione_horeca.bmp](./assets/media/image106.png)
 
 **Forza cultura italiana:** consente di settare l'analogo parametro
 presente anche all'interno della maschera "Replica Dati --
 Configurazione" del gestionale
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\parametri_conf_Horeca2.bmp](./assets/media/image107.png){width="4.947916666666667in"
-height="2.876388888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\parametri_conf_Horeca2.bmp](./assets/media/image107.png)
 
 **ATTENZIONE:** il parametro in oggetto deve essere impostato
 esattamente allo stesso modo tanto sul gestionale quanto sul Wizard di
@@ -89,8 +85,7 @@ possibile selezionare uno dei seguenti valori:
   parametro "**Categoria**" presente nella scheda "**Anagrafica**" della
   relativa anagrafica gestionale
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\horeca_categorie_articolo_4.bmp](./assets/media/image108.png){width="6.149305555555555in"
-height="3.8180555555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\horeca_categorie_articolo_4.bmp](./assets/media/image108.png)
 
 - **Secondaria:** selezionando questa opzione all'interno del sito web
   verrà utilizzata una categorizzazione articoli realizzata (sempre
@@ -105,8 +100,7 @@ height="3.8180555555555555in"}
   parametro "**Categoria Passweb**" presente nella scheda "**Lista
   Articoli e Listini**" della relativa anagrafica gestionale
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\horeca_categorie_articolo_6.bmp](./assets/media/image109.png){width="6.123611111111111in"
-height="3.9090277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\horeca_categorie_articolo_6.bmp](./assets/media/image109.png)
 
 Per maggiori informazioni relativamente alla possibilità di definire
 all'interno del gestionale una categorizzazione articoli ad hoc per il

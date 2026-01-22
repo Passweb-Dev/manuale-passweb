@@ -23,8 +23,7 @@ piattaforma terza, all'interno del campo "**Script simulatore di
 pagamento**" presente tra i parametri di configurazione del relativo
 Gateway
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pago_light_simulatore_1.bmp](./assets/media/image147.png){width="5.389583333333333in"
-height="3.298611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pago_light_simulatore_1.bmp](./assets/media/image147.png)
 
 In questo senso i due pulsanti **"Script Default Pagolight Standard"** e
 **"Script Default Pagolight PRO"** consentono di inserire all'interno
@@ -48,8 +47,7 @@ Consente di visualizzare all'interno del sito (pagina Prodotto e Pagina
 Checkout) solo alcune informazioni generiche relative al pagamento in
 oggetto.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagolight_simulatore_standard.bmp](./assets/media/image148.png){width="5.395833333333333in"
-height="3.175in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagolight_simulatore_standard.bmp](./assets/media/image148.png)
 
 Dal punto di vista della sua configurazione vanno considerati con
 particolare attenzione i due parametri di seguito indicati:
@@ -64,30 +62,25 @@ particolare attenzione i due parametri di seguito indicati:
 > valorizzato con il segnaposto "Prezzo"** selezionabile dal relativo
 > menu a tendina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagolight_segnaposto_prezzo.bmp](./assets/media/image149.png){width="5.389583333333333in"
-height="3.298611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagolight_segnaposto_prezzo.bmp](./assets/media/image149.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagolight_segnaposto_prezzo_2.bmp](./assets/media/image150.png){width="5.389583333333333in"
-height="3.298611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagolight_segnaposto_prezzo_2.bmp](./assets/media/image150.png)
 
 - **data-heidipay-term:** consente di indicare il numero massimo di rate
   che verranno poi effettivamente proposte all'utente in fase di
   pagamento sulla piattaforma terza.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagolight_segnaposto_rate.bmp](./assets/media/image151.png){width="5.389583333333333in"
-height="3.298611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagolight_segnaposto_rate.bmp](./assets/media/image151.png)
 
 > Il numero indicato in corrispondenza di questo parametro, verrà poi
 > visualizzato sul simulatore nel front end del sito web
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagolight_segnaposto_rate_2.bmp](./assets/media/image152.png){width="5.395833333333333in"
-height="3.175in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagolight_segnaposto_rate_2.bmp](./assets/media/image152.png)
 
 > e dovrà, ovviamente, coincidere con il numero massimo di rate
 > effettivamente proposte in fase di pagamento.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagolight_segnaposto_rate_3.bmp](./assets/media/image153.png){width="5.395833333333333in"
-height="3.175in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagolight_segnaposto_rate_3.bmp](./assets/media/image153.png)
 
 [**SIMULATORE PRO**]{.underline}
 
@@ -95,8 +88,7 @@ Consente di mostrare, direttamente all'interno del proprio sito web, le
 diverse possibili opzioni di rateizzazione che verranno poi
 effettivamente proposte anche in fase di pagamento
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagolight_simulatore_pro.bmp](./assets/media/image154.png){width="5.395833333333333in"
-height="3.175in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagolight_simulatore_pro.bmp](./assets/media/image154.png)
 
 Dal punto di vista della sua configurazione vanno considerati con
 particolare attenzione i parametri di seguito indicati:
@@ -111,11 +103,9 @@ particolare attenzione i parametri di seguito indicati:
 > valorizzato con il segnaposto "Prezzo"** selezionabile dal relativo
 > menu a tendina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagolight_segnaposto_prezzo.bmp](./assets/media/image149.png){width="5.389583333333333in"
-height="3.298611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagolight_segnaposto_prezzo.bmp](./assets/media/image149.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagolight_pro_segnaposto_prezzo_2.bmp](./assets/media/image155.png){width="5.389583333333333in"
-height="3.298611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagolight_pro_segnaposto_prezzo_2.bmp](./assets/media/image155.png)
 
 - **data-heidipay-apiKey:** consente di inserire l'api key necessaria
   per il corretto funzionamento del simulatore pro.
@@ -130,8 +120,7 @@ height="3.298611111111111in"}
 > E' possibile utilizzare il segnaposto "**Numero di rate**"
 > selezionabile dal relativo menu a tendina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagolight_pro_segnaposto_rate_2.bmp](./assets/media/image156.png){width="5.389583333333333in"
-height="3.298611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagolight_pro_segnaposto_rate_2.bmp](./assets/media/image156.png)
 
 > che verrà poi sostituito a runtime con quanto inserito all'interno del
 > campo "**Numero di rate**" presente tra i parametri di configurazione
@@ -141,8 +130,7 @@ height="3.298611111111111in"}
 > ovviamente, essere gli stessi che verranno poi effettivamente proposti
 > all'utente in fase di pagamento
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagolight_pro_segnaposto_rate_3.bmp](./assets/media/image157.png){width="4.825in"
-height="3.1555555555555554in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagolight_pro_segnaposto_rate_3.bmp](./assets/media/image157.png)
 
 - **data-heidipay-pricing-structure-code:** consente di inserire il
   "Codice Tabella" necessario per il corretto funzionamento del
@@ -154,8 +142,7 @@ height="3.1555555555555554in"}
 > E' possibile utilizzare il segnaposto "**Codice Tabella**"
 > selezionabile dal relativo menu a tendina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagolight_pro_segnaposto_tabella_2.bmp](./assets/media/image158.png){width="5.389583333333333in"
-height="3.298611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagolight_pro_segnaposto_tabella_2.bmp](./assets/media/image158.png)
 
 > che verrà poi sostituito, a runtime, con quanto inserito all'interno
 > del campo "**Codice Tabella**" presente tra i parametri di

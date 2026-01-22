@@ -9,5 +9,4 @@ Formativi**", presente unicamente all'interno della Dashboard di questa
 particolare tipologia di siti, contenente alcuni video utili per la
 gestione e la personalizzazione del sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dashboard_siti_partner.bmp](./assets/media/image39.png){width="6.03125in"
-height="3.546527777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dashboard_siti_partner.bmp](./assets/media/image39.png)

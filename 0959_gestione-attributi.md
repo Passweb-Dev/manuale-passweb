@@ -10,8 +10,7 @@ utenti del proprio sito ecommerce.
 All'interno di questa pagina verrà quindi visualizzata la maschera
 **"Attributi per gli Utenti E-Commerce"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\attributi_utenti_ecommerce.bmp](./assets/media/image195.png){width="5.779166666666667in"
-height="3.4090277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\attributi_utenti_ecommerce.bmp](./assets/media/image195.png)
 
 attraverso la quale poter definire una lista di Attributi che potranno
 essere utilizzati, assieme ai campi dell'anagrafica clienti/fornitori
@@ -32,16 +31,14 @@ stessa.
 Una volta impostato un filtro di ricerca, per poterlo poi eliminare sarà
 sufficiente cliccare sull'icona raffigurante una piccola lente di
 ingrandimento con un -- all'interno (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina_filtro.bmp](./assets/media/image29.png){width="7.777777777777778e-2in"
-height="9.722222222222222e-2in"} ) che comparirà in testata alla colonna
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina_filtro.bmp](./assets/media/image29.png) ) che comparirà in testata alla colonna
 in corrispondenza della quale è stato impostato il filtro stesso.
 
 Infine è anche possibile ordinare, in maniera crescente e/o decrescente,
 gli elementi in griglia cliccando semplicemente sull'icona raffigurante
 due piccole frecce posta anch' essa in testata ad ogni singola colonna
 della griglia (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_ordinamento_griglia.bmp](./assets/media/image30.png){width="0.12361111111111112in"
-height="0.14930555555555555in"} )
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_ordinamento_griglia.bmp](./assets/media/image30.png) )
 
 All'interno di questa sezione è possibile definire, dipendentemente
 dalla tipologia di sito considerata, due diverse tipologie di Attributi:
@@ -105,13 +102,11 @@ prima cosa, portarsi all'interno della pagina **"Gestione Attributi"**
 accessibile dalla voce di menu ***"Utenti -- Configurazione Utenti Sito
 -- Gestione Attributi"*** del Wizard e cliccare, successivamente, sul
 pulsante **"Nuovo Attributo"**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuovo_attributo.bmp](./assets/media/image196.png){width="0.5777777777777777in"
-height="0.175in"} ) presente nella barra degli strumenti.
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuovo_attributo.bmp](./assets/media/image196.png) ) presente nella barra degli strumenti.
 
 In questo modo verrà infatti visualizzata la maschera **Attributi**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\definizione_attributo_cliente.bmp](./assets/media/image197.png){width="5.746527777777778in"
-height="3.3895833333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\definizione_attributo_cliente.bmp](./assets/media/image197.png)
 
 all'interno della quale poter definire le caratteristiche dell'Attributo
 che si sta realizzando.
@@ -137,8 +132,7 @@ dovrà essere mappato l'attributo utente in esame
 
 In questo senso dal relativo menu a tendina sarà possibile selezionare:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\definizione_attributo_cliente2.bmp](./assets/media/image198.png){width="5.746527777777778in"
-height="3.3895833333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\definizione_attributo_cliente2.bmp](./assets/media/image198.png)
 
 - uno qualsiasi dei campi delle Videate Aggiuntive Clienti/Fornitori di
   Mexal
@@ -263,22 +257,19 @@ Ecommerce.
 Supponendo dunque di aver selezionato il parametro in questione, ad
 esempio, per l'Attributo Utente "Professione"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\attributo_utente_ar.bmp](./assets/media/image199.png){width="5.746527777777778in"
-height="3.3833333333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\attributo_utente_ar.bmp](./assets/media/image199.png)
 
 portandoci poi in Area Riservata, all'interno della sezione Clienti,
 avremo la possibilità di ricercare gli utenti presenti in elenco anche
 sulla base di questo stesso attributo
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\attributo_utente_ar_2.bmp](./assets/media/image200.png){width="5.552083333333333in"
-height="3.4090277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\attributo_utente_ar_2.bmp](./assets/media/image200.png)
 
 In queste condizioni, inoltre, l'attributo indicato comparirà anche
 (**se opportunamente valorizzato**) tra le informazioni aggiuntive dello
 specifico cliente
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\attributo_utente_ar_3.bmp](./assets/media/image201.png){width="5.552083333333333in"
-height="3.4090277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\attributo_utente_ar_3.bmp](./assets/media/image201.png)
 
 **Etichetta del campo**: consente di specificare, in tutte le lingue
 attualmente gestite, la label da utilizzare per l'attributo in esame nel
@@ -305,13 +296,11 @@ prima cosa, portarsi all'interno della pagina **"Gestione Attributi"**
 accessibile dalla voce di menu ***"Utenti -- Gestione Parametri Utente
 Ecommerce"*** del Wizard e cliccare, successivamente, sul pulsante
 **"Nuovo Attributo"**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuovo_attributo.bmp](./assets/media/image196.png){width="0.5777777777777777in"
-height="0.175in"} ) presente nella barra degli strumenti.
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuovo_attributo.bmp](./assets/media/image196.png) ) presente nella barra degli strumenti.
 
 In questo modo verrà infatti visualizzata la maschera **Attributi**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\definizione_attributo_cliente3.bmp](./assets/media/image202.png){width="5.746527777777778in"
-height="3.3833333333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\definizione_attributo_cliente3.bmp](./assets/media/image202.png)
 
 all'interno della quale poter definire le caratteristiche dell'Attributo
 che si sta realizzando.
@@ -362,8 +351,7 @@ parte dell'utente agendo, ad esempio, sul form di registrazione al sito,
 oppure dall'amministratore del sito agendo dalla sezione "**Attributi**"
 della maschera "**Dati Utente**" del Wizard.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dati_utente_attributi.bmp](./assets/media/image203.png){width="5.746527777777778in"
-height="3.3895833333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dati_utente_attributi.bmp](./assets/media/image203.png)
 
 **Visualizza in Area Riservata**: consente di indicare se l'attributo in
 esame dovrà o meno essere presente anche nel **form di ricerca** della
@@ -373,22 +361,19 @@ Ecommerce.
 Supponendo dunque di aver selezionato il parametro in questione, ad
 esempio, per l'Attributo Utente "Professione"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\attributo_passweb_ar.bmp](./assets/media/image204.png){width="5.746527777777778in"
-height="3.3833333333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\attributo_passweb_ar.bmp](./assets/media/image204.png)
 
 portandoci poi in Area Riservata, all'interno della sezione Clienti,
 avremo la possibilità di ricercare gli utenti presenti in elenco anche
 sulla base di questo stesso attributo
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\attributo_utente_ar_2.bmp](./assets/media/image200.png){width="5.552083333333333in"
-height="3.4090277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\attributo_utente_ar_2.bmp](./assets/media/image200.png)
 
 In queste condizioni, inoltre, l'attributo indicato comparirà anche
 (**se opportunamente valorizzato**) tra le informazioni aggiuntive dello
 specifico cliente
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\attributo_utente_ar_3.bmp](./assets/media/image201.png){width="5.552083333333333in"
-height="3.4090277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\attributo_utente_ar_3.bmp](./assets/media/image201.png)
 
 **Etichetta del campo**: consente di specificare, in tutte le lingue
 attualmente gestite, la label da utilizzare per l'attributo in esame nel
@@ -406,27 +391,22 @@ Tornando ora a prendere in considerazione la maschera principale
 "Attributi per gli utenti Ecommerce" i pulsanti presenti nella barra
 degli strumenti consentono rispettivamente di:
 
-![Videate\\attributi_utenti_ecommerce.bmp](./assets/media/image195.png){width="5.779166666666667in"
-height="3.4090277777777778in"}
+![Videate\\attributi_utenti_ecommerce.bmp](./assets/media/image195.png)
 
 **Modifica Attributo**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_attributo.bmp](./assets/media/image205.png){width="0.6430555555555556in"
-height="0.175in"} ): permette di variare le proprietà dell'attributo
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_attributo.bmp](./assets/media/image205.png) ): permette di variare le proprietà dell'attributo
 selezionato.
 
 **Elimina Attributo**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_attributo.bmp](./assets/media/image206.png){width="0.6041666666666666in"
-height="0.16875in"} ): permette di eliminare definitivamente l'attributo
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_attributo.bmp](./assets/media/image206.png) ): permette di eliminare definitivamente l'attributo
 selezionato.
 
 **Nuovo Attributo**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuovo_attributo.bmp](./assets/media/image196.png){width="0.5777777777777777in"
-height="0.175in"} ): permette di accedere alla maschera di creazione di
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuovo_attributo.bmp](./assets/media/image196.png) ): permette di accedere alla maschera di creazione di
 un nuovo attributo precedentemente esaminata
 
 **Utilità**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_utilita.bmp](./assets/media/image207.png){width="0.31805555555555554in"
-height="0.1951388888888889in"} ): consente di richiamare alcune
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_utilita.bmp](./assets/media/image207.png) ): consente di richiamare alcune
 procedure automatiche che potranno essere effettuate sulle anagrafiche
 di tutti i clienti gestiti sul sito.
 
@@ -444,24 +424,20 @@ utenti all'interno delle apposite pagine del sito web).
 Nella barra degli strumenti compariranno ora nuove icone a ciascuna
 delle quali sarà associata una specifica procedura.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\attributi_cliente_utilita.bmp](./assets/media/image208.png){width="5.759722222222222in"
-height="3.4027777777777777in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\attributi_cliente_utilita.bmp](./assets/media/image208.png)
 
 In particolare il pulsante:
 
 **Azzera** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_azzera.bmp](./assets/media/image209.png){width="0.31805555555555554in"
-height="0.175in"} ): consente di rimuovere, per tutti i clienti gestiti
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_azzera.bmp](./assets/media/image209.png) ): consente di rimuovere, per tutti i clienti gestiti
 all'interno del sito il valore degli attributi selezionati in elenco
 
 **Deseleziona**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_deseleziona.bmp](./assets/media/image24.png){width="0.5131944444444444in"
-height="0.1951388888888889in"} ): consente di deselezionare in un colpo
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_deseleziona.bmp](./assets/media/image24.png) ): consente di deselezionare in un colpo
 solo tutti gli attributi attualmente selezionati in elenco.
 
 **Gestione**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_gestione.bmp](./assets/media/image210.png){width="0.4152777777777778in"
-height="0.1951388888888889in"} ): consente di uscire dalla sezione
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_gestione.bmp](./assets/media/image210.png) ): consente di uscire dalla sezione
 relativa alle Utilità tornando quindi alla normale gestione degli
 Attributi Cliente.
 

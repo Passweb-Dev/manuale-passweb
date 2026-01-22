@@ -6,8 +6,7 @@ Passweb mette a disposizione dei propri utenti la possibilità di
 integrare il proprio sito con MailChimp, uno dei più diffusi ed
 utilizzati servizi on line di distribuzione di Newsletter.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mail_chimp_didascalia.bmp](./assets/media/image1.png){width="6.631944444444445in"
-height="4.472222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mail_chimp_didascalia.bmp](./assets/media/image1.png)
 
 Grazie all'integrazione con Mailchimp sarà possibile:
 

@@ -46,8 +46,7 @@ impostare, oltre ai parametri classici di configurazione del pagamento,
 anche quelli specifici del gateway attualmente considerato e presenti
 all'interno della sezione " **Parametri Gateway**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_paypal_checkout.bmp](./assets/media/image165.png){width="5.2659722222222225in"
-height="3.123611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_paypal_checkout.bmp](./assets/media/image165.png)
 
 Nello specifico all'interno di questa sezione il campo:
 
@@ -81,14 +80,12 @@ Nello specifico all'interno di questa sezione il campo:
   visualizzato direttamente nella singola pagina prodotto (mediante
   l'utilizzo del Componente Ecommerce "Simulatore del Pagamento")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\paypal_banner_rate_esempio_1.bmp](./assets/media/image166.png){width="4.447916666666667in"
-height="3.214583333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\paypal_banner_rate_esempio_1.bmp](./assets/media/image166.png)
 
 > oppure in fase di checkout in corrispondenza della relativa modalità
 > di pagamento
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\paypal_banner_rate_esempio_2.bmp](./assets/media/image167.png){width="4.447916666666667in"
-height="3.214583333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\paypal_banner_rate_esempio_2.bmp](./assets/media/image167.png)
 
 > **ATTENZIONE! la rateizzazione del pagamento è gestita interamente da
 > PayPal**
@@ -97,8 +94,7 @@ height="3.214583333333333in"}
 > sito di PayPal partendo, ad esempio, dal seguente link
 > <https://www.paypal.com/ppcredit/messaging/customize>
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\paypal_banner_rate_configurazione.bmp](./assets/media/image168.png){width="5.220833333333333in"
-height="3.1951388888888888in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\paypal_banner_rate_configurazione.bmp](./assets/media/image168.png)
 
 > Una volta impostati i parametri di configurazione desiderati
 > (posizionamento, logo, colori ...) sarà sufficiente cliccare sul
@@ -107,8 +103,7 @@ height="3.1951388888888888in"}
 > copiato e incollato nei parametri di configurazione del pagamento
 > Passweb.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\paypal_banner_rate_configurazione_2.bmp](./assets/media/image169.png){width="5.220833333333333in"
-height="3.201388888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\paypal_banner_rate_configurazione_2.bmp](./assets/media/image169.png)
 
 > In particolare, come evidenziato nella figura sopra riportata,
 > all'interno di questa pagina verranno forniti due diversi snippet di
@@ -161,8 +156,7 @@ carta di credito (pulsante "**Paga con una carta**") oppure utilizzando
 il proprio account PayPal (pulsante "**Accedi**" dopo aver inserito le
 credenziali del proprio account)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamento_paypal_checkout.bmp](./assets/media/image160.png){width="4.967361111111111in"
-height="3.1104166666666666in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamento_paypal_checkout.bmp](./assets/media/image160.png)
 
 **A questo punto però l'ordine non è ancora stato preso in carico da
 PayPal e, conseguentemente, non è ancora avvenuto alcun pagamento**.
@@ -186,8 +180,7 @@ Nel secondo caso, una volta scelta la modalità di pagamento (Carta o
 Account PayPal ) verrà presentata all'utente una pagina web con il
 riassunto dei dati relativi alla transazione in essere.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamento_paypal_checkout_1.bmp](./assets/media/image161.png){width="4.967361111111111in"
-height="3.1104166666666666in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamento_paypal_checkout_1.bmp](./assets/media/image161.png)
 
 Cliccando sul pulsante "**Paga Adesso**" verrà completata la relativa
 transazione e l'utente verrà automaticamente ricondotto al sito

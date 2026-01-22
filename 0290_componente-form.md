@@ -10,8 +10,7 @@ essere inviati ad un indirizzo mail specifico oppure salvati in formato
 .xml o .csv per essere successivamente scaricati direttamente da
 Passweb.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_form.bmp](./assets/media/image111.png){width="2.825in"
-height="3.467361111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_form.bmp](./assets/media/image111.png)
 
 Il componente Form, inoltre, può essere utilizzato anche per:
 

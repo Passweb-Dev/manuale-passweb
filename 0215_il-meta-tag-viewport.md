@@ -39,8 +39,7 @@ assegnare al viewport esattamente la larghezza del device perché saremo
 poi noi ad occuparci di ottimizzare i contenuti e non avremo quindi
 bisogno di alcun adattamento automatico.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gr_1.png](./assets/media/image46.png){width="2.8208333333333333in"
-height="2.4180555555555556in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gr_1.png](./assets/media/image46.png)
 
 Per la pagina raffigurata a sinistra non è stato specificato alcun meta
 tag viewport. Di conseguenza il browser del dispositivo mobile

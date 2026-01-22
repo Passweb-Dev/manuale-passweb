@@ -9,8 +9,7 @@ per prima cosa, di aver creato, lato MailChimp, la lista utilizzata per
 gestire gli iscritti alla Newsletter, con il campo "**Enable GDPR
 fields**" opportunamente selezionato.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_gdpr_1.bmp](./assets/media/image38.png){width="4.584722222222222in"
-height="2.5in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_gdpr_1.bmp](./assets/media/image38.png)
 
 In queste condizioni il form di iscrizione associato in automatico da
 MailChimp alla lista in esame, conterrà già alcuni campi necessari per
@@ -19,8 +18,7 @@ per potersi effettivamente iscrivere alla Newsletter, campi questi che
 potranno tranquillamente essere integrati, eliminati e personalizzati
 secondo le normali modalità di editing proprie di MailChimp.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_gdpr_2.bmp](./assets/media/image39.png){width="4.584722222222222in"
-height="3.1104166666666666in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_gdpr_2.bmp](./assets/media/image39.png)
 
 **ATTENZIONE!** Non è possibile, per ovvie ragioni, eliminare
 completamente tutti i check presenti all'interno della sezione
@@ -34,8 +32,7 @@ ulteriore elemento denominato "**Marketing Permission**" necessario per
 poter gestire la corrispondente sezione presente all'interno del form di
 iscrizione configurato su MailChimp.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_gdpr_3.bmp](./assets/media/image40.png){width="5.1625in"
-height="3.4868055555555557in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_gdpr_3.bmp](./assets/media/image40.png)
 
 **ATTENZIONE!** Il componente "Marketing Permission" non può essere
 eliminato operando direttamente da Passweb.
@@ -114,8 +111,7 @@ quanto presente all'interno del campo "**Field label**" del
 corrispondente componente "Marketing Permission" presente sul form di
 iscrizione MailChimp
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_gdpr_5.bmp](./assets/media/image41.png){width="5.1625in"
-height="3.4868055555555557in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_gdpr_5.bmp](./assets/media/image41.png)
 
 **Descrizione:** consente di personalizzare, in ciascuna delle lingue
 attualmente gestite sul sito, la descrizione visualizzata per questo
@@ -127,24 +123,21 @@ quanto presente all'interno del campo "**Description**" del
 corrispondente componente "Marketing Permission" presente sul form di
 iscrizione MailChimp
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_gdpr_6.bmp](./assets/media/image42.png){width="5.1625in"
-height="3.4868055555555557in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_gdpr_6.bmp](./assets/media/image42.png)
 
 **Ulteriore Testo:** consente di personalizzare, in ciascuna delle
 lingue attualmente gestite sul sito, quanto presente all'interno del
 campo "**Legal Text**" del corrispondente componente "Marketing
 Permission" presente sul form di iscrizione MailChimp
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_gdpr_7.bmp](./assets/media/image43.png){width="5.1625in"
-height="3.4868055555555557in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_gdpr_7.bmp](./assets/media/image43.png)
 
 **Testo Legale MailChimp:** consente di personalizzare, in ciascuna
 delle lingue attualmente gestite sul sito, il "Testo Legale Mailchimp"
 ossia quel particolare testo che compare al di sotto dei check di
 selezione dei consensi.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_gdpr_8.bmp](./assets/media/image44.png){width="5.1625in"
-height="3.4868055555555557in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_gdpr_8.bmp](./assets/media/image44.png)
 
 **ATTENZIONE!** Considerando che il "**Testo Legale MailChimp**" è
 quello che viene utilizzato per esplicitare il fatto che i dati verranno
@@ -163,8 +156,7 @@ comunicazioni di carattere commerciale.
 quanto impostato lato MailChimp in corrispondenza del parametro
 "**Require at least one option**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_gdpr_9.bmp](./assets/media/image45.png){width="5.1625in"
-height="3.4868055555555557in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_gdpr_9.bmp](./assets/media/image45.png)
 
 Nel momento in cui, lato MailChimp, dovesse quindi essere stato
 selezionato il check evidenziato in figura, sarà poi necessario
@@ -175,13 +167,11 @@ La sezione "**Gestione valori"** consente di definire e gestire le
 diverse possibili opzioni di scelta che verranno visualizzate
 all'interno del controllo.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mailchimp_gdpr_10.bmp](./assets/media/image46.png){width="5.902777777777778in"
-height="3.7729166666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mailchimp_gdpr_10.bmp](./assets/media/image46.png)
 
 Per aggiungere una nuova opzione di scelta al controllo è sufficiente
 cliccare sul relativo pulsante di aggiunta nuovo elemento (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_aggiungi.bmp](./assets/media/image47.png){width="0.18194444444444444in"
-height="0.18194444444444444in"} ) e inserire poi i dati di
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_aggiungi.bmp](./assets/media/image47.png) ) e inserire poi i dati di
 configurazione dell'elemento stesso nella parte destra della maschera.
 
 Per ciascuna delle possibili opzioni di scelta sarà necessario indicare:
@@ -215,13 +205,11 @@ Gli altri pulsanti presenti nella parte sinistra della maschera
 consentono rispettivamente di:
 
 - **Elimina elemento** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina.bmp](./assets/media/image48.png){width="0.175in"
-  height="0.18194444444444444in"} ): consente di eliminare l'elemento
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina.bmp](./assets/media/image48.png) ): consente di eliminare l'elemento
   attualmente selezionata in elenco
 
 - **Sposta su / giù**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icone_su_giu.bmp](./assets/media/image49.png){width="0.3701388888888889in"
-  height="0.21458333333333332in"} ): consente di riordinare tra loro le
+  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icone_su_giu.bmp](./assets/media/image49.png) ): consente di riordinare tra loro le
   varie opzioni di scelta spostando verso l'alto o il basso l'elemento
   attualmente selezionato in elenco.
 
@@ -240,8 +228,7 @@ scelta sarà necessario:
   form di iscrizione configurato su MailChimp assegnando a ciascuna di
   esse uno specifico valore
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_gdpr_11.bmp](./assets/media/image50.png){width="5.1625in"
-height="3.4868055555555557in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_gdpr_11.bmp](./assets/media/image50.png)
 
 - Inserire all'interno della sezione "Gestione Valori" del Componente
   Passweb "Marketing Permission" esattamente le stesse opzioni di scelta

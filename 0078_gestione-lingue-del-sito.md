@@ -11,8 +11,7 @@ Accedendo a questa pagina verrà quindi visualizzato un elenco di tutte
 le lingue che possono essere effettivamente attivate e gestite per il
 proprio sito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_lingue.bmp](./assets/media/image424.png){width="5.727083333333334in"
-height="3.49375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_lingue.bmp](./assets/media/image424.png)
 
 I tre check presenti in corrispondenza di ciascuna lingua presente in
 elenco consentono rispettivamente di:

@@ -34,11 +34,9 @@ Per poter implementare questa opzione sarà sufficiente inserire nei form
 di Registrazione e Profilo Utente un componente "**Campo Checkbox**"
 mappato sul Campo Cliente "**Opt Out Telegram**" come in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\privacy_telegram_optout_1.bmp](./assets/media/image33.png){width="4.402777777777778in"
-height="3.201388888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\privacy_telegram_optout_1.bmp](./assets/media/image33.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\privacy_telegram_optout_2.bmp](./assets/media/image34.png){width="5.519444444444445in"
-height="3.571527777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\privacy_telegram_optout_2.bmp](./assets/media/image34.png)
 
 In questo modo gli utenti che non avranno esercitato questa specifica
 opzione, e che avranno ovviamente completato il processo di connessione

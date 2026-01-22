@@ -11,8 +11,7 @@ All'interno di questa sezione è possibile:
   esame ed inviati quindi a sistemi quali Google Analytics, Google Ads o
   Facebook
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dettaglio_ordine_tracciamento_dati.bmp](./assets/media/image680.png){width="5.798611111111111in"
-height="3.6104166666666666in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dettaglio_ordine_tracciamento_dati.bmp](./assets/media/image680.png)
 
 Nello specifico dunque il parametro:
 

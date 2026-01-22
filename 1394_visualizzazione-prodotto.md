@@ -54,8 +54,7 @@ Per verificare che l'evento in questione venga tracciato in maniera
 corretta è sufficiente accedere al report "**Ecommerce log**" e passare
 con il mouse sull'azione relativa alla vista alla pagina prodotto.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_report_26.bmp](./assets/media/image30.png){width="5.157638888888889in"
-height="3.0722222222222224in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_report_26.bmp](./assets/media/image30.png)
 
 Se l'evento è stato tracciato in maniera corretta, come evidenziato
 nella figura sopra riportata, nel relativo tooltip oltre ai dati della

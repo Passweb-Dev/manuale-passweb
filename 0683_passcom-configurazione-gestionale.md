@@ -7,8 +7,7 @@ menu principale **"Configurazione"** consente di gestire i parametri di
 connessione con il server Passcom, sia esso installato presso la Web
 Farm di Passepartout oppure in locale presso il cliente.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\passcom_configurazione_gestionale_generale.bmp](./assets/media/image143.png){width="5.532638888888889in"
-height="3.49375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\passcom_configurazione_gestionale_generale.bmp](./assets/media/image143.png)
 
 **I parametri di configurazione necessari per realizzare l'integrazione
 tra il proprio sito web e il gestionale saranno diversi a seconda del

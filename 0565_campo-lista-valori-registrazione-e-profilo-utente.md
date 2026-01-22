@@ -4,8 +4,7 @@
 
 Il Componente **"Campo Lista Valori"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\campo_lista_valori_registrazione_res.bmp](./assets/media/image109.png){width="2.5194444444444444in"
-height="2.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\campo_lista_valori_registrazione_res.bmp](./assets/media/image109.png)
 
 consente di inserire all'interno dei form di Registrazione e di Profilo
 Utente un'etichetta (label) seguita da un menù a tendina (drop down
@@ -15,8 +14,7 @@ idoneo.
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_iu_lista_valori_configurazione_res.bmp](./assets/media/image110.png){width="4.584722222222222in"
-height="2.915277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_iu_lista_valori_configurazione_res.bmp](./assets/media/image110.png)
 
 suddivisa in varie sezioni.
 
@@ -300,8 +298,7 @@ sia impostato sul valore:
 > al campo "Categoria Statistica" presente sul gestionale all'interno
 > della maschera "Condizioni generali del soggetto"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\categoria_statistica_utente_mexal.bmp](./assets/media/image111.png){width="4.610416666666667in"
-height="1.707638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\categoria_statistica_utente_mexal.bmp](./assets/media/image111.png)
 
 > Selezionando una delle opzioni presenti all'interno del menu a tendina
 > l'utente verrà quindi associato alla relativa Categoria Statistica.
@@ -393,12 +390,10 @@ all'interno del controllo.
 
 Per aggiungere una nuova opzione di scelta al controllo è sufficiente
 cliccare sul relativo pulsante di aggiunta nuovo elemento (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_aggiungi.bmp](./assets/media/image47.png){width="0.18194444444444444in"
-height="0.18194444444444444in"} ) e inserire poi i dati di
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_aggiungi.bmp](./assets/media/image47.png) ) e inserire poi i dati di
 configurazione dell'elemento stesso nella parte destra della maschera.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\Form_radio_nuovo_valore_res.bmp](./assets/media/image112.png){width="4.590972222222222in"
-height="1.8895833333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\Form_radio_nuovo_valore_res.bmp](./assets/media/image112.png)
 
 Per ciascuna delle possibili opzioni di scelta sarà necessario indicare:
 
@@ -431,13 +426,11 @@ Gli altri pulsanti presenti nella parte sinistra della maschera
 consentono rispettivamente di:
 
 - **Elimina elemento** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina.bmp](./assets/media/image48.png){width="0.175in"
-  height="0.18194444444444444in"} ): consente di eliminare l'elemento
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina.bmp](./assets/media/image48.png) ): consente di eliminare l'elemento
   attualmente selezionata in elenco
 
 - **Sposta su / giù**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icone_su_giu.bmp](./assets/media/image49.png){width="0.3701388888888889in"
-  height="0.21458333333333332in"} ): consente di riordinare tra loro le
+  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icone_su_giu.bmp](./assets/media/image49.png) ): consente di riordinare tra loro le
   varie opzioni di scelta spostando verso l'alto o il basso l'elemento
   attualmente selezionato in elenco.
 

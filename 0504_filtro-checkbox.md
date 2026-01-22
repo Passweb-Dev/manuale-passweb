@@ -4,8 +4,7 @@
 
 Il Componente **"Filtro Checkbox"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_filtro_check_res.bmp](./assets/media/image619.png){width="2.5340277777777778in"
-height="2.5458333333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_filtro_check_res.bmp](./assets/media/image619.png)
 
 **può essere inserito unicamente all'interno del componente Ecommerce di
 primo livello "Ricerca".**
@@ -16,8 +15,7 @@ relativo checkbox) di tutti i possibili valori assunti (per gli articoli
 gestiti all'interno del sito) dall'Attributo Articolo o dal campo Mexal
 che verrà fatto corrispondere al componente in esame.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\flitro_check_1.bmp](./assets/media/image620.png){width="5.208333333333333in"
-height="3.509027777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\flitro_check_1.bmp](./assets/media/image620.png)
 
 Ogni singola voce di questo elenco, se selezionata (flaggando l'apposito
 check), consentirà di filtrare gli articoli in catalogo sulla base del
@@ -42,8 +40,7 @@ Rilasciando il Componente nella posizione desiderata all'interno della
 pagina web, verrà visualizzata **la sua maschera di gestione e
 configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_filtro_checkbox_configurazione_res.bmp](./assets/media/image621.png){width="5.153472222222222in"
-height="3.092361111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_filtro_checkbox_configurazione_res.bmp](./assets/media/image621.png)
 
 suddivisa in varie sezioni.
 
@@ -122,8 +119,7 @@ assume quello specifico valore.
 visualizzare al posto del classico check box un controllo "on/off" di
 tipo Toggle Switch
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\toggle_switch.bmp](./assets/media/image622.png){width="5.478472222222222in"
-height="3.3555555555555556in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\toggle_switch.bmp](./assets/media/image622.png)
 
 **Tipo di visualizzazione per dispositivi mobili \< 992px:** consente di
 indicare come dovrà essere gestita la visualizzazione del componente per
@@ -136,8 +132,7 @@ E' possibile selezionare una delle seguenti opzioni.
   controllo di tipo Drop Down. Nella pagina sarà quindi presente una
   label del tipo di quella evidenziata in figura.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\filtro_check_opzione_mobile.bmp](./assets/media/image623.png){width="1.7604166666666667in"
-height="3.803472222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\filtro_check_opzione_mobile.bmp](./assets/media/image623.png)
 
 > Cliccando sulla label evidenziata verrà aperto un piccolo Pop Up
 > contenente tutte le diverse possibili opzioni di scelta offerte dal

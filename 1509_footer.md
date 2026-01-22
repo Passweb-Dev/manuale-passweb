@@ -15,8 +15,7 @@ Le informazioni racchiuse da questo tag sono, tipicamente, informazioni
 relative all'autore dei contenuti della sezione cui il footer fa
 riferimento, al copyright, ai termini di licenza ecc...
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\html5_8.bmp](./assets/media/image9.png){width="3.8090277777777777in"
-height="0.1840277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\html5_8.bmp](./assets/media/image9.png)
 
 Ovviamente, sulla base di quanto detto, è semplice comprendere come
 anche in questo caso possano esistere più elementi footer all'interno di
@@ -34,8 +33,7 @@ Per poter implementare in Passweb questo tag semantico è necessario
 utilizzare un Componente Contenitore configurato come nella figura di
 seguito riportata:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\html5_9.bmp](./assets/media/image10.png){width="4.605555555555555in"
-height="3.0395833333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\html5_9.bmp](./assets/media/image10.png)
 
 I contenuti del footer della sezione andranno quindi inseriti, mediante
 gli appositi componenti Passweb, all'interno di questo contenitore.

@@ -87,8 +87,7 @@ Tipologia Ruolo **Utente**:
 La maschera "**Gestione Ruoli**" visibile accedendo alla sezione
 "*Utenti -- Utenti Passweb - Utenti*" del Wizard
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_ruoli_0.bmp](./assets/media/image1.png){width="5.746527777777778in"
-height="3.3895833333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_ruoli_0.bmp](./assets/media/image1.png)
 
 consente di visualizzare e gestire i Ruoli attualmente codificati
 all'interno del proprio ambiente di sviluppo.
@@ -106,13 +105,11 @@ I pulsanti presenti nella contestuale barra degli strumenti consentono
 rispettivamente di:
 
 **Aggiungi Ruolo** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_ruolo.bmp](./assets/media/image2.png){width="0.5777777777777777in"
-height="0.18819444444444444in"} ): consente di aggiungere un nuovo
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_ruolo.bmp](./assets/media/image2.png) ): consente di aggiungere un nuovo
 Ruolo. Cliccando su questo pulsante verrà quindi visualizzata la
 maschera "Nuovo Ruolo"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuovo_ruolo.bmp](./assets/media/image3.png){width="5.5in"
-height="3.4743055555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuovo_ruolo.bmp](./assets/media/image3.png)
 
 All'interno della sezione "**Generale**" è possibile indicare un valore
 per i seguenti parametri:
@@ -240,23 +237,20 @@ Il pulsante "**Salva**" presente nella parte bassa della maschera
 consente di salvare i dati impostati creando di fatto il nuovo Ruolo
 
 **Modifica Ruolo** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_ruolo.bmp](./assets/media/image4.png){width="0.5652777777777778in"
-height="0.175in"} ): consente di modificare, per il Ruolo attualmente
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_ruolo.bmp](./assets/media/image4.png) ): consente di modificare, per il Ruolo attualmente
 selezionato, le impostazioni relative ai dati statistici che gli utenti
 potranno poi visualizzare nella Dashboard del Wizard.
 
 Cliccando su questo pulsante verrà quindi visualizzata la maschera
 "**Modifica Ruolo**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_ruolo.bmp](./assets/media/image5.png){width="5.480555555555555in"
-height="3.2402777777777776in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_ruolo.bmp](./assets/media/image5.png)
 
 all'interno della quale poter modificare i parametri della sezione
 "Dashboard" precedentemente analizzata
 
 **Elimina Ruolo** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_ruolo.bmp](./assets/media/image6.png){width="0.5131944444444444in"
-height="0.175in"} ): visibile solo nel caso in cui il Ruolo selezionato
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_ruolo.bmp](./assets/media/image6.png) ): visibile solo nel caso in cui il Ruolo selezionato
 in elenco non sia uno di quelli Standard presenti a default in ogni sito
 Passweb.
 
@@ -266,15 +260,13 @@ Consente di eliminare il Ruolo attualmente selezionato in elenco.
 rimozione di tutti gli utenti legati a quello stesso ruolo**
 
 **Gestisci gli Utenti per questo Ruolo** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_gestisci_utenti_ruoli.bmp](./assets/media/image7.png){width="1.175in"
-height="0.175in"} ): consente di definire gli utenti appartenenti al
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_gestisci_utenti_ruoli.bmp](./assets/media/image7.png) ): consente di definire gli utenti appartenenti al
 Ruolo attualmente selezionato in elenco.
 
 Cliccando su questo pulsante verrà quindi visualizzata la maschera
 **"Lista Utenti Ruolo -- Nome Ruolo"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\utenti_per_ruolo.bmp](./assets/media/image8.png){width="4.986805555555556in"
-height="2.9347222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\utenti_per_ruolo.bmp](./assets/media/image8.png)
 
 all'interno della quale verrà visualizzato l'elenco di tutti gli utenti
 attualmente associati al Ruolo in oggetto.
@@ -288,23 +280,19 @@ I pulsanti presenti nella barra degli strumenti consentono
 rispettivamente di:
 
 - **Nuovo Utente** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuovo_utente.bmp](./assets/media/image9.png){width="0.5388888888888889in"
-  height="0.1951388888888889in"} ): consente di creare un nuovo utente
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuovo_utente.bmp](./assets/media/image9.png) ): consente di creare un nuovo utente
   da associare alla tipologia di Ruolo in oggetto.
 
 - **Modifica Utente**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_utente.bmp](./assets/media/image10.png){width="0.5847222222222223in"
-  height="0.18819444444444444in"} ) : consente di modificare
+  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_utente.bmp](./assets/media/image10.png) ) : consente di modificare
   l'anagrafica dell'utente attualmente selezionato.
 
 - **Elimina Utente**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_utente.bmp](./assets/media/image11.png){width="0.5388888888888889in"
-  height="0.18194444444444444in"} ) : consente di eliminare l'anagrafica
+  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_utente.bmp](./assets/media/image11.png) ) : consente di eliminare l'anagrafica
   dell'utente attualmente selezionato.
 
 **Modifica Permessi**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_permessi.bmp](./assets/media/image12.png){width="0.6430555555555556in"
-height="0.175in"} ): consente di definire lo schema di permessi da
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_permessi.bmp](./assets/media/image12.png) ): consente di definire lo schema di permessi da
 associare al Ruolo attualmente selezionato
 
 **NOTA BENE**: non è possibile modificare lo schema di permessi del
@@ -313,8 +301,7 @@ Ruolo a cui si appartiene.
 Cliccando su questo pulsante verrà quindi visualizzata la maschera
 **"Gestione Ruolo Utente"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\utentipassweb_modifica_ruolo.bmp](./assets/media/image13.png){width="5.714583333333334in"
-height="3.370138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\utentipassweb_modifica_ruolo.bmp](./assets/media/image13.png)
 
 attraverso la quale poter definire lo schema di permessi da associare
 alla tipologia ruolo in oggetto. Tale maschera è suddivisa in due

@@ -15,8 +15,7 @@ specifico, mediante i parametri presenti all'interno dei box "**Elimina
 con regolarità i vecchi dati grezzi**", "**Elimina i dati dei vecchi
 report aggregati**" e "**Pianifica la cancellazione dei vecchi dati**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_12.bmp](./assets/media/image12.png){width="4.157638888888889in"
-height="4.704166666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_12.bmp](./assets/media/image12.png)
 
 **ATTENZIONE!** come indicato nella documentazione ufficiale di Matomo
 <https://matomo.org/faq/general/configure-privacy-settings-in-matomo/#step-2-regularly-delete-old-raw-visitor-data>
@@ -33,6 +32,5 @@ molto semplice operando all'interno della sezione "**Strumenti GDPR**"
 presente all'interno del menu "**Privacy**" nel pannello di
 Amministrazione della propria installazione Matomo
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_18.bmp](./assets/media/image13.png){width="4.157638888888889in"
-height="4.704166666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_18.bmp](./assets/media/image13.png)
 

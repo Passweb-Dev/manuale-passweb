@@ -23,8 +23,7 @@ Articoli*") selezionando il Composto in esame, attivando il check
 tra cui l'utente potrà muoversi per ogni singolo componente del
 Campionario.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\articoli_composti7.bmp](./assets/media/image92.png){width="5.809722222222222in"
-height="3.5215277777777776in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\articoli_composti7.bmp](./assets/media/image92.png)
 
 **ATTENZIONE!** Per maggiori informazioni relativamente a come rendere
 configurabile un articolo Composto e come poter impostare per ogni
@@ -52,8 +51,7 @@ Nello specifico sarà necessario:
 - L'elenco degli articoli Componenti deve essere ben definito e
   realizzato quindi mediante l'opzione "**Articoli Prestabiliti**"
 
-![Videate\\articoli_composti2.bmp](./assets/media/image87.png){width="5.092361111111111in"
-height="3.270138888888889in"}
+![Videate\\articoli_composti2.bmp](./assets/media/image87.png)
 
 > **ATTENZIONE!** Non sono attualmente gestiti Articoli Composti in cui
 > la lista dei Componenti è definita mediante le opzioni gestionali
@@ -69,15 +67,13 @@ height="3.270138888888889in"}
 > correttamente in Cassa ordini web contenenti questo tipo di
 > articoli.**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\articoli_composti8.bmp](./assets/media/image93.png){width="4.4847222222222225in"
-height="3.073611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\articoli_composti8.bmp](./assets/media/image93.png)
 
 - A differenza dei Composti Semplici, in queste condizioni, **è
   possibile gestire lato web anche gli elementi del Composto per i quali
   non è stato selezionato, lato gestionale, il campo "Predefinito".**
 
-![Videate\\articoli_composti3.bmp](./assets/media/image88.png){width="5.092361111111111in"
-height="3.270138888888889in"}
+![Videate\\articoli_composti3.bmp](./assets/media/image88.png)
 
 > Nell'esempio riportato in figura il prodotto "acqua di Gio" è presente
 > nella lista degli "Articoli Prestabiliti" del Composto "Cesto Regalo"
@@ -100,8 +96,7 @@ come comporre il suo Box scegliendo quali articoli inserire, ed
 eventualmente in che quantità, e quali no, il tutto ovviamente sempre
 nei limiti impostati in fase di abilitazione del Composto Configurabile.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\articoli_composti9.bmp](./assets/media/image94.png){width="5.803472222222222in"
-height="4.251388888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\articoli_composti9.bmp](./assets/media/image94.png)
 
 Per ogni singolo componente potrà quindi essere visualizzato:
 
@@ -122,8 +117,7 @@ Per ogni singolo componente potrà quindi essere visualizzato:
   componente la quantità con cui quello stesso articolo dovrà essere
   inserito nel Box.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\articoli_composti10.bmp](./assets/media/image95.png){width="5.803472222222222in"
-height="4.251388888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\articoli_composti10.bmp](./assets/media/image95.png)
 
 > **ATTENZIONE!** Per visualizzare tale campo sarà necessario inserire,
 > in fase di creazione della scheda prodotto, all'interno del componente
@@ -135,15 +129,13 @@ height="4.251388888888889in"}
 > Carrello") con **l'indicazione delle quantità minima e massima
 > impostabili per lo specifico componente.**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\articoli_composti11.bmp](./assets/media/image96.png){width="5.803472222222222in"
-height="4.251388888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\articoli_composti11.bmp](./assets/media/image96.png)
 
 > Il valore minimo coincide con quello impostato all'interno del campo
 > "**Quantità Minima**" e definito, lato Passweb, in fase di
 > abilitazione del singolo componente del Campionario
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\articoli_composti12.bmp](./assets/media/image97.png){width="5.809722222222222in"
-height="3.5215277777777776in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\articoli_composti12.bmp](./assets/media/image97.png)
 
 > **ATTENZIONE! Se l'esigenza dovesse essere quella di rendere un
 > componente del Box non obbligatorio (come ad esempio dovrebbe essere
@@ -164,8 +156,7 @@ height="3.5215277777777776in"}
 > Il valore massimo coincide invece con la quantità impostata per lo
 > specifico elemento lato gestionale all'interno del campo **Max**
 
-![Videate\\articoli_composti4.bmp](./assets/media/image89.png){width="4.686805555555556in"
-height="2.828472222222222in"}
+![Videate\\articoli_composti4.bmp](./assets/media/image89.png)
 
 > Infine **nel caso in cui lo specifico componente del Campionario fosse
 > stato impostato come "Non Configurabile" (parametro "Abilita
@@ -173,8 +164,7 @@ height="2.828472222222222in"}
 > delle quantità sarà disabilitato e non verranno visualizzati neppure i
 > relativi pulsanti incrementali**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\articoli_composti13.bmp](./assets/media/image98.png){width="4.8590277777777775in"
-height="3.564583333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\articoli_composti13.bmp](./assets/media/image98.png)
 
 > In queste condizioni dunque l'utente non potrà apportare nessun tipo
 > di variazione al componente che verrà quindi inserito nel Box così
@@ -186,8 +176,7 @@ immediatamente al di sotto del componente Campionario, anche un testo
 riepilogativo con l'indicazione delle quantità minima e massima globali
 effettivamente gestibili per il Box.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\articoli_composti14.bmp](./assets/media/image99.png){width="4.852777777777778in"
-height="3.6131944444444444in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\articoli_composti14.bmp](./assets/media/image99.png)
 
 In questo caso il numero minimo di elementi (inteso come quantità
 complessive) che dovranno essere necessariamente presenti all'interno
@@ -195,8 +184,7 @@ del Box prima di poterlo inserire in carrello, coincide con il valore
 impostato, lato Passweb, in corrispondenza del parametro "**Numero
 Minimo Componenti**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\articoli_composti15.bmp](./assets/media/image100.png){width="5.779166666666667in"
-height="3.4972222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\articoli_composti15.bmp](./assets/media/image100.png)
 
 **ATTENZIONE! Il valore di questo parametro dovrà essere, ovviamente,
 minore o uguale alla somma delle quantità minime dei singoli componenti
@@ -207,8 +195,7 @@ che potranno essere inseriti all'interno di un Box configurabile
 coincide invece con il valore impostato, lato gestionale, all'interno
 del campo "**N° Massimo Complessivo**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\articoli_composti16.bmp](./assets/media/image101.png){width="4.4847222222222225in"
-height="3.073611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\articoli_composti16.bmp](./assets/media/image101.png)
 
 **ATTENZIONE! Il numero massimo di articoli gestibili all'interno del
 Box dovrà essere, ovviamente, maggiore o uguale alla somma delle
@@ -229,8 +216,7 @@ quantità dei singoli componenti del Box:
 > gestiti sul sito e di quanto impostato, lato gestionale, all'interno
 > della sezione "Formula calcolo del prezzo di vendita"**
 
-![Videate\\articoli_composti5.bmp](./assets/media/image102.png){width="4.686805555555556in"
-height="2.828472222222222in"}
+![Videate\\articoli_composti5.bmp](./assets/media/image102.png)
 
 - verrà aggiornato, sulla base delle quantità attualmente impostate, il
   valore della disponibilità dell'intero Box (sia quello aggiornato
@@ -249,8 +235,7 @@ height="2.828472222222222in"}
 > impostato il parametro "**Mostra la disponibilità del padre**" in fase
 > di configurazione della struttura stessa all'interno del Wizard
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\disponibilita_campionario.bmp](./assets/media/image103.png){width="5.809722222222222in"
-height="3.5215277777777776in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\disponibilita_campionario.bmp](./assets/media/image103.png)
 
 > Una volta impostata una ben precisa configurazione, e selezionato
 > quindi il relativo articolo figlio, verrà poi considerata la sua
@@ -265,8 +250,7 @@ Infine è bene sottolineare anche come:
   verranno sempre visualizzati, in relazione ai Composti Semplici, sia
   l'articolo Composto che l'elenco dei suoi componenti.
 
-![Videate\\articoli_composti6.bmp](./assets/media/image91.png){width="5.079861111111111in"
-height="3.3986111111111112in"}
+![Videate\\articoli_composti6.bmp](./assets/media/image91.png)
 
 > Per l'articolo Composto sarà possibile modificare la quantità presente
 > in carrello, eliminarlo dal carrello, inserire note di riga, date di

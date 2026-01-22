@@ -14,13 +14,11 @@ utilizzando Sprix Remoto
 
 Per poter definire uno sprix di questo tipo è sufficiente cliccare sul
 pulsante **"Nuovo"** **(**
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuovo.bmp](./assets/media/image204.png){width="0.31805555555555554in"
-height="0.18819444444444444in"} **)** presente nella barra degli
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuovo.bmp](./assets/media/image204.png) **)** presente nella barra degli
 strumenti della maschera "Gestione Sprix", e impostare poi il parametro
 "**Tipologia**" sul valore "**Estratto Conto**".
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sprix_estrattoconto.bmp](./assets/media/image214.png){width="5.811805555555556in"
-height="3.428472222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sprix_estrattoconto.bmp](./assets/media/image214.png)
 
 Il campo "**Descrizione**", presente all'interno della maschera sopra
 evidenziata, consente di associare allo sprix in esame una specifica
@@ -41,8 +39,7 @@ Riservata del sito. E' possibile selezionare una delle seguenti opzioni:
   all'interno dell'albero sottostante ("**Gruppi che hanno accesso allo
   sprix**")
 
-![Videate\\gruppi_sprix.bmp](./assets/media/image207.png){width="5.825in"
-height="3.545138888888889in"}
+![Videate\\gruppi_sprix.bmp](./assets/media/image207.png)
 
 Il pulsante "**Salva**" presente nella parte bassa della maschera
 consente, infine, di salvare lo sprix in esame.
@@ -58,8 +55,7 @@ Parametri"** **(** **)** presente nella barra degli strumenti.
 Verrà quindi visualizzata la maschera "**Gestione Parametri per lo Sprix
 Estratto Conto Cliente**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sprix_estrattoconto_parametri.bmp](./assets/media/image215.png){width="5.825in"
-height="3.441666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sprix_estrattoconto_parametri.bmp](./assets/media/image215.png)
 
 attraverso cui poter appunto gestire tutti i parametri necessari per il
 corretto funzionamento dello sprix in esame.
@@ -74,8 +70,7 @@ parametri. Selezionando uno dei parametri presenti in elenco e cliccando
 sul pulsante "**Modifica Parametro Sprix**" verrà infatti visualizzata
 la maschera qui di seguito riportata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sprix_estrattoconto_parametri2.bmp](./assets/media/image216.png){width="5.811805555555556in"
-height="3.428472222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sprix_estrattoconto_parametri2.bmp](./assets/media/image216.png)
 
 Come già visto per lo Scadenzario Cliente, anche in questo caso sarà
 possibile personalizzare la Descrizione dello specifico parametro (campo
@@ -164,8 +159,7 @@ E' possibile selezionare uno dei seguenti valori:
 il parametro in esame. E' possibile selezionare una delle seguenti
 opzioni:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sprix_scadenzario_parametri4.bmp](./assets/media/image217.png){width="5.759722222222222in"
-height="3.3895833333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sprix_scadenzario_parametri4.bmp](./assets/media/image217.png)
 
 - **Codice Conto Agente**: in questo modo in fase di presentazione del
   form dello sprix all'interno dell'Area Riservata, il parametro in

@@ -15,23 +15,20 @@ Per ottenere queste chiavi sarà necessario:
     <https://portal.scalapay.com/signup> ) utilizzando l'account appena
     creato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\scalapay_5.bmp](./assets/media/image205.png){width="5.383333333333334in"
-height="2.9743055555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\scalapay_5.bmp](./assets/media/image205.png)
 
 3.  Portarsi quindi all'interno della sezione "**Sviluppatore**"
     selezionando l'apposita voce di menu posta sulla sinistra della
     pagina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_scalapay_1.bmp](./assets/media/image206.png){width="5.201388888888889in"
-height="3.50625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_scalapay_1.bmp](./assets/media/image206.png)
 
 > copiare la chiave presente in corrispondenza del campo "**Chiave
 > API**" evidenziato in figura e inserirla nella maschera di
 > configurazione del pagamento Passweb all'interno del campo "**Secret
 > API Key**" (sezione "Configurazione Parametri del Gateway")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\scalapay_6.bmp](./assets/media/image207.png){width="5.201388888888889in"
-height="3.50625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\scalapay_6.bmp](./assets/media/image207.png)
 
 > **ATTENZIONE!** All'interno della "Secret Api Key" sono mappati i
 > prodotti attivati in fase di sottoscrizione del relativo contratto ed
@@ -48,14 +45,12 @@ height="3.50625in"}
 > presente all'interno del campo "**Merchant Token**" presente sempre
 > nella sezione "Sviluppatore" del proprio account Scalapay
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\scalapay_8.bmp](./assets/media/image208.png){width="5.201388888888889in"
-height="3.50625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\scalapay_8.bmp](./assets/media/image208.png)
 
 > e inserirla poi nell'omonimo campo presente nella maschera di
 > configurazione del pagamento Passweb
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\scalapay_9.bmp](./assets/media/image209.png){width="5.201388888888889in"
-height="3.50625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\scalapay_9.bmp](./assets/media/image209.png)
 
 Come evidenziato nel precedente capitolo di questo manuale, infine,
 Scalapay gestisce anche la modalità Server to Server mediante
@@ -67,8 +62,7 @@ Per attivare questa modalità sarà quindi necessario:
     portarsi all'interno della sezione "**Sviluppatore**" e compilare il
     campo **Url Order Webhook** evidenziato in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\scalapay_7.bmp](./assets/media/image210.png){width="5.201388888888889in"
-height="3.50625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\scalapay_7.bmp](./assets/media/image210.png)
 
 > con il seguente indirizzo:
 >

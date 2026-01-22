@@ -5,8 +5,7 @@
 Una volta effettuato l'accesso alla sezione "**Gestione Account**" verrà
 visualizzata la maschera "**Lista degli Account**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_mkt.bmp](./assets/media/image306.png){width="5.350694444444445in"
-height="3.623611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_mkt.bmp](./assets/media/image306.png)
 
 contenente l'elenco degli Account relativi alle diverse piattaforme
 attualmente collegate e integrate con il sito Ecommerce.
@@ -27,28 +26,23 @@ I pulsanti presenti nella barra degli strumenti consentono
 rispettivamente di:
 
 - **Elimina Account** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_account.bmp](./assets/media/image188.png){width="0.5777777777777777in"
-  height="0.175in"} )**:** consente di eliminare l'account attualmente
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_account.bmp](./assets/media/image188.png) )**:** consente di eliminare l'account attualmente
   selezionato in elenco
 
 - **Modifica Account** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_account.bmp](./assets/media/image189.png){width="0.6361111111111111in"
-  height="0.175in"} )**:** consente accedere alle impostazioni di
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_account.bmp](./assets/media/image189.png) )**:** consente accedere alle impostazioni di
   configurazione dell'Account selezionato in elenco.
 
 - **Copia Account** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_copia_account.bmp](./assets/media/image307.png){width="0.5909722222222222in"
-  height="0.18819444444444444in"} )**:** consente copiare l'Account
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_copia_account.bmp](./assets/media/image307.png) )**:** consente copiare l'Account
   attualmente selezionato in elenco.
 
 - **Aggiorna Account** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiorna_account.bmp](./assets/media/image308.png){width="0.7076388888888889in"
-  height="0.1951388888888889in"} )**:** consente di aggiornare l'account
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiorna_account.bmp](./assets/media/image308.png) )**:** consente di aggiornare l'account
   attualmente selezionato in elenco e tutta la relativa struttura dati
 
 - **Sincro Ordini** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_sincro_ordini_ebay.bmp](./assets/media/image45.png){width="0.49375in"
-  height="0.175in"} ): consente di effettuare, nel caso in cui l'Account
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_sincro_ordini_ebay.bmp](./assets/media/image45.png) ): consente di effettuare, nel caso in cui l'Account
   selezionato in elenco sia stato configurato per interagire con la
   piattaforma terza anche a livello di ordini, la sincronizzazione tra
   le due piattaforme (es. Passweb / Magento) importando quini in Passweb
@@ -66,8 +60,7 @@ rispettivamente di:
 > Sincronizzazione*" di questo manuale.
 
 - **Sincro Clienti** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_sincro_clienti.bmp](./assets/media/image309.png){width="0.5909722222222222in"
-  height="0.1951388888888889in"} ): consente di effettuare, la
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_sincro_clienti.bmp](./assets/media/image309.png) ): consente di effettuare, la
   sincronizzazione tra le due piattaforme (es. Passweb / Magento)
   aggiornando con i dati prelevati dalla piattaforma esterna le
   anagrafiche **di tutti i clienti presenti su Passweb a seguito di
@@ -92,8 +85,7 @@ rispettivamente di:
 > necessario riallineare tutte le anagrafiche cliente.
 
 - **Aggiungi Account** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_account.bmp](./assets/media/image310.png){width="0.6361111111111111in"
-  height="0.175in"} )**:** consente di aggiungere e configurare un nuovo
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_account.bmp](./assets/media/image310.png) )**:** consente di aggiungere e configurare un nuovo
   Account di integrazione
 
 La prima cosa da fare per poter integrare Passweb con una delle
@@ -104,8 +96,7 @@ In questo modo verrà infatti visualizzata la maschera "**Dati Account**"
 all'interno della quale poter selezionare, tra quelle proposte, la
 specifica piattaforma da integrare.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_mkt_1.bmp](./assets/media/image311.png){width="5.792361111111111in"
-height="3.422222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_mkt_1.bmp](./assets/media/image311.png)
 
 Una volta effettuata questa scelta e impostati i principali parametri di
 configurazione, compariranno poi, dipendentemente dalla specifica

@@ -11,8 +11,7 @@ All'interno di questa sezione è possibile:
 - Decidere quali campi articolo, oltre a quello obbligatori, dovranno
   essere inseriti all'interno del feed e inviati a Clerk
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_feed_articoli.bmp](./assets/media/image18.png){width="5.428472222222222in"
-height="3.33125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_feed_articoli.bmp](./assets/media/image18.png)
 
 In questo senso dunque il parametro:
 
@@ -53,8 +52,7 @@ specificare, oltre a quelli obbligatori, quali campi e quindi quali dati
 dovranno essere effettivamente inseriti nel feed Articoli e condivisi
 quindi anche con Clerk.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_feed_articoli_campi_aggiuntivi.bmp](./assets/media/image19.png){width="5.428472222222222in"
-height="3.33125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_feed_articoli_campi_aggiuntivi.bmp](./assets/media/image19.png)
 
 Sulla sinistra sono elencati i campi articolo attualmente codificati e
 che verranno quindi inseriti nel Feed.
@@ -66,8 +64,7 @@ della sezione "**Modifica Campo"**.
 
 Allo stesso modo per codificare un nuovo campo sarà necessario cliccare
 sull'icona raffigurante un piccolo + (
-![Videate\\icona_aggiungi.bmp](./assets/media/image15.png){width="0.18819444444444444in"
-height="0.18819444444444444in"} ) e definire poi le relative proprietà.
+![Videate\\icona_aggiungi.bmp](./assets/media/image15.png) ) e definire poi le relative proprietà.
 
 In particolare per ogni singolo campo utente occorrerà specificare un
 valore per i seguenti parametri:

@@ -8,16 +8,14 @@ All'interno di questa sezione è possibile visualizzare:
 
 - Il numero di **Carrelli / Wishlist / Comparatori attivi**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dashboard_tempo_reale.bmp](./assets/media/image11.png){width="6.03125in"
-height="4.086805555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dashboard_tempo_reale.bmp](./assets/media/image11.png)
 
 **ATTENZIONE!** la visualizzazione della sezione "**Statistiche in tempo
 reale**" è subordinata all'attivazione del parametro "**Visite**"
 presente nella sezione Dashboard della maschera di configurazione del
 Ruolo Utente cui appartiene l'utente attualmente connesso sul Wizard
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dashboard_parametro_visite.bmp](./assets/media/image12.png){width="5.540277777777778in"
-height="3.279166666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dashboard_parametro_visite.bmp](./assets/media/image12.png)
 
 **ATTENZIONE**! Con il termine **visitatori online** si intende
 identificare tutti quegli utenti che hanno interagito in qualche modo
@@ -69,12 +67,10 @@ momento in cui è stata caricata la Dashboard.**
 Nel momento in cui l'esigenza dovesse essere quella di aggiornare questi
 dati, sarà quindi necessario ricaricare la pagina (anche con un semplice
 F5) o, in alternativa, cliccare sul pulsante di refresh (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_refresh_statistiche.bmp](./assets/media/image13.png){width="0.2048611111111111in"
-height="0.1736111111111111in"} ) presente nella parte alta di questa
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_refresh_statistiche.bmp](./assets/media/image13.png) ) presente nella parte alta di questa
 sezione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\refresh_tempo_reale.bmp](./assets/media/image14.png){width="6.03125in"
-height="4.086805555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\refresh_tempo_reale.bmp](./assets/media/image14.png)
 
 **ATTENZIONE!** Ciascuno degli indicatori presenti all'interno di questa
 sezione ha associato un link di collegamento al relativo report di

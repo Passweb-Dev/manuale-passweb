@@ -11,8 +11,7 @@ Il menu di navigazione va collocato, generalmente, in testata alla
 pagina web, deve avere una larghezza in percentuale e un'altezza che si
 adatti automaticamente al contenuto
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gr_14.png](./assets/media/image59.png){width="6.26875in"
-height="2.8506944444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gr_14.png](./assets/media/image59.png)
 
 In queste condizioni diminuendo l'area di visualizzazione del documento
 quello che potrà succedere è che le voci di menu di primo livello,
@@ -48,6 +47,5 @@ Nel caso in cui si decida di utilizzare un Componente "Menu" in fase di
 configurazione del componente stesso sarà necessario selezionare
 l'opzione "**Flottante Orizzontale**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_flottante_orizzontale.bmp](./assets/media/image60.png){width="5.127083333333333in"
-height="3.1416666666666666in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_flottante_orizzontale.bmp](./assets/media/image60.png)
 

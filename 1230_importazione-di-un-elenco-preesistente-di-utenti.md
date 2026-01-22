@@ -11,15 +11,13 @@ In questo modo, come precedentemente evidenziato, verrà visualizzata una
 piccola finestra con tutte le azioni che potranno essere effettuate
 sulla lista in esame
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_step_11b.bmp](./assets/media/image7.png){width="6.0125in"
-height="3.8652777777777776in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_step_11b.bmp](./assets/media/image7.png)
 
 Il pulsante **"Import"** consentirà di accedere alla maschera attraverso
 cui poter selezionare una delle diverse possibili modalità di
 importazione offerte da MailChimp.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_step_13.bmp](./assets/media/image9.png){width="6.361805555555556in"
-height="4.276388888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_step_13.bmp](./assets/media/image9.png)
 
 In particolare sarà possibile importare un elenco preesistente di
 contatti:
@@ -57,8 +55,7 @@ contatti precedentemente evidenziata, cliccare sul pulsante **"Import
 from a CSV or TXT file"** e uplodare il file appena creato all'interno
 del relativo campo.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_step_16.bmp](./assets/media/image10.png){width="6.361805555555556in"
-height="4.276388888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_step_16.bmp](./assets/media/image10.png)
 
 Cliccando sul pulsante **"Upload List"** presente nella parte bassa
 della pagina verrà avviata la procedura di importazione al termine della
@@ -67,8 +64,7 @@ poter stabilire una corrispondenza tra le informazioni importate
 attraverso il nostro file di testo ed i campi effettivamente disponibili
 all'interno di MailChimp.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_step_17.bmp](./assets/media/image11.png){width="6.361805555555556in"
-height="4.276388888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_step_17.bmp](./assets/media/image11.png)
 
 Il pulsante "**edit**", ci permetterà di impostare il nome ed il tipo
 del relativo campo che dovrà poi essere creato all'interno di MailChimp.
@@ -89,8 +85,7 @@ Per far questo sarà necessario:
 - cliccare sul pulsante "**Copy/Paste From Excel**" presente all'interno
   della maschera di importazione contatti precedentemente evidenziata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_step_19.bmp](./assets/media/image12.png){width="6.361805555555556in"
-height="4.276388888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_step_19.bmp](./assets/media/image12.png)
 
 - copiare l'elenco dei contatti presente in excel
 

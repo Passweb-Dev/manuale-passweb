@@ -226,8 +226,7 @@ dove:
 > Livello**" presente nella maschera di configurazione del relativo
 > Campo di Struttura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\campo_struttura_tipologia_livello.bmp](./assets/media/image8.png){width="5.201388888888889in"
-height="3.4611111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\campo_struttura_tipologia_livello.bmp](./assets/media/image8.png)
 
 > Nell'esempio in questione, come precedentemente evidenziato, il colore
 > è gestito come ultimo livello della struttura mentre le taglie sono
@@ -240,8 +239,7 @@ height="3.4611111111111112in"}
 > campo "**Titolo**" presente nella maschera di configurazione del
 > relativo "elemento colore"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\elemento_colore_titolo.bmp](./assets/media/image9.png){width="5.201388888888889in"
-height="3.4611111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\elemento_colore_titolo.bmp](./assets/media/image9.png)
 
 > Il dettaglio delle taglie (quindi la proprietà "size") verrà invece
 > inserito nel Json-ld della pagina prodotto dello specifico articolo

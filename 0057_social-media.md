@@ -9,8 +9,7 @@ agli utenti di poter effettuare la registrazione e/o l'accesso al sito
 utilizzando direttamente il loro account social piuttosto che il loro
 account Amazon o PayPal
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login1.bmp](./assets/media/image208.png){width="5.811805555555556in"
-height="3.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login1.bmp](./assets/media/image208.png)
 
 Per realizzare questo tipo di integrazione Passweb utilizza il
 protocollo **Open Authorization**, ampiamente supportato dalle varie

@@ -29,8 +29,7 @@ cartella, che verrà poi creata in "Gestione Risorse del sito" e
 all'interno della quale verranno inserite tutte le risorse della copia
 selezionata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\importa_modello_variante.bmp](./assets/media/image468.png){width="2.279166666666667in"
-height="1.3895833333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\importa_modello_variante.bmp](./assets/media/image468.png)
 
 **ATTENZIONE!!! Nel caso in cui l'utente decidesse di non indicare una
 specifica cartella le risorse della copia selezionata potrebbero andare

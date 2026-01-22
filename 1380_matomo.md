@@ -7,8 +7,7 @@ precedentemente noto come Piwik, è un software di web analytics open
 source sviluppato in php su database MySQL che rappresenta, ad oggi, una
 delle migliori alternative a Google Analytics.
 
-![Videate\\matomo_1.bmp](./assets/media/image1.png){width="5.565972222222222in"
-height="3.532638888888889in"}
+![Videate\\matomo_1.bmp](./assets/media/image1.png)
 
 Attualmente è utilizzato su oltre un milione di siti Web in più di 190
 paesi ed è anche è il software scelto dalla Pubblica Amministrazione
@@ -96,8 +95,7 @@ Utilizza ancora i concetti di pagina, hits, eventi, goal (o obiettivi)
 
 - ...
 
-![Videate\\matomo_4.bmp](./assets/media/image2.png){width="5.565972222222222in"
-height="3.532638888888889in"}
+![Videate\\matomo_4.bmp](./assets/media/image2.png)
 
 Volendo invece dare un rapido sguardo alle principali differenze
 funzionali tra Analytics e Matomo, una prima cosa da prendere in
@@ -128,8 +126,7 @@ utilizzabili per ottimizzare il tasso di conversione come ad esempio:
   Colori più freddi (verde, azzurro, blu) indicheranno invece una minore
   attività in quella zona
 
-![Videate\\matomo_2.bmp](./assets/media/image3.png){width="3.217361111111111in"
-height="2.0722222222222224in"}
+![Videate\\matomo_2.bmp](./assets/media/image3.png)
 
 - Registrazione delle sessioni
 
@@ -148,8 +145,7 @@ e le sue caratteristiche possono essere estese attraverso plugin esterni
 selezionabili all'interno del marketplace presente sulla piattaforma
 stessa
 
-![Videate\\matomo_3.bmp](./assets/media/image4.png){width="5.565972222222222in"
-height="3.3618055555555557in"}
+![Videate\\matomo_3.bmp](./assets/media/image4.png)
 
 Offre una certa continuità a livello di tracciamento e di gestione dello
 storico considerando che, a differenza di GA4 (che come noto utilizza un

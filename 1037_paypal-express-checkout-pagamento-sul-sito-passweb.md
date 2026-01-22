@@ -8,8 +8,7 @@ sito e-commerce il pulsante "**PayPal Express Checkout**" visibile sia
 ad utenti autenticati che a normali visitatori del sito che non hanno
 ancora effettuato la registrazione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pp_ck_ex_14.bmp](./assets/media/image183.png){width="5.065277777777778in"
-height="2.675in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pp_ck_ex_14.bmp](./assets/media/image183.png)
 
 **ATTENZIONE!** Nel caso di prenotazione di servizi con possibilità di
 pagamento on line (Ecommerce Ho.Re.Ca.), il pulsante "**PayPal Express
@@ -26,8 +25,7 @@ utente, dopo aver messo articoli in carrello, dovesse cliccare sul
 pulsante "**PayPal Express Checkout**" verrà infatti automaticamente
 ridiretto al gateway di pagamento di PayPal.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pp_ck_ex_15.bmp](./assets/media/image184.png){width="5.065277777777778in"
-height="2.675in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pp_ck_ex_15.bmp](./assets/media/image184.png)
 
 Nel caso in cui l'utente che effettua l'acquisto dovesse già disporre di
 un proprio conto PayPal potrà quindi autenticarsi sul gateway di
@@ -40,8 +38,7 @@ In ogni caso una volta inseriti i dati richiesti da PayPal verrà
 mostrata all'utente una maschera riepilogativa del tipo di quella qui di
 seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pp_ck_ex_17.bmp](./assets/media/image185.png){width="5.065277777777778in"
-height="2.675in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pp_ck_ex_17.bmp](./assets/media/image185.png)
 
 Cliccando quindi sul pulsante **"Continua"** l'utente verrà ricondotto
 alla pagina di checkout del sito e-commerce dove dovrà, eventualmente,

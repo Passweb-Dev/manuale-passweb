@@ -22,21 +22,18 @@ Amazon"*** e suddivisa in tre ulteriori sottosezioni attivabili mediante
 i relativi pulsanti presenti nella parte alta della pagina:
 
 - **Liste di Vendita** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_liste_vendita.bmp](./assets/media/image115.png){width="0.5652777777777778in"
-  height="0.18194444444444444in"} ): consente di definire nuove liste di
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_liste_vendita.bmp](./assets/media/image115.png) ): consente di definire nuove liste di
   vendita e di gestire quelle già codificate
 
 - **Regole di Vendita** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_regole_vendita.bmp](./assets/media/image116.png){width="0.6298611111111111in"
-  height="0.18194444444444444in"} ): consente di creare delle regole
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_regole_vendita.bmp](./assets/media/image116.png) ): consente di creare delle regole
   mediante le quali poter fare in modo che aggiungendo nuovi articoli ad
   una determinata categoria merceologica, questi stessi articoli vengano
   automaticamente inseriti anche nella Lista di Vendita collegata alla
   regola in esame.
 
 - **Ricerca Articolo su Amazon** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_ricerca_su_amazon.bmp](./assets/media/image244.png){width="0.9222222222222223in"
-  height="0.18194444444444444in"} ): consente di effettuare,
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_ricerca_su_amazon.bmp](./assets/media/image244.png) ): consente di effettuare,
   direttamente dal Wizard del proprio sito Passweb, delle ricerche su
   uno dei Marketplace Amazon gestiti in maniera tale da ottenere
   informazioni che possono poi rivelarsi particolarmente utili per

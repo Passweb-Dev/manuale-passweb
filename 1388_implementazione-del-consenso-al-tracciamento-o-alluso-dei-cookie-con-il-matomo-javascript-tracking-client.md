@@ -164,11 +164,9 @@ istruzioni presenti a questo link
 Di seguito viene riportato un esempio del codice HTML utilizzabile per
 realizzare un form di questo tipo
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_13.bmp](./assets/media/image14.png){width="5.526388888888889in"
-height="3.3222222222222224in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_13.bmp](./assets/media/image14.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_14.bmp](./assets/media/image15.png){width="4.151388888888889in"
-height="3.7694444444444444in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_14.bmp](./assets/media/image15.png)
 
 In sostanza si tratterà di verificare innanzitutto lo stato attuale del
 consenso dell'utente che visita il sito mettendogli poi a disposizione,
@@ -210,8 +208,7 @@ più semplice rispetto a quella di doversi memorizzare autonomamente le
 scelte degli utenti) sarà necessario modificare lo script di gestione
 del form di opt out come di seguito indicato:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_15.bmp](./assets/media/image16.png){width="5.519444444444445in"
-height="3.6708333333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_15.bmp](./assets/media/image16.png)
 
 Nello specifico l'istruzione
 

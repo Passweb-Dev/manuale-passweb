@@ -10,8 +10,7 @@ più desiderati e quelli meno desiderati.
 Effettuando l'accesso verrà visualizzata la maschera **"Lista
 Priorità"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_priorita.bmp](./assets/media/image281.png){width="5.597222222222222in"
-height="3.292361111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_priorita.bmp](./assets/media/image281.png)
 
 contenente l'elenco delle priorità attualmente codificate.
 
@@ -19,15 +18,13 @@ I pulsanti presenti nella contestuale barra degli strumenti consentono
 rispettivamente di:
 
 **Nuova Priorità**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuova_priorita.bmp](./assets/media/image282.png){width="0.5451388888888888in"
-height="0.18819444444444444in"} ): consente di codificare una nuova
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuova_priorita.bmp](./assets/media/image282.png) ): consente di codificare una nuova
 priorità.
 
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 "**Nuova Priorità**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuova_priorita.bmp](./assets/media/image283.png){width="5.149305555555555in"
-height="3.032638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuova_priorita.bmp](./assets/media/image283.png)
 
 all'interno della quale dover indicare un valore per i seguenti campi:
 
@@ -59,8 +56,7 @@ all'interno della quale dover indicare un valore per i seguenti campi:
 > (utilizzando in questo senso la select box presente in corrispondenza
 > di ogni singola riga articolo inserito all'interno della Lista Regalo)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\lista_regalo_selezione_priorita.bmp](./assets/media/image284.png){width="5.084722222222222in"
-height="3.0972222222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\lista_regalo_selezione_priorita.bmp](./assets/media/image284.png)
 
 > **ATTEZNIONE!** Per consentire al creatore della lista di assegnare
 > una priorità ai vari articoli della Lista è necessario per prima cosa
@@ -74,13 +70,11 @@ height="3.0972222222222223in"}
 > Campo Lista Valori"* di questo manuale.
 
 **Modifica Priorità**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_priorita.bmp](./assets/media/image285.png){width="0.6041666666666666in"
-height="0.16875in"} ): consente di modificare la priorità attualmente
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_priorita.bmp](./assets/media/image285.png) ): consente di modificare la priorità attualmente
 selezionata in elenco
 
 **Elimina Priorità**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_priorita.bmp](./assets/media/image286.png){width="0.5652777777777778in"
-height="0.16875in"} ): consente di eliminare la priorità attualmente
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_priorita.bmp](./assets/media/image286.png) ): consente di eliminare la priorità attualmente
 selezionata in elenco
 
 **ATTENZIONE!** Eliminando una priorità il relativo valore verrà

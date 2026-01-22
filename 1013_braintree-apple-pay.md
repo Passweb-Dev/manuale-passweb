@@ -58,14 +58,12 @@ sarà poi necessario:
   impostazioni (icona raffigurante una piccola rotellina posta in
   testata) e selezionare la voce "Processing"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\braintree_paypal_6.bmp](./assets/media/image85.png){width="5.370138888888889in"
-height="3.234027777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\braintree_paypal_6.bmp](./assets/media/image85.png)
 
 - All'interno della sezione Payment Methods attivare l'interruttore
   presente in corrispondenza della sezione "**Apple Pay**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\braintree_applepay_1.bmp](./assets/media/image88.png){width="5.370138888888889in"
-height="3.234027777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\braintree_applepay_1.bmp](./assets/media/image88.png)
 
 - Nella successiva maschera di configurazione seguire la procedura
   indicata per caricare un Apple Merchant Certificate correttamente
@@ -73,6 +71,5 @@ height="3.234027777777778in"}
   indicare il dominio del proprio sito web e cliccare, infine, sul
   pulsante "**Done**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\braintree_applepay_2.bmp](./assets/media/image89.png){width="5.370138888888889in"
-height="3.234027777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\braintree_applepay_2.bmp](./assets/media/image89.png)
 

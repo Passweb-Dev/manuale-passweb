@@ -7,11 +7,9 @@ sulla corrispondente icona presente nella "Barra degli Strumenti del
 Live Editing" o, in alternativa, sulla stessa icona presente anche
 all'interno del menu principale
 
-![Videate\\menu_protezione_barra_strumenti.bmp](./assets/media/image103.png){width="5.9625in"
-height="3.029861111111111in"}
+![Videate\\menu_protezione_barra_strumenti.bmp](./assets/media/image103.png)
 
-![Videate\\menu_editing_gestione_protezione.bmp](./assets/media/image104.png){width="5.9625in"
-height="3.029861111111111in"}
+![Videate\\menu_editing_gestione_protezione.bmp](./assets/media/image104.png)
 
 è possibile gestire operazioni massive di diverso tipo.
 
@@ -40,8 +38,7 @@ Nello specifico sarà possibile, ad esempio:
 Cliccando su uno qualsiasi dei due pulsanti precedentemente evidenziati
 verrà infatti visualizzata la maschera "**Gestione Protezione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_protezione.bmp](./assets/media/image105.png){width="5.089583333333334in"
-height="2.5444444444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_protezione.bmp](./assets/media/image105.png)
 
 all'interno della quale poter specificare un valore per i seguenti
 parametri:
@@ -73,8 +70,7 @@ E' possibile selezionare una delle seguenti opzioni
 > massiva da poter eseguire sarà quella che riguarda la pubblicazione o
 > meno di determinate pagine
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\protezione_pagine_2.bmp](./assets/media/image106.png){width="5.097222222222222in"
-height="3.0375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\protezione_pagine_2.bmp](./assets/media/image106.png)
 
 > In corrispondenza del parametro "**Pagine**" sarà possibile
 > selezionare le pagine che dovranno essere coinvolte nell'operazione.
@@ -89,8 +85,7 @@ height="3.0375in"}
 > eseguire sarà quella che riguarda la pubblicazione o meno di
 > determinati componenti.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_protezione_pubblica_articoli.bmp](./assets/media/image107.png){width="5.097222222222222in"
-height="2.5444444444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_protezione_pubblica_articoli.bmp](./assets/media/image107.png)
 
 > In queste condizioni i parametri "**Livello**", "**Classi**" e
 > "**Classi addizionali**" consentono di decidere, rispettivamente se
@@ -113,8 +108,7 @@ height="2.5444444444444443in"}
 > pagine indicate, sul front end del sito, a tutti o solo a determinati
 > gruppi utente
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\protezione_pagine_1.bmp](./assets/media/image108.png){width="5.097222222222222in"
-height="3.029861111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\protezione_pagine_1.bmp](./assets/media/image108.png)
 
 > In corrispondenza del parametro "**Pagine**" sarà possibile
 > selezionare le pagine che dovranno essere coinvolte nell'operazione.
@@ -128,8 +122,7 @@ height="3.029861111111111in"}
 > eseguire sarà quella che riguarda le impostazioni di visibilità dei
 > componenti indicati per tutti o solo per determinati Gruppi Utente
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_protezione2.bmp](./assets/media/image109.png){width="5.097222222222222in"
-height="3.0743055555555556in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_protezione2.bmp](./assets/media/image109.png)
 
 > Anche in questo caso i parametri "**Livello**", "**Classi**" e
 > "**Classi addizionali**" consentono di decidere, rispettivamente se
@@ -150,8 +143,7 @@ height="3.0743055555555556in"}
 > In queste condizioni infatti, all'interno della sezione "Impostazioni"
 > comparirà il parametro "**Disabilita Cache**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_protezione_disabilita_cache.bmp](./assets/media/image110.png){width="4.372916666666667in"
-height="2.589583333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_protezione_disabilita_cache.bmp](./assets/media/image110.png)
 
 > grazie al quale poter decidere se disabilitare o meno, in blocco, il
 > caching di tutti i componenti della tipologia indicata presenti
@@ -179,8 +171,7 @@ height="2.589583333333333in"}
 > In queste condizioni infatti, all'interno della sezione "Impostazioni"
 > comparirà il parametro "**Protezione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_protezione3.bmp](./assets/media/image111.png){width="5.089583333333334in"
-height="2.5743055555555556in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_protezione3.bmp](./assets/media/image111.png)
 
 > mediante il quale poter decidere chi, fra i vari utenti del Wizard,
 > potrà avere o meno la possibilità di gestire, secondo il relativo
@@ -211,8 +202,7 @@ oppure solamente quelli di una determinata tipologia (opzione
 In quest'ultimo caso sarà necessario specificare la tipologia di
 componenti desiderati all'interno del box evidenziato in figura.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_protezione4.bmp](./assets/media/image112.png){width="5.097222222222222in"
-height="2.5819444444444444in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_protezione4.bmp](./assets/media/image112.png)
 
 E' sufficiente indicare le prime lettere del nome dei Componenti (così
 come questo compare all'interno della libreria dei componenti Passweb)

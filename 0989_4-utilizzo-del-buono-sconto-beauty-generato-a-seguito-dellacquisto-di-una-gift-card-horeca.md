@@ -12,15 +12,13 @@ di non aver attivato il parametro "**Nascondi Step pagamento**" presente
 nella maschera di configurazione del componente "**Prenotazione Custom
 (Reservation)**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\abilitazione_step_pagamento_prenotazione.bmp](./assets/media/image354.png){width="5.097222222222222in"
-height="2.1555555555555554in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\abilitazione_step_pagamento_prenotazione.bmp](./assets/media/image354.png)
 
 In queste condizioni infatti portandosi, in fase di prenotazione di un
 Trattamento, nello Step relativo al pagamento troveremo anche il campo
 "**Buono Sconto**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\abilitazione_step_pagamento_prenotazione_2.bmp](./assets/media/image355.png){width="5.461111111111111in"
-height="3.4805555555555556in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\abilitazione_step_pagamento_prenotazione_2.bmp](./assets/media/image355.png)
 
 e sarà proprio all'interno di questo campo che l'utente dovrà andare ad
 inserire il Codice Gift Card che gli consentirà, eventualmente, di
@@ -57,8 +55,7 @@ Nel momento in cui uno dei controlli indicati dovesse dare esito
 negativo, il Codice Gift Card non potrà essere validato e verrà quindi
 visualizzato un apposito messaggio di errore
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gift_card_horeca_non_valida.bmp](./assets/media/image356.png){width="5.370138888888889in"
-height="3.292361111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gift_card_horeca_non_valida.bmp](./assets/media/image356.png)
 
 modificabile alla sezione "Testi/Messaggi" del sito (componente
 "**Prenotazione Custom (Reservation)**" campo "**Errore Validità Buono
@@ -68,8 +65,7 @@ Nel momento in cui tutti i controlli indicati dovessero invece dare
 esito positivo, il Codice Gift Card verrà correttamente validato e verrà
 conseguentemente applicato il relativo sconto.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gift_card_horeca_16.bmp](./assets/media/image357.png){width="5.370138888888889in"
-height="3.292361111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gift_card_horeca_16.bmp](./assets/media/image357.png)
 
 **ATTENZIONE!** Se l'importo dell'eventuale Buono Sconto applicato
 dovesse essere tale da coprire interamente l'acquisto del Trattamento
@@ -77,19 +73,16 @@ verrà nascosta la sezione relativa alla selezione della modalità di
 pagamento e la prenotazione potrà quindi essere conclusa con importo
 nullo
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gift_card_horeca_17.bmp](./assets/media/image358.png){width="5.370138888888889in"
-height="3.292361111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gift_card_horeca_17.bmp](./assets/media/image358.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gift_card_horeca_18.bmp](./assets/media/image359.png){width="5.370138888888889in"
-height="3.292361111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gift_card_horeca_18.bmp](./assets/media/image359.png)
 
 Lato gestionale è possibile verificare l'effettiva applicazione di un
 Buono Sconto alla prenotazione di un determinato Trattamento aprendo il
 dettaglio del Trattamento stesso e richiamando poi, dal relativo menu
 contestuale, la maschera relativa al "**Pagamento web**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gift_card_horeca_19.bmp](./assets/media/image360.png){width="5.695138888888889in"
-height="3.2729166666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gift_card_horeca_19.bmp](./assets/media/image360.png)
 
 Il campo "**Buono Sconto**" evidenziato in figura conterrà l'eventuale
 Buono applicato alla prenotazione in esame.

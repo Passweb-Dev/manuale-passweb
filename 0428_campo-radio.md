@@ -18,8 +18,7 @@ dato di Destinazione**" su "**Campo Cliente**" in corrispondenza del
 successivo parametro "**Campo di Destinazione**" troveremo anche
 l'opzione "**Scelta Indirizzo**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\one_step_checkout_res_radio2.bmp](./assets/media/image312.png){width="4.595138888888889in"
-height="2.926388888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\one_step_checkout_res_radio2.bmp](./assets/media/image312.png)
 
 **Scelta Indirizzo:** selezionando questa opzione il componente Radio
 Button potrà essere utilizzato per consentire all'utente di decidere,
@@ -48,8 +47,7 @@ rispettivamente di:
   utilizzare gli stessi dati sia per l'indirizzo di spedizione che per
   quello di fatturazione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\one_step_checkout_res_radio3.bmp](./assets/media/image313.png){width="4.975694444444445in"
-height="3.129166666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\one_step_checkout_res_radio3.bmp](./assets/media/image313.png)
 
 > **ATTENZIONE!** In queste condizioni i campi utilizzati per definire
 > l'eventuale indirizzo di spedizione merce (Indirizzo n.2 (o n.3 /
@@ -65,8 +63,7 @@ height="3.129166666666667in"}
   l'utente potrà ora utilizzare per indicare un indirizzo di spedizione
   merce diverso da quello di fatturazione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\one_step_checkout_res_radio4.bmp](./assets/media/image314.png){width="4.975694444444445in"
-height="3.129166666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\one_step_checkout_res_radio4.bmp](./assets/media/image314.png)
 
 **ATTEZNIONE!** Nel caso in cui l'esigenza dovesse quindi essere quella
 di permettere all'utente di decidere, direttamente in fase di checkout,
@@ -85,8 +82,7 @@ dovesse essere inerente ad una certa Lista Regalo, oltre alle due
 opzioni sopra indiate comparirà anche una terza opzione "**Indirizzo del
 gestore della Lista Regalo**" selezionata a default
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\one_step_checkout_res_radio5.bmp](./assets/media/image315.png){width="4.975694444444445in"
-height="3.129166666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\one_step_checkout_res_radio5.bmp](./assets/media/image315.png)
 
 che consente di utilizzare come indirizzo di spedizione merce quello
 impostato direttamente dal gestore della Lista in fase di creazione

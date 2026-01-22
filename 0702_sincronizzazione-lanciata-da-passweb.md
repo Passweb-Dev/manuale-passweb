@@ -8,8 +8,7 @@ dalla voce di menu **"Configurazione - Sincronizzazione",** è possibile
 gestire "**Sincronizzazioni Totali**", "**Sincronizzazioni per
 Variati**" e "**Sincronizzazioni Parziali**".
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsanti_sincronizzazione.bmp](./assets/media/image182.png){width="5.954861111111111in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsanti_sincronizzazione.bmp](./assets/media/image182.png)
 
 In particolare **le Sincronizzazioni Totali e quelle Parziali potranno
 essere lanciate solo ed esclusivamente in maniera manuale** cliccando
@@ -25,8 +24,7 @@ Nel caso in cui si desideri schedulare questo tipo di operazione
 occorrerà quindi indicare, per prima cosa, con che frequenza dovrà
 essere effettuata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sincronizzazione_variati_1.bmp](./assets/media/image183.png){width="5.954861111111111in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sincronizzazione_variati_1.bmp](./assets/media/image183.png)
 
 E' possibile decidere di eseguire quest'operazione ogni N giorni e in
 corrispondenza di specifici giorni della settimana, indicando
@@ -69,8 +67,7 @@ ad uno dei gestionali Ho.Re.Ca., consentono rispettivamente di:
   impostare il tipo di sincronizzazione che dovrà essere eseguita
   durante le sincronizzazioni schedulate.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_tipo_sincronizzazione.bmp](./assets/media/image184.png){width="5.675in"
-height="3.4090277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_tipo_sincronizzazione.bmp](./assets/media/image184.png)
 
 > E' possibile selezionare uno dei seguenti valori:
 
@@ -103,8 +100,7 @@ height="3.4090277777777778in"}
 > "**Tabella Categorie Merceologiche**" presenti in corrispondenza del
 > parametro "**Aggiornamento file da Gestionale (Variati)**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_aggiornamento_file_gestionale.bmp](./assets/media/image185.png){width="3.779166666666667in"
-height="0.34444444444444444in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_aggiornamento_file_gestionale.bmp](./assets/media/image185.png)
 
 > Per maggiori informazioni in merito si vedano anche i successivi
 > capitoli di questo manuale.
@@ -116,8 +112,7 @@ height="0.34444444444444444in"}
   precancellati e/o annullati logicamente (e che hanno ancora comunque
   il campo "Trasferisici sul sito" impostato a S).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\importa_precancellati.bmp](./assets/media/image186.png){width="5.954861111111111in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\importa_precancellati.bmp](./assets/media/image186.png)
 
 > Nel caso in cui il parametro in oggetto non dovesse essere
 > selezionato, eventuali articoli precancellati e/o annullati
@@ -148,8 +143,7 @@ height="3.532638888888889in"}
   "Non attivi" e che sono quindi fuori dall'intervallo definito dai due
   campi "**Inizio validità**" e "**Fine Validità**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\validita_articoli_horeca.bmp](./assets/media/image187.png){width="4.785416666666666in"
-height="3.123611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\validita_articoli_horeca.bmp](./assets/media/image187.png)
 
 > **ATTENZIONE!** L' "attivazione" di un articolo viene considerata ad
 > ogni sincronizzazione
@@ -183,8 +177,7 @@ height="3.123611111111111in"}
   consente di automatizzare la procedura di importazione delle risorse
   articolo.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\schedulazione_importa_risorse.bmp](./assets/media/image188.png){width="5.643055555555556in"
-height="3.5in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\schedulazione_importa_risorse.bmp](./assets/media/image188.png)
 
 > Selezionando questo parametro infatti **a seguito di ogni
 > sincronizzazione schedulata** verrà eseguita automaticamente anche la
@@ -220,8 +213,7 @@ dell'installazione gestionale**, lingua questa che può essere dichiarata
 alla pagina "**Configurazione Gestionale**" del Wizard agendo sul
 parametro "**Lingua Installazione**"
 
-![Videate\\leggimi_32.bmp](./assets/media/image189.png){width="5.8180555555555555in"
-height="3.5256944444444445in"}
+![Videate\\leggimi_32.bmp](./assets/media/image189.png)
 
 Eventuali descrizioni, per i campi delle tabelle indicate, in lingue
 diverse dalla lingua principale dell'installazione gestionale, non
@@ -236,13 +228,11 @@ a Mexal oppure ad uno dei gestionali Ho.Re.Ca.
 
 [SITI ECOMMERCE COLLEGATI A MEXAL]{.underline}
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mexal_aggiornamento_descrizioni.bmp](./assets/media/image190.png){width="6.928472222222222in"
-height="1.3506944444444444in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mexal_aggiornamento_descrizioni.bmp](./assets/media/image190.png)
 
 [SITI ECOMMERCE COLLEGATI AD UNO DEI GESTIONALI HO.RE.CA.]{.underline}
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_aggiornamento_descrizioni.bmp](./assets/media/image191.png){width="5.727083333333334in"
-height="0.7986111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_aggiornamento_descrizioni.bmp](./assets/media/image191.png)
 
 Per maggiori informazioni relativamente a ciascuna delle tabelle
 indicate all'interno di questa sezione si vedano i successivi capitoli
@@ -541,8 +531,7 @@ una **Sincronizzazione automatica** (e indipendentemente dal fatto che
 tale sincronizzazione automatica sia stata impostata come sincro totale
 o solo per variati).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_aggiornamento_file_gestionale.bmp](./assets/media/image185.png){width="3.779166666666667in"
-height="0.34444444444444444in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_aggiornamento_file_gestionale.bmp](./assets/media/image185.png)
 
 Nello specifico i due parametri presenti all'interno di questa sezione
 consentiranno rispettivamente di:

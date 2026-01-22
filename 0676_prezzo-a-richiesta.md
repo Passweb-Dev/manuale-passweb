@@ -20,8 +20,7 @@ individuare gli articoli per i quali la si vuole effettivamente
 abilitare e, successivamente, flaggare nella loro anagrafica Passweb il
 parametro "**Prezzo a Richiesta**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_prezzo_a_richiesta.bmp](./assets/media/image129.png){width="5.792361111111111in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_prezzo_a_richiesta.bmp](./assets/media/image129.png)
 
 In queste condizioni dunque per tutti gli articoli per i quali è stato
 selezionato il parametro evidenziato in figura, sul sito, al posto del

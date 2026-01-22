@@ -5,8 +5,7 @@
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\commenti_prodotti_configurazione_res.bmp](./assets/media/image417.png){width="4.729861111111111in"
-height="3.0in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\commenti_prodotti_configurazione_res.bmp](./assets/media/image417.png)
 
 suddivisa in varie sezioni.
 
@@ -56,8 +55,7 @@ sito. In particolare sarà possibile selezionare uno dei seguenti valori:
 > l'utente della possibilità di inserire nuovi commenti solo previa
 > autenticazione.
 
-![\\\\192.168.0.84\\d\$\\ManPassweb_Ecommerce\\Videate\\commenti_prodotti_0.bmp](./assets/media/image418.png){width="6.043055555555555in"
-height="3.558333333333333in"}
+![\\\\192.168.0.84\\d\$\\ManPassweb_Ecommerce\\Videate\\commenti_prodotti_0.bmp](./assets/media/image418.png)
 
 - **Visibilità del Box della Text Area Commento tramite
   Autenticazione:** selezionando questo valore tutti gli utenti del
@@ -69,8 +67,7 @@ height="3.558333333333333in"}
 > In queste condizioni, inoltre, la text-area per l'inserimento di un
 > nuovo commento verrà visualizzata ai soli utenti autenticati.
 
-![\\\\192.168.0.84\\d\$\\ManPassweb_Ecommerce\\Videate\\commenti_prodotti_1.bmp](./assets/media/image419.png){width="6.043055555555555in"
-height="3.558333333333333in"}
+![\\\\192.168.0.84\\d\$\\ManPassweb_Ecommerce\\Videate\\commenti_prodotti_1.bmp](./assets/media/image419.png)
 
 - **Visibilità del Box della Text Area Commento e del Box dei Commenti
   tramite autenticazione:** selezionando questo valore la possibilità di
@@ -111,8 +108,7 @@ della porzione del componente contenente i commenti già effettuati.
 selezionato, l'immagine del proprio Avatar a fianco del box di
 inserimento di nuovi commenti.
 
-![\\\\192.168.0.84\\d\$\\ManPassweb_Ecommerce\\Videate\\visualizza_avatar.bmp](./assets/media/image420.png){width="6.043055555555555in"
-height="3.558333333333333in"}
+![\\\\192.168.0.84\\d\$\\ManPassweb_Ecommerce\\Videate\\visualizza_avatar.bmp](./assets/media/image420.png)
 
 **Percorso immagine Avatar:** consente di impostare l'immagine di
 default da utilizzare per l'Avatar degli utenti che non ne abbiano
@@ -123,8 +119,7 @@ selezionato, un controllo, costituito a default da 5 stelle, che
 l'utente dovrà utilizzare per dare un voto al prodotto che intende
 commentare.
 
-![\\\\192.168.0.84\\d\$\\ManPassweb_Ecommerce\\Videate\\visualizza_rating.bmp](./assets/media/image421.png){width="6.043055555555555in"
-height="3.558333333333333in"}
+![\\\\192.168.0.84\\d\$\\ManPassweb_Ecommerce\\Videate\\visualizza_rating.bmp](./assets/media/image421.png)
 
 **ATTENZIONE!! Nel caso in cui sia stato selezionato il precedente
 parametro "Commento obbligatorio", per poter assegnare un voto al
@@ -190,8 +185,7 @@ componente in oggetto, un menu a tendina contenente l'elenco dei valori
 immessi (compreso anche, ovviamente, il valore indicato all'interno del
 precedente parametro "Numero di commenti da visualizzare per Pagina").
 
-![\\\\192.168.0.84\\d\$\\ManPassweb_Ecommerce\\Videate\\commenti_elementi_per_pagina.bmp](./assets/media/image422.png){width="6.061111111111111in"
-height="4.3805555555555555in"}
+![\\\\192.168.0.84\\d\$\\ManPassweb_Ecommerce\\Videate\\commenti_elementi_per_pagina.bmp](./assets/media/image422.png)
 
 Selezionando uno dei valori presenti in elenco il componente verrà
 ricaricato e popolato con il numero di articoli per pagina indicati

@@ -6,8 +6,7 @@ All'interno di questa sezione è possibile visualizzare una serie di
 Indicatori in grado di fornire informazioni puntuali sui principali dati
 Ecommerce.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ecommerce_indicatori_generali.bmp](./assets/media/image20.png){width="5.649305555555555in"
-height="3.5256944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ecommerce_indicatori_generali.bmp](./assets/media/image20.png)
 
 **ATTENZIONE!** gli indicatori visualizzati possono variare in relazione
 alle impostazione settate per i parametri presenti all'interno delle
@@ -30,8 +29,7 @@ riferimento sempre al periodo temporale, ai clienti e agli stati
 d'ordine selezionati mediante i relativi controlli presenti nella barra
 dei filtri posta immediatamente al di sopra degli indicatori stessi**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ec_bacheca_ecommerce_1.bmp](./assets/media/image7.png){width="5.104166666666667in"
-height="3.1819444444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ec_bacheca_ecommerce_1.bmp](./assets/media/image7.png)
 
 **ATTENZIONE!** Il filtro clienti verrà visualizzato solo nel momento in
 cui ad effettuare l'autenticazione in area riservata dovesse essere un
@@ -46,8 +44,7 @@ verranno valutati eventuali incrementi / decrementi degli indicatori, è
 visualizzato nella parte bassa di questa sezione e, ovviamente, varia in
 relazione a quello che è il periodo attuale selezionato.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ecommerce_indicatori_periodo_precedente.bmp](./assets/media/image21.png){width="5.740277777777778in"
-height="4.486805555555556in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ecommerce_indicatori_periodo_precedente.bmp](./assets/media/image21.png)
 
 Supponendo dunque di selezionare come periodo attuale il mese in corso,
 il periodo precedente rispetto cui verranno valutati incrementi /
@@ -66,8 +63,7 @@ di questa sezione verrà visualizzato un piccolo Tooltip contenente una
 breve spiegazione relativa a quello che il dato in questione
 rappresenta:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ecommerce_indicatori_tooltip.bmp](./assets/media/image22.png){width="5.649305555555555in"
-height="3.5256944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ecommerce_indicatori_tooltip.bmp](./assets/media/image22.png)
 
 - **Totale Vendite**: Totale dei documenti riferiti al periodo indicato
   con uno stato che rientra tra quelli selezionati.

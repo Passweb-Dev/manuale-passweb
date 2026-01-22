@@ -5,8 +5,7 @@
 Il Componente consente di inserire all'interno della pagina web snippet
 di codice HTML completamente personalizzabili.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_html_res.bmp](./assets/media/image169.png){width="2.825in"
-height="3.467361111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_html_res.bmp](./assets/media/image169.png)
 
 L'utilizzo di questo componente, assieme alla gestione del layout della
 pagina web, con le possibilità di inclusione di file CSS e Javascript,

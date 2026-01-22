@@ -8,8 +8,7 @@ relazione al Vettore Bartolini**, il servizio di consegna merce (a
 carico del vettore) e ritiro (a carico dell'utente) in uno dei
 Fermopoint abilitati.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pudo_brt_1.bmp](./assets/media/image135.png){width="5.707638888888889in"
-height="3.6041666666666665in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pudo_brt_1.bmp](./assets/media/image135.png)
 
 **ATTENZIONE!** **Il parametro evidenziato in figura sarà disponibile
 solo dopo aver attivato il corrispondente modulo su Passstore**

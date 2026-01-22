@@ -6,8 +6,7 @@ All'interno della sezione **"Browser"** è possibile visualizzare alcune
 informazioni relativamente ai Browser utilizzati dai vari utenti per
 navigare il nostro sito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\statistiche_browser_1.bmp](./assets/media/image4.png){width="6.0125in"
-height="3.5340277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\statistiche_browser_1.bmp](./assets/media/image4.png)
 
 Il grafico presente nella parte alta della pagina (sezione "**Visitatoti
 Unici per Browser**") consente di visualizzare l'andamento nel tempo del
@@ -15,8 +14,7 @@ numero di pagine visitate con le diverse tipologie di browser
 
 La tabella "**Browser più popolari**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\statistiche_browser_2.bmp](./assets/media/image5.png){width="6.0125in"
-height="3.5340277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\statistiche_browser_2.bmp](./assets/media/image5.png)
 
 consente invece di visualizzare, sempre in relazione al periodo
 temporale indicato e alla Variante selezionata, il numero di pagine

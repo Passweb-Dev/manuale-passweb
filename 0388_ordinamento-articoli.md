@@ -37,8 +37,7 @@ l'ordinamento degli articoli, è necessario agire dalla sezione
 **"Gestione Campi di Ordinamento"**, presente anch'essa all'interno
 della maschera di configurazione del componente
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ordinamento_carrello.bmp](./assets/media/image193.png){width="4.122916666666667in"
-height="2.3006944444444444in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ordinamento_carrello.bmp](./assets/media/image193.png)
 
 All'interno di questa sezione, sulla sinistra sono elencati gli elementi
 di ordinamento attualmente codificati, sulla destra sono invece
@@ -49,8 +48,7 @@ sezione "**Modifica Campo Ordinamento**".
 
 Allo stesso modo per codificare un nuovo elemento sarà necessario
 cliccare sull'icona raffigurante un piccolo + (
-![Videate\\icona_aggiungi.bmp](./assets/media/image163.png){width="0.19027777777777777in"
-height="0.19027777777777777in"} ) e definire poi le proprietà
+![Videate\\icona_aggiungi.bmp](./assets/media/image163.png) ) e definire poi le proprietà
 dell'elemento stesso.
 
 In particolare per ogni singolo elemento di ordinamento occorrerà

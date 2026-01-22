@@ -38,23 +38,20 @@ agire dalla schermata "**Account**" dell'interfaccia web, cliccare sul
 nome dell'account da gestire e scegliere da menu a tendina la voce
 "**Gestione** **Utenti**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_50.bmp](./assets/media/image3.png){width="5.057638888888889in"
-height="3.3569444444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_50.bmp](./assets/media/image3.png)
 
 In questo modo si avrà infatti accesso a quella specifica sezione
 dell'interfaccia web di GTM all'interno della quale poter visualizzare,
 aggiungere o gestire i diversi utenti.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_51.bmp](./assets/media/image4.png){width="5.057638888888889in"
-height="3.3569444444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_51.bmp](./assets/media/image4.png)
 
 Per aggiungere, ad esempio, un nuovo utente è sufficiente cliccare sul
 pulsante raffigurante un piccolo + posto nella barra alta degli
 strumenti e selezionare poi dal relativo menu a tendina l'opzione
 "**Aggiungi Utenti**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_51_A.bmp](./assets/media/image5.png){width="5.057638888888889in"
-height="3.3569444444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_51_A.bmp](./assets/media/image5.png)
 
 Verrà quindi aperta la maschera di creazione del nuovo utente in cui
 poter inserire l'indirizzo Mail dell'utente che si vuole invitare ad
@@ -63,8 +60,7 @@ dell'agenzia cui abbiamo demandato questo tipo di lavoro) e,
 soprattutto, definire le autorizzazioni che il Nuovo Utente dovrà avere
 all'interno del nostro Account.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_52.bmp](./assets/media/image6.png){width="5.057638888888889in"
-height="3.3569444444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_52.bmp](./assets/media/image6.png)
 
 Per maggiori informazioni relativamente alle procedure amministrative di
 GTM si consiglia di fare riferimento alla specifica documentazione di

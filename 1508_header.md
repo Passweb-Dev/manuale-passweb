@@ -18,8 +18,7 @@ questo tag anche elementi necessari per gestire delle sotto-intestazioni
 informazioni di supporto alla sezione cui l'header in oggetto fa da
 intestazione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\html5_7.bmp](./assets/media/image7.png){width="2.842361111111111in"
-height="1.1381944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\html5_7.bmp](./assets/media/image7.png)
 
 **E' all'interno di questo elemento che andrebbero quindi inseriti i tag
 title h1 e h2 più importanti della pagina.**
@@ -49,8 +48,7 @@ utilizzare un Componente Contenitore impostando, in fase di
 configurazione del componente stesso, il parametro "**Tag**" sul valore
 "**Header**"
 
-![Videate\\html5_5.bmp](./assets/media/image8.png){width="4.605555555555555in"
-height="3.0458333333333334in"}
+![Videate\\html5_5.bmp](./assets/media/image8.png)
 
 I contenuti introduttivi della sezione andranno quindi inseriti,
 mediante gli appositi componenti Passweb, all'interno di questo

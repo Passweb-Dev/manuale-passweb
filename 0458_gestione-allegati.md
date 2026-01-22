@@ -8,8 +8,7 @@ di visualizzazione del dettaglio comparirà anche una sezione
 "**Allegati**" contenente l'elenco di tutti i file attualmente allegati
 al documento in esame.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\allegati_ordine_frontend.bmp](./assets/media/image403.png){width="5.576388888888889in"
-height="3.3805555555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\allegati_ordine_frontend.bmp](./assets/media/image403.png)
 
 Cliccando sul nome dell'allegato verrà avviato il download del relativo
 file
@@ -27,8 +26,7 @@ Inoltre, una volta attivata e configurata correttamente, sul componente
 "Ordine Custom (Checkout)", la gestione degli allegati, all' interno di
 questa sezione potrà comparire anche il pulsante "**Gestisci Allegati**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\ordini_gestione_allegati.bmp](./assets/media/image404.png){width="5.576388888888889in"
-height="3.3805555555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\ordini_gestione_allegati.bmp](./assets/media/image404.png)
 
 Cliccando su questo pulsante sarà quindi possibile aggiungere nuovi
 allegati, rimuovere eventuali file precedentemente allegati al documento

@@ -6,8 +6,7 @@ All'interno di questa sezione è possibile impostare tutti i parametri
 necessari per poter specificare come dovranno essere gestiti all'interno
 del proprio sito Ecommerce i documenti di tipo Matrice.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_matrici.bmp](./assets/media/image774.png){width="5.792361111111111in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_matrici.bmp](./assets/media/image774.png)
 
 In particolare occorrerà indicare un valore per i seguenti parametri:
 
@@ -22,8 +21,7 @@ In particolare occorrerà indicare un valore per i seguenti parametri:
 > dettaglio di ogni singolo documento di tipo Matrice creato sul
 > gestionale ed esportato all'interno del sito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_matrici2.bmp](./assets/media/image775.png){width="5.480555555555555in"
-height="3.5194444444444444in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_matrici2.bmp](./assets/media/image775.png)
 
 > Per maggiori informazioni relativamente a come poter esportare da
 > Mexal documenti di tipo Matrice si veda anche il capitolo
@@ -39,8 +37,7 @@ height="3.5194444444444444in"}
 > esclusivamente i documenti di tipo Matrice che sono stati associati,
 > lato gestionale, alla Causale indicata all'interno di questo campo**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_matrici3.bmp](./assets/media/image776.png){width="5.220833333333333in"
-height="2.6041666666666665in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_matrici3.bmp](./assets/media/image776.png)
 
 > Alla sincronizzazione verranno quindi eliminati automaticamente
 > eventuali documenti di tipo Matrice presenti sul sito ma non associati

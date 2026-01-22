@@ -32,8 +32,7 @@ la prima cosa da fare sarà quella di configurare il componente
 Componenti Comuni, impostando il parametro "**Tipo**" sul valore
 "**Ricerca sul CMS**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ricerca_cms0_res.bmp](./assets/media/image37.png){width="4.610416666666667in"
-height="3.0909722222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ricerca_cms0_res.bmp](./assets/media/image37.png)
 
 **In queste condizioni il Componente "Ricerca" potrà ovviamente essere
 inserito all'interno di una qualsiasi pagina del sito; al fine di

@@ -46,8 +46,7 @@ Nello specifico sarà dunque necessario:
 > browser) dove potremo esaminare il dettaglio di tutte le chiamate
 > effettuate dal browser
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gads_convalida_ec_1.bmp](./assets/media/image9.png){width="5.346527777777778in"
-height="3.5in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gads_convalida_ec_1.bmp](./assets/media/image9.png)
 
 - Una volta effettuato l'accesso a questa sezione degli Strumenti per
   Sviluppatori dovremo cliccare sul piccolo segnale di divieto posto in
@@ -56,8 +55,7 @@ height="3.5in"}
   verificare di aver selezionato l'opzione All presente sempre nella
   barra degli strumenti di questa sezione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gads_convalida_ec_2.bmp](./assets/media/image10.png){width="5.346527777777778in"
-height="3.5in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gads_convalida_ec_2.bmp](./assets/media/image10.png)
 
 - A questo punto posto, ovviamente, di aver prestato tutti i consensi
   necessari per consentire di attivare il sistema di tracciamento,
@@ -66,8 +64,7 @@ height="3.5in"}
   popolarsi la scheda Network degli Strumenti per sviluppatori di Chrome
   con tutte le varie chiamate effettuate dal browser
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gads_convalida_ec_3.bmp](./assets/media/image11.png){width="5.353472222222222in"
-height="3.5069444444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gads_convalida_ec_3.bmp](./assets/media/image11.png)
 
 - Tra tutte queste chiamate dovremo ora isolare quelle effettuate verso
   Google Ads e per far questo sarà sufficiente inserire nel pannello di
@@ -77,16 +74,14 @@ height="3.5069444444444446in"}
   individua la chiamata fatta dal browser verso Google Ads può cambiare
   a seconda del browser utilizzato)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gads_convalida_ec_4.bmp](./assets/media/image12.png){width="5.346527777777778in"
-height="3.5in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gads_convalida_ec_4.bmp](./assets/media/image12.png)
 
 - Una volta isolate la chiamate effettuate dal browser verso Google Ads
   dovremo esaminarne il dettaglio semplicemente cliccandoci sopra e
   portandoci poi nella scheda "**Payload**" cliccando sull'apposito
   pulsante presente nella parte destra della maschera
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gads_convalida_ec_5.bmp](./assets/media/image13.png){width="5.346527777777778in"
-height="3.5in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gads_convalida_ec_5.bmp](./assets/media/image13.png)
 
 - Arrivati a questo punto per verificare che i dati utente siano stati
   inviati correttamente a Google Ads assieme alla relativa conversione,
@@ -99,8 +94,7 @@ height="3.5in"}
 > conversione avanzata sono stati inviati o meno a Google Analytics e,
 > in caso positivo, se tale invio ha presentato o meno degli errori
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gads_convalida_ec_6.bmp](./assets/media/image14.png){width="5.346527777777778in"
-height="3.5in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gads_convalida_ec_6.bmp](./assets/media/image14.png)
 
 > Nello specifico:
 
@@ -135,8 +129,7 @@ conversione, se questo dovesse poi presentare dei problemi verranno
 visualizzati appositi messaggi in corrispondenza delle colonne "Stato" e
 "Azioni"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gads_convalida_ec_7.bmp](./assets/media/image15.png){width="5.406944444444444in"
-height="3.520138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gads_convalida_ec_7.bmp](./assets/media/image15.png)
 
 In queste condizioni, sarà quindi necessario:
 
@@ -144,48 +137,41 @@ In queste condizioni, sarà quindi necessario:
   corrispondenza dell'obiettivo per cui dovremo tracciare la conversione
   avanzata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gads_convalida_ec_8.bmp](./assets/media/image16.png){width="5.406944444444444in"
-height="3.520138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gads_convalida_ec_8.bmp](./assets/media/image16.png)
 
 - Nella successiva maschera, che ci spiegherà la procedura da seguire
   per validare la conversione, cliccare sul pulsante "**Continua**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gads_convalida_ec_9.bmp](./assets/media/image17.png){width="5.406944444444444in"
-height="3.520138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gads_convalida_ec_9.bmp](./assets/media/image17.png)
 
 - Verrà quindi aperta la maschera di connessione a Tag Assistant
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gads_convalida_ec_10.bmp](./assets/media/image18.png){width="5.406944444444444in"
-height="3.520138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gads_convalida_ec_10.bmp](./assets/media/image18.png)
 
 > Digitare quindi, se non presente, l'url del nostro sito e cliccare sul
 > pulsante "**Connetti**"
 
 - Su di un nuovo tab del browser verrà aperto il nostro sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gads_convalida_ec_12.bmp](./assets/media/image19.png){width="5.406944444444444in"
-height="3.520138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gads_convalida_ec_12.bmp](./assets/media/image19.png)
 
 > mentre nel tab attuale avremo la possibilità di vedere ed esaminare
 > nel dettaglio tutti i tag e gli hit inviati dal browser ai sistemi di
 > tracciamento collegati tra cui anche Google Ads
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gads_convalida_ec_11.bmp](./assets/media/image20.png){width="5.406944444444444in"
-height="3.520138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gads_convalida_ec_11.bmp](./assets/media/image20.png)
 
 - Spostandoci nel tab di visualizzazione del sito dovremo a questo punto
   completare un ordine in maniera tale da attivare la conversione che
   dovrebbe poi essere registrata da Ads
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gads_convalida_ec_13.bmp](./assets/media/image21.png){width="5.406944444444444in"
-height="3.520138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gads_convalida_ec_13.bmp](./assets/media/image21.png)
 
 - Una volta completata la conversione, se tutto ha funzionato
   correttamente, vedremo cambiare il messaggio presente all'interno del
   piccolo pop up di Tag Assistant
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gads_convalida_ec_14.bmp](./assets/media/image22.png){width="5.406944444444444in"
-height="3.520138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gads_convalida_ec_14.bmp](./assets/media/image22.png)
 
 > messaggio questo che, ora, ci informerà che è tutto a posto e che la
 > conversione effettuata sul sito sta inviando correttamente i dati
@@ -196,23 +182,19 @@ height="3.520138888888889in"}
   relativi a Google Analytics o Google Tag manager) cercare il solito
   parametro em
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gads_convalida_ec_15.bmp](./assets/media/image23.png){width="5.406944444444444in"
-height="3.520138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gads_convalida_ec_15.bmp](./assets/media/image23.png)
 
 - Fatte tutte le verifiche del caso potremo chiudere Tag Assistant
   cliccando sul pulsante "Fine" presente nel suo piccolo pop up
   iniettato nel tab del nostro sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gads_convalida_ec_16.bmp](./assets/media/image24.png){width="5.406944444444444in"
-height="3.520138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gads_convalida_ec_16.bmp](./assets/media/image24.png)
 
 > e nella successiva maschera sul pulsante "Chiudi Tag Assistant"
 
-![Videate\\gads_convalida_ec_16.bmp](./assets/media/image24.png){width="5.406944444444444in"
-height="3.520138888888889in"}
+![Videate\\gads_convalida_ec_16.bmp](./assets/media/image24.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gads_convalida_ec_17.bmp](./assets/media/image25.png){width="5.406944444444444in"
-height="3.520138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gads_convalida_ec_17.bmp](./assets/media/image25.png)
 
 - A questo punto dovremo soltanto attendere che il sito inizi ad inviare
   dei dati reali ad Ads (tipicamente sono richieste almeno 72 ore) dopo
@@ -220,6 +202,5 @@ height="3.520138888888889in"}
   configurato all'interno di Ads dovrebbe mostrare in corrispondenza
   della colonna "Stato" l'etichetta "**Attivo**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gads_convalida_ec_18.bmp](./assets/media/image26.png){width="5.406944444444444in"
-height="3.520138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gads_convalida_ec_18.bmp](./assets/media/image26.png)
 

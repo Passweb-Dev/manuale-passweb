@@ -10,34 +10,29 @@ apposite chiamate API.
 Effettuando l'accesso a questa sezione verrà quindi visualizzata la
 maschera "**Portali**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\portali_configurazione.bmp](./assets/media/image283.png){width="5.856944444444444in"
-height="3.571527777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\portali_configurazione.bmp](./assets/media/image283.png)
 
 contenente l'elenco dei portali attualmente integrati con il proprio
 sito Ecommerce. I pulsanti presenti nella barra degli strumenti
 consentono rispettivamente di:
 
 - **Elimina Portale (**
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_portale.bmp](./assets/media/image284.png){width="0.5972222222222222in"
-  height="0.18819444444444444in"} **):** consente di eliminare il
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_portale.bmp](./assets/media/image284.png) **):** consente di eliminare il
   portale attualmente selezionato in elenco
 
 - **Modifica Portale** **(**
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_portale.bmp](./assets/media/image285.png){width="0.6430555555555556in"
-  height="0.18819444444444444in"} **):** consente di modificare i
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_portale.bmp](./assets/media/image285.png) **):** consente di modificare i
   parametri di configurazione necessari per l'integrazione tra Passweb
   ed il portale attualmente selezionato in elenco
 
 - **Aggiungi Portale** **(**
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_portale.bmp](./assets/media/image286.png){width="0.675in"
-  height="0.1951388888888889in"} **):** consente di configurare
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_portale.bmp](./assets/media/image286.png) **):** consente di configurare
   l'integrazione tra Passweb ed un nuovo portale
 
 Cliccando su quest'ultimo pulsante verrà infatti visualizzata la
 maschera "**Nuovo Portale**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\portali_nuovo_portale.bmp](./assets/media/image287.png){width="5.856944444444444in"
-height="3.571527777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\portali_nuovo_portale.bmp](./assets/media/image287.png)
 
 all'interno della quale poter specificare tutti i parametri di
 configurazione necessari per attivare la comunicazione tra le due
@@ -94,8 +89,7 @@ piattaforma con cui si deve effettuare l'integrazione)
 > In queste condizioni, in fase di configurazione del portale, sarà
 > quindi necessario indicare anche i seguenti parametri:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\portali_basic_authentication.bmp](./assets/media/image288.png){width="5.856944444444444in"
-height="3.571527777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\portali_basic_authentication.bmp](./assets/media/image288.png)
 
 - **Username**: username di accesso all' account abilitato all'utilizzo
   delle API. Spesso coincide con il client_id
@@ -121,8 +115,7 @@ height="3.571527777777778in"}
 > In queste condizioni, in fase di configurazione del portale, sarà
 > quindi necessario indicare anche i seguenti parametri:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\portali_token_authentication.bmp](./assets/media/image289.png){width="5.856944444444444in"
-height="3.571527777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\portali_token_authentication.bmp](./assets/media/image289.png)
 
 - **Bearer Token**: token di autorizzazione per le chiamate API generato
   sulla piattaforma terza
@@ -143,8 +136,7 @@ height="3.571527777777778in"}
 > In queste condizioni, in fase di configurazione del portale, andranno
 > quindi specificati anche i seguenti parametri:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\portali_api_key_authentication.bmp](./assets/media/image290.png){width="5.856944444444444in"
-height="3.571527777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\portali_api_key_authentication.bmp](./assets/media/image290.png)
 
 - **API Key**: consente di indicare la chiave API, da generare sulla
   piattaforma terza, che dovrà poi essere utilizzata per consentire la
@@ -200,8 +192,7 @@ height="3.571527777777778in"}
 > parametri inviare (grant_type, client_id, scope, ecc.), come gestirne
 > la scadenza e come poterlo rinnovare.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\portali_oauth2_client_credentials.bmp](./assets/media/image291.png){width="5.856944444444444in"
-height="3.571527777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\portali_oauth2_client_credentials.bmp](./assets/media/image291.png)
 
 > Dal punto di vista implementativo supporta diversi scenari
 > (grant_type) che, lato Passweb, possono essere specificati in
@@ -275,8 +266,7 @@ height="3.571527777777778in"}
 > In queste condizioni, in fase di configurazione del portale, andranno
 > quindi specificati i seguenti parametri:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\portali_oauth2_password.bmp](./assets/media/image292.png){width="5.856944444444444in"
-height="3.571527777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\portali_oauth2_password.bmp](./assets/media/image292.png)
 
 - **Username:** generalmente è lo username dell'account utente sulla
   piattaforma terza
@@ -326,8 +316,7 @@ height="3.571527777777778in"}
 > In queste condizioni, in fase di configurazione del portale, andranno
 > quindi specificati i seguenti parametri:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\portali_oauth2_refresh_token.bmp](./assets/media/image293.png){width="5.856944444444444in"
-height="3.571527777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\portali_oauth2_refresh_token.bmp](./assets/media/image293.png)
 
 - **Client Id:** generalmente è l'id dell'applicazione realizzata sulla
   piattaforma terza per gestire questo tipo di integrazione

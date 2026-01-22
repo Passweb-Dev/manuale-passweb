@@ -70,14 +70,11 @@ calcolare l'impatto che quell'articolo a prodotto sul valore complessivo
 dell'ordine e di mostrare all'amministratore tutti questi dati
 all'interno di specifiche Dashboard
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tracciamento_clerk_1.bmp](./assets/media/image65.png){width="5.428472222222222in"
-height="3.33125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tracciamento_clerk_1.bmp](./assets/media/image65.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tracciamento_clerk_2.bmp](./assets/media/image66.png){width="5.428472222222222in"
-height="3.33125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tracciamento_clerk_2.bmp](./assets/media/image66.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tracciamento_clerk_3.bmp](./assets/media/image67.png){width="5.428472222222222in"
-height="3.3375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tracciamento_clerk_3.bmp](./assets/media/image67.png)
 
 Dal punto di vista tecnico il modo in cui tracciare questi click può
 variare a seconda di come viene implementato il singolo modulo
@@ -188,8 +185,7 @@ Per far fronte a questa situazione è necessario agire sul parametro
 di configurazione dell'Account Clerk configurato sul backend di Passweb
 (tab Ordini)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_feed_ordini_articoli_padre.bmp](./assets/media/image68.png){width="5.428472222222222in"
-height="3.33125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_feed_ordini_articoli_padre.bmp](./assets/media/image68.png)
 
 Attivando questo parametro infatti Passweb si comporterà come di seguito
 indicato:

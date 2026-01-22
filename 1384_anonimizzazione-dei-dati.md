@@ -115,8 +115,7 @@ agire dalla sezione "**Rendi anonimi i dati**" presente all'interno del
 menu "**Privacy**" nella pagina di **Amministrazione** della propria
 installazione Matomo.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_10.bmp](./assets/media/image10.png){width="4.157638888888889in"
-height="4.704166666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_10.bmp](./assets/media/image10.png)
 
 I parametri presenti all'interno del box "**Rendi anonimi i Dati di
 Tracciamento**" consentono rispettivamente di:

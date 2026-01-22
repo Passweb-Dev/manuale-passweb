@@ -10,8 +10,7 @@ di eventuali contenuti strutturati.
 componenti la struttura stessa verranno visualizzati soltanto dopo aver
 selezionato la specifica radice e dopo aver cliccato sul pulsante**
 "**Modifica Contenuto"** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_contenuto.bmp](./assets/media/image498.png){width="0.83125in"
-height="0.21458333333333332in"} ) **presente nella contestuale barra
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_contenuto.bmp](./assets/media/image498.png) ) **presente nella contestuale barra
 degli strumenti.**
 
 Per poter creare un nuovo contenuto strutturato sarà quindi necessario
@@ -22,8 +21,7 @@ Una volta definita tale radice, sarà poi necessario selezionarla e
 cliccare sul pulsante "Modifica Contenuto". In questo modo si verrà
 ricondotti alla maschera "**Modifica Contenuto**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\contenuti_strutturati.bmp](./assets/media/image530.png){width="5.746527777777778in"
-height="3.49375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\contenuti_strutturati.bmp](./assets/media/image530.png)
 
 all'interno della quale poter eventualmente variare i contenuti della
 radice considerata e, soprattutto, attraverso la quale poter organizzare
@@ -34,8 +32,7 @@ Cliccando quindi sul pulsante presente nella parte destra della maschera
 sarà possibile visualizzare ed editare la struttura del post e il
 relativo albero dei contenuti
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\contenuto_strutturato.bmp](./assets/media/image531.png){width="5.746527777777778in"
-height="3.49375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\contenuto_strutturato.bmp](./assets/media/image531.png)
 
 I pulsanti presenti nella barra degli strumenti contestuale alla
 struttura della News, consentono rispettivamente di:
@@ -51,15 +48,13 @@ elemento di tipo "Suddivisione Contenuto" si veda anche il precedente
 capitolo di questo manuale.
 
 **Nuovo Contenuto** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_contenuto.bmp](./assets/media/image532.png){width="0.48680555555555555in"
-height="0.175in"} ): consente di creare", immediatamente al di sotto
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_contenuto.bmp](./assets/media/image532.png) ): consente di creare", immediatamente al di sotto
 dello specifico contenuto attualmente selezionato all'interno
 dell'albero, un nuovo elemento di tipo "**Contenuto**". La maschera di
 creazione "**Nuovo Contenuto**", coincide in tutto e per tutto con la
 stessa maschera precedentemente analizzata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuovo_contenuto.bmp](./assets/media/image533.png){width="5.746527777777778in"
-height="3.49375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuovo_contenuto.bmp](./assets/media/image533.png)
 
 **NOTA BENE**: per maggiori informazioni relativamente a come creare un
 elemento di tipo "Contenuto" si veda anche il precedente capitolo di
@@ -93,8 +88,7 @@ selezionato.
 Verrà quindi richiesta un'ulteriore conferma relativamente allo
 spostamento che si intende effettuare.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\conferma_spostamento.bmp](./assets/media/image534.png){width="2.5131944444444443in"
-height="1.175in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\conferma_spostamento.bmp](./assets/media/image534.png)
 
 Cliccando sul pulsante "Conferma" lo spostamento sarà definitivo.
 

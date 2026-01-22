@@ -6,15 +6,13 @@ Come già indicato nel precedente capitolo per creare un nuovo Gruppo
 Utenti sarà necessario accedere alla sezione "**Utenti -- Gruppi Utenti
 Sito -- Gruppi**" del Wizard e cliccare poi sul pulsante **Nuovo Gruppo
 Utenti** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuovo_gruppo_utenti.bmp](./assets/media/image119.png){width="0.7597222222222222in"
-height="0.18819444444444444in"} ) presente nella relativa barra degli
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuovo_gruppo_utenti.bmp](./assets/media/image119.png) ) presente nella relativa barra degli
 strumenti.
 
 In questo modo si avrà infatti accesso alla maschera **"Creazione
 Gruppo"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\creazione_gruppo.bmp](./assets/media/image120.png){width="5.467361111111111in"
-height="3.5388888888888888in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\creazione_gruppo.bmp](./assets/media/image120.png)
 
 in cui poter definire tutti i parametri di configurazione del Gruppo
 Utenti che si intende realizzare.
@@ -24,8 +22,7 @@ Utenti che si intende realizzare.
 I parametri presenti all'interno di questo pannello consentono
 rispettivamente di:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gruppi_utete_pannello_area_riservata.bmp](./assets/media/image125.png){width="5.467361111111111in"
-height="3.5388888888888888in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gruppi_utete_pannello_area_riservata.bmp](./assets/media/image125.png)
 
 - **Gestione SMS:** se attivato, consente di abilitare, in Area
   Riservata, gli utenti del gruppo all'invio di SMS per notificare ai
@@ -96,8 +93,7 @@ All'interno di questo pannello è possibile definire e associare al
 gruppo che si sta realizzando specifici **filtri articolo** e/o
 specifici **filtri utente**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sezione_filtri_gruppi.bmp](./assets/media/image126.png){width="5.2659722222222225in"
-height="3.3569444444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sezione_filtri_gruppi.bmp](./assets/media/image126.png)
 
 **ATTENZIONE!** per maggiori informazioni in merito alla gestione dei
 filtri (articolo e/o utente) si veda il successivo capitolo "Filtri
@@ -111,8 +107,7 @@ commerciali a livello di prezzi, assoggettamento iva, sconti ecc...
 indicando anche come e quando queste condizioni dovranno essere
 applicate
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\condizioni_commerciali_gruppi.bmp](./assets/media/image127.png){width="5.5256944444444445in"
-height="3.454861111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\condizioni_commerciali_gruppi.bmp](./assets/media/image127.png)
 
 Nello specifico il parametro
 
@@ -146,8 +141,7 @@ specifiche condizioni relativamente ai prezzi di listino, alle aliquote
 iva, ai pagamenti abituali, all'associazione automatica cliente --
 agente ecc...
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gruppi_utete_sezione_condizioni.bmp](./assets/media/image128.png){width="5.467361111111111in"
-height="3.5388888888888888in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gruppi_utete_sezione_condizioni.bmp](./assets/media/image128.png)
 
 Nello specifico il parametro
 
@@ -332,8 +326,7 @@ decidere se impostare un "Valore Personalizzato" oppure, nel caso di
 siti Ecommerce collegati a Mexal, una delle esenzioni definite
 all'interno della relativa tabella gestionale:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\condizioni_commerciali_gruppi_iva.bmp](./assets/media/image129.png){width="3.7534722222222223in"
-height="3.129861111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\condizioni_commerciali_gruppi_iva.bmp](./assets/media/image129.png)
 
 In particolare poi nel momento in cui si dovesse decidere di utilizzare
 un Valore Personalizzato sarà possibile indicare, nel campo a fianco:
@@ -468,8 +461,7 @@ Provvigioni impostata per il gruppo a priorità più elevata.
 La sezione "**Scontistica**" consente di associare al gruppo in esame
 specifiche condizioni di sconto.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gruppi_utete_sezione_scontistica.bmp](./assets/media/image130.png){width="5.552083333333333in"
-height="3.422222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gruppi_utete_sezione_scontistica.bmp](./assets/media/image130.png)
 
 Nello specifico il parametro
 
@@ -652,8 +644,7 @@ che dovrà poi essere utilizzato per memorizzare, all'interno del
 gestionale, i Documenti (OC, OX) e i Preventivi (PR, PC) generati dai
 clienti / agenti appartenenti al gruppo in esame.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gruppi_utete_sezione_magazzino.bmp](./assets/media/image131.png){width="6.097222222222222in"
-height="3.7534722222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gruppi_utete_sezione_magazzino.bmp](./assets/media/image131.png)
 
 Nello specifico il parametro:
 
@@ -741,8 +732,7 @@ questo modo sarà possibile, ad esempio, utilizzare per la registrazione
 degli utenti di tipo "Privato" e per quelli di tipo "Azienda" due
 diversi Mastri Mexal
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\codici_mastro_gruppi.bmp](./assets/media/image132.png){width="6.097222222222222in"
-height="3.7534722222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\codici_mastro_gruppi.bmp](./assets/media/image132.png)
 
 I campi di ricerca presenti immediatamente al di sopra di entrambi i box
 consentono, digitando almeno 3 caratteri, di filtrare gli elementi

@@ -27,8 +27,7 @@ Nello specifico dunque per quel che riguarda i vettori di tipo:
 > suo form di configurazione sia correttamente impostato sul valore
 > "**Vettore**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\magento_vettori_9.bmp](./assets/media/image353.png){width="5.746527777777778in"
-height="3.50625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\magento_vettori_9.bmp](./assets/media/image353.png)
 
 - **Passweb:** il collegamento ad uno dei vettori codificati all'interno
   del gestionale è gestito, come evidenziato nei precedenti capitoli di

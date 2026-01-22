@@ -9,8 +9,7 @@ anche una o più immagini.
 Cliccando sul pulsante "**Immagine**" ( ), presente nella barra degli
 strumenti, verrà infatti aperta la maschera "**Proprietà Immagine**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\proprieta_immagine_res.bmp](./assets/media/image281.png){width="2.171527777777778in"
-height="2.8958333333333335in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\proprieta_immagine_res.bmp](./assets/media/image281.png)
 
 attraverso cui poter definire tutte le caratteristiche (larghezza,
 altezza, allineamento ecc ...) dell'immagine che si desidera inserire

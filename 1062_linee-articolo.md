@@ -13,8 +13,7 @@ articoli appartenenti alla linea/linee indicate**.
 **NOTA BENE:** una stessa linea articolo può essere associata
 contemporaneamente a due o più metodi di trasporto differenti.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\metodo_trasporto_linee_articolo.bmp](./assets/media/image293.png){width="5.584722222222222in"
-height="3.441666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\metodo_trasporto_linee_articolo.bmp](./assets/media/image293.png)
 
 Nello specifico per associare al metodo di trasporto in questione una
 specifica linea articolo, sarà sufficiente selezionarla dal box di

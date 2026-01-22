@@ -6,8 +6,7 @@ Dipendentemente dalla particolare tipologia di documento considerato e
 da quello che è il suo stato attuale è possibile effettuare sul
 documento stesso diverse operazioni:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\componente_ecommerce_ordini_esempio3.bmp](./assets/media/image399.png){width="5.177777777777778in"
-height="3.4972222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\componente_ecommerce_ordini_esempio3.bmp](./assets/media/image399.png)
 
 In particolare il pulsante:
 
@@ -96,8 +95,7 @@ tipologia di documento considerato, diversi tipi di operazioni
 In questo senso i pulsanti "**Stampa**", "**Stampa PDF**" e
 "**Riordina**" consentono rispettivamente di:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\componente_ecommerce_ordini_esempio2.bmp](./assets/media/image400.png){width="5.190277777777778in"
-height="3.509027777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\componente_ecommerce_ordini_esempio2.bmp](./assets/media/image400.png)
 
 - **Stampa:** consente di stampare il documento attualmente visualizzato
 
@@ -115,8 +113,7 @@ Nel caso di **evasioni parziali** nel dettaglio del documento verranno
 riportati anche i riferimenti di tutti i documenti (bolle, fatture, resi
 ecc..) ad esso correlati.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dettaglio_doc_correlati.bmp](./assets/media/image401.png){width="4.502777777777778in"
-height="3.607638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dettaglio_doc_correlati.bmp](./assets/media/image401.png)
 
 Ognuno di questi riferimenti sarà inoltre un link al dettaglio del
 relativo documento. Sfruttando questi collegamenti l'utente avrà quindi
@@ -129,8 +126,7 @@ presente in questo stesso documento, con le quantità presenti nella
 relativa riga, in Carrello (pulsante "**Aggiungi in Carrello**") oppure
 alla Wishlist (pulsante "**Aggiungi alla Wishlist**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dettaglio_matrice.bmp](./assets/media/image402.png){width="3.9756944444444446in"
-height="3.6131944444444444in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dettaglio_matrice.bmp](./assets/media/image402.png)
 
 Anche in questo caso, come per il riordino sarà effettivamente possibile
 aggiungere in carrello o in Wishlist uno degli articoli presenti

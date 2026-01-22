@@ -5,15 +5,13 @@
 Il componente "**Cambio Password**" può essere utilizzato all'interno di
 una qualsiasi pagina generica (bianca) del sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_cambio_password_res.bmp](./assets/media/image8.png){width="2.123611111111111in"
-height="2.5388888888888888in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_cambio_password_res.bmp](./assets/media/image8.png)
 
 e consente di inserire all'interno di questa stessa pagina un modulo che
 l'utente potrà utilizzare per reimpostare la propria password di accesso
 al sito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\modulo_cambio_password.bmp](./assets/media/image9.png){width="4.597222222222222in"
-height="3.0972222222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\modulo_cambio_password.bmp](./assets/media/image9.png)
 
 **Il componente "Cambio Password" diventa dunque di fondamentale
 importanza nel momento in cui si dovesse decidere di gestire la
@@ -44,8 +42,7 @@ necessario:
   Parametri degli Utenti -- Dati Email*") il segnaposto
   **{{VERIFYURL}}**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\segnaposto_link_cambio_password.bmp](./assets/media/image10.png){width="5.811805555555556in"
-height="3.370138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\segnaposto_link_cambio_password.bmp](./assets/media/image10.png)
 
 - Impostare, per tutte le Varianti Sito attualmente gestite, il
   parametro "**Pagina di Cambio Password**" presente nella maschera di
@@ -53,8 +50,7 @@ height="3.370138888888889in"}
   all'interno della quale è stato inserito il componente "Cambio
   Password"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\varianti_cambio_password.bmp](./assets/media/image11.png){width="4.636111111111111in"
-height="2.967361111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\varianti_cambio_password.bmp](./assets/media/image11.png)
 
 **ATTENZIONE!** Nel momento in cui una delle suddette condizioni non
 dovesse essere soddisfatta la procedura di recupero credenziali con

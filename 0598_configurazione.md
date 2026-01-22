@@ -5,8 +5,7 @@
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_menu_periodi_res.bmp](./assets/media/image22.png){width="4.597222222222222in"
-height="3.0652777777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_menu_periodi_res.bmp](./assets/media/image22.png)
 
 suddivisa in varie sezioni.
 

@@ -19,8 +19,7 @@ gestire solo articoli a taglie oppure solo articoli a colore.
 Questo tipo di esigenza potrebbe quindi essere gestita realizzando in
 Mexal una struttura del tipo di quella qui di seguito riportata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\taglie_e_colori.bmp](./assets/media/image395.png){width="3.4611111111111112in"
-height="2.5972222222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\taglie_e_colori.bmp](./assets/media/image395.png)
 
 **Attraverso questa struttura verranno quindi gestiti i colori degli
 articoli mentre le taglie saranno gestite attraverso l'apposita tabella

@@ -5,8 +5,7 @@
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_newsletter_configurazione.bmp](./assets/media/image146.png){width="5.084722222222222in"
-height="3.0652777777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_newsletter_configurazione.bmp](./assets/media/image146.png)
 
 suddivisa in varie sezioni.
 
@@ -87,8 +86,7 @@ configurazione di questo stesso campo, il parametro "**Tag campo**" sul
 valore "**ADDRESS**" (come evidenziato nella figura di seguito
 riportata)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mailchimp_campo_address.bmp](./assets/media/image147.png){width="5.701388888888889in"
-height="3.3506944444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mailchimp_campo_address.bmp](./assets/media/image147.png)
 
 **Tag per Campo Privato -- disponibile solo per MailChimp:** consente di
 indicare il tag assegnato, in fase di configurazione del form di
@@ -115,8 +113,7 @@ tipo "Azienda" sarà necessario:
   memorizzare l'informazione relativa al fatto che l'utente iscritto al
   servizio sia o meno un Privato.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mailchimp_campo_privato_azienda.bmp](./assets/media/image148.png){width="6.2659722222222225in"
-height="2.33125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mailchimp_campo_privato_azienda.bmp](./assets/media/image148.png)
 
 In queste condizioni il campo Privato impostato su MailChimp non verrà
 visualizzato nel form di iscrizione presente sul proprio sito Passweb ma
@@ -161,8 +158,7 @@ quello collegato al Radio Button "**Iscrizione alla Newsletter Si /
 No**" che comparirà poi all'interno del form di registrazione al sito
 e/o all'interno del form di profilo utente.
 
-![Videate\\componente_newsletter_mailchimp_1.bmp](./assets/media/image149.png){width="5.604166666666667in"
-height="3.4743055555555555in"}
+![Videate\\componente_newsletter_mailchimp_1.bmp](./assets/media/image149.png)
 
 **Posizionamento dei Campi:** consente di posizionare gli elementi
 principali del componente secondo uno schema prestabilito.

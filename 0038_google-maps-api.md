@@ -38,8 +38,7 @@ Google in merito all'utilizzo delle mappe, all'interno della sezione
 le chiavi necessarie per utilizzare all'interno del proprio sito le
 varie funzionalità messe a disposizione dalle Mappe di Google
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_preferenze_integrazioni_gmap.bmp](./assets/media/image67.png){width="5.811805555555556in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_preferenze_integrazioni_gmap.bmp](./assets/media/image67.png)
 
 Nello specifico il campo:
 
@@ -56,8 +55,7 @@ Nello specifico il campo:
 > In questo senso secondo quanto richiesto da Google la chiave in esame
 > dovrebbe implementare delle restrizioni **a livello di referrer**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\restrizioni_chiave_gmap.bmp](./assets/media/image68.png){width="5.097222222222222in"
-height="2.707638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\restrizioni_chiave_gmap.bmp](./assets/media/image68.png)
 
 - **Chiave Google Maps Distance API**: consente di inserire la chiave
   che verrà poi utilizzata per calcolare, in fase di checkout, la
@@ -81,8 +79,7 @@ height="2.707638888888889in"}
 > ricavarlo in autonomia effettuando un semplice ping al dominio del
 > sito)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\restrizioni_chiave_gmap_distance.bmp](./assets/media/image69.png){width="5.097222222222222in"
-height="2.707638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\restrizioni_chiave_gmap_distance.bmp](./assets/media/image69.png)
 
 Nel successivo capitolo di questo manuale ("*Chiavi Google Maps*"),
 viene descritta la procedura da seguire per ottenere le due chiavi da
@@ -98,39 +95,33 @@ precedente capitolo di questo manuale è necessario:
 1.  Accedere all'indirizzo <https://console.developers.google.com>
     utilizzando il proprio account Google
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login23.bmp](./assets/media/image70.png){width="5.013194444444444in"
-height="2.8375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login23.bmp](./assets/media/image70.png)
 
 2.  Una volta effettuato l'accesso alla Google Developers Console aprire
     il menu a tendina posizionato nella parte alta della pagina e creare
     poi un nuovo progetto cliccando sulla relativa voce
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login71.bmp](./assets/media/image71.png){width="5.220833333333333in"
-height="2.8569444444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login71.bmp](./assets/media/image71.png)
 
 3.  Una volta avviata la creazione di un nuovo progetto sarà necessario
     assegnargli un nome e cliccare poi sul pulsante **Crea**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login25.bmp](./assets/media/image72.png){width="5.090972222222222in"
-height="2.714583333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login25.bmp](./assets/media/image72.png)
 
 4.  Una volta completata la creazione del progetto sarà poi necessario
     accedere alla sezione "**Libreria**" cliccando per questo sulla
     relativa voce di menu presente sulla sinistra della pagina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_preferenze_integrazioni_gmap_6.bmp](./assets/media/image73.png){width="5.00625in"
-height="3.1819444444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_preferenze_integrazioni_gmap_6.bmp](./assets/media/image73.png)
 
 5.  Selezionare quindi, tra quelle presenti in Libreria, le api relative
     al servizio "**Maps Javascript API**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_preferenze_integrazioni_gmap_6a.bmp](./assets/media/image74.png){width="5.00625in"
-height="3.1819444444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_preferenze_integrazioni_gmap_6a.bmp](./assets/media/image74.png)
 
 > e successivamente cliccare sul pulsante "**Abilita**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_preferenze_integrazioni_gmap_6b.bmp](./assets/media/image75.png){width="5.00625in"
-height="3.1819444444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_preferenze_integrazioni_gmap_6b.bmp](./assets/media/image75.png)
 
 6.  Seguendo lo stesso procedimento abilitare anche le API di seguito
     indicate:
@@ -167,20 +158,17 @@ height="3.1819444444444445in"}
     parte alta della pagina e selezionare la voce "**API e servizi -
     Credenziali**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_preferenze_integrazioni_gmap_6c.bmp](./assets/media/image76.png){width="5.00625in"
-height="3.1819444444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_preferenze_integrazioni_gmap_6c.bmp](./assets/media/image76.png)
 
 9.  Cliccare quindi sulla voce "**Crea Credenziali**" e successivamente
     sulla voce "**Chiave API**" evidenziata in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_preferenze_integrazioni_gmap_8.bmp](./assets/media/image77.png){width="5.00625in"
-height="3.1819444444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_preferenze_integrazioni_gmap_8.bmp](./assets/media/image77.png)
 
 10. Completata la creazione verrà visualizzata una maschera contenente
     la chiave da inserire all'interno del proprio sito Passweb
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_preferenze_integrazioni_gmap_8a.bmp](./assets/media/image78.png){width="5.00625in"
-height="3.1819444444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_preferenze_integrazioni_gmap_8a.bmp](./assets/media/image78.png)
 
 > Copiare quindi il contenuto del campo "**La tua chiave API**" ed
 > inserirlo, a seconda del tipo chiave che si è deciso di generare,
@@ -188,8 +176,7 @@ height="3.1819444444444445in"}
 > Maps Distance API**" presente alla pagina "*Sito -- Preferenze --
 > Integrazioni*" del Wizard, sezione relativa a Google.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_preferenze_integrazioni_gmap.bmp](./assets/media/image67.png){width="5.811805555555556in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_preferenze_integrazioni_gmap.bmp](./assets/media/image67.png)
 
 11. Completare la configurazione della chiave API aggiungendo tutte le
     limitazioni del caso. Portarsi quindi, sulla Google developer
@@ -198,8 +185,7 @@ height="3.532638888888889in"}
     raffigurante una piccola matita presente in corrispondenza di questa
     stessa chiave
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_preferenze_integrazioni_gmap_9.bmp](./assets/media/image79.png){width="5.00625in"
-height="3.1819444444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_preferenze_integrazioni_gmap_9.bmp](./assets/media/image79.png)
 
 12. Nella maschera di dettaglio della chiave, assegnare un nome alla
     chiave stessa all'interno del campo "**Nome**" e soprattutto
@@ -212,8 +198,7 @@ height="3.1819444444444445in"}
 > pulsante "**Aggiungi un elemento**" e successivamente inserire
 > all'interno del campo "Nuovo elemento" il dominio del proprio sito web
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_preferenze_integrazioni_gmap_10.bmp](./assets/media/image80.png){width="5.00625in"
-height="3.1819444444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_preferenze_integrazioni_gmap_10.bmp](./assets/media/image80.png)
 
 > Cliccare quindi sul pulsante "**Fine**"
 >
@@ -221,8 +206,7 @@ height="3.1819444444444445in"}
 > invece l'opzione "**Limita chiave**" e cliccare sul campo "**Select
 > APIs**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_preferenze_integrazioni_gmap_11.bmp](./assets/media/image81.png){width="5.00625in"
-height="3.1819444444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_preferenze_integrazioni_gmap_11.bmp](./assets/media/image81.png)
 
 > In questo modo dovrebbero comparire tutte le API attualmente attive
 > per il progetto su cui stiamo lavorando (e tra queste quindi anche
@@ -244,8 +228,7 @@ height="3.1819444444444445in"}
 > Passepartout oppure ricavare questa informazione con un semplice ping
 > al dominio del proprio sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\restrizioni_chiave_gmap_distance.bmp](./assets/media/image69.png){width="5.097222222222222in"
-height="2.707638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\restrizioni_chiave_gmap_distance.bmp](./assets/media/image69.png)
 
 > Cliccare quindi sul pulsante "**Fine**"
 >
@@ -253,8 +236,7 @@ height="2.707638888888889in"}
 > invece l'opzione "**Limita chiave**" e cliccare sul campo "**Select
 > APIs**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_preferenze_integrazioni_gmap_11b.bmp](./assets/media/image82.png){width="5.097222222222222in"
-height="2.714583333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_preferenze_integrazioni_gmap_11b.bmp](./assets/media/image82.png)
 
 > In questo modo dovrebbero comparire tutte le API attualmente attive
 > per il progetto su cui stiamo lavorando (e tra queste quindi anche la

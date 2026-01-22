@@ -21,8 +21,7 @@ In questo senso la sezione "**Gestione Risorse del Sito**" consente di
 visualizzare tutte le risorse grafiche attualmente utilizzate
 all'interno del sito, sostituire tali risorse e/o aggiungerne di nuove.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_risorse_sito.bmp](./assets/media/image436.png){width="5.779166666666667in"
-height="3.5256944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_risorse_sito.bmp](./assets/media/image436.png)
 
 La pagina è suddivisa in due distinte sezioni: nella sezione di sinistra
 vengono visualizzate le cartelle, organizzate su una struttura ad
@@ -32,8 +31,7 @@ I pulsanti presenti nella contestuale barra degli strumenti consentono
 rispettivamente di:
 
 **Conversione in .webp** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_conversione_webp.bmp](./assets/media/image437.png){width="0.7791666666666667in"
-height="0.18194444444444444in"} ): visibile solo selezionando la
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_conversione_webp.bmp](./assets/media/image437.png) ): visibile solo selezionando la
 cartella "Resources". Consente di avviare manualmente la procedura di
 conversione in formato .webp **di tutte le immagini presenti nelle
 sottostanti cartelle**.
@@ -41,8 +39,7 @@ sottostanti cartelle**.
 Cliccando su questo pulsante verrà quindi visualizzata la maschera
 "**Conversione in .webp**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\conversione_webp.bmp](./assets/media/image438.png){width="5.779166666666667in"
-height="3.5256944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\conversione_webp.bmp](./assets/media/image438.png)
 
 all'interno della quale poter impostare la qualità da utilizzare nel
 processo di conversione (ovviamente più alto sarà il grado di qualità
@@ -91,28 +88,24 @@ indicato nel relativo capitolo ("*Sito -- Preferenze -- SEO Caricamento
 Pagina*") di questo manuale
 
 **Crea Cartella** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_crea_cartella.bmp](./assets/media/image439.png){width="0.48680555555555555in"
-height="0.18819444444444444in"} ): consente di creare una nuova
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_crea_cartella.bmp](./assets/media/image439.png) ): consente di creare una nuova
 cartella. Cliccando su questo pulsante verrà quindi visualizzata la
 sezione "**Nuova Cartella**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\crea_cartella_LE.bmp](./assets/media/image440.png){width="5.779166666666667in"
-height="3.5256944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\crea_cartella_LE.bmp](./assets/media/image440.png)
 
 Sarà quindi sufficiente assegnare un nome alla cartella che si sta
 creando e cliccare poi sul pulsante **"Conferma"**.
 
 **Elimina Cartella**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina.bmp](./assets/media/image347.png){width="0.3506944444444444in"
-height="0.18819444444444444in"} ): consente di eliminare la cartella
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina.bmp](./assets/media/image347.png) ): consente di eliminare la cartella
 attualmente selezionata.
 
 **NOTA BENE**: eliminando una cartella verranno eliminate
 automaticamente anche tutte le eventuali risorse in essa contenute.
 
 **Scarica**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_scarica.bmp](./assets/media/image348.png){width="0.31805555555555554in"
-height="0.18819444444444444in"} ): consente di effettuare il download
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_scarica.bmp](./assets/media/image348.png) ): consente di effettuare il download
 della cartella selezionata e di tutte le risorse grafiche in essa
 contenute
 
@@ -120,15 +113,13 @@ Una volta selezionata una cartella, nella parte destra della pagina
 verrà visualizzato l'elenco di tutte le risorse presenti all'interno
 della cartella stessa.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_risorse_file.bmp](./assets/media/image441.png){width="5.779166666666667in"
-height="3.5256944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_risorse_file.bmp](./assets/media/image441.png)
 
 I pulsanti presenti nella contestuale barra degli strumenti consentono
 rispettivamente di:
 
 **Pubblica un File**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_pubblica_file.bmp](./assets/media/image345.png){width="0.5847222222222223in"
-height="0.175in"} ): consente di caricare una nuova risorsa da poter poi
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_pubblica_file.bmp](./assets/media/image345.png) ): consente di caricare una nuova risorsa da poter poi
 utilizzare all'interno delle pagine del proprio sito. Per maggiori
 informazioni relativamente a come effettuare questo tipo di operazioni
 si veda anche il successivo capitolo di questo manuale.
@@ -137,8 +128,7 @@ si veda anche il successivo capitolo di questo manuale.
 jpeg, png ...) di dimensioni superiori ad 1MB.
 
 **Elimina**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina.bmp](./assets/media/image347.png){width="0.3506944444444444in"
-height="0.18819444444444444in"} ): consente di eliminare dal sito le
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina.bmp](./assets/media/image347.png) ): consente di eliminare dal sito le
 risorse attualmente selezionate.
 
 **ATTENZIONE! Sia in modalità Preview che in modalità tabellare è
@@ -152,12 +142,10 @@ Volendo è anche possibile selezionare / deselezionare in blocco tutte le
 risorse attualmente presenti in griglia cliccando rispettivamente sui
 due check presenti immediatamente al di sotto dell'area di drop
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_risorse_selezione_in_blocco.bmp](./assets/media/image442.png){width="5.779166666666667in"
-height="3.5256944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_risorse_selezione_in_blocco.bmp](./assets/media/image442.png)
 
 **Scarica**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_scarica.bmp](./assets/media/image348.png){width="0.31805555555555554in"
-height="0.18819444444444444in"} ): consente di effettuare il download
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_scarica.bmp](./assets/media/image348.png) ): consente di effettuare il download
 della risorsa attualmente selezionato in elenco.
 
 **ATTENZIONE!** E' possibile effettuare il download di una sola risorsa
@@ -165,10 +153,8 @@ alla volta. In alternativa sarà necessario effettuare il download
 dell'intera cartella contenente le risorse desiderate
 
 **Preview**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_preview.bmp](./assets/media/image443.png){width="0.3375in"
-height="0.1951388888888889in"} ) /
-**Tabellare**(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_tabellare.bmp](./assets/media/image444.png){width="0.3763888888888889in"
-height="0.1951388888888889in"} ): consente di impostare la modalità di
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_preview.bmp](./assets/media/image443.png) ) /
+**Tabellare**(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_tabellare.bmp](./assets/media/image444.png) ): consente di impostare la modalità di
 visualizzazione delle varie risorse presenti all'interno di una
 cartella.
 
@@ -179,15 +165,13 @@ risorsa stessa.
 In modalità "**Tabellare**", verrà visualizzato un semplice elenco delle
 risorse presenti all'interno della cartella attualmente selezionata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_risorse_tabellare.bmp](./assets/media/image445.png){width="5.779166666666667in"
-height="3.5256944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_risorse_tabellare.bmp](./assets/media/image445.png)
 
 In queste condizioni per i file di tipo immagine, passando col cursore
 sopra il nome della risorsa, verrà visualizzata nella parte sinistra
 della maschera un' anteprima ridimensionata della relativa risorsa.
 Inoltre l'icona
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_proprieta.bmp](./assets/media/image446.png){width="0.10416666666666667in"
-height="0.1625in"} visualizzata a fianco di ogni singola risorsa,
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_proprieta.bmp](./assets/media/image446.png) visualizzata a fianco di ogni singola risorsa,
 consentirà di accedere alle proprietà del relativo file, permettendo
 dunque all'utente di visualizzare, relativamente ai file di tipo
 immagine, le reali dimensioni della risorsa selezionata.
@@ -196,15 +180,13 @@ Il **Pannello di Ricerca** presente nella parte alta della maschera
 consente di ricercare una specifica risorsa tra quelle attualmente
 presenti all'interno del sito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_risorse_ricerca.bmp](./assets/media/image447.png){width="5.779166666666667in"
-height="3.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_risorse_ricerca.bmp](./assets/media/image447.png)
 
 Dopo aver indicato il nome della risorsa (o parte di esso) da cercare,
 cliccando sul pulsante "Cerca" verrà aperta una piccola finestra
 contenente i risultati della ricerca effettuata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_risorse_ricerca2.bmp](./assets/media/image448.png){width="5.779166666666667in"
-height="3.5256944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_risorse_ricerca2.bmp](./assets/media/image448.png)
 
 **NOTA BENE**: è possibile aprire e chiudere a richiesta la finestra dei
 risultati cliccando sulle piccole frecce presenti in alto nella parte

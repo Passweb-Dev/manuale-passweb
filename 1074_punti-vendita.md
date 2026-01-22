@@ -11,8 +11,7 @@ in Sede".
 All'interno di questa pagina verrà quindi visualizzata la maschera
 **"Lista dei Punti Vendita"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_punti_vendita.bmp](./assets/media/image354.png){width="5.610416666666667in"
-height="3.3569444444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_punti_vendita.bmp](./assets/media/image354.png)
 
 in cui sono elencati tutti i Punti Vendita attualmente attivabili ed
 utilizzabili all'interno del sito.
@@ -35,8 +34,7 @@ In queste condizioni dunque per poter utilizzare un nuovo Punto Vendita
     attenzione a non associare questo stesso indirizzo ad uno specifico
     cliente.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\indirizzo_punto_vendita.bmp](./assets/media/image355.png){width="4.441666666666666in"
-height="2.714583333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\indirizzo_punto_vendita.bmp](./assets/media/image355.png)
 
 **NOTA BENE**: indirizzi di spedizione associati a specifici clienti non
 verranno considerati tra gli indirizzi dei punti vendita.
@@ -71,8 +69,7 @@ In queste condizioni dunque per poter utilizzare un nuovo Punto Vendita
     evidenziata
 
 2.  Cliccare sul pulsante **Aggiungi Punto Vendita**
-    (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_punto_vendita.bmp](./assets/media/image356.png){width="0.9673611111111111in"
-    height="0.1951388888888889in"} ) presente nella barra degli
+    (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_punto_vendita.bmp](./assets/media/image356.png) ) presente nella barra degli
     strumenti e impostare i parametri di configurazione necessari per
     poter salvare il nuovo Punto Vendita.
 
@@ -94,8 +91,7 @@ come tali non sono modificabili dal Wizard di Passweb.
 Per poter apportare delle modifiche a questi campi è quindi necessario
 agire direttamente all'interno del gestionale.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_configurazione_punto_vendita.bmp](./assets/media/image357.png){width="5.610416666666667in"
-height="3.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_configurazione_punto_vendita.bmp](./assets/media/image357.png)
 
 In ogni caso sia che si operi dal gestionale sia che si operi dal Wizard
 di Passweb, in fase di configurazione di un punto vendita sarà
@@ -131,22 +127,19 @@ necessario impostare un valore per i seguenti parametri:
 - inserire l'indirizzo del punto vendita in esame direttamente
   all'interno di Google Maps (https://www.google.it/maps)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gmap_pv_1.bmp](./assets/media/image358.png){width="5.304861111111111in"
-height="3.234027777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gmap_pv_1.bmp](./assets/media/image358.png)
 
 - cliccare con il tasto destro del mouse sul marker posizionato da
   google all'interno della mappa e selezionare l'opzione "**Che cosa c'è
   qui?**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gmap_pv_2.bmp](./assets/media/image359.png){width="5.304861111111111in"
-height="3.234027777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gmap_pv_2.bmp](./assets/media/image359.png)
 
 - le coordinate in esame potranno quindi essere prelevate direttamente
   dal piccolo fumetto visualizzato ora nella parte bassa della google
   map
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gmap_pv_3.bmp](./assets/media/image360.png){width="5.304861111111111in"
-height="3.234027777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gmap_pv_3.bmp](./assets/media/image360.png)
 
 - **Telefono:** consente di indicare il telefono del punto vendita che
   si sta codificando
@@ -213,8 +206,7 @@ height="3.234027777777778in"}
   aprirà cliccando sul marker che individua la posizione del punto
   vendita all'interno della mappa
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gmap_pv_4.bmp](./assets/media/image361.png){width="4.934722222222222in"
-height="3.50625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gmap_pv_4.bmp](./assets/media/image361.png)
 
 **NOTA BENE**: per attivare la visualizzazione della mappa di Google
 all'interno del Componente Checkout Ordine è necessario spuntare il
@@ -226,8 +218,7 @@ check sul parametro "Visualizza Google Map dei Punti Vendita".
   cliccare sul corrispondente link presente, all' interno del componente
   "Store Locator", in corrispondenza del punto vendita in esame.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\store_locator_marker_categorie_7.bmp](./assets/media/image362.png){width="5.461111111111111in"
-height="3.558333333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\store_locator_marker_categorie_7.bmp](./assets/media/image362.png)
 
 > Per maggiori informazioni relativamente alla gestione del componente
 > "Store Locator" si veda il relativo capitolo di questo manuale
@@ -255,8 +246,7 @@ Gli ulteriori pulsanti presenti nella barra degli strumenti consentono
 rispettivamente di:
 
 - **Coordinate Punti Vendita**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_converti_coordinate.bmp](./assets/media/image363.png){width="0.8444444444444444in"
-  height="0.175in"} ) -- visualizzato indipendentemente dal fatto di
+  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_converti_coordinate.bmp](./assets/media/image363.png) ) -- visualizzato indipendentemente dal fatto di
   aver selezionato o meno uno specifico punto vendita tra quelli
   presenti in elenco.
 
@@ -275,8 +265,7 @@ rispettivamente di:
 > "Sito -- Preferenze" del Wizard
 
 - **Abilita Punto Vendita**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_abilita_punto_vendita.bmp](./assets/media/image364.png){width="0.8048611111111111in"
-  height="0.1625in"} ): consente di abilitare il punto vendita in esame
+  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_abilita_punto_vendita.bmp](./assets/media/image364.png) ): consente di abilitare il punto vendita in esame
   rendendolo quindi visibile e selezionabile in fase di configurazione
   dei vari metodi di trasporto.
 
@@ -285,21 +274,17 @@ rispettivamente di:
 > obbligatori
 
 - **Disabilita Punto Vendita**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_disabilita_punto_vendita.bmp](./assets/media/image365.png){width="0.8833333333333333in"
-  height="0.175in"} ): consente di disabilitare il punto vendita in
+  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_disabilita_punto_vendita.bmp](./assets/media/image365.png) ): consente di disabilitare il punto vendita in
   esame eliminandolo, contestualmente, anche da eventuali metodi di
   trasporto cui era stato precedentemente associato
 
 - **Modifica Punto Vendita**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_punto_vendita.bmp](./assets/media/image366.png){width="0.7986111111111112in"
-  height="0.15555555555555556in"} ): consente di accedere alla maschera
+  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_punto_vendita.bmp](./assets/media/image366.png) ): consente di accedere alla maschera
   di configurazione del punto vendita attualmente selezionato.
 
 - **Esporta**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_esporta.bmp](./assets/media/image367.png){width="0.2986111111111111in"
-  height="0.1625in"} ) / **Importa**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_importa.bmp](./assets/media/image368.png){width="0.31805555555555554in"
-  height="0.15555555555555556in"} ): consente di Esportare / Importare
+  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_esporta.bmp](./assets/media/image367.png) ) / **Importa**
+  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_importa.bmp](./assets/media/image368.png) ): consente di Esportare / Importare
   in maniera massiva mediante un apposito file .csv i dati dei punti
   vendita attualmente presenti in elenco.
 

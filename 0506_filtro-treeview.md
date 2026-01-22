@@ -4,8 +4,7 @@
 
 Il Componente "**Filtro TreeView**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_filtro_tree_res.bmp](./assets/media/image627.png){width="2.5340277777777778in"
-height="2.5458333333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_filtro_tree_res.bmp](./assets/media/image627.png)
 
 **può essere inserito unicamente all'interno del componente Ecommerce di
 primo livello "Ricerca"**.
@@ -16,8 +15,7 @@ assunti (per gli articoli gestiti all'interno del sito) dall'Attributo
 Articolo o dal campo del gestionale che verrà fatto corrispondere al
 componente in esame.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\filtro_treeview_esempio.bmp](./assets/media/image628.png){width="5.429166666666666in"
-height="3.5027777777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\filtro_treeview_esempio.bmp](./assets/media/image628.png)
 
 **ATTENZIONE!** **L'unico dato effettivamente gestito a livello
 gerarchico (padre -- figlio) è quello relativo alle Categorie e alle
@@ -68,8 +66,7 @@ Rilasciando il Componente nella posizione desiderata all'interno della
 pagina web, verrà visualizzata **la sua maschera di gestione e
 configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_filtro_treeview_configurazione_res.bmp](./assets/media/image629.png){width="5.153472222222222in"
-height="3.1041666666666665in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_filtro_treeview_configurazione_res.bmp](./assets/media/image629.png)
 
 suddivisa in varie sezioni.
 

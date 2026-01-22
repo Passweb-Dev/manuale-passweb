@@ -44,8 +44,7 @@ destinazione e quindi se questa stessa specifica verrà poi presa in
 considerazione nella pubblicazione via API, nella pubblicazione via CSV
 o in entrambi i casi
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\facebook_destinazione_inserzioni.bmp](./assets/media/image570.png){width="5.792361111111111in"
-height="3.422222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\facebook_destinazione_inserzioni.bmp](./assets/media/image570.png)
 
 Per maggiori informazioni in merito a come poter creare o gestire
 un'Inserzione si veda invece quanto indicato all'interno del capitolo
@@ -73,8 +72,7 @@ Di seguito vengono riportate le Specifiche obbligatorie necessarie per
 poter creare in maniera corretta Inserzioni mediante le quali poter
 pubblicare articoli all'interno del Business Manager di Facebook.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\facebook_specifiche_obbligatorie.bmp](./assets/media/image571.png){width="5.792361111111111in"
-height="3.422222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\facebook_specifiche_obbligatorie.bmp](./assets/media/image571.png)
 
 ###### CATEGORIA
 
@@ -226,16 +224,14 @@ opzioni:
   alla piattaforma terza corrisponderà con la Ragione Sociale del
   fornitore principale (Fornitore 1) dell'articolo in questione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\codice_fornitore3.bmp](./assets/media/image495.png){width="4.727083333333334in"
-height="2.707638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\codice_fornitore3.bmp](./assets/media/image495.png)
 
 > **ATTENZIONE!** Nel caso di siti Ecommerce collegati ad uno dei
 > gestionali Ho.Re.Ca. è necessario abilitare, in "**Replica Dati**" il
 > canale relativo ai fornitori. In caso contrario infatti non verranno
 > esportate sul sito le informazioni dei fornitori
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\replica_dati_fornitori.bmp](./assets/media/image496.png){width="4.688194444444444in"
-height="2.584722222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\replica_dati_fornitori.bmp](./assets/media/image496.png)
 
 Nel momento in cui la marca dovesse essere gestita all'interno di un
 campo differente da quelli appena considerati e si voglia comune creare
@@ -336,8 +332,7 @@ opzioni:
 > Per far questo è sufficiente accedere alla maschera di creazione del
 > codice Alias
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuovo_codice_alias.bmp](./assets/media/image87.png){width="4.00625in"
-height="2.2534722222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuovo_codice_alias.bmp](./assets/media/image87.png)
 
 > e compilare i vari campi come di seguito indicato:
 
@@ -359,8 +354,7 @@ height="2.2534722222222223in"}
 > indicato) il corrispondente campo dell'Inserzione andrà poi impostato
 > sul valore "**Codice Alias GTIN**" come evidenziato in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\codice_alias_gtin_facebook.bmp](./assets/media/image572.png){width="5.825in"
-height="3.441666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\codice_alias_gtin_facebook.bmp](./assets/media/image572.png)
 
 > In queste condizioni in fase di pubblicazione verrà passato alla
 > piattaforma terza il codice alias marcato sul gestionale in maniera
@@ -520,8 +514,7 @@ Tali specifiche dovranno prima essere codificate all'interno della
 corrispondente sezione del Wizard (*Catalogo -- Altri Marketplace --
 Specifiche*)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\specifiche_custom_1.bmp](./assets/media/image501.png){width="5.467361111111111in"
-height="3.428472222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\specifiche_custom_1.bmp](./assets/media/image501.png)
 
 Una volta codificate sarà poi possibile gestirle, per ogni singola
 Inserzione, esattamente allo stesso modo in cui si gestiscono le
@@ -546,8 +539,7 @@ dipende esattamente dalle impostazioni settate all'interno della sezione
 Inserzione (tab "Prezzo, quantità e formato") utilizzata per pubblicare
 i prodotti.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\facebook_quantita.bmp](./assets/media/image573.png){width="5.792361111111111in"
-height="3.422222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\facebook_quantita.bmp](./assets/media/image573.png)
 
 Per maggiori informazioni in merito ai parametri di configurazione
 presenti all'interno di questa sezione si rimanda a quanto indicato
@@ -607,8 +599,7 @@ Facebook:**
   inserito all'interno del campo "**Prezzo**" della corrispondente
   anagrafica articolo
 
-![Videate\\facebook_prezzo_articolo.bmp](./assets/media/image574.png){width="5.376388888888889in"
-height="3.363888888888889in"}
+![Videate\\facebook_prezzo_articolo.bmp](./assets/media/image574.png)
 
 - nel caso di articoli gestiti a confezione sul Business Manager di
   Facebook verrà pubblicato il prezzo della confezione
@@ -619,8 +610,7 @@ height="3.363888888888889in"}
   applicato al prezzo di listino, verrà invece inserito all'interno del
   campo "**Prezzo scontato**" della corrispondente anagrafica articolo
 
-![Videate\\facebook_prezzo_articolo2.bmp](./assets/media/image575.png){width="5.376388888888889in"
-height="3.363888888888889in"}
+![Videate\\facebook_prezzo_articolo2.bmp](./assets/media/image575.png)
 
 **LISTE DI VENDITA**
 

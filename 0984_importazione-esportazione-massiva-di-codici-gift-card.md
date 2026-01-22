@@ -16,13 +16,11 @@ costruito.
 In questo caso (importazione massiva) sarà necessario accedere ancora
 una volta alla sezione "*Utenti Gift Card -- Codici*" e cliccare però
 sul pulsante "**Importa da File"** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_importa_da_file.bmp](./assets/media/image319.png){width="0.6166666666666667in"
-height="0.1951388888888889in"} ) presente nella barra principale degli
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_importa_da_file.bmp](./assets/media/image319.png) ) presente nella barra principale degli
 strumenti. In questo modo verrà infatti visualizzata la maschera
 "**Importazione Codici Gift Card**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\importazione_codici_gift_card.bmp](./assets/media/image328.png){width="5.746527777777778in"
-height="3.3895833333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\importazione_codici_gift_card.bmp](./assets/media/image328.png)
 
 mediante la quale poter effettuare l'upload del file contenente le
 informazioni desiderate.
@@ -141,15 +139,13 @@ esempio per apportare piccole modifiche da ricaricare poi in maniera
 massiva) sarà possibile utilizzare la procedura di esportazione.
 
 Il pulsante **Esporta**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_esporta_testo.bmp](./assets/media/image329.png){width="0.3506944444444444in"
-height="0.18194444444444444in"} ) consente infatti di esportare **in
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_esporta_testo.bmp](./assets/media/image329.png) ) consente infatti di esportare **in
 formato .csv** l'elenco di tutti i codici Gift Card attualmente gestiti.
 
 Cliccando su questo pulsante verrà visualizzata la maschera
 "**Esportazione Codici Gift Card**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\esportazione_codici_giftcard.bmp](./assets/media/image330.png){width="5.746527777777778in"
-height="3.3895833333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\esportazione_codici_giftcard.bmp](./assets/media/image330.png)
 
 all'interno della quale poter configurare l'esportazione dei dati.
 

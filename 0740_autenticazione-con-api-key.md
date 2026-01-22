@@ -6,8 +6,7 @@ Nel momento in cui si dovesse optare per questo tipo di autenticazione,
 i parametri di configurazione del portale dovranno essere quelli di
 seguito indicati
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\portali_esempio_utilizzo_2.bmp](./assets/media/image295.png){width="5.856944444444444in"
-height="3.571527777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\portali_esempio_utilizzo_2.bmp](./assets/media/image295.png)
 
 - **Identificativo:** IMDB (o qualsiasi altra stringa utile a
   identificare il portale).

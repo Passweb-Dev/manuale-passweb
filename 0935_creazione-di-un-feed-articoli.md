@@ -4,18 +4,15 @@
 
 Per creare un nuovo Feed Articoli è sufficiente utilizzare il pulsante
 "**Aggiungi Feed**" (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_feed.bmp](./assets/media/image829.png){width="0.5388888888888889in"
-height="0.18194444444444444in"} ) presente nella barra degli strumenti
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_feed.bmp](./assets/media/image829.png) ) presente nella barra degli strumenti
 della maschera "Lista Feed".
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_feed.bmp](./assets/media/image828.png){width="5.383333333333334in"
-height="3.6493055555555554in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_feed.bmp](./assets/media/image828.png)
 
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 "**Nuovo Feed**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuovo_feed.bmp](./assets/media/image830.png){width="5.850694444444445in"
-height="3.5194444444444444in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuovo_feed.bmp](./assets/media/image830.png)
 
 grazie alla quale poter definire le caratteristiche e la struttura del
 Feed Articoli che si intende codificare.
@@ -29,12 +26,10 @@ seguenti campi:
 > Una volta completata la configurazione del Feed e generato il
 > corrispondente file di export, cliccando sul pulsante presente a
 > fianco del nome stesso (
-> ![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\ico_visualizza_feed.bmp](./assets/media/image831.png){width="0.1951388888888889in"
-> height="0.18194444444444444in"} ) verrà visualizzato, in una nuova
+> ![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\ico_visualizza_feed.bmp](./assets/media/image831.png) ) verrà visualizzato, in una nuova
 > scheda del browser, il contenuto di questo stesso file.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\feed_articoli_pagina_web.bmp](./assets/media/image832.png){width="5.1625in"
-height="3.928472222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\feed_articoli_pagina_web.bmp](./assets/media/image832.png)
 
 > Sarà quindi possibile realizzare l'integrazione con il motore a
 > comparazione di prezzo fornendo al motore stesso direttamente
@@ -72,8 +67,7 @@ height="3.928472222222222in"}
 > File, Estensione File, Tag Radice, Tag Articolo ...) verranno
 > impostati in maniera automatica e non saranno modificabili.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\feed_kelkoo.bmp](./assets/media/image833.png){width="5.811805555555556in"
-height="3.428472222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\feed_kelkoo.bmp](./assets/media/image833.png)
 
 > Allo stesso modo verranno automaticamente inseriti all'interno del
 > Feed tutti i campi corrispondenti alle informazioni articolo
@@ -263,8 +257,7 @@ caratteri verranno automaticamente rimossi.
 > front end, sarà necessario creare un Filtro che vada a lavorare in
 > maniera esplicita sul campo "Pubblica"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\feed_articoli_filtro_pubblica.bmp](./assets/media/image834.png){width="5.5777777777777775in"
-height="3.467361111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\feed_articoli_filtro_pubblica.bmp](./assets/media/image834.png)
 
 - **Includi Articoli Padre -- solo per feed articoli di tipologia
   Doofinder:** consente, se attivato, di inserire all'interno del feed
@@ -358,8 +351,7 @@ presenti nella barra degli strumenti di questa stessa maschera
 consentono rispettivamente di:
 
 - **Modifica Feed** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_feed.bmp](./assets/media/image835.png){width="0.5256944444444445in"
-  height="0.175in"} ): consente di modificare le proprietà e le
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_feed.bmp](./assets/media/image835.png) ): consente di modificare le proprietà e le
   caratteristiche del Feed attualmente selezionato in elenco
 
 **NOTA BENE:** eventuali modifiche agli elementi del Feed, quali tipo di
@@ -368,13 +360,11 @@ automatica del file che dovrà, quindi, essere avviata manualmente
 (pulsante "Genera Feed") o tramite sincronizzazione.
 
 - **Copia Feed**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_copia_feed.bmp](./assets/media/image836.png){width="0.44166666666666665in"
-  height="0.18194444444444444in"} ): permette di effettuare una copia
+  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_copia_feed.bmp](./assets/media/image836.png) ): permette di effettuare una copia
   integrale del Feed attualmente selezionato in elenco
 
 - **Elimina Feed**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_feed.bmp](./assets/media/image837.png){width="0.48055555555555557in"
-  height="0.18194444444444444in"} ): consente di eliminare
+  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_feed.bmp](./assets/media/image837.png) ): consente di eliminare
   definitivamente il Feed attualmente selezionato in elenco (compreso,
   se presente, anche il file ad esso associato)
 

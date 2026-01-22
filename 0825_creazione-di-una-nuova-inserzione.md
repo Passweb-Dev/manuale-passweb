@@ -12,8 +12,7 @@ Portandosi quindi nella sezione "*Catalogo -- eBay -- Gestione
 Inserzioni*" del Wizard verrà visualizzata la maschera "**Lista delle
 Inserzioni eBay**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_inserzioni_ebay.bmp](./assets/media/image68.png){width="5.804861111111111in"
-height="3.3833333333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_inserzioni_ebay.bmp](./assets/media/image68.png)
 
 all'interno della quale verranno visualizzate tutte le Inserzioni
 attualmente configurate.
@@ -26,23 +25,20 @@ stessa.
 Una volta impostato un filtro di ricerca, per poterlo poi eliminare sarà
 sufficiente cliccare sull'icona raffigurante una piccola lente di
 ingrandimento con un -- all'interno (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina_filtro.bmp](./assets/media/image69.png){width="7.777777777777778e-2in"
-height="9.722222222222222e-2in"} ) che comparirà in testata alla colonna
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina_filtro.bmp](./assets/media/image69.png) ) che comparirà in testata alla colonna
 in corrispondenza della quale è stato impostato il filtro stesso.
 
 Infine è anche possibile ordinare, in maniera crescente e/o decrescente,
 gli elementi in griglia cliccando semplicemente sull'icona raffigurante
 due piccole frecce posta anch' essa in testata ad ogni singola colonna
 della griglia (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_ordinamento_griglia.bmp](./assets/media/image70.png){width="0.12361111111111112in"
-height="0.14930555555555555in"} )
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_ordinamento_griglia.bmp](./assets/media/image70.png) )
 
 I pulsanti presenti nella contestuale barra degli strumenti consentono
 rispettivamente di:
 
 - **Cancella Inserzione** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_cancella_inserzione.bmp](./assets/media/image71.png){width="0.675in"
-  height="0.18819444444444444in"} ): consente di eliminare l'inserzione
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_cancella_inserzione.bmp](./assets/media/image71.png) ): consente di eliminare l'inserzione
   attualmente selezionata in elenco.
 
 **NOTA BENE:** eliminando un'inserzione verranno eliminate anche tutte
@@ -57,21 +53,18 @@ all'interno del corrispondente sito eBay
   da poterne gestire le singole regole di vendita.
 
 - **Copia Inserzione** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_copia_inserzione.bmp](./assets/media/image72.png){width="0.5972222222222222in"
-  height="0.18194444444444444in"} ): consente di copiare l' Inserzione
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_copia_inserzione.bmp](./assets/media/image72.png) ): consente di copiare l' Inserzione
   attualmente selezionata in elenco (verrà creata una nuova inserzione
   con le stesse esatte regole di gestione definite sull' Inserzione
   sorgente).
 
 - **Aggiungi Inserzione** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_inserzione.bmp](./assets/media/image73.png){width="0.7145833333333333in"
-  height="0.175in"} ): consente di codificare una nuova Inserzione.
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_inserzione.bmp](./assets/media/image73.png) ): consente di codificare una nuova Inserzione.
 
 Cliccando su quest'ultimo pulsante verrà infatti visualizzata la
 maschera "**Dati Inserzione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dati_inserzione.bmp](./assets/media/image74.png){width="5.8375in"
-height="3.4027777777777777in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dati_inserzione.bmp](./assets/media/image74.png)
 
 attraverso cui poter definire le specifiche regole di vendita che
 andranno a caratterizzare l'Inserzione stessa.
@@ -169,8 +162,7 @@ di gestione, verranno abilitate anche le ulteriori sezioni presenti
 nella parte bassa della maschera di configurazione, sezioni queste
 all'interno delle quali indicare:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\eBay_41.bmp](./assets/media/image75.png){width="5.8375in"
-height="3.4027777777777777in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\eBay_41.bmp](./assets/media/image75.png)
 
 - **Categoria:** consente di impostare le informazioni relative alle
   categorie merceologiche primaria e secondaria cui dovranno essere
@@ -220,8 +212,7 @@ poi dal relativo menu a tendina.
 **ATTENZIONE!** L'elenco delle categorie disponibili è fornito
 direttamente dallo specifico marketplace eBay
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\eBay_42.bmp](./assets/media/image76.png){width="5.856944444444444in"
-height="3.4027777777777777in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\eBay_42.bmp](./assets/media/image76.png)
 
 Dipendentemente dalla Categoria Merceologia indicata potrà poi essere
 possibile selezionare anche una o più sottocategorie
@@ -241,8 +232,7 @@ informazioni aggiuntive sugli articoli messi in vendita, informazioni
 queste che verranno poi visualizzate sul marketplace eBay nella scheda
 prodotto dei vari articoli
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\eBay_45.bmp](./assets/media/image77.png){width="5.759722222222222in"
-height="3.4027777777777777in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\eBay_45.bmp](./assets/media/image77.png)
 
 **ATTENZIONE!** Le specifiche obbligatorie per poter completare
 correttamente l'Inserzione sono indicate da un piccolo asterisco rosso
@@ -257,8 +247,7 @@ necessario, innanzitutto, indicare da dove poter andare a prelevare
 questo valore selezionando, per questo, una delle opzioni disponibili
 all'interno del relativo menu a tendina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\eBay_46.bmp](./assets/media/image78.png){width="5.759722222222222in"
-height="3.4027777777777777in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\eBay_46.bmp](./assets/media/image78.png)
 
 Nello specifico è possibile selezionare una delle seguenti opzioni:
 
@@ -271,16 +260,14 @@ Nello specifico è possibile selezionare una delle seguenti opzioni:
   da utilizzare per la corrispondente specifica, selezionandolo tra
   quelli messi a disposizione direttamente da eBay (campo **Valore**)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_47.bmp](./assets/media/image79.png){width="5.825in"
-height="3.441666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_47.bmp](./assets/media/image79.png)
 
 - **Attributo Passweb:** in questo caso sarà possibile indicare il
   valore da utilizzare per la corrispondente specifica, selezionandolo
   tra gli attributi articolo attualmente mappati all'interno di Passweb
   (campo **Valore**).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_48.bmp](./assets/media/image80.png){width="5.825in"
-height="3.441666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_48.bmp](./assets/media/image80.png)
 
 - **Attributo Articolo:** presente solo in corrispondenza di determinati
   campi. In questo caso sarà possibile indicare il valore da utilizzare
@@ -291,8 +278,7 @@ height="3.441666666666667in"}
   esplicitamente il valore che dovrà assumere all'interno di eBay la
   corrispondente specifica (campo **Valore**).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_49.bmp](./assets/media/image81.png){width="5.825in"
-height="3.441666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_49.bmp](./assets/media/image81.png)
 
 - **Elemento di Variazione:** necessario per inserzioni adibite ad
   accogliere articoli con elementi Varianti (es. taglie colori) consente
@@ -331,8 +317,7 @@ All'interno di questa sezione è possibile definire altre informazioni di
 carattere descrittivo relativamente a quelli che saranno poi gli
 articoli che andranno a far parte dell'inserzione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_50a0.bmp](./assets/media/image82.png){width="5.902777777777778in"
-height="3.441666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_50a0.bmp](./assets/media/image82.png)
 
 ###### METODI DESCRIZIONE
 
@@ -378,8 +363,7 @@ utilizzati per definire all'interno della scheda prodotto di eBay il
 Titolo e la Descrizione dell'articolo possono variare in relazione a
 quanto impostato per gli omonimi campi
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_50a.bmp](./assets/media/image83.png){width="5.902777777777778in"
-height="3.441666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_50a.bmp](./assets/media/image83.png)
 
 In particolare dunque i campi presenti all'interno della sezione
 **"Generale"** consentono rispettivamente:
@@ -458,8 +442,7 @@ In questo senso è possibile utilizzare:
   codice HTML) la scheda dei prodotti che verranno poi pubblicati su
   eBay utilizzando l'inserzione in esame.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_template_HTML.bmp](./assets/media/image84.png){width="5.902777777777778in"
-height="3.441666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_template_HTML.bmp](./assets/media/image84.png)
 
 > Il pulsante "**Aggiungi Segnaposto**" presente immediatamente al di
 > sotto dell'editor HTML consente di inserire nel template i seguenti
@@ -508,8 +491,7 @@ marketplace collegato all'Inserzione che si sta codificando
 In questo senso sarà quindi necessario selezionare uno dei valori
 disponibili tra quelli presenti all'interno del relativo menu a tendina.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_50b.bmp](./assets/media/image85.png){width="5.902777777777778in"
-height="3.441666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_50b.bmp](./assets/media/image85.png)
 
 **ATTENZIONE!** Le condizioni di vendita sono fornite direttamente da
 eBay, possono variare a seconda dello specifico marketplace su cui si
@@ -523,8 +505,7 @@ inquanto è quella che consente di impostare i codici EPID, UPC, EAN,
 ISBN utilizzati per identificare univocamente i vari articoli
 all'interno del Catalogo eBay
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_50c.bmp](./assets/media/image86.png){width="5.902777777777778in"
-height="3.441666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_50c.bmp](./assets/media/image86.png)
 
 In questo senso è bene subito fare alcune considerazioni di fondamentale
 importanza:
@@ -601,8 +582,7 @@ articoli messi in vendita tramite l'Inserzione in esame, con:
 > Per far questo è sufficiente accedere alla maschera di creazione del
 > codice Alias
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuovo_codice_alias.bmp](./assets/media/image87.png){width="4.00625in"
-height="2.2534722222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuovo_codice_alias.bmp](./assets/media/image87.png)
 
 > e compilare i vari campi come di seguito indicato:
 
@@ -631,8 +611,7 @@ height="2.2534722222222223in"}
 > "Identificativi Catalogo EBay" andrà poi impostato sul valore
 > "**Codice Alias EPID**" come evidenziato in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\alias_ebay_eipd.bmp](./assets/media/image88.png){width="5.902777777777778in"
-height="3.441666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\alias_ebay_eipd.bmp](./assets/media/image88.png)
 
 > In queste condizioni in fase di pubblicazione sul marketplace verrà
 > passato ad EBay il codice alias marcato sul gestionale come codice
@@ -644,8 +623,7 @@ height="3.441666666666667in"}
 > impostare poi, questa volta, il relativo campo UPC / EAN / ISBN
 > dell'Inserzione presente nella sezione "**Codice Alias GTIN**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\alias_ebay_gtin.bmp](./assets/media/image89.png){width="5.902777777777778in"
-height="3.441666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\alias_ebay_gtin.bmp](./assets/media/image89.png)
 
 > **ATTENZIONE!** Nel caso in cui per determinate ragioni dovessero
 > essere marcati più codici alias come, ad esempio, codici EPID da
@@ -689,8 +667,7 @@ E' comunque possibile decidere di visualizzare anche delle immagini
 aggiuntive, fino ad un massimo di 9, selezionando il valore desiderato
 all'interno del corrispondente campo presente in questa sezione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_70.bmp](./assets/media/image90.png){width="5.902777777777778in"
-height="3.441666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_70.bmp](./assets/media/image90.png)
 
 **ATTENZIONE!** Come Immagini aggiuntive verranno utilizzate le
 **Immagini Secondarie della Scheda Prodotto** Passweb.
@@ -708,8 +685,7 @@ pagamento che dovranno essere rese disponibili agli utenti eBay in fase
 di acquisto degli articoli messi in vendita tramite l'Inserzione che si
 sta codificando.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_52.bmp](./assets/media/image91.png){width="5.902777777777778in"
-height="3.441666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_52.bmp](./assets/media/image91.png)
 
 **ATTENZIONE! La lista dei possibili pagamenti è fornita direttamente da
 eBay e potrebbe variare a seconda dello specifico marketplace su cui si
@@ -729,16 +705,14 @@ In questo senso è possibile indicare la modalità di pagamento desiderata
 selezionandola tra quelle disponibili all'interno del corrispondente
 menu a tendina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_53.bmp](./assets/media/image92.png){width="5.902777777777778in"
-height="3.441666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_53.bmp](./assets/media/image92.png)
 
 **ATTENZIONE!** Nel caso in cui si selezioni la modalità di pagamento
 relativa a PayPal sarà poi necessario indicare all'interno del relativo
 campo (**PayPal Email**) anche l'indirizzo mail associato ad un Account
 PayPal valido (di test o di produzione) di tipo Venditore.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_61.bmp](./assets/media/image93.png){width="5.175in"
-height="3.441666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_61.bmp](./assets/media/image93.png)
 
 ##### SPEDIZIONE
 
@@ -747,8 +721,7 @@ spedizione merce che dovranno essere rese disponibili agli utenti eBay
 in fase di acquisto degli articoli messi in vendita tramite l'Inserzione
 che si sta codificando.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_54.bmp](./assets/media/image94.png){width="5.902777777777778in"
-height="3.441666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_54.bmp](./assets/media/image94.png)
 
 In particolare all'interno della sezione "**Luogo**" è possibile
 specificare **Paese**, **CAP** e **Località** da cui risulterà essere
@@ -767,8 +740,7 @@ relativa alle Spedizioni Internazionali.
 
 In questo modo verrà infatti inserito un nuovo record in tabella
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_55.bmp](./assets/media/image95.png){width="5.825in"
-height="3.441666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_55.bmp](./assets/media/image95.png)
 
 all'interno del quale dover indicare:
 
@@ -856,8 +828,7 @@ Nel caso in cui si stiano codificando delle Spedizioni Internazionali,
 oltre alle informazioni sopra indicate, sarà necessario indicare anche
 la Nazione di riferimento selezionandola tra quelle presenti in elenco:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_56.bmp](./assets/media/image96.png){width="5.825in"
-height="3.441666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_56.bmp](./assets/media/image96.png)
 
 Va detto infine che è ovviamente possibile attivare e gestire dei metodi
 di spedizione anche all'interno del proprio Account Venditore di eBay
@@ -885,8 +856,7 @@ All'interno di questa sezione è possibile specificare quelle che
 dovranno essere indicate all'interno di eBay come possibili modalità di
 recesso dall'acquisto effettuato.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_57.bmp](./assets/media/image97.png){width="5.902777777777778in"
-height="3.441666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_57.bmp](./assets/media/image97.png)
 
 **E' possibile decidere di abilitare o meno il diritto di recesso.**
 
@@ -900,8 +870,7 @@ All'interno di questa sezione è possibile definire le condizioni di
 vendita degli articoli in relazione ad informazioni quali il prezzo, la
 tipologia di vendita e/o la durata dell'inserzione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_58.bmp](./assets/media/image98.png){width="5.902777777777778in"
-height="3.441666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_58.bmp](./assets/media/image98.png)
 
 La sezione "**Metodo di Prezzo, quantità e formato**" consente di
 decidere se compilare i campi di questa maschera secondo quanto
@@ -909,8 +878,7 @@ configurato all'interno di uno dei Template precedentemente codificati
 (e magari già utilizzato in qualche altra inserzione) oppure se
 realizzarne uno nuovo.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\inserzione_ebay_metodo_quantita.bmp](./assets/media/image99.png){width="5.902777777777778in"
-height="3.441666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\inserzione_ebay_metodo_quantita.bmp](./assets/media/image99.png)
 
 Nel primo caso (applicazione di un Template preconfigurato) sarà
 sufficiente selezionare il Template desiderato tra quelli presenti
@@ -934,8 +902,7 @@ l'oggetto**" è possibile impostare la modalità secondo cui dovranno
 essere messi in vendita gli articoli collegati all'Inserzione che si sta
 codificando.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tipologia_vendita.bmp](./assets/media/image100.png){width="5.902777777777778in"
-height="3.441666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tipologia_vendita.bmp](./assets/media/image100.png)
 
 Per il campo "**Tipo di Vendita**" è possibile selezionare una delle
 seguenti opzioni:
@@ -962,8 +929,7 @@ la durata dell'inserzione e la quantità con cui gli articoli pubblicati
 mediante questa stessa inserzione dovranno poi essere disponibili sul
 Marketplace
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\durata_e_quantita.bmp](./assets/media/image101.png){width="5.902777777777778in"
-height="3.441666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\durata_e_quantita.bmp](./assets/media/image101.png)
 
 Nello specifico dunque il campo:
 
@@ -1010,8 +976,7 @@ E' possibile selezionare una delle seguenti opzioni:
   valore con cui ogni articolo messo in vendita tramite l'Inserzione in
   esame dovrà poi essere disponibile, sul relativo marketplace
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\inserzione_valore_quantita.bmp](./assets/media/image102.png){width="5.902777777777778in"
-height="3.441666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\inserzione_valore_quantita.bmp](./assets/media/image102.png)
 
 > Supponendo quindi di impostare il campo "Valore Quantità" a 5, ogni
 > articolo messo in vendita tramite l'Inserzione in esame verrà
@@ -1040,8 +1005,7 @@ height="3.441666666666667in"}
 > In queste condizioni sarà quindi necessario impostare un valore anche
 > per i seguenti campi:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\inserzione_valore_quantita_percentuale.bmp](./assets/media/image103.png){width="5.902777777777778in"
-height="3.441666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\inserzione_valore_quantita_percentuale.bmp](./assets/media/image103.png)
 
 - **Percentuale della Quantità:** consente di impostare, selezionandola
   dall'apposito menu a tendina, la percentuale di articoli
@@ -1216,8 +1180,7 @@ All'interno della sezione **"Prezzo"** è possibile definire esattamente
 il prezzo con cui dovranno essere messi in vendita, sul marketplace
 eBay, gli articoli collegati all'Inserzione che si sta considerando.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\inserzioni_prezzo.bmp](./assets/media/image104.png){width="5.902777777777778in"
-height="3.441666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\inserzioni_prezzo.bmp](./assets/media/image104.png)
 
 In questo senso il campo:
 
@@ -1292,16 +1255,14 @@ determinate regole mediante le quali poter automatizzare:
   automaticamente) la messa in vendita -- sezione "**Regole di Rimessa
   in Vendita**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_59.bmp](./assets/media/image105.png){width="5.902777777777778in"
-height="3.441666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_59.bmp](./assets/media/image105.png)
 
 La sezione "**Metodo di Sincronizzazione**" consente di decidere se
 compilare i campi di questa maschera secondo quanto configurato
 all'interno di uno dei Template precedentemente codificati (e magari già
 utilizzato in qualche altra inserzione) oppure se realizzarne uno nuovo.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\inserzione_ebay_metodo_sincronizzazione.bmp](./assets/media/image106.png){width="5.902777777777778in"
-height="3.441666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\inserzione_ebay_metodo_sincronizzazione.bmp](./assets/media/image106.png)
 
 Nel primo caso (applicazione di un Template preconfigurato) sarà
 sufficiente selezionare il Template desiderato tra quelli presenti
@@ -1324,8 +1285,7 @@ All'intero di questa sezione è possibile definire un' insieme di
 condizioni in relazione alle quali poter automatizzare la pubblicazione
 sul Marketplace degli articoli coinvolti nell'Inserzione in esame
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\regole_messa_in_vendita_ebay.bmp](./assets/media/image107.png){width="5.99375in"
-height="1.9673611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\regole_messa_in_vendita_ebay.bmp](./assets/media/image107.png)
 
 Nello specifico per quel che riguarda le "**Regole di Messa in
 Vendita**" il campo:
@@ -1482,8 +1442,7 @@ in che termini dovranno essere aggiornati a seguito di una
 sincronizzazione Sito -- Gestionale, gli articoli pubblicati mediante
 l'inserzione in esame.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\regole_modifica_in_vendita_ebay.bmp](./assets/media/image108.png){width="5.909027777777778in"
-height="2.636111111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\regole_modifica_in_vendita_ebay.bmp](./assets/media/image108.png)
 
 Nello specifico dunque il campo:
 
@@ -1562,8 +1521,7 @@ In questo senso dunque il campo:
 
 > Facendo riferimento alle impostazioni visualizzate in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_regole_modifica_in_vendita_2.bmp](./assets/media/image109.png){width="5.909027777777778in"
-height="2.636111111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_regole_modifica_in_vendita_2.bmp](./assets/media/image109.png)
 
 > supponendo che nell'Inserzione siano coinvolti gli articoli ARTA,
 > ARTB, ARTC e che a seguito di una sincronizzazione la quantità di
@@ -1659,8 +1617,7 @@ In particolare dunque il campo:
 >
 > Facendo riferimento alle impostazioni visualizzate in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_regole_modifica_in_vendita_3.bmp](./assets/media/image110.png){width="5.909027777777778in"
-height="3.077777777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_regole_modifica_in_vendita_3.bmp](./assets/media/image110.png)
 
 > supponiamo che nell'Inserzione siano coinvolti gli articoli ARTA e
 > ARTB e che a seguito di una sincronizzazione il prezzo di questi
@@ -1712,8 +1669,7 @@ sincronizzazione Sito -- Gestionale l'applicazione dovesse rilevare una
 modifica al "Metodo di Quantità, Prezzo e Formato" o al "Metodo di
 Descrizione" utilizzato nell'Inserzione in esame.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\condizioni_modifiche_totali.bmp](./assets/media/image111.png){width="5.870138888888889in"
-height="2.6166666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\condizioni_modifiche_totali.bmp](./assets/media/image111.png)
 
 In particolare dunque il campo:
 
@@ -1796,8 +1752,7 @@ in vendita, è un'operazione relativa invece ai soli articoli che, pur
 essendo ancora all'interno del Marketplace, non possono attualmente
 essere acquistati.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\regole_rimessa_in_vendita_ebay.bmp](./assets/media/image112.png){width="5.99375in"
-height="2.6166666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\regole_rimessa_in_vendita_ebay.bmp](./assets/media/image112.png)
 
 Per quel che riguarda le "**Regole di Rimessa in Vendita**" il campo:
 
@@ -1959,8 +1914,7 @@ resteranno comunque presenti all'interno del marketplace stesso e, in
 queste condizioni, potranno quindi essere soggetti ad eventuali regole
 di rimessa in vendita.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\regole_di_blocco_ebay.bmp](./assets/media/image113.png){width="5.99375in"
-height="1.5in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\regole_di_blocco_ebay.bmp](./assets/media/image113.png)
 
 A differenza delle condizioni definite nelle "Regole di messa in
 vendita" e di quelle definite nelle "Regole di rimessa in vendita", le

@@ -11,6 +11,5 @@ componente utilizzando gli strumenti messi a disposizione da Passweb
 come ad esempio lo Style Editor, il componente HTML o la sezione CSS dei
 Layout
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\passweb_dimensionamento_font.bmp](./assets/media/image54.png){width="4.470138888888889in"
-height="2.3958333333333335in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\passweb_dimensionamento_font.bmp](./assets/media/image54.png)
 

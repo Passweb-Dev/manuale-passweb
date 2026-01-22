@@ -5,8 +5,7 @@
 All'interno di questa sezione è possibile visualizzare alcune
 informazioni utili relativamente ai parametri del proprio contratto.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dashboard_parametri_contratto.bmp](./assets/media/image15.png){width="6.03125in"
-height="4.086805555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dashboard_parametri_contratto.bmp](./assets/media/image15.png)
 
 Nello specifico, dipendentemente dalla particolare tipologia di sito
 considerata sarà possibile visualizzare:

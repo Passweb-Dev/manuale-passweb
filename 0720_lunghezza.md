@@ -8,6 +8,5 @@ Il valore da inserire all'interno di questo campo dovrà quindi
 coincidere con quelle che sono le effettive dimensioni del campo MyDB in
 esame (campo **Dim**)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dimensione_campo_mydb.bmp](./assets/media/image256.png){width="4.558333333333334in"
-height="2.623611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dimensione_campo_mydb.bmp](./assets/media/image256.png)
 

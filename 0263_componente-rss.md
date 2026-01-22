@@ -14,6 +14,5 @@ aggiornata in automatico con i nuovi dati; visto che il formato è
 predefinito, Passweb potrà presentare in una maniera omogenea notizie
 provenienti dalle fonti più diverse.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_rss.bmp](./assets/media/image33.png){width="2.825in"
-height="3.467361111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_rss.bmp](./assets/media/image33.png)
 

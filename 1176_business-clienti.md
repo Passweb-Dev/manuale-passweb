@@ -9,8 +9,7 @@ caso in cui:
   dell'apposita sezione del Wizard accessibile dal menu "*Sito --
   Preferenze*"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ec_business_attivazione.bmp](./assets/media/image163.png){width="5.565277777777778in"
-height="3.5131944444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ec_business_attivazione.bmp](./assets/media/image163.png)
 
 - **l'utente attualmente loggato sia un Agente**
 
@@ -29,8 +28,7 @@ gestiti sul sito e collocati, nella gerarchia dei gruppi e degli utenti
 definita in Passweb, ad un livello inferiore rispetto a quello cui è
 collocato l'Agente in esame.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ec_agente_clienti.bmp](./assets/media/image164.png){width="6.038888888888889in"
-height="3.825in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ec_agente_clienti.bmp](./assets/media/image164.png)
 
 **ATTENZIONE! Condizione indispensabile per poter consentire ad un
 Agente di gestire un suo cliente sul web, è quella di aver correttamente
@@ -39,8 +37,7 @@ obbligatorio concedere al cliente accesso in Area Riservata**
 
 I dati presenti in tabella sono ordinati, a default, per codice cliente.
 L' icona raffigurante due piccole frecce (
-![Videate\\icona_ordinamento_griglia.bmp](./assets/media/image77.png){width="0.12361111111111112in"
-height="0.14930555555555555in"} ) posta in testata a fianco del nome
+![Videate\\icona_ordinamento_griglia.bmp](./assets/media/image77.png) ) posta in testata a fianco del nome
 delle varie colonne, consente invece di modificare l'ordinamento dei
 dati, in maniera crescente e/o decrescente, sulla base dei valori
 presenti all'interno della relativa colonna.
@@ -48,8 +45,7 @@ presenti all'interno della relativa colonna.
 Il pannello di **"Ricerca"** presente nella parte alta della pagina
 consente di ricercare uno specifico cliente, tra quelli in elenco.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_agente_ricerca_cliente.bmp](./assets/media/image165.png){width="5.565277777777778in"
-height="3.5131944444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_agente_ricerca_cliente.bmp](./assets/media/image165.png)
 
 E' possibile effettuare delle ricerche sulla base dei seguenti campi:
 
@@ -96,16 +92,14 @@ E' possibile effettuare delle ricerche sulla base dei seguenti campi:
   anagrafica gestionale
 
 Il pulsante "**Colonne**" (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_colonne_ar.bmp](./assets/media/image166.png){width="0.15555555555555556in"
-height="0.15555555555555556in"} ), presente, in corrispondenza
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_colonne_ar.bmp](./assets/media/image166.png) ), presente, in corrispondenza
 dell'ultima colonna della griglia, consente di decidere quali
 informazioni dovranno essere visualizzate direttamente in tabella.
 
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 "**Colonne**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\selezione_colonne_clienti_ar.bmp](./assets/media/image167.png){width="4.220833333333333in"
-height="1.7729166666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\selezione_colonne_clienti_ar.bmp](./assets/media/image167.png)
 
 mediante la quale poter decidere quale campo attivare / disattivare e
 conseguentemente quale informazione mostrare / nascondere.
@@ -116,8 +110,7 @@ ovviamente nella relativa maschera di dettaglio) disponibili cliccando
 sul pulsante raffigurante una piccola i posto in corrispondenza di ogni
 singola riga
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dettaglio_riga_cliente_ar.bmp](./assets/media/image168.png){width="5.532638888888889in"
-height="3.49375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dettaglio_riga_cliente_ar.bmp](./assets/media/image168.png)
 
 In particolare poi per quel che riguarda la colonna "**Agente**" è bene
 ricordare che al suo interno verrà visualizzato l'Agente associato in
@@ -127,8 +120,7 @@ parametro "**Mostra Agente Cliente**" presente, lato Wizard, tra i
 parametri di configurazione di uno dei gruppi di appartenenza
 dell'Agente in esame
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gerarchia_utenti_radice_no_agente.bmp](./assets/media/image169.png){width="5.532638888888889in"
-height="3.584722222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gerarchia_utenti_radice_no_agente.bmp](./assets/media/image169.png)
 
 Nel caso in cui non si desideri visualizzare questo tipo di informazione
 sarà quindi necessario deselezionare il parametro evidenziato in figura
@@ -136,13 +128,11 @@ sarà quindi necessario deselezionare il parametro evidenziato in figura
 appartiene lo specifico cliente)
 
 Il pulsante "**Colonne**" (
-![Videate\\pulsante_colonne_ar.bmp](./assets/media/image170.png){width="0.15555555555555556in"
-height="0.15555555555555556in"} ) è presente anche in visualizzazione
+![Videate\\pulsante_colonne_ar.bmp](./assets/media/image170.png) ) è presente anche in visualizzazione
 mobile ma, in questo caso, il suo comportamento sarà leggermente diverso
 rispetto a quello che si ha in visualizzazione desktop
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_griglia_clienti_mobile.bmp](./assets/media/image171.png){width="1.9090277777777778in"
-height="3.675in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_griglia_clienti_mobile.bmp](./assets/media/image171.png)
 
 In questo caso infatti le colonne visibili in tabella saranno sempre e
 soltanto due (per ovvie ragioni di spazio) di cui la prima, quella
@@ -159,19 +149,16 @@ I pulsanti presenti nella barra degli strumenti, i cui testi possono
 essere personalizzati all'interno del Wizard (menu "**Sito -- Testi /
 Messaggi del Sito -- Testi Generici**") consentono rispettivamente di:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_cliente_selezionato.bmp](./assets/media/image172.png){width="5.565277777777778in"
-height="3.5131944444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_cliente_selezionato.bmp](./assets/media/image172.png)
 
 **Nuovo Cliente** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_pulsante_nuovo_cliente.bmp](./assets/media/image173.png){width="0.5972222222222222in"
-height="0.18194444444444444in"} ): consente di accedere direttamente
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_pulsante_nuovo_cliente.bmp](./assets/media/image173.png) ): consente di accedere direttamente
 alla pagina di "**Registrazione Utente**" presente sul front end del
 sito dando quindi all'Agente la possibilità di codificare un nuovo
 cliente
 
 **Nuovo Ordine Cliente** (
-![Videate\\ar_pulsante_login_cliente.bmp](./assets/media/image174.png){width="0.8444444444444444in"
-height="0.2013888888888889in"} ) -- presente solo dopo aver selezionato
+![Videate\\ar_pulsante_login_cliente.bmp](./assets/media/image174.png) ) -- presente solo dopo aver selezionato
 uno dei clienti presenti in griglia
 
 Consente all'Agente attualmente loggato in area riservata, di
@@ -182,16 +169,14 @@ condizioni commerciali.
 Nello specifico infatti, cliccando su questo pulsante verrà visualizzato
 il messaggio riportato in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ec_agente_accesso_cliente.bmp](./assets/media/image175.png){width="5.902777777777778in"
-height="3.8180555555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ec_agente_accesso_cliente.bmp](./assets/media/image175.png)
 
 e l'Agente potrà quindi decidere se restare in Area Riservata per
 effettuare altre operazioni, oppure se accedere direttamente al negozio.
 
 Nel primo caso sarà sufficiente cliccare sul pulsante "**Annulla**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ec_agente_accesso_cliente_annulla.bmp](./assets/media/image176.png){width="1.9479166666666667in"
-height="0.9479166666666666in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ec_agente_accesso_cliente_annulla.bmp](./assets/media/image176.png)
 
 In questo modo pur avendo effettuato il login al sito come se fosse lo
 specifico cliente l'Agente resterà comunque in Area Riservata e potrà,
@@ -202,8 +187,7 @@ cliente per cui era stato fatto il login.
 Nel secondo caso sarà invece necessario cliccare sul pulsante
 "**Conferma**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ec_agente_accesso_cliente_conferma.bmp](./assets/media/image177.png){width="1.9284722222222221in"
-height="0.9548611111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ec_agente_accesso_cliente_conferma.bmp](./assets/media/image177.png)
 
 In queste condizioni infatti, l'Agente uscirà dall'Area Riservata e
 verrà automaticamente ridiretto alla pagina impostata in corrispondenza
@@ -211,8 +195,7 @@ del parametro "**Pagina Login Cliente / Agente Area Riservata**"
 presente nella maschera di configurazione della Variante sito
 attualmente online.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagina_login_cliente_ar.bmp](./assets/media/image178.png){width="5.344444444444444in"
-height="3.2729166666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagina_login_cliente_ar.bmp](./assets/media/image178.png)
 
 potendo quindi effettuare nuovi ordini per il cliente selezionato
 ritrovandosi già applicate, come precedentemente evidenziato, tutte le
@@ -231,8 +214,7 @@ fuori fido**" verrà visualizzato un messaggio per informarlo che,
 essendo il cliente in esame fuori fido, non sarà possibile effettuare
 per esso nuovi ordini.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_messaggio_fuori_fido.bmp](./assets/media/image179.png){width="6.038888888888889in"
-height="3.66875in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_messaggio_fuori_fido.bmp](./assets/media/image179.png)
 
 **NOTA BENE:** per maggiori informazioni relativamente alla funzionalità
 "**Blocco Ordine se fuori fido**", si veda anche la sezione "Utenti --
@@ -240,29 +222,24 @@ Gestione Parametri Utenti Ecommerce -- Funzionalità Mexal -- Blocco
 Ordine se fuori fido" di questo manuale.
 
 **Dettaglio Utente** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_pulsante_dettaglio_utente.bmp](./assets/media/image180.png){width="0.6625in"
-height="0.2076388888888889in"} ) -- presente solo dopo aver selezionato
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_pulsante_dettaglio_utente.bmp](./assets/media/image180.png) ) -- presente solo dopo aver selezionato
 uno dei clienti presenti in griglia
 
 Consente di accedere alla maschera di dettaglio dell'utente attualmente
 selezionato in elenco
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_dettaglio_cliente_contatti.bmp](./assets/media/image181.png){width="6.110416666666667in"
-height="3.825in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_dettaglio_cliente_contatti.bmp](./assets/media/image181.png)
 
 maschera questa che l'Agente potrà utilizzare per visualizzare
 informazioni più dettagliate relativamente al cliente in esame.
 
 I pulsanti "**Mail**" (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_pulsante_mail.bmp](./assets/media/image182.png){width="0.18819444444444444in"
-height="0.1951388888888889in"} ) e "**Telefono**" (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_pulsante_telefono.bmp](./assets/media/image183.png){width="0.1951388888888889in"
-height="0.2013888888888889in"} ) presenti nella parte alta della colonna
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_pulsante_mail.bmp](./assets/media/image182.png) ) e "**Telefono**" (
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_pulsante_telefono.bmp](./assets/media/image183.png) ) presenti nella parte alta della colonna
 sinistra, immediatamente a fianco del nominativo dell'utente
 selezionato,
 
-![Videate\\ar_pulsanti_nominativo.bmp](./assets/media/image184.png){width="2.8506944444444446in"
-height="3.1430555555555557in"}
+![Videate\\ar_pulsanti_nominativo.bmp](./assets/media/image184.png)
 
 sono collegati rispettivamente alla mail (con un href di tipo "mailto")
 e al numero di telefono (con un href di tipo "tel") dell'utente **(posto
@@ -276,8 +253,7 @@ inviare una mail al relativo indirizzo.
 Utilizzando un dispositivo mobile (smartphone) e cliccando sul pulsante
 "Telefono"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_pulsante_telefono_mobile.bmp](./assets/media/image185.png){width="1.9027777777777777in"
-height="3.4611111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_pulsante_telefono_mobile.bmp](./assets/media/image185.png)
 
 sarà invece possibile avviare una chiamata al numero associato al
 pulsante.
@@ -291,14 +267,12 @@ presenti nella parte sinistra della maschera consentono rispettivamente:
   Ragione Sociale, Codice Gestionale ...) relative all'utente
   selezionato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_dettaglio_utente_info_anagrafiche.bmp](./assets/media/image186.png){width="2.8506944444444446in"
-height="3.1430555555555557in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_dettaglio_utente_info_anagrafiche.bmp](./assets/media/image186.png)
 
 - eventuali attributi utente opportunamente configurati per essere
   disponibili anche in Area Riservata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_dettaglio_utente_attributi.bmp](./assets/media/image187.png){width="2.8506944444444446in"
-height="3.1430555555555557in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_dettaglio_utente_attributi.bmp](./assets/media/image187.png)
 
 > **ATTENZIONE!** gli attributi utente verranno visualizzati,
 > all'interno della sezione "Informazioni Utente", immediatamente al di
@@ -307,8 +281,7 @@ height="3.1430555555555557in"}
 **Fattura Elettronica:** consente di visualizzare alcuni dei dati
 necessari per la fatturazione elettronica
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_dettaglio_utente_fe.bmp](./assets/media/image188.png){width="2.8506944444444446in"
-height="3.1430555555555557in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_dettaglio_utente_fe.bmp](./assets/media/image188.png)
 
 **ATTENZIONE!** la sezione evidenziata in figura verrà visualizzata solo
 nel caso in cui, per il cliente in esame, la fatturazione elettronica

@@ -8,8 +8,7 @@ contenuti del componente in oggetto permettendoci di stabilire
 esattamente il numero di colonne in cui dovrà essere suddivisa ogni
 singola riga articoli presente in carrello.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\carrello_custom_configurazione_1_res.bmp](./assets/media/image164.png){width="4.638194444444444in"
-height="3.0555555555555554in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\carrello_custom_configurazione_1_res.bmp](./assets/media/image164.png)
 
 In particolare dunque nella parte sinistra di questa sezione è
 visualizzato l'elenco delle colonne attualmente gestite per ogni singola
@@ -19,18 +18,15 @@ I pulsanti presenti nella contestuale barra degli strumenti consentono
 rispettivamente di:
 
 - **Aggiungi colonna** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_aggiungi.bmp](./assets/media/image14.png){width="0.19027777777777777in"
-  height="0.19027777777777777in"} ): consente di aggiungere una nuova
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_aggiungi.bmp](./assets/media/image14.png) ): consente di aggiungere una nuova
   colonna.
 
 - **Elimina scheda** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina.bmp](./assets/media/image165.png){width="0.17777777777777778in"
-  height="0.1840277777777778in"} ): consente di eliminare la colonna
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina.bmp](./assets/media/image165.png) ): consente di eliminare la colonna
   attualmente selezionata in elenco.
 
 - **Sposta su / giù**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icone_su_giu.bmp](./assets/media/image166.png){width="0.3680555555555556in"
-  height="0.21458333333333332in"} ): consente di riordinare tra loro le
+  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icone_su_giu.bmp](./assets/media/image166.png) ): consente di riordinare tra loro le
   varie colonne presenti all'interno del componente spostando verso
   l'alto o il basso la colonna attualmente selezionata in elenco.
 
@@ -86,8 +82,7 @@ In questo senso è possibile selezionare uno dei seguenti valori:
 > permettendoci dunque di contestualizzare le informazioni visualizzate
 > all'interno di ogni singola riga articolo presente in carrello.**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\contenuti_tabs_contenitore_res.bmp](./assets/media/image167.png){width="4.368055555555555in"
-height="2.6131944444444444in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\contenuti_tabs_contenitore_res.bmp](./assets/media/image167.png)
 
 > **L'inserimento di questi componenti non potrà però avvenire
 > direttamente da questa maschera di configurazione, come nel caso
@@ -136,8 +131,7 @@ height="2.6131944444444444in"}
 > agendo in questo senso dal relativo parametro **"Immagine di Sfondo
 > Sezione"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\contenuti_tabs_contenitore2_res.bmp](./assets/media/image168.png){width="4.368055555555555in"
-height="2.6131944444444444in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\contenuti_tabs_contenitore2_res.bmp](./assets/media/image168.png)
 
 **Visibile da:** consente di impostare la visibilità **dell'intera
 colonna** in oggetto a livello di gruppi utente, potendo quindi decidere
@@ -192,8 +186,7 @@ questi campi all'interno del carrello dipende dagli specifici componenti
 inseriti al suo interno e, volendo, anche dai permessi di visibilità ad
 essi assegnati.**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\carrello_custom_modifica_prezzo.bmp](./assets/media/image169.png){width="4.883333333333334in"
-height="3.6319444444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\carrello_custom_modifica_prezzo.bmp](./assets/media/image169.png)
 
 Supponendo, ad esempio, di voler dare agli Agenti la possibilità di
 modificare la **data di scadenza** e/o un'eventuale **nota di riga**,

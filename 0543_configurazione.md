@@ -5,8 +5,7 @@
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_iu_rubrica_configurazione_res.bmp](./assets/media/image32.png){width="4.590972222222222in"
-height="1.8958333333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_iu_rubrica_configurazione_res.bmp](./assets/media/image32.png)
 
 suddivisa in varie sezioni.
 
@@ -56,8 +55,7 @@ inserito all'interno del campo Città possa avvenire in maniera corretta
 Google Maps Distance API**" (pagina "**Preferenze Sito**", tab
 "**Integrazioni**" del Wizard) una API key valida e funzionante.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\validazione_citta.bmp](./assets/media/image33.png){width="5.759722222222222in"
-height="3.3444444444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\validazione_citta.bmp](./assets/media/image33.png)
 
 Per maggiori informazioni in merito all'utilizzo della Google Maps e dei
 relativi servizi si consiglia di fare riferimento anche a quanto

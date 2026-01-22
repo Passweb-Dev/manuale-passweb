@@ -13,8 +13,7 @@ descritto nell'apposita sezione del manuale.
 Rilasciando il componente all'interno del form si aprirà **la sua
 maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_intestazione_res.bmp](./assets/media/image140.png){width="5.116666666666666in"
-height="2.7534722222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_intestazione_res.bmp](./assets/media/image140.png)
 
 suddivisa in varie sezioni.
 

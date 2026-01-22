@@ -47,8 +47,7 @@ in momenti diversi sarà necessario:
 - Abilitare in maniera corretta, **nella configurazione della Replica
   Dati del gestionale, il canale relativo ai "Buoni Sconto"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\replica_dati_beauty_buono_sconto.bmp](./assets/media/image331.png){width="5.188194444444444in"
-height="3.1104166666666666in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\replica_dati_beauty_buono_sconto.bmp](./assets/media/image331.png)
 
 - Impostare in maniera adeguata il formato dei Codici a barre da
   utilizzare per la generazione dei Buoni Sconto
@@ -58,21 +57,18 @@ height="3.1104166666666666in"}
 > formato del codice da utilizzare impostando il campo "Predefinito per"
 > sull\'opzione "Buono Sconto", come nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\beauty_codici_a_barre.bmp](./assets/media/image332.png){width="5.279166666666667in"
-height="4.0256944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\beauty_codici_a_barre.bmp](./assets/media/image332.png)
 
 - Portarsi in "**Configurazione -- Opzioni Installazione**" e
   selezionare il check "**Non azzerare il progressivo del buono
   sconto**" presente all'interno del tab "**Avanzate**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\beauty_configurazione_buoni_sconto.bmp](./assets/media/image333.png){width="6.272916666666666in"
-height="4.0256944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\beauty_configurazione_buoni_sconto.bmp](./assets/media/image333.png)
 
 - Infine, restando sempre in "**Configurazione -- Opzioni
   Installazione**" sarà necessario flaggare anche il parametro
   "**Utilizzo parziale buoni sconto**" presente all'intero del tab
   "**Buoni e caparre**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\beauty_configurazione_buoni_sconto_2.bmp](./assets/media/image334.png){width="6.272916666666666in"
-height="4.0256944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\beauty_configurazione_buoni_sconto_2.bmp](./assets/media/image334.png)
 

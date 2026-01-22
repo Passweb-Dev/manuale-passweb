@@ -4,8 +4,7 @@
 
 Il Componente **"Set Attributi"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_set_attributi_res.bmp](./assets/media/image641.png){width="2.5458333333333334in"
-height="3.1166666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_set_attributi_res.bmp](./assets/media/image641.png)
 
 **può essere inserito unicamente all'interno dei componenti Ecommerce di
 primo livello "Scheda Prodotto" e "Comparatore"**.
@@ -51,8 +50,7 @@ della scheda prodotto è possibile procedere in due modi differenti:
 > visualizzato non solo l'attributo desiderato ma tutti quelli
 > configurati per essere visualizzati all'interno del relativo Set.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\set_attributi_1.bmp](./assets/media/image642.png){width="5.165972222222222in"
-height="3.3805555555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\set_attributi_1.bmp](./assets/media/image642.png)
 
 > **NOTA BENE:** per articoli non associati ad alcuna categoria
 > merceologica oppure associati ad una categoria merceologica priva di
@@ -68,8 +66,7 @@ Rilasciando il Componente nella posizione desiderata all'interno della
 pagina web, verrà visualizzata **la sua maschera di gestione e
 configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_set_attributi_configurazione_res.bmp](./assets/media/image643.png){width="4.631944444444445in"
-height="2.0555555555555554in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_set_attributi_configurazione_res.bmp](./assets/media/image643.png)
 
 suddivisa in varie sezioni.
 
@@ -112,8 +109,7 @@ selezionare una delle seguenti opzioni:
 > Cliccando su di esso verrà visualizzata una finestra contenente
 > l'elenco dei gruppi facenti parte del Set di Attributi in oggetto
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\set_attributi_vai_a.bmp](./assets/media/image644.png){width="5.165972222222222in"
-height="3.3555555555555556in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\set_attributi_vai_a.bmp](./assets/media/image644.png)
 
 > Cliccando sul nome di uno dei gruppi presenti all'interno di questa
 > finestra verrà eseguito lo scrolling automatico della pagina fino al
@@ -124,8 +120,7 @@ height="3.3555555555555556in"}
   personalizzabile all'interno della sezione "Gestione Testi/Messaggi
   del Sito" agendo sulla voce "Set Attributi".
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\set_attributi_comprimi.bmp](./assets/media/image645.png){width="5.165972222222222in"
-height="3.3555555555555556in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\set_attributi_comprimi.bmp](./assets/media/image645.png)
 
 > Cliccando su questo pulsante tutti i Gruppi di Attributi presenti
 > all'interno del componente in oggetto si comprimeranno automaticamente
@@ -140,14 +135,12 @@ height="3.3555555555555556in"}
 - **Tabs Orizzontale :** selezionando questa opzione i vari gruppi di
   attributi verranno organizzati su Tabs disposti orizzontalmente
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\set_attributi_tab_orizzontali.bmp](./assets/media/image646.png){width="5.165972222222222in"
-height="3.3555555555555556in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\set_attributi_tab_orizzontali.bmp](./assets/media/image646.png)
 
 - **Tabs Verticali:** selezionando questa opzione i vari gruppi di
   attributi verranno organizzati su Tabs disposti in verticale
 
-![Videate\\set_attributi_tab_verticali.bmp](./assets/media/image647.png){width="5.165972222222222in"
-height="3.3555555555555556in"}
+![Videate\\set_attributi_tab_verticali.bmp](./assets/media/image647.png)
 
 > **ATTENZIONE!** Nel momento in cui nel Set di attributi dovessero
 > essere presenti, oltre a determinati Gruppi, anche degli Attributi

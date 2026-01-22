@@ -26,8 +26,7 @@ eventuali check utilizzati per gestire i vari consensi (ricezione SMS,
 telefonate ecc...) saranno selezionati o meno a seconda di quanto
 precedentemente impostato.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\brainlead_utente_iscritto.bmp](./assets/media/image13.png){width="5.6819444444444445in"
-height="3.467361111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\brainlead_utente_iscritto.bmp](./assets/media/image13.png)
 
 A questo punto dunque operando direttamente dal Profilo sarà sempre
 possibile modificare i consensi forniti, selezionando o deselezionando i

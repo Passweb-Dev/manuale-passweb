@@ -25,14 +25,12 @@ poter definire e personalizzare il Popup che sarà poi visualizzato sul
 sito nel momento in cui un utente dovesse aggiungere un articolo in
 carrello, alla wishlist e/o al comparatore
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\testi_messaggi_sito8.bmp](./assets/media/image459.png){width="5.376388888888889in"
-height="3.3506944444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\testi_messaggi_sito8.bmp](./assets/media/image459.png)
 
 Volendo è possibile aprire l'editor in modalità full screen utilizzando
 il tasto funzione **F11**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\testi_messaggi_sito9.bmp](./assets/media/image460.png){width="5.746527777777778in"
-height="3.5131944444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\testi_messaggi_sito9.bmp](./assets/media/image460.png)
 
 Una volta entrati in modalità full screen è poi possibile ritornare alla
 visualizzazione standard utilizzando il tasto **ESC**.
@@ -62,13 +60,11 @@ messi a disposizione direttamente da Passweb.
 
 In questo senso cliccando sul pulsante "**Template**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\testi_messaggi_sito8a.bmp](./assets/media/image461.png){width="5.376388888888889in"
-height="3.3506944444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\testi_messaggi_sito8a.bmp](./assets/media/image461.png)
 
 verrà aperta la relativa galleria dei modelli preconfigurati
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\testi_messaggi_sito8b.bmp](./assets/media/image462.png){width="5.376388888888889in"
-height="3.3506944444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\testi_messaggi_sito8b.bmp](./assets/media/image462.png)
 
 Il pulsante "**Visualizza**" presente in corrispondenza di ciascuno dei
 modelli presenti in elenco consente di visualizzare, in un nuovo tab del
@@ -94,8 +90,7 @@ in cui dovrà essere inserita la nuova informazione, sarà necessario
 cliccare sul pulsante "**Seleziona un segnaposto ...**" in maniera tale
 da visualizzare l'elenco di tutti i segnaposto disponibili.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\testi_messaggi_sito12.bmp](./assets/media/image463.png){width="5.395833333333333in"
-height="3.363888888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\testi_messaggi_sito12.bmp](./assets/media/image463.png)
 
 Selezionando quindi il segnaposto desiderato tra quelli presenti in
 elenco, Passweb provvederà poi ad inserire automaticamente nel template
@@ -125,8 +120,7 @@ In particolare dunque l'elemento:
 > di aggiunta sarà la media dei prezzi unitari dei singoli articoli
 > figlio e, per indiare ciò, sarà preceduto dal simbolo **∼**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\popup_aggiunta_carrello_prezzo_medio.bmp](./assets/media/image464.png){width="2.5652777777777778in"
-height="1.2270833333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\popup_aggiunta_carrello_prezzo_medio.bmp](./assets/media/image464.png)
 
 - **Subtotale -- solo per aggiunta in carrello:** consente di inserirei
   nel relativo Popup il subtotale (quantità articolo X prezzo unitario)

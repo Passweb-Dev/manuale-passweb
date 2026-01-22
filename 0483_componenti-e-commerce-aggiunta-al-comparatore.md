@@ -4,15 +4,13 @@
 
 Il Componente **"Aggiunta al Comparatore"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_aggiunta_comparatore_res.bmp](./assets/media/image510.png){width="2.5340277777777778in"
-height="3.1041666666666665in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_aggiunta_comparatore_res.bmp](./assets/media/image510.png)
 
 consente di inserire all'interno corrispondente Componente Ecommerce di
 primo livello (es. Catalogo Ecommerce), un pulsante mediante il quale
 poter aggiungere lo specifico articolo al Comparatore.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\componente_ecommerce_aggiungi_comparatore.bmp](./assets/media/image511.png){width="5.588888888888889in"
-height="3.8159722222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\componente_ecommerce_aggiungi_comparatore.bmp](./assets/media/image511.png)
 
 Per maggiori informazioni relativamente alla gestione in Passweb del
 componente "Comparatore" si veda anche la relativa sezione di questo
@@ -21,8 +19,7 @@ manuale.
 Rilasciando il Componente nella posizione desiderata verrà visualizzata
 **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\aggiungi_comparatore_configurazione_res.bmp](./assets/media/image512.png){width="5.760416666666667in"
-height="3.675in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\aggiungi_comparatore_configurazione_res.bmp](./assets/media/image512.png)
 
 suddivisa in varie sezioni.
 
@@ -71,16 +68,14 @@ possibile impostare un valore per i seguenti parametri:
   (indipendentemente dal fatto che nella stessa pagina sia presente o
   meno anche il componente Mini Comparatore).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\messaggio_aggiungi_comparatore.bmp](./assets/media/image513.png){width="5.631944444444445in"
-height="3.8465277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\messaggio_aggiungi_comparatore.bmp](./assets/media/image513.png)
 
 > **ATTENZIONE**! Il messaggio di notifica può essere personalizzato
 > inserendo l'apposito codice HTML all'interno del campo "**Aggiunta**"
 > presente nella sezione "Gestione Testi / Messaggi del Sito" in
 > corrispondenza del componente "**Aggiunta al Comparatore**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\messaggio_aggiungi_comparatore_personalizzazione.bmp](./assets/media/image514.png){width="5.392361111111111in"
-height="3.4784722222222224in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\messaggio_aggiungi_comparatore_personalizzazione.bmp](./assets/media/image514.png)
 
 > Nel caso in cui il questo parametro non venga selezionato l'evento
 > utilizzato dall'applicazione per notificare all'utente l'avvenuto

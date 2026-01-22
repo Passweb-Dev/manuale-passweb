@@ -4,8 +4,7 @@
 
 Il Componente per il form **"Campo Area di Testo"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_interno_campo_area_testo.bmp](./assets/media/image560.png){width="2.5395833333333333in"
-height="2.5458333333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_interno_campo_area_testo.bmp](./assets/media/image560.png)
 
 può essere inserito all'interno dei seguenti componenti Ecommerce di
 primo livello:
@@ -19,8 +18,7 @@ primo livello:
 Permette di gestire un campo di input mediante il quale poter inserire
 note di riga per ogni singolo articolo.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\area_testo_custom.bmp](./assets/media/image561.png){width="4.889583333333333in"
-height="3.6256944444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\area_testo_custom.bmp](./assets/media/image561.png)
 
 **ATTENZIONE!** Nel caso di articoli "Campionario / Box" (configurabili
 e non) il campo in esame verrà visualizzato solo ed esclusivamente sul
@@ -29,8 +27,7 @@ e non) il campo in esame verrà visualizzato solo ed esclusivamente sul
 Rilasciando il Componente nella posizione desiderata verrà visualizzata
 **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\area_testo_custom_configurazione_res.bmp](./assets/media/image562.png){width="4.6194444444444445in"
-height="2.938888888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\area_testo_custom_configurazione_res.bmp](./assets/media/image562.png)
 
 suddivisa in varie sezioni.
 

@@ -7,8 +7,7 @@ una volta rilasciato ed inserito un Componente all'interno della pagina,
 verrà visualizzata **la sua maschera di gestione e configurazione**
 stesso
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componenti_configurazione_1_res.bmp](./assets/media/image68.png){width="5.052083333333333in"
-height="3.1041666666666665in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componenti_configurazione_1_res.bmp](./assets/media/image68.png)
 
 maschera questa suddivisa, come evidenziato dalla figura sopra
 riportata, in varie sezioni, alcune delle quali possono variare in

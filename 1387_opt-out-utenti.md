@@ -60,8 +60,7 @@ Per prelevare il codice di questo iframe è sufficiente accedere alla
 sezione "**Opt-out Utenti**" presente all'interno del menu "**Privacy**"
 nella pagina di **Amministrazione** della propria installazione Matomo
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_9.bmp](./assets/media/image9.png){width="4.157638888888889in"
-height="4.625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_9.bmp](./assets/media/image9.png)
 
 Una volta inserito l'iframe in questione all'interno del nostro sito,
 mediante un apposito componente HTML, nelle relative pagine comparirà lo

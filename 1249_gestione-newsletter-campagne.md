@@ -11,22 +11,19 @@ La maschera "**Gestione Newsletter -- Gestione Campagne**" consente
 visualizzare l'elenco di tutte le Campagne attualmente create e che
 possono essere utilizzate per inviare delle Newsletter.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_campagne.bmp](./assets/media/image77.png){width="5.8284722222222225in"
-height="3.5277777777777777in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_campagne.bmp](./assets/media/image77.png)
 
 I pulsanti presenti nella barra degli strumenti consentono
 rispettivamente di:
 
 **Crea Campagna** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_crea_campagna.bmp](./assets/media/image78.png){width="0.5763888888888888in"
-height="0.19027777777777777in"} ): consente di creare una nuova
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_crea_campagna.bmp](./assets/media/image78.png) ): consente di creare una nuova
 Campagna.
 
 Cliccando su questo pulsante verrà infatti visualizzata la maschera di
 creazione di una nuova campagna
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuova_campagna2.bmp](./assets/media/image79.png){width="5.8284722222222225in"
-height="3.5277777777777777in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuova_campagna2.bmp](./assets/media/image79.png)
 
 all'interno della quale poter indicare:
 
@@ -104,8 +101,7 @@ all'interno della quale poter indicare:
   Regalo)
 
 **Elimina Campagna** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_campagna.bmp](./assets/media/image80.png){width="0.65in"
-height="0.17777777777777778in"} ): consente di eliminare la campagna
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_campagna.bmp](./assets/media/image80.png) ): consente di eliminare la campagna
 attualmente selezionata in elenco.
 
 **ATTENZIONE!** L'eliminazione di una campagna comporterà l'eliminazione
@@ -115,14 +111,12 @@ verranno eliminati in modo permanente anche all'interno del proprio
 account di MailChimp.
 
 **Modifica Campagna** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_campagna.bmp](./assets/media/image81.png){width="0.6319444444444444in"
-height="0.17777777777777778in"} ): consente di visualizzare ed
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_campagna.bmp](./assets/media/image81.png) ): consente di visualizzare ed
 eventualmente modificare i parametri e le proprietà della Campagna
 attualmente selezionata in elenco.
 
 **Gestisci Invii per la Campagna** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_gestisci_invii_campagna.bmp](./assets/media/image82.png){width="0.9756944444444444in"
-height="0.17777777777777778in"} ): consente di gestire gli invii per la
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_gestisci_invii_campagna.bmp](./assets/media/image82.png) ): consente di gestire gli invii per la
 Campagna attualmente selezionata in elenco, decidendo se inviare le
 relative Newsletter in maniera immediata o schedulata, se inviarle ad
 un'intera lista piuttosto che ai soli iscritti a determinati gruppi di
@@ -133,8 +127,7 @@ Cliccando su questo pulsante verrà visualizzata una griglia contenente
 l'elenco di tutti gli invii attualmente codificati per la Campagna in
 esame
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestisci_invii.bmp](./assets/media/image83.png){width="5.760416666666667in"
-height="3.490972222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestisci_invii.bmp](./assets/media/image83.png)
 
 **Per ogni Campagna è quindi possibile codificare uno o più invii
 distinti.**
@@ -160,16 +153,14 @@ I pulsanti presenti nella barra degli strumenti della maschera di
 gestione degli invii consentono rispettivamente di
 
 - **Nuovo Invio Campagna Semplice\\CMS\\Lista Regalo** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuovo_invio_campagna_cms.bmp](./assets/media/image84.png){width="0.9569444444444445in"
-  height="0.19027777777777777in"} ): consente di codificare un nuovo
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuovo_invio_campagna_cms.bmp](./assets/media/image84.png) ): consente di codificare un nuovo
   invio per la Campagna attualmente selezionata.
 
 > Cliccando su questo pulsante verrà infatti visualizzata, nella parte
 > bassa della maschera, un'ulteriore sezione "**Nuova Campagna in
 > Uscita**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuova_campagna_in_uscita.bmp](./assets/media/image85.png){width="5.8284722222222225in"
-height="3.5277777777777777in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuova_campagna_in_uscita.bmp](./assets/media/image85.png)
 
 > all'interno della quale impostare tutti i parametri necessari per
 > l'invio che si intende codificare. In particolare sarà necessario
@@ -261,20 +252,17 @@ height="3.5277777777777777in"}
   contenuti. Passando infatti col mouse sopra queste sezioni, con un
   semplice click verrà aperta la relativa maschera di personalizzazione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuova_campagna_in_uscita2.bmp](./assets/media/image86.png){width="5.8284722222222225in"
-height="3.5277777777777777in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuova_campagna_in_uscita2.bmp](./assets/media/image86.png)
 
 - **Compila Invio Campagna** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_compila_invio_campagna.bmp](./assets/media/image87.png){width="0.8527777777777777in"
-  height="0.17152777777777778in"} ): consente di visualizzare ed
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_compila_invio_campagna.bmp](./assets/media/image87.png) ): consente di visualizzare ed
   eventualmente modificare i parametri di configurazione dell'invio
   attualmente selezionato in elenco (gli stessi definiti in fase di
   creazione dell'invio). **Visibile solo per invii codificati ma non
   ancora effettuati o schedulati (stato "OK")**
 
 - **Elimina Invio Campagna** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_invio_campagna.bmp](./assets/media/image88.png){width="0.8097222222222222in"
-  height="0.16597222222222222in"} ): consente di eliminare da Passweb e
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_invio_campagna.bmp](./assets/media/image88.png) ): consente di eliminare da Passweb e
   corrispondentemente anche dal proprio account MailChimp lo specifico
   invio attualmente selezionato in elenco.
 
@@ -286,18 +274,15 @@ Newsletter oppure di schedularne l'invio in un momento ben preciso.
 Nello specifico dunque il pulsante
 
 - **Crea su MailChimp e Schedula invio** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_crea_su_mailchimp_schedula.bmp](./assets/media/image89.png){width="1.0555555555555556in"
-  height="0.15347222222222223in"} ): consente di creare all'interno di
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_crea_su_mailchimp_schedula.bmp](./assets/media/image89.png) ): consente di creare all'interno di
   MailChimp la Campagna necessaria per inviare la Newsletter in esame
   posticipandone l'effettivo invio ad un orario e ad una data ben
   precise selezionabili dall'apposito Calendario.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuova_campagna_in_uscita3.bmp](./assets/media/image90.png){width="5.8284722222222225in"
-height="3.5277777777777777in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuova_campagna_in_uscita3.bmp](./assets/media/image90.png)
 
 - **Crea su MailChimp e Invia Ora** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_crea_su_mailchimp.bmp](./assets/media/image91.png){width="1.0in"
-  height="0.17777777777777778in"} ): consente di creare all'interno di
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_crea_su_mailchimp.bmp](./assets/media/image91.png) ): consente di creare all'interno di
   MailChimp la Campagna necessaria per inviare immediatamente la
   Newsletter in esame.
 
@@ -305,8 +290,7 @@ height="3.5277777777777777in"}
 > comunque dai server di MailChimp
 
 - **Crea su MailChimp e Invia test** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_crea_test_su_mailchimp.bmp](./assets/media/image92.png){width="1.0125in"
-  height="0.17152777777777778in"} ): consente di creare all'interno di
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_crea_test_su_mailchimp.bmp](./assets/media/image92.png) ): consente di creare all'interno di
   MailChimp la Campagna necessaria per inviare ad uno specifico
   indirizzo di test la Newsletter in esame.
 
@@ -314,8 +298,7 @@ height="3.5277777777777777in"}
 > maschera all'interno della quale inserire l'indirizzo mail di test cui
 > dovrà essere inviata la newsletter
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mailchimp_campagna_test.bmp](./assets/media/image93.png){width="5.539583333333334in"
-height="3.3131944444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mailchimp_campagna_test.bmp](./assets/media/image93.png)
 
 **ATTENZIONE!** I pulsanti "**Crea su MailChimp e Schedula invio**" e
 "**Crea su MailChimp e Invia Ora**" non sono disponibili per invii

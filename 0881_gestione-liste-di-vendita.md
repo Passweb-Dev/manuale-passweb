@@ -18,20 +18,17 @@ articoli, soggetti ad uno stesso insieme di regole (e quindi ad una
 stessa inserzione) che potranno essere esportati all'interno della
 piattaforma terza.**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_mkt_liste_vendita.bmp](./assets/media/image391.png){width="5.350694444444445in"
-height="3.623611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_mkt_liste_vendita.bmp](./assets/media/image391.png)
 
 I pulsanti presenti nella parte alta della pagina consentono
 rispettivamente di:
 
 - **Liste di Vendita** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_liste_vendita.bmp](./assets/media/image115.png){width="0.5652777777777778in"
-  height="0.18194444444444444in"} ): consente di definire nuove liste di
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_liste_vendita.bmp](./assets/media/image115.png) ): consente di definire nuove liste di
   vendita e di gestire quelle già codificate
 
 - **Regole di Vendita** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_regole_vendita.bmp](./assets/media/image116.png){width="0.6298611111111111in"
-  height="0.18194444444444444in"} ): consente di creare delle regole
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_regole_vendita.bmp](./assets/media/image116.png) ): consente di creare delle regole
   mediante le quali poter decidere cosa fare quando:
 
   - vengono aggiunti nuovi articoli ad una determinata categoria

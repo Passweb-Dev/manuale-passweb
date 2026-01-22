@@ -44,13 +44,11 @@ In queste condizioni sarà quindi necessario:
 
 2.  Cliccare sul pulsante **"Immagini Articolo"** **(F11)**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\scelta_funzione_mexal.bmp](./assets/media/image53.png){width="4.643055555555556in"
-height="2.4347222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\scelta_funzione_mexal.bmp](./assets/media/image53.png)
 
 > E selezionare la voce **"Acquisisci Immagine Articolo"**.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\acquisici_immagine_articolo.bmp](./assets/media/image54.png){width="1.9416666666666667in"
-height="1.0451388888888888in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\acquisici_immagine_articolo.bmp](./assets/media/image54.png)
 
 3.  Selezionare quindi la sorgente di acquisizione e caricare infine la
     risorsa desiderata.
@@ -84,8 +82,7 @@ Sarà quindi necessario:
     Docuvision*\").
 
 ![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_aziendali_configurazione
-\_docuvision.bmp](./assets/media/image55.png){width="2.870138888888889in"
-height="1.4090277777777778in"}
+\_docuvision.bmp](./assets/media/image55.png)
 
 > Tale parametro consentirà infatti di attivare in anagrafica articoli
 > il pulsante **\"Acquisisci Docuvision (F4)"** attraverso il quale
@@ -96,8 +93,7 @@ height="1.4090277777777778in"}
     aperta la maschera \"**Documenti allegati**\" qui di seguito
     riportata:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\acquisici_risorsa_docuvision_1.bmp](./assets/media/image56.png){width="4.5in"
-height="1.9416666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\acquisici_risorsa_docuvision_1.bmp](./assets/media/image56.png)
 
 > attraverso la quale poter visualizzare l'elenco delle risorse
 > eventualmente già caricate all'interno di Docuvision ed associate
@@ -107,8 +103,7 @@ height="1.9416666666666667in"}
     in questo modo aperta la maschera **"Tipo Allegato"** qui di seguito
     riportata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tipo_allegato_docuvision.bmp](./assets/media/image57.png){width="2.629861111111111in"
-height="1.0777777777777777in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tipo_allegato_docuvision.bmp](./assets/media/image57.png)
 
 > attraverso la quale poter selezionare il tipo di risorsa da associare
 > all'articolo in esame. In particolare dunque il campo:
@@ -188,14 +183,12 @@ height="1.0777777777777777in"}
 > Supponiamo, ad esempio, di fare riferimento ad una tabella taglie del
 > tipo di quella di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\immagini_per_taglia_1.bmp](./assets/media/image58.png){width="4.454861111111111in"
-height="2.3048611111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\immagini_per_taglia_1.bmp](./assets/media/image58.png)
 
 > e di considerare un articolo gestito a colori e quindi appartenente
 > alla serie 3 evidenziata in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\immagini_per_taglia_2.bmp](./assets/media/image59.png){width="5.513194444444444in"
-height="3.285416666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\immagini_per_taglia_2.bmp](./assets/media/image59.png)
 
 > Nel momento in cui l'esigenza dovesse essere quindi quella di
 > associare una o più immagini in maniera specifica al colore BLU di
@@ -204,8 +197,7 @@ height="3.285416666666667in"}
 > Allegato" sul valore 4** (valore questo che individua effettivamente
 > l'elemento BLU della serie cui appartiene l'articolo in esame)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\immagini_per_taglia_3.bmp](./assets/media/image60.png){width="4.454861111111111in"
-height="2.3833333333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\immagini_per_taglia_3.bmp](./assets/media/image60.png)
 
 > **ATTENZIONE!** Nel momento in cui il campo "Tabella taglie" dovesse
 > essere lasciato vuoto l'immagine verrà associata all'articolo in
@@ -218,8 +210,7 @@ height="2.3833333333333333in"}
   caricare sia una delle schede tecniche da associare all'articolo e da
   poter poi downlodare direttamente dal sito web.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tipo_allegato_scheda.bmp](./assets/media/image61.png){width="2.629861111111111in"
-height="1.0777777777777777in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tipo_allegato_scheda.bmp](./assets/media/image61.png)
 
 > **ATTENZIONE!** E' possibile gestire un massimo di 99 schede tecniche
 > per ogni lingua attiva all'interno del sito ( e in mexal)
@@ -234,8 +225,7 @@ height="1.0777777777777777in"}
 > corrispondente nella **"Tabella Lingue Estere"** di Mexal, alla lingua
 > desiderata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\tabella_lingue_estere.bmp](./assets/media/image62.png){width="1.2402777777777778in"
-height="1.2791666666666666in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\tabella_lingue_estere.bmp](./assets/media/image62.png)
 
 > **ATTENZIONE\|** Nel caso in cui nel campo in oggetto venga inserito
 > **il valore 0 o venga lasciato vuoto**, per la scheda tecnica verrà
@@ -261,8 +251,7 @@ height="1.2791666666666666in"}
   la risorsa da caricare sia la descrizione aggiuntiva dell'articolo
   selezionato.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tipo_allegato_descrizione.bmp](./assets/media/image63.png){width="2.629861111111111in"
-height="1.0777777777777777in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tipo_allegato_descrizione.bmp](./assets/media/image63.png)
 
 > Il successivo campo **"Lingua Estera"** permetterà di definire la
 > lingua della descrizione aggiuntiva che si sta caricando. Il sito web
@@ -274,8 +263,7 @@ height="1.0777777777777777in"}
 > codice corrispondente nella **"Tabella Lingue Estere"** di Mexal, alla
 > lingua desiderata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\tabella_lingue_estere.bmp](./assets/media/image62.png){width="1.2402777777777778in"
-height="1.2791666666666666in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\tabella_lingue_estere.bmp](./assets/media/image62.png)
 
 > **ATTENZIONE!:** nel caso in cui nel campo in oggetto venga inserito
 > **il valore 0 o venga lasciato vuoto**, per la descrizione aggiuntiva
@@ -293,8 +281,7 @@ height="1.2791666666666666in"}
     confermato tale scelta con F10, verrà visualizzata la maschera
     **"Acquisisci Documento da"** qui di seguito riportata
 
-> ![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\lista_sorgenti_acquisizione.bmp](./assets/media/image64.png){width="1.636111111111111in"
-> height="1.0777777777777777in"}
+> ![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\lista_sorgenti_acquisizione.bmp](./assets/media/image64.png)
 >
 > attraverso la quale poter selezionare la sorgente da cui acquisire il
 > file.
@@ -303,15 +290,13 @@ height="1.2791666666666666in"}
 > necessario selezionare, tra quelle presenti all'interno del proprio
 > pc, la specifica risorsa da acquisire:
 >
-> ![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\acquisici_da_disco.bmp](./assets/media/image65.png){width="5.785416666666666in"
-> height="2.8375in"}
+> ![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\acquisici_da_disco.bmp](./assets/media/image65.png)
 >
 > Scegliendo invece di acquisire la risorsa da Docuvision occorrerà poi
 > indicare il numero di un documento precedentemente inserito
 > all\'interno del documentale:
 >
-> ![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\acquisisci_da_docuvision.bmp](./assets/media/image66.png){width="2.675in"
-> height="0.7534722222222222in"}
+> ![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\acquisisci_da_docuvision.bmp](./assets/media/image66.png)
 >
 > Il pulsante **\"Ricerca Documento\"**consente di effettuare ricerche
 > all\'interno di Docuvision specificando differenti parametri di
@@ -321,8 +306,7 @@ height="1.2791666666666666in"}
     poi alla maschera **\"Gestione Documento\"** qui di seguito
     riportata:
 
-> ![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gestione_documento_dv.bmp](./assets/media/image67.png){width="4.227083333333334in"
-> height="2.363888888888889in"}
+> ![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gestione_documento_dv.bmp](./assets/media/image67.png)
 >
 > all'interno della quale verranno visualizzati il **"Titolo"** e la
 > **"Classe Documento"** impostati in automatico da Mexal per la risorsa
@@ -355,8 +339,7 @@ i vari articoli all\'interno del gestionale, e di importare dunque,
 direttamente da Mexal le varie risorse associate ad ogni singolo
 articolo.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\importa_risorse_articolo_sincronizzazione.bmp](./assets/media/image68.png){width="5.604166666666667in"
-height="3.5256944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\importa_risorse_articolo_sincronizzazione.bmp](./assets/media/image68.png)
 
 Grazie a questa operazione è quindi possibile gestire direttamente
 all\'interno di Mexal tutte le informazioni, comprese immagini e schede

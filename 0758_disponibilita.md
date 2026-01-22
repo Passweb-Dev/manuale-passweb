@@ -12,8 +12,7 @@ All'interno di questa sezione è inoltre possibile attivare il componente
 delle notifiche relative alla richiesta di disponibilità dei vari
 prodotti.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_catalogo_mexal_disponibilita.bmp](./assets/media/image20.png){width="5.980555555555555in"
-height="3.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_catalogo_mexal_disponibilita.bmp](./assets/media/image20.png)
 
 In particolare il campo:
 
@@ -28,8 +27,7 @@ seguenti valori:
   magazzino indicato all'interno del campo "**Magazzino**" presente
   nella maschera di "**Configurazione Ordini**" del Wizard.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\disponibilita_mexal_magazzino_1.bmp](./assets/media/image21.png){width="5.772916666666666in"
-height="3.50625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\disponibilita_mexal_magazzino_1.bmp](./assets/media/image21.png)
 
 - **Tutti i Magazzini:** selezionando questo valore nel calcolo della
   disponibilità verranno considerati tutti i magazzini del gestionale
@@ -41,8 +39,7 @@ height="3.50625in"}
   disponibilità verrà quindi effettuato considerando l'insieme dei
   magazzini appositamente selezionati.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\catalogo_mexal_disponibilita_personalizzata.bmp](./assets/media/image22.png){width="5.785416666666666in"
-height="3.5256944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\catalogo_mexal_disponibilita_personalizzata.bmp](./assets/media/image22.png)
 
 **Disponibilità:** consente di impostare, selezionandola tra le opzioni
 disponibili, la specifica formula che dovrà essere utilizzata per il
@@ -132,8 +129,7 @@ può essere impostato anche articolo per articolo, agendo direttamente
 dalla relativa Anagrafica Passweb mediante l'apposito parametro "Scorta
 Minima"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\scorta_minima_articolo.bmp](./assets/media/image23.png){width="5.785416666666666in"
-height="3.33125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\scorta_minima_articolo.bmp](./assets/media/image23.png)
 
 Ovviamente i valori impostati sul singolo articolo avranno priorità
 rispetto a quelli impostati a livello generale all'interno della sezione
@@ -260,16 +256,14 @@ E' possibile selezionare uno dei seguenti valori:
 > chiaramente che quella specifica configurazione porterà ad ottenere un
 > articolo al momento non disponibile e quindi non acquistabile.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\configuratore_articoli_non_disponibili_1.bmp](./assets/media/image24.png){width="5.227083333333334in"
-height="3.50625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\configuratore_articoli_non_disponibili_1.bmp](./assets/media/image24.png)
 
 > Per stilizzare in maniera diversa dalle altre le opzioni di selezione
 > relative a configurazioni di articoli figlio non disponibili è
 > sufficiente agire dallo style editor del componente "Configuratore"
 > selezionando uno degli elementi evidenziati in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\configuratore_articoli_non_disponibili_2.bmp](./assets/media/image25.png){width="4.675in"
-height="2.0972222222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\configuratore_articoli_non_disponibili_2.bmp](./assets/media/image25.png)
 
 > Ovviamente gli articoli corrispondenti a configurazioni attualmente
 > non disponibili non potranno essere acquistati per cui selezionando
@@ -278,8 +272,7 @@ height="2.0972222222222223in"}
 > visualizzata, anche in questo caso, l'etichetta di "Articolo
 > Esaurito".
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\configuratore_articoli_non_disponibili_3.bmp](./assets/media/image26.png){width="5.227083333333334in"
-height="3.1104166666666666in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\configuratore_articoli_non_disponibili_3.bmp](./assets/media/image26.png)
 
 > **ATTENZIONE!** Il fatto di ammettere, in queste condizioni, anche la
 > configurazione di articoli figli attualmente non disponibili potrebbe
@@ -340,8 +333,7 @@ essere impostata anche articolo per articolo, agendo direttamente dalla
 relativa Anagrafica Passweb mediante l'apposito parametro "Gestione
 Acquisto"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_acquisto.bmp](./assets/media/image27.png){width="5.804861111111111in"
-height="3.33125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_acquisto.bmp](./assets/media/image27.png)
 
 **In questo senso però è bene sottolineare come in fase di
 sincronizzazione verrà valutato, per ogni articolo coinvolto nella
@@ -388,8 +380,7 @@ la metodologia di calcolo della disponibilità di un singolo articolo di
 tipo DBA sarà possibile agire dall'analogo parametro presente
 nell'Anagrafica Passweb dell'articolo stesso
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\anagrafica_passweb_disponibilita_DBA.bmp](./assets/media/image28.png){width="5.804861111111111in"
-height="3.5256944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\anagrafica_passweb_disponibilita_DBA.bmp](./assets/media/image28.png)
 
 In ogni caso occorre sempre tenere in considerazione che un'eventuale
 variazione del parametro "**Gestione Disponibilità DBA"** presente

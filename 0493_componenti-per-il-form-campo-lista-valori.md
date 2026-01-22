@@ -4,8 +4,7 @@
 
 Il Componente per il form **"Campo Lista Valori"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_interno_ec_campo_lista_valori.bmp](./assets/media/image563.png){width="2.5340277777777778in"
-height="2.5340277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_interno_ec_campo_lista_valori.bmp](./assets/media/image563.png)
 
 può essere inserito unicamente all'interno dei seguenti componenti
 Ecommerce di primo livello:
@@ -18,8 +17,7 @@ caso in cui la Wishlist in oggetto sia di tipo "Lista Regalo",** e che
 potrà essere utilizzato dal creatore della relativa Lista per assegnare
 al corrispondente articolo una specifica priorità di acquisto.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\componente_interno_ec_campo_lista_valori_2.bmp](./assets/media/image564.png){width="5.423611111111111in"
-height="3.3069444444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\componente_interno_ec_campo_lista_valori_2.bmp](./assets/media/image564.png)
 
 **ATTENZIONE!** Nel caso di articoli "Campionario / Box" (configurabili
 e non) il campo in esame verrà visualizzato solo ed esclusivamente sul
@@ -33,8 +31,7 @@ manuale.
 Rilasciando il Componente nella posizione desiderata verrà visualizzata
 **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_valori_custom_configurazione_res.bmp](./assets/media/image565.png){width="4.613194444444445in"
-height="2.779166666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_valori_custom_configurazione_res.bmp](./assets/media/image565.png)
 
 suddivisa in varie sezioni.
 
@@ -86,8 +83,7 @@ impostare un valore per i seguenti parametri:
 > definiti all'interno della sezione "*Utenti -- Wishlist -- Priorità*"
 > del Wizard.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_priorita.bmp](./assets/media/image566.png){width="5.595138888888889in"
-height="3.2944444444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_priorita.bmp](./assets/media/image566.png)
 
 > Nello specifico i valori disponibili all'interno del menu a tendina
 > coincideranno esattamente con la Descrizione assegnata ad ogni singola

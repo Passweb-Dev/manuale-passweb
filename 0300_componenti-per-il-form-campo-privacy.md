@@ -17,8 +17,7 @@ campo, esso sarà vincolante ai fini del corretto salvataggio del form.
 Rilasciando il componente all'interno del form si aprirà **la sua
 maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_campo_privacy_comp_comuni_res.bmp](./assets/media/image139.png){width="5.110416666666667in"
-height="3.077777777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_campo_privacy_comp_comuni_res.bmp](./assets/media/image139.png)
 
 suddivisa in varie sezioni.
 

@@ -42,8 +42,7 @@ implementate insieme o separatamente. Nello specifico:
   sito. Non consente di inserire ulteriori filtri per raffinare i
   risultati ottenuti
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_instant_search.bmp](./assets/media/image24.png){width="5.486805555555556in"
-height="3.207638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_instant_search.bmp](./assets/media/image24.png)
 
 - **Omnisearch**: combina il meglio dell' Instant Search e della Search
   Page in un singolo overlay che mostra i risultati mentre il visitatore
@@ -53,11 +52,9 @@ height="3.207638888888889in"}
   generale, anche di quelli che possono essere tutti i contenuti
   testuali del sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_omnisearch_1.bmp](./assets/media/image25.png){width="5.486805555555556in"
-height="3.207638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_omnisearch_1.bmp](./assets/media/image25.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_omnisearch_2.bmp](./assets/media/image26.png){width="5.486805555555556in"
-height="3.207638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_omnisearch_2.bmp](./assets/media/image26.png)
 
 Per maggiori informazioni relativamente alle caratteristiche e alle
 funzionalità dei moduli di ricerca messi a disposizione da Clerk si
@@ -100,26 +97,22 @@ In questo senso sarà necessario, per prima cosa, definire un
 andrà poi ad implementare agendo dalla sezione "**Search -- Design**"
 del proprio account Clerk
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_search_design.bmp](./assets/media/image27.png){width="5.428472222222222in"
-height="3.33125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_search_design.bmp](./assets/media/image27.png)
 
 Il pulsante "**New design**" presente nella parte alta della maschera
 consente di creare un nuovo Design selezionando anche, tra le tre
 precedentemente indicate, la tipologia di modulo di ricerca per cui si
 desidera implementare l'interfaccia.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_search_design_2.bmp](./assets/media/image28.png){width="5.428472222222222in"
-height="3.33125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_search_design_2.bmp](./assets/media/image28.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_search_design_3.bmp](./assets/media/image29.png){width="5.428472222222222in"
-height="3.33125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_search_design_3.bmp](./assets/media/image29.png)
 
 Selezionato il modulo per cui si desidera operare Clerk metterà poi a
 disposizione dei template precostituiti che rappresentano una buona base
 di partenza su cui andare a lavorare.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_search_design_4.bmp](./assets/media/image30.png){width="5.428472222222222in"
-height="3.33125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_search_design_4.bmp](./assets/media/image30.png)
 
 Generalmente, per arrivare ad ottenere un risultato in linea con il
 proprio sito, i template messi a disposizione da Clerk dovranno comunque
@@ -132,8 +125,7 @@ costruita lavorando interamente a livello di codice sfruttando, per la
 parte HTML, il linguaggio di templating (Liquid) messo a disposizione da
 Clerk
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_search_design_5.bmp](./assets/media/image31.png){width="5.428472222222222in"
-height="3.33125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_search_design_5.bmp](./assets/media/image31.png)
 
 Lato CSS invece sarà possibile inserire il codice necessario per le
 personalizzazioni grafiche richieste direttamente all'interno di Clerk
@@ -151,20 +143,17 @@ essere costruita in maniera visuale utilizzando l'editor messo a
 disposizione da Clerk che lavora in maniera piuttosto simile all'editor
 di Passweb stesso
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_search_design_6.bmp](./assets/media/image32.png){width="5.428472222222222in"
-height="3.33125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_search_design_6.bmp](./assets/media/image32.png)
 
 Si tratterà sostanzialmente di selezionare i vari componenti da
 aggiungere all'interfaccia (box, griglie, campi testo, campi HTML ...)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_search_design_7.bmp](./assets/media/image33.png){width="5.428472222222222in"
-height="3.33125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_search_design_7.bmp](./assets/media/image33.png)
 
 e settarne poi le relative proprietà sia a livello grafico che a livello
 di contenuto.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_search_design_8.bmp](./assets/media/image34.png){width="5.428472222222222in"
-height="3.33125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_search_design_8.bmp](./assets/media/image34.png)
 
 Il componente "Testo" ad esempio potrà essere mappato (analogamente a
 quanto avviene per gli Attributi articolo di Passweb) con uno dei dati
@@ -181,8 +170,7 @@ o meno di un elemento al verificarsi di determinate condizioni, o il
 fatto di poter utilizzare un componente HTML) possono essere effettuate
 anche dall'editor visuale
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_search_design_9.bmp](./assets/media/image35.png){width="5.428472222222222in"
-height="3.33125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_search_design_9.bmp](./assets/media/image35.png)
 
 **ATTENZIONE!** per maggiori informazioni relativamente alla creazione
 dei Design si consiglia di fare riferimento sempre alla specifica
@@ -197,16 +185,14 @@ ricerca che dovrà poi essere effettivamente utilizzato all'interno del
 sito e questo lo si farà operando all'interno della sezione "**Search --
 Elements**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_search_design_10.bmp](./assets/media/image36.png){width="5.428472222222222in"
-height="3.33125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_search_design_10.bmp](./assets/media/image36.png)
 
 Il pulsante "**New Element**" presente nella parte alta della maschera
 consentirà di creare un nuovo elemento, dopo di che sarà necessario
 configurarlo impostando quanto richiesto in ciascuna delle sezioni
 indicate
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_search_design_11.bmp](./assets/media/image37.png){width="5.428472222222222in"
-height="3.33125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_search_design_11.bmp](./assets/media/image37.png)
 
 Nello specifico la sezione:
 
@@ -223,8 +209,7 @@ una logica che definisca quali prodotti visualizzare prima che l'utente
 inizi a digitare la sua query di ricerca, di impostare filtri di
 preselezione degli articoli visualizzati ...
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_search_design_12.bmp](./assets/media/image38.png){width="5.428472222222222in"
-height="3.33125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_search_design_12.bmp](./assets/media/image38.png)
 
 **Design:** consente di impostare e configurare, selezionandolo tra
 quelli precedentemente realizzati, il Design e quindi l'interfaccia
@@ -232,8 +217,7 @@ grafica che dovrà essere utilizzata per il modulo di ricerca che si sta
 realizzando. Nel caso di Omnisearch sarà anche possibile definire anche
 i campi da utilizzare per i filtri di ricerca (sezione Facets)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_search_design_13.bmp](./assets/media/image39.png){width="5.428472222222222in"
-height="3.33125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_search_design_13.bmp](./assets/media/image39.png)
 
 **Insert into website:** consente di impostare la modalità da utilizzare
 per visualizzare il modulo di ricerca all'interno del nostro sito. In
@@ -246,16 +230,14 @@ questo senso è possibile operare in due modi diversi:
   presente all'interno della pagina del sito Passweb su cui l'utente
   dovrà cliccare per far comparire il modulo di ricerca in esame
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_search_design_14.bmp](./assets/media/image40.png){width="5.428472222222222in"
-height="3.33125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_search_design_14.bmp](./assets/media/image40.png)
 
 - **Embedded code:** selezionando questa opzione verrà fornito da Clerk
   lo snippet di codice che dovremo poi inserire (mediante un componente
   HTML) all'interno della/e pagina/e del sito Passweb in cui far
   comparire il modulo di ricerca in questione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_search_design_15.bmp](./assets/media/image41.png){width="5.428472222222222in"
-height="3.33125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_search_design_15.bmp](./assets/media/image41.png)
 
 > **ATTENZIONE!** lo snippet di codice fornito da Clerk dovrà comunque
 > essere personalizzato inserendo (attributo "data-trigger-element")

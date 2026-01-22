@@ -5,8 +5,7 @@
 All'interno della sezione "**Pagina Login Cliente / Agente Area
 Riservata**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\variante_res_login_agente_cliente.bmp](./assets/media/image45.png){width="5.141666666666667in"
-height="3.1569444444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\variante_res_login_agente_cliente.bmp](./assets/media/image45.png)
 
 è possibile impostare, per la Variante in esame, la pagina del sito cui
 dovrà essere indirizzato un Agente nel momento in cui dovesse effettuare

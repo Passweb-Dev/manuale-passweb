@@ -92,8 +92,7 @@ presente alla pagina **Sito -- Preferenze** del Wizard e da qui:
   Ecommerce per Google Analytics e Google Tag Manager**" (pagina "**Sito
   -- Preferenze**" del Wizard tab "**Tracciamento Dati**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_preferenze_eventi_ecommerce.bmp](./assets/media/image46.png){width="5.815277777777778in"
-height="3.2993055555555557in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_preferenze_eventi_ecommerce.bmp](./assets/media/image46.png)
 
 > sul valore "**Client**" o "**Entrambi**"
 >
@@ -107,16 +106,14 @@ height="3.2993055555555557in"}
   Google Analytics 4 in maniera tale da gestire il Data Layer con i
   parametri richiesti effettivamente da GA4
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_89.bmp](./assets/media/image47.png){width="5.547916666666667in"
-height="3.5034722222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_89.bmp](./assets/media/image47.png)
 
 - Verificare di aver impostato correttamente gli snippet di codice
   necessari per l'installazione del contenitore di GTM sulle pagine del
   proprio sito (campi "**Monitoraggio Google Tag Manager -- HEAD**" e
   "**Monitoraggio Google Tag Manager -- BODY**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_90.bmp](./assets/media/image48.png){width="5.547916666666667in"
-height="3.5034722222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_90.bmp](./assets/media/image48.png)
 
 **ATTENZIONE!** a differenza di quanto avveniva per UA, non sarà
 necessario impostare setting particolari sul proprio account GA4 per cui
@@ -195,27 +192,23 @@ variabile in questione:
     variabile cliccando sul pulsante "**Nuova**" presente in
     corrispondenza del box "**Variabili definite dall'utente**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_ecommerce_avanzato_1.bmp](./assets/media/image49.png){width="5.33125in"
-height="3.3569444444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_ecommerce_avanzato_1.bmp](./assets/media/image49.png)
 
 2.  Cliccare sul pulsante "**Scegli un tipo di variabile per iniziare
     l'installazione**" presente in corrispondenza del box
     "**Configurazione Variabile**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_ecommerce_avanzato_2.bmp](./assets/media/image50.png){width="5.33125in"
-height="3.3569444444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_ecommerce_avanzato_2.bmp](./assets/media/image50.png)
 
 > e selezionare, tra le varie proposte, l'opzione "**Variabile di
 > livello dati**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_ecommerce_avanzato_3.bmp](./assets/media/image51.png){width="5.33125in"
-height="3.3569444444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_ecommerce_avanzato_3.bmp](./assets/media/image51.png)
 
 3.  Nella successiva maschera impostare i campi di configurazione della
     variabile come di seguito indicato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_91.bmp](./assets/media/image52.png){width="5.33125in"
-height="3.2736111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_91.bmp](./assets/media/image52.png)
 
 - **Nome varabile di livello dati**: impostare sul valore
   "**ecommerce.items**"
@@ -226,8 +219,7 @@ height="3.2736111111111112in"}
     ecommerce.items**") utilizzando l'apposito campo presente nella
     parte alta della pagina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_92.bmp](./assets/media/image53.png){width="5.33125in"
-height="3.2736111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_92.bmp](./assets/media/image53.png)
 
 > e cliccare sul pulsante "**Salva**"
 
@@ -1222,28 +1214,24 @@ di una pagina con componenti quali il "Catalogo Ecommerce", le "Offerte
     dashboard di gestione del Contenitore su cui si desidera operare e
     cliccare sul pulsante "**Aggiungi un uovo Tag**"
 
-![Videate\\gtm_15b.bmp](./assets/media/image36.png){width="5.586111111111111in"
-height="3.4458333333333333in"}
+![Videate\\gtm_15b.bmp](./assets/media/image36.png)
 
 2.  Cliccare sul pulsante "**Scegli un tipo di tag per iniziare
     l'installazione**" presente all'interno del box "**Configurazione
     Tag**"
 
-![Videate\\gtm_ecommerce_avanzato_10.bmp](./assets/media/image37.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_10.bmp](./assets/media/image37.png)
 
 3.  Selezionare tra quelli proposti il tag "**Google Analytics: evento
     GA4**"
 
-![Videate\\gtm_93.bmp](./assets/media/image54.png){width="5.33125in"
-height="3.2736111111111112in"}
+![Videate\\gtm_93.bmp](./assets/media/image54.png)
 
 4.  Nella successiva maschera di configurazione del tag impostare i due
     parametri "Tag di configurazione" e "Nome evento" come nella figura
     di seguito riportata.
 
-![Videate\\gtm_94.bmp](./assets/media/image55.png){width="5.33125in"
-height="3.2736111111111112in"}
+![Videate\\gtm_94.bmp](./assets/media/image55.png)
 
 - **Tag di configurazione**: selezionare dal relativo menu a tendina il
   "Tag di configurazione GA4" precedentemente creato (per maggiori
@@ -1256,22 +1244,19 @@ height="3.2736111111111112in"}
     Analytics per l'evento in esame. Aprire quindi la sezione
     "**Parametri evento**" e cliccare sul pulsante "**Aggiungi Riga**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_95.bmp](./assets/media/image56.png){width="5.33125in"
-height="3.2736111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_95.bmp](./assets/media/image56.png)
 
 6.  Aggiungere i nuovi parametri completando i campi "Nome parametro" e
     "Valore" come nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_96.bmp](./assets/media/image57.png){width="5.057638888888889in"
-height="3.5347222222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_96.bmp](./assets/media/image57.png)
 
 > **[PARAMETRI OBBLIGATORI]{.underline}**
 
 - **Nome parametro**: items
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.items**" precedentemente creata
 
 > **[PARAMETRI OPZIONALI]{.underline}**
@@ -1283,46 +1268,40 @@ height="3.5347222222222223in"}
 - **Nome parametro**: event_action
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.event_action**" precedentemente
   creata
 
 - **Nome parametro**: event_category
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.event_category**" precedentemente
   creata
 
 - **Nome parametro**: event_label
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.event_label**" precedentemente
   creata
 
 - **Nome parametro**: currency
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.currency**" precedentemente creata
 
 - **Nome parametro**: value
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.value**" precedentemente creata
 
 - **Nome parametro**: dateTime
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.dateTime**" precedentemente creata
 
 > Ovviamente nel momento in cui il valore assegnato nel Data Layer di
@@ -1352,32 +1331,27 @@ height="3.5347222222222223in"}
 > Cliccare quindi sul pulsante "**Scegli un attivatore per attivare
 > questo tag**" presente all'interno del box "**Attivazione**"
 
-![Videate\\gtm_97.bmp](./assets/media/image59.png){width="5.33125in"
-height="3.2736111111111112in"}
+![Videate\\gtm_97.bmp](./assets/media/image59.png)
 
 > e, successivamente, cliccare sul pulsante di creazione di un nuovo
 > attivatore (il piccolo + posto nella parte alta della maschera)
 
-![Videate\\gtm_ecommerce_avanzato_19.bmp](./assets/media/image60.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_19.bmp](./assets/media/image60.png)
 
 8.  Nella maschera di creazione del nuovo Attivatore cliccare su
     "**Scegli un tipo di trigger per iniziare l'installazione**"
     presente all'interno del box "**Configurazione attivatore**"
 
-![Videate\\gtm_ecommerce_avanzato_20.bmp](./assets/media/image61.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_20.bmp](./assets/media/image61.png)
 
 > e selezionare, tra le opzioni proposte, "**Evento Personalizzato**"
 
-![Videate\\gtm_ecommerce_avanzato_21.bmp](./assets/media/image62.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_21.bmp](./assets/media/image62.png)
 
 9.  Nella successiva maschera impostare i parametri di configurazione
     dell'attivatore come nella figura di seguito riportata
 
-![Videate\\gtm_98.bmp](./assets/media/image63.png){width="5.33125in"
-height="3.2736111111111112in"}
+![Videate\\gtm_98.bmp](./assets/media/image63.png)
 
 - **Nome Evento**: impostare su "***view_item_list***"
 
@@ -1397,8 +1371,7 @@ height="3.2736111111111112in"}
     List**) operando dall'apposito campo presente nella parte alta della
     maschera
 
-![Videate\\gtm_99.bmp](./assets/media/image64.png){width="5.33125in"
-height="3.2736111111111112in"}
+![Videate\\gtm_99.bmp](./assets/media/image64.png)
 
 > e, infine, salvare il Tag cliccando sul pulsante "**Salva**"
 
@@ -1515,28 +1488,24 @@ cella dell'articolo stesso presente in catalogo)
     dashboard di gestione del Contenitore su cui si desidera operare e
     cliccare sul pulsante "**Aggiungi un uovo Tag**"
 
-![Videate\\gtm_15b.bmp](./assets/media/image36.png){width="5.586111111111111in"
-height="3.4458333333333333in"}
+![Videate\\gtm_15b.bmp](./assets/media/image36.png)
 
 2.  Cliccare sul pulsante "**Scegli un tipo di tag per iniziare
     l'installazione**" presente all'interno del box "**Configurazione
     Tag**"
 
-![Videate\\gtm_ecommerce_avanzato_10.bmp](./assets/media/image37.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_10.bmp](./assets/media/image37.png)
 
 3.  Selezionare tra quelli proposti il tag "**Google Analytics: evento
     GA4**"
 
-![Videate\\gtm_93.bmp](./assets/media/image54.png){width="5.33125in"
-height="3.2736111111111112in"}
+![Videate\\gtm_93.bmp](./assets/media/image54.png)
 
 4.  Nella successiva maschera di configurazione del tag impostare i due
     parametri "Tag di configurazione" e "Nome evento" come nella figura
     di seguito riportata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_100.bmp](./assets/media/image65.png){width="5.33125in"
-height="3.2736111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_100.bmp](./assets/media/image65.png)
 
 - **Tag di configurazione**: selezionare dal relativo menu a tendina il
   "Tag di configurazione GA4" precedentemente creato (per maggiori
@@ -1549,22 +1518,19 @@ height="3.2736111111111112in"}
     Analytics per l'evento in esame. Aprire quindi la sezione
     "**Parametri evento**" e cliccare sul pulsante "**Aggiungi Riga**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_101.bmp](./assets/media/image66.png){width="5.33125in"
-height="3.2736111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_101.bmp](./assets/media/image66.png)
 
 6.  Aggiungere i nuovi parametri completando i campi "Nome parametro" e
     "Valore" come nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_102.bmp](./assets/media/image67.png){width="5.057638888888889in"
-height="3.5347222222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_102.bmp](./assets/media/image67.png)
 
 > **[PARAMETRI OBBLIGATORI]{.underline}**
 
 - **Nome parametro**: items
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.items**" precedentemente creata
 
 > **[PARAMETRI OPZIONALI]{.underline}**
@@ -1576,46 +1542,40 @@ height="3.5347222222222223in"}
 - **Nome parametro**: event_action
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.event_action**" precedentemente
   creata
 
 - **Nome parametro**: event_category
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.event_category**" precedentemente
   creata
 
 - **Nome parametro**: event_label
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.event_label**" precedentemente
   creata
 
 - **Nome parametro**: currency
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.currency**" precedentemente creata
 
 - **Nome parametro**: value
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.value**" precedentemente creata
 
 - **Nome parametro**: dateTime
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.dateTime**" precedentemente creata
 
 > Ovviamente nel momento in cui il valore assegnato nel Data Layer di
@@ -1645,32 +1605,27 @@ height="3.5347222222222223in"}
 > Cliccare quindi sul pulsante "**Scegli un attivatore per attivare
 > questo tag**" presente all'interno del box "**Attivazione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_103.bmp](./assets/media/image68.png){width="5.33125in"
-height="3.2736111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_103.bmp](./assets/media/image68.png)
 
 > e, successivamente, cliccare sul pulsante di creazione di un nuovo
 > attivatore (il piccolo + posto nella parte alta della maschera)
 
-![Videate\\gtm_ecommerce_avanzato_19.bmp](./assets/media/image60.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_19.bmp](./assets/media/image60.png)
 
 8.  Nella maschera di creazione del nuovo Attivatore cliccare su
     "**Scegli un tipo di trigger per iniziare l'installazione**"
     presente all'interno del box "**Configurazione attivatore**"
 
-![Videate\\gtm_ecommerce_avanzato_20.bmp](./assets/media/image61.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_20.bmp](./assets/media/image61.png)
 
 > e selezionare, tra le opzioni proposte, "**Evento Personalizzato**"
 
-![Videate\\gtm_ecommerce_avanzato_21.bmp](./assets/media/image62.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_21.bmp](./assets/media/image62.png)
 
 9.  Nella successiva maschera impostare i parametri di configurazione
     dell'attivatore come nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_104.bmp](./assets/media/image69.png){width="5.33125in"
-height="3.2736111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_104.bmp](./assets/media/image69.png)
 
 - **Nome Evento**: impostare su "***select_item***"
 
@@ -1793,28 +1748,24 @@ di una scheda prodotto
     dashboard di gestione del Contenitore su cui si desidera operare e
     cliccare sul pulsante "**Aggiungi un uovo Tag**"
 
-![Videate\\gtm_15b.bmp](./assets/media/image36.png){width="5.586111111111111in"
-height="3.4458333333333333in"}
+![Videate\\gtm_15b.bmp](./assets/media/image36.png)
 
 2.  Cliccare sul pulsante "**Scegli un tipo di tag per iniziare
     l'installazione**" presente all'interno del box "**Configurazione
     Tag**"
 
-![Videate\\gtm_ecommerce_avanzato_10.bmp](./assets/media/image37.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_10.bmp](./assets/media/image37.png)
 
 3.  Selezionare tra quelli proposti il tag "**Google Analytics: evento
     GA4**"
 
-![Videate\\gtm_93.bmp](./assets/media/image54.png){width="5.33125in"
-height="3.2736111111111112in"}
+![Videate\\gtm_93.bmp](./assets/media/image54.png)
 
 4.  Nella successiva maschera di configurazione del tag impostare i due
     parametri "Tag di configurazione" e "Nome evento" come nella figura
     di seguito riportata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_105.bmp](./assets/media/image70.png){width="5.33125in"
-height="3.2736111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_105.bmp](./assets/media/image70.png)
 
 - **Tag di configurazione**: selezionare dal relativo menu a tendina il
   "Tag di configurazione GA4" precedentemente creato (per maggiori
@@ -1827,22 +1778,19 @@ height="3.2736111111111112in"}
     Analytics per l'evento in esame. Aprire quindi la sezione
     "**Parametri evento**" e cliccare sul pulsante "**Aggiungi Riga**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_106.bmp](./assets/media/image71.png){width="5.33125in"
-height="3.2736111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_106.bmp](./assets/media/image71.png)
 
 6.  Aggiungere i nuovi parametri completando i campi "Nome parametro" e
     "Valore" come nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_107.bmp](./assets/media/image72.png){width="5.057638888888889in"
-height="3.5347222222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_107.bmp](./assets/media/image72.png)
 
 > **[PARAMETRI OBBLIGATORI]{.underline}**
 
 - **Nome parametro**: items
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.items**" precedentemente creata
 
 > **[PARAMETRI OPZIONALI]{.underline}**
@@ -1854,46 +1802,40 @@ height="3.5347222222222223in"}
 - **Nome parametro**: event_action
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.event_action**" precedentemente
   creata
 
 - **Nome parametro**: event_category
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.event_category**" precedentemente
   creata
 
 - **Nome parametro**: event_label
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.event_label**" precedentemente
   creata
 
 - **Nome parametro**: currency
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.currency**" precedentemente creata
 
 - **Nome parametro**: value
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.value**" precedentemente creata
 
 - **Nome parametro**: dateTime
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.dateTime**" precedentemente creata
 
 > Ovviamente nel momento in cui il valore assegnato nel Data Layer di
@@ -1923,32 +1865,27 @@ height="3.5347222222222223in"}
 > Cliccare quindi sul pulsante "**Scegli un attivatore per attivare
 > questo tag**" presente all'interno del box "**Attivazione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_108.bmp](./assets/media/image73.png){width="5.33125in"
-height="3.2736111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_108.bmp](./assets/media/image73.png)
 
 > e, successivamente, cliccare sul pulsante di creazione di un nuovo
 > attivatore (il piccolo + posto nella parte alta della maschera)
 
-![Videate\\gtm_ecommerce_avanzato_19.bmp](./assets/media/image60.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_19.bmp](./assets/media/image60.png)
 
 8.  Nella maschera di creazione del nuovo Attivatore cliccare su
     "**Scegli un tipo di trigger per iniziare l'installazione**"
     presente all'interno del box "**Configurazione attivatore**"
 
-![Videate\\gtm_ecommerce_avanzato_20.bmp](./assets/media/image61.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_20.bmp](./assets/media/image61.png)
 
 > e selezionare, tra le opzioni proposte, "**Evento Personalizzato**"
 
-![Videate\\gtm_ecommerce_avanzato_21.bmp](./assets/media/image62.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_21.bmp](./assets/media/image62.png)
 
 9.  Nella successiva maschera impostare i parametri di configurazione
     dell'attivatore come nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_109.bmp](./assets/media/image74.png){width="5.33125in"
-height="3.2736111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_109.bmp](./assets/media/image74.png)
 
 - **Nome Evento**: impostare su "***view_item***"
 
@@ -2077,28 +2014,24 @@ articolo in carrello
     dashboard di gestione del Contenitore su cui si desidera operare e
     cliccare sul pulsante "**Aggiungi un uovo Tag**"
 
-![Videate\\gtm_15b.bmp](./assets/media/image36.png){width="5.586111111111111in"
-height="3.4458333333333333in"}
+![Videate\\gtm_15b.bmp](./assets/media/image36.png)
 
 2.  Cliccare sul pulsante "**Scegli un tipo di tag per iniziare
     l'installazione**" presente all'interno del box "**Configurazione
     Tag**"
 
-![Videate\\gtm_ecommerce_avanzato_10.bmp](./assets/media/image37.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_10.bmp](./assets/media/image37.png)
 
 3.  Selezionare tra quelli proposti il tag "**Google Analytics: evento
     GA4**"
 
-![Videate\\gtm_93.bmp](./assets/media/image54.png){width="5.33125in"
-height="3.2736111111111112in"}
+![Videate\\gtm_93.bmp](./assets/media/image54.png)
 
 4.  Nella successiva maschera di configurazione del tag impostare i due
     parametri "Tag di configurazione" e "Nome evento" come nella figura
     di seguito riportata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_110.bmp](./assets/media/image75.png){width="5.33125in"
-height="3.2736111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_110.bmp](./assets/media/image75.png)
 
 - **Tag di configurazione**: selezionare dal relativo menu a tendina il
   "Tag di configurazione GA4" precedentemente creato (per maggiori
@@ -2111,22 +2044,19 @@ height="3.2736111111111112in"}
     Analytics per l'evento in esame. Aprire quindi la sezione
     "**Parametri evento**" e cliccare sul pulsante "**Aggiungi Riga**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_111.bmp](./assets/media/image76.png){width="5.33125in"
-height="3.2736111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_111.bmp](./assets/media/image76.png)
 
 6.  Aggiungere i nuovi parametri completando i campi "Nome parametro" e
     "Valore" come nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_112.bmp](./assets/media/image77.png){width="5.057638888888889in"
-height="3.5347222222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_112.bmp](./assets/media/image77.png)
 
 > **[PARAMETRI OBBLIGATORI]{.underline}**
 
 - **Nome parametro**: items
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.items**" precedentemente creata
 
 > **[PARAMETRI OPZIONALI]{.underline}**
@@ -2138,54 +2068,47 @@ height="3.5347222222222223in"}
 - **Nome parametro**: event_action
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.event_action**" precedentemente
   creata
 
 - **Nome parametro**: event_category
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.event_category**" precedentemente
   creata
 
 - **Nome parametro**: event_label
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.event_label**" precedentemente
   creata
 
 - **Nome parametro**: currency
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.currency**" precedentemente creata
 
 - **Nome parametro**: value
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.value**" precedentemente creata
 
 - **Nome parametro**: discount_pwb
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.discount_pwb**" precedentemente
   creata
 
 - **Nome parametro**: dateTime
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.dateTime**" precedentemente creata
 
 > Ovviamente nel momento in cui il valore assegnato nel Data Layer di
@@ -2215,32 +2138,27 @@ height="3.5347222222222223in"}
 > Cliccare quindi sul pulsante "**Scegli un attivatore per attivare
 > questo tag**" presente all'interno del box "**Attivazione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_113.bmp](./assets/media/image78.png){width="5.33125in"
-height="3.2736111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_113.bmp](./assets/media/image78.png)
 
 > e, successivamente, cliccare sul pulsante di creazione di un nuovo
 > attivatore (il piccolo + posto nella parte alta della maschera)
 
-![Videate\\gtm_ecommerce_avanzato_19.bmp](./assets/media/image60.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_19.bmp](./assets/media/image60.png)
 
 8.  Nella maschera di creazione del nuovo Attivatore cliccare su
     "**Scegli un tipo di trigger per iniziare l'installazione**"
     presente all'interno del box "**Configurazione attivatore**"
 
-![Videate\\gtm_ecommerce_avanzato_20.bmp](./assets/media/image61.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_20.bmp](./assets/media/image61.png)
 
 > e selezionare, tra le opzioni proposte, "**Evento Personalizzato**"
 
-![Videate\\gtm_ecommerce_avanzato_21.bmp](./assets/media/image62.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_21.bmp](./assets/media/image62.png)
 
 9.  Nella successiva maschera impostare i parametri di configurazione
     dell'attivatore come nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_114.bmp](./assets/media/image79.png){width="5.33125in"
-height="3.2736111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_114.bmp](./assets/media/image79.png)
 
 - **Nome Evento**: impostare su "***add_to_cart***"
 
@@ -2369,28 +2287,24 @@ articolo dal carrello
   dashboard di gestione del Contenitore su cui si desidera operare e
   cliccare sul pulsante "**Aggiungi un uovo Tag**"
 
-![Videate\\gtm_15b.bmp](./assets/media/image36.png){width="5.586111111111111in"
-height="3.4458333333333333in"}
+![Videate\\gtm_15b.bmp](./assets/media/image36.png)
 
 - Cliccare sul pulsante "**Scegli un tipo di tag per iniziare
   l'installazione**" presente all'interno del box "**Configurazione
   Tag**"
 
-![Videate\\gtm_ecommerce_avanzato_10.bmp](./assets/media/image37.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_10.bmp](./assets/media/image37.png)
 
 - Selezionare tra quelli proposti il tag "**Google Analytics: evento
   GA4**"
 
-![Videate\\gtm_93.bmp](./assets/media/image54.png){width="5.33125in"
-height="3.2736111111111112in"}
+![Videate\\gtm_93.bmp](./assets/media/image54.png)
 
 - Nella successiva maschera di configurazione del tag impostare i due
   parametri "Tag di configurazione" e "Nome evento" come nella figura di
   seguito riportata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_115.bmp](./assets/media/image80.png){width="5.33125in"
-height="3.2736111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_115.bmp](./assets/media/image80.png)
 
 - **Tag di configurazione**: selezionare dal relativo menu a tendina il
   "Tag di configurazione GA4" precedentemente creato (per maggiori
@@ -2405,22 +2319,19 @@ height="3.2736111111111112in"}
   Analytics per l'evento in esame. Aprire quindi la sezione "**Parametri
   evento**" e cliccare sul pulsante "**Aggiungi Riga**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_116.bmp](./assets/media/image81.png){width="5.33125in"
-height="3.2736111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_116.bmp](./assets/media/image81.png)
 
 - Aggiungere i nuovi parametri completando i campi "Nome parametro" e
   "Valore" come nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_117.bmp](./assets/media/image82.png){width="5.057638888888889in"
-height="3.5347222222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_117.bmp](./assets/media/image82.png)
 
 > **[PARAMETRI OBBLIGATORI]{.underline}**
 
 - **Nome parametro**: items
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.items**" precedentemente creata
 
 > **[PARAMETRI OPZIONALI]{.underline}**
@@ -2432,54 +2343,47 @@ height="3.5347222222222223in"}
 - **Nome parametro**: event_action
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.event_action**" precedentemente
   creata
 
 - **Nome parametro**: event_category
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.event_category**" precedentemente
   creata
 
 - **Nome parametro**: event_label
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.event_label**" precedentemente
   creata
 
 - **Nome parametro**: currency
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.currency**" precedentemente creata
 
 - **Nome parametro**: value
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.value**" precedentemente creata
 
 - **Nome parametro**: discount_pwb
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.discount_pwb**" precedentemente
   creata
 
 - **Nome parametro**: dateTime
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.dateTime**" precedentemente creata
 
 > Ovviamente nel momento in cui il valore assegnato nel Data Layer di
@@ -2511,32 +2415,27 @@ height="3.5347222222222223in"}
 > Cliccare quindi sul pulsante "**Scegli un attivatore per attivare
 > questo tag**" presente all'interno del box "**Attivazione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_118.bmp](./assets/media/image83.png){width="5.33125in"
-height="3.2736111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_118.bmp](./assets/media/image83.png)
 
 > e, successivamente, cliccare sul pulsante di creazione di un nuovo
 > attivatore (il piccolo + posto nella parte alta della maschera)
 
-![Videate\\gtm_ecommerce_avanzato_19.bmp](./assets/media/image60.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_19.bmp](./assets/media/image60.png)
 
 - Nella maschera di creazione del nuovo Attivatore cliccare su "**Scegli
   un tipo di trigger per iniziare l'installazione**" presente
   all'interno del box "**Configurazione attivatore**"
 
-![Videate\\gtm_ecommerce_avanzato_20.bmp](./assets/media/image61.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_20.bmp](./assets/media/image61.png)
 
 > e selezionare, tra le opzioni proposte, "**Evento Personalizzato**"
 
-![Videate\\gtm_ecommerce_avanzato_21.bmp](./assets/media/image62.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_21.bmp](./assets/media/image62.png)
 
 - Nella successiva maschera impostare i parametri di configurazione
   dell'attivatore come nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_119.bmp](./assets/media/image84.png){width="5.33125in"
-height="3.2736111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_119.bmp](./assets/media/image84.png)
 
 - **Nome Evento**: impostare su "***remove_from_cart***"
 
@@ -2660,28 +2559,24 @@ articolo alla Wishlist
     dashboard di gestione del Contenitore su cui si desidera operare e
     cliccare sul pulsante "**Aggiungi un uovo Tag**"
 
-![Videate\\gtm_15b.bmp](./assets/media/image36.png){width="5.586111111111111in"
-height="3.4458333333333333in"}
+![Videate\\gtm_15b.bmp](./assets/media/image36.png)
 
 2.  Cliccare sul pulsante "**Scegli un tipo di tag per iniziare
     l'installazione**" presente all'interno del box "**Configurazione
     Tag**"
 
-![Videate\\gtm_ecommerce_avanzato_10.bmp](./assets/media/image37.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_10.bmp](./assets/media/image37.png)
 
 3.  Selezionare tra quelli proposti il tag "**Google Analytics: evento
     GA4**"
 
-![Videate\\gtm_93.bmp](./assets/media/image54.png){width="5.33125in"
-height="3.2736111111111112in"}
+![Videate\\gtm_93.bmp](./assets/media/image54.png)
 
 4.  Nella successiva maschera di configurazione del tag impostare i due
     parametri "Tag di configurazione" e "Nome evento" come nella figura
     di seguito riportata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_120.bmp](./assets/media/image85.png){width="5.33125in"
-height="3.2736111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_120.bmp](./assets/media/image85.png)
 
 - **Tag di configurazione**: selezionare dal relativo menu a tendina il
   "Tag di configurazione GA4" precedentemente creato (per maggiori
@@ -2694,22 +2589,19 @@ height="3.2736111111111112in"}
     Analytics per l'evento in esame. Aprire quindi la sezione
     "**Parametri evento**" e cliccare sul pulsante "**Aggiungi Riga**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_121.bmp](./assets/media/image86.png){width="5.33125in"
-height="3.2736111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_121.bmp](./assets/media/image86.png)
 
 6.  Aggiungere i nuovi parametri completando i campi "Nome parametro" e
     "Valore" come nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_122.bmp](./assets/media/image87.png){width="5.057638888888889in"
-height="3.5347222222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_122.bmp](./assets/media/image87.png)
 
 > **[PARAMETRI OBBLIGATORI]{.underline}**
 
 - **Nome parametro**: items
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.items**" precedentemente creata
 
 > **[PARAMETRI OPZIONALI]{.underline}**
@@ -2721,46 +2613,40 @@ height="3.5347222222222223in"}
 - **Nome parametro**: event_action
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.event_action**" precedentemente
   creata
 
 - **Nome parametro**: event_category
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.event_category**" precedentemente
   creata
 
 - **Nome parametro**: event_label
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.event_label**" precedentemente
   creata
 
 - **Nome parametro**: currency
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.currency**" precedentemente creata
 
 - **Nome parametro**: value
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.value**" precedentemente creata
 
 - **Nome parametro**: dateTime
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.dateTime**" precedentemente creata
 
 > Ovviamente nel momento in cui il valore assegnato nel Data Layer di
@@ -2790,32 +2676,27 @@ height="3.5347222222222223in"}
 > Cliccare quindi sul pulsante "**Scegli un attivatore per attivare
 > questo tag**" presente all'interno del box "**Attivazione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_124.bmp](./assets/media/image88.png){width="5.33125in"
-height="3.2736111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_124.bmp](./assets/media/image88.png)
 
 > e, successivamente, cliccare sul pulsante di creazione di un nuovo
 > attivatore (il piccolo + posto nella parte alta della maschera)
 
-![Videate\\gtm_ecommerce_avanzato_19.bmp](./assets/media/image60.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_19.bmp](./assets/media/image60.png)
 
 8.  Nella maschera di creazione del nuovo Attivatore cliccare su
     "**Scegli un tipo di trigger per iniziare l'installazione**"
     presente all'interno del box "**Configurazione attivatore**"
 
-![Videate\\gtm_ecommerce_avanzato_20.bmp](./assets/media/image61.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_20.bmp](./assets/media/image61.png)
 
 > e selezionare, tra le opzioni proposte, "**Evento Personalizzato**"
 
-![Videate\\gtm_ecommerce_avanzato_21.bmp](./assets/media/image62.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_21.bmp](./assets/media/image62.png)
 
 9.  Nella successiva maschera impostare i parametri di configurazione
     dell'attivatore come nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_123.bmp](./assets/media/image89.png){width="5.33125in"
-height="3.2736111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_123.bmp](./assets/media/image89.png)
 
 - **Nome Evento**: impostare su "***add_to_wishlist***"
 
@@ -2993,28 +2874,24 @@ del carrello
     dashboard di gestione del Contenitore su cui si desidera operare e
     cliccare sul pulsante "**Aggiungi un uovo Tag**"
 
-![Videate\\gtm_15b.bmp](./assets/media/image36.png){width="5.586111111111111in"
-height="3.4458333333333333in"}
+![Videate\\gtm_15b.bmp](./assets/media/image36.png)
 
 2.  Cliccare sul pulsante "**Scegli un tipo di tag per iniziare
     l'installazione**" presente all'interno del box "**Configurazione
     Tag**"
 
-![Videate\\gtm_ecommerce_avanzato_10.bmp](./assets/media/image37.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_10.bmp](./assets/media/image37.png)
 
 3.  Selezionare tra quelli proposti il tag "**Google Analytics: evento
     GA4**"
 
-![Videate\\gtm_93.bmp](./assets/media/image54.png){width="5.33125in"
-height="3.2736111111111112in"}
+![Videate\\gtm_93.bmp](./assets/media/image54.png)
 
 4.  Nella successiva maschera di configurazione del tag impostare i due
     parametri "Tag di configurazione" e "Nome evento" come nella figura
     di seguito riportata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_125.bmp](./assets/media/image90.png){width="5.33125in"
-height="3.2736111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_125.bmp](./assets/media/image90.png)
 
 - **Tag di configurazione**: selezionare dal relativo menu a tendina il
   "Tag di configurazione GA4" precedentemente creato (per maggiori
@@ -3027,22 +2904,19 @@ height="3.2736111111111112in"}
     Analytics per l'evento in esame. Aprire quindi la sezione
     "**Parametri evento**" e cliccare sul pulsante "**Aggiungi Riga**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_126.bmp](./assets/media/image91.png){width="5.33125in"
-height="3.2736111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_126.bmp](./assets/media/image91.png)
 
 6.  Aggiungere i nuovi parametri completando i campi "Nome parametro" e
     "Valore" come nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_127.bmp](./assets/media/image92.png){width="5.057638888888889in"
-height="3.5347222222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_127.bmp](./assets/media/image92.png)
 
 > **[PARAMETRI OBBLIGATORI]{.underline}**
 
 - **Nome parametro**: items
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.items**" precedentemente creata
 
 > **[PARAMETRI OPZIONALI]{.underline}**
@@ -3054,121 +2928,105 @@ height="3.5347222222222223in"}
 - **Nome parametro**: event_action
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.event_action**" precedentemente
   creata
 
 - **Nome parametro**: event_category
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.event_category**" precedentemente
   creata
 
 - **Nome parametro**: event_label
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.event_label**" precedentemente
   creata
 
 - **Nome parametro**: currency
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.currency**" precedentemente creata
 
 - **Nome parametro**: spese
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.spese**" precedentemente creata
 
 - **Nome parametro**: tax
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.tax**" precedentemente creata
 
 - **Nome parametro**: totale_documento
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.totale_documento**" precedentemente
   creata
 
 - **Nome parametro**: totale_merce
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.totale_merce**" precedentemente
   creata
 
 - **Nome parametro**: shipping
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.shipping**" precedentemente creata
 
 - **Nome parametro**: payment
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.payment**" precedentemente creata
 
 - **Nome parametro**: coupon
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.coupon**" precedentemente creata
 
 - **Nome parametro**: coupon_value
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.coupon_value**" precedentemente
   creata
 
 - **Nome parametro**: promozione_name
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.promozione_name**" precedentemente
   creata
 
 - **Nome parametro**: promozione_value
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.promozione_value**" precedentemente
   creata
 
 - **Nome parametro**: value
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.value**" precedentemente creata
 
 - **Nome parametro**: dateTime
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.dateTime**" precedentemente creata
 
 > Ovviamente nel momento in cui il valore assegnato nel Data Layer di
@@ -3198,32 +3056,27 @@ height="3.5347222222222223in"}
 > Cliccare quindi sul pulsante "**Scegli un attivatore per attivare
 > questo tag**" presente all'interno del box "**Attivazione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_128.bmp](./assets/media/image93.png){width="5.33125in"
-height="3.2736111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_128.bmp](./assets/media/image93.png)
 
 > e, successivamente, cliccare sul pulsante di creazione di un nuovo
 > attivatore (il piccolo + posto nella parte alta della maschera)
 
-![Videate\\gtm_ecommerce_avanzato_19.bmp](./assets/media/image60.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_19.bmp](./assets/media/image60.png)
 
 8.  Nella maschera di creazione del nuovo Attivatore cliccare su
     "**Scegli un tipo di trigger per iniziare l'installazione**"
     presente all'interno del box "**Configurazione attivatore**"
 
-![Videate\\gtm_ecommerce_avanzato_20.bmp](./assets/media/image61.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_20.bmp](./assets/media/image61.png)
 
 > e selezionare, tra le opzioni proposte, "**Evento Personalizzato**"
 
-![Videate\\gtm_ecommerce_avanzato_21.bmp](./assets/media/image62.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_21.bmp](./assets/media/image62.png)
 
 9.  Nella successiva maschera impostare i parametri di configurazione
     dell'attivatore come nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_129.bmp](./assets/media/image94.png){width="5.33125in"
-height="3.2736111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_129.bmp](./assets/media/image94.png)
 
 - **Nome Evento**: impostare su "***view_cart***"
 
@@ -3401,28 +3254,24 @@ procedura di checkout
     dashboard di gestione del Contenitore su cui si desidera operare e
     cliccare sul pulsante "**Aggiungi un uovo Tag**"
 
-![Videate\\gtm_15b.bmp](./assets/media/image36.png){width="5.586111111111111in"
-height="3.4458333333333333in"}
+![Videate\\gtm_15b.bmp](./assets/media/image36.png)
 
 2.  Cliccare sul pulsante "**Scegli un tipo di tag per iniziare
     l'installazione**" presente all'interno del box "**Configurazione
     Tag**"
 
-![Videate\\gtm_ecommerce_avanzato_10.bmp](./assets/media/image37.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_10.bmp](./assets/media/image37.png)
 
 3.  Selezionare tra quelli proposti il tag "**Google Analytics: evento
     GA4**"
 
-![Videate\\gtm_93.bmp](./assets/media/image54.png){width="5.33125in"
-height="3.2736111111111112in"}
+![Videate\\gtm_93.bmp](./assets/media/image54.png)
 
 4.  Nella successiva maschera di configurazione del tag impostare i due
     parametri "Tag di configurazione" e "Nome evento" come nella figura
     di seguito riportata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_130.bmp](./assets/media/image95.png){width="5.33125in"
-height="3.2736111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_130.bmp](./assets/media/image95.png)
 
 - **Tag di configurazione**: selezionare dal relativo menu a tendina il
   "Tag di configurazione GA4" precedentemente creato (per maggiori
@@ -3435,22 +3284,19 @@ height="3.2736111111111112in"}
     Analytics per l'evento in esame. Aprire quindi la sezione
     "**Parametri evento**" e cliccare sul pulsante "**Aggiungi Riga**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_131.bmp](./assets/media/image96.png){width="5.33125in"
-height="3.2736111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_131.bmp](./assets/media/image96.png)
 
 6.  Aggiungere i nuovi parametri completando i campi "Nome parametro" e
     "Valore" come nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_132.bmp](./assets/media/image97.png){width="5.057638888888889in"
-height="3.5347222222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_132.bmp](./assets/media/image97.png)
 
 > **[PARAMETRI OBBLIGATORI]{.underline}**
 
 - **Nome parametro**: items
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.items**" precedentemente creata
 
 > **[PARAMETRI OPZIONALI]{.underline}**
@@ -3462,121 +3308,105 @@ height="3.5347222222222223in"}
 - **Nome parametro**: event_action
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.event_action**" precedentemente
   creata
 
 - **Nome parametro**: event_category
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.event_category**" precedentemente
   creata
 
 - **Nome parametro**: event_label
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.event_label**" precedentemente
   creata
 
 - **Nome parametro**: currency
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.currency**" precedentemente creata
 
 - **Nome parametro**: spese
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.spese**" precedentemente creata
 
 - **Nome parametro**: tax
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.tax**" precedentemente creata
 
 - **Nome parametro**: totale_documento
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.totale_documento**" precedentemente
   creata
 
 - **Nome parametro**: totale_merce
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.totale_merce**" precedentemente
   creata
 
 - **Nome parametro**: shipping
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.shipping**" precedentemente creata
 
 - **Nome parametro**: payment
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.payment**" precedentemente creata
 
 - **Nome parametro**: coupon
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.coupon**" precedentemente creata
 
 - **Nome parametro**: coupon_value
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.coupon_value**" precedentemente
   creata
 
 - **Nome parametro**: promozione_name
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.promozione_name**" precedentemente
   creata
 
 - **Nome parametro**: promozione_value
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.promozione_value**" precedentemente
   creata
 
 - **Nome parametro**: value
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.value**" precedentemente creata
 
 - **Nome parametro**: dateTime
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.dateTime**" precedentemente creata
 
 > Ovviamente nel momento in cui il valore assegnato nel Data Layer di
@@ -3606,32 +3436,27 @@ height="3.5347222222222223in"}
 > Cliccare quindi sul pulsante "**Scegli un attivatore per attivare
 > questo tag**" presente all'interno del box "**Attivazione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_133.bmp](./assets/media/image98.png){width="5.33125in"
-height="3.2736111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_133.bmp](./assets/media/image98.png)
 
 > e, successivamente, cliccare sul pulsante di creazione di un nuovo
 > attivatore (il piccolo + posto nella parte alta della maschera)
 
-![Videate\\gtm_ecommerce_avanzato_19.bmp](./assets/media/image60.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_19.bmp](./assets/media/image60.png)
 
 8.  Nella maschera di creazione del nuovo Attivatore cliccare su
     "**Scegli un tipo di trigger per iniziare l'installazione**"
     presente all'interno del box "**Configurazione attivatore**"
 
-![Videate\\gtm_ecommerce_avanzato_20.bmp](./assets/media/image61.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_20.bmp](./assets/media/image61.png)
 
 > e selezionare, tra le opzioni proposte, "**Evento Personalizzato**"
 
-![Videate\\gtm_ecommerce_avanzato_21.bmp](./assets/media/image62.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_21.bmp](./assets/media/image62.png)
 
 9.  Nella successiva maschera impostare i parametri di configurazione
     dell'attivatore come nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_134.bmp](./assets/media/image99.png){width="5.33125in"
-height="3.2736111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_134.bmp](./assets/media/image99.png)
 
 - **Nome Evento**: impostare su "***begin_checkout***"
 
@@ -3814,28 +3639,24 @@ selezione del metodo di spedizione
     dashboard di gestione del Contenitore su cui si desidera operare e
     cliccare sul pulsante "**Aggiungi un uovo Tag**"
 
-![Videate\\gtm_15b.bmp](./assets/media/image36.png){width="5.586111111111111in"
-height="3.4458333333333333in"}
+![Videate\\gtm_15b.bmp](./assets/media/image36.png)
 
 2.  Cliccare sul pulsante "**Scegli un tipo di tag per iniziare
     l'installazione**" presente all'interno del box "**Configurazione
     Tag**"
 
-![Videate\\gtm_ecommerce_avanzato_10.bmp](./assets/media/image37.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_10.bmp](./assets/media/image37.png)
 
 3.  Selezionare tra quelli proposti il tag "**Google Analytics: evento
     GA4**"
 
-![Videate\\gtm_93.bmp](./assets/media/image54.png){width="5.33125in"
-height="3.2736111111111112in"}
+![Videate\\gtm_93.bmp](./assets/media/image54.png)
 
 4.  Nella successiva maschera di configurazione del tag impostare i due
     parametri "Tag di configurazione" e "Nome evento" come nella figura
     di seguito riportata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_135.bmp](./assets/media/image100.png){width="5.33125in"
-height="3.2736111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_135.bmp](./assets/media/image100.png)
 
 - **Tag di configurazione**: selezionare dal relativo menu a tendina il
   "Tag di configurazione GA4" precedentemente creato (per maggiori
@@ -3848,38 +3669,33 @@ height="3.2736111111111112in"}
     Analytics per l'evento in esame. Aprire quindi la sezione
     "**Parametri evento**" e cliccare sul pulsante "**Aggiungi Riga**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_136.bmp](./assets/media/image101.png){width="5.33125in"
-height="3.2736111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_136.bmp](./assets/media/image101.png)
 
 6.  Aggiungere i nuovi parametri completando, per ciascuno di essi i
     campi "Nome parametro" e "Valore" come nella figura di seguito
     riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_137.bmp](./assets/media/image102.png){width="5.057638888888889in"
-height="3.5347222222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_137.bmp](./assets/media/image102.png)
 
 > **[PARAMETRI OBBLIGATORI]{.underline}**
 
 - **Nome parametro**: items
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.items**" precedentemente creata
 
 - **Nome parametro**: shipping_tier
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.shipping_tier**" precedentemente
   creata
 
 - **Nome parametro**: shipping
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.shipping**" precedentemente creata
 
 > **[PARAMETRI OPZIONALI]{.underline}**
@@ -3891,114 +3707,99 @@ height="3.5347222222222223in"}
 - **Nome parametro**: event_action
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.event_action**" precedentemente
   creata
 
 - **Nome parametro**: event_category
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.event_category**" precedentemente
   creata
 
 - **Nome parametro**: event_label
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.event_label**" precedentemente
   creata
 
 - **Nome parametro**: currency
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.currency**" precedentemente creata
 
 - **Nome parametro**: spese
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.spese**" precedentemente creata
 
 - **Nome parametro**: tax
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.tax**" precedentemente creata
 
 - **Nome parametro**: totale_documento
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.totale_documento**" precedentemente
   creata
 
 - **Nome parametro**: totale_merce
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.totale_merce**" precedentemente
   creata
 
 - **Nome parametro**: payment
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.payment**" precedentemente creata
 
 - **Nome parametro**: coupon
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.coupon**" precedentemente creata
 
 - **Nome parametro**: coupon_value
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.coupon_value**" precedentemente
   creata
 
 - **Nome parametro**: promozione_name
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.promozione_name**" precedentemente
   creata
 
 - **Nome parametro**: promozione_value
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.promozione_value**" precedentemente
   creata
 
 - **Nome parametro**: value
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.value**" precedentemente creata
 
 - **Nome parametro**: dateTime
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.dateTime**" precedentemente creata
 
 > Ovviamente nel momento in cui il valore assegnato nel Data Layer di
@@ -4028,32 +3829,27 @@ height="3.5347222222222223in"}
 > Cliccare quindi sul pulsante "**Scegli un attivatore per attivare
 > questo tag**" presente all'interno del box "**Attivazione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_138.bmp](./assets/media/image103.png){width="5.33125in"
-height="3.2736111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_138.bmp](./assets/media/image103.png)
 
 > e, successivamente, cliccare sul pulsante di creazione di un nuovo
 > attivatore (il piccolo + posto nella parte alta della maschera)
 
-![Videate\\gtm_ecommerce_avanzato_19.bmp](./assets/media/image60.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_19.bmp](./assets/media/image60.png)
 
 8.  Nella maschera di creazione del nuovo Attivatore cliccare su
     "**Scegli un tipo di trigger per iniziare l'installazione**"
     presente all'interno del box "**Configurazione attivatore**"
 
-![Videate\\gtm_ecommerce_avanzato_20.bmp](./assets/media/image61.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_20.bmp](./assets/media/image61.png)
 
 > e selezionare, tra le opzioni proposte, "**Evento Personalizzato**"
 
-![Videate\\gtm_ecommerce_avanzato_21.bmp](./assets/media/image62.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_21.bmp](./assets/media/image62.png)
 
 9.  Nella successiva maschera impostare i parametri di configurazione
     dell'attivatore come nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_139.bmp](./assets/media/image104.png){width="5.33125in"
-height="3.2736111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_139.bmp](./assets/media/image104.png)
 
 - **Nome Evento**: impostare su "***add_shipping_info***"
 
@@ -4236,28 +4032,24 @@ selezione della modalità di pagamento
     dashboard di gestione del Contenitore su cui si desidera operare e
     cliccare sul pulsante "**Aggiungi un uovo Tag**"
 
-![Videate\\gtm_15b.bmp](./assets/media/image36.png){width="5.586111111111111in"
-height="3.4458333333333333in"}
+![Videate\\gtm_15b.bmp](./assets/media/image36.png)
 
 2.  Cliccare sul pulsante "**Scegli un tipo di tag per iniziare
     l'installazione**" presente all'interno del box "**Configurazione
     Tag**"
 
-![Videate\\gtm_ecommerce_avanzato_10.bmp](./assets/media/image37.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_10.bmp](./assets/media/image37.png)
 
 3.  Selezionare tra quelli proposti il tag "**Google Analytics: evento
     GA4**"
 
-![Videate\\gtm_93.bmp](./assets/media/image54.png){width="5.33125in"
-height="3.2736111111111112in"}
+![Videate\\gtm_93.bmp](./assets/media/image54.png)
 
 4.  Nella successiva maschera di configurazione del tag impostare i due
     parametri "Tag di configurazione" e "Nome evento" come nella figura
     di seguito riportata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_140.bmp](./assets/media/image105.png){width="5.33125in"
-height="3.2736111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_140.bmp](./assets/media/image105.png)
 
 - **Tag di configurazione**: selezionare dal relativo menu a tendina il
   "Tag di configurazione GA4" precedentemente creato (per maggiori
@@ -4270,38 +4062,33 @@ height="3.2736111111111112in"}
     Analytics per l'evento in esame. Aprire quindi la sezione
     "**Parametri evento**" e cliccare sul pulsante "**Aggiungi Riga**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_141.bmp](./assets/media/image106.png){width="5.33125in"
-height="3.2736111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_141.bmp](./assets/media/image106.png)
 
 6.  Aggiungere i nuovi parametri completando, per ciascuno di essi i
     campi "Nome parametro" e "Valore" come nella figura di seguito
     riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_142.bmp](./assets/media/image107.png){width="5.057638888888889in"
-height="3.5347222222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_142.bmp](./assets/media/image107.png)
 
 > **[PARAMETRI OBBLIGATORI]{.underline}**
 
 - **Nome parametro**: items
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.items**" precedentemente creata
 
 - **Nome parametro**: payment_type
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.payment_type**" precedentemente
   creata
 
 - **Nome parametro**: payment
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.payment**" precedentemente creata
 
 > **[PARAMETRI OPZIONALI]{.underline}**
@@ -4313,114 +4100,99 @@ height="3.5347222222222223in"}
 - **Nome parametro**: event_action
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.event_action**" precedentemente
   creata
 
 - **Nome parametro**: event_category
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.event_category**" precedentemente
   creata
 
 - **Nome parametro**: event_label
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.event_label**" precedentemente
   creata
 
 - **Nome parametro**: currency
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.currency**" precedentemente creata
 
 - **Nome parametro**: spese
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.spese**" precedentemente creata
 
 - **Nome parametro**: tax
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.tax**" precedentemente creata
 
 - **Nome parametro**: totale_documento
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.totale_documento**" precedentemente
   creata
 
 - **Nome parametro**: totale_merce
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.totale_merce**" precedentemente
   creata
 
 - **Nome parametro**: shipping
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.shipping**" precedentemente creata
 
 - **Nome parametro**: coupon
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.coupon**" precedentemente creata
 
 - **Nome parametro**: coupon_value
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.coupon_value**" precedentemente
   creata
 
 - **Nome parametro**: promozione_name
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.promozione_name**" precedentemente
   creata
 
 - **Nome parametro**: promozione_value
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.promozione_value**" precedentemente
   creata
 
 - **Nome parametro**: value
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.value**" precedentemente creata
 
 - **Nome parametro**: dateTime
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.dateTime**" precedentemente creata
 
 > Ovviamente nel momento in cui il valore assegnato nel Data Layer di
@@ -4450,32 +4222,27 @@ height="3.5347222222222223in"}
 > Cliccare quindi sul pulsante "**Scegli un attivatore per attivare
 > questo tag**" presente all'interno del box "**Attivazione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_143.bmp](./assets/media/image108.png){width="5.33125in"
-height="3.2736111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_143.bmp](./assets/media/image108.png)
 
 > e, successivamente, cliccare sul pulsante di creazione di un nuovo
 > attivatore (il piccolo + posto nella parte alta della maschera)
 
-![Videate\\gtm_ecommerce_avanzato_19.bmp](./assets/media/image60.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_19.bmp](./assets/media/image60.png)
 
 8.  Nella maschera di creazione del nuovo Attivatore cliccare su
     "**Scegli un tipo di trigger per iniziare l'installazione**"
     presente all'interno del box "**Configurazione attivatore**"
 
-![Videate\\gtm_ecommerce_avanzato_20.bmp](./assets/media/image61.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_20.bmp](./assets/media/image61.png)
 
 > e selezionare, tra le opzioni proposte, "**Evento Personalizzato**"
 
-![Videate\\gtm_ecommerce_avanzato_21.bmp](./assets/media/image62.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_21.bmp](./assets/media/image62.png)
 
 9.  Nella successiva maschera impostare i parametri di configurazione
     dell'attivatore come nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_144.bmp](./assets/media/image109.png){width="5.33125in"
-height="3.2736111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_144.bmp](./assets/media/image109.png)
 
 - **Nome Evento**: impostare su "***add_payment_info***"
 
@@ -4688,28 +4455,24 @@ checkout concludendo un ordine in maniera positiva
     dashboard di gestione del Contenitore su cui si desidera operare e
     cliccare sul pulsante "**Aggiungi un uovo Tag**"
 
-![Videate\\gtm_15b.bmp](./assets/media/image36.png){width="5.586111111111111in"
-height="3.4458333333333333in"}
+![Videate\\gtm_15b.bmp](./assets/media/image36.png)
 
 2.  Cliccare sul pulsante "**Scegli un tipo di tag per iniziare
     l'installazione**" presente all'interno del box "**Configurazione
     Tag**"
 
-![Videate\\gtm_ecommerce_avanzato_10.bmp](./assets/media/image37.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_10.bmp](./assets/media/image37.png)
 
 3.  Selezionare tra quelli proposti il tag "**Google Analytics: evento
     GA4**"
 
-![Videate\\gtm_93.bmp](./assets/media/image54.png){width="5.33125in"
-height="3.2736111111111112in"}
+![Videate\\gtm_93.bmp](./assets/media/image54.png)
 
 4.  Nella successiva maschera di configurazione del tag impostare i due
     parametri "Tag di configurazione" e "Nome evento" come nella figura
     di seguito riportata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_145.bmp](./assets/media/image110.png){width="5.33125in"
-height="3.2736111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_145.bmp](./assets/media/image110.png)
 
 - **Tag di configurazione**: selezionare dal relativo menu a tendina il
   "Tag di configurazione GA4" precedentemente creato (per maggiori
@@ -4722,135 +4485,117 @@ height="3.2736111111111112in"}
     Analytics per l'evento in esame. Aprire quindi la sezione
     "**Parametri evento**" e cliccare sul pulsante "**Aggiungi Riga**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_146.bmp](./assets/media/image111.png){width="5.33125in"
-height="3.2736111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_146.bmp](./assets/media/image111.png)
 
 6.  Aggiungere i parametri correlati all'evento completando, per
     ciascuno di essi i campi "Nome parametro" e "Valore" come nella
     figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_147.bmp](./assets/media/image112.png){width="5.057638888888889in"
-height="3.5347222222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_147.bmp](./assets/media/image112.png)
 
 > **[PARAMETRI OBBLIGATORI]{.underline}**
 
 - **Nome parametro**: items
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.items**" precedentemente creata
 
 - **Nome parametro**: transaction_id
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.transaction_id**" precedentemente
   creata
 
 - **Nome parametro**: tax
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.tax**" precedentemente creata
 
 - **Nome parametro**: spese
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.spese**" precedentemente creata
 
 - **Nome parametro**: shipping
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.shipping**" precedentemente creata
 
 - **Nome parametro**: shipping_tier
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.shipping_tier**" precedentemente
   creata
 
 - **Nome parametro**: payment
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.payment**" precedentemente creata
 
 - **Nome parametro**: payment_type
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.payment_type**" precedentemente
   creata
 
 - **Nome parametro**: totale_documento
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.totale_documento**" precedentemente
   creata
 
 - **Nome parametro**: totale_merce
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.totale_merce**" precedentemente
   creata
 
 - **Nome parametro**: value
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.value** precedentemente creata
 
 - **Nome parametro**: currency
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.currency**" precedentemente creata
 
 - **Nome parametro**: coupon
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.coupon**" precedentemente creata
 
 - **Nome parametro**: coupon_value
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.coupon_value**" precedentemente
   creata
 
 - **Nome parametro**: promozione_name
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.promozione_name**" precedentemente
   creata
 
 - **Nome parametro**: promozione_value
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.promozione_value**" precedentemente
   creata
 
@@ -4863,54 +4608,47 @@ height="3.5347222222222223in"}
 - **Nome parametro**: event_action
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.event_action**" precedentemente
   creata
 
 - **Nome parametro**: event_category
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.event_category**" precedentemente
   creata
 
 - **Nome parametro**: event_label
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.event_label**" precedentemente
   creata
 
 - **Nome parametro**: affiliation
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.affiliation**" precedentemente
   creata
 
 - **Nome parametro**: gift_card
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.gift_card**" precedentemente creata
 
 - **Nome parametro**: punti_premio
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.punti_premio**precedentemente creata
 
 - **Nome parametro**: dateTime
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV ecommerce.dateTime**" precedentemente creata
 
 > Ovviamente nel momento in cui il valore assegnato nel Data Layer di
@@ -4931,32 +4669,27 @@ height="3.5347222222222223in"}
 > Cliccare quindi sul pulsante "**Scegli un attivatore per attivare
 > questo tag**" presente all'interno del box "**Attivazione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_148.bmp](./assets/media/image113.png){width="5.057638888888889in"
-height="3.3631944444444444in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_148.bmp](./assets/media/image113.png)
 
 > e, successivamente, cliccare sul pulsante di creazione di un nuovo
 > attivatore (il piccolo + posto nella parte alta della maschera)
 
-![Videate\\gtm_ecommerce_avanzato_19.bmp](./assets/media/image60.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_19.bmp](./assets/media/image60.png)
 
 8.  Nella maschera di creazione del nuovo Attivatore cliccare su
     "**Scegli un tipo di trigger per iniziare l'installazione**"
     presente all'interno del box "**Configurazione attivatore**"
 
-![Videate\\gtm_ecommerce_avanzato_20.bmp](./assets/media/image61.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_20.bmp](./assets/media/image61.png)
 
 > e selezionare, tra le opzioni proposte, "**Evento Personalizzato**"
 
-![Videate\\gtm_ecommerce_avanzato_21.bmp](./assets/media/image62.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_21.bmp](./assets/media/image62.png)
 
 9.  Nella successiva maschera impostare i parametri di configurazione
     dell'attivatore come nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_149.bmp](./assets/media/image114.png){width="5.33125in"
-height="3.2736111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_149.bmp](./assets/media/image114.png)
 
 - **Nome Evento**: impostare su "***purchase***"
 
@@ -5025,8 +4758,7 @@ seguito indicato:
 > valori sopra indicati in base alla tipologia del componente utilizzato
 > per effettuare la ricerca sul sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_173.bmp](./assets/media/image115.png){width="4.598611111111111in"
-height="3.0444444444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_173.bmp](./assets/media/image115.png)
 
 - **search_Nome_Tracciamento:** valore utilizzato per la ricerca
 
@@ -5037,8 +4769,7 @@ height="3.0444444444444443in"}
 > corrispondenza del campo "Nome Tracciamento" (il tutto riportato in
 > minuscolo)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_173_a.bmp](./assets/media/image116.png){width="4.624305555555556in"
-height="3.0444444444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_173_a.bmp](./assets/media/image116.png)
 
 > **ATTENZIONE!** Eventuali spazi presenti all'interno del campo
 > evidenziato in figura verranno sostituiti dal carattere \_
@@ -5102,28 +4833,24 @@ interne al sito
     dashboard di gestione del Contenitore su cui si desidera operare e
     cliccare sul pulsante "**Aggiungi un uovo Tag**"
 
-![Videate\\gtm_15b.bmp](./assets/media/image36.png){width="5.586111111111111in"
-height="3.4458333333333333in"}
+![Videate\\gtm_15b.bmp](./assets/media/image36.png)
 
 2.  Cliccare sul pulsante "**Scegli un tipo di tag per iniziare
     l'installazione**" presente all'interno del box "**Configurazione
     Tag**"
 
-![Videate\\gtm_ecommerce_avanzato_10.bmp](./assets/media/image37.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_10.bmp](./assets/media/image37.png)
 
 3.  Selezionare tra quelli proposti il tag "**Google Analytics: evento
     GA4**"
 
-![Videate\\gtm_93.bmp](./assets/media/image54.png){width="5.33125in"
-height="3.2736111111111112in"}
+![Videate\\gtm_93.bmp](./assets/media/image54.png)
 
 4.  Nella successiva maschera di configurazione del tag impostare i due
     parametri "Tag di configurazione" e "Nome evento" come nella figura
     di seguito riportata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_169.bmp](./assets/media/image117.png){width="5.235416666666667in"
-height="3.3631944444444444in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_169.bmp](./assets/media/image117.png)
 
 - **Tag di configurazione**: selezionare dal relativo menu a tendina il
   "Tag di configurazione GA4" precedentemente creato (per maggiori
@@ -5136,15 +4863,13 @@ height="3.3631944444444444in"}
     Analytics per l'evento in esame. Aprire quindi la sezione
     "**Parametri evento**" e cliccare sul pulsante "**Aggiungi Riga**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_170.bmp](./assets/media/image118.png){width="5.235416666666667in"
-height="3.3631944444444444in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_170.bmp](./assets/media/image118.png)
 
 6.  Aggiungere i parametri correlati all'evento completando, per
     ciascuno di essi i campi "Nome parametro" e "Valore" come nella
     figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_176.bmp](./assets/media/image119.png){width="5.235416666666667in"
-height="3.3631944444444444in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_176.bmp](./assets/media/image119.png)
 
 > **ATTENZIONE!** i parametri di tipo search_nomeComponente dipendono
 > ovviamente (sia dal punto di vista del nome che del numero) da quelli
@@ -5160,8 +4885,7 @@ height="3.3631944444444444in"}
 - **Nome parametro**: search_category
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV Search_Category**" precedentemente creata
 
 - **Nome parametro**: search_nomeComponente -- dove ovviamente
@@ -5169,8 +4893,7 @@ height="3.3631944444444444in"}
   ricerca presente nel pannello che si intende tracciare
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   corrispondente variabile "**GA4 -- DLV nomeComponente**"
   precedentemente creata (la variabile in questione deve, ovviamente,
   essere quella corrispondente al campo di ricerca cui fa riferimento il
@@ -5179,8 +4902,7 @@ height="3.3631944444444444in"}
 - **Nome parametro**: dateTime
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV DateTime**" precedentemente creata
 
 > Ovviamente nel momento in cui il valore assegnato nel Data Layer di
@@ -5201,32 +4923,27 @@ height="3.3631944444444444in"}
 > Cliccare quindi sul pulsante "**Scegli un attivatore per attivare
 > questo tag**" presente all'interno del box "**Attivazione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_177.bmp](./assets/media/image120.png){width="5.057638888888889in"
-height="3.3631944444444444in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_177.bmp](./assets/media/image120.png)
 
 > e, successivamente, cliccare sul pulsante di creazione di un nuovo
 > attivatore (il piccolo + posto nella parte alta della maschera)
 
-![Videate\\gtm_ecommerce_avanzato_19.bmp](./assets/media/image60.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_19.bmp](./assets/media/image60.png)
 
 8.  Nella maschera di creazione del nuovo Attivatore cliccare su
     "**Scegli un tipo di trigger per iniziare l'installazione**"
     presente all'interno del box "**Configurazione attivatore**"
 
-![Videate\\gtm_ecommerce_avanzato_20.bmp](./assets/media/image61.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_20.bmp](./assets/media/image61.png)
 
 > e selezionare, tra le opzioni proposte, "**Evento Personalizzato**"
 
-![Videate\\gtm_ecommerce_avanzato_21.bmp](./assets/media/image62.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_21.bmp](./assets/media/image62.png)
 
 9.  Nella successiva maschera impostare i parametri di configurazione
     dell'attivatore come nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_178.bmp](./assets/media/image121.png){width="5.057638888888889in"
-height="3.3631944444444444in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_178.bmp](./assets/media/image121.png)
 
 - **Nome Evento**: impostare su "***search***"
 
@@ -5298,28 +5015,24 @@ autenticazione al sito
     dashboard di gestione del Contenitore su cui si desidera operare e
     cliccare sul pulsante "**Aggiungi un uovo Tag**"
 
-![Videate\\gtm_15b.bmp](./assets/media/image36.png){width="5.586111111111111in"
-height="3.4458333333333333in"}
+![Videate\\gtm_15b.bmp](./assets/media/image36.png)
 
 2.  Cliccare sul pulsante "**Scegli un tipo di tag per iniziare
     l'installazione**" presente all'interno del box "**Configurazione
     Tag**"
 
-![Videate\\gtm_ecommerce_avanzato_10.bmp](./assets/media/image37.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_10.bmp](./assets/media/image37.png)
 
 3.  Selezionare tra quelli proposti il tag "**Google Analytics: evento
     GA4**"
 
-![Videate\\gtm_93.bmp](./assets/media/image54.png){width="5.33125in"
-height="3.2736111111111112in"}
+![Videate\\gtm_93.bmp](./assets/media/image54.png)
 
 4.  Nella successiva maschera di configurazione del tag impostare i due
     parametri "Tag di configurazione" e "Nome evento" come nella figura
     di seguito riportata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_164.bmp](./assets/media/image122.png){width="5.057638888888889in"
-height="3.3631944444444444in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_164.bmp](./assets/media/image122.png)
 
 - **Tag di configurazione**: selezionare dal relativo menu a tendina il
   "Tag di configurazione GA4" precedentemente creato (per maggiori
@@ -5332,15 +5045,13 @@ height="3.3631944444444444in"}
     Analytics per l'evento in esame. Aprire quindi la sezione
     "**Parametri evento**" e cliccare sul pulsante "**Aggiungi Riga**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_165.bmp](./assets/media/image123.png){width="5.057638888888889in"
-height="3.3631944444444444in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_165.bmp](./assets/media/image123.png)
 
 6.  Aggiungere i parametri correlati all'evento completando, per
     ciascuno di essi i campi "Nome parametro" e "Valore" come nella
     figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_166.bmp](./assets/media/image124.png){width="5.235416666666667in"
-height="3.3631944444444444in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_166.bmp](./assets/media/image124.png)
 
 > **[PARAMETRI OPZIONALI]{.underline}**
 >
@@ -5351,15 +5062,13 @@ height="3.3631944444444444in"}
 - **Nome parametro**: method
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV Login_SignUp_Method**" precedentemente creata
 
 - **Nome parametro**: dateTime
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV DateTime**" precedentemente creata
 
 > Ovviamente nel momento in cui il valore assegnato nel Data Layer di
@@ -5380,32 +5089,27 @@ height="3.3631944444444444in"}
 > Cliccare quindi sul pulsante "**Scegli un attivatore per attivare
 > questo tag**" presente all'interno del box "**Attivazione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_167.bmp](./assets/media/image125.png){width="5.057638888888889in"
-height="3.3631944444444444in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_167.bmp](./assets/media/image125.png)
 
 > e, successivamente, cliccare sul pulsante di creazione di un nuovo
 > attivatore (il piccolo + posto nella parte alta della maschera)
 
-![Videate\\gtm_ecommerce_avanzato_19.bmp](./assets/media/image60.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_19.bmp](./assets/media/image60.png)
 
 8.  Nella maschera di creazione del nuovo Attivatore cliccare su
     "**Scegli un tipo di trigger per iniziare l'installazione**"
     presente all'interno del box "**Configurazione attivatore**"
 
-![Videate\\gtm_ecommerce_avanzato_20.bmp](./assets/media/image61.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_20.bmp](./assets/media/image61.png)
 
 > e selezionare, tra le opzioni proposte, "**Evento Personalizzato**"
 
-![Videate\\gtm_ecommerce_avanzato_21.bmp](./assets/media/image62.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_21.bmp](./assets/media/image62.png)
 
 9.  Nella successiva maschera impostare i parametri di configurazione
     dell'attivatore come nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_168.bmp](./assets/media/image126.png){width="5.057638888888889in"
-height="3.3631944444444444in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_168.bmp](./assets/media/image126.png)
 
 - **Nome Evento**: impostare su "***login***"
 
@@ -5485,28 +5189,24 @@ registrazione al sito
     dashboard di gestione del Contenitore su cui si desidera operare e
     cliccare sul pulsante "**Aggiungi un uovo Tag**"
 
-![Videate\\gtm_15b.bmp](./assets/media/image36.png){width="5.586111111111111in"
-height="3.4458333333333333in"}
+![Videate\\gtm_15b.bmp](./assets/media/image36.png)
 
 2.  Cliccare sul pulsante "**Scegli un tipo di tag per iniziare
     l'installazione**" presente all'interno del box "**Configurazione
     Tag**"
 
-![Videate\\gtm_ecommerce_avanzato_10.bmp](./assets/media/image37.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_10.bmp](./assets/media/image37.png)
 
 3.  Selezionare tra quelli proposti il tag "**Google Analytics: evento
     GA4**"
 
-![Videate\\gtm_93.bmp](./assets/media/image54.png){width="5.33125in"
-height="3.2736111111111112in"}
+![Videate\\gtm_93.bmp](./assets/media/image54.png)
 
 4.  Nella successiva maschera di configurazione del tag impostare i due
     parametri "Tag di configurazione" e "Nome evento" come nella figura
     di seguito riportata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_182.bmp](./assets/media/image127.png){width="5.235416666666667in"
-height="3.3631944444444444in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_182.bmp](./assets/media/image127.png)
 
 - **Tag di configurazione**: selezionare dal relativo menu a tendina il
   "Tag di configurazione GA4" precedentemente creato (per maggiori
@@ -5519,15 +5219,13 @@ height="3.3631944444444444in"}
     Analytics per l'evento in esame. Aprire quindi la sezione
     "**Parametri evento**" e cliccare sul pulsante "**Aggiungi Riga**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_183.bmp](./assets/media/image128.png){width="5.235416666666667in"
-height="3.3631944444444444in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_183.bmp](./assets/media/image128.png)
 
 6.  Aggiungere i parametri correlati all'evento completando, per
     ciascuno di essi i campi "Nome parametro" e "Valore" come nella
     figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_171.bmp](./assets/media/image129.png){width="5.280555555555556in"
-height="3.063888888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_171.bmp](./assets/media/image129.png)
 
 > **[PARAMETRI OPZIONALI]{.underline}**
 >
@@ -5538,23 +5236,20 @@ height="3.063888888888889in"}
 - **Nome parametro**: method
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV Login_SignUp_Method**" precedentemente creata
 
 - **Nome parametro**: newsletter_subscription
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV Newsletter_Subscription**" precedentemente
   creata
 
 - **Nome parametro**: dateTime
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV - DateTime**" precedentemente creata
 
 > Ovviamente nel momento in cui il valore assegnato nel Data Layer di
@@ -5575,32 +5270,27 @@ height="3.063888888888889in"}
 > Cliccare quindi sul pulsante "**Scegli un attivatore per attivare
 > questo tag**" presente all'interno del box "**Attivazione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_184.bmp](./assets/media/image130.png){width="5.235416666666667in"
-height="3.3631944444444444in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_184.bmp](./assets/media/image130.png)
 
 > e, successivamente, cliccare sul pulsante di creazione di un nuovo
 > attivatore (il piccolo + posto nella parte alta della maschera)
 
-![Videate\\gtm_ecommerce_avanzato_19.bmp](./assets/media/image60.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_19.bmp](./assets/media/image60.png)
 
 8.  Nella maschera di creazione del nuovo Attivatore cliccare su
     "**Scegli un tipo di trigger per iniziare l'installazione**"
     presente all'interno del box "**Configurazione attivatore**"
 
-![Videate\\gtm_ecommerce_avanzato_20.bmp](./assets/media/image61.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_20.bmp](./assets/media/image61.png)
 
 > e selezionare, tra le opzioni proposte, "**Evento Personalizzato**"
 
-![Videate\\gtm_ecommerce_avanzato_21.bmp](./assets/media/image62.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_21.bmp](./assets/media/image62.png)
 
 9.  Nella successiva maschera impostare i parametri di configurazione
     dell'attivatore come nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_186.bmp](./assets/media/image131.png){width="5.235416666666667in"
-height="3.5347222222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_186.bmp](./assets/media/image131.png)
 
 - **Nome Evento**: impostare su "***sign_up***"
 
@@ -5662,28 +5352,24 @@ di un form nativo
     dashboard di gestione del Contenitore su cui si desidera operare e
     cliccare sul pulsante "**Aggiungi un uovo Tag**"
 
-![Videate\\gtm_15b.bmp](./assets/media/image36.png){width="5.586111111111111in"
-height="3.4458333333333333in"}
+![Videate\\gtm_15b.bmp](./assets/media/image36.png)
 
 2.  Cliccare sul pulsante "**Scegli un tipo di tag per iniziare
     l'installazione**" presente all'interno del box "**Configurazione
     Tag**"
 
-![Videate\\gtm_ecommerce_avanzato_10.bmp](./assets/media/image37.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_10.bmp](./assets/media/image37.png)
 
 3.  Selezionare tra quelli proposti il tag "**Google Analytics: evento
     GA4**"
 
-![Videate\\gtm_93.bmp](./assets/media/image54.png){width="5.33125in"
-height="3.2736111111111112in"}
+![Videate\\gtm_93.bmp](./assets/media/image54.png)
 
 4.  Nella successiva maschera di configurazione del tag impostare i due
     parametri "Tag di configurazione" e "Nome evento" come nella figura
     di seguito riportata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_179.bmp](./assets/media/image132.png){width="5.235416666666667in"
-height="3.3631944444444444in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_179.bmp](./assets/media/image132.png)
 
 - **Tag di configurazione**: selezionare dal relativo menu a tendina il
   "Tag di configurazione GA4" precedentemente creato (per maggiori
@@ -5696,15 +5382,13 @@ height="3.3631944444444444in"}
     Analytics per l'evento in esame. Aprire quindi la sezione
     "**Parametri evento**" e cliccare sul pulsante "**Aggiungi Riga**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_180.bmp](./assets/media/image133.png){width="5.235416666666667in"
-height="3.3631944444444444in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_180.bmp](./assets/media/image133.png)
 
 6.  Aggiungere i parametri correlati all'evento completando, per
     ciascuno di essi i campi "Nome parametro" e "Valore" come nella
     figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_181.bmp](./assets/media/image134.png){width="5.235416666666667in"
-height="3.3631944444444444in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_181.bmp](./assets/media/image134.png)
 
 > **[PARAMETRI OPZIONALI]{.underline}**
 >
@@ -5715,15 +5399,13 @@ height="3.3631944444444444in"}
 - **Nome parametro**: form_name
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV Form_Name**" precedentemente creata
 
 - **Nome parametro**: dateTime
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV DateTime**" precedentemente creata
 
 > Ovviamente nel momento in cui il valore assegnato nel Data Layer di
@@ -5744,32 +5426,27 @@ height="3.3631944444444444in"}
 > Cliccare quindi sul pulsante "**Scegli un attivatore per attivare
 > questo tag**" presente all'interno del box "**Attivazione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_185.bmp](./assets/media/image135.png){width="5.235416666666667in"
-height="3.5347222222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_185.bmp](./assets/media/image135.png)
 
 > e, successivamente, cliccare sul pulsante di creazione di un nuovo
 > attivatore (il piccolo + posto nella parte alta della maschera)
 
-![Videate\\gtm_ecommerce_avanzato_19.bmp](./assets/media/image60.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_19.bmp](./assets/media/image60.png)
 
 8.  Nella maschera di creazione del nuovo Attivatore cliccare su
     "**Scegli un tipo di trigger per iniziare l'installazione**"
     presente all'interno del box "**Configurazione attivatore**"
 
-![Videate\\gtm_ecommerce_avanzato_20.bmp](./assets/media/image61.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_20.bmp](./assets/media/image61.png)
 
 > e selezionare, tra le opzioni proposte, "**Evento Personalizzato**"
 
-![Videate\\gtm_ecommerce_avanzato_21.bmp](./assets/media/image62.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_21.bmp](./assets/media/image62.png)
 
 9.  Nella successiva maschera impostare i parametri di configurazione
     dell'attivatore come nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_172.bmp](./assets/media/image136.png){width="5.235416666666667in"
-height="3.5347222222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_172.bmp](./assets/media/image136.png)
 
 - **Nome Evento**: impostare su "***generate_lead***"
 
@@ -5902,28 +5579,24 @@ utente autenticato
     dashboard di gestione del Contenitore su cui si desidera operare e
     cliccare sul pulsante "**Aggiungi un uovo Tag**"
 
-![Videate\\gtm_15b.bmp](./assets/media/image36.png){width="5.586111111111111in"
-height="3.4458333333333333in"}
+![Videate\\gtm_15b.bmp](./assets/media/image36.png)
 
 2.  Cliccare sul pulsante "**Scegli un tipo di tag per iniziare
     l'installazione**" presente all'interno del box "**Configurazione
     Tag**"
 
-![Videate\\gtm_ecommerce_avanzato_10.bmp](./assets/media/image37.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_10.bmp](./assets/media/image37.png)
 
 3.  Selezionare tra quelli proposti il tag "**Google Analytics: evento
     GA4**"
 
-![Videate\\gtm_93.bmp](./assets/media/image54.png){width="5.33125in"
-height="3.2736111111111112in"}
+![Videate\\gtm_93.bmp](./assets/media/image54.png)
 
 4.  Nella successiva maschera di configurazione del tag impostare i due
     parametri "ID Misurazione" e "Nome evento" come nella figura di
     seguito riportata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_wdata_loaded.bmp](./assets/media/image137.png){width="5.267361111111111in"
-height="3.057638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_wdata_loaded.bmp](./assets/media/image137.png)
 
 - **ID Misurazione**: indicare l'ID Misurazione dello stream di dati di
   Google Analytics a cui si desidera inviare i dati
@@ -5935,15 +5608,13 @@ height="3.057638888888889in"}
     "**Parametri evento**" e cliccare sul pulsante "**Aggiungi
     parametro**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_wdata_loaded_parametri.bmp](./assets/media/image138.png){width="5.280555555555556in"
-height="3.0701388888888888in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_wdata_loaded_parametri.bmp](./assets/media/image138.png)
 
 6.  Aggiungere i parametri correlati all'evento completando, per
     ciascuno di essi i campi "Nome parametro" e "Valore" come nella
     figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_wdata_loaded_parametri_2.bmp](./assets/media/image139.png){width="5.293055555555555in"
-height="3.076388888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_wdata_loaded_parametri_2.bmp](./assets/media/image139.png)
 
 > **[PARAMETRI OPZIONALI]{.underline}**
 >
@@ -5954,29 +5625,25 @@ height="3.076388888888889in"}
 - **Nome parametro**: page_type
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV Page_Type**" precedentemente creata
 
 - **Nome parametro**: visitor_login_state
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV Visitor_Login_State**" precedentemente creata
 
 - **Nome parametro**: visitor_type
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV Visitor_Type**" precedentemente creata
 
 - **Nome parametro**: dateTime
 
 - **Valore**: cliccare sul pulsante di selezione delle variabili " (
-  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png){width="0.29930555555555555in"
-  height="0.2423611111111111in"} ) e selezionare tra quelle proposte la
+  ![Videate\\gtm_selezione_variabili.bmp](./assets/media/image58.png) ) e selezionare tra quelle proposte la
   variabile "**GA4 -- DLV DateTime**" precedentemente creata
 
 > Ovviamente nel momento in cui il valore assegnato nel Data Layer di
@@ -5997,32 +5664,27 @@ height="3.076388888888889in"}
 > Cliccare quindi sul pulsante "**Scegli un attivatore per attivare
 > questo tag**" presente all'interno del box "**Attivazione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_wdata_loaded_attivatore.bmp](./assets/media/image140.png){width="5.299305555555556in"
-height="3.076388888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_wdata_loaded_attivatore.bmp](./assets/media/image140.png)
 
 > e, successivamente, cliccare sul pulsante di creazione di un nuovo
 > attivatore (il piccolo + posto nella parte alta della maschera)
 
-![Videate\\gtm_ecommerce_avanzato_19.bmp](./assets/media/image60.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_19.bmp](./assets/media/image60.png)
 
 8.  Nella maschera di creazione del nuovo Attivatore cliccare su
     "**Scegli un tipo di trigger per iniziare l'installazione**"
     presente all'interno del box "**Configurazione attivatore**"
 
-![Videate\\gtm_ecommerce_avanzato_20.bmp](./assets/media/image61.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_20.bmp](./assets/media/image61.png)
 
 > e selezionare, tra le opzioni proposte, "**Evento Personalizzato**"
 
-![Videate\\gtm_ecommerce_avanzato_21.bmp](./assets/media/image62.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_21.bmp](./assets/media/image62.png)
 
 9.  Nella successiva maschera impostare i parametri di configurazione
     dell'attivatore come nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_wdata_loaded_attivatore_2.bmp](./assets/media/image141.png){width="5.293055555555555in"
-height="3.063888888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_wdata_loaded_attivatore_2.bmp](./assets/media/image141.png)
 
 - **Nome Evento**: impostare su "***wdata_loaded***"
 

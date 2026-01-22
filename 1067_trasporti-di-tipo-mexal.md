@@ -29,8 +29,7 @@ dipende da quanto impostato per il parametro "**Gestione del Trasporto
 Abituale"** all'interno della maschera *"Configurazione Ordini"* di
 Passweb.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trasporto_mexal1.bmp](./assets/media/image341.png){width="5.779166666666667in"
-height="3.5256944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trasporto_mexal1.bmp](./assets/media/image341.png)
 
 A seconda dunque delle impostazioni settate per il parametro evidenziato
 in figura l'utente potrà avere la possibilità di selezionare, in fase di
@@ -62,8 +61,7 @@ cliccando poi sul pulsante "**Modifica Trasporto**" ( ) presente nella
 barra degli strumenti, verrà visualizzata la maschera "**Configurazione
 del Metodo di Trasporto**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trasporto_mexal2.bmp](./assets/media/image342.png){width="5.759722222222222in"
-height="3.5131944444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trasporto_mexal2.bmp](./assets/media/image342.png)
 
 attraverso la quale poter impostare un valore per i seguenti parametri
 

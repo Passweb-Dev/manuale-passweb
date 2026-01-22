@@ -5,8 +5,7 @@
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\carrello_custom_configurazione_res.bmp](./assets/media/image137.png){width="5.097916666666666in"
-height="3.079861111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\carrello_custom_configurazione_res.bmp](./assets/media/image137.png)
 
 suddivisa in varie sezioni.
 
@@ -55,8 +54,7 @@ Abilitando questo parametro verrà visualizzato inoltre anche il pulsante
 alla propria lista dei desideri tutti gli articoli (con le relative
 quantità) attualmente presenti in Carrello.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\carrello_custom_2.bmp](./assets/media/image138.png){width="4.7972222222222225in"
-height="3.588888888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\carrello_custom_2.bmp](./assets/media/image138.png)
 
 Per maggiori informazioni relativamente alla gestione in Passweb delle
 "Liste dei desideri" (Wishlist) si veda anche la sezione di questo
@@ -73,8 +71,7 @@ possibile selezionare uno dei seguenti valori:
   pulsante "**Aggiorna Dati**" presente all'interno della relativa riga
   articolo
 
-![Videate\\carrello_custom_3.bmp](./assets/media/image139.png){width="4.834027777777778in"
-height="3.6013888888888888in"}
+![Videate\\carrello_custom_3.bmp](./assets/media/image139.png)
 
 > **ATTENZIONE!** Nel momento in cui l'utente NON dovesse cliccare sul
 > pulsante di aggiornamento, eventuali variazioni apportate ad una riga
@@ -87,8 +84,7 @@ height="3.6013888888888888in"}
   sul pulsante "**Aggiorna Carrello**" presente nella parte bassa del
   componente
 
-![Videate\\carrello_custom_4.bmp](./assets/media/image140.png){width="4.785416666666666in"
-height="3.5340277777777778in"}
+![Videate\\carrello_custom_4.bmp](./assets/media/image140.png)
 
 > **ATTENZIONE!** Nel momento in cui l'utente NON dovesse cliccare sul
 > pulsante evidenziato in figura, eventuali variazioni apportate ad una
@@ -132,8 +128,7 @@ righe articolo attualmente presenti in carrello.
 riepilogo relativo al numero totale di articoli attualmente presenti in
 carrello, suddivisi o meno per categorie merceologiche.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\carrello_custom_5.bmp](./assets/media/image141.png){width="4.7972222222222225in"
-height="2.34375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\carrello_custom_5.bmp](./assets/media/image141.png)
 
 E' possibile selezionare uno dei seguenti valori:
 
@@ -162,8 +157,7 @@ E' possibile selezionare uno dei seguenti valori:
 > il parametro "**Totale Quantità Articoli**" presente alla maschera
 > *"Configurazione Catalogo Mexal*" del Wizard
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\totale_quantita_articoli.bmp](./assets/media/image142.png){width="5.742361111111111in"
-height="3.490972222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\totale_quantita_articoli.bmp](./assets/media/image142.png)
 
 > Per maggiori informazioni in merito al parametro evidenziato in figura
 > si veda anche la sezione "*Catalogo -- Configurazione Parametri
@@ -178,8 +172,7 @@ selezionato, la sezione "Gift Card" all'interno della quale comparirà il
 check "Usa il saldo" con a fianco l'importo di eventuali Gift Card,
 caricate sull'account dell'utente, e spendibile per l'ordine in esame
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\attivazione_giftcard_4.bmp](./assets/media/image143.png){width="5.227083333333334in"
-height="3.067361111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\attivazione_giftcard_4.bmp](./assets/media/image143.png)
 
 Ovviamente affinché la sezione "Gift Card" possa essere effettivamente
 visualizzata non è sufficiente selezionare il parametro in questione ma
@@ -218,8 +211,7 @@ comparirà il check "**Usa il saldo**" con a fianco l'indicazione del
 numero massimo di punti gestibili per l'ordine in esame e il
 corrispondente importo espresso nella valuta corrente
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\punti_premio_carrello.bmp](./assets/media/image144.png){width="5.4847222222222225in"
-height="3.2881944444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\punti_premio_carrello.bmp](./assets/media/image144.png)
 
 Ovviamente affinché la sezione "Punti Premio" possa essere
 effettivamente visualizzata non è sufficiente selezionare il parametro
@@ -266,8 +258,7 @@ raccolta punti, nel riepilogo dei totali in carrello verranno
 visualizzate, tra le altre, anche le voci "**Punti Guadagnati**" e
 "**Punti Spesi**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\punti_premio_carrello_2.bmp](./assets/media/image145.png){width="5.4847222222222225in"
-height="3.2881944444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\punti_premio_carrello_2.bmp](./assets/media/image145.png)
 
 con l'indicazione rispettivamente dei punti che l'utente andrebbe
 effettivamente a guadagnare nel momento in cui dovesse chiudere quel
@@ -285,8 +276,7 @@ eventuali codici sconto in suo possesso e verificare, già all'interno
 del carrello, come i relativi sconti andranno a modificare il totale
 merce.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\carrello-preventivo-buono-sconto.bmp](./assets/media/image146.png){width="4.950694444444444in"
-height="3.8402777777777777in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\carrello-preventivo-buono-sconto.bmp](./assets/media/image146.png)
 
 L'utente dovrà quindi inserire all'interno dell'apposito modulo il
 Codice Sconto in suo possesso e cliccare successivamente sul pulsante
@@ -306,8 +296,7 @@ potrà ottenere un preventivo dei costi di spedizione direttamente
 all'interno della pagina carrello e volendo, dunque, senza aver ancora
 effettuato l'autenticazione al sito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\carrello-preventivo-spedizioni.bmp](./assets/media/image147.png){width="5.576388888888889in"
-height="3.2819444444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\carrello-preventivo-spedizioni.bmp](./assets/media/image147.png)
 
 **ATTENZIONE!** Indipendentemente dal fatto di aver attivato o meno il
 parametro in esame, nel momento in cui in carrello dovessero essere
@@ -324,8 +313,7 @@ verranno visualizzati tutti i metodi di trasporto opportunamente
 codificati all'interno dell'apposita sezione del Wizard, e legati alla
 zona geografica indicata dall'utente.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\carrello-preventivo-spedizioni2.bmp](./assets/media/image148.png){width="5.527777777777778in"
-height="3.251388888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\carrello-preventivo-spedizioni2.bmp](./assets/media/image148.png)
 
 Nel caso in cui l'utente dovesse selezionare un metodo di trasporto con
 associati dei Punti Vendita (es. Ritiro in Negozio) verrà visualizzato
@@ -334,8 +322,7 @@ anche essere localizzati (dipendentemente da come è stato impostato il
 successivo parametro "**Visualizza Google Map dei Negozi**") all'interno
 di una Google Map
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\punti_vendita_carrello.bmp](./assets/media/image149.png){width="5.527777777777778in"
-height="3.251388888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\punti_vendita_carrello.bmp](./assets/media/image149.png)
 
 I punti vendita inizialmente visualizzati all'interno della mappa
 saranno tutti quelli presenti nella Nazione e nella provincia
@@ -370,8 +357,7 @@ consentirà all'utente di completare il preventivo aggiornando il totale
 merce del carrello con l'importo relativo al metodo di trasporto
 selezionato.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\carrello-preventivo-spedizioni3.bmp](./assets/media/image150.png){width="5.576388888888889in"
-height="3.2819444444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\carrello-preventivo-spedizioni3.bmp](./assets/media/image150.png)
 
 Il metodo di trasporto selezionato all'interno del carrello in fase di
 preventivo, verrà poi riportato e mantenuto anche all'interno del
@@ -405,8 +391,7 @@ Google Map. Selezionando questo parametro la descrizione di un punto
 vendita verrà visualizzata nel fumetto del relativo marker presente
 all'interno della Google Map.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\punti_vendita_carrello.bmp](./assets/media/image149.png){width="5.527777777777778in"
-height="3.251388888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\punti_vendita_carrello.bmp](./assets/media/image149.png)
 
 **ATTENZIONE! Come indicato da Google, dal 16 Luglio 2018 è entrato in
 vigore un nuovo piano tariffario basato sul consumo per Maps, Routes e
@@ -436,8 +421,7 @@ visualizzare l' elenco dei possibili pagamenti in maniera tale da
 riuscire ad ottenere, già in carrello, un preventivo di spesa anche in
 relazione a questo specifico elemento.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\carrello-preventivo-pagamenti.bmp](./assets/media/image151.png){width="5.576388888888889in"
-height="3.2819444444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\carrello-preventivo-pagamenti.bmp](./assets/media/image151.png)
 
 **L'elenco dei possibili pagamenti visualizzati all'interno di questo
 modulo potrebbe variare in relazione a diversi fattori.** Qualora, ad
@@ -458,8 +442,7 @@ Totale**" consentirà all'utente di completare il preventivo aggiornando
 il totale merce del carrello con l'importo relativo ad eventuali costi
 aggiuntivi legati al pagamento indicato.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\carrello-preventivo-pagamenti2.bmp](./assets/media/image152.png){width="5.576388888888889in"
-height="3.2819444444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\carrello-preventivo-pagamenti2.bmp](./assets/media/image152.png)
 
 **ATTENZIONE!** Se in seguito alla selezione di uno specifico pagamento
 e alla conseguente aggiunta in carrello dei costi aggiuntivi ad esso
@@ -515,8 +498,7 @@ E' possibile selezionare uno dei seguenti valori:
   modulo per l'inserimento rapido di articoli in carrello verrà
   posizionata sempre come prima riga del carrello
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\carrello_custom_7.bmp](./assets/media/image153.png){width="4.938888888888889in"
-height="3.9138888888888888in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\carrello_custom_7.bmp](./assets/media/image153.png)
 
 - **Prima delle promozioni:** selezionando questa opzione l'eventuale
   riga contenente il modulo per l'inserimento rapido di articoli in
@@ -526,15 +508,13 @@ height="3.9138888888888888in"}
   dell'applicazione di determinate promozioni e/o di determinati sconti
   o spese aggiuntive.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\carrello_custom_9.bmp](./assets/media/image154.png){width="4.803472222222222in"
-height="3.907638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\carrello_custom_9.bmp](./assets/media/image154.png)
 
 - **Fine:** selezionando questa opzione l'eventuale riga contenente il
   modulo per l'inserimento rapido di articoli in carrello verrà
   posizionata sempre come ultima riga del carrello
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\carrello_custom_8.bmp](./assets/media/image155.png){width="4.742361111111111in"
-height="3.8465277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\carrello_custom_8.bmp](./assets/media/image155.png)
 
 Per maggiori informazioni relativamente al modulo di inserimento rapido
 di articoli in carrello si veda anche il capitolo "*Live Editing per
@@ -582,8 +562,7 @@ strutturata su due diverse colonne, la "**Colonna Articoli**" e la
 - I moduli per l'applicazione dei Buoni Sconto, il calcolo dei
   Preventivi e i Totali documento
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\carrello_parametri_res1.bmp](./assets/media/image156.png){width="4.98125in"
-height="3.8652777777777776in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\carrello_parametri_res1.bmp](./assets/media/image156.png)
 
 Per quel che riguarda l'elenco degli articoli attualmente presenti in
 carrello (Colonna Articoli) questo è strutturato, a sua volta, su di una
@@ -591,8 +570,7 @@ griglia responsiva le cui colonne possono essere definite direttamente
 all'interno della sezione "**Gestione Contenuti**" presente nella
 maschera di gestione e configurazione del Carrello stesso
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\carrello_parametri_res2.bmp](./assets/media/image157.png){width="4.98125in"
-height="3.8652777777777776in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\carrello_parametri_res2.bmp](./assets/media/image157.png)
 
 Infine, immediatamente al di sotto della "Griglia Articoli" vengono
 posizionati tutta una serie di pulsanti identificativi delle diverse
@@ -600,8 +578,7 @@ possibili azioni che possono essere effettuate dall'utente che sta
 completando l'ordine (es. Aggiungi tutto alla Wishlist, Svuota Carrello,
 Continua con lo Shopping ecc...)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\carrello_parametri_res3.bmp](./assets/media/image158.png){width="4.98125in"
-height="3.8652777777777776in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\carrello_parametri_res3.bmp](./assets/media/image158.png)
 
 Il pulsante per la conferma del Carrello ed il conseguente passaggio
 alla fase di checkout è collocato invece immediatamente al di sotto dei
@@ -617,8 +594,7 @@ Nello specifico dunque il parametro:
 che dovrà assumere, all'interno della griglia articoli, la colonna dei
 pulsanti (aggiungi alla wishlist, elimina articolo ecc...).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\carrello_parametri_res4.bmp](./assets/media/image159.png){width="4.98125in"
-height="3.8652777777777776in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\carrello_parametri_res4.bmp](./assets/media/image159.png)
 
 Come per tutte le griglie responsive anche in questo caso la larghezza
 di ogni colonna (compresa quella dei bottoni) si esprime definendo
@@ -661,8 +637,7 @@ ecc... E' possibile selezionare una delle seguenti opzioni:
 
 - Opposti
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\carrello_parametri_res5.bmp](./assets/media/image160.png){width="4.98125in"
-height="3.8652777777777776in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\carrello_parametri_res5.bmp](./assets/media/image160.png)
 
 Nell'esempio in figura il parametro "**Posizione dei campi di riepilogo
 dei Totali**" è stato impostato sul valore "**Opposti**"
@@ -677,8 +652,7 @@ In caso affermativo è inoltre possibile decidere se tali accordion
 dovranno essere, al caricamento della pagina, aperti oppure
 chiusi[.]{.underline}
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\carrello_parametri_res7.bmp](./assets/media/image161.png){width="5.288194444444445in"
-height="3.8652777777777776in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\carrello_parametri_res7.bmp](./assets/media/image161.png)
 
 Nell'esempio in figura il parametro "**Tipo di Accordion per i campi
 selezionabili**" è stato impostato sul valore "**Accordion aperti al
@@ -725,8 +699,7 @@ La sezione "**Gestione Campi di Ordinamento**" consente, infine di
 stabilire la modalità secondo cui dovranno essere ordinati gli articoli
 presenti in carrello
 
-![Videate\\ordinamento_carrello.bmp](./assets/media/image162.png){width="4.122916666666667in"
-height="2.3006944444444444in"}
+![Videate\\ordinamento_carrello.bmp](./assets/media/image162.png)
 
 **ATTENZIONE!** a differenza di altri componenti (es. "Catalogo
 Ecommerce") non è possibile variare a front end l'ordinamento stabilito,

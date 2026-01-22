@@ -27,27 +27,23 @@ acquisiti direttamente da Prestashop.
   automaticamente **una nota di corpo contenente la data e
   l'identificativo assegnati all'ordine stesso su Prestashop**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\prestashop_sincro_ordini_2.bmp](./assets/media/image712.png){width="5.220833333333333in"
-height="2.6041666666666665in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\prestashop_sincro_ordini_2.bmp](./assets/media/image712.png)
 
 - Nel momento in cui, lato Prestashop, dovessero essere state attivate
   le opzioni native del CMS per la gestione delle confezioni regalo
   (sezione "**Parametri Negozio -- Impostazioni Ordine**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_opzioni_regalo.bmp](./assets/media/image672.png){width="5.590972222222222in"
-height="3.3895833333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_opzioni_regalo.bmp](./assets/media/image672.png)
 
 > eventuali messaggi inseriti, in tal senso, in fase di acquisto
 > dall'utente direttamente sul front end del sito Prestashop
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_opzioni_regalo_2.bmp](./assets/media/image713.png){width="5.590972222222222in"
-height="3.3895833333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_opzioni_regalo_2.bmp](./assets/media/image713.png)
 
 > verranno riportati anche all'interno del relativo documento gestionale
 > mediante un'apposita nota di corpo
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_opzioni_regalo_3.bmp](./assets/media/image714.png){width="4.825in"
-height="2.441666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_opzioni_regalo_3.bmp](./assets/media/image714.png)
 
 > Inoltre nel caso in cui si sia deciso, lato Prestashop, di assegnare
 > anche un prezzo a queste confezioni regalo (campo "**Prezzo della
@@ -57,8 +53,7 @@ height="2.441666666666667in"}
 > "**Confezione Regalo -- Articolo utilizzato**" (sezione "*Dati Account
 > -- Ordini*")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_opzioni_regalo_4.bmp](./assets/media/image715.png){width="4.825in"
-height="2.441666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_opzioni_regalo_4.bmp](./assets/media/image715.png)
 
 > **ATTENZIONE!** L'aliquota / esenzione iva assegnata, sul gestionale,
 > all'articolo spesa utilizzato per gestire questo tipo di costi dovrà
@@ -70,14 +65,12 @@ height="2.441666666666667in"}
 - Eventuali messaggi inseriti dagli utenti in fase di acquisto sul front
   end del sito Prestashop mediante il campo nativo evidenziato in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\messaggi_ordine.bmp](./assets/media/image716.png){width="5.590972222222222in"
-height="3.3895833333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\messaggi_ordine.bmp](./assets/media/image716.png)
 
 > verranno riportati come note di corpo nel corrispondente documento
 > gestionale
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\messaggi_ordine_2.bmp](./assets/media/image717.png){width="4.825in"
-height="2.441666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\messaggi_ordine_2.bmp](./assets/media/image717.png)
 
 - Nel momento in cui nell'ordine Prestashop dovessero essere presenti
   articoli con Custom Option i valori impostati dall'utente
@@ -85,8 +78,7 @@ height="2.441666666666667in"}
   verranno inseriti nel corpo del documento esattamente come se
   arrivassero da un ordine Passweb
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\magento_ordine_custom_option.bmp](./assets/media/image718.png){width="5.220833333333333in"
-height="2.6041666666666665in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\magento_ordine_custom_option.bmp](./assets/media/image718.png)
 
 > Per maggiori informazioni relativamente a come Passweb tratta le
 > Custom Option si veda anche quanto indicato all'interno del capitolo
@@ -145,6 +137,5 @@ height="2.6041666666666665in"}
 > fatturazione mediante il parametro "**Attiva Fatturazione**" presente
 > all'interno della sezione **"Ordini -- Fatture"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\fatturazione_prestashop.bmp](./assets/media/image675.png){width="5.0777777777777775in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\fatturazione_prestashop.bmp](./assets/media/image675.png)
 

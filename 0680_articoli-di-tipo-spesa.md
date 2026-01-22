@@ -5,8 +5,7 @@
 Il campo **"Articolo Spesa"** presente nella sezione "Informazioni
 Generali" dell'Anagrafica Passweb di ogni singolo articolo
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_articolo_spesa.bmp](./assets/media/image134.png){width="5.792361111111111in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_articolo_spesa.bmp](./assets/media/image134.png)
 
 consente, se selezionato, di trattare l'articolo in esame come un
 **Articolo di tipo Spesa**.
@@ -15,8 +14,7 @@ consente, se selezionato, di trattare l'articolo in esame come un
 esclusivamente articoli "semplici", ossia articoli che, all'interno del
 gestionale, sono stati codificati con Tipologia = Articolo.**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\horeca_articolo_spesa2.bmp](./assets/media/image135.png){width="4.727083333333334in"
-height="3.3375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\horeca_articolo_spesa2.bmp](./assets/media/image135.png)
 
 Nel caso in cui si tenti di marcare come articolo di Tipo Spesa un
 Prototipo (utilizzato per la gestione delle Varianti Articolo e, dunque,
@@ -29,8 +27,7 @@ movimentano il magazzino ed utilizzare per essi un'aliquota iva con
 attiva l'opzione "Escludi da sconti e storni" in modo tale da non
 dividere su questi articoli eventuali sconti e/o storni.**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\horeca_articolo_spesa3.bmp](./assets/media/image136.png){width="4.727083333333334in"
-height="3.3375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\horeca_articolo_spesa3.bmp](./assets/media/image136.png)
 
 Come per i siti Ecommerce collegati a Mexal infatti, anche nel caso di
 siti collegati ad uno dei gestionali Ho.Re.Ca. **gli articoli di tipo

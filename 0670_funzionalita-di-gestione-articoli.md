@@ -14,8 +14,7 @@ attivata e gestita operando direttamente dal back end del sito e
 partendo, nello specifico, dall'Anagrafica Passweb di ogni singolo
 articolo**.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_dati_articolo_info_generali.bmp](./assets/media/image121.png){width="5.779166666666667in"
-height="3.5256944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_dati_articolo_info_generali.bmp](./assets/media/image121.png)
 
 Di seguito verranno quindi analizzate più nel dettaglio le diverse
 funzionalità gestibili, per ogni articolo, a partire dalla sezione

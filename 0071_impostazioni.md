@@ -7,8 +7,7 @@ configurazione necessari per attivare l'integrazione tra il proprio sito
 Passweb e Chat GPT sbloccando così le diverse funzioni di intelligenza
 artificiale generativa disponibili in diversi punti dell'applicativo.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\passweb_ai_impostazioni.bmp](./assets/media/image371.png){width="6.0256944444444445in"
-height="3.4090277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\passweb_ai_impostazioni.bmp](./assets/media/image371.png)
 
 Nello specifico il parametro:
 

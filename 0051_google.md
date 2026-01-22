@@ -17,8 +17,7 @@ All'interno di questa sezione è possibile attivare ed impostare il
 collegamento diretto tra il proprio sito Passweb e il sistema di
 statistiche messo a disposizione da Google
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_preferenze_integrazioni_ganalytics.bmp](./assets/media/image177.png){width="5.552083333333333in"
-height="3.5in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_preferenze_integrazioni_ganalytics.bmp](./assets/media/image177.png)
 
 **ATTENZIONE!** Google Analytics è uno strumento di web analytics molto
 potente che può essere integrato nativamente con i siti Passweb
@@ -63,8 +62,7 @@ dello Stream di Dati verso cui inviare i dati del tracciamento client
 Questo parametro può essere facilmente trovato nella maschera di
 configurazione dello Stream stesso
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ga4_20.bmp](./assets/media/image178.png){width="5.376388888888889in"
-height="3.33125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ga4_20.bmp](./assets/media/image178.png)
 
 **ATTENZIONE!** Tutti gli ID Misurazione di GA4 sono del tipo
 **G-XXXXXXXXXX**
@@ -251,8 +249,7 @@ parametro in questione:
   non consente, a strumenti di terze parti, di risalire all'effettiva
   identità dell'utente
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ga4_59.bmp](./assets/media/image179.png){width="5.779166666666667in"
-height="3.4090277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ga4_59.bmp](./assets/media/image179.png)
 
 - lo User Id verrà impostato a livello di tag di configurazione e verrà
   quindi inviato assieme a tutti gli eventi gestiti dal proprio sito
@@ -316,8 +313,7 @@ lo snippet di codice necessario per inserire il relativo contenitore
 nelle pagine del sito e per poter garantire quindi il corretto
 funzionamento di tutto il sistema.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_preferenze_integrazioni_gtagmanager.bmp](./assets/media/image180.png){width="5.552083333333333in"
-height="3.5in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_preferenze_integrazioni_gtagmanager.bmp](./assets/media/image180.png)
 
 Ovviamente nel caso in cui si sia deciso di utilizzare l'integrazione
 diretta per implementare il tracciamento del proprio sito con Google
@@ -391,8 +387,7 @@ In relazione all'utilizzo dello User id è bene ricordare che:
   numerico che non consente, a strumenti di terze parti, di risalire
   all'effettiva identità dell'utente
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ga4_59.bmp](./assets/media/image179.png){width="5.779166666666667in"
-height="3.4090277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ga4_59.bmp](./assets/media/image179.png)
 
 - lo User ID verrà inserito nel Data Layer di tutti gli eventi ecommerce
   e, ovviamente, sarà valorizzato solo nel caso in cui l'utente che
@@ -553,8 +548,7 @@ il tracciamento diretto, verso Google Ads, delle conversioni che possono
 verificarsi all'interno del sito Passweb in relazione all'evento di
 Purchase.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_preferenze_integrazioni_gads.bmp](./assets/media/image181.png){width="5.552083333333333in"
-height="3.5in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_preferenze_integrazioni_gads.bmp](./assets/media/image181.png)
 
 **[ID CONVERSIONI GOOGLE ADS]{.underline}:**
 
@@ -582,8 +576,7 @@ Nello specifico sarà quindi necessario:
   "**Obiettivi -- Conversioni -- Riepilogo**" dove troveremo un elenco
   di tutti gli obiettivi attualmente codificati
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_gads_1.bmp](./assets/media/image182.png){width="5.409027777777778in"
-height="3.50625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_gads_1.bmp](./assets/media/image182.png)
 
 - Cliccare sul nome dell'obiettivo **relativo alla conversione di
   Purchase** portandosi così nella sua maschera di dettaglio (si ricorda
@@ -591,15 +584,13 @@ height="3.50625in"}
   ed esclusivamente in relazione a conversioni legate ad eventi di
   Purchase)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_gads_2.bmp](./assets/media/image183.png){width="5.409027777777778in"
-height="3.50625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_gads_2.bmp](./assets/media/image183.png)
 
 - Espandere la sezione "**Impostazione del tag**" in maniera tale da
   poter accedere alle istruzioni di installazione del codice di
   tracciamento
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_gads_3.bmp](./assets/media/image184.png){width="5.409027777777778in"
-height="3.50625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_gads_3.bmp](./assets/media/image184.png)
 
 > **ATTENZIONE!** la stessa sezione è presente ovviamente anche al
 > termine della codifica di un nuovo obiettivo
@@ -611,14 +602,12 @@ height="3.50625in"}
 > Nel primo caso potremo trovarlo direttamente all'interno della sezione
 > "**Snippet evento**" evidenziata in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_gads_4.bmp](./assets/media/image185.png){width="5.409027777777778in"
-height="3.50625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_gads_4.bmp](./assets/media/image185.png)
 
 > Nel secondo caso lo troveremo invece (anche se privo del prefisso AW-)
 > in corrispondenza del campo "ID conversione"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_gads_5.bmp](./assets/media/image186.png){width="5.409027777777778in"
-height="3.50625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_gads_5.bmp](./assets/media/image186.png)
 
 > **ATTENZIONE! all'interno del campo Passweb dovrà essere inserito
 > necessariamente l'Id Conversione comprensivo del prefisso AW-**
@@ -649,8 +638,7 @@ conversioni, dovremo portarci nella maschera di dettaglio dell'obiettivo
 **relativo alla conversione di Purchase** ed espandere la sezione
 relativa alle Impostazioni del Tag
 
-![Videate\\configurazione_gads_3.bmp](./assets/media/image184.png){width="5.409027777777778in"
-height="3.50625in"}
+![Videate\\configurazione_gads_3.bmp](./assets/media/image184.png)
 
 La Label della conversione potrà essere quindi visualizzata sia
 cliccando sull'opzione "**Installa il tag autonomamente**" sia cliccando
@@ -659,14 +647,12 @@ sull'opzione "**Utilizza Google Tag Manager**"
 Nel primo caso potremo trovarla direttamente all'interno della sezione
 "**Snippet evento**" evidenziata in figura (è la parte dopo lo / )
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_gads_6.bmp](./assets/media/image187.png){width="5.409027777777778in"
-height="3.50625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_gads_6.bmp](./assets/media/image187.png)
 
 Nel secondo caso la troveremo invece in corrispondenza del campo
 "Etichetta conversione"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_gads_7.bmp](./assets/media/image188.png){width="5.409027777777778in"
-height="3.50625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_gads_7.bmp](./assets/media/image188.png)
 
 **[DISABILITA LA PERSONALIZZAZIONE DEGLI ANNUNCI]{.underline}:**
 
@@ -785,8 +771,7 @@ utilizzando per questo il campo "**Codice completamento**" presente alla
 pagina "**Configurazione parametri dell'ordine**" del Wizard (tab
 "Documento")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_gads_8.bmp](./assets/media/image189.png){width="5.8180555555555555in"
-height="3.298611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_gads_8.bmp](./assets/media/image189.png)
 
 **ATTENZIONE!** nel momento in cui si dovesse decidere di gestire
 manualmente lo snippet di codice per l'invio dei dati della transazione
@@ -945,14 +930,12 @@ Il nome in esame è quello indicato su Ads nella maschera di riepilogo
 degli obiettivi in corrispondenza della colonna "**Azione di
 conversione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\conversioni_offline_3.bmp](./assets/media/image190.png){width="5.6819444444444445in"
-height="3.3444444444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\conversioni_offline_3.bmp](./assets/media/image190.png)
 
 oppure nel dettaglio dello specifico obiettivo in corrispondenza del
 campo "**Nome Conversione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\conversioni_offline_4.bmp](./assets/media/image191.png){width="5.6819444444444445in"
-height="3.3444444444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\conversioni_offline_4.bmp](./assets/media/image191.png)
 
 **ATTENZIONE!** è di fondamentale importanza che il nome inserito
 all'interno di questo campo coincida esattamente, anche a livello di
@@ -1053,8 +1036,7 @@ come di seguito indicato:
 > valorizzato in maniera corretta anche il parametro '**ID Conversioni
 > Google Ads**' evidenziato in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gads_configurazione_remarketing_dinamico.bmp](./assets/media/image192.png){width="5.552083333333333in"
-height="3.265972222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gads_configurazione_remarketing_dinamico.bmp](./assets/media/image192.png)
 
 - **nome_evento**: nome dell'evento (view_item_list / view_item /
   add_to_cart / purchase) che ha fatto scattare l'esecuzione del comando
@@ -1126,8 +1108,7 @@ più nel dettaglio ciascuno dei parametri presenti all'interno di questa
 sezione, distinguendo quello che la loro attivazione effettivamente
 comporta nel caso in cui si sia deciso di utilizzare UA oppure GA4
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_preferenze_eventi_ecommerce.bmp](./assets/media/image193.png){width="5.740277777777778in"
-height="3.3506944444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_preferenze_eventi_ecommerce.bmp](./assets/media/image193.png)
 
 **Google Analytics -- Ricerca sul Sito:** consente di decidere se
 attivare o meno il tracciamento degli eventi di ricerca interni al sito
@@ -1310,8 +1291,7 @@ codice di tracciamento del Google Tag** in corrispondenza del campo
 "**Codice Google Tag**" presente all'interno della sezione
 "**Personalizzazione Google Tag**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\personalizzazione_google_tag.bmp](./assets/media/image194.png){width="5.740277777777778in"
-height="3.623611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\personalizzazione_google_tag.bmp](./assets/media/image194.png)
 
 **Codice Google Tag:** consente di impostare manualmente lo snippet di
 codice da utilizzare per inviare i dati di tracciamento a Google
@@ -1413,8 +1393,7 @@ consentono proprio di impostare, per ciascuno degli eventi gestiti nelle
 varie integrazioni, uno specifico valore per il parametro value,
 assegnando quindi all'evento stesso il valore monetario desiderato.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_preferenze_parametro_value.bmp](./assets/media/image195.png){width="5.552083333333333in"
-height="3.5in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_preferenze_parametro_value.bmp](./assets/media/image195.png)
 
 Nello specifico il campo:
 
@@ -1672,8 +1651,7 @@ determinate informazioni che dovranno poi essere passate ad Analytics
 (tracciamento diretto) e/o inserite nel data layer (tracciamento
 mediante Google Tag Manager)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\parametri_personalizzabili_ga.bmp](./assets/media/image196.png){width="5.552083333333333in"
-height="3.5in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\parametri_personalizzabili_ga.bmp](./assets/media/image196.png)
 
 In particolare il campo:
 

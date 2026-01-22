@@ -8,8 +8,7 @@ arrivo sul proprio sito, stabilendo anche se tali regole dovranno agire
 sulla base dell'indirizzo ip e/o dello user agent associato alla singola
 richiesta
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ddos_4.bmp](./assets/media/image273.png){width="5.571527777777778in"
-height="3.422222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ddos_4.bmp](./assets/media/image273.png)
 
 Nello specifico la sezione:
 
@@ -34,16 +33,14 @@ parte bassa della pagina per salvare le configurazioni impostate e,
 successivamente, sul pulsante "**Applica le regole impostate**" in
 maniera tale da rendere effettivamente attive tali regole
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ddos_5.bmp](./assets/media/image274.png){width="5.707638888888889in"
-height="3.4479166666666665in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ddos_5.bmp](./assets/media/image274.png)
 
 **ATTENZIONE!** **Il pulsante "Salva" consente di salvare i parametri
 settati all'interno di questa pagina ma non di applicare le relative
 regole. In conseguenza di ciò per attivare tali regole è indispensabile
 cliccare anche sul pulsante "Applica le regole impostate".**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ddos_6.bmp](./assets/media/image275.png){width="5.707638888888889in"
-height="3.4479166666666665in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ddos_6.bmp](./assets/media/image275.png)
 
 **ATTENZIONE!** l'applicazione delle regole di blocco causerà, come
 indicato dal relativo messaggio, un riciclo del pool del sito e sarà

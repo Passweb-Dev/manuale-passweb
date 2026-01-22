@@ -15,8 +15,7 @@ Per poter realizzare una cosa di questo tipo è necessario:
   della pagina Carrello, il componente Form e configurarlo impostando il
   parametro **Tipo Valore** su **Carrello tramite file**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_aggiunta_articoli_carrello_res.bmp](./assets/media/image170.png){width="5.122916666666667in"
-height="3.129166666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_aggiunta_articoli_carrello_res.bmp](./assets/media/image170.png)
 
 > In queste condizioni verranno visualizzati due ulteriori campi
 > "**Separatore File**" e "**Campi Codice**"
@@ -165,8 +164,7 @@ potrebbe trovarsi, all'interno della pagina Carrello, il controllo da
 utilizzare per poter effettuare l'upload del file contente l'elenco di
 articoli da aggiungere.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_aggiunta_articoli_carrello3.bmp](./assets/media/image171.png){width="5.564583333333333in"
-height="3.435416666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_aggiunta_articoli_carrello3.bmp](./assets/media/image171.png)
 
 Selezionando il file e cliccando sul pulsante di conferma, Passweb
 aggiungerà automaticamente in carrello tutti gli articoli indicati
@@ -179,8 +177,7 @@ al termine della procedura di importazione verrà visualizzato un
 apposito messaggio di errore e, ovviamente, l'articolo in questione non
 verrà aggiunto.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_aggiunta_articoli_carrello4.bmp](./assets/media/image172.png){width="5.564583333333333in"
-height="3.435416666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_aggiunta_articoli_carrello4.bmp](./assets/media/image172.png)
 
 Messaggi analoghi verranno visualizzati:
 

@@ -5,8 +5,7 @@
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![Videate\\ricerca_ecommerce0_res.bmp](./assets/media/image25.png){width="4.631944444444445in"
-height="3.061111111111111in"}
+![Videate\\ricerca_ecommerce0_res.bmp](./assets/media/image25.png)
 
 suddivisa in varie sezioni.
 
@@ -145,8 +144,7 @@ E' possibile selezionare uno dei seguenti valori:
 > solo dopo che l'utente avrà indicato uno specifico valore per il
 > controllo corrente**
 
-![\\\\192.168.0.84\\d\$\\ManPassweb_Ecommerce\\Videate\\filtri_vincolati_1.bmp](./assets/media/image26.png){width="4.711805555555555in"
-height="3.5277777777777777in"}
+![\\\\192.168.0.84\\d\$\\ManPassweb_Ecommerce\\Videate\\filtri_vincolati_1.bmp](./assets/media/image26.png)
 
 > Nel caso in cui, in virtù o meno delle selezioni precedenti, un
 > controllo non presenti alcun valore o abbia un'unica possibilità di
@@ -179,8 +177,7 @@ height="3.5277777777777777in"}
 > sempre visualizzati tutti i campi di filtro (lista, indice o set
 > attributi) presenti nel pannello di ricerca.**
 
-![\\\\192.168.0.84\\d\$\\ManPassweb_Ecommerce\\Videate\\filtri_vincolati_2.bmp](./assets/media/image27.png){width="4.711805555555555in"
-height="3.5277777777777777in"}
+![\\\\192.168.0.84\\d\$\\ManPassweb_Ecommerce\\Videate\\filtri_vincolati_2.bmp](./assets/media/image27.png)
 
 > Selezionando uno specifico valore per uno qualsiasi dei controlli
 > presenti all'interno del pannello di ricerca (es. 50''per il filtro
@@ -190,8 +187,7 @@ height="3.5277777777777777in"}
 > possibili valori di selezione presenti negli altri controlli
 > disponibili all'interno del pannello di ricerca.
 
-![\\\\192.168.0.84\\d\$\\ManPassweb_Ecommerce\\Videate\\filtri_vincolati_3.bmp](./assets/media/image28.png){width="4.711805555555555in"
-height="3.5277777777777777in"}
+![\\\\192.168.0.84\\d\$\\ManPassweb_Ecommerce\\Videate\\filtri_vincolati_3.bmp](./assets/media/image28.png)
 
 > **NOTA BENE:** è possibile vincolare tra loro, ovviamente, solo
 > controlli di tipo "Filtro Lista" "Filtro Indice" o "Filtro Set

@@ -11,8 +11,7 @@ Il tipo di dato da visualizzare mediante il componente in oggetto
 dipende quindi dalle impostazioni settate per il parametro "**Tipo di
 dato da visualizzare**" presente nella sua maschera di configurazione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dati_articolo_da_visualizzare.bmp](./assets/media/image518.png){width="4.65in"
-height="2.9631944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dati_articolo_da_visualizzare.bmp](./assets/media/image518.png)
 
 In particolare nel caso in cui il campo "Tipo di dato da Visualizzare"
 sia impostato sul valore:
@@ -96,8 +95,7 @@ dei seguenti valori:
 > (Fornitore 1) presente nella relativa maschera "**Fornitori**"
 > all'interno del gestionale.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\codice_fornitore.bmp](./assets/media/image519.png){width="4.729861111111111in"
-height="2.7055555555555557in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\codice_fornitore.bmp](./assets/media/image519.png)
 
 > In queste condizioni dunque il componente in oggetto verrà
 > valorizzato, articolo per articolo, con il corrispondente codice
@@ -121,16 +119,14 @@ height="2.7055555555555557in"}
 > mappato con il codice mastro del fornitore principale (Fornitore 1)
 > dell'articolo in questione (es. 601.00001)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\codice_fornitore2.bmp](./assets/media/image520.png){width="4.729861111111111in"
-height="2.7055555555555557in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\codice_fornitore2.bmp](./assets/media/image520.png)
 
 - **Nominativo Fornitore 1:** selezionando questo valore il Componente
   Dati Articolo verrà poi mappato con la Ragione Sociale del fornitore
   principale (Fornitore 1) dell'articolo in questione (es. "MGM
   Forniture Elettriche")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\codice_fornitore3.bmp](./assets/media/image521.png){width="4.729861111111111in"
-height="2.7055555555555557in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\codice_fornitore3.bmp](./assets/media/image521.png)
 
 > **ATTENZIONE!** Nel caso di siti Ecommerce collegati ad uno dei
 > gestionali Ho.Re.Ca. è necessario abilitare, in "**Replica Dati**" il
@@ -139,8 +135,7 @@ height="2.7055555555555557in"}
 > Dati Articolo mappato sul campo in oggetto non potrà essere
 > valorizzato.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\replica_dati_fornitori.bmp](./assets/media/image522.png){width="4.686805555555556in"
-height="2.582638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\replica_dati_fornitori.bmp](./assets/media/image522.png)
 
 - **Descrizione Dettagliata**: selezionando questo valore il Componente
   Dati Articolo verrà poi mappato con il campo "**Descrizione
@@ -150,8 +145,7 @@ height="2.582638888888889in"}
   uno specifico articolo ed aver cliccato sul pulsante "Modifica
   Articolo" presente nella barra degli strumenti
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\descrizione_dettagliata.bmp](./assets/media/image523.png){width="5.809722222222222in"
-height="3.3743055555555554in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\descrizione_dettagliata.bmp](./assets/media/image523.png)
 
 > In queste condizioni dunque il componente "Dati Articolo" verrà
 > sostituito, articolo per articolo, con il contenuto del campo sopra
@@ -168,8 +162,7 @@ height="3.3743055555555554in"}
 - Direttamente all'interno del gestionale utilizzando per questo
   l'apposito campo "Descrizione Dettagliata"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\descrizione_dettagliata_mexal.bmp](./assets/media/image524.png){width="3.828472222222222in"
-height="1.3680555555555556in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\descrizione_dettagliata_mexal.bmp](./assets/media/image524.png)
 
 > Per maggiori informazioni in merito si veda anche la sezione
 > "*Catalogo -- Gestione Articoli -- Articoli -- Anagrafica Articolo /
@@ -183,8 +176,7 @@ height="1.3680555555555556in"}
   articolo ed aver cliccato sul pulsante "Modifica Articolo" presente
   nella barra degli strumenti.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\maschera_modifica_articolo.bmp](./assets/media/image525.png){width="5.760416666666667in"
-height="3.34375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\maschera_modifica_articolo.bmp](./assets/media/image525.png)
 
 > In queste condizioni dunque il campo Dati Articolo, verrà sostituito,
 > articolo per articolo, con il contenuto del campo "Descrizione
@@ -234,15 +226,13 @@ height="3.34375in"}
 > della corrispondente tabella Mexal, per la serie di appartenenza del
 > relativo prodotto.
 
-![Videate\\dati_articolo_taglie_colori.bmp](./assets/media/image526.png){width="5.386805555555555in"
-height="3.263888888888889in"}
+![Videate\\dati_articolo_taglie_colori.bmp](./assets/media/image526.png)
 
 > I valori mostrati sul front end del sito saranno esattamente quelli
 > definiti, in relazione alla serie considerata, all'interno della
 > maschera "**Modifica Elementi della serie**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_elementi_serie.bmp](./assets/media/image527.png){width="5.576388888888889in"
-height="3.5277777777777777in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_elementi_serie.bmp](./assets/media/image527.png)
 
 > considerando anche che il colore eventualmente associato agli elementi
 > di una serie verrà effettivamente visualizzato sul front end del sito
@@ -329,8 +319,7 @@ height="3.5277777777777777in"}
   aver attivato o meno per lo specifico articolo la corrispondente
   funzionalità di gestione dell'unità di misura secondaria)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_articolo_um.bmp](./assets/media/image528.png){width="1.1902777777777778in"
-height="2.2944444444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_articolo_um.bmp](./assets/media/image528.png)
 
 > Per maggiori informazioni relativamente alla gestione dell'Unità di
 > misura secondaria si rimanda agli specifici capitoli di questo manuale
@@ -348,8 +337,7 @@ height="2.2944444444444443in"}
   visualizzare l'unità di misura verrà sempre visualizzata, **anche per
   articoli non gestiti a confezione**, la quantità base.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_articolo_um_2.bmp](./assets/media/image529.png){width="1.1902777777777778in"
-height="2.2944444444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_articolo_um_2.bmp](./assets/media/image529.png)
 
 - **Unità di misura della confezione:** anche in questo caso il
   Componente Dati Articolo verrà mappato con il campo **"Unità di
@@ -358,8 +346,7 @@ height="2.2944444444444443in"}
   verrà poi effettivamente visualizzato all'interno del sito solo ed
   esclusivamente in corrispondenza di articoli gestiti a confezione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_articolo_um_3.bmp](./assets/media/image530.png){width="2.423611111111111in"
-height="2.2270833333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_articolo_um_3.bmp](./assets/media/image530.png)
 
 - **Unità di misura Primaria / Secondaria**: selezionando questo valore
   il Componente Dati Articolo verrà mappato con il campo **"Unità di
@@ -404,8 +391,7 @@ height="2.2270833333333333in"}
   questo ottenuto sulla base del prezzo dell'articolo e, ovviamente,
   delle quantità in ordine.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_articolo_subtotale.bmp](./assets/media/image531.png){width="5.055555555555555in"
-height="3.6013888888888888in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_articolo_subtotale.bmp](./assets/media/image531.png)
 
 - **Provvigione --** **valore disponibile solo per siti Ecommerce
   collegati a Mexal**.
@@ -417,8 +403,7 @@ height="3.6013888888888888in"}
 > **ottenuta dall'Agente che sta effettuando l'ordine per un conto di un
 > certo cliente**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_articolo_provvigione.bmp](./assets/media/image532.png){width="5.055555555555555in"
-height="3.6013888888888888in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_articolo_provvigione.bmp](./assets/media/image532.png)
 
 - **Nota -- valore disponibile nelle seguenti condizioni:**
 

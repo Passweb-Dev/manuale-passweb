@@ -10,8 +10,7 @@ E' possibile inserire valori personalizzati o precablati (inerenti a
 Provincie e Nazioni). Al rilascio del Componente si aprirà **la sua
 maschera di gestione e configurazione**:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\Form_campo_lista_valori_res.bmp](./assets/media/image129.png){width="4.370138888888889in"
-height="3.175in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\Form_campo_lista_valori_res.bmp](./assets/media/image129.png)
 
 suddivisa in varie sezioni.
 
@@ -229,12 +228,10 @@ di scelta che verranno visualizzate all'interno del controllo.
 
 Per aggiungere una nuova opzione di scelta al controllo è sufficiente
 cliccare sul relativo pulsante di aggiunta nuovo elemento (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_aggiungi.bmp](./assets/media/image47.png){width="0.18819444444444444in"
-height="0.18819444444444444in"} ) e inserire poi i dati di
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_aggiungi.bmp](./assets/media/image47.png) ) e inserire poi i dati di
 configurazione dell'elemento stesso nella parte destra della maschera.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\Form_radio_nuovo_valore_res.bmp](./assets/media/image126.png){width="5.116666666666666in"
-height="2.1104166666666666in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\Form_radio_nuovo_valore_res.bmp](./assets/media/image126.png)
 
 Per ciascuna delle possibili opzioni di scelta sarà necessario indicare:
 
@@ -270,13 +267,11 @@ Gli altri pulsanti presenti nella parte sinistra della maschera
 consentono rispettivamente di:
 
 - **Elimina elemento** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina.bmp](./assets/media/image16.png){width="0.175in"
-  height="0.18194444444444444in"} ): consente di eliminare l'elemento
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina.bmp](./assets/media/image16.png) ): consente di eliminare l'elemento
   attualmente selezionata in elenco
 
 - **Sposta su / giù**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icone_su_giu.bmp](./assets/media/image17.png){width="0.3701388888888889in"
-  height="0.21458333333333332in"} ): consente di riordinare tra loro le
+  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icone_su_giu.bmp](./assets/media/image17.png) ): consente di riordinare tra loro le
   varie opzioni di scelta spostando verso l'alto o il basso l'elemento
   attualmente selezionato in elenco.
 

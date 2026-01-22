@@ -44,8 +44,7 @@ destinazione e quindi se questa stessa specifica verrà poi presa in
 considerazione nella pubblicazione via API, nella pubblicazione via CSV
 o in entrambi i casi
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_destinazione_inserzioni.bmp](./assets/media/image493.png){width="5.792361111111111in"
-height="3.422222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_destinazione_inserzioni.bmp](./assets/media/image493.png)
 
 Per maggiori informazioni in merito a come poter creare o gestire
 un'Inserzione si veda invece quanto indicato all'interno del capitolo
@@ -73,8 +72,7 @@ Di seguito vengono riportate le Specifiche obbligatorie necessarie per
 poter creare in maniera corretta Inserzioni mediante le quali poter
 pubblicare articoli all'interno del Google Merchant Center.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_specifiche_obbligatorie.bmp](./assets/media/image494.png){width="5.792361111111111in"
-height="3.422222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_merchant_specifiche_obbligatorie.bmp](./assets/media/image494.png)
 
 **ATTENZIONE!** Indipendentemente dal fatto che la specifica considerata
 sia una di quelle obbligatorie o una di quelle addizionali la cosa
@@ -182,16 +180,14 @@ opzioni:
   alla piattaforma terza corrisponderà con la Ragione Sociale del
   fornitore principale (Fornitore 1) dell'articolo in questione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\codice_fornitore3.bmp](./assets/media/image495.png){width="4.727083333333334in"
-height="2.707638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\codice_fornitore3.bmp](./assets/media/image495.png)
 
 > **ATTENZIONE!** Nel caso di siti Ecommerce collegati ad uno dei
 > gestionali Ho.Re.Ca. è necessario abilitare, in "**Replica Dati**" il
 > canale relativo ai fornitori. In caso contrario infatti non verranno
 > esportate sul sito le informazioni dei fornitori
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\replica_dati_fornitori.bmp](./assets/media/image496.png){width="4.688194444444444in"
-height="2.584722222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\replica_dati_fornitori.bmp](./assets/media/image496.png)
 
 Nel momento in cui la marca dovesse essere gestita all'interno di un
 campo differente da quelli appena considerati e si voglia comune creare
@@ -243,8 +239,7 @@ opzioni:
 > Per far questo è sufficiente accedere alla maschera di creazione del
 > codice Alias
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuovo_codice_alias.bmp](./assets/media/image87.png){width="4.00625in"
-height="2.2534722222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuovo_codice_alias.bmp](./assets/media/image87.png)
 
 > e compilare i vari campi come di seguito indicato:
 
@@ -266,8 +261,7 @@ height="2.2534722222222223in"}
 > indicato) il corrispondente campo dell'Inserzione andrà poi impostato
 > sul valore "**Codice Alias GTIN**" come evidenziato in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\codice_alias_gtin_inserzioni.bmp](./assets/media/image497.png){width="5.825in"
-height="3.441666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\codice_alias_gtin_inserzioni.bmp](./assets/media/image497.png)
 
 > In queste condizioni in fase di pubblicazione verrà passato alla
 > piattaforma terza il codice alias marcato sul gestionale in maniera
@@ -409,8 +403,7 @@ pubblicare articoli sul Merchant Center di Google sarà possibile
 configurare la Specifica "**Categoria**" impostandola sulla modalità
 "**Attributo Marketplace**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\categorie_google.bmp](./assets/media/image498.png){width="5.792361111111111in"
-height="3.422222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\categorie_google.bmp](./assets/media/image498.png)
 
 Il campo "**Valore**" verrà gestito come un campo ad autocompletamento
 per cui iniziando a digitare alcuni caratteri (relativamente a quella
@@ -436,8 +429,7 @@ piattaforma terza articoli appartenenti a diverse categorie
 merceologiche sarà necessario configurare la Specifica "**Categoria**"
 impostandola, questa volta, sulla modalità "**Attributo Articolo**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\categorie_google2.bmp](./assets/media/image499.png){width="5.792361111111111in"
-height="3.422222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\categorie_google2.bmp](./assets/media/image499.png)
 
 In queste condizioni il campo "**Valore**" verrà gestito come una combo
 box e l'unica opzione di scelta disponibile sarà "**Google Categoria
@@ -450,8 +442,7 @@ coinciderà esattamente con quanto impostato in corrispondenza del campo
 "**Marketplace**" nell' Anagrafica Passweb della effettiva categoria
 merceologica di appartenenza dell'articolo.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_mkt_inserzioni_categorie3.bmp](./assets/media/image500.png){width="5.792361111111111in"
-height="3.422222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_mkt_inserzioni_categorie3.bmp](./assets/media/image500.png)
 
 Il campo **"Google Product Category"** è infatti un campo ad
 autocompletamento e, come nel caso precedente per il campo Valore, anche
@@ -551,8 +542,7 @@ Tali specifiche dovranno prima essere codificate all'interno della
 corrispondente sezione del Wizard (*Catalogo -- Altri Marketplace --
 Specifiche*)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\specifiche_custom_1.bmp](./assets/media/image501.png){width="5.467361111111111in"
-height="3.428472222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\specifiche_custom_1.bmp](./assets/media/image501.png)
 
 Una volta codificate sarà poi possibile gestirle, per ogni singola
 Inserzione, esattamente allo stesso modo in cui si gestiscono le
@@ -577,8 +567,7 @@ dipende esattamente dalle impostazioni settate all'interno della sezione
 Inserzione (tab "Prezzo, quantità e formato") utilizzata per pubblicare
 i prodotti.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_quantita.bmp](./assets/media/image502.png){width="5.792361111111111in"
-height="3.422222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_quantita.bmp](./assets/media/image502.png)
 
 Per maggiori informazioni in merito ai parametri di configurazione
 presenti all'interno di questa sezione si rimanda a quanto indicato
@@ -638,16 +627,14 @@ anche che, nel caso di integrazione con **Google Merchant:**
   inserito all'interno del campo "**prezzo**" della corrispondente
   anagrafica articolo
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\google_merchant_prezzo.bmp](./assets/media/image503.png){width="5.376388888888889in"
-height="3.363888888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\google_merchant_prezzo.bmp](./assets/media/image503.png)
 
 - nel caso di articoli gestiti a confezione sul Merchant Center di
   Google verrà pubblicato all'interno del campo "prezzo" il prezzo della
   confezione e all'interno del campo "**multipack**" il numero di pezzi
   che compongono la confezione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\google_merchant_multipack.bmp](./assets/media/image504.png){width="5.434722222222222in"
-height="3.279166666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\google_merchant_multipack.bmp](./assets/media/image504.png)
 
 - nel caso in cui dovesse essere applicata anche una particolare
   categoria sconto (campo "Sconto Cliente" dell'Inserzione) il prezzo
@@ -655,6 +642,5 @@ height="3.279166666666667in"}
   applicato al prezzo di listino, verrà invece inserito all'interno del
   campo "**prezzo scontato**" della corrispondente anagrafica articolo
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\google_merchant_prezzo2.bmp](./assets/media/image505.png){width="5.376388888888889in"
-height="3.363888888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\google_merchant_prezzo2.bmp](./assets/media/image505.png)
 

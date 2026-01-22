@@ -5,14 +5,12 @@
 Il componente "**Archivio News**" può essere utilizzato in una qualsiasi
 pagina del sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_archivio_news_res.bmp](./assets/media/image4.png){width="2.0909722222222222in"
-height="2.5388888888888888in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_archivio_news_res.bmp](./assets/media/image4.png)
 
 consente di gestire un archivio paginato di tutte le varie notizie
 pubblicate all'interno del sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\archivio_news_esempio.bmp](./assets/media/image5.png){width="4.980555555555555in"
-height="3.50625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\archivio_news_esempio.bmp](./assets/media/image5.png)
 
 **La principale differenza dunque tra un Componente "Archivio News" e un
 componente "Lista News" è rappresentata dal fatto che mentre il primo

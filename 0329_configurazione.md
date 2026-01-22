@@ -5,8 +5,7 @@
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e di configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\risultati_ricerca_sul_sito_configurazione_res.bmp](./assets/media/image207.png){width="4.9222222222222225in"
-height="2.9805555555555556in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\risultati_ricerca_sul_sito_configurazione_res.bmp](./assets/media/image207.png)
 
 suddivisa in varie sezioni.
 
@@ -85,8 +84,7 @@ possibile impostare un valore per i seguenti parametri:
   indicate in corrispondenza del successivo parametro "**Filtro
   Categorie**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cms-filtro-su-categoria_res.bmp](./assets/media/image208.png){width="4.928472222222222in"
-height="2.9805555555555556in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cms-filtro-su-categoria_res.bmp](./assets/media/image208.png)
 
 > Nello specifico le ricerche CMS verranno effettuate su quanto
 > inserito, per le varie news, all'interno dei campi "**Sommario**",
@@ -146,8 +144,7 @@ height="2.9805555555555556in"}
 > Consente di specificare quali dati Ecommerce dovranno essere
 > effettivamente considerati in fase di ricerca articoli.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\risultati_ricerca_dati_ecommerce.bmp](./assets/media/image209.png){width="4.928472222222222in"
-height="2.9868055555555557in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\risultati_ricerca_dati_ecommerce.bmp](./assets/media/image209.png)
 
 > E' possibile selezionare una delle seguenti opzioni:
 
@@ -162,8 +159,7 @@ height="2.9868055555555557in"}
   in conseguenza di ciò, i soli Campi e/o Attributi Articolo selezionati
   in fase di creazione del campo stesso
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ricerca_fulltext_configurazione_2.bmp](./assets/media/image210.png){width="4.9222222222222225in"
-height="2.9805555555555556in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ricerca_fulltext_configurazione_2.bmp](./assets/media/image210.png)
 
 > Per maggiori informazioni relativamente a come creare e gestire il
 > campo FullText evidenziato in figura si veda anche la corrispondente

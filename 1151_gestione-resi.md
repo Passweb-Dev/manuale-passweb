@@ -5,8 +5,7 @@
 All'interno di questa sezione è possibile visualizzare e gestire tutte
 le richieste di Reso Merce effettuate dagli utenti del sito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_resi1.bmp](./assets/media/image755.png){width="5.695138888888889in"
-height="3.467361111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_resi1.bmp](./assets/media/image755.png)
 
 Tra i documenti presenti in elenco sono evidenziati in:
 
@@ -30,16 +29,13 @@ di attivare e gestire la selezione multipla dei documenti in elenco
 
 Nello specifico l'icona:
 
-- ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ico_selezione_multipla.bmp](./assets/media/image638.png){width="0.11666666666666667in"
-  height="9.097222222222222e-2in"}: consente di attivare / disattivare
+- ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ico_selezione_multipla.bmp](./assets/media/image638.png): consente di attivare / disattivare
   la selezione multipla dei documenti in elenco
 
-- ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ico_seleziona_in_blocco.bmp](./assets/media/image639.png){width="9.722222222222222e-2in"
-  height="9.722222222222222e-2in"}: consente di selezionare in blocco
+- ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ico_seleziona_in_blocco.bmp](./assets/media/image639.png): consente di selezionare in blocco
   tutti i documenti attualmente presenti in elenco
 
-- ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ico_deseleziona_in_blocco.bmp](./assets/media/image640.png){width="9.097222222222222e-2in"
-  height="9.097222222222222e-2in"}: consente di deselezionare il blocco
+- ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ico_deseleziona_in_blocco.bmp](./assets/media/image640.png): consente di deselezionare il blocco
   tutti i documenti presenti in elenco
 
 **ATTENZIONE!** la selezione multipla è attiva, per ovvie ragioni, solo
@@ -47,8 +43,7 @@ ed esclusivamente in relazione alla funzionalità di "**Elimina Ordine**"
 
 L' icona raffigurante due piccole frecce posta in testata ad ogni
 singola colonna (
-![Videate\\icona_ordinamento_griglia.bmp](./assets/media/image641.png){width="0.12361111111111112in"
-height="0.14930555555555555in"} ) consente invece di ordinare in maniera
+![Videate\\icona_ordinamento_griglia.bmp](./assets/media/image641.png) ) consente invece di ordinare in maniera
 crescente e/o decrescente, sulla base dei dati presenti all'interno di
 quella stessa colonna, i dati in tabella
 
@@ -65,8 +60,7 @@ cliccare sulla lente di ingrandimento presente in testata alla colonna
 nominativo del cliente da ricercare, e cliccare infine sull'icona
 indicata in figura per avviare la ricerca.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_resi_ricerca.bmp](./assets/media/image756.png){width="5.772916666666666in"
-height="3.5194444444444444in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_resi_ricerca.bmp](./assets/media/image756.png)
 
 In generale è quindi possibile filtrare i documenti in griglia per:
 
@@ -87,27 +81,23 @@ In generale è quindi possibile filtrare i documenti in griglia per:
 Una volta impostato un filtro di ricerca, per poterlo poi eliminare sarà
 sufficiente cliccare sull'icona raffigurante una piccola lente di
 ingrandimento con un -- all'interno (
-![Videate\\icona_elimina_filtro.bmp](./assets/media/image2.png){width="7.777777777777778e-2in"
-height="9.722222222222222e-2in"} ) che comparirà in testata alla colonna
+![Videate\\icona_elimina_filtro.bmp](./assets/media/image2.png) ) che comparirà in testata alla colonna
 in corrispondenza della quale è stato impostato il filtro stesso.
 
 Volendo poi è anche possibile applicare filtri di ricerca più evoluti e
 basati su campi non immediatamente visibili in griglia.
 
 Il pulsante "**Filtri Avanzati**" (
-![Videate\\pulsante_filtri_avanzati.bmp](./assets/media/image644.png){width="0.5131944444444444in"
-height="0.175in"} ) presente nella barra degli strumenti, consente
+![Videate\\pulsante_filtri_avanzati.bmp](./assets/media/image644.png) ) presente nella barra degli strumenti, consente
 infatti di aprire una sezione di ricerca contenete un query builder
 utilizzabile per creare e customizzare il proprio filtro di ricerca
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_avanzati_resi.bmp](./assets/media/image757.png){width="5.6819444444444445in"
-height="3.4479166666666665in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_avanzati_resi.bmp](./assets/media/image757.png)
 
 Il pulsante "**Aggiungi un nuovo filtro**" consente di visualizzare
 l'elenco dei campi su cui poter impostare la condizione di filtro.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_avanzati_resi_2.bmp](./assets/media/image758.png){width="5.552083333333333in"
-height="3.4090277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_avanzati_resi_2.bmp](./assets/media/image758.png)
 
 Nello specifico, grazie ai filtri avanzati sarà possibile costruire il
 proprio filtro di ricerca documenti utilizzando i seguenti campi:
@@ -136,8 +126,7 @@ necessario selezionare l'operatore relazionale (uguale, contiene, è in
 campo in esame dovrà assumere affinché la condizione impostata possa
 essere effettivamente soddisfatta.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_avanzati_resi_3.bmp](./assets/media/image759.png){width="5.675in"
-height="3.4479166666666665in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_avanzati_resi_3.bmp](./assets/media/image759.png)
 
 In questo senso, ovviamente, gli operatori disponibili e le modalità di
 inserimento del valore da soddisfare potranno cambiare in relazione alla
@@ -153,8 +142,7 @@ relazioni disponibili saranno "**è in**" e "**non è in**" mentre il
 valore da ricercare sarà gestito con un campo ad autocompletamento in
 cui poter inserire il codice o il titolo dell'articolo da ricercare.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_avanzati_resi_4.bmp](./assets/media/image760.png){width="5.675in"
-height="3.4479166666666665in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_avanzati_resi_4.bmp](./assets/media/image760.png)
 
 **E' inoltre possibile concatenare tra loro due o più condizioni di
 filtro, basate anche su più campi differenti, in maniera tale da
@@ -170,8 +158,7 @@ documenti.
 Cliccando su questo elemento verranno visualizzati tutti gli operatori
 logici da poter utilizzare nella costruzione della propria query.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_avanzati_resi_5.bmp](./assets/media/image761.png){width="5.675in"
-height="3.4479166666666665in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_avanzati_resi_5.bmp](./assets/media/image761.png)
 
 In questo senso, come precedentemente evidenziato, la **"e"**
 corrisponderà all'operatore logico **AND** mentre la **"o"**
@@ -190,18 +177,15 @@ impostati è possibile procedere in due modi diversi:
 - Aprire il pannello di ricerca dei filtri avanzati, eliminare tutte le
   condizioni di filtro eventualmente impostate cliccando per questo sul
   pulsante raffigurante un piccolo cestino (
-  ![Videate\\icona_cestino.bmp](./assets/media/image651.png){width="0.24027777777777778in"
-  height="0.2076388888888889in"} ) posto in corrispondenza di ogni
+  ![Videate\\icona_cestino.bmp](./assets/media/image651.png) ) posto in corrispondenza di ogni
   singola condizione e cliccare, infine, sul pulsante "Vai"
 
 - Cliccare sul pulsante "**Elimina filtri avanzati**" (
-  ![Videate\\pulsante_elimina_filtri_avanzati.bmp](./assets/media/image652.png){width="0.9548611111111112in"
-  height="0.18819444444444444in"} ) che verrà visualizzato, una volta
+  ![Videate\\pulsante_elimina_filtri_avanzati.bmp](./assets/media/image652.png) ) che verrà visualizzato, una volta
   applicato un filtro di questo tipo, nella relativa barra degli
   strumenti
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_avanzati_resi_7.bmp](./assets/media/image762.png){width="5.675in"
-height="3.4479166666666665in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_avanzati_resi_7.bmp](./assets/media/image762.png)
 
 **ATTENZIONE! i filtri applicati mediante i campi di ricerca presenti in
 testata alla griglia non sono compatibili con i filtri di ricerca
@@ -218,8 +202,7 @@ Avanzati" precedentemente esaminato, potranno essere visualizzati anche
 ulteriori pulsanti che consentono rispettivamente di:
 
 - **Elimina Reso**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_reso.bmp](./assets/media/image763.png){width="0.48055555555555557in"
-  height="0.175in"} ): permette di eliminare dal database del sito la
+  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_reso.bmp](./assets/media/image763.png) ): permette di eliminare dal database del sito la
   richiesta di reso merce attualmente selezionata.
 
 > In relazione a questa specifica funzionalità è possibile attivare e
@@ -233,8 +216,7 @@ ulteriori pulsanti che consentono rispettivamente di:
 > esportata e visualizzata all'interno del sito.
 
 - **Memorizza Reso**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_memorizza_reso.bmp](./assets/media/image752.png){width="0.6041666666666666in"
-  height="0.2076388888888889in"} ): permette di inserire all'interno del
+  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_memorizza_reso.bmp](./assets/media/image752.png) ): permette di inserire all'interno del
   gestionale la richiesta di reso merce attualmente selezionata in
   elenco generando quindi il relativo documento (RC o NC) sulla base
   delle impostazioni settate nella maschera di configurazione resi
@@ -245,8 +227,7 @@ ulteriori pulsanti che consentono rispettivamente di:
 > ed approvate e che si trovano quindi nello stato di "CONFERMATO"**
 
 - **Esportazione Resi**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_esporta_resi.bmp](./assets/media/image764.png){width="0.6361111111111111in"
-  height="0.175in"} ): consente di esportare i dati relativi ai
+  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_esporta_resi.bmp](./assets/media/image764.png) ): consente di esportare i dati relativi ai
   documenti presenti in griglia all'interno di tre distinti file:
 
   - **Testata.csv --** file contenente i dati di testa dei documenti
@@ -273,8 +254,7 @@ ulteriori pulsanti che consentono rispettivamente di:
 > Cliccando su questo pulsante verrà visualizzata la maschera
 > "**Esportazione Resi**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\esportazione_resi.bmp](./assets/media/image765.png){width="5.584722222222222in"
-height="3.441666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\esportazione_resi.bmp](./assets/media/image765.png)
 
 > all'interno della quale poter definire il carattere separatore che
 > dovrà essere utilizzato nella creazione dei vari file csv (campo
@@ -294,16 +274,14 @@ height="3.441666666666667in"}
 <!-- -->
 
 - **Attiva Modifica Attributi**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_attiva_modifiche_attributo.bmp](./assets/media/image660.png){width="0.9090277777777778in"
-  height="0.2076388888888889in"} ): consente di attivare la modalità
+  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_attiva_modifiche_attributo.bmp](./assets/media/image660.png) ): consente di attivare la modalità
   "**Modifica Attributi**" in cui poter visualizzare il dettaglio di
   ogni singolo documento presente in elenco con la possibilità di
   modificare eventuali Attributi Passweb, presenti all'interno del
   documento stesso
 
 - **Disattiva Modifica Attributi**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_disattiva_modifiche_attributo.bmp](./assets/media/image661.png){width="0.9090277777777778in"
-  height="0.175in"} ): consente di disattivare la modalità di
+  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_disattiva_modifiche_attributo.bmp](./assets/media/image661.png) ): consente di disattivare la modalità di
   "**Modifica Attributi**". Una volta disabilitata tale modalità sarà
   sempre possibile accedere alla visualizzazione del dettaglio di uno
   qualsiasi dei documenti presenti in elenco questa volta però in sola
@@ -316,8 +294,7 @@ height="3.441666666666667in"}
 > questo manuale
 
 - **Visualizza Reso**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_visualizza_reso.bmp](./assets/media/image766.png){width="0.5583333333333333in"
-  height="0.175in"} ): consente di visualizzare e gestire il documento
+  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_visualizza_reso.bmp](./assets/media/image766.png) ): consente di visualizzare e gestire il documento
   attualmente selezionato in elenco.
 
 > Cliccando su questo pulsante si verrà infatti ricondotti alla maschera

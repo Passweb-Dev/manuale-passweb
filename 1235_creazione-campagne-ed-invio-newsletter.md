@@ -28,15 +28,13 @@ Per prima cosa sarà necessario accedere alla sezione relativa alle
 Campagne, cliccando per questo sul apposito pulsante (**Campaigns**)
 presente nella barra principale degli strumenti
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\campaigns.bmp](./assets/media/image25.png){width="6.398611111111111in"
-height="4.392361111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\campaigns.bmp](./assets/media/image25.png)
 
 Il pulsante "**Create Campaign**" consente di selezionare il tipo di
 campagna che si vuole realizzare e avviare successivamente il Wizard di
 creazione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\tipologia_campagne.bmp](./assets/media/image26.png){width="6.398611111111111in"
-height="4.392361111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\tipologia_campagne.bmp](./assets/media/image26.png)
 
 Per realizzare un normale invio di mail a tutti o solo a parte degli
 utenti di una certa lista sarà necessario selezionare la voce **"Regular

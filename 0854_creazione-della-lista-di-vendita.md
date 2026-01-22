@@ -36,8 +36,7 @@ della struttura di appartenenza dell'articolo** secondo quanto indicato
 in fase di configurazione dell'inserzione collegata alla lista che sta
 realizzando.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_taglie10.bmp](./assets/media/image286.png){width="5.395833333333333in"
-height="3.292361111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_taglie10.bmp](./assets/media/image286.png)
 
 **[ATTENZIONE!]{.underline}**
 

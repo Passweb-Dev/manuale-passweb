@@ -18,8 +18,7 @@ tutte le esigenze necessarie per ottenere una griglia responsiva
 perfettamente in grado di adattarsi alle diverse risoluzioni dei
 dispositivi di visualizzazione del sito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_griglia.bmp](./assets/media/image100.png){width="2.825in"
-height="3.467361111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_griglia.bmp](./assets/media/image100.png)
 
 Lavorando quindi sulle impostazioni di alcuni semplici parametri di
 configurazione, e senza dover scrivere alcuna media query, sarà

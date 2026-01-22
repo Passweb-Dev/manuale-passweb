@@ -83,8 +83,7 @@ all'interno della sezione "**Sync subscribers**" (modulo "**Email --
 Configuration**") di Clerk degli esportatori verso la piattaforma di
 Newsletter utilizzata su Passweb (ActiveCampaign, MailChimp ...)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\export_utenti_mail_clerk.bmp](./assets/media/image16.png){width="5.675in"
-height="3.3118055555555554in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\export_utenti_mail_clerk.bmp](./assets/media/image16.png)
 
 Nel momento in cui uno degli esportatori evidenziati in figura dovesse
 essere attivato infatti, lo stato di iscrizione al relativo servizio di

@@ -12,8 +12,7 @@ All'interno di questa sezione è possibile:
   quelle obbligatorie, dovranno essere inserite all'interno del feed e
   inviate a Clerk mediante apposite chiamate API
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_feed_clienti.bmp](./assets/media/image13.png){width="5.597222222222222in"
-height="3.4805555555555556in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_feed_clienti.bmp](./assets/media/image13.png)
 
 In questo senso dunque i parametri presenti all'interno della sezione
 "Generale" consentono rispettivamente di:
@@ -80,8 +79,7 @@ oltre a quelli obbligatori, quali campi dovranno essere effettivamente
 inseriti nel feed Clienti e inviati a Clerk mediante le relative
 chiamate API.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_feed_clienti_campi_aggiuntivi.bmp](./assets/media/image14.png){width="5.409027777777778in"
-height="3.584722222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_feed_clienti_campi_aggiuntivi.bmp](./assets/media/image14.png)
 
 **ATTENZIONE! eliminando alcuni dei campi precedentemente gestiti
 all'interno di questa sezione questi verranno poi eliminati, al
@@ -101,8 +99,7 @@ della sezione "**Modifica Campo"**.
 
 Allo stesso modo per codificare un nuovo campo sarà necessario cliccare
 sull'icona raffigurante un piccolo + (
-![Videate\\icona_aggiungi.bmp](./assets/media/image15.png){width="0.18819444444444444in"
-height="0.18819444444444444in"} ) e definire poi le relative proprietà.
+![Videate\\icona_aggiungi.bmp](./assets/media/image15.png) ) e definire poi le relative proprietà.
 
 In particolare per ogni singolo campo utente occorrerà specificare un
 valore per i seguenti parametri:
@@ -189,8 +186,7 @@ all'interno della sezione "**Sync subscribers**" (modulo "**Email --
 Configuration**") di Clerk degli esportatori verso la piattaforma di
 Newsletter utilizzata su Passweb (ActiveCampaign, MailChimp ...)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\export_utenti_mail_clerk.bmp](./assets/media/image16.png){width="5.675in"
-height="3.3118055555555554in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\export_utenti_mail_clerk.bmp](./assets/media/image16.png)
 
 Nel momento in cui uno degli esportatori evidenziati in figura dovesse
 essere attivato infatti, lo stato di iscrizione al relativo servizio di

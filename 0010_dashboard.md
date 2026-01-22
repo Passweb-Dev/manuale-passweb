@@ -20,15 +20,13 @@ del menu principale, possono riguardare:
 
 - Dati Ecommerce (es. ordini ricevuti, carrelli abbandonati ...)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dashboard_1.bmp](./assets/media/image1.png){width="6.03125in"
-height="3.9069444444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dashboard_1.bmp](./assets/media/image1.png)
 
 **ATTENZIONE!** i dati statistici presenti all'interno di questa sezione
 del Wizard possono variare in relazione alle impostazioni settate per il
 Ruolo Utente cui appartiene l'utente attualmente connesso
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ruolo_utente_impostazioni_dashboard.bmp](./assets/media/image2.png){width="5.565277777777778in"
-height="3.509027777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ruolo_utente_impostazioni_dashboard.bmp](./assets/media/image2.png)
 
 Per maggiori informazioni relativamente a come poter abilitare /
 disabilitare determinati dati statistici si veda quanto indicato

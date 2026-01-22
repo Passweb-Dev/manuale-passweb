@@ -35,8 +35,7 @@ ma deve essere inserito direttamente dall'amministratore del sito
 all'interno del campo "**Codice di tracciamento**" (sezione "**Parametri
 Store**" nel tab "**Configurazione**" della maschera "**Dati Account**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_codice_tracciamento.bmp](./assets/media/image69.png){width="5.434722222222222in"
-height="3.5in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_codice_tracciamento.bmp](./assets/media/image69.png)
 
 dovrà essere cura dell'amministratore stesso fare in modo che la sua
 attivazione sia effettivamente condizionata all'accettazione dei cookie

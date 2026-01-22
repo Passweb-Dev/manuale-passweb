@@ -19,8 +19,7 @@ La sezione **"Gestione dei Paesi"** consente di impostare l'elenco dei
 paesi gestiti dal proprio sito Ecommerce specificando anche quello che
 dovrà essere il "**Paese di default**" e il "**Paese Fiscale**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_paesi.bmp](./assets/media/image153.png){width="5.629861111111111in"
-height="3.467361111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_paesi.bmp](./assets/media/image153.png)
 
 Per poter attivare uno specifico paese è sufficiente selezionarlo
 dall'elenco di sinistra (campo "**Paesi Usati**") ed inserirlo nel
@@ -37,16 +36,14 @@ presente nella parte bassa della sezione "Gestione dei Paesi",
 permetterà di salvare e di rendere permanenti le nuove impostazioni.
 
 Il pulsante "**Importa Paesi**" (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_importa_paesi.bmp](./assets/media/image154.png){width="0.6236111111111111in"
-height="0.1951388888888889in"} ) consente invece di indicare in maniera
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_importa_paesi.bmp](./assets/media/image154.png) ) consente invece di indicare in maniera
 massiva l'elenco dei paesi da attivare.
 
 Cliccando su questo pulsante verrà quindi aperta la maschera "**File
 Paesi Gestiti**" mediante la quale poter effettuare l'upload di un file
 csv contenente le informazioni desiderate.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\file_paesi_gestiti.bmp](./assets/media/image155.png){width="5.5777777777777775in"
-height="3.234027777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\file_paesi_gestiti.bmp](./assets/media/image155.png)
 
 Nello specifico all'interno di questa sezione sarà necessario indicare:
 
@@ -139,8 +136,7 @@ indirizzi IP da parte dei vari provider.**
 
 I due campi "**Paese di default**" e "**Paese Fiscale**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\paese_default.bmp](./assets/media/image156.png){width="5.629861111111111in"
-height="3.467361111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\paese_default.bmp](./assets/media/image156.png)
 
 consentono rispettivamente di
 
@@ -180,8 +176,7 @@ consentono rispettivamente di
 La sezione "**Gestione dei Distretti**", infine, consente di definire
 l'elenco delle provincie gestite.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_distretti.bmp](./assets/media/image157.png){width="5.629861111111111in"
-height="3.467361111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_distretti.bmp](./assets/media/image157.png)
 
 **ATTENZIONE! Come già per i Paesi, anche in questo caso, in fase di
 registrazione al sito e/o di definizione degli indirizzi di spedizione

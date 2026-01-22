@@ -8,8 +8,7 @@ all'interno del sito, sarà necessario, per prima cosa, impostare il
 parametro "**Gestione Allegati**" presente nella maschera di
 configurazione del componente **Ordine (Checkout)** sul valore **SI**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\allegati_ordine_1_res.bmp](./assets/media/image322.png){width="4.6194444444444445in"
-height="2.9694444444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\allegati_ordine_1_res.bmp](./assets/media/image322.png)
 
 In queste condizioni verranno infatti visualizzati altri parametri
 mediante i quali poter definire esattamente come dovranno essere
@@ -92,8 +91,7 @@ Una volta attivata e configurata la gestione degli allegati, in fase di
 ordine comparirà, all'interno del componente Checkout, una nuova sezione
 all'interno della quale poter gestire l'upload dei file.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\allegati_ordine_2_res.bmp](./assets/media/image323.png){width="4.98125in"
-height="2.9756944444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\allegati_ordine_2_res.bmp](./assets/media/image323.png)
 
 Il pulsante "**Seleziona file da allegare**" consente di selezionare il
 file da uplodare e allegare al documento.
@@ -110,8 +108,7 @@ alcune delle condizioni impostate (es. tipi di file gestiti, dimensione
 massima dei file da allegare ecc...) verrà visualizzato un apposito
 messaggio di errore
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\allegati_ordine_3_res.bmp](./assets/media/image324.png){width="6.0125in"
-height="3.588888888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\allegati_ordine_3_res.bmp](./assets/media/image324.png)
 
 Per ciascuno dei file allegati al documento verrà indicata la data di
 upload ed il nome del file; il campo "**Nota**" consentirà infine di
@@ -124,15 +121,13 @@ ordine) sarà necessario verificare, per prima cosa, di aver
 correttamente selezionato in fase di configurazione, il parametro
 "**Inserimento Allegati ordini esistenti**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\allegati_ordine_4_res.bmp](./assets/media/image325.png){width="4.6194444444444445in"
-height="2.98125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\allegati_ordine_4_res.bmp](./assets/media/image325.png)
 
 In queste condizioni infatti, andando a visualizzare il dettaglio di un
 ordine già registrato comparirà, in coda ad eventuali allegati già
 presenti sull'ordine, anche il pulsante "**Gestisci Allegati**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\allegati_ordine_5_res.bmp](./assets/media/image326.png){width="6.0125in"
-height="3.1777777777777776in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\allegati_ordine_5_res.bmp](./assets/media/image326.png)
 
 Cliccando su questo pulsante sarà quindi possibile aggiungere nuovi
 allegati, rimuovere eventuali file precedentemente allegati al documento

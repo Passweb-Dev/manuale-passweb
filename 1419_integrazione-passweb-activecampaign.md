@@ -12,8 +12,7 @@ della sezione "**Integrazioni**" del menu principale
 In questo modo si avrà infatti accesso alla maschera "**Lista degli
 Account**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ac_2.bmp](./assets/media/image2.png){width="5.7659722222222225in"
-height="3.454861111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ac_2.bmp](./assets/media/image2.png)
 
 contenente l'elenco di tutti gli Account relativi alle piattaforme di
 Marketing (diverse da MailChimp) attualmente collegate e integrate con
@@ -25,8 +24,7 @@ all'interno della quale poter impostare tutti i parametri necessari per
 poter attivare l'integrazione tra il proprio sito Passweb e la
 piattaforma di Marketing gestita
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ac_3.bmp](./assets/media/image3.png){width="5.454861111111111in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ac_3.bmp](./assets/media/image3.png)
 
 Nello specifico il campo:
 
@@ -42,8 +40,7 @@ quindi visualizzati due ulteriori campi (sezione "**Credenziali**")
 all'interno dei quali dovranno essere inseriti dei valori prelevati
 direttamente dalla piattaforma di ActiveCampaign
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ac_4.bmp](./assets/media/image4.png){width="5.7659722222222225in"
-height="3.454861111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ac_4.bmp](./assets/media/image4.png)
 
 In particolare il campo
 
@@ -54,8 +51,7 @@ In particolare il campo
 > di ActiveCampaign portandosi all'interno della sezione "**Impostazioni
 > -- Sviluppatore**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ac_5.bmp](./assets/media/image5.png){width="5.486805555555556in"
-height="3.1881944444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ac_5.bmp](./assets/media/image5.png)
 
 > dove troveremo, all'interno del campo "**URL**", l'indirizzo per poter
 > accedere alle API della piattaforma.
@@ -82,8 +78,7 @@ height="3.1881944444444446in"}
 > dell'account di ActiveCampaign in corrispondenza del campo
 > "**Chiave**" evidenziato in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ac_6.bmp](./assets/media/image6.png){width="5.486805555555556in"
-height="3.1881944444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ac_6.bmp](./assets/media/image6.png)
 
 Dopo aver impostato tutti i parametri presenti all'interno della
 maschera "Dati Account" i due pulsanti presenti nella parte bassa della

@@ -6,8 +6,7 @@ All'interno della sezione "**Informazioni Generali**" presente nella
 maschera di configurazione di ogni pagamento sarà possibile indicare un
 valore per i seguenti parametri:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamento_mexal_configurazione.bmp](./assets/media/image8.png){width="5.7659722222222225in"
-height="4.246527777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamento_mexal_configurazione.bmp](./assets/media/image8.png)
 
 **Tipo di Pagamento:** consente di definire la tipologia del pagamento
 attualmente selezionato. E' possibile scegliere tra il valore "Pagamento
@@ -84,8 +83,7 @@ dei seguenti valori:
   mediante il quale l'utente potrà visualizzare le informazioni
   aggiuntive precedentemente inserite.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamento_configurazione_dettagli.bmp](./assets/media/image9.png){width="3.954861111111111in"
-height="2.4868055555555557in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamento_configurazione_dettagli.bmp](./assets/media/image9.png)
 
 - **Nel Dettaglio dell'Ordine:** in queste condizioni le informazioni
   aggiuntive sul dettaglio del pagamento verranno visualizzate nel
@@ -105,8 +103,7 @@ height="2.4868055555555557in"}
   pagamento verranno visualizzate, in Carrello, all'interno
   dell'apposito modulo per la "Stima dei Costi di Pagamento"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dettagli_pagamento_carrello.bmp](./assets/media/image10.png){width="5.4743055555555555in"
-height="3.441666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dettagli_pagamento_carrello.bmp](./assets/media/image10.png)
 
 - **Nel Carrello ed in fase di Checkout:** in queste condizioni le
   informazioni aggiuntive sul pagamento verranno visualizzate, in
@@ -132,8 +129,7 @@ mediante il quale poter indicare all'utente come comportarsi per
 abilitare il pagamento in esame nel caso in cui questo non dovesse
 essere selezionabile.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\msg_pagamenti_non_selezionabili.bmp](./assets/media/image11.png){width="5.772916666666666in"
-height="3.4805555555555556in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\msg_pagamenti_non_selezionabili.bmp](./assets/media/image11.png)
 
 Il testo indicato all'interno di questo campo verrà poi inserito:
 
@@ -290,8 +286,7 @@ carrello" sarà possibile:
 Cliccando sul pulsante "**Aggiungi Filtro**" verranno quindi
 visualizzate le seguenti opzioni:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamenti_filtro_quantità.bmp](./assets/media/image12.png){width="5.584722222222222in"
-height="3.441666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamenti_filtro_quantità.bmp](./assets/media/image12.png)
 
 - **Quantità in carrello:** permette di definire una condizione di
   visibilità del pagamento basata sulla **quantità complessiva di
@@ -356,8 +351,7 @@ height="3.441666666666667in"}
 > condizioni di Filtro Articoli, sarà allora necessario impostare un
 > Filtro Quantità del tipo "**Percentuale elementi in carrello = 100**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamenti_percentuale_articoli.bmp](./assets/media/image13.png){width="4.441666666666666in"
-height="1.038888888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamenti_percentuale_articoli.bmp](./assets/media/image13.png)
 
 > In queste condizioni se dovessimo avere in carrello anche un solo
 > articolo che non soddisfa la condizione impostata all'interno del
@@ -386,8 +380,7 @@ height="1.038888888888889in"}
 > categoria 24 ("Outlet Uomo"), dovremmo configurare una condizione di
 > applicabilità del tipo di quella rappresentata in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamento_percentuale_quantita.bmp](./assets/media/image14.png){width="4.434722222222222in"
-height="1.0326388888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamento_percentuale_quantita.bmp](./assets/media/image14.png)
 
 > In questo modo infatti se dovessimo trovarci ad avere in carrello una
 > quantità complessiva di 5 prodotti di cui 4 (quindi 80% del totale)
@@ -414,8 +407,7 @@ height="1.0326388888888889in"}
 > Supponendo dunque di considerare una configurazione del tipo di quella
 > rappresentata in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamenti_quantita_riga.bmp](./assets/media/image15.png){width="4.967361111111111in"
-height="1.0326388888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamenti_quantita_riga.bmp](./assets/media/image15.png)
 
 > il pagamento verrà effettivamente visualizzato sul front end del sito
 > solo nel momento in cui in ordine dovessimo avere almeno un articolo
@@ -471,8 +463,7 @@ height="1.0326388888888889in"}
 > Supponendo dunque di considerare una configurazione del tipo di quella
 > rappresentata in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamenti_quantita_massima_riga.bmp](./assets/media/image16.png){width="4.980555555555555in"
-height="1.0326388888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamenti_quantita_massima_riga.bmp](./assets/media/image16.png)
 
 > e supponendo anche di avere i seguenti articoli in ordine
 
@@ -526,8 +517,7 @@ height="1.0326388888888889in"}
 > Supponendo dunque di considerare una configurazione del tipo di quella
 > rappresentata in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamenti_quantita_minima_riga.bmp](./assets/media/image17.png){width="5.013194444444444in"
-height="1.0451388888888888in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamenti_quantita_minima_riga.bmp](./assets/media/image17.png)
 
 > e supponendo anche di avere i seguenti articoli in ordine
 
@@ -583,8 +573,7 @@ height="1.0451388888888888in"}
 > Considerando dunque una configurazione del tipo di quella
 > rappresentata in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamenti_sconto_in_riga.bmp](./assets/media/image18.png){width="5.00625in"
-height="1.195138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamenti_sconto_in_riga.bmp](./assets/media/image18.png)
 
 > la condizione in esame verrà validata e il relativo pagamento
 > visualizzato solo nel caso in cui tutti gli articoli presenti in
@@ -623,8 +612,7 @@ modalità di pagamento sarà quella selezionata a default all'interno del
 modulo di Checkout Ordine. I metodi di pagamento "selezionati a default"
 verranno evidenziati in blu tra quelli presenti in elenco
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamento_default.bmp](./assets/media/image19.png){width="5.8180555555555555in"
-height="3.5256944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamento_default.bmp](./assets/media/image19.png)
 
 **ATTENZIONE!** **E' possibile impostare come "selezionate a default"
 due o più modalità di pagamento contemporaneamente**, in maniera tale
@@ -761,8 +749,7 @@ All'interno della sezione "**Opzioni del metodo di Pagamento**" è
 possibile impostare le condizioni in corrispondenza delle quali il
 pagamento in esame potrà effettivamente essere selezionato.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\opzioni_metodo_pagamento.bmp](./assets/media/image20.png){width="5.779166666666667in"
-height="3.4090277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\opzioni_metodo_pagamento.bmp](./assets/media/image20.png)
 
 Nello specifico il parametro:
 
@@ -946,8 +933,7 @@ Nello specifico il parametro:
 > presente nel riepilogo dell'ordine alla voce "Spese" (quello
 > evidenziato in figura)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\iva_spese_pagamento_1.bmp](./assets/media/image21.png){width="5.558333333333334in"
-height="3.49375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\iva_spese_pagamento_1.bmp](./assets/media/image21.png)
 
 > sarà dunque quello indicato all'interno dei due precedenti campi
 > maggiorato dell'iva, calcolata secondo l'aliquota in uso all'interno
@@ -962,8 +948,7 @@ height="3.49375in"}
 > calcolata e andrà ad influire sul totale della relativa voce presente
 > nel piede del documento.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\iva_spese_pagamento_2.bmp](./assets/media/image22.png){width="5.558333333333334in"
-height="3.4347222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\iva_spese_pagamento_2.bmp](./assets/media/image22.png)
 
 - **Ivato:** in questo caso l'importo indicato nei precedenti campi
   "Costo aggiuntivo nel paese di default/nei paesi esteri", sarà
@@ -986,8 +971,7 @@ height="3.4347222222222222in"}
 > indicati a fianco dei singoli metodi di pagamento presenti, in
 > checkout, nel relativo step
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\iva_spese_pagamento_3.bmp](./assets/media/image23.png){width="5.558333333333334in"
-height="3.4347222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\iva_spese_pagamento_3.bmp](./assets/media/image23.png)
 
 > questi potranno essere ivati o non ivati (con la relativa etichetta)
 > dipendentemente da come è stato impostato il parametro "**Prezzo**"
@@ -1057,8 +1041,7 @@ height="3.4347222222222222in"}
 
 All'interno della sezione "**Metodi di trasporto non consentiti**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\opzioni_metodo_pagamento_2.bmp](./assets/media/image24.png){width="5.584722222222222in"
-height="3.441666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\opzioni_metodo_pagamento_2.bmp](./assets/media/image24.png)
 
 è possibile specificare, selezionandoli dall'elenco presente nel box di
 sinistra ed inserendoli nel box di destra, i metodi di trasporto in
@@ -1077,8 +1060,7 @@ proposto all\'utente in fase di acquisto, **solo ed esclusivamente nel
 caso di ordini contenenti articoli appartenenti alla linea/linee
 indicate.**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamenti_linee_articolo.bmp](./assets/media/image25.png){width="5.584722222222222in"
-height="3.441666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamenti_linee_articolo.bmp](./assets/media/image25.png)
 
 Per creare un'associazione "Linea Articolo -- Pagamento" è sufficiente
 selezionare la Linea desiderata dall'elenco presente nel box di
@@ -1103,8 +1085,7 @@ Articolo" di questo manuale.
 La sezione **"Gruppi"** consente infine di associare la modalità di
 pagamento in esame ad uno o più gruppi di utenti.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamenti_gruppi_utente.bmp](./assets/media/image26.png){width="5.584722222222222in"
-height="3.441666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamenti_gruppi_utente.bmp](./assets/media/image26.png)
 
 Per creare un'associazione "Gruppo Utenti - Pagamento" è sufficiente
 selezionare il Gruppo desiderato dall'elenco presente nel box di
@@ -1135,8 +1116,7 @@ della spedizione (es. Consegna al piano, Consegna al sabato ecc...) che
 verranno poi passate a Qaplà nel momento in cui l'utente dovesse
 selezionare in fase di checkout il metodo di pagamento in esame.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamenti_qapla.bmp](./assets/media/image27.png){width="5.779166666666667in"
-height="3.4090277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamenti_qapla.bmp](./assets/media/image27.png)
 
 **ATTENZIONE!** la sezione Qaplà è visibile solo nel momento in cui
 siano state inserite le relative chiavi di configurazione in
@@ -1169,8 +1149,7 @@ rispettivamente di:
 > su Qaplà solo nel momento in cui la relativa spedizione dovesse poi
 > essere gestita con GLS.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\qapla_opzioni_corriere.bmp](./assets/media/image28.png){width="5.395833333333333in"
-height="3.3895833333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\qapla_opzioni_corriere.bmp](./assets/media/image28.png)
 
 > **Un'altra cosa di fondamentale importanza da tenere in considerazione
 > è che le opzioni di spedizione sono definite in fase di configurazione
@@ -1211,8 +1190,7 @@ height="3.3895833333333334in"}
 > essere sempre visualizzati all'interno dei campi "Custom 1 / 2 / 3"
 > aprendo il dettaglio dell'ordine inviato da Passweb
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\qapla_custom_label_1.bmp](./assets/media/image29.png){width="5.395833333333333in"
-height="3.33125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\qapla_custom_label_1.bmp](./assets/media/image29.png)
 
 - **Tipologia di assicurazione:** consente di definire la metodologia di
   calcolo dell'importo da assicurare che dovrà poi essere passato a
@@ -1239,8 +1217,7 @@ height="3.33125in"}
 > spedizione sia gestita mediante uno specifico corriere (es. BRT, GLS
 > ...)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\qapla_importo_assicurazione.bmp](./assets/media/image30.png){width="3.66875in"
-height="3.0131944444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\qapla_importo_assicurazione.bmp](./assets/media/image30.png)
 
 - **Contrassegno:** se selezionato, nel momento in cui l'utente dovesse
   selezionare in fase di checkout il pagamento in esame, verrà passata a
@@ -1254,11 +1231,9 @@ height="3.0131944444444443in"}
 > stessa sia a livello di elenco ordini che aprendo il dettaglio del
 > relativo documento, come evidenziato nelle figure di seguito riportate
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamenti_qapla_2.bmp](./assets/media/image31.png){width="5.395833333333333in"
-height="3.467361111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamenti_qapla_2.bmp](./assets/media/image31.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamenti_qapla_3.bmp](./assets/media/image32.png){width="5.395833333333333in"
-height="3.467361111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamenti_qapla_3.bmp](./assets/media/image32.png)
 
 Un' ultima considerazione di fondamentale importanza da fare è che, lato
 Passweb, le "Opzioni di spedizione per Qaplà" possono essere associate,
@@ -1297,8 +1272,7 @@ a Qaplà sia il valore della "Custom Label 1" (determinato dalla
 selezione del metodo di trasporto) che quello della "Custom Label 2"
 (determinato invece dalla selezione del pagamento)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\qapla_custom_label_2.bmp](./assets/media/image33.png){width="5.395833333333333in"
-height="3.33125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\qapla_custom_label_2.bmp](./assets/media/image33.png)
 
 Nel momento in cui invece, sia per il metodo di trasporto che per il
 pagamento selezionato dall'utente in fase di checkout dovesse essere
@@ -1312,8 +1286,7 @@ stessa "Custom Label 1" per il pagamento selezionato in fase di checkout
 sul valore "opzione B" ci ritroveremo poi su Qaplà una situazione del
 tipo di quella rappresentata in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\qapla_custom_label_3.bmp](./assets/media/image34.png){width="5.395833333333333in"
-height="3.33125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\qapla_custom_label_3.bmp](./assets/media/image34.png)
 
 Infine, se conflitto dovesse verificarsi a livello di "Tipologia di
 assicurazione" verrà utilizzato il seguente livello di priorità:

@@ -5,8 +5,7 @@
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_selezione_regalo_res.bmp](./assets/media/image176.png){width="5.097916666666666in"
-height="3.092361111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_selezione_regalo_res.bmp](./assets/media/image176.png)
 
 suddivisa in varie sezioni.
 
@@ -51,8 +50,7 @@ E' possibile selezionare uno dei seguenti valori:
   all'interno del componente verranno disposti tutti su di un\'unica
   riga all'interno di uno slider a scorrimento orizzontale.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\selezione_regalo2.bmp](./assets/media/image177.png){width="4.944444444444445in"
-height="3.6013888888888888in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\selezione_regalo2.bmp](./assets/media/image177.png)
 
 - **Senza caricamento della pagina:** selezionando questa opzioni gli
   articoli presenti all'interno del componente verranno visualizzati in
@@ -142,8 +140,7 @@ La sezione **"Gestione Campi di Ordinamento"** consente, infine, di
 impostare il criterio di ordinamento per gli articoli presenti
 all'interno del componente.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_catalogo_ecommerce2_res.bmp](./assets/media/image13.png){width="4.889583333333333in"
-height="2.417361111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_catalogo_ecommerce2_res.bmp](./assets/media/image13.png)
 
 All'interno di questa sezione, sulla sinistra sono elencati gli elementi
 di ordinamento attualmente codificati, sulla destra sono invece
@@ -154,8 +151,7 @@ sezione "**Modifica Campo Ordinamento**".
 
 Allo stesso modo per codificare un nuovo elemento sarà necessario
 cliccare sull'icona raffigurante un piccolo + (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_aggiungi.bmp](./assets/media/image14.png){width="0.19027777777777777in"
-height="0.19027777777777777in"} ) e definire poi le proprietà
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_aggiungi.bmp](./assets/media/image14.png) ) e definire poi le proprietà
 dell'elemento stesso.
 
 In particolare per ogni singolo elemento di ordinamento occorrerà

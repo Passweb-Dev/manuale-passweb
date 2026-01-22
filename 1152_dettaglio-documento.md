@@ -6,8 +6,7 @@ All'interno di questa sezione è possibile visualizzare ed eventualmente
 modificare, a livello di attributi e/o di nota, il dettaglio del
 documento in esame.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_resi4.bmp](./assets/media/image767.png){width="5.519444444444445in"
-height="3.4805555555555556in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_resi4.bmp](./assets/media/image767.png)
 
 Nella maschera di dettaglio ordine verranno quindi visualizzati (in
 modifica o in sola lettura) per ogni singola riga del documento, oltre
@@ -30,8 +29,7 @@ quali è stata effettuata la richiesta di reso, le note, l'aspetto
 esteriore dei beni e, soprattutto, **decidendo se approvarla o meno
 modificane lo stato in CONFERMATO o in ANNULLATO.**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_resi5.bmp](./assets/media/image768.png){width="5.519444444444445in"
-height="3.4805555555555556in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_resi5.bmp](./assets/media/image768.png)
 
 > **NOTA BENE:** la valorizzazione degli Attributi di tipo Mexal dovrà
 > avvenire, documento per documento, direttamente all'interno del
@@ -42,6 +40,5 @@ Infine, nella parte alta del dettaglio del documento è presente anche il
 collegamento alla fattura di origine da cui l'utente è partito per
 creare il reso in esame.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_resi11.bmp](./assets/media/image769.png){width="5.519444444444445in"
-height="3.4805555555555556in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_resi11.bmp](./assets/media/image769.png)
 

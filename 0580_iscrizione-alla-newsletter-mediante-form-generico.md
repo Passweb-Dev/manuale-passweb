@@ -19,8 +19,7 @@ Le uniche differenze saranno relative al fatto che non si farà più
 riferimento, ovviamente, al form di registrazione al sito, ma allo
 specifico form preso in considerazione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\newsletter_registrazione_form_generico2_res.bmp](./assets/media/image166.png){width="5.1819444444444445in"
-height="3.2270833333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\newsletter_registrazione_form_generico2_res.bmp](./assets/media/image166.png)
 
 Anche in questo caso poi potrebbero verificarsi situazioni in cui alcuni
 dei dati necessari per l'iscrizione alla Newsletter siano già stati
@@ -38,8 +37,7 @@ necessario:
   nella maschera di configurazione dello specifico controllo del form
   Passweb
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\newsletter_registrazione_form_generico4_res.bmp](./assets/media/image167.png){width="4.590972222222222in"
-height="2.9090277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\newsletter_registrazione_form_generico4_res.bmp](./assets/media/image167.png)
 
 - Impostare il parametro "**Tipo di dato da rilevare**" presente nella
   maschera di configurazione del campo interno al form di iscrizione
@@ -47,8 +45,7 @@ height="2.9090277777777778in"}
   successivo parametro "**Campo di Origine Id/Name**" con lo stesso dato
   indicato al punto precedente
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\newsletter_registrazione_form_generico5_res.bmp](./assets/media/image168.png){width="4.584722222222222in"
-height="2.922222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\newsletter_registrazione_form_generico5_res.bmp](./assets/media/image168.png)
 
 Nel caso in cui il parametro "**Tipo di dato da rilevare**" dovesse
 essere invece impostato sull'opzione "Nessuno" il corrispondente campo

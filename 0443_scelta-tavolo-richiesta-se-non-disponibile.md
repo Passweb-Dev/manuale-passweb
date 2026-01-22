@@ -19,8 +19,7 @@ prenotazione, l'utente **NON verrebbe bloccato ma verrebbe comunque
 avvisato, relativamente alla situazione in essere, da un apposito
 messaggio**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\configurazione_sala_tavolo_7.bmp](./assets/media/image366.png){width="4.429166666666666in"
-height="4.220833333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\configurazione_sala_tavolo_7.bmp](./assets/media/image366.png)
 
 In queste condizioni nel momento in cui l'utente dovesse comunque
 decidere di procedere nella sua prenotazione, questa verrebbe

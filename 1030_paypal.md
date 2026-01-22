@@ -44,8 +44,7 @@ impostare, oltre ai parametri classici di configurazione del pagamento,
 anche quelli specifici del gateway attualmente considerato e presenti
 all'interno della sezione "**Parametri Gateway**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_paypal.bmp](./assets/media/image159.png){width="5.311805555555556in"
-height="3.1166666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_paypal.bmp](./assets/media/image159.png)
 
 Nel caso specifico il parametro:
 
@@ -114,8 +113,7 @@ PayPal dove potrà scegliere se pagare con carta di credito (pulsante
 (pulsante "**Accedi**" dopo aver inserito le credenziali del proprio
 account)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamento_paypal_checkout.bmp](./assets/media/image160.png){width="4.967361111111111in"
-height="3.1104166666666666in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamento_paypal_checkout.bmp](./assets/media/image160.png)
 
 **A questo punto però l'ordine non è ancora stato preso in carico da
 PayPal e, conseguentemente, non è ancora avvenuto alcun pagamento**.
@@ -139,8 +137,7 @@ Nel secondo caso, una volta scelta la modalità di pagamento (Carta o
 Account PayPal ) verrà presentata all'utente una pagina web con il
 riassunto dei dati relativi alla transazione in essere.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamento_paypal_checkout_1.bmp](./assets/media/image161.png){width="4.967361111111111in"
-height="3.1104166666666666in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamento_paypal_checkout_1.bmp](./assets/media/image161.png)
 
 Cliccando sul pulsante "**Paga Adesso**" verrà completata la relativa
 transazione verrà mostrato all'utente una maschera di ringraziamento con
@@ -149,8 +146,7 @@ provenienza (pulsante "**Torna sul sito del venditore**"), e
 contestualmente, verrà comunque ritornata al sito Ecommerce risposta
 positiva (**implementazione "Server to Server"**).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamento_paypal_checkout_1a.bmp](./assets/media/image162.png){width="4.870138888888889in"
-height="3.0in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamento_paypal_checkout_1a.bmp](./assets/media/image162.png)
 
 **NOTA BENE**: eventuali notifiche di avvenuta transazione, così come
 gli accrediti e addebiti sui relativi c/c sono gestiti totalmente dal

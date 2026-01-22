@@ -4,8 +4,7 @@
 
 Il Componente **"Categorie Associate"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_interno_categorie_associate.bmp](./assets/media/image545.png){width="2.5395833333333333in"
-height="3.1166666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_interno_categorie_associate.bmp](./assets/media/image545.png)
 
 può essere inserito all'interno di componenti Ecommerce di primo livello
 quali ad esempio il "Catalogo Ecommerce", la "Scheda Prodotto", le
@@ -13,8 +12,7 @@ quali ad esempio il "Catalogo Ecommerce", la "Scheda Prodotto", le
 categorie merceologiche (primarie e secondarie) associate al relativo
 articolo.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\categorie_associate.bmp](./assets/media/image546.png){width="5.570833333333334in"
-height="3.214583333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\categorie_associate.bmp](./assets/media/image546.png)
 
 Se l'utilizzo di tale componente all'interno di una scheda prodotto non
 comporta, di base, particolari problemi occorre invece prestare
@@ -32,8 +30,7 @@ categoria ma l'immagine ad essa associata**
 Rilasciando il Componente nella posizione desiderata verrà visualizzata
 **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\categorie_associate_configurazione_res.bmp](./assets/media/image547.png){width="4.613194444444445in"
-height="2.2083333333333335in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\categorie_associate_configurazione_res.bmp](./assets/media/image547.png)
 
 suddivisa in varie sezioni.
 

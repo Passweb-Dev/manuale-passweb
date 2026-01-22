@@ -5,8 +5,7 @@
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_catalogo_ecommerce_res.bmp](./assets/media/image2.png){width="4.889583333333333in"
-height="3.01875in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_catalogo_ecommerce_res.bmp](./assets/media/image2.png)
 
 suddivisa in varie sezioni.
 
@@ -77,15 +76,13 @@ possibile impostare un valore per i seguenti parametri:
     righe e di colonne impostabili mediante i successivi parametri
     presenti all'interno di questa stessa maschera di configurazione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\catalogo_griglia.bmp](./assets/media/image3.png){width="4.889583333333333in"
-height="3.9756944444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\catalogo_griglia.bmp](./assets/media/image3.png)
 
 - **Slider:** selezionando questa opzione gli articoli in catalogo
   verranno disposti su di un\'unica riga all'interno di uno slider a
   scorrimento orizzontale.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\catalogo_slider.bmp](./assets/media/image4.png){width="4.877083333333333in"
-height="2.515277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\catalogo_slider.bmp](./assets/media/image4.png)
 
 - **Numero massimo di slide caricabili (solo per configurazioni di tipo
   Slider):** consente di impostare il numero massimo di slide che
@@ -245,8 +242,7 @@ height="2.515277777777778in"}
 > corretta, sul sito verrà poi visualizzato un menu a tendina contenente
 > l'elenco dei valori immessi.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\elementi_per_pagina_res.bmp](./assets/media/image5.png){width="4.877083333333333in"
-height="2.515277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\elementi_per_pagina_res.bmp](./assets/media/image5.png)
 
 > Selezionando uno dei valori presenti in elenco il componente verrà
 > ricaricato e popolato con il numero di articoli per pagina indicati
@@ -293,8 +289,7 @@ height="2.515277777777778in"}
 > componente "Catalogo Ecommerce" una condizione di pre filtraggio del
 > tipo di quella indicata in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prefiltro_catalogo_esempio1_res.bmp](./assets/media/image6.png){width="4.877083333333333in"
-height="2.99375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prefiltro_catalogo_esempio1_res.bmp](./assets/media/image6.png)
 
 > Come detto lo stesso filtro andrebbe poi impostato anche su eventuali
 > pannelli di ricerca utilizzati per filtrare gli articoli in catalogo,
@@ -311,8 +306,7 @@ height="2.99375in"}
   in blocco tutti i filtri attualmente applicati al componente in
   oggetto.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\rimuovi_filtro_ec_esempio.bmp](./assets/media/image7.png){width="4.883333333333334in"
-height="3.2576388888888888in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\rimuovi_filtro_ec_esempio.bmp](./assets/media/image7.png)
 
 > **NOTA BENE:** il pulsante "Rimuovi filtro applicato" contestuale al
 > componente "Catalogo E-commerce" verrà visualizzato non appena dovesse
@@ -329,8 +323,7 @@ height="3.2576388888888888in"}
   contenente il numero complessivo degli articoli presenti all'interno
   del componente stesso.
 
-![\\\\192.168.0.84\\d\$\\ManPassweb_Ecommerce\\Videate\\paginazione_visualizzazione_risultati.bmp](./assets/media/image8.png){width="4.883333333333334in"
-height="3.68125in"}
+![\\\\192.168.0.84\\d\$\\ManPassweb_Ecommerce\\Videate\\paginazione_visualizzazione_risultati.bmp](./assets/media/image8.png)
 
 > Il testo di questa stringa può essere modificato e personalizzato alla
 > sezione \"**Gestione Testi/Messaggi del Sito**\" agendo sui testi
@@ -346,8 +339,7 @@ height="3.68125in"}
   elementi sulla base dei quali poter effettuare l'ordinamento degli
   articoli presenti all'interno del componente.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\campo_ordinamento.bmp](./assets/media/image9.png){width="4.877083333333333in"
-height="2.515277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\campo_ordinamento.bmp](./assets/media/image9.png)
 
 > **ATTENZIONE! Nel caso in cui si decida di non selezionare questo
 > parametro sarà comunque necessario agire dalla sezione "Gestione Campi
@@ -381,11 +373,9 @@ height="2.515277777777778in"}
 > ottenere ad esempio il classico passaggio dal catalogo con layout a
 > griglia a quello con layout a lista**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\catalogo_layout_griglia.bmp](./assets/media/image10.png){width="4.877083333333333in"
-height="2.515277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\catalogo_layout_griglia.bmp](./assets/media/image10.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\catalogo_layout_lista.bmp](./assets/media/image11.png){width="4.877083333333333in"
-height="2.515277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\catalogo_layout_lista.bmp](./assets/media/image11.png)
 
 > In queste condizioni avendo impostato come "Identificatore" l'intera
 > pagina saremo sicuri che nel momento in cui un utente dovesse

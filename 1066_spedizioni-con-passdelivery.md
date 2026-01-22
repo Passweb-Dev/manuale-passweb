@@ -34,8 +34,7 @@ Una volta soddisfatti questi semplici prerequisiti sarà poi necessario:
     della relativa tabella messa a disposizione dall' App "Invio Ordini
     a Passdelivery"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\app_passdelivery_3.bmp](./assets/media/image321.png){width="5.052083333333333in"
-height="1.7597222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\app_passdelivery_3.bmp](./assets/media/image321.png)
 
 > Per maggiori informazioni relativamente a come poter accedere a questa
 > tabella e impostare Altezza, Larghezza, Profondità e Peso dei vari
@@ -66,8 +65,7 @@ height="1.7597222222222222in"}
 > Portarsi quindi all'interno del menu "**Servizi -- App (X) -- Invio
 > documenti a PassDelivery -- Parametri**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_passdelivery_1.bmp](./assets/media/image322.png){width="4.909027777777778in"
-height="3.298611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_passdelivery_1.bmp](./assets/media/image322.png)
 
 > in maniera tale da visualizzare l'elenco dei vettori attualmente
 > gestibili con PassDelivery
@@ -75,8 +73,7 @@ height="3.298611111111111in"}
 > Cliccare quindi sul pulsante "**Nuovo (F4)**" e compilare la maschera
 > di configurazione del Vettore PassDelivery
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_passdelivery_2.bmp](./assets/media/image323.png){width="4.909027777777778in"
-height="3.298611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_passdelivery_2.bmp](./assets/media/image323.png)
 
 > indicando, in particolare, il codice del vettore da utilizzare
 > all'interno del campo "**Vettore per Delivery**" evidenziato in figura
@@ -102,8 +99,7 @@ height="3.298611111111111in"}
 > metodo di spedizione (di tipo Passweb) facendo attenzione ad impostare
 > i "Parametri del Trasporto" come evidenziato in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_passdelivery_3.bmp](./assets/media/image324.png){width="5.759722222222222in"
-height="3.5131944444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_passdelivery_3.bmp](./assets/media/image324.png)
 
 - **Trasporto a mezzo** = Vettore
 
@@ -143,16 +139,14 @@ del totale merce ecc...), in fase di checkout l'utente avrà la
 possibilità di selezionare, tra i vari trasporti proposti, anche la
 consegna mediante PassDelivery
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_passdelivery_4.bmp](./assets/media/image325.png){width="5.4743055555555555in"
-height="3.5131944444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_passdelivery_4.bmp](./assets/media/image325.png)
 
 Selezionata questa opzione e confermato l'odine, questo verrà inserito
 normalmente all'interno del gestionale dove gli verrà assegnato il
 Vettore indicato in fase di configurazione del metodo di trasporto
 (punto 3)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_passdelivery_8.bmp](./assets/media/image326.png){width="4.909027777777778in"
-height="3.298611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_passdelivery_8.bmp](./assets/media/image326.png)
 
 Volendo in questa fase è possibile anche visualizzare ed eventualmente
 modificare le dimensioni degli articoli presenti nel documento. Per fare
@@ -160,20 +154,17 @@ questo è sufficiente selezionare uno degli articoli presenti in ordine,
 portarsi all'interno del campo contenente la descrizione del prodotto,
 cliccare sul pulsante "**Dati aggiuntive righe**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_passdelivery_5.bmp](./assets/media/image327.png){width="4.863888888888889in"
-height="2.7270833333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_passdelivery_5.bmp](./assets/media/image327.png)
 
 e selezionare quindi all'interno della successiva maschera l'opzione
 "**Delivery -- Dati spedizione Art**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_passdelivery_6.bmp](./assets/media/image328.png){width="4.779166666666667in"
-height="2.6430555555555557in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_passdelivery_6.bmp](./assets/media/image328.png)
 
 In questo modo si ha infatti accesso alla maschera "**Delivery -- Dati
 Spedizione Art**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_passdelivery_7.bmp](./assets/media/image329.png){width="4.779166666666667in"
-height="2.6430555555555557in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_passdelivery_7.bmp](./assets/media/image329.png)
 
 all'interno della quale poter visualizzare ed eventualmente modificare
 le dimensioni del prodotto.
@@ -188,14 +179,12 @@ necessario, per prima cosa, trasformare il documento in Bolla o Fattura
 e accedere poi al menu "**Magazzino -- App(X) -- Invio Documenti a
 PassDelivery -- Monitor documenti**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_passdelivery_9.bmp](./assets/media/image330.png){width="4.909027777777778in"
-height="3.298611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_passdelivery_9.bmp](./assets/media/image330.png)
 
 dove troveremo l'elenco di tutti i documenti gestibili tramite
 PassDelivery
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_passdelivery_10.bmp](./assets/media/image331.png){width="4.909027777777778in"
-height="3.298611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_passdelivery_10.bmp](./assets/media/image331.png)
 
 **ATTENZIONE!** nel momento in cui dovessero essere stati definiti
 appositi "Vettori PassDelivery" all'interno di questa sezione verranno
@@ -205,8 +194,7 @@ associato uno di questi Vettori
 A questo punto è sufficiente selezionare il / i documenti da inviare e
 cliccare sul pulsante "**Invia**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_passdelivery_11.bmp](./assets/media/image332.png){width="4.909027777777778in"
-height="3.298611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_passdelivery_11.bmp](./assets/media/image332.png)
 
 In questo modo i documenti selezionati verranno inviati a PassDelivery
 dove potranno essere assegnati al rider che si occuperà di effettuare la
@@ -219,8 +207,7 @@ Documenti" consente invece di aggiornare lo stato dei documenti
 selezionati in elenco in maniera tale da poter visualizzare direttamente
 da questa sezione del gestionale lo stato delle diverse consegne
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_passdelivery_12.bmp](./assets/media/image333.png){width="4.909027777777778in"
-height="3.298611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_passdelivery_12.bmp](./assets/media/image333.png)
 
 Lato cliente, quando la Bolla / Fattura inviata a PassDelivery verrà
 riportata, durante la prima sincronizzazione utile, anche sul sito
@@ -230,8 +217,7 @@ cliente, accedendo alla sezione dei suoi ordini, dovesse scegliere di
 visualizzare il dettaglio della bolla / fattura in esame troverà questo
 codice di tracciamento e un pulsante "**Segui la Spedizione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_passdelivery_13.bmp](./assets/media/image334.png){width="5.447916666666667in"
-height="3.370138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_passdelivery_13.bmp](./assets/media/image334.png)
 
 che gli permetterà di verificare direttamente da qui lo stato della sua
 consegna. Cliccando infatti su questo pulsante verrà ridiretto su di una
@@ -239,8 +225,7 @@ specifica pagina del sito dove gli verranno mostrati i dati principali
 (prelevati in tempo reale direttamente da PassDelivery) della relativa
 consegna.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_passdelivery_14.bmp](./assets/media/image335.png){width="5.447916666666667in"
-height="3.370138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_passdelivery_14.bmp](./assets/media/image335.png)
 
 Il cliente avrà comunque la possibilità di visualizzare queste ed altre
 informazioni (oltre ovviamente allo storico di tutte le consegne) anche
@@ -251,8 +236,7 @@ PassDelivery, i relativi clienti riceveranno infatti anche una mail con
 tutte le istruzioni necessarie per l'attivazione del loro account sul
 relativo portale
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_passdelivery_15.bmp](./assets/media/image336.png){width="2.5520833333333335in"
-height="2.6555555555555554in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_passdelivery_15.bmp](./assets/media/image336.png)
 
 ##### ECOMMERCE HO.RE.CA.
 
@@ -268,8 +252,7 @@ Una volta attivato questo account sarà poi necessario:
     sezione "**Spedizione**" dell'anagrafica Passweb di ogni singolo
     prodotto
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\anagrafica_passweb_spedizioni_1.bmp](./assets/media/image337.png){width="5.538888888888889in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\anagrafica_passweb_spedizioni_1.bmp](./assets/media/image337.png)
 
 > Per maggiori informazioni relativamente a questi campi e a come,
 > eventualmente valorizzarli in maniera massiva mediate upload di file
@@ -302,8 +285,7 @@ height="3.532638888888889in"}
 > metodo di spedizione (di tipo Passweb) facendo attenzione ad impostare
 > i "Parametri del Trasporto" come evidenziato in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_passdelivery_horeca_3.bmp](./assets/media/image338.png){width="5.759722222222222in"
-height="3.5131944444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_passdelivery_horeca_3.bmp](./assets/media/image338.png)
 
 - **Trasporto a mezzo** = Vettore
 
@@ -326,23 +308,20 @@ del totale merce ecc...), in fase di checkout l'utente avrà la
 possibilità di selezionare, tra i vari trasporti proposti, anche la
 consegna mediante PassDelivery
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_passdelivery_4.bmp](./assets/media/image325.png){width="5.4743055555555555in"
-height="3.5131944444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_passdelivery_4.bmp](./assets/media/image325.png)
 
 Selezionata questa opzione e confermato l'odine, questo verrà inserito
 normalmente all'interno del gestionale dove gli verrà assegnato il
 Vettore indicato in fase di configurazione del metodo di trasporto
 (punto 2)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_passdelivery_horeca_8.bmp](./assets/media/image339.png){width="4.99375in"
-height="3.1430555555555557in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_passdelivery_horeca_8.bmp](./assets/media/image339.png)
 
 Una volta revisionato l'ordine, per gestire la spedizione sarà
 necessario, per prima cosa, trasformare il documento in Bolla o Fattura,
 aprire poi il menu contestuale e cliccare sulla voce "**PassDelivery**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_passdelivery_horeca_9.bmp](./assets/media/image340.png){width="4.99375in"
-height="3.1430555555555557in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_passdelivery_horeca_9.bmp](./assets/media/image340.png)
 
 In questo modo il documento in esame verrà inviato a PassDelivery dove
 potrà essere assegnato al rider che si occuperà di effettuare la
@@ -356,8 +335,7 @@ dei suoi ordini e visualizzando il dettaglio del documento in esame
 troverà il codice di tracciamento e un pulsante "**Segui la
 Spedizione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_passdelivery_13.bmp](./assets/media/image334.png){width="5.447916666666667in"
-height="3.370138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_passdelivery_13.bmp](./assets/media/image334.png)
 
 che gli permetterà di verificare direttamente da qui lo stato della sua
 consegna. Cliccando infatti su questo pulsante verrà ridiretto su di una
@@ -365,8 +343,7 @@ specifica pagina del sito dove gli verranno mostrati i dati principali
 (prelevati in tempo reale direttamente da PassDelivery) della relativa
 consegna.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_passdelivery_14.bmp](./assets/media/image335.png){width="5.447916666666667in"
-height="3.370138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_passdelivery_14.bmp](./assets/media/image335.png)
 
 Il cliente avrà comunque la possibilità di visualizzare queste ed altre
 informazioni (oltre ovviamente allo storico di tutte le consegne) anche
@@ -377,6 +354,5 @@ PassDelivery, i relativi clienti riceveranno infatti anche una mail con
 tutte le istruzioni necessarie per l'attivazione del loro account sul
 relativo portale
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_passdelivery_15.bmp](./assets/media/image336.png){width="2.5520833333333335in"
-height="2.6555555555555554in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_passdelivery_15.bmp](./assets/media/image336.png)
 

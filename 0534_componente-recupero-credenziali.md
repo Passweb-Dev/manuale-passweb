@@ -5,8 +5,7 @@
 Il Componente **"Recupero Credenziali** può essere utilizzato
 all'interno di una qualsiasi pagina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_recupero_credenziali_res.bmp](./assets/media/image13.png){width="2.5388888888888888in"
-height="2.5256944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_recupero_credenziali_res.bmp](./assets/media/image13.png)
 
 e consente di inserire all'interno del proprio sito un modulo mediante
 il quale un qualsiasi utente avrà la possibilità di resettare, nel caso
@@ -15,8 +14,7 @@ in cui le abbia perse, le proprie credenziali di accesso.
 Tale Componente potrà essere inserito all'interno di una qualsiasi
 pagina del sito indipendentemente dalla sua tipologia.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\recupero_credenziali_sito.bmp](./assets/media/image14.png){width="5.863888888888889in"
-height="3.2534722222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\recupero_credenziali_sito.bmp](./assets/media/image14.png)
 
 L'utente dovrà semplicemente inserire, nel corrispondente campo,
 l'indirizzo mail fornito in fase di registrazione e cliccare poi sul
@@ -68,8 +66,7 @@ Nello specifico:
 1.  Tutte le Varianti attualmente gestite devono avere impostata una
     specifica pagina di "Cambio Password".
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\varianti_cambio_password.bmp](./assets/media/image11.png){width="4.636111111111111in"
-height="2.967361111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\varianti_cambio_password.bmp](./assets/media/image11.png)
 
 > **ATTEZNIONE!** Nel caso in cui per una determinata Variante non fosse
 > stata indicata, la "Pagina di Cambio Password", il componente
@@ -88,8 +85,7 @@ height="2.967361111111111in"}
     degli Utenti -- Dati Email**") deve essere stato inserito
     necessariamente il segnaposto **{{VERIFYURL}}**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\segnaposto_link_cambio_password.bmp](./assets/media/image10.png){width="5.811805555555556in"
-height="3.370138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\segnaposto_link_cambio_password.bmp](./assets/media/image10.png)
 
 > **ATTENZIONE!** Qualora nel testo della mail di recupero credenziali
 > non sia stato inserito il segnaposto \"{{VERIFYURL}}\", al salvataggio

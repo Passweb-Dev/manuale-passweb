@@ -24,16 +24,14 @@ articoli, sarà necessario:
   Spedizione**", presente nella maschera di configurazione del
   componente "Spedizione", il segnaposto "**Prezzo**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\spedizione_segnaposto_prezzo.bmp](./assets/media/image451.png){width="4.631944444444445in"
-height="2.9569444444444444in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\spedizione_segnaposto_prezzo.bmp](./assets/media/image451.png)
 
 Supponendo dunque di aver soddisfatto le due condizioni sopra indicate e
 di aver inserito il componente "Spedizione" all'interno, ad esempio,
 della scheda prodotto, potremo ottenere un risultato del tipo di quello
 evidenziato in figura.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\spedizione_segnaposto_prezzo_1.bmp](./assets/media/image452.png){width="5.3805555555555555in"
-height="3.34375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\spedizione_segnaposto_prezzo_1.bmp](./assets/media/image452.png)
 
 L'importo della spedizione effettivamente visualizzato all'interno del
 componente dipenderà poi, ovviamente, da come è stato configurato il
@@ -81,8 +79,7 @@ Provincia, Città e Cap, oppure selezionando, se autenticato, uno dei
 suoi indirizzi di spedizione) una ben precisa zona in relazione alla
 quale valutare i costi di trasporto.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\selezione_indirizzo.bmp](./assets/media/image453.png){width="3.8652777777777776in"
-height="2.5277777777777777in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\selezione_indirizzo.bmp](./assets/media/image453.png)
 
 Per maggiori informazioni relativamente al componente "Selezione
 Indirizzo" si veda anche quanto indicato nel relativo capitolo di questo
@@ -176,15 +173,13 @@ stessi costi potrebbero ovviamente subire delle variazioni.
 Per questo è possibile utilizzare il segnaposto "**Zona Spedizione**"
 presente all'interno dei componenti "**Paragrafo**" e "**HTML**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\segnaposto_zona_spedizione.bmp](./assets/media/image454.png){width="4.644444444444445in"
-height="2.9631944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\segnaposto_zona_spedizione.bmp](./assets/media/image454.png)
 
 segnaposto questo che verrà poi sostituito in fase di generazione della
 pagina web con i dati relativi alla zona in relazione alla quale sono
 attualmente calcolati i costi di spedizione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\spedizione_segnaposto_prezzo_2.bmp](./assets/media/image455.png){width="5.3805555555555555in"
-height="3.34375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\spedizione_segnaposto_prezzo_2.bmp](./assets/media/image455.png)
 
 **ATTENZIONE!** per evitare di rileggere ad ogni caricamento della
 pagina web tutte le spedizioni attualmente gestite e velocizzare così la

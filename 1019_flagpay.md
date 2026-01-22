@@ -35,8 +35,7 @@ impostare, oltre ai parametri classici di configurazione del pagamento,
 anche quelli specifici del gateway attualmente considerato e presenti
 all'interno della sezione "**Parametri Gateway**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_flagpay.bmp](./assets/media/image102.png){width="5.643055555555556in"
-height="3.325in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_flagpay.bmp](./assets/media/image102.png)
 
 Nello specifico all'interno di questa sezione il campo:
 
@@ -82,16 +81,14 @@ Nello specifico sarà quindi necessario:
   sicurezza**" e selezionare, in corrispondenza del parametro "**Metodo
   di hashing**" l'opzione "**SHA-512**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\flagpay_1.bmp](./assets/media/image103.png){width="5.49375in"
-height="3.3833333333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\flagpay_1.bmp](./assets/media/image103.png)
 
 - Accedere alla sezione "**Configurazione -- Informazioni Tecniche --
   Ritorno d'informazione della transazione**" e selezionare l'opzione
   "**Desidero ricevere i parametri di ritorno delle transazioni sugli
   URL di redirezione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\flagpay_2.bmp](./assets/media/image104.png){width="5.49375in"
-height="3.3833333333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\flagpay_2.bmp](./assets/media/image104.png)
 
 - Rimanendo all'interno della sezione "**Configurazione -- Informazioni
   Tecniche -- Ritorno d'informazione della transazione**" selezionare,
@@ -99,8 +96,7 @@ height="3.3833333333333333in"}
   HTTP**" l'opzione "**Sempre differita (non immediatamente dopo il
   pagamento**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\flagpay_3.bmp](./assets/media/image105.png){width="5.467361111111111in"
-height="3.3569444444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\flagpay_3.bmp](./assets/media/image105.png)
 
 > e successivamente inserire all'interno dei campi "**Se lo statuto del
 > pagamento è accettato, in attesa o incerto"** e **"Se lo statuto del
@@ -116,8 +112,7 @@ height="3.3569444444444443in"}
   ecommerce dinamici**" siano correttamente inseriti all'interno del box
   "**Selezionato**" i campi **ORDERID, STATUS, NCERROR e PAYID**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\flagpay_4.bmp](./assets/media/image106.png){width="5.467361111111111in"
-height="3.3569444444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\flagpay_4.bmp](./assets/media/image106.png)
 
 **ATTENZIONE!** Gli ultimi due punti sono di fondamentale importanza per
 poter abilitare le chiamate server to server consentendo quindi al
@@ -133,8 +128,7 @@ in esame, l'ordine sarà memorizzato nel database di Passweb, e l'utente
 verrà reindirizzato sul sito del gateway di pagamento dove dovrà
 inserire i dati necessari per concludere la transazione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\flagpay_5.bmp](./assets/media/image107.png){width="5.214583333333334in"
-height="3.1041666666666665in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\flagpay_5.bmp](./assets/media/image107.png)
 
 **A questo punto però l'ordine non è ancora stato preso in carico dalla
 banca e, conseguentemente, non è ancora avvenuto alcun pagamento**.
@@ -151,8 +145,7 @@ per poi passare nuovamente a concludere l'ordine.
 Nel secondo caso, una volta confermata la transazione verrà presentata
 all'utente una pagina con la conferma del pagamento appena effettuato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\flagpay_6.bmp](./assets/media/image108.png){width="5.214583333333334in"
-height="3.1041666666666665in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\flagpay_6.bmp](./assets/media/image108.png)
 
 e, dopo pochi secondi, sarà automaticamente ricondotto al sito
 Ecommerce. L'ordine verrà considerato valido ed inserito quindi

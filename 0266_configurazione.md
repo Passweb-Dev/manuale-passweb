@@ -5,8 +5,7 @@
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico la sua maschera di gestione e configurazione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componenti-googlemap_res.bmp](./assets/media/image37.png){width="5.155555555555556in"
-height="3.1104166666666666in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componenti-googlemap_res.bmp](./assets/media/image37.png)
 
 suddivisa in varie sezioni.
 
@@ -61,23 +60,19 @@ il parametro :
 
   - **Stradale**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gmap_stradale.bmp](./assets/media/image38.png){width="4.616666666666666in"
-height="4.220833333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gmap_stradale.bmp](./assets/media/image38.png)
 
 - **Satellitare**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gmap_satellitare.bmp](./assets/media/image39.png){width="4.616666666666666in"
-height="4.214583333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gmap_satellitare.bmp](./assets/media/image39.png)
 
 - **Terrestre**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gmap_terrestre.bmp](./assets/media/image40.png){width="4.616666666666666in"
-height="4.220833333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gmap_terrestre.bmp](./assets/media/image40.png)
 
 - **Ibrida**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gmap_ibrida.bmp](./assets/media/image41.png){width="4.616666666666666in"
-height="4.227083333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gmap_ibrida.bmp](./assets/media/image41.png)
 
 - **Punti di interesse:** consente di decidere quali punti di interesse
   (Attrazioni Turistiche, Commercianti, Edifici Governativi ecc...)
@@ -90,8 +85,7 @@ height="4.227083333333334in"}
 - **Tema:** consente di impostare, selezionandolo dall'apposito menu a
   tendina, uno specifico tema grafico da applicare alla Google Map
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gmap_tema_grafico.bmp](./assets/media/image42.png){width="5.486805555555556in"
-height="3.3506944444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gmap_tema_grafico.bmp](./assets/media/image42.png)
 
 All'interno della sotto sezione **"Gestione dei punti vendita"** è
 possibile decidere di abilitare o meno, all'interno della corrispondente
@@ -132,8 +126,7 @@ In particolare dunque il parametro:
   più breve tra l'indirizzo da lui selezionato ed il Marker ad esso più
   vicino
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gmap_ricerca_percorso.bmp](./assets/media/image43.png){width="5.013194444444444in"
-height="3.376388888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gmap_ricerca_percorso.bmp](./assets/media/image43.png)
 
 - **Visualizza il percorso più breve:** consente di visualizzare, se
   selezionato, una linea all'interno della Google Map che individua
@@ -147,16 +140,14 @@ height="3.376388888888889in"}
   dell'apposito pannello di ricerca, ed il marker, presente nella Google
   Map, ad esso più vicino
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gmap_ricerca_percorso_testuale.bmp](./assets/media/image44.png){width="4.870138888888889in"
-height="3.4090277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gmap_ricerca_percorso_testuale.bmp](./assets/media/image44.png)
 
 - **Visualizza i marker più vicini:** se selezionato, consente di
   visualizzare tra i risultati la descrizione del Marker più vicino
   all'indirizzo impostato dall'utente all'interno dell'apposito campo di
   ricerca.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gmap_ricerca_percorso_luoghi_vicini.bmp](./assets/media/image45.png){width="4.447916666666667in"
-height="3.49375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gmap_ricerca_percorso_luoghi_vicini.bmp](./assets/media/image45.png)
 
 Una volta settati i parametri di configurazione della Google Map sarà
 poi necessario impostare i vari marker che dovranno essere visualizzati

@@ -11,8 +11,7 @@ codici da associare al Buono Sconto stesso.
 Per fare questo sarà necessario agire all'interno della sezione
 "**Codici Coupon**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\buono_sconto_codici_coupon.bmp](./assets/media/image589.png){width="5.753472222222222in"
-height="3.5131944444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\buono_sconto_codici_coupon.bmp](./assets/media/image589.png)
 
 **ATTENZIONE!** La sezione **Codici Coupon** verrà visualizzata solo
 dopo aver effettuato un primo salvataggio del Buono Sconto in esame
@@ -21,15 +20,13 @@ I pulsanti presenti nella barra degli strumenti della sezione in oggetto
 consentono rispettivamente di:.
 
 **Aggiungi**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi.bmp](./assets/media/image590.png){width="0.44166666666666665in"
-height="0.21458333333333332in"} )**:** permette di aggiungere in maniera
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi.bmp](./assets/media/image590.png) )**:** permette di aggiungere in maniera
 manuale un nuovo codice sconto.
 
 Cliccando su questo pulsante verrà infatti aperta la maschera
 "**Coupon**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\buono_sconto_coupon.bmp](./assets/media/image591.png){width="5.753472222222222in"
-height="3.5131944444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\buono_sconto_coupon.bmp](./assets/media/image591.png)
 
 all'interno della quale poter indicare (campo **Nome**) il codice da
 associare al Buono Sconto che si sta configurando e che dovrà quindi
@@ -70,23 +67,19 @@ verrà applicato automaticamente uno sconto di 5 o di 10 € a seconda del
 fatto che il totale merce attuale sia inferiore o superiore ai 30 €
 
 **Elimina**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina.bmp](./assets/media/image592.png){width="0.35694444444444445in"
-height="0.18819444444444444in"} )**:** consente di eliminare il codice
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina.bmp](./assets/media/image592.png) )**:** consente di eliminare il codice
 sconto attualmente selezionato in elenco
 
 **Svuota**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_svuota.bmp](./assets/media/image469.png){width="0.34444444444444444in"
-height="0.21458333333333332in"} )**:** consente di eliminare tutti i
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_svuota.bmp](./assets/media/image469.png) )**:** consente di eliminare tutti i
 codici sconto presenti in elenco
 
 **Genera**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_genera.bmp](./assets/media/image593.png){width="0.3506944444444444in"
-height="0.1951388888888889in"} )**:** consente di generare in maniera
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_genera.bmp](./assets/media/image593.png) )**:** consente di generare in maniera
 automatica uno o più codici sconto. Cliccando su questo pulsante verrà
 infatti visualizzata la maschera "**Generatore Codici Coupon**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\generatore_codici_coupon.bmp](./assets/media/image594.png){width="5.753472222222222in"
-height="3.5131944444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\generatore_codici_coupon.bmp](./assets/media/image594.png)
 
 all'interno della quale poter impostare i parametri che dovranno essere
 utilizzati nella generazione automatica dei codici sconto. In
@@ -115,15 +108,13 @@ Il pulsante "**Genera**" consente di avviare la creazione automatica dei
 codici sconto secondo le specifiche impostate
 
 **Esporta**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_esporta.bmp](./assets/media/image367.png){width="0.3375in"
-height="0.18194444444444444in"} )**:** consente di esportare tutti i
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_esporta.bmp](./assets/media/image367.png) )**:** consente di esportare tutti i
 codici sconto presenti in elenco all'interno di un' apposito file .csv
 in cui verrà indicato per ognuno di essi anche la sua data di creazione
 e il numero di volte in cui è stato utilizzato
 
 **Verifica**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_verifica.bmp](./assets/media/image595.png){width="0.3701388888888889in"
-height="0.1951388888888889in"} )**:** consente di verificare se i codici
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_verifica.bmp](./assets/media/image595.png) )**:** consente di verificare se i codici
 sconto inseriti in elenco sono stati già utilizzati anche all'interno di
 altri Buoni Sconto.
 

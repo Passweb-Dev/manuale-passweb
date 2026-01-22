@@ -4,8 +4,7 @@
 
 Il Componente **"Prenotazione Risorse Custom "**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_prenotazione_risorsa_res.bmp](./assets/media/image369.png){width="2.8222222222222224in"
-height="2.8340277777777776in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_prenotazione_risorsa_res.bmp](./assets/media/image369.png)
 
 **disponibile per siti collegati al gestionale Plan** può essere
 utilizzato unicamente all'interno della pagina "**Prenotazione**" dove

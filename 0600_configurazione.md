@@ -5,8 +5,7 @@
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_calendario_res.bmp](./assets/media/image25.png){width="4.590972222222222in"
-height="3.077777777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_calendario_res.bmp](./assets/media/image25.png)
 
 suddivisa in varie sezioni.
 

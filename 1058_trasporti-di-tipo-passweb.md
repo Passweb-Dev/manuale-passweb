@@ -38,45 +38,38 @@ opzione di scelta per i clienti che effettuano ordini sul sito.
 
 Per attivare una di queste tipologie di trasporto è sufficiente
 selezionarla e cliccare poi sul pulsante **"Attiva Trasporto"** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_attiva_trasporto.bmp](./assets/media/image258.png){width="0.5256944444444445in"
-height="0.15555555555555556in"} ) presente nella barra degli strumenti.
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_attiva_trasporto.bmp](./assets/media/image258.png) ) presente nella barra degli strumenti.
 Allo stesso modo per disattivare una delle tipologie precedentemente
 attivate, è sufficiente selezionarla e cliccare poi sul pulsante
 **"Disattiva Trasporto"** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_disattiva_trasporto.bmp](./assets/media/image259.png){width="0.5972222222222222in"
-height="0.1625in"} ) presente, anch'esso, nella barra degli strumenti.
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_disattiva_trasporto.bmp](./assets/media/image259.png) ) presente, anch'esso, nella barra degli strumenti.
 
 Gli altri pulsanti presenti nella barra degli strumenti consentono
 rispettivamente di:
 
 **Modifica Trasporto**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_trasporto.bmp](./assets/media/image260.png){width="0.5972222222222222in"
-height="0.1625in"} ): consente di modificare la configurazione del
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_trasporto.bmp](./assets/media/image260.png) ): consente di modificare la configurazione del
 metodo di trasporto attualmente selezionato in elenco
 
 **Copia Trasporto**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_copia_trasporto.bmp](./assets/media/image261.png){width="0.5256944444444445in"
-height="0.14930555555555555in"} ): consente di duplicare il metodo di
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_copia_trasporto.bmp](./assets/media/image261.png) ): consente di duplicare il metodo di
 trasporto attualmente selezionato in elenco.
 
 **Elimina Trasporto**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_trasporto.bmp](./assets/media/image262.png){width="0.5583333333333333in"
-height="0.14930555555555555in"} ) consente di eliminare il metodo di
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_trasporto.bmp](./assets/media/image262.png) ) consente di eliminare il metodo di
 trasporto attualmente selezionato in elenco.
 
 **NOTA BENE:** è possibile eliminare solo ed esclusivamente quei
 trasporti che non sono ancora stati collegati a specifici ordini.
 
 **Aggiungi Trasporto**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_trasporto.bmp](./assets/media/image263.png){width="0.6166666666666667in"
-height="0.175in"} ): consente di codificare un nuovo metodo di trasporto
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_trasporto.bmp](./assets/media/image263.png) ): consente di codificare un nuovo metodo di trasporto
 di tipo Passweb.
 
 Cliccando su questo pulsante verrà infatti aperta la maschera
 "**Configurazione del Metodo di Trasporto**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_spesa_trasporto_passweb.bmp](./assets/media/image264.png){width="5.759722222222222in"
-height="3.4027777777777777in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_spesa_trasporto_passweb.bmp](./assets/media/image264.png)
 
 attraverso la quale poter definire e gestire tutti i parametri di
 configurazione del trasporto in esame.

@@ -33,8 +33,7 @@ correttamente a Google Analytics dovremo:
   accedere alla sezione **Network** (o Rete dipendentemente da quella
   che è la lingua di utilizzo del browser)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\verifica_upd_1.bmp](./assets/media/image27.png){width="5.802777777777778in"
-height="3.2868055555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\verifica_upd_1.bmp](./assets/media/image27.png)
 
 > dove potremo esaminare il dettaglio di tutte le chiamate effettuate
 > dal browser.
@@ -46,8 +45,7 @@ height="3.2868055555555555in"}
   verificare di aver selezionato l'opzione All presente sempre nella
   barra degli strumenti di questa sezione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\verifica_upd_2.bmp](./assets/media/image28.png){width="5.802777777777778in"
-height="3.2868055555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\verifica_upd_2.bmp](./assets/media/image28.png)
 
 - A questo punto, dopo aver verificato ovviamente di aver prestato tutti
   i consensi necessari per consentire di attivare il sistema di
@@ -56,8 +54,7 @@ height="3.2868055555555555in"}
   browser per costruire la pagina web e per gestire anche eventuali
   interazioni e scambio di dati con strumenti di terze parti
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\verifica_upd_3.bmp](./assets/media/image29.png){width="5.802777777777778in"
-height="3.2868055555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\verifica_upd_3.bmp](./assets/media/image29.png)
 
 - Tra tutte le chiamate effettuate dal browser dovremo ora isolare
   quelle effettuate verso Google Analytics e per far questo sarà
@@ -66,16 +63,14 @@ height="3.2868055555555555in"}
   effettuate verso google analytics hanno infatti un endpoint di
   destinazione del tipo https://www.google-analytics.com/g/collect\....)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\verifica_upd_4.bmp](./assets/media/image30.png){width="5.802777777777778in"
-height="3.2868055555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\verifica_upd_4.bmp](./assets/media/image30.png)
 
 - Una volta isolate le chiamate effettuate dal browser verso Google
   Analytics potremo esaminarne il dettaglio semplicemente cliccandoci
   sopra e portandoci poi nella scheda "Payload" cliccando sull'apposito
   pulsante presente nella parte destra della maschera
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\verifica_upd_5.bmp](./assets/media/image31.png){width="5.802777777777778in"
-height="3.2868055555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\verifica_upd_5.bmp](./assets/media/image31.png)
 
 - Arrivati a questo punto per verificare che i dati utente siano stati
   inviati correttamente a Google Analytics dovremo semplicemente
@@ -86,8 +81,7 @@ height="3.2868055555555555in"}
   esaminata, i dati utente sono stati inviati o meno a Google Analytics
   e, in caso positivo se tale invio ha presentato o meno degli errori
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\verifica_upd_6.bmp](./assets/media/image32.png){width="5.802777777777778in"
-height="3.2868055555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\verifica_upd_6.bmp](./assets/media/image32.png)
 
 > Nello specifico:
 
@@ -123,61 +117,52 @@ Per far questo sarà necessario:
   portarsi nella sezione "Admin" e cliccare sulla voce "Data streams"
   presente all'interno del riquadro "Data collection and modification"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\verifica_upd_7.bmp](./assets/media/image33.png){width="5.363194444444445in"
-height="3.3118055555555554in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\verifica_upd_7.bmp](./assets/media/image33.png)
 
 - Dovremo quindi entrare nel dettaglio del Data Stream utilizzato per il
   sito (semplicemente cliccandoci sopra)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\verifica_upd_8.bmp](./assets/media/image34.png){width="5.363194444444445in"
-height="3.3118055555555554in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\verifica_upd_8.bmp](./assets/media/image34.png)
 
 > accedere poi alla sezione "**Configure tag settings**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\verifica_upd_9.bmp](./assets/media/image35.png){width="5.363194444444445in"
-height="3.3118055555555554in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\verifica_upd_9.bmp](./assets/media/image35.png)
 
 > e da qui una volta entrati nella sezione "**Admin**" cliccare sul
 > pulsante "**Launch Tag Assistant**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\verifica_upd_10.bmp](./assets/media/image36.png){width="5.363194444444445in"
-height="3.3118055555555554in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\verifica_upd_10.bmp](./assets/media/image36.png)
 
 - In questo modo verrà aperto lo strumento disponibile su Google
   Analytics per poter effettuare il debug del proprio sistema di
   tracciamento. Dovremo quindi digitare l'url del nostro sito e cliccare
   sul pulsante "**Connect**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\verifica_upd_11.bmp](./assets/media/image37.png){width="5.363194444444445in"
-height="3.3118055555555554in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\verifica_upd_11.bmp](./assets/media/image37.png)
 
 - Su di un nuovo tab del browser verrà quindi aperto il nostro sito
   mentre nel tab attuale avremo la possibilità di vedere ed esaminare
   nel dettaglio tutti i tag e gli hit inviati dal browser a Google
   Analytics
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\verifica_upd_12.bmp](./assets/media/image38.png){width="5.363194444444445in"
-height="3.3118055555555554in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\verifica_upd_12.bmp](./assets/media/image38.png)
 
 - Dovremo quindi cliccare sul Tag corrispondente ad uno degli eventi
   tracciati sul sito (es. quello relativo all'evento di View Item List
   evidenziato in figura)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\verifica_upd_13.bmp](./assets/media/image39.png){width="5.363194444444445in"
-height="3.3118055555555554in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\verifica_upd_13.bmp](./assets/media/image39.png)
 
 > in maniera tale da accedere al dettaglio del relativo hit inviato dal
 > sito a Google Analytics
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\verifica_upd_14.bmp](./assets/media/image40.png){width="5.363194444444445in"
-height="3.3118055555555554in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\verifica_upd_14.bmp](./assets/media/image40.png)
 
 - A questo punto potremo, per semplicità, cliccare sulle due piccole
   parentesi graffe poste in alto a destra nella tabella contenente tutti
   i parametri della hit inviata a Google Analytics
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\verifica_upd_15.bmp](./assets/media/image41.png){width="5.363194444444445in"
-height="3.3118055555555554in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\verifica_upd_15.bmp](./assets/media/image41.png)
 
 > e, come nel caso precedente, potremo a questo punto andare a ricercare
 > tra tutti i parametri presenti in questa maschera di dettaglio il
@@ -189,8 +174,7 @@ height="3.3118055555555554in"}
   utente che è stato passato a Google Analytics con la chiamata in
   oggetto
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\verifica_upd_16.bmp](./assets/media/image42.png){width="5.363194444444445in"
-height="3.3118055555555554in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\verifica_upd_16.bmp](./assets/media/image42.png)
 
 > Alcuni di questi dati potranno essere visualizzati in chiaro (es.
 > City, Postal Code, Country ...) perché non essendo dati sensibili

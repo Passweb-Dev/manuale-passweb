@@ -19,8 +19,7 @@ relativo prodotto (per maggiori informazioni in merito si veda anche
 quanto indicato alla sezione "*Componenti Ecommerce -- Componenti
 interni ai componenti Ecommerce -- Componente Punti*" di questo manuale)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_punti_fe.bmp](./assets/media/image395.png){width="5.454861111111111in"
-height="3.279166666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_punti_fe.bmp](./assets/media/image395.png)
 
 **ATTENZIONE! Il componente "Punti" visualizza sempre e soltanto il
 numero di punti che si andrebbero ad accumulare nel momento in cui
@@ -34,8 +33,7 @@ maggiori informazioni in merito si veda anche quanto indicato alla
 sezione "*Componenti Ecommerce -- Componente Punti Premio"* di questo
 manuale)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\punti_premio.bmp](./assets/media/image396.png){width="5.363888888888889in"
-height="3.3506944444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\punti_premio.bmp](./assets/media/image396.png)
 
 In questo senso la voce:
 
@@ -101,14 +99,12 @@ In questo senso i pulsanti "**Scadenza Punti**", "**Reset Punti**" e
 "Raccolta Punti" consentono rispettivamente di:
 
 **Scadenza Punti** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_scadenza_punti.bmp](./assets/media/image365.png){width="0.5652777777777778in"
-height="0.175in"} )**:** consente, all'amministratore del sito, di
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_scadenza_punti.bmp](./assets/media/image365.png) )**:** consente, all'amministratore del sito, di
 modificare la scadenza dei punti già acquisiti dai singoli clienti.
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 "**Impostazione Data Scadenza Punti**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\impostazione_data_scadenza_punti.bmp](./assets/media/image397.png){width="5.759722222222222in"
-height="3.4090277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\impostazione_data_scadenza_punti.bmp](./assets/media/image397.png)
 
 all'interno della quale poter indicare un valore per i seguenti
 parametri:
@@ -131,8 +127,7 @@ parametri:
   scadenza
 
 **Reset Punti** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_reset_punti.bmp](./assets/media/image364.png){width="0.44166666666666665in"
-height="0.175in"} ): consente all'amministratore del sito di azzerare e
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_reset_punti.bmp](./assets/media/image364.png) ): consente all'amministratore del sito di azzerare e
 quindi cancellare tutti i punti legati al sistema di raccolta
 attualmente selezionato.
 
@@ -147,16 +142,14 @@ possibile effettuare un'operazione analoga di reset mirata però sul
 singolo utente.
 
 **Punti Utente** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_punti_utenti.bmp](./assets/media/image398.png){width="0.5131944444444444in"
-height="0.18819444444444444in"} ): consente all'amministratore del sito
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_punti_utenti.bmp](./assets/media/image398.png) ): consente all'amministratore del sito
 di gestire i punti attualmente accumulati, in relazione al sistema di
 raccolta in esame, da ogni singolo utente del sito.
 
 Cliccando su questo pulsante si avrà infatti accesso alla maschera
 "**Lista Punti Utente**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_punti_utente.bmp](./assets/media/image399.png){width="5.792361111111111in"
-height="3.5256944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_punti_utente.bmp](./assets/media/image399.png)
 
 dove sarà possibile visualizzare immediatamente, per ogni utente, il
 relativo "Saldo Punti" (colonna "**Saldo**").
@@ -169,39 +162,34 @@ stessa.
 Una volta impostato un filtro di ricerca, per poterlo poi eliminare sarà
 sufficiente cliccare sull'icona raffigurante una piccola lente di
 ingrandimento con un -- all'interno (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina_filtro.bmp](./assets/media/image29.png){width="0.10416666666666667in"
-height="0.12986111111111112in"} ) che comparirà in testata alla colonna
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina_filtro.bmp](./assets/media/image29.png) ) che comparirà in testata alla colonna
 in corrispondenza della quale è stato impostato il filtro stesso.
 
 Infine è anche possibile ordinare, in maniera crescente e/o decrescente,
 gli elementi in griglia cliccando semplicemente sull'icona raffigurante
 due piccole frecce posta anch' essa in testata ad ogni singola colonna
 della griglia (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_ordinamento_griglia.bmp](./assets/media/image30.png){width="0.12361111111111112in"
-height="0.14930555555555555in"} )
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_ordinamento_griglia.bmp](./assets/media/image30.png) )
 
 L'icona raffigurante una piccola i, posta in corrispondenza di ogni riga
 utente con saldo punti diverso da 0, consente di visualizzare un
 dettaglio sulla ripartizione dei punti accumulati in base alla loro
 scadenza
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_punti_utente_2.bmp](./assets/media/image400.png){width="5.792361111111111in"
-height="3.5256944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_punti_utente_2.bmp](./assets/media/image400.png)
 
 I pulsanti presenti nella barra degli strumenti della maschera "Lista
 Punti Utente" consentono invece di:
 
 - **Transazioni** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_transazioni.bmp](./assets/media/image320.png){width="0.4284722222222222in"
-  height="0.175in"} )**:** consente di visualizzare il dettaglio delle
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_transazioni.bmp](./assets/media/image320.png) )**:** consente di visualizzare il dettaglio delle
   transazioni che hanno portato, per l'utente attualmente selezionato,
   al relativo Saldo Punti.
 
 > Cliccando su questo pulsante verrà infatti visualizzata la maschera
 > "**Transazioni Punti**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\transazioni_punti.bmp](./assets/media/image401.png){width="5.759722222222222in"
-height="3.4090277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\transazioni_punti.bmp](./assets/media/image401.png)
 
 > all'interno della quale potremo trovare l'elenco di tutte le
 > operazioni che hanno portato ad ottenere il relativo saldo.
@@ -238,13 +226,11 @@ height="3.4090277777777778in"}
 > "**Transazioni Punti**" consentono invece di:
 
 - **Elimina** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina.bmp](./assets/media/image95.png){width="0.3506944444444444in"
-  height="0.18819444444444444in"} ): consente di eliminare la
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina.bmp](./assets/media/image95.png) ): consente di eliminare la
   transazione attualmente selezionata in elenco
 
 - **Modifica** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica.bmp](./assets/media/image116.png){width="0.4027777777777778in"
-  height="0.18819444444444444in"} ): consente di modificare la
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica.bmp](./assets/media/image116.png) ): consente di modificare la
   transazione attualmente selezionata in elenco
 
 > **ATTENZIONE!** per ovvie ragioni le operazioni di eliminazione e
@@ -257,14 +243,12 @@ height="3.4090277777777778in"}
 > modificate da questa sezione del Wizard.
 
 - **Aggiungi** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi.bmp](./assets/media/image362.png){width="0.43472222222222223in"
-  height="0.21458333333333332in"} )**:** consente all'amministratore del
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi.bmp](./assets/media/image362.png) )**:** consente all'amministratore del
   sito di aggiungere una nuova transazione andando quindi ad incidere
   direttamente sul saldo punti del relativo cliente. Cliccando su questo
   pulsante verrà infatti visualizzata la maschera "Transazione"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\transazione.bmp](./assets/media/image402.png){width="5.759722222222222in"
-height="3.4090277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\transazione.bmp](./assets/media/image402.png)
 
 > all'interno della quale poter indicare il numero di punti coinvolti
 > nella transazione in esame (campo "**Punti**"), un eventuale data di
@@ -280,20 +264,17 @@ height="3.4090277777777778in"}
 > indicati verranno invece sottratti dal Saldo attuale
 
 - **Reset** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_reset.bmp](./assets/media/image403.png){width="0.2659722222222222in"
-  height="0.175in"} ): consente di eliminare l'elenco delle transazioni
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_reset.bmp](./assets/media/image403.png) ): consente di eliminare l'elenco delle transazioni
   che avevano portato al relativo Saldo Punti, resettando e quindi
   cancellando in maniera definitiva tutti i punti accumulati dall'utente
   in esame
 
 - **Importa da file** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_importa_da_file.bmp](./assets/media/image319.png){width="0.6236111111111111in"
-  height="0.1951388888888889in"} ): consente di modificare in maniera
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_importa_da_file.bmp](./assets/media/image319.png) ): consente di modificare in maniera
   massiva il saldo punti di più utenti contemporaneamente.
 
 - **Esporta** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_esporta_testo.bmp](./assets/media/image329.png){width="0.3506944444444444in"
-  height="0.18194444444444444in"} )**:** consente di esportare
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_esporta_testo.bmp](./assets/media/image329.png) )**:** consente di esportare
   all'interno di un apposito file csv / txt il residuo punti di ciascun
   utente del sito.
 

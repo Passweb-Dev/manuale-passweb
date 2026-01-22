@@ -12,8 +12,7 @@ contenere anche valori numerici o un indirizzo mail.
 Una volta inserito il Componente all'interno del form, verrà aperta in
 automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\Form_modifica_campo_text_box_res.bmp](./assets/media/image121.png){width="5.116666666666666in"
-height="3.084722222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\Form_modifica_campo_text_box_res.bmp](./assets/media/image121.png)
 
 suddivisa in varie sezioni.
 
@@ -204,8 +203,7 @@ parametri:
 > mail (1) e configuralo inserendo all'interno del campo Id/Name, il
 > segnaposto "email" (2)**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_invio_mail_utente_res.bmp](./assets/media/image122.png){width="5.110416666666667in"
-height="3.071527777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_invio_mail_utente_res.bmp](./assets/media/image122.png)
 
 > In queste condizioni oltre all'indirizzo inserito all'interno del
 > campo "Indirizzo E-mail" presente tra i parametri di configurazione
@@ -272,8 +270,7 @@ height="3.071527777777778in"}
 > verrà visualizzato anche un apposito messaggio per informare l'utente
 > relativamente al range di valori accettati dal campo in esame
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\range_min_max_input_testo.bmp](./assets/media/image123.png){width="5.104166666666667in"
-height="3.071527777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\range_min_max_input_testo.bmp](./assets/media/image123.png)
 
 - **Step:** visibile solo nel caso in cui il campo "**Tipo Valore**" sia
   impostato su "**Numerico**" o "**Decimale**"
@@ -291,8 +288,7 @@ height="3.071527777777778in"}
 > del fatto che il valore da inserire all'interno del campo dovrà essere
 > necessariamente un multiplo dello step indicato.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\step_input_testo.bmp](./assets/media/image124.png){width="5.104166666666667in"
-height="3.071527777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\step_input_testo.bmp](./assets/media/image124.png)
 
 > Il testo in questione potrà essere personalizzato alla pagina
 > "**Gestione Testi / Messaggi del Sito** (componente "Form" campo

@@ -17,19 +17,16 @@ due modi diversi:
 Per procedere in maniera manuale è necessario selezionare, all'interno
 della maschera **"Lista delle Serie"** precedentemente analizzata, la
 serie in esame e cliccare poi sul pulsante **Modifica Taglie/Colori**
-(![Videate\\pulsante_modifica_taglie_colori.bmp](./assets/media/image323.png){width="0.7597222222222222in"
-height="0.175in"} ) presente nella contestuale barra degli strumenti.
+(![Videate\\pulsante_modifica_taglie_colori.bmp](./assets/media/image323.png) ) presente nella contestuale barra degli strumenti.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_taglie_colori_generale.bmp](./assets/media/image324.png){width="5.707638888888889in"
-height="3.4805555555555556in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_taglie_colori_generale.bmp](./assets/media/image324.png)
 
 In questo modo sarà infatti possibile accedere alla maschera **"Modifica
 Elementi della Serie"** attraverso la quale poter impostare le
 descrizioni i colori e l'ordinamento dei vari elementi componenti la
 serie attualmente selezionata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_elementi_serie.bmp](./assets/media/image325.png){width="5.5777777777777775in"
-height="3.5256944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_elementi_serie.bmp](./assets/media/image325.png)
 
 Nello specifico, per ciascun elemento della serie presente all'interno
 di questa maschera il campo:
@@ -115,8 +112,7 @@ background**" saranno poi quelli visualizzati sul front end del sito:
   componente "**Dati Articolo**" mappato sul campo "**Taglie**" o
   "**Taglie Disponibili**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dati_articolo_taglie_colori.bmp](./assets/media/image326.png){width="5.389583333333333in"
-height="3.265972222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dati_articolo_taglie_colori.bmp](./assets/media/image326.png)
 
 > Per maggiori informazioni in merito alla possibilità di inserire in
 > una cella articolo o nella scheda articolo le taglie/colori
@@ -127,8 +123,7 @@ height="3.265972222222222in"}
 
 - nei controlli di selezione della taglia / colore da acquistare
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\selezione_colore_acquisto.bmp](./assets/media/image327.png){width="5.5777777777777775in"
-height="3.33125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\selezione_colore_acquisto.bmp](./assets/media/image327.png)
 
 - nel momento in cui si dovesse decidere di implementare dei filtri di
   ricerca articolo basati sulle taglie/colori utilizzando in questo
@@ -136,8 +131,7 @@ height="3.33125in"}
   "**Filtro Lista**" mappati sul campo "**Taglie**" o "**Taglie
   Disponibili**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ricerca_articolo_taglie_colori.bmp](./assets/media/image328.png){width="5.389583333333333in"
-height="3.265972222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ricerca_articolo_taglie_colori.bmp](./assets/media/image328.png)
 
 > **ATTENZIONE!** il colore associato al relativo elemento della serie
 > di taglie/colori verrà visualizzata solo all'interno di **Filtri
@@ -156,19 +150,16 @@ massivamente i parametri di configurazione (descrizione, posizione,
 colore ...) dei vari elementi componenti la serie attualmente
 selezionata in elenco sarà necessario cliccare sul pulsante "**Importa
 Taglie**"
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_importa_taglie.bmp](./assets/media/image322.png){width="0.5131944444444444in"
-height="0.175in"} ) presente anch'esso nella relativa barra degli
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_importa_taglie.bmp](./assets/media/image322.png) ) presente anch'esso nella relativa barra degli
 strumenti
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\importa_taglie_generale.bmp](./assets/media/image329.png){width="5.707638888888889in"
-height="3.4805555555555556in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\importa_taglie_generale.bmp](./assets/media/image329.png)
 
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 **"File Taglie"** mediante la quale poter effettuare l'upload del file
 contenente tutte le informazioni desiderate.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\file_taglie.bmp](./assets/media/image330.png){width="5.383333333333334in"
-height="3.220833333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\file_taglie.bmp](./assets/media/image330.png)
 
 Nello specifico il campo:
 
@@ -205,8 +196,7 @@ dovranno essere rispettate delle regole ben precise. Nello specifico
   taglia/colore (es. 1,2,3 ecc...) cui associare la successiva
   descrizione.
 
-![Videate\\codici_taglia.bmp](./assets/media/image331.png){width="4.285416666666666in"
-height="2.8118055555555554in"}
+![Videate\\codici_taglia.bmp](./assets/media/image331.png)
 
 > In corrispondenza del campo "**descrizione**" (campo alfanumerico)
 > andrà indicata la descrizione in lingua della relativa taglia/colore.
@@ -259,12 +249,10 @@ che dovrà poi essere la struttura del file di importazione affinché la
 relativa procedura possa terminare con successo
 
 Cliccando quindi sul pulsante "**Esporta Taglie**"
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_esporta_taglie.bmp](./assets/media/image321.png){width="0.5131944444444444in"
-height="0.175in"} ) presente nella relativa barra degli strumenti verrà
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_esporta_taglie.bmp](./assets/media/image321.png) ) presente nella relativa barra degli strumenti verrà
 visualizzata la maschera "**Esportazione Taglie**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\esportazione_taglie.bmp](./assets/media/image332.png){width="5.545138888888889in"
-height="3.3048611111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\esportazione_taglie.bmp](./assets/media/image332.png)
 
 all'interno della quale poter configurare l'esportazione dei dati.
 

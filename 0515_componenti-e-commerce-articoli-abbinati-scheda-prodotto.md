@@ -4,8 +4,7 @@
 
 Il Componente **"Articoli Abbinati E-Commerce"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_abbinati.bmp](./assets/media/image120.png){width="2.8097222222222222in"
-height="3.4659722222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_abbinati.bmp](./assets/media/image120.png)
 
 **può essere inserito unicamente all'interno del Componente Ecommerce di
 primo livello "Scheda Prodotto"**.

@@ -18,8 +18,7 @@ componente "Contenuti su Tabs" ecc...
 Ogni componente di questo tipo è caratterizzato, inoltre, dalla
 presenza, nel suo R.O.C. dell'icona "**Accedi ai componenti interni**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\live_editing_modifica-componente-comp_interni_res.bmp](./assets/media/image275.png){width="1.5090277777777779in"
-height="0.6256944444444444in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\live_editing_modifica-componente-comp_interni_res.bmp](./assets/media/image275.png)
 
 icona questa di fondamentale importanza in quanto consente, come
 precedentemente evidenziato, di accedere alla struttura interna del
@@ -38,13 +37,11 @@ aggiungere di nuovi, operando esattamente allo stesso modo in cui si
 opera per selezionare e gestire i normali componenti di primo livello.
 
 Cliccando, ad esempio, sull'icona "**Nuovo Componente** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\icona_nuovo_componente.bmp](./assets/media/image276.png){width="0.23333333333333334in"
-height="0.19652777777777777in"} )" presente nella Barra degli Strumenti
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\icona_nuovo_componente.bmp](./assets/media/image276.png) )" presente nella Barra degli Strumenti
 del Live Editing verrà visualizzata la libreria dei componenti da poter
 inserire all'interno del contenitore in esame
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\libreria_componenti_res_2.bmp](./assets/media/image186.png){width="5.779166666666667in"
-height="3.4972222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\libreria_componenti_res_2.bmp](./assets/media/image186.png)
 
 > **NOTA BENE:** i componenti che possono essere inseriti all'interno di
 > un Componente di tipo Contenitore, possono variare in relazione alla

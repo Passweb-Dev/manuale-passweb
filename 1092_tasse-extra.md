@@ -10,13 +10,11 @@ prodotto.
 
 Per codificare una tassa di questo tipo sarà necessario cliccare sul
 pulsante **Aggiungi Tassa**
-(![Videate\\pulsante_aggiungi_tassa.bmp](./assets/media/image444.png){width="0.5909722222222222in"
-height="0.175in"} ) presente nella barra degli strumenti della maschera
+(![Videate\\pulsante_aggiungi_tassa.bmp](./assets/media/image444.png) ) presente nella barra degli strumenti della maschera
 "**Tasse**" precedentemente analizzata e, successivamente, impostare il
 parametro "**Tipologia Tassa**" sull'opzione "**Tassa Extra**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tassa_extra_configurazione.bmp](./assets/media/image445.png){width="5.565277777777778in"
-height="3.292361111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tassa_extra_configurazione.bmp](./assets/media/image445.png)
 
 I restanti parametri presenti all'interno di questa maschera consentono
 rispettivamente di:

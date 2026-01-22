@@ -99,8 +99,7 @@ configurazioni sia lato Passweb che lato GA4. Nello specifico:
   "**Tracciamento Dati**") dopo aver selezionato come metodo di
   tracciamento **Google Analytics 4**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ga4_58.bmp](./assets/media/image4.png){width="5.726388888888889in"
-height="3.34375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ga4_58.bmp](./assets/media/image4.png)
 
 > In questo senso è anche bene sottolineare che, come richiesto da
 > Google, una volta attivato il parametro in questione:
@@ -110,8 +109,7 @@ height="3.34375in"}
   non consente a strumenti di terze parti di risalire all'effettiva
   identità dell'utente
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ga4_59.bmp](./assets/media/image5.png){width="5.777083333333334in"
-height="3.4138888888888888in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ga4_59.bmp](./assets/media/image5.png)
 
 - lo User ID verrà impostato a livello di tag di configurazione e verrà
   quindi inviato assieme a tutti gli eventi gestiti dal proprio sito
@@ -125,8 +123,7 @@ height="3.4138888888888888in"}
   sezione "**Data Display -- Reporting Identity**" presente
   nell'interfaccia di amministrazione della relativa proprietà GA4
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ga4_60.bmp](./assets/media/image6.png){width="5.726388888888889in"
-height="3.34375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ga4_60.bmp](./assets/media/image6.png)
 
 **ATTENZIONE!** GA4 imposta a default l'Identificazione nei report
 sull'opzione "**Blended**" il che significa che verranno valutati,

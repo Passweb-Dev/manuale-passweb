@@ -20,17 +20,14 @@ Una volta selezionata, tra quelle presenti all'interno della maschera
 "**Lista delle tipologie immagini**", la tipologia di immagine su cui
 intervenire
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cms_img_mobile_1.bmp](./assets/media/image564.png){width="5.532638888888889in"
-height="3.265972222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cms_img_mobile_1.bmp](./assets/media/image564.png)
 
 sarà sufficiente cliccare sul pulsante "**Modifica**" (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica.bmp](./assets/media/image349.png){width="0.3958333333333333in"
-height="0.18819444444444444in"} ) presente nella contestuale barra degli
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica.bmp](./assets/media/image349.png) ) presente nella contestuale barra degli
 strumenti per accedere alla maschera "**Configurazione immagine
 smartphone**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cms_img_mobile_2.bmp](./assets/media/image565.png){width="5.792361111111111in"
-height="3.422222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cms_img_mobile_2.bmp](./assets/media/image565.png)
 
 all'interno della quale poter specificare:
 

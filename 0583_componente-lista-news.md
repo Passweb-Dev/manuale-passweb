@@ -5,8 +5,7 @@
 Il componente "**Lista News**" può essere utilizzato in una qualsiasi
 pagina del sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_lista_news_res.bmp](./assets/media/image1.png){width="2.0909722222222222in"
-height="2.5388888888888888in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_lista_news_res.bmp](./assets/media/image1.png)
 
 e consente di pubblicare un elenco di alcune delle notizie codificate
 all'interno della corrispondente sezione del Wizard.
@@ -23,8 +22,7 @@ un numero ben preciso di notizie (magari anche solo l'ultima) con poche
 informazioni, tra le quali un breve testo introduttivo (Sommario) e un
 link al Dettaglio Articolo dell'articolo stesso.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\cms_esempiolistanews.bmp](./assets/media/image2.png){width="4.980555555555555in"
-height="3.50625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\cms_esempiolistanews.bmp](./assets/media/image2.png)
 
 > **NOTA BENE:** per maggiori informazioni relativamente a come inserire
 > lato Wizard le varie notizie che dovranno poi essere pubblicati

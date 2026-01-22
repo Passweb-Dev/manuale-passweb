@@ -19,8 +19,7 @@ querystring da copiare poi all'interno del parametro "Ricerca Iniziale":
 1.  Accedere al live editing del proprio sito e aprire la maschera di
     gestione delle Varianti
 
-![Videate\\variante_4_res.bmp](./assets/media/image200.png){width="5.155555555555556in"
-height="2.49375in"}
+![Videate\\variante_4_res.bmp](./assets/media/image200.png)
 
 2.  Selezionare la Variante che dovrà essere utilizzata per determinare
     il filtro iniziale da applicare al pannello di ricerca (tipicamente
@@ -53,8 +52,7 @@ height="2.49375in"}
 4.  Utilizzare il pannello di ricerca per impostare e applicare il
     filtro desiderato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\querystring_ricerca_testuale_1.bmp](./assets/media/image201.png){width="6.00625in"
-height="3.49375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\querystring_ricerca_testuale_1.bmp](./assets/media/image201.png)
 
 > Nell'esempio in figura è stato impostato un filtro di ricerca testuale
 > sulla stringa "supporto"
@@ -64,20 +62,17 @@ height="3.49375in"}
     una piccola icona "**Copia**" grazie alla quale poter ottenere la
     querystring corrispondente al filtro appena impostato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\querystring_ricerca_testuale_2.bmp](./assets/media/image202.png){width="6.00625in"
-height="3.49375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\querystring_ricerca_testuale_2.bmp](./assets/media/image202.png)
 
 6.  Cliccare quindi sull'icona "**Copia**" per copiare nella Clipboard
     (Appunti) la relativa querystring
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\querystring_ricerca_testuale_3.bmp](./assets/media/image203.png){width="6.00625in"
-height="3.49375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\querystring_ricerca_testuale_3.bmp](./assets/media/image203.png)
 
 > ed incollarla all'interno del parametro "**Ricerca Iniziale**"
 > presente nella maschera di configurazione del pannello di ricerca
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtro_testuale_iniziale_1.bmp](./assets/media/image205.png){width="5.110416666666667in"
-height="3.071527777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtro_testuale_iniziale_1.bmp](./assets/media/image205.png)
 
 > **ATTENZIONE!** Una volta impostato il parametro "Ricerca Iniziale"
 > come evidenziato in figura, ogni volta in cui un utente effettuerà

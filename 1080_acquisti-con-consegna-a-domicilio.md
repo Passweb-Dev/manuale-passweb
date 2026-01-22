@@ -15,8 +15,7 @@ consegna a domicilio, gli verrà automaticamente visualizzato un primo
 campo (obbligatorio) all'interno del quale potrà indicare esattamente il
 giorno in cui desidera ricevere la merce
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\delivery_acquisto_1.bmp](./assets/media/image380.png){width="5.038888888888889in"
-height="3.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\delivery_acquisto_1.bmp](./assets/media/image380.png)
 
 I giorni effettivamente selezionabili all'interno del calendario
 dipenderanno:
@@ -36,8 +35,7 @@ visualizzato un ulteriore campo all'interno del quale l'utente potrà
 selezionare, tra quelli disponibili, l'intervallo orario in cui
 desidererebbe ricevere la merce
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\delivery_acquisto_2.bmp](./assets/media/image402.png){width="5.038888888888889in"
-height="3.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\delivery_acquisto_2.bmp](./assets/media/image402.png)
 
 Gli intervalli orari selezionabili in questa fase dipenderanno:
 
@@ -85,8 +83,7 @@ Una volta confermato l'ordine, la data e l'intervallo orario selezionati
 - nel riepilogo del documento all'interno del box relativo alla
   spedizione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\delivery_acquisto_3.bmp](./assets/media/image403.png){width="5.038888888888889in"
-height="3.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\delivery_acquisto_3.bmp](./assets/media/image403.png)
 
 - nel dettaglio di Ordini/Bolle/Fatture in Area Riservata, nelle Stampe
   e nelle varie Email inviate in automatico dall'applicazione in
@@ -95,8 +92,7 @@ height="3.545138888888889in"}
   all'interno del campo "Dettaglio" nella sezione "Documento" della
   maschera di "Configurazione Ordini"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\delivery_acquisto_4.bmp](./assets/media/image404.png){width="5.792361111111111in"
-height="3.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\delivery_acquisto_4.bmp](./assets/media/image404.png)
 
 > Per maggiori informazioni in merito al campo "Dettaglio" si veda anche
 > quanto indicato nel successivo capitolo "Ordini -- Configurazione
@@ -107,16 +103,14 @@ gestionale, le informazioni relative alla data e all'ora di consegna
 verranno inserite come nota di corpo del relativo documento con
 indicato: **#Consegna \<data\> \<intervallo orario\>#**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\delivery_acquisto_5.bmp](./assets/media/image405.png){width="5.220833333333333in"
-height="2.6166666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\delivery_acquisto_5.bmp](./assets/media/image405.png)
 
 Inoltre i campi Data e Ora di inizio trasporto presenti nel piede del
 documento gestionale verranno valorizzati automaticamente con la data
 indicata per la consegna e, se presente, con l\'orario iniziale
 dell\'intervallo selezionato.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\delivery_acquisto_6.bmp](./assets/media/image406.png){width="4.104166666666667in"
-height="1.8569444444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\delivery_acquisto_6.bmp](./assets/media/image406.png)
 
 Per organizzare al meglio le consegne sarà quindi possibile:
 

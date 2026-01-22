@@ -70,8 +70,7 @@ quindi:
   Segreta**" presenti all'interno della sezione "**Pagamento
   Ricorrente**" evidenziata in figura
 
-![Videate\\nexi_pagamento_ricorsivo.bmp](./assets/media/image130.png){width="5.798611111111111in"
-height="4.0in"}
+![Videate\\nexi_pagamento_ricorsivo.bmp](./assets/media/image130.png)
 
 > In questo senso, considerando che Passweb si occupa, come detto di
 > gestire solo il primo pagamento **i valori da inserire all'interno dei
@@ -96,21 +95,18 @@ direttamente dal backoffice di Nexi, potrà essere gestito in Passweb:
   "**Nota nuovo Ordine**" alla pagina "**Configurazione Parametri
   Ordine**" del Wizard )
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\segnaposto_nexi_nota_ordine.bmp](./assets/media/image131.png){width="5.798611111111111in"
-height="4.0in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\segnaposto_nexi_nota_ordine.bmp](./assets/media/image131.png)
 
 > Utilizzando il segnaposto evidenziato in figura il codice contratto
 > creato su Nexi verrà quindi riportato anche nella nota di testata
 > dell'ordine inserito all'interno del gestionale
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\segnaposto_nexi_nota_ordine_mexal.bmp](./assets/media/image132.png){width="5.454861111111111in"
-height="3.571527777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\segnaposto_nexi_nota_ordine_mexal.bmp](./assets/media/image132.png)
 
 - Come segnaposto nel dettaglio documento (tab "**Documento**" alla
   pagina "**Configurazione Parametri Ordine**" del Wizard)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\segnaposto_nexi_dettaglio_documento.bmp](./assets/media/image133.png){width="5.798611111111111in"
-height="4.0in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\segnaposto_nexi_dettaglio_documento.bmp](./assets/media/image133.png)
 
 > Utilizzando il segnaposto evidenziato in figura il codice contratto
 > creato su Nexi potrà quindi essere riportato anche nel dettaglio
@@ -120,8 +116,7 @@ height="4.0in"}
 - Come segnaposto per il parametro "**Dettaglio**" presente nella
   maschera di configurazione del pagamento
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\segnaposto_nexi_dettaglio_pagamento.bmp](./assets/media/image134.png){width="5.798611111111111in"
-height="4.2659722222222225in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\segnaposto_nexi_dettaglio_pagamento.bmp](./assets/media/image134.png)
 
 > Utilizzando il segnaposto evidenziato in figura il codice contratto
 > creato su Nexi potrà quindi essere riportato anche nel dettaglio
@@ -130,8 +125,7 @@ height="4.2659722222222225in"}
 - nel dettaglio del documento visualizzabile direttamente all'interno
   del Wizard
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\segnaposto_nexi_dettaglio_documento_wizard.bmp](./assets/media/image135.png){width="5.798611111111111in"
-height="4.363888888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\segnaposto_nexi_dettaglio_documento_wizard.bmp](./assets/media/image135.png)
 
 - come campo presente nel tracciato record degli ordini esportati dal
   Wizard di Passweb
@@ -171,8 +165,7 @@ Ora per poter ottenere un risultato di questo tipo sarà necessario:
   di vendita**" disponibile nelle videate aggiuntive articolo Mexal
   riservate a Passweb
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\qta_max_vendita.bmp](./assets/media/image136.png){width="4.798611111111111in"
-height="1.9222222222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\qta_max_vendita.bmp](./assets/media/image136.png)
 
 > **ATTENZIONE!** per maggiori informazioni in merito alla funzionalità
 > "Quantità massima di vendita" si veda quanto indicato all'interno del
@@ -196,8 +189,7 @@ height="1.9222222222222223in"}
 > "**Configurazione Catalogo**" del Wizard sull'opzione "**Modifica riga
 > articolo**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\qta_max_vendita_2.bmp](./assets/media/image137.png){width="5.798611111111111in"
-height="3.8180555555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\qta_max_vendita_2.bmp](./assets/media/image137.png)
 
 > In queste condizioni infatti nel momento in cui l'utente dovesse
 > cercare di inserire in carrello due volte lo stesso servizio, non

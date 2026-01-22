@@ -5,8 +5,7 @@
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\commenti_cms_configurazione_res.bmp](./assets/media/image31.png){width="4.623611111111111in"
-height="3.0909722222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\commenti_cms_configurazione_res.bmp](./assets/media/image31.png)
 
 suddivisa in varie sezioni.
 
@@ -56,8 +55,7 @@ sito. In particolare sarà possibile selezionare uno dei seguenti valori:
 > l'utente della possibilità di inserire nuovi commenti solo previa
 > autenticazione.
 
-![\\\\192.168.0.84\\d\$\\ManPassweb_Ecommerce\\Videate\\commenti_0.bmp](./assets/media/image32.png){width="6.013194444444444in"
-height="4.467361111111111in"}
+![\\\\192.168.0.84\\d\$\\ManPassweb_Ecommerce\\Videate\\commenti_0.bmp](./assets/media/image32.png)
 
 - **Visibilità del Box della Text Area Commento tramite
   Autenticazione:** selezionando questo valore tutti gli utenti del
@@ -69,8 +67,7 @@ height="4.467361111111111in"}
 > In queste condizioni, inoltre, la text-area per l'inserimento di un
 > nuovo commento verrà visualizzata ai soli utenti autenticati.
 
-![\\\\192.168.0.84\\d\$\\ManPassweb_Ecommerce\\Videate\\commenti_1.bmp](./assets/media/image33.png){width="6.013194444444444in"
-height="4.467361111111111in"}
+![\\\\192.168.0.84\\d\$\\ManPassweb_Ecommerce\\Videate\\commenti_1.bmp](./assets/media/image33.png)
 
 - **Visibilità del Box della Text Area Commento e del Box dei Commenti
   tramite autenticazione:** selezionando questo valore la possibilità di
@@ -111,8 +108,7 @@ della porzione del componente contenente i commenti già effettuati.
 l'immagine del proprio Avatar a fianco del box di inserimento di nuovi
 commenti.
 
-![\\\\192.168.0.84\\d\$\\ManPassweb_Ecommerce\\Videate\\visualizza_avatar_cms.bmp](./assets/media/image34.png){width="4.746527777777778in"
-height="3.532638888888889in"}
+![\\\\192.168.0.84\\d\$\\ManPassweb_Ecommerce\\Videate\\visualizza_avatar_cms.bmp](./assets/media/image34.png)
 
 **Percorso immagine Avatar:** consente di impostare l'immagine di
 default da utilizzare per l'Avatar degli utenti che non ne abbiano
@@ -122,8 +118,7 @@ indicato uno proprio.
 controllo, costituito a default da 5 stelle, che l'utente dovrà
 utilizzare per dare un voto alla notizia che intende commentare.
 
-![\\\\192.168.0.84\\d\$\\ManPassweb_Ecommerce\\Videate\\visualizza_rating_cms.bmp](./assets/media/image35.png){width="4.746527777777778in"
-height="3.532638888888889in"}
+![\\\\192.168.0.84\\d\$\\ManPassweb_Ecommerce\\Videate\\visualizza_rating_cms.bmp](./assets/media/image35.png)
 
 **ATTENZIONE!! Nel caso in cui sia stato selezionato il precedente
 parametro "Commento obbligatorio", per poter assegnare un voto alla news
@@ -193,8 +188,7 @@ componente in oggetto, un menu a tendina contenente l'elenco dei valori
 immessi (compreso anche, ovviamente, il valore indicato all'interno del
 precedente parametro "Numero di commenti da visualizzare per Pagina").
 
-![\\\\192.168.0.84\\d\$\\ManPassweb_Ecommerce\\Videate\\commenti_elementi_per_pagina.bmp](./assets/media/image36.png){width="6.065277777777778in"
-height="4.383333333333334in"}
+![\\\\192.168.0.84\\d\$\\ManPassweb_Ecommerce\\Videate\\commenti_elementi_per_pagina.bmp](./assets/media/image36.png)
 
 Selezionando uno dei valori presenti in elenco il componente verrà
 ricaricato e popolato con il numero di articoli per pagina indicati

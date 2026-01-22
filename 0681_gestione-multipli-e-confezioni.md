@@ -18,8 +18,7 @@ impostato sul valore:
   di misura. In queste condizioni dunque la vendita dell'articolo
   all'interno del sito avverrà per quantità multiple.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_multipli_confezioni_1.bmp](./assets/media/image137.png){width="5.863888888888889in"
-height="3.5388888888888888in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_multipli_confezioni_1.bmp](./assets/media/image137.png)
 
 > In conseguenza di ciò, nel momento in cui si dovesse decidere di
 > acquistare, sul sito Ecommerce, l'articolo evidenziato in figura
@@ -61,8 +60,7 @@ height="3.5388888888888888in"}
   comunque, è solamente propositiva e potrà essere modificata secondo le
   specifiche esigenze dell'utente.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_multipli_confezioni_2.bmp](./assets/media/image138.png){width="5.863888888888889in"
-height="3.5388888888888888in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_multipli_confezioni_2.bmp](./assets/media/image138.png)
 
 > Supponendo dunque di aver inserito, come evidenziato in figura, in
 > corrispondenza del campo " **qta. conf**" il valore 5 sarà poi
@@ -78,8 +76,7 @@ height="3.5388888888888888in"}
 > Parametri Catalogo -- Catalogo Ho.Re.Ca.*" del Wizard, oppure
 > all'interno dell'Anagrafica Passweb del relativo articolo.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_multipli_confezioni_3.bmp](./assets/media/image139.png){width="5.792361111111111in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_multipli_confezioni_3.bmp](./assets/media/image139.png)
 
 > Per maggiori informazioni in merito si veda anche la sezione
 > "*Catalogo -- Configurazione Parametri Catalogo -- Catalogo Mexal --

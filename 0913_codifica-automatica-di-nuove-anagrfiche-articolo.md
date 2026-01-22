@@ -28,8 +28,7 @@ gestione di questo parametro si veda anche quanto indicato all'interno
 del capitolo "*Altri Marketplace -- Prestashop -- Configurazione
 Ordini*" di questo manuale)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\codifica_articoli_prestashop1.bmp](./assets/media/image705.png){width="5.792361111111111in"
-height="3.422222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\codifica_articoli_prestashop1.bmp](./assets/media/image705.png)
 
 In queste condizioni dunque nel momento in cui sull'ordine acquisto da
 Prestashop dovesse essere presente un articolo non ancora codificato sul
@@ -39,8 +38,7 @@ seguendo le regole di seguito indicate:
 - Il **codice articolo sul gestionale** corrisponderà a quanto inserito
   su Prestashop in corrispondenza del campo "**Riferimento**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\prestashop_riferimento.bmp](./assets/media/image706.png){width="5.038888888888889in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\prestashop_riferimento.bmp](./assets/media/image706.png)
 
 > **ATTENZIONE!** per non ottenere errori in fase di codifica del nuovo
 > articolo è di fondamentale importanza verificare che il numero di
@@ -80,14 +78,12 @@ height="3.532638888888889in"}
 > dell'articolo creato in Mexal corrisponderà esattamente con quanto
 > indicato all'interno di questo stesso campo:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\riferimento_combinazione_prestashop.bmp](./assets/media/image707.png){width="5.143055555555556in"
-height="3.33125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\riferimento_combinazione_prestashop.bmp](./assets/media/image707.png)
 
 - La **descrizione dell'articolo sul gestionale** corrisponderà al
   **Nome Prodotto** impostato su Prestashop.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\prestashop_nome_prodotto.bmp](./assets/media/image708.png){width="5.038888888888889in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\prestashop_nome_prodotto.bmp](./assets/media/image708.png)
 
 > Anche in questo caso è di fondamentale importanza tenere sempre in
 > considerazione il numero massimo di caratteri effettivamente

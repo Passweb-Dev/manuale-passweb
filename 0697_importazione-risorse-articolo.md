@@ -47,8 +47,7 @@ Risorse**" presente, nella maschera di configurazione dei parametri di
 sincronizzazione, all'interno della sezione **"Importazione Risorse
 Articolo"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\importazione_risorse_articolo.bmp](./assets/media/image177.png){width="5.883333333333334in"
-height="1.2534722222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\importazione_risorse_articolo.bmp](./assets/media/image177.png)
 
 Il campo **"Data di ultima importazione delle risorse articolo"**
 consente di specificare una data a partire dalla quale dovrà essere
@@ -114,8 +113,7 @@ Il parametro "**Importa risorse articoli (solo se automatica e Mexal \>=
 2023H)**" presente solo per siti Ecommerce collegati a Mexal e valido
 solo per versioni di Mexal successive alla 2023H
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\schedulazione_importa_risorse.bmp](./assets/media/image178.png){width="5.532638888888889in"
-height="3.49375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\schedulazione_importa_risorse.bmp](./assets/media/image178.png)
 
 consente di automatizzare la procedura in esame.
 
@@ -145,8 +143,7 @@ l'esito verrà notificato via mail all'indirizzo indicato in
 corrispondenza del campo **E-mail** presente all'interno della sezione
 "**Parametri importazione risorse**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\parametri_importazione_risorse.bmp](./assets/media/image179.png){width="5.565277777777778in"
-height="3.49375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\parametri_importazione_risorse.bmp](./assets/media/image179.png)
 
 **ATTENZIONE!** nel caso in cui il campo E-mail evidenziato in figura
 non dovesse essere valorizzato, la mail di notifica verrà inviata

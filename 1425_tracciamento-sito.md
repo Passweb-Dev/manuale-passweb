@@ -45,8 +45,7 @@ Analytics, utilizzando lo snippet di codice presente all'interno del
 backend di ActiveCampaign (sezione "**Sito Web -- Monitoraggio del
 sito**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\activecampaign_codice_monitoraggio.bmp](./assets/media/image15.png){width="5.5in"
-height="3.4743055555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\activecampaign_codice_monitoraggio.bmp](./assets/media/image15.png)
 
 **ATTENZIONE! Il tracciamento lato client prende in considerazione solo
 ed esclusivamente la visita alle pagine del sito**
@@ -78,8 +77,7 @@ uno specifico contatto e, in queste condizioni, verranno visualizzati
 proprio nell'anagrafica di quello stesso contatto (sezione "**Attività
 Recenti**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\timeline_activecampaign.bmp](./assets/media/image16.png){width="5.5in"
-height="3.4743055555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\timeline_activecampaign.bmp](./assets/media/image16.png)
 
 Un punto fondamentale in tutto il processo, quindi, sarà proprio quello
 di riuscire ad identificare i vari contatti a cui associare gli eventi
@@ -91,8 +89,7 @@ riguarda più nel dettaglio la possibilità di monitorare eventi custom.
 Deve essere attivato in maniera specifica operando sempre dalla pagina
 "**Sito Web -- Monitoraggio del sito**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\activecampaign_monitoraggio_eventi.bmp](./assets/media/image17.png){width="5.5in"
-height="3.298611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\activecampaign_monitoraggio_eventi.bmp](./assets/media/image17.png)
 
 e, soprattutto, richiede di interagire con le API messe a disposizione
 da ActiveCampaign utilizzando un linguaggio lato server

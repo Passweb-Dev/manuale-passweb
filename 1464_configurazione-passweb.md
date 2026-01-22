@@ -14,8 +14,7 @@ Integrazioni**" presente all'interno della sezione "**Integrazioni**"
 del menu "**Sito**" in modo tale da accedere alla maschera "**Lista
 degli Account**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ac_2.bmp](./assets/media/image12.png){width="5.454861111111111in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ac_2.bmp](./assets/media/image12.png)
 
 contenente l'elenco di tutti gli Account relativi alle piattaforme di
 Marketing (diverse da MailChimp) attualmente collegate e integrate con
@@ -26,8 +25,7 @@ strumenti, consentirà di accedere alla maschera "**Dati Account**"
 all'interno della quale poter impostare tutti i parametri necessari per
 attivare l'integrazione tra il proprio sito Passweb e il Bot Telegram
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ac_3.bmp](./assets/media/image13.png){width="5.454861111111111in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ac_3.bmp](./assets/media/image13.png)
 
 In questo senso il campo:
 
@@ -41,8 +39,7 @@ In questo senso il campo:
 Nel caso in esame sarà quindi necessario impostare quest'ultimo campo
 sul valore "**Telegram**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\telegram_configurazione_1.bmp](./assets/media/image14.png){width="5.454861111111111in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\telegram_configurazione_1.bmp](./assets/media/image14.png)
 
 In questo modo verrà infatti visualizzata la sezione "**Credenziali**"
 all'interno della quale poter impostare i parametri di configurazione
@@ -73,8 +70,7 @@ Una volta effettuato il salvataggio dell'Account compariranno:
 
 - Il nuovo tab "**Configurazione Invio Messaggi**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\telegram_configurazione_2.bmp](./assets/media/image15.png){width="5.454861111111111in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\telegram_configurazione_2.bmp](./assets/media/image15.png)
 
 Per maggiori informazioni relativamente a ciascuna delle sezioni sopra
 evidenziate si vedano i successivi capitoli di questo manuale.

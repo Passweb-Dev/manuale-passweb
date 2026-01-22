@@ -6,8 +6,7 @@ All'interno della sezione "**Ordini**" è possibile decidere se l'Account
 in esame dovrà interagire o meno con Amazon anche a livello di ordini ed
 eventualmente in che modo.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\account_amazon_ordini.bmp](./assets/media/image191.png){width="5.597222222222222in"
-height="3.441666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\account_amazon_ordini.bmp](./assets/media/image191.png)
 
 Nello specifico il campo:
 
@@ -164,8 +163,7 @@ all'interno del Marketplace con "Spedizioni Express"
 solo ed esclusivamente all'interno del Back end di Amazon dalla relativa
 sezione "Impostazioni di Spedizione".**
 
-![Videate\\amazon_gruppo_costi_spedizione2.bmp](./assets/media/image192.png){width="5.032638888888889in"
-height="2.629861111111111in"}
+![Videate\\amazon_gruppo_costi_spedizione2.bmp](./assets/media/image192.png)
 
 All'interno di questa sezione sarà infatti possibile impostare diversi
 "Gruppi di costi di spedizione" definendo per ciascuno di essi specifici
@@ -196,8 +194,7 @@ La sezione "**Stati Ordine**" consente, infine, di definire gli stati
 degli ordini Amazon che dovranno essere utilizzati come filtro di
 importazione sul Gestionale.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\account_amazon_ordini_2.bmp](./assets/media/image193.png){width="5.597222222222222in"
-height="3.441666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\account_amazon_ordini_2.bmp](./assets/media/image193.png)
 
 Nel box di sinistra sono elencati gli stati degli ordini Amazon che
 possono essere gestiti da Passweb in fase di importazione.

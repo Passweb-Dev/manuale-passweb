@@ -19,8 +19,7 @@ Per abilitare questo tipo di gestione è necessario impostare il
 parametro "**Creare ordini in Passweb**", presente nella maschera di
 configurazione dell'Account Amazon (tab "Ordini"), sul valore **SI**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_45.bmp](./assets/media/image288.png){width="5.785416666666666in"
-height="3.370138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_45.bmp](./assets/media/image288.png)
 
 In questo caso inoltre è possibile impostare anche il sezionale del
 gestionale in cui dovranno essere memorizzati gli ordini provenienti da
@@ -71,8 +70,7 @@ La sincronizzazione Ordini tra Passweb ed Amazon può avvenire in due
 modi diversi:
 
 - **Manualmente**, cliccando sul pulsante **Sincro Ordini** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_sincro_ordini_ebay.bmp](./assets/media/image45.png){width="0.4479166666666667in"
-  height="0.15555555555555556in"} ) presente nella barra degli strumenti
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_sincro_ordini_ebay.bmp](./assets/media/image45.png) ) presente nella barra degli strumenti
   della maschera "**Gestione Account**" dopo aver selezionato uno degli
   Account presenti in elenco.
 
@@ -121,8 +119,7 @@ modi diversi:
 automaticamente una nota di corpo contenente la data e l'identificativo
 assegnati all'ordine su Amazon
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\amazon_54.bmp](./assets/media/image289.png){width="5.2340277777777775in"
-height="2.6166666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\amazon_54.bmp](./assets/media/image289.png)
 
 Si ricorda inoltre che le spese di trasporto relative ad ordini
 provenienti da Amazon sono gestite mediante appositi articoli di tipo

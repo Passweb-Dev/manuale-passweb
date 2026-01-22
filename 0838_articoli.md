@@ -6,8 +6,7 @@ All'interno del tab "**Articoli**" è possibile impostare i parametri di
 configurazione del proprio Account in relazione alla pubblicazione dei
 prodotti sul Marketplace.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\account_amazon_articoli.bmp](./assets/media/image190.png){width="5.467361111111111in"
-height="3.6166666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\account_amazon_articoli.bmp](./assets/media/image190.png)
 
 Il check "**Invia email articoli**", presente all'interno della sezione
 "**Generale**" consente di abilitare / disabilitare l'invio delle email

@@ -10,8 +10,7 @@ dati di navigazione, acquisto e inventario, con l'obiettivo di offrire
 **raccomandazioni intelligenti, ricerca avanzata, email marketing
 personalizzato e segmentazione dinamica** dei clienti.
 
-![Videate\\clerk_0.bmp](./assets/media/image1.png){width="5.8375in"
-height="3.49375in"}
+![Videate\\clerk_0.bmp](./assets/media/image1.png)
 
 La piattaforma è strutturata in moduli distinti, ciascuno dedicato a una
 specifica funzionalità (ricerca, raccomandazioni, email, segmentazione,

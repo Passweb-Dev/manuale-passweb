@@ -8,8 +8,7 @@ indirizzi IP cui sarà consentito l'accesso al sito, specificando anche
 se tale accesso potrà avvenire solo sul front end, solo sul back end
 (Wizard) o su entrambe le parti dell'applicazione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_ip_consentiti.bmp](./assets/media/image355.png){width="5.9222222222222225in"
-height="3.6041666666666665in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_ip_consentiti.bmp](./assets/media/image355.png)
 
 **ATTENZIONE! Nel momento in cui dovesse essere inserito anche un solo
 indirizzo IP all'interno di questa maschera, l'accesso al front end /
@@ -26,13 +25,11 @@ quella degli IP Bannati
 
 Per aggiungere un nuovo indirizzo IP alla white list è sufficiente
 cliccare sul pulsante "**Aggiungi IP**" (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_ip.bmp](./assets/media/image356.png){width="0.46111111111111114in"
-height="0.175in"} ) presente nella contestuale barra degli strumenti e
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_ip.bmp](./assets/media/image356.png) ) presente nella contestuale barra degli strumenti e
 inserire l'indirizzo desiderato all'interno del corrispondente campo
 **IP**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuovo_ip_consentito.bmp](./assets/media/image357.png){width="5.99375in"
-height="3.6555555555555554in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuovo_ip_consentito.bmp](./assets/media/image357.png)
 
 Il parametro "**Applicazione**" consente invece di specificare se per
 l'indirizzo IP indicato l'accesso potrà essere consentito solamente al
@@ -54,13 +51,11 @@ Gli altri pulsanti presenti nella barra degli strumenti consentono
 rispettivamente di:
 
 **Modifica IP** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_ip.bmp](./assets/media/image358.png){width="0.4548611111111111in"
-height="0.18194444444444444in"} ): consente di modificare l'indirizzo IP
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_ip.bmp](./assets/media/image358.png) ): consente di modificare l'indirizzo IP
 attualmente selezionato in elenco
 
 **Elimina IP** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_ip.bmp](./assets/media/image359.png){width="0.4222222222222222in"
-height="0.18194444444444444in"} ): consente di eliminare dalla white
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_ip.bmp](./assets/media/image359.png) ): consente di eliminare dalla white
 list l'indirizzo IP attualmente selezionato in elenco.
 
 Una volta impostato l'elenco di IP Consentiti, per rendere effettive le

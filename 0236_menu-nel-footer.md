@@ -8,8 +8,7 @@ piede stesso consentendo quindi all'utente, quando necessario, di far
 scorrere automaticamente la pagina fino a visualizzare il menu di
 navigazione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gr_15.png](./assets/media/image61.png){width="6.820833333333334in"
-height="2.8506944444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gr_15.png](./assets/media/image61.png)
 
 **[CONTRO]{.underline}**
 
@@ -28,6 +27,5 @@ verticale, da posizionare nel piede.
 In queste condizioni, in fase di configurazione del Componente Menu,
 sarà necessario selezionare l'opzione "**Flottante Verticale**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_flottante_verticale.bmp](./assets/media/image62.png){width="5.134027777777778in"
-height="3.134027777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_flottante_verticale.bmp](./assets/media/image62.png)
 

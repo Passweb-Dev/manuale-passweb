@@ -25,15 +25,13 @@ Una volta soddisfatti i prerequisiti sarà poi necessario:
     (<https://developer.apple.com> ) e cliccare sulla voce
     "**Certificates, Identifiers & Profiles**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\login_apple_1.bmp](./assets/media/image315.png){width="4.759722222222222in"
-height="2.83125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\login_apple_1.bmp](./assets/media/image315.png)
 
 2.  Una volta effettuato l'accesso alla sezione di gestione dei
     certificati cliccare sulla voce "**Identifiers**" presente nel menu
     posto sulla sinistra della pagina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\login_apple_2.bmp](./assets/media/image316.png){width="4.759722222222222in"
-height="2.83125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\login_apple_2.bmp](./assets/media/image316.png)
 
 > e, successivamente, cliccare sull'icona blu raffigurante un piccolo +
 > per aggiungere un nuovo identificatore
@@ -41,20 +39,17 @@ height="2.83125in"}
 3.  Selezionare quindi "**App IDs**", cliccare sul pulsante
     "**Continue**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\login_apple_3.bmp](./assets/media/image317.png){width="4.759722222222222in"
-height="2.83125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\login_apple_3.bmp](./assets/media/image317.png)
 
 > selezionare come tipologia del nuovo identificatore l'opzione "App" e
 > cliccare ancora una volta sul pulsante "**Continue"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\login_apple_4.bmp](./assets/media/image318.png){width="4.759722222222222in"
-height="2.83125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\login_apple_4.bmp](./assets/media/image318.png)
 
 4.  Nella successiva schermata sarà necessario impostare una
     **Descrizione** e un **Bundle ID** per l'App ID che andremo a creare
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\login_apple_5.bmp](./assets/media/image319.png){width="4.759722222222222in"
-height="2.83125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\login_apple_5.bmp](./assets/media/image319.png)
 
 > Inserire quindi all'interno del campo "**Description**" una stringa
 > identificativa della nostra App (es. "Login Passweb") mentre per quel
@@ -68,8 +63,7 @@ height="2.83125in"}
     delle funzionalità presenti all'interno della sezione
     "**Capabilities**" e selezionare l'opzione "**Sign in with Apple**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\login_apple_6.bmp](./assets/media/image320.png){width="4.759722222222222in"
-height="2.83125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\login_apple_6.bmp](./assets/media/image320.png)
 
 > Cliccare quindi sul pulsante "**Continue**" e successivamente sul
 > pulsante "**Register**" posto nella parte alta della pagina. In questo
@@ -77,8 +71,7 @@ height="2.83125in"}
 > automaticamente ricondotti alla pagina di gestione dei certificati
 > degli identificatori e dei profili
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\login_apple_7.bmp](./assets/media/image321.png){width="4.759722222222222in"
-height="2.83125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\login_apple_7.bmp](./assets/media/image321.png)
 
 6.  Una volta creato l'App ID dovremo ora creare un nuovo Service ID.
     Restando quindi all'interno della pagina "Certificates, Identifiers
@@ -88,8 +81,7 @@ height="2.83125in"}
 > Nella successiva schermata selezionare questa volta l'opzione
 > "**Services ID**" e cliccare sul pulsante "**Continue**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\login_apple_8.bmp](./assets/media/image322.png){width="4.759722222222222in"
-height="2.83125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\login_apple_8.bmp](./assets/media/image322.png)
 
 7.  Nella successiva schermata dovremo inserire all'interno del campo
     "**Description**" il nome dell'App che vedranno poi gli utenti
@@ -104,28 +96,24 @@ height="2.83125in"}
 > net.passepartout.clobis ora all'interno del campo Identifier potremo
 > inserire la stringa net.passepartout.clobisClient
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\login_apple_9.bmp](./assets/media/image323.png){width="4.759722222222222in"
-height="2.83125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\login_apple_9.bmp](./assets/media/image323.png)
 
 > Una volta inseriti i dati richiesti cliccare sul pulsante
 > "**Continue**" e successivamente sul pulsante "**Register**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\login_apple_10.bmp](./assets/media/image324.png){width="4.759722222222222in"
-height="2.83125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\login_apple_10.bmp](./assets/media/image324.png)
 
 > In questo modo verrà confermata la creazione del nostro Service ID e
 > verremo nuovamente ricondotti alla pagina di gestione dei certificati
 > degli identificatori e dei profili, questa volta però nella sezione
 > relativa ai Service IDs
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\login_apple_11.bmp](./assets/media/image325.png){width="4.759722222222222in"
-height="2.83125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\login_apple_11.bmp](./assets/media/image325.png)
 
 8.  Cliccare quindi tra quelli presenti in elenco il Service ID appena
     creato in maniera tale da poter tornare ad editarne i dettagli
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\login_apple_12.bmp](./assets/media/image326.png){width="4.759722222222222in"
-height="2.83125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\login_apple_12.bmp](./assets/media/image326.png)
 
 > Nella maschera di dettaglio del Service ID selezionare quindi
 > l'opzione "**Sign In with Apple**" e cliccare sul pulsante
@@ -137,8 +125,7 @@ height="2.83125in"}
 9.  Verificare quindi che all'interno del campo "**Primary App ID**" sia
     impostata l'App precedentemente creata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\login_apple_13.bmp](./assets/media/image327.png){width="4.759722222222222in"
-height="2.83125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\login_apple_13.bmp](./assets/media/image327.png)
 
 > Compilare inoltre i due campi "Domains and Subdomains" e "Return
 > URLSs" come di seguito indicato:
@@ -151,16 +138,13 @@ height="2.83125in"}
 > Cliccare quindi sul pulsante "**Next**" successivamente sul pulsante
 > "**Done**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\login_apple_14.bmp](./assets/media/image328.png){width="4.759722222222222in"
-height="2.83125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\login_apple_14.bmp](./assets/media/image328.png)
 
 > e infine sul pulsante "**Continue**" e "**Save**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\login_apple_15.bmp](./assets/media/image329.png){width="4.759722222222222in"
-height="2.83125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\login_apple_15.bmp](./assets/media/image329.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\login_apple_16.bmp](./assets/media/image330.png){width="4.759722222222222in"
-height="2.83125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\login_apple_16.bmp](./assets/media/image330.png)
 
 10. Arrivati a questo punto lo step successivo sarà quello relativo alla
     generazione della chiave da utilizzare poi in fase di autenticazione
@@ -169,8 +153,7 @@ height="2.83125in"}
 > sulla voce **Keys** presente nel menu posto sulla sinistra della
 > pagina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\login_apple_17.bmp](./assets/media/image331.png){width="4.759722222222222in"
-height="2.83125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\login_apple_17.bmp](./assets/media/image331.png)
 
 > e, successivamente, cliccare sull'icona blu raffigurante un piccolo +
 > per aggiungere una nuova chiave
@@ -179,29 +162,24 @@ height="2.83125in"}
     l'opzione "**Sign in with Apple**" e cliccare sul relativo pulsante
     "**Configure**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\login_apple_18.bmp](./assets/media/image332.png){width="4.759722222222222in"
-height="2.83125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\login_apple_18.bmp](./assets/media/image332.png)
 
 12. Nella successiva maschera impostare all'interno del campo "**Primary
     App ID**" l'App ID creato nei precedenti passaggi di questa guida
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\login_apple_19.bmp](./assets/media/image333.png){width="4.759722222222222in"
-height="2.83125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\login_apple_19.bmp](./assets/media/image333.png)
 
 > Cliccare quindi sul pulsante "**Save**" e successivamente sui pulsanti
 > "**Continue**" e "**Register**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\login_apple_20.bmp](./assets/media/image334.png){width="4.759722222222222in"
-height="2.83125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\login_apple_20.bmp](./assets/media/image334.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\login_apple_21.bmp](./assets/media/image335.png){width="4.759722222222222in"
-height="2.83125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\login_apple_21.bmp](./assets/media/image335.png)
 
 13. Arrivati a questo punto dovremo effettuare il download della chiave
     generata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\login_apple_22.bmp](./assets/media/image336.png){width="4.759722222222222in"
-height="2.83125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\login_apple_22.bmp](./assets/media/image336.png)
 
 > Cliccare quindi sul pulsante **Download** e salvare il file in una
 > cartella locale del nostro pc
@@ -222,48 +200,41 @@ height="2.83125in"}
 > utilizzando il menu a tendina evidenziato in figura alla sezione
 > relativa ai Services IDs
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\login_apple_23.bmp](./assets/media/image337.png){width="4.759722222222222in"
-height="2.623611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\login_apple_23.bmp](./assets/media/image337.png)
 
 15. Selezionare quindi il Service Id precedentemente creato in maniera
     tale da accedere alla sua maschera di dettaglio
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\login_apple_24.bmp](./assets/media/image338.png){width="4.759722222222222in"
-height="2.623611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\login_apple_24.bmp](./assets/media/image338.png)
 
 > Copiare quindi la stringa presente in corrispondenza del campo
 > "**Identifier**" ed inserirla alla pagina "*Sito -- Preferenze --
 > Social Media*" del Wizard nel campo **Service ID** presente
 > all'interno della sezione Apple
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\login_apple_25.bmp](./assets/media/image339.png){width="5.811805555555556in"
-height="3.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\login_apple_25.bmp](./assets/media/image339.png)
 
 Completata la configurazione potremo quindi aprire il sito Passweb e
 scegliere di effettuare l'autenticazione utilizzando il nostro Apple ID
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\login_apple_26.bmp](./assets/media/image340.png){width="4.759722222222222in"
-height="3.3895833333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\login_apple_26.bmp](./assets/media/image340.png)
 
 Cliccando sul relativo pulsante presente in corrispondenza del pannello
 di Login l'utente verrà quindi ricondotto ad una pagina di accesso in
 cui dovrà inserire il proprio Apple ID
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\login_apple_28.bmp](./assets/media/image341.png){width="4.8375in"
-height="2.714583333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\login_apple_28.bmp](./assets/media/image341.png)
 
 Una volta inserito il proprio Apple ID potrà essere richiesto, se attiva
 sul proprio Apple ID la verifica in due fasi, un codice di accesso
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\login_apple_29.bmp](./assets/media/image342.png){width="4.8375in"
-height="2.714583333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\login_apple_29.bmp](./assets/media/image342.png)
 
 Inserito il codice verrà chiesto all'utente di condividere o meno la
 propria mail con il sito su cui sta effettuando l'accesso (opzione
 selezionata a default).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\login_apple_30.bmp](./assets/media/image343.png){width="4.8375in"
-height="2.714583333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\login_apple_30.bmp](./assets/media/image343.png)
 
 Cliccando quindi sul pulsante "**Continua**" l'utente verrà
 automaticamente ricondotto e autenticato al sito Passweb

@@ -9,8 +9,7 @@ della spedizione (es. Consegna al piano, Consegna al sabato ecc...) che
 verranno poi passate a Qaplà nel momento in cui l'utente dovesse
 selezionare in fase di checkout il metodo di trasporto in esame.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\metodi_trasporto_qapla.bmp](./assets/media/image295.png){width="5.779166666666667in"
-height="3.5256944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\metodi_trasporto_qapla.bmp](./assets/media/image295.png)
 
 **ATTENZIONE!** la sezione Qaplà è visibile solo nel momento in cui
 siano state inserite le relative chiavi di configurazione in
@@ -43,8 +42,7 @@ diversi:
 > su Qaplà solo nel momento in cui la relativa spedizione dovesse poi
 > essere gestita con GLS.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\qapla_opzioni_corriere.bmp](./assets/media/image28.png){width="5.395833333333333in"
-height="3.3895833333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\qapla_opzioni_corriere.bmp](./assets/media/image28.png)
 
 > **Un'altra cosa di fondamentale importanza da tenere in considerazione
 > è che le opzioni di spedizione sono definite in fase di configurazione
@@ -84,8 +82,7 @@ height="3.3895833333333334in"}
 > essere sempre visualizzati all'interno dei campi "Custom 1 / 2 / 3"
 > aprendo il dettaglio dell'ordine inviato da Passweb
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\qapla_custom_label_1.bmp](./assets/media/image29.png){width="5.395833333333333in"
-height="3.33125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\qapla_custom_label_1.bmp](./assets/media/image29.png)
 
 - **Tipologia di assicurazione:** consente di definire la metodologia di
   calcolo dell'importo da assicurare che dovrà poi essere passato a
@@ -112,8 +109,7 @@ height="3.33125in"}
 > spedizione sia gestita mediante uno specifico corriere (es. BRT, GLS
 > ...)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\qapla_importo_assicurazione.bmp](./assets/media/image30.png){width="3.66875in"
-height="3.0131944444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\qapla_importo_assicurazione.bmp](./assets/media/image30.png)
 
 Un' ultima considerazione di fondamentale importanza da fare è che, lato
 Passweb, le "Opzioni di spedizione per Qaplà" possono essere associate,
@@ -152,8 +148,7 @@ a Qaplà sia il valore della "Custom Label 1" (determinato dalla
 selezione del metodo di trasporto) che quello della "Custom Label 2"
 (determinato invece dalla selezione del pagamento)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\qapla_custom_label_2.bmp](./assets/media/image33.png){width="5.395833333333333in"
-height="3.33125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\qapla_custom_label_2.bmp](./assets/media/image33.png)
 
 Nel momento in cui invece, sia per il metodo di trasporto che per il
 pagamento selezionato dall'utente in fase di checkout dovesse essere
@@ -167,8 +162,7 @@ stessa "Custom Label 1" per il pagamento selezionato in fase di checkout
 sul valore "opzione B" ci ritroveremo poi su Qaplà una situazione del
 tipo di quella rappresentata in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\qapla_custom_label_3.bmp](./assets/media/image34.png){width="5.395833333333333in"
-height="3.33125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\qapla_custom_label_3.bmp](./assets/media/image34.png)
 
 Infine, se conflitto dovesse verificarsi a livello di "Tipologia di
 assicurazione" verrà utilizzato il seguente livello di priorità:

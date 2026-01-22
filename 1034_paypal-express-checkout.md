@@ -53,8 +53,7 @@ impostare, oltre ai parametri classici di configurazione del pagamento,
 anche quelli specifici del gateway attualmente considerato e presenti
 all'interno della sezione "**Parametri Gateway**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_paypal_express.bmp](./assets/media/image180.png){width="5.779166666666667in"
-height="3.4090277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_paypal_express.bmp](./assets/media/image180.png)
 
 Nel caso specifico il parametro:
 

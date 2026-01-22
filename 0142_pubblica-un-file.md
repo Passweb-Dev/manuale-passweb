@@ -11,8 +11,7 @@ In questo modo verrà infatti visualizzata un'ulteriore sezione
 "**Pubblicazione File**" attraverso la quale poter selezionare la
 risorsa da caricare.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_pubb_risorsa_res.bmp](./assets/media/image128.png){width="5.779166666666667in"
-height="3.5458333333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_pubb_risorsa_res.bmp](./assets/media/image128.png)
 
 Nel caso in cui non si conosca l'esatto percorso di localizzazione della
 risorsa Il pulsante **"Sfoglia"**, posto a fianco del campo file

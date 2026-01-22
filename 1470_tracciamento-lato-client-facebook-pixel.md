@@ -34,8 +34,7 @@ di Facebook è installarlo all'interno del proprio sito Passweb.
 - Accedere al proprio Account **Business Manager**, aprire il menu
   "**Tutti gli Strumenti**" e selezionare la voce "**Gestione Eventi**"
 
-![Videate\\facebook_tracciamento_client_1.bmp](./assets/media/image1.png){width="5.2340277777777775in"
-height="3.532638888888889in"}
+![Videate\\facebook_tracciamento_client_1.bmp](./assets/media/image1.png)
 
 > **ATTENZIONE!** il Pixel di Facebook, così come l'Access Token
 > necessario per attivare le Conversion API, può essere generato
@@ -53,26 +52,22 @@ height="3.532638888888889in"}
   sul pulsante verde raffigurante un piccolo + (**Collega origini dei
   dati**)
 
-![Videate\\facebook_tracciamento_client_2.bmp](./assets/media/image2.png){width="5.2340277777777775in"
-height="3.532638888888889in"}
+![Videate\\facebook_tracciamento_client_2.bmp](./assets/media/image2.png)
 
 - Nella successiva maschera di collegamento dell'origine dati
   selezionare l'opzione "**Web**" e cliccare sul pulsante "**Collega**"
 
-![Videate\\facebook_tracciamento_client_3.bmp](./assets/media/image3.png){width="3.5388888888888888in"
-height="1.6104166666666666in"}
+![Videate\\facebook_tracciamento_client_3.bmp](./assets/media/image3.png)
 
 - Assegnare quindi un nome al pixel e cliccare infine sul pulsante
   "**Crea Pixel**"
 
-![Videate\\facebook_tracciamento_client_4.bmp](./assets/media/image4.png){width="2.4479166666666665in"
-height="1.4347222222222222in"}
+![Videate\\facebook_tracciamento_client_4.bmp](./assets/media/image4.png)
 
 - Una volta completata la creazione del Pixel, portarsi all'interno
   della sezione "**Impostazioni**"
 
-![Videate\\facebook_tracciamento_client_5.bmp](./assets/media/image5.png){width="5.2340277777777775in"
-height="3.532638888888889in"}
+![Videate\\facebook_tracciamento_client_5.bmp](./assets/media/image5.png)
 
 > copiare quindi l'Id presente in corrispondenza della sezione "**Id del
 > pixel**" evidenziata in figura, e incollarlo all'interno del campo
@@ -80,15 +75,13 @@ height="3.532638888888889in"}
 > API**" alla pagina "**Sito -- Preferenze**" del Wizard (tab
 > "**Tracciamento Dati**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\facebook_tracciamento_client_6.bmp](./assets/media/image6.png){width="5.792361111111111in"
-height="3.50625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\facebook_tracciamento_client_6.bmp](./assets/media/image6.png)
 
 - Completare quindi l'attivazione del tracciamento lato client per il
   proprio sito Passweb verificando di aver correttamente selezionando il
   parametro "**Tracciamento Client**" evidenziato in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\facebook_tracciamento_client_7.bmp](./assets/media/image7.png){width="5.792361111111111in"
-height="3.50625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\facebook_tracciamento_client_7.bmp](./assets/media/image7.png)
 
 **ATTENZIONE!** Nel momento in cui l'esigenza dovesse essere quella di
 **attivare solamente il tracciamento mediante Facebook Pixel** sarà
@@ -134,8 +127,7 @@ da Facebook può essere visualizzato al seguente link
 
 Il parametro "**Abilita eventi custom**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\facebook_eventi_custom.bmp](./assets/media/image8.png){width="5.792361111111111in"
-height="3.50625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\facebook_eventi_custom.bmp](./assets/media/image8.png)
 
 consente invece, se selezionato, di attivare anche il tracciamento dei
 seguenti eventi personalizzati:

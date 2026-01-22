@@ -6,8 +6,7 @@ Come già indicato nel precedente capitolo di questo manuale la sezione
 "**Area Riservata\"** consente di impostare i principali parametri di
 configurazione relativi all'Area Riservata del proprio sito Passweb.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\preferenze_area_riservata2.bmp](./assets/media/image9.png){width="4.395833333333333in"
-height="2.7729166666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\preferenze_area_riservata2.bmp](./assets/media/image9.png)
 
 Nello specifico il parametro:
 
@@ -20,32 +19,27 @@ In questo senso dunque il parametro:
   cui poter gestire l'invio e la ricezione di messaggi con utenti
   abilitati ad accedere in area riservata
 
-![Videate\\ar_messaggi.bmp](./assets/media/image10.png){width="5.604166666666667in"
-height="3.49375in"}
+![Videate\\ar_messaggi.bmp](./assets/media/image10.png)
 
 - **Agenda:** consente, se selezionato, di abilitare l'App attraverso
   cui poter gestire la consultazione e l'inserimento di attività,
   scadenze o appuntamenti in Agenda
 
-![Videate\\ar_agenda.bmp](./assets/media/image11.png){width="5.604166666666667in"
-height="3.3833333333333333in"}
+![Videate\\ar_agenda.bmp](./assets/media/image11.png)
 
 - **Documenti:** consente, se selezionato, di abilitare l'App attraverso
   cui poter gestire lo scambio di generici documenti con utenti
   abilitati ad accedere in Area Riservata
 
-![Videate\\ar_documenti.bmp](./assets/media/image12.png){width="5.604166666666667in"
-height="3.3833333333333333in"}
+![Videate\\ar_documenti.bmp](./assets/media/image12.png)
 
 - **Business:** consente, se selezionato, di abilitare due distinte App,
   **Clienti** e **Ordini**, mediante le quali ogni Agente avrà la
   possibilità di gestire i propri clienti e i relativi ordini.
 
-![Videate\\ar_ordini.bmp](./assets/media/image13.png){width="5.604166666666667in"
-height="3.3833333333333333in"}
+![Videate\\ar_ordini.bmp](./assets/media/image13.png)
 
-![Videate\\ar_clienti.bmp](./assets/media/image14.png){width="5.604166666666667in"
-height="3.3833333333333333in"}
+![Videate\\ar_clienti.bmp](./assets/media/image14.png)
 
 > Nel caso di siti Ecommerce collegati ad uno dei gestionali Ho.Re.Ca.
 > verrà abilitata, per ovvie ragioni, la sola App Ordini
@@ -54,8 +48,7 @@ height="3.3833333333333333in"}
 > visualizzazione o meno della sezione "**Riepilogo Ecommerce**"
 > presente in bacheca
 
-![Videate\\ar_riepilogoecommerce.bmp](./assets/media/image15.png){width="5.604166666666667in"
-height="3.3833333333333333in"}
+![Videate\\ar_riepilogoecommerce.bmp](./assets/media/image15.png)
 
 > Tale sezione verrà quindi visualizzata solo nel momento in cui il
 > check "Business" dovesse essere correttamente abilitato.
@@ -65,8 +58,7 @@ height="3.3833333333333333in"}
   documenti associati all'interno del gestionale (in Docuvision) alla
   propria anagrafica utente
 
-![Videate\\ar_docuvision.bmp](./assets/media/image16.png){width="5.604166666666667in"
-height="3.370138888888889in"}
+![Videate\\ar_docuvision.bmp](./assets/media/image16.png)
 
 - **Sprix (Ecommerce Mexal):** consente, se selezionato, di abilitare
   per gli Agenti di un sito Business To Business, l'App attraverso cui
@@ -74,8 +66,7 @@ height="3.370138888888889in"}
   correttamente mappati all'interno della corrispondente sezione del
   Wizard
 
-![Videate\\ar_sprix.bmp](./assets/media/image17.png){width="5.604166666666667in"
-height="3.3833333333333333in"}
+![Videate\\ar_sprix.bmp](./assets/media/image17.png)
 
 **NOTA BENE**: per maggiori informazioni relativamente alla funzionalità
 e all'utilizzo dell'area riservata di un sito Ecommerce si veda anche il
@@ -83,8 +74,7 @@ capitolo "Business To Business -- Area Riservata" di questo manuale.
 
 Il campo "**Code Snippet Area Riservata**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\css_area_riservata.bmp](./assets/media/image18.png){width="5.467361111111111in"
-height="3.454861111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\css_area_riservata.bmp](./assets/media/image18.png)
 
 consente invece di inserire codice CSS e/o Javascript (iniettato poi in
 apposti tag \< style \> e \< script \>) che verrà riportato in tutte le
@@ -103,8 +93,7 @@ dovranno essere visualizzati, nella Dashboard dell'Area Riservata, nel
 momento in cui ad effettuare il login dovesse essere un cliente
 appositamente abilitato ad accedere a questa specifica sezione del sito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_preferenze_dashboard_cliente.bmp](./assets/media/image19.png){width="5.467361111111111in"
-height="3.220833333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_preferenze_dashboard_cliente.bmp](./assets/media/image19.png)
 
 In questo senso il parametro:
 
@@ -183,8 +172,7 @@ dovranno essere visualizzati, nella Dashboard dell'Area Riservata, nel
 momento in cui ad effettuare il login dovesse essere un Agente
 appositamente abilitato ad accedere a questa specifica sezione del sito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_preferenze_dashboard_agente.bmp](./assets/media/image20.png){width="5.467361111111111in"
-height="3.220833333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_preferenze_dashboard_agente.bmp](./assets/media/image20.png)
 
 In questo senso il parametro:
 
@@ -256,8 +244,7 @@ Supponiamo di dover prendere in considerazione **un solo ordine
 effettuato da un utente di tipo Azienda** i cui totali sono esattamente
 quelli rappresentati in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\importi_statistiche.bmp](./assets/media/image21.png){width="5.467361111111111in"
-height="3.3118055555555554in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\importi_statistiche.bmp](./assets/media/image21.png)
 
 - Totale Merce: 203.52€
 

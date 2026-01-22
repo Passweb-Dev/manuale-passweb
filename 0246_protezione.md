@@ -19,8 +19,7 @@ ogni singolo Componente Passweb consente di:
   possibilità di gestire il componente -- sezione "**Protezione
   Componente sul Wizard**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_ruoli_res.bmp](./assets/media/image88.png){width="3.9555555555555557in"
-height="2.4555555555555557in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_ruoli_res.bmp](./assets/media/image88.png)
 
 Nello specifico dunque il parametro:
 
@@ -35,8 +34,7 @@ seguenti valori:
   soli utenti appartenenti ai gruppi selezionati all'interno del
   parametro "**Gruppi che hanno accesso al componente**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\visibilita_componente_1_res.bmp](./assets/media/image89.png){width="3.9555555555555557in"
-height="2.7909722222222224in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\visibilita_componente_1_res.bmp](./assets/media/image89.png)
 
 > Per maggiori informazioni relativamente alla creazione dei Gruppi
 > Utente si veda la corrispondente sezione " *Utenti -- Siti Ecommerce
@@ -46,8 +44,7 @@ height="2.7909722222222224in"}
 filtro articoli che verrà poi valutato per determinare se il relativo
 componente dovrà o meno essere visibile.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\visibilita_componente_2_res.bmp](./assets/media/image90.png){width="3.977777777777778in"
-height="2.783333333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\visibilita_componente_2_res.bmp](./assets/media/image90.png)
 
 Tale parametro è quindi disponibile, ovviamente, solo per componenti che
 sono in qualche modo legati agli articoli pubblicati e venduti
@@ -100,8 +97,7 @@ Sul componente visibile ai soli utenti di tipo Cliente andrà poi
 impostato, agendo sul parametro "Filtro Visibilità articoli" un filtro
 del tipo di quello indicato in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\visibilita_componente_3_res.bmp](./assets/media/image91.png){width="3.970138888888889in"
-height="2.6194444444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\visibilita_componente_3_res.bmp](./assets/media/image91.png)
 
 dove, ovviamente, 107 è il codice della "Categoria A" (per maggiori
 informazioni relativamente alla creazione e alla gestione Filtri
@@ -162,8 +158,7 @@ merito si veda quanto indicato all'interno del capitolo "*Catalogo --
 Gestione Articoli -- Articoli -- Anagrafica Articolo / Servizio --
 Anagrafica Passweb -- Classi CSS*" di questo manuale)
 
-![Videate\\dati_articolo_classi_custom.bmp](./assets/media/image92.png){width="5.709027777777778in"
-height="3.4923611111111112in"}
+![Videate\\dati_articolo_classi_custom.bmp](./assets/media/image92.png)
 
 Ovviamente anche il parametro "Classi visibilità articoli" sarà
 disponibile solo per certi componenti. Nello specifico per il
@@ -208,8 +203,7 @@ Infine, come precedentemente evidenziato, all'interno della sezione
 chi, fra i vari utenti del Wizard, potrà effettivamente gestire lo
 specifico componente e chi no.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\protezione_componente_wizard_res.bmp](./assets/media/image93.png){width="3.9625in"
-height="2.6041666666666665in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\protezione_componente_wizard_res.bmp](./assets/media/image93.png)
 
 In questo senso dunque il parametro:
 
@@ -231,6 +225,5 @@ campo dipende da quanto settato per il parametro **"Protezione
 Default**" presente, per l'utente attualmente connesso, all'interno
 della maschera "**Profilo Utente**" del Wizard
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\profilo_utente_wizard_protezione_default.bmp](./assets/media/image94.png){width="5.790972222222222in"
-height="3.5076388888888888in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\profilo_utente_wizard_protezione_default.bmp](./assets/media/image94.png)
 

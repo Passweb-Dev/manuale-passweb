@@ -37,8 +37,7 @@ del proprio sito Ecommerce.
     Wizard di Passweb in maniera tale da poter realizzare l'integrazione
     tra i due sistemi.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mailchimp_step_39.bmp](./assets/media/image94.png){width="5.809722222222222in"
-height="3.5215277777777776in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mailchimp_step_39.bmp](./assets/media/image94.png)
 
 2.  Impostare la modalità di acquisto degli articoli in catalogo in
     maniera tale che questi stessi articoli possano effettivamente
@@ -50,8 +49,7 @@ height="3.5215277777777776in"}
 > Parametri Catalogo -- Catalogo Mexal/Ho.Re.Ca.*" del Wizard sul valore
 > **"Acquista solo se disponibile"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\acquista_solo_disponibile.bmp](./assets/media/image95.png){width="5.791666666666667in"
-height="3.509027777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\acquista_solo_disponibile.bmp](./assets/media/image95.png)
 
 > **ATTENZIONE!** Nel momento in cui questo parametro dovesse essere
 > impostato sul valore "Acquista Sempre" gli articoli presenti in
@@ -68,16 +66,14 @@ height="3.509027777777778in"}
     valore **"Ai soli utenti registrati"** oppure sul valore **"A
     tutti"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\notifica_disponibilita.bmp](./assets/media/image96.png){width="5.791666666666667in"
-height="3.509027777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\notifica_disponibilita.bmp](./assets/media/image96.png)
 
 > **ATTENZIONE!** Nel caso in cui tale parametro dovesse essere
 > impostato sul valore **"No"** il componente "**Notifica
 > Disponibilità**" non verrà attivato e non sarà quindi possibile
 > abilitare il sistema di gestione delle notifiche.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\notifica_disponibilita_no.bmp](./assets/media/image97.png){width="4.98125in"
-height="3.6381944444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\notifica_disponibilita_no.bmp](./assets/media/image97.png)
 
 > Ovviamente il fatto di impostare questo parametro sul valore "A tutti"
 > oppure "Ai soli utenti registrati" determinerà un diverso
@@ -90,8 +86,7 @@ height="3.6381944444444443in"}
     uno dei Componenti consentiti (es. Scheda Prodotto, Catalogo
     Ecommerce ecc...), configurandolo in maniera corretta
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\notifica_disponibilita_wizard.bmp](./assets/media/image98.png){width="4.190277777777778in"
-height="2.8222222222222224in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\notifica_disponibilita_wizard.bmp](./assets/media/image98.png)
 
 > Per maggiori informazioni relativamente alla configurazione e alla
 > gestione del componente "Notifica Disponibilità" si veda anche la
@@ -114,8 +109,7 @@ height="2.8222222222222224in"}
 7.  Configurare il template appena importato in Passweb in maniera tale
     che risulti essere un **template di tipo Ecommerce**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\notifica_disponibilita_template_ecommerce.bmp](./assets/media/image99.png){width="5.791666666666667in"
-height="3.509027777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\notifica_disponibilita_template_ecommerce.bmp](./assets/media/image99.png)
 
 > Per maggiori informazioni relativamente alla gestione e configurazione
 > dei template in Passweb si veda anche la sezione "*MailChimp --
@@ -150,8 +144,7 @@ height="3.509027777777778in"}
 9.  Creare in Passweb una Campagna di tipo **"Disponibilità Articolo"**
     selezionando per essa il Template configurato al punto 7
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\campagna_disponibilita.bmp](./assets/media/image100.png){width="5.791666666666667in"
-height="3.509027777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\campagna_disponibilita.bmp](./assets/media/image100.png)
 
 > Per maggiori informazioni relativamente alla creazione di Campagne in
 > Passweb si veda anche la sezione "*MailChimp -- Newsletter Passweb e
@@ -164,20 +157,17 @@ height="3.509027777777778in"}
 > per prima cosa all'interno della sezione "Sito -- Gestione Newsletter
 > -- Campagne" del Wizard, selezionare la Campagna creata al punto 9 e
 > cliccare sul pulsante "**Gestisci invii per la Campagna**" (
-> ![Videate\\pulsante_gestisci_invii_campagna.bmp](./assets/media/image101.png){width="0.9756944444444444in"
-> height="0.17777777777777778in"} ) presente nella barra degli strumenti
+> ![Videate\\pulsante_gestisci_invii_campagna.bmp](./assets/media/image101.png) ) presente nella barra degli strumenti
 >
 > Nella successiva maschera verranno visualizzati gli invii già
 > codificati per la Campagna in esame. Per gestire un nuovo invio sarà
 > quindi necessario cliccare sul pulsante "**Nuovo Invio Campagna
 > Disponibilità**" (
-> ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuovo_invio_campagna_disponibilita.bmp](./assets/media/image102.png){width="1.1902777777777778in"
-> height="0.17152777777777778in"} ): presente nella barra degli
+> ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuovo_invio_campagna_disponibilita.bmp](./assets/media/image102.png) ): presente nella barra degli
 > strumenti e inserire tutti i parametri necessari per la configurazione
 > dell'invio.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\invii_campagna_disponibilita2.bmp](./assets/media/image103.png){width="5.791666666666667in"
-height="3.509027777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\invii_campagna_disponibilita2.bmp](./assets/media/image103.png)
 
 > Nello specifico sarà necessario indicare:
 

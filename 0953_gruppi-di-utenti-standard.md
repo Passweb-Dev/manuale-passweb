@@ -10,8 +10,7 @@ gruppi Standard denominati rispettivamente "**Utente Autenticato**" e
 automatica dall'applicazione, non eliminabili ed evidenziati,
 nell'elenco dei gruppi utente, in verde.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gruppi_utenti_standard.bmp](./assets/media/image133.png){width="5.1625in"
-height="3.285416666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gruppi_utenti_standard.bmp](./assets/media/image133.png)
 
 **Utente Autenticato:** fanno parte di questo gruppo tutti gli utenti
 che hanno effettuato il login al sito. Nel momento in cui, dunque, un
@@ -27,8 +26,7 @@ presente nella contestuale barra degli strumenti, verrà infatti
 visualizzata la maschera di configurazione del gruppo qui di seguito
 riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_gruppo_utenti_autenticati.bmp](./assets/media/image134.png){width="5.727083333333334in"
-height="3.3833333333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_gruppo_utenti_autenticati.bmp](./assets/media/image134.png)
 
 all'interno della quale sarà appunto possibile personalizzare il
 **Nome** del gruppo e, eventualmente, associargli anche uno specifico
@@ -59,8 +57,7 @@ invece di creare e definire un nuovo gruppo di "Utenti Non Autenticati".
 In entrambi i casi verrà comunque visualizzata la maschera di
 configurazione di questa particolare tipologia di gruppo
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_gruppo_utenti_na.bmp](./assets/media/image135.png){width="5.759722222222222in"
-height="3.4027777777777777in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_gruppo_utenti_na.bmp](./assets/media/image135.png)
 
 all'interno della quale sarà possibile definire, il **Nome** del gruppo,
 eventuali filtri articolo o utente da applicare al gruppo stesso

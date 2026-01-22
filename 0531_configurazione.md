@@ -5,8 +5,7 @@
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\passcom_componente-login-configurazione_res.bmp](./assets/media/image7.png){width="4.584722222222222in"
-height="2.954861111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\passcom_componente-login-configurazione_res.bmp](./assets/media/image7.png)
 
 attraverso cui poter impostare i principali parametri di configurazione
 del componente stesso.

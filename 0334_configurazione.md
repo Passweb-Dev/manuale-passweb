@@ -5,8 +5,7 @@
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_popup_res.bmp](./assets/media/image217.png){width="5.188194444444444in"
-height="3.129861111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_popup_res.bmp](./assets/media/image217.png)
 
 suddivisa in varie sezioni.
 
@@ -171,8 +170,7 @@ possibile impostare un valore per i seguenti parametri:
     Backdrop utile per scurire la porzione di pagina posta
     immediatamente dietro al popup.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\popup_backdrop.bmp](./assets/media/image218.png){width="5.188194444444444in"
-height="2.83125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\popup_backdrop.bmp](./assets/media/image218.png)
 
 > In queste condizioni inoltre il click in una qualsiasi posizione di
 > quest'area provocherà la chiusura del popup.
@@ -212,8 +210,7 @@ In particolare all'interno di un componente di tipo "Popup" sarà
 possibile inserire solamente tre diversi componenti mediante i quali
 poter suddividere la finestra modale in tre distinte sezioni:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\popup_aggiunta_componenti_res.bmp](./assets/media/image219.png){width="2.785416666666667in"
-height="2.7597222222222224in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\popup_aggiunta_componenti_res.bmp](./assets/media/image219.png)
 
 - **Popup Header:** consente di inserire all'interno del popup view un
   contenitore per gestire le informazioni in testata.
@@ -256,8 +253,7 @@ da inserire all'interno della finestra di popup, la prima cosa da fare
 sarà ovviamente quella di richiamare questa stessa finestra cliccando
 sul relativo pulsante di apertura**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\popup_gestione.bmp](./assets/media/image220.png){width="5.188194444444444in"
-height="2.83125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\popup_gestione.bmp](./assets/media/image220.png)
 
 **ATTENZIONE!** la visualizzazione popup all'interno dell'ambiente di
 sviluppo potrebbe essere leggermente diversa rispetto a quella che sarà

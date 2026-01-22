@@ -5,8 +5,7 @@
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ricerca_cms0_res.bmp](./assets/media/image38.png){width="4.636111111111111in"
-height="3.1104166666666666in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ricerca_cms0_res.bmp](./assets/media/image38.png)
 
 suddivisa in varie sezioni.
 
@@ -209,8 +208,7 @@ componenti quali "Campo Radio", "Campo Lista Checkbox" o "Campo Lista
 Valori", sarà poi necessario mappare questi stessi elementi con
 specifiche categorie CMS**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ricerca_cms_check_res.bmp](./assets/media/image39.png){width="4.597222222222222in"
-height="3.077777777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ricerca_cms_check_res.bmp](./assets/media/image39.png)
 
 In questo modo **se (e soltanto se)** la ricerca CMS è utilizzata in
 unione con un componente "Risultati Ricerca sul sito", oltre a digitare

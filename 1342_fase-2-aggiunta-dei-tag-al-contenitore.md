@@ -27,8 +27,7 @@ Nello specifico dunque, sarà necessario accedere al proprio Account GTM
 e selezionare, tra quelli presenti all'interno della pagina **Account**,
 il Contenitore all'interno del quale si desidera inserire nuovi Tag
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_12a.bmp](./assets/media/image13.png){width="5.554166666666666in"
-height="3.1465277777777776in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_12a.bmp](./assets/media/image13.png)
 
 In questo modo verremo infatti ricondotti alla dashboard di gestione del
 Contenitore selezionato da dove, oltre a verificare lo stato del
@@ -39,26 +38,22 @@ ovviamente procedere anche alla creazione di nuovi Tag.
 Per questo sarà sufficiente cliccare sulla voce **Tag** presente nel
 menu di sinistra
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_13a.bmp](./assets/media/image14.png){width="5.579861111111111in"
-height="3.4458333333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_13a.bmp](./assets/media/image14.png)
 
 e, successivamente sul pulsante "**Nuovo**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_14a.bmp](./assets/media/image15.png){width="5.592361111111111in"
-height="3.1020833333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_14a.bmp](./assets/media/image15.png)
 
 In alternativa è anche possibile cliccare direttamente sulla voce
 **"Aggiungi un nuovo Tag"** presente nella dashboard di gestione del
 Contenitore
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_15a.bmp](./assets/media/image16.png){width="5.579861111111111in"
-height="3.2805555555555554in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_15a.bmp](./assets/media/image16.png)
 
 In entrambi i casi verremo comunque ricondotti alla maschera di
 creazione del nuovo Tag
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_16a.bmp](./assets/media/image17.png){width="5.566666666666666in"
-height="3.433333333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_16a.bmp](./assets/media/image17.png)
 
 dove dovremo assegnare un nome al Tag e, soprattutto, selezionare il
 tipo di Tag da aggiungere al nostro contenitore ( e conseguentemente, lo
@@ -70,16 +65,14 @@ In questo senso sarà quindi necessario cliccare sul pulsante "**Scegli
 un tipo di tag per iniziare l'installazione**" e selezionare poi, tra
 quelli proposti, lo specifico Tag da inserire
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_17a.bmp](./assets/media/image18.png){width="5.604861111111111in"
-height="3.420138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_17a.bmp](./assets/media/image18.png)
 
 **ATTENZIONE!** Nel caso in cui il Tag che si desidera inserire
 all'interno del Contenitore non sia tra quelli predefiniti messi a
 disposizione da GTM, è sempre possibile comunque inserire lo specifico
 codice all'interno, ad esempio, di un "**Tag HTML personalizzato**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_18a.bmp](./assets/media/image19.png){width="5.598611111111111in"
-height="3.4270833333333335in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_18a.bmp](./assets/media/image19.png)
 
 A seconda del tipo di Tag sarà poi necessario impostare anche altri
 parametri di configurazione specifici per la particolare tipologia di
@@ -94,15 +87,13 @@ tutto decidere se il Tag in questione dovrà essere quello relativo a
 Universal Analytics, oppure uno di quelli relativi al nuovo Google
 Analytics 4
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_19a.bmp](./assets/media/image20.png){width="5.604861111111111in"
-height="3.420138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_19a.bmp](./assets/media/image20.png)
 
 Nel momento in cui si dovesse optare, ad esempio, per il Tag di
 Universal Analytics sarà poi necessario, indicare il "**Tipo di
 Monitoraggio**" da implementare (Visualizzazioni di pagina, Eventi ...)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_21a.bmp](./assets/media/image21.png){width="5.624305555555556in"
-height="3.4652777777777777in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_21a.bmp](./assets/media/image21.png)
 
 l' **ID monitoraggio** della Proprietà di Analytics cui dovranno essere
 spediti i dati (all'interno dell'apposito campo o nella relativa
@@ -110,8 +101,7 @@ Variabile) e anche tutta una serie di altri parametri di configurazione
 relativi allo specifico monitoraggio che si vuole effettivamente
 implementare.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_20a.bmp](./assets/media/image22.png){width="5.592361111111111in"
-height="3.407638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_20a.bmp](./assets/media/image22.png)
 
 **ATTENZIONE!** I parametri di configurazione del Tag possono variare
 anche in relazione alla "Tipologia di Monitoraggio" implementata
@@ -130,13 +120,11 @@ ben preciso **Attivatore.**
 In questo senso sarà sufficiente cliccare sul pulsante "**Scegli un
 attivatore per attivare questo tag**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_22a.bmp](./assets/media/image23.png){width="5.572916666666667in"
-height="3.439583333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_22a.bmp](./assets/media/image23.png)
 
 e selezionare poi, tra quelli proposti, l'attivatore da utilizzare
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_22b.bmp](./assets/media/image24.png){width="5.604861111111111in"
-height="3.439583333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_22b.bmp](./assets/media/image24.png)
 
 **ATTENZIONE!** Come evidenziato nei precedenti capitoli di questo
 manuale ogni Tag deve avere associato almeno un Attivatore. Per maggiori
@@ -147,12 +135,10 @@ Una volta impostati anche gli Attivatori, il pulsante **"Salva"**
 consente di creare definitivamente il Tag in esame inserendolo quindi
 all'interno del nostro Contenitore
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_22c.bmp](./assets/media/image25.png){width="5.554166666666666in"
-height="3.4138888888888888in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_22c.bmp](./assets/media/image25.png)
 
 Il Tag così creato verrà ora visualizzato all'interno della sezione Tag
 da dove potrà anche essere modificato in qualsiasi momento.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_24a.bmp](./assets/media/image26.png){width="5.592361111111111in"
-height="3.0in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_24a.bmp](./assets/media/image26.png)
 

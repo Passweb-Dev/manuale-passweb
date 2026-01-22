@@ -5,8 +5,7 @@
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e di configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_popolarita_prodotto_configurazione_desktop_res.bmp](./assets/media/image21.png){width="4.889583333333333in"
-height="2.9875in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_popolarita_prodotto_configurazione_desktop_res.bmp](./assets/media/image21.png)
 
 suddivisa in varie sezioni.
 
@@ -78,8 +77,7 @@ possibile selezionare uno dei seguenti valori:
 > presente nella corrispondente sezione del Wizard e, ovviamente,
 > filtrato per "**Prodotti**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\popolarita_prodotto_res.bmp](./assets/media/image22.png){width="4.883333333333334in"
-height="2.9569444444444444in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\popolarita_prodotto_res.bmp](./assets/media/image22.png)
 
 > Nel caso in cui alcune pagine abbiano ricevuto lo stesso numero di
 > visite, e abbiano quindi la stessa popolarità, i corrispondenti
@@ -199,8 +197,7 @@ height="2.9569444444444444in"}
   dalla Raccomandazione Clerk indicata poi all'interno del successivo
   campo "**Logica Raccomandazione Clerk.io**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\popolarita_prodotto_clerk_2.bmp](./assets/media/image23.png){width="4.355555555555555in"
-height="3.061111111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\popolarita_prodotto_clerk_2.bmp](./assets/media/image23.png)
 
 > **ATTENZIONE!** **l'opzione "Reccomendations Clerk" richiede
 > necessariamente l'attivazione del modulo Clerk presente all'interno di

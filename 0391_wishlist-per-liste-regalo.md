@@ -8,8 +8,7 @@ vere e proprie Liste Regalo** sarà allora necessario assicurarsi di
 **aver selezionato**, in fase di configurazione del componente stesso,
 il parametro "**Gestione Liste Regalo**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\wl_lista_regalo_1.bmp](./assets/media/image202.png){width="5.907638888888889in"
-height="3.9694444444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\wl_lista_regalo_1.bmp](./assets/media/image202.png)
 
 **ATTENZIONE!** Per Lista Regalo si intende essenzialmente una
 particolare lista di articoli, selezionati da un determinato utente (il
@@ -46,8 +45,7 @@ precedentemente salvate**:
 E' la stessa visualizzata anche nel caso in cui non fosse stata
 effettuata l'autenticazione al sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\wl_lista_regalo_2.bmp](./assets/media/image203.png){width="5.177777777777778in"
-height="3.484722222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\wl_lista_regalo_2.bmp](./assets/media/image203.png)
 
 Anche in questo caso la lista degli articoli presenti nella Wishlist è
 strutturata all'interno di una griglia perfettamente responsiva le cui
@@ -82,8 +80,7 @@ seguenti valor:
   creata una vera e propria Lista Regalo. In queste condizioni sarà
   inoltre necessario definire un valore per i seguenti campi:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\wl_lista_regalo_3.bmp](./assets/media/image204.png){width="5.177777777777778in"
-height="3.484722222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\wl_lista_regalo_3.bmp](./assets/media/image204.png)
 
 - **Titolo Evento:** consente di assegnare un titolo all'evento in
   relazione al quale verrà poi creata la Lista Regalo
@@ -118,8 +115,7 @@ height="3.484722222222222in"}
 > configurazione della Tipologia di Wishlist sia stato selezionato il
 > flag **"Indirizzo Spedizione"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\maschera_modifica_tipologia_2.bmp](./assets/media/image205.png){width="5.877083333333333in"
-height="3.5395833333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\maschera_modifica_tipologia_2.bmp](./assets/media/image205.png)
 
 > Per maggiori informazioni in merito si veda anche la sezione "*Utenti
 > -- Wishlist -- Tipologia*" di questo manuale
@@ -210,8 +206,7 @@ consentiranno rispettivamente di:
 **[ELENCO DELLE WISHLIST / LISTE REGALO SALVATE IN MOMENTI PRECEDENTI
 DALL' UTENTE ATTUALMENTE LOGGATO]{.underline}**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\wl_lista_regalo_4.bmp](./assets/media/image206.png){width="5.177777777777778in"
-height="3.484722222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\wl_lista_regalo_4.bmp](./assets/media/image206.png)
 
 Per ciascuna "Lista Regalo" presente in elenco verranno visualizzati
 anche i seguenti pulsanti:
@@ -223,8 +218,7 @@ anche i seguenti pulsanti:
   corrispondente Lista Regalo, sostituendolo a quello della Wishlist
   Corrente.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_regalo_salvata.bmp](./assets/media/image207.png){width="6.134722222222222in"
-height="3.2576388888888888in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_regalo_salvata.bmp](./assets/media/image207.png)
 
 > Nell'intestazione di questa lista verrà inoltre visualizzato:
 
@@ -266,8 +260,7 @@ height="3.2576388888888888in"}
 > condividere la Lista Regalo in oggetto via social (Facebook, Twitter
 > e/o Google +) oppure via mail
 
-![Videate\\wl_lista_regalo_5.bmp](./assets/media/image208.png){width="5.177777777777778in"
-height="2.828472222222222in"}
+![Videate\\wl_lista_regalo_5.bmp](./assets/media/image208.png)
 
 > Per maggiori informazioni relativamente alle modalità di condivisione
 > di una Lista Regalo si veda anche la sezione "*Varianti Sito

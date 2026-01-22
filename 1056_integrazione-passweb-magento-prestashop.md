@@ -28,8 +28,7 @@ dunque ne attivarlo ne tanto meno configurarlo in maniera particolare)
 tra quelli selezionabili, in fase di mapping, all'interno del campo
 "**Pagamento Gestionale**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\magento_pagamenti_3.bmp](./assets/media/image254.png){width="4.967361111111111in"
-height="3.0131944444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\magento_pagamenti_3.bmp](./assets/media/image254.png)
 
 **ATTENZIONE!** Nel caso in cui dovesse essere acquisito da Magento /
 Prestashop un ordine con l'indicazione di un pagamento che non è stato

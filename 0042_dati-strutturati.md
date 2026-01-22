@@ -7,8 +7,7 @@ l'utilizzo dei cosiddetti **dati strutturati**, relativamente alla
 "parte Ecommerce" del sito web decidendo anche se implementarne
 l'utilizzo mediante Microdati o JSON LD
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\microdati_1.bmp](./assets/media/image119.png){width="5.532638888888889in"
-height="3.584722222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\microdati_1.bmp](./assets/media/image119.png)
 
 **ATTENZIONE! l'implementazione dei dati strutturati mediante JSON LD
 richiede l'attivazione del relativo modulo su Passstore**

@@ -5,8 +5,7 @@
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componenti-menu-modcontenuto_res.bmp](./assets/media/image11.png){width="4.740277777777778in"
-height="2.870138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componenti-menu-modcontenuto_res.bmp](./assets/media/image11.png)
 
 suddivisa in varie sezioni.
 
@@ -129,8 +128,7 @@ quanto impostato per il precedente parametro "Tipo di Caricamento"
 > essere visualizzato il menu nel momento in cui un utente dovesse
 > richiamarlo cliccando sull'apposito pulsante.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_offcanvas_configurazione.bmp](./assets/media/image12.png){width="4.065277777777778in"
-height="2.954861111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_offcanvas_configurazione.bmp](./assets/media/image12.png)
 
 > Nello specifico dunque il parametro:
 
@@ -166,8 +164,7 @@ height="2.954861111111111in"}
 > pulsante di apertura verrà utilizzata la classica icona, normalmente
 > presente (soprattutto in ambito mobile), per gestire questo tipo di
 > elementi
-> ![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\icona_menu_offcanvas.bmp](./assets/media/image13.png){width="0.2465277777777778in"
-> height="0.21458333333333332in"}
+> ![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\icona_menu_offcanvas.bmp](./assets/media/image13.png)
 
 - **Alt-text immagine offcanvas**: consente di impostare, in tutte le
   lingue attualmente gestite all'interno del sito, il valore che dovrà
@@ -190,8 +187,7 @@ height="2.954861111111111in"}
 In questo caso sarà inoltre possibile specificare un valore per i
 seguenti parametri:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_tree_configurazione.bmp](./assets/media/image14.png){width="4.746527777777778in"
-height="2.8569444444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_tree_configurazione.bmp](./assets/media/image14.png)
 
 - **Immagine Controllo Apri/Chiudi Ramo:** consente di selezionare una
   specifica immagine da poter utilizzare per il controllo di apertura /

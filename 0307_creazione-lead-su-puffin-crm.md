@@ -14,8 +14,7 @@ Per far questo è necessario innanzitutto:
     alla pagina "**Sito -- Preferenze**" del Wizard (tab
     "**Integrazioni**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\puffin_crm_configurazione_2.bmp](./assets/media/image154.png){width="5.759722222222222in"
-height="3.363888888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\puffin_crm_configurazione_2.bmp](./assets/media/image154.png)
 
 > Per maggiori informazioni relativamente a come poter attivare questa
 > integrazione si veda anche quanto indicato all'interno del capitolo
@@ -26,8 +25,7 @@ height="3.363888888888889in"}
     "**Crea Contatto in Puffin CRM**" presente nella maschera di
     configurazione del componente stesso
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\crea_anagrafica_puffin.bmp](./assets/media/image155.png){width="4.415277777777778in"
-height="3.201388888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\crea_anagrafica_puffin.bmp](./assets/media/image155.png)
 
 Una volta verificate le due condizioni sopra indicate, inserendo poi
 all'interno del Form uno dei seguenti componenti:
@@ -47,8 +45,7 @@ all'interno del Form uno dei seguenti componenti:
 nella loro maschera di configurazione comparirà anche il parametro
 "**Campo Puffin CRM**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\campo_puffin_crm.bmp](./assets/media/image156.png){width="4.415277777777778in"
-height="3.201388888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\campo_puffin_crm.bmp](./assets/media/image156.png)
 
 che consentirà di indicare, selezionandolo dal relativo menu a tendina,
 lo specifico campo dell'anagrafica Lead di Puffin in cui dovrà essere
@@ -126,8 +123,7 @@ anche i Campi Custom appartenenti, in Puffin, a determinate "Strutture
 di Campi Custom", strutture queste che, sempre all'interno di Puffin,
 dovranno essere assegnate anche a specifici Utenti.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\puffin_campi_custom_6.bmp](./assets/media/image157.png){width="4.409027777777778in"
-height="3.201388888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\puffin_campi_custom_6.bmp](./assets/media/image157.png)
 
 Tali campi, come evidenziato in figura, saranno raggruppati nella select
 presente in corrispondenza del parametro "Campo Puffin CRM" all'interno
@@ -146,8 +142,7 @@ quelle che dovranno quindi essere le impostazioni e le eventuali
 limitazioni da settare, di conseguenza, sul campo Passweb per evitare
 poi possibili errori in fase di salvataggio del form
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\legenda_campo_puffin_crm.bmp](./assets/media/image158.png){width="4.415277777777778in"
-height="3.201388888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\legenda_campo_puffin_crm.bmp](./assets/media/image158.png)
 
 Il campo "Email" evidenziato in figura, ad esempio, lato Puffin è un
 campo di tipo stringa (**Tipo di Campo: stringa**) che ha abilitato un
@@ -165,8 +160,7 @@ l'eventuale condizione di obbligatorietà legata al fatto che il campo
 "Cellulare" presente nel form (e ovviamente mappato con il
 corrispondente campo Puffin) sia uguale a stringa vuota
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\legenda_campo_puffin_crm_2.bmp](./assets/media/image159.png){width="4.415277777777778in"
-height="3.207638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\legenda_campo_puffin_crm_2.bmp](./assets/media/image159.png)
 
 In questo modo, come è semplice comprendere, i controlli richiesti da
 Puffin verranno applicati a monte da Passweb per cui, se soddisfatti, il
@@ -290,8 +284,7 @@ configurato con le impostazioni di seguito indicate:
   Identificativo provenienza) / No (per Identificativo Paese /
   Identificativo residenza fiscale)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\puffin_identificativo_provenienza.bmp](./assets/media/image160.png){width="4.4222222222222225in"
-height="3.201388888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\puffin_identificativo_provenienza.bmp](./assets/media/image160.png)
 
 Salvando il componente con le impostazioni indicate verranno
 automaticamente prelevate da Puffin tutte le possibili opzioni di scelta
@@ -305,8 +298,7 @@ Tornando infatti ad aprire la maschera di configurazione del componente
 Provenienza" di Puffin, troveremo ora le diverse possibili opzioni di
 scelta all'interno della sezione "**Gestione Valori**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\puffin_identificativo_provenienza_1.bmp](./assets/media/image161.png){width="4.415277777777778in"
-height="3.201388888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\puffin_identificativo_provenienza_1.bmp](./assets/media/image161.png)
 
 **ATTENZIONE!** per visualizzare le diverse possibili opzioni di scelta
 del componente "Campo Lista Valori" utilizzato per mappare i campi

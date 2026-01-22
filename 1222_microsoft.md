@@ -9,8 +9,7 @@
 **Nome Utente OAuth**: indirizzo mail della casella da cui verranno poi
 inviate le mail (es. mioindirizzo@outlook.com)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\oauth_microsoft_1.bmp](./assets/media/image19.png){width="5.760416666666667in"
-height="3.4784722222222224in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\oauth_microsoft_1.bmp](./assets/media/image19.png)
 
 Una volta impostati i parametri di configurazione (Tipologia di
 Sicurezza, Tipologia di OAuth e Nome Utente OAuth) come sopra
@@ -18,8 +17,7 @@ evidenziato, cliccando sul pulsante "**Genera Token**" verremo
 automaticamente ridiretti sulla pagina di accesso dell'account Microsoft
 specificato all'interno del campo "**Nome Utente OAuth**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\oauth_microsoft_2.bmp](./assets/media/image20.png){width="5.368055555555555in"
-height="3.3375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\oauth_microsoft_2.bmp](./assets/media/image20.png)
 
 Dopo aver inserito le credenziali del proprio account, facendo
 attenzione ad utilizzare esattamente lo stesso indirizzo email
@@ -29,8 +27,7 @@ richieste, autorizzazioni queste indispensabili per consentire a Passweb
 di ottenere il token necessario per poter effettuare l'autenticazione
 alla casella di posta da cui verranno poi inviate le diverse mail
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\oauth_microsoft_3.bmp](./assets/media/image21.png){width="5.368055555555555in"
-height="3.3375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\oauth_microsoft_3.bmp](./assets/media/image21.png)
 
 Una volta concesse tutte le autorizzazioni del caso (pulsante **Sì**)
 verremo automaticamente riportati sul Wizard di Passweb. A questo punto

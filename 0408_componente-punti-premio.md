@@ -4,16 +4,14 @@
 
 Il componente "**Punti Premio**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_punti_premio.bmp](./assets/media/image254.png){width="2.588888888888889in"
-height="3.1166666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_punti_premio.bmp](./assets/media/image254.png)
 
 può essere inserito unicamente all'interno dell'omonima pagina, è
 legato, ovviamente, all'attivazione e alla gestione di un determinato
 sistema di raccolta punti e consente agli utenti del sito di
 visualizzare un riepilogo dettagliato dei punti attualmente accumulati
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\punti_premio.bmp](./assets/media/image255.png){width="5.368055555555555in"
-height="3.3555555555555556in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\punti_premio.bmp](./assets/media/image255.png)
 
 **ATTENZIONE!** Per ovvie ragioni il componente "Punti Premio" sarà
 visibile solo dopo aver effettuato l'autenticazione al sito. In fase di

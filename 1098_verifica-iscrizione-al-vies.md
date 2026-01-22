@@ -93,8 +93,7 @@ alla loro anagrafica Passweb.
 All'interno della maschera "Dati Utente" del Wizard troveremo infatti i
 due campi "**Iscrizione VIES**" e "**Dettaglio Risposta VIES**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\stato_iscrizione_vies.bmp](./assets/media/image457.png){width="5.83125in"
-height="4.214583333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\stato_iscrizione_vies.bmp](./assets/media/image457.png)
 
 che consentono rispettivamente:
 

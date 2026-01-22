@@ -24,8 +24,7 @@ dell'App "**Google Authenticator**", la generazione dei codici necessari
 per completare il processo di autenticazione oltre, ovviamente, al campo
 di input in cui poter inserire questi stessi codici
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\profilo_2fa_6.bmp](./assets/media/image10.png){width="5.811805555555556in"
-height="3.83125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\profilo_2fa_6.bmp](./assets/media/image10.png)
 
 In sostanza dunque per poter superare l'autenticazione a due fattori
 sarà necessario:
@@ -36,13 +35,11 @@ sarà necessario:
 
 - Cliccare sul pulsante di aggiunta di un nuovo account
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amministrazione_2fa_2.bmp](./assets/media/image11.png){width="1.7208333333333334in"
-height="3.734027777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amministrazione_2fa_2.bmp](./assets/media/image11.png)
 
 - Selezionare l'opzione "**Scansiona un codice QR**"
 
-![Videate\\amministrazione_2fa_3.bmp](./assets/media/image12.png){width="1.7208333333333334in"
-height="3.734027777777778in"}
+![Videate\\amministrazione_2fa_3.bmp](./assets/media/image12.png)
 
 > e utilizzare quindi il proprio smartphone per scansionare il QR code
 > visualizzato nella maschera di accesso al Wizard
@@ -51,8 +48,7 @@ height="3.734027777777778in"}
   Authenticator** all'interno dell'apposito campo presente, anch'esso,
   nella maschera di accesso Wizard
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\profilo_2fa_7.bmp](./assets/media/image13.png){width="5.811805555555556in"
-height="3.83125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\profilo_2fa_7.bmp](./assets/media/image13.png)
 
 > e cliccare quindi sul pulsante di Login
 >
@@ -69,8 +65,7 @@ quindi, durante i successivi accessi al Wizard verrà visualizzato
 solamente il campo di input in cui inserire il codice a 6 cifre
 prelevato dall' App
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\profilo_2fa_2.bmp](./assets/media/image14.png){width="5.811805555555556in"
-height="3.7729166666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\profilo_2fa_2.bmp](./assets/media/image14.png)
 
 Il check "**Non chiedermelo per X giorni su questo browser**" consente
 invece di decidere per quanti giorni potrà essere possibile effettuare
@@ -102,13 +97,11 @@ Google Authenticator appena descritta. Una volta installato sarà quindi
 necessario cliccare sul pulsante di scansione del QR Code presente nella
 pagina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\profilo_2fa_8.bmp](./assets/media/image15.png){width="5.811805555555556in"
-height="4.298611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\profilo_2fa_8.bmp](./assets/media/image15.png)
 
 e selezionare quindi il QR Code mostrato a video.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\profilo_2fa_10.bmp](./assets/media/image16.png){width="5.811805555555556in"
-height="3.83125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\profilo_2fa_10.bmp](./assets/media/image16.png)
 
 Attivato l'account sarà poi sufficiente richiamare nuovamente il plugin
 per visualizzare il codice a 6 cifre richiesto dall'autenticazione a due

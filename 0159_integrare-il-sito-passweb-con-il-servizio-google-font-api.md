@@ -17,8 +17,7 @@ seguito indicata.
 > <https://console.developers.google.com> e autenticarsi con il proprio
 > Account Google.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gf_6.bmp](./assets/media/image167.png){width="5.055555555555555in"
-height="3.0in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gf_6.bmp](./assets/media/image167.png)
 
 > **ATTENZIONE!** L'Account Google è il prerequisito necessario per
 > poter usufruire di tutti i servizi messi a disposizione da Google. Nel
@@ -32,39 +31,33 @@ height="3.0in"}
 - Accedere alla maschera di gestione dei progetti e creare un nuovo
   progetto cliccando sul pulsante raffigurante un piccolo +
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gf_7.bmp](./assets/media/image168.png){width="5.055555555555555in"
-height="3.0in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gf_7.bmp](./assets/media/image168.png)
 
 - Assegnare un nome al progetto (es. Google Font) e cliccare sul
   pulsante **Crea**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gf_8.bmp](./assets/media/image169.png){width="5.055555555555555in"
-height="3.0in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gf_8.bmp](./assets/media/image169.png)
 
 - Una volta completata la creazione del progetto cliccare sul pulsante
   "**Abilita API e Servizi**" presente nella parte alta della pagina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gf_12.bmp](./assets/media/image170.png){width="5.055555555555555in"
-height="3.0in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gf_12.bmp](./assets/media/image170.png)
 
 - Dal pannello di gestione delle API selezionare la voce **Web Fonts
   Developer API** presente all'interno della sezione **Altro**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gf_13.bmp](./assets/media/image171.png){width="5.055555555555555in"
-height="3.0in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gf_13.bmp](./assets/media/image171.png)
 
 - Abilitare la relativa API cliccando per questo sul pulsante
   **ABILITA** presente nella parte alta della maschera
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gf_14.bmp](./assets/media/image172.png){width="5.055555555555555in"
-height="3.0in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gf_14.bmp](./assets/media/image172.png)
 
 - Una volta abilitata la Api Key prima di poterla effettivamente
   utilizzare all'interno del proprio progetto è necessario creare delle
   apposite credenziali, come indicato da Google stesso
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gf_15.bmp](./assets/media/image173.png){width="5.055555555555555in"
-height="3.0in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gf_15.bmp](./assets/media/image173.png)
 
 > Cliccare quindi sul pulsante **Crea Credenziali** per accedere alla
 > sezione di gestione delle suddette credenziali
@@ -74,15 +67,13 @@ height="3.0in"}
   Developer API** e cliccare sul pulsante "**Di quali credenziali hai
   bisogno?**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gf_16.bmp](./assets/media/image174.png){width="5.055555555555555in"
-height="3.0in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gf_16.bmp](./assets/media/image174.png)
 
 - A questo punto all'interno della sezione **"Ottieni le tue
   credenziali"** verrà visualizzata l'API Key di cui abbiamo bisogno per
   completare l'integrazione del servizio con il nostro sito Passweb.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gf_17.bmp](./assets/media/image175.png){width="5.055555555555555in"
-height="3.0in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gf_17.bmp](./assets/media/image175.png)
 
 - Una volta ottenuta l'API Key, prima di completare il processo
   cliccando sul pulsante **Fatto**, copiarla ed incollarla all'interno
@@ -90,15 +81,13 @@ height="3.0in"}
   **Integrazioni** della pagina **Sito -- Preferenze** del proprio sito
   Passweb
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gf_19.bmp](./assets/media/image176.png){width="5.760416666666667in"
-height="3.490972222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gf_19.bmp](./assets/media/image176.png)
 
 > L' Api Key appena creata potrà comunque essere sempre visualizzata
 > nella developer console di Google all'interno della sezione
 > "**Credenziali**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gf_20.bmp](./assets/media/image177.png){width="5.043055555555555in"
-height="2.98125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gf_20.bmp](./assets/media/image177.png)
 
 - Completata la creazione della Api Key e inserita questa stessa chiave
   sul proprio sito Passweb, per poter effettivamente disporre di uno o
@@ -110,12 +99,10 @@ height="2.98125in"}
 > Portarsi quindi nella sezione "**Inclusioni nella Pagina**" della
 > maschera di gestione del Layout e cliccare sul pulsante "**Nuova
 > Inclusione**"
-> ![Videate\\pulsante_nuova_inclusione_res.bmp](./assets/media/image178.png){width="0.6013888888888889in"
-> height="0.17777777777777778in"} in maniera tale da poter creare una
+> ![Videate\\pulsante_nuova_inclusione_res.bmp](./assets/media/image178.png) in maniera tale da poter creare una
 > nuova inclusione di tipo **Google Font**.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gf_22_res.bmp](./assets/media/image179.png){width="5.760416666666667in"
-height="3.490972222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gf_22_res.bmp](./assets/media/image179.png)
 
 > In queste condizioni all'interno del campo **"Google Font"** verrà
 > visualizzato l'elenco di tutti i web fonts messi a disposizione da
@@ -155,8 +142,7 @@ height="3.490972222222222in"}
 > (Riquadro Opzioni Componente)** cliccare sul pulsante di Editing
 > Grafico in maniera tale da aprire lo **Style Editor**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gf_24_res.bmp](./assets/media/image180.png){width="5.760416666666667in"
-height="3.4972222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gf_24_res.bmp](./assets/media/image180.png)
 
 > **ATTENZIONE!** Per maggiori informazioni relativamente al R.O.C.,
 > allo Style Editor e/o in generale alla gestione dei componenti si veda
@@ -168,13 +154,11 @@ height="3.4972222222222222in"}
 > utilizzabili per l'elemento selezionato e tra questi troveremo ora
 > anche i Google Font precedentemente inclusi nel layout
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gf_25_res.bmp](./assets/media/image181.png){width="4.0125in"
-height="2.1534722222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gf_25_res.bmp](./assets/media/image181.png)
 
 > Per utilizzare il font desiderato sarà quindi sufficiente selezionarlo
 > dall'elenco e cliccare sul pulsante raffigurante un piccolo **+**
-> (![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\pulsante_piu.bmp](./assets/media/image182.png){width="0.12916666666666668in"
-> height="0.12291666666666666in"})
+> (![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\pulsante_piu.bmp](./assets/media/image182.png))
 
 **ATTENZIONE!** Nel caso in cui il font selezionato debba essere
 utilizzato come font generale di tutto il sito si consiglia di

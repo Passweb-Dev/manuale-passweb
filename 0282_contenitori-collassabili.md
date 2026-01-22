@@ -6,8 +6,7 @@ Per poter gestire un Contenitore e tutto il suo contenuto come elemento
 collassabile è sufficiente selezionare il relativo parametro presente
 nella maschera di configurazione del Contenitore stesso
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\contenitore_collassabile.bmp](./assets/media/image97.png){width="5.110416666666667in"
-height="3.077777777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\contenitore_collassabile.bmp](./assets/media/image97.png)
 
 **Tipologia di collapse:** consente di rendere il contenuto del
 Componente Contenitore che si sta realizzando, collassabile dando quindi
@@ -34,8 +33,7 @@ poterli editare e gestire correttamente sarà necessario per prima cosa
 renderli visibili cliccando per questo sul relativo pulsante di apertura
 esattamente come farebbe un normale visitatore del sito
 
-![Videate\\contenitore_collapse_2.bmp](./assets/media/image98.png){width="5.097222222222222in"
-height="2.636111111111111in"}
+![Videate\\contenitore_collapse_2.bmp](./assets/media/image98.png)
 
 Una volta reso visibile il Contenitore Collassabile sarà poi possibile
 gestirlo sia a livello grafico che a livello di contenuti secondo le

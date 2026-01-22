@@ -5,8 +5,7 @@
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_immagine_prodotto_configurazione_res.bmp](./assets/media/image470.png){width="4.638194444444444in"
-height="2.9631944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_immagine_prodotto_configurazione_res.bmp](./assets/media/image470.png)
 
 suddivisa in varie sezioni.
 
@@ -71,8 +70,7 @@ La sotto sezione "**Opzioni Avanzate per immagine rappresentativa della
 scheda prodotto**" consente di settare i parametri di configurazione
 relativi alla galleria delle immagini secondarie.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_immagine_prodotto_configurazione_2_res.bmp](./assets/media/image471.png){width="4.65in"
-height="2.9756944444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_immagine_prodotto_configurazione_2_res.bmp](./assets/media/image471.png)
 
 Nello specifico dunque il parametro
 
@@ -96,8 +94,7 @@ selezionare uno dei seguenti valori:
 > frecce di navigazione (verso destra e verso sinistra) poste ai lati
 > dell'immagine stessa.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\galleria_immagini_prodotto_small.bmp](./assets/media/image472.png){width="3.588888888888889in"
-height="4.588888888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\galleria_immagini_prodotto_small.bmp](./assets/media/image472.png)
 
 - **Visualizza la gallery:** in queste condizioni anche per risoluzioni
   inferiori ai 992 px il componente manterrà comunque sia l'immagine
@@ -161,8 +158,7 @@ Infine, all'interno della sotto sezione "**Opzioni avanzate per lo zoom
 dell'Immagine del prodotto**" sarà possibile attivare e configurare
 l'effetto di zoom sull'Immagine Principale del prodotto.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_immagine_prodotto_configurazione_3_res.bmp](./assets/media/image473.png){width="4.638194444444444in"
-height="2.9444444444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_immagine_prodotto_configurazione_3_res.bmp](./assets/media/image473.png)
 
 Nello specifico dunque il parametro
 
@@ -175,22 +171,19 @@ attivare. E' possibile selezionare uno dei seguenti valori:
 - **Finestra esterna:** selezionando questa opzione il riquadro di zoom
   verrà posizionato esternamente all'immagine principale della galleria
 
-![Videate\\zoom_immagine_prodotto_2.bmp](./assets/media/image474.png){width="5.177777777777778in"
-height="3.3618055555555557in"}
+![Videate\\zoom_immagine_prodotto_2.bmp](./assets/media/image474.png)
 
 - **Interno**: selezionando questa opzione il riquadro di zoom verrà
   posizionato internamente all'immagine principale della galleria
 
-![Videate\\zoom_immagine_prodotto_3.bmp](./assets/media/image475.png){width="5.177777777777778in"
-height="3.3618055555555557in"}
+![Videate\\zoom_immagine_prodotto_3.bmp](./assets/media/image475.png)
 
 - **Lente:** selezionando questa opzione non verrà impostato nessun
   riquadro di zoom ma l'effetto sarà implementato mediante l'utilizzo di
   una lente di ingrandimento da poter spostare direttamente
   sull'immagine principale della galleria
 
-![Videate\\zoom_immagine_prodotto_4.bmp](./assets/media/image476.png){width="5.177777777777778in"
-height="3.3618055555555557in"}
+![Videate\\zoom_immagine_prodotto_4.bmp](./assets/media/image476.png)
 
 **ATTENZIONE!** Per un funzionamento ottimale dello zoom si consiglia di
 utilizzare immagini originali (principale e secondarie) tutte delle
@@ -211,8 +204,7 @@ di zoom. Tali dimensioni verranno prese in considerazione solo nel
 momento in cui il successivo parametro "**Tipo di zoom**" sia impostato
 sul valore "**Finestra Esterna**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\zoom_immagine_prodotto_1.bmp](./assets/media/image477.png){width="5.177777777777778in"
-height="3.3618055555555557in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\zoom_immagine_prodotto_1.bmp](./assets/media/image477.png)
 
 **Offset orizzontale / verticale della finestra dell'immagine:** solo
 per "Tipo di zoom = Finestra Esterna"

@@ -4,8 +4,7 @@
 
 Il Componente **"Campo Password"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\campo_password_login_res.bmp](./assets/media/image71.png){width="2.5388888888888888in"
-height="2.5388888888888888in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\campo_password_login_res.bmp](./assets/media/image71.png)
 
 consente di inserire all'interno del pannello di login il campo che
 dovrà poi essere utilizzato dall'utente, in fase di autenticazione al
@@ -14,17 +13,14 @@ sito, per inserire la propria password
 **Tale campo corrisponderà quindi con quello utilizzato all'interno del
 gestionale per memorizzare la password di accesso al sito.**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\campo_password_mexal.bmp](./assets/media/image72.png){width="4.415277777777778in"
-height="2.3833333333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\campo_password_mexal.bmp](./assets/media/image72.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\horeca_campo_testo_password.bmp](./assets/media/image73.png){width="5.052083333333333in"
-height="3.4805555555555556in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\horeca_campo_testo_password.bmp](./assets/media/image73.png)
 
 Inserendo questo Componente all'interno del pannello di login verrà
 aperta **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_iu_password_configurazione_res.bmp](./assets/media/image74.png){width="5.143055555555556in"
-height="3.0909722222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_iu_password_configurazione_res.bmp](./assets/media/image74.png)
 
 suddivisa in varie sezioni.
 
@@ -97,8 +93,7 @@ corrispondente campo del gestionale).
 di abilitare un pulsante che l'utente potrà utilizzare, in fase di
 inserimento Password, per mostrare in chiaro o meno i caratteri digitati
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_mostra_nascondi_password.bmp](./assets/media/image75.png){width="3.234027777777778in"
-height="3.279166666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_mostra_nascondi_password.bmp](./assets/media/image75.png)
 
 **Posizionamento dei Campi:** consente di posizionare gli elementi
 principali del componente secondo uno schema prestabilito.

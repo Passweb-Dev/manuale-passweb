@@ -4,8 +4,7 @@
 
 Il Componente **"Navigazione libro"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cms_componente_navigazione_libro_res.bmp](./assets/media/image86.png){width="2.5520833333333335in"
-height="2.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cms_componente_navigazione_libro_res.bmp](./assets/media/image86.png)
 
 consente di inserire all'interno di un componente CMS "Libro", tutta una
 serie di controlli grazie ai quali poter navigare interattivamente fra i
@@ -26,8 +25,7 @@ A livello di configurazione, una volta inserito il Componente
 all'interno della pagina web, verrà aperta in automatico **la sua
 maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_navigazione_libro_configurazione_res.bmp](./assets/media/image87.png){width="4.629861111111111in"
-height="3.0972222222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_navigazione_libro_configurazione_res.bmp](./assets/media/image87.png)
 
 suddivisa in varie sezioni.
 

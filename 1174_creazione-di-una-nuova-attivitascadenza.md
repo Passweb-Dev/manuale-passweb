@@ -4,16 +4,14 @@
 
 Per inserire in Agenda una nuova attività/scadenza/appuntamento è
 possibile cliccare sul **Nuovo(**
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuovo_agenda_ar.bmp](./assets/media/image139.png){width="0.24027777777777778in"
-height="0.23402777777777778in"} **)** presente nella parte bassa della
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuovo_agenda_ar.bmp](./assets/media/image139.png) **)** presente nella parte bassa della
 maschera o, in alternativa cliccare direttamente sul periodo desiderato
 (giorno o fascia oraria)
 
 In entrambi i casi infatti verrà aperta la maschera di inserimento nuova
 attività
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ec_nuova_attivita.bmp](./assets/media/image150.png){width="5.272916666666666in"
-height="3.285416666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ec_nuova_attivita.bmp](./assets/media/image150.png)
 
 suddivisa in due distinte sezioni.
 
@@ -42,8 +40,7 @@ valore per i seguenti campi:
   indicarne anche la frequenza (**giornaliera, settimanale, mensile,
   annuale**), il numero di ripetizioni e/o l'eventuale scadenza.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ripeti_attivita.bmp](./assets/media/image151.png){width="4.311805555555556in"
-height="4.188194444444444in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ripeti_attivita.bmp](./assets/media/image151.png)
 
 E' possibile impostare la frequenza (**giornaliera, settimanale,
 mensile, annuale**) della ricorrenza, il numero di ripetizioni e/o
@@ -54,14 +51,12 @@ un'attività/scadenza ripetitiva rispetto a una normale attività, grazie
 alla presenza, sulla destra dell'attività stessa, di una piccola icona
 raffigurante un orologio
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\attivta_singola_ripetuta.bmp](./assets/media/image152.png){width="5.454861111111111in"
-height="3.50625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\attivta_singola_ripetuta.bmp](./assets/media/image152.png)
 
 All'interno della sezione **"Stato Attività"** è invece possibile
 impostare un valore per i seguenti campi:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\agenda_stato_attivita.bmp](./assets/media/image153.png){width="4.772916666666666in"
-height="3.629861111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\agenda_stato_attivita.bmp](./assets/media/image153.png)
 
 - **Stato:** consente di impostare selezionando tra **Pianificata,
   Annullata, Completata, Scaduta** lo specifico Stato da assegnare
@@ -96,8 +91,7 @@ height="3.629861111111111in"}
 >
 > Per selezionare uno dei possibili destinatari è sufficiente cliccare
 > sul pulsante **Inserisci Utenti** (
-> ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_pulsante_inserisci_utente.bmp](./assets/media/image154.png){width="0.2534722222222222in"
-> height="0.23402777777777778in"} ). In questo modo verrà infatti
+> ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_pulsante_inserisci_utente.bmp](./assets/media/image154.png) ). In questo modo verrà infatti
 > visualizzata la maschera "**Destinatari**" contenente una lista,
 > organizzata ad albero, di tutti i possibili destinatari dell'attività.
 >
@@ -113,8 +107,7 @@ height="3.629861111111111in"}
 
 - **rosso** i vari gruppi utente;
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_nuovo_destinatario.bmp](./assets/media/image155.png){width="3.00625in"
-height="4.013194444444444in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_nuovo_destinatario.bmp](./assets/media/image155.png)
 
 > Per inserire un nuovo destinatario sarà quindi sufficiente
 > selezionarlo dall'elenco sopra evidenziato, mettendo l'apposita
@@ -122,8 +115,7 @@ height="4.013194444444444in"}
 >
 > Per eliminare invece uno dei destinatari inseriti è sufficiente
 > selezionarlo e cliccare poi sul pulsante **Rimuovi Utente** (
-> ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_pulsante_elimina_utenti.bmp](./assets/media/image53.png){width="0.1625in"
-> height="0.1625in"} ).
+> ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_pulsante_elimina_utenti.bmp](./assets/media/image53.png) ).
 
 **NOTA BENE**: per maggiori informazioni relativamente alle diverse
 tipologie di utenti che possono avere accesso all'Area Riservata del
@@ -161,8 +153,7 @@ Area Riservata -- Tipologia Utenti Area Riservata" di questo manuale.
   relative notifiche (Email, SMS, Telegram e/o Whatsapp) ai destinatari,
   legati alla scadenza dell'attività in esame
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_promemoria_attivita.bmp](./assets/media/image156.png){width="4.7659722222222225in"
-height="4.304861111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_promemoria_attivita.bmp](./assets/media/image156.png)
 
 > Per attivare un promemoria è necessario, ovviamente, indicare,
 > selezionandola tra le opzioni disponibili, quanto prima della scadenza
@@ -197,8 +188,7 @@ dell'attività, il pulsante "**Salva**" presente nella parte alta della
 maschera consentirà di salvare queste stesse impostazioni e di inserire
 quindi l'attività in agenda.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\salvataggio_attivita_agenda.bmp](./assets/media/image157.png){width="4.285416666666666in"
-height="3.7465277777777777in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\salvataggio_attivita_agenda.bmp](./assets/media/image157.png)
 
 In questa fase se è stata correttamente configurata l'integrazione tra
 il proprio sito e Google Calendar, e il destinatario dell'attività

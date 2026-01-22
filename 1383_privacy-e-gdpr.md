@@ -143,8 +143,7 @@ potrebbe anche essere quella di utilizzare il form di Opt Out (standard
 o customizzato) disponibile tra i vari strumenti di gestione della
 Privacy messi a disposizione da Matomo
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_9.bmp](./assets/media/image9.png){width="4.157638888888889in"
-height="4.625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_9.bmp](./assets/media/image9.png)
 
 e le relative chiamate API per una corretta gestione delle richieste di
 consenso

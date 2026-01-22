@@ -9,8 +9,7 @@ pagamento che verranno poi proposte al cliente che acquista sul web.
 All'interno di questa pagina verrà quindi visualizzata la maschera
 **"Lista dei Metodi di Pagamento"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_modalita_pagamento.bmp](./assets/media/image1.png){width="5.850694444444445in"
-height="3.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_modalita_pagamento.bmp](./assets/media/image1.png)
 
 in cui verranno elencate tutte le modalità di pagamento codificate e
 gestite all'interno della relativa tabella gestionale.
@@ -23,16 +22,14 @@ stessa.
 Una volta impostato un filtro di ricerca, per poterlo poi eliminare sarà
 sufficiente cliccare sull'icona raffigurante una piccola lente di
 ingrandimento con un -- all'interno (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina_filtro.bmp](./assets/media/image2.png){width="7.777777777777778e-2in"
-height="9.722222222222222e-2in"} ) che comparirà in testata alla colonna
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina_filtro.bmp](./assets/media/image2.png) ) che comparirà in testata alla colonna
 in corrispondenza della quale è stato impostato il filtro stesso.
 
 Infine è anche possibile ordinare, in maniera crescente e/o decrescente,
 gli elementi in griglia cliccando semplicemente sull'icona raffigurante
 due piccole frecce posta anch' essa in testata ad ogni singola colonna
 della griglia (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_ordinamento_griglia.bmp](./assets/media/image3.png){width="0.12361111111111112in"
-height="0.14930555555555555in"} )
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_ordinamento_griglia.bmp](./assets/media/image3.png) )
 
 **NOTA BENE:** per maggiori informazioni relative alla codifica ed alla
 gestione dei pagamenti all'interno del gestionale si rimanda
@@ -63,14 +60,12 @@ attivarla o meno anche all'interno del sito.
 Per attivare una delle modalità di pagamento presenti in elenco e
 renderla quindi disponibile ai vari clienti del sito web è sufficiente
 selezionarla e cliccare poi sul pulsante **"Attiva Pagamento"** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_attiva_pagamento.bmp](./assets/media/image4.png){width="0.6298611111111111in"
-height="0.16875in"} ) presente nella barra degli strumenti.
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_attiva_pagamento.bmp](./assets/media/image4.png) ) presente nella barra degli strumenti.
 
 Allo stesso modo per disattivare una delle modalità precedentemente
 attivate, è sufficiente selezionarla e cliccare poi sul pulsante
 **"Disattiva Pagamento"** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_disattiva_pagamento.bmp](./assets/media/image5.png){width="0.6881944444444444in"
-height="0.16875in"} ) presente nella barra degli strumenti.
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_disattiva_pagamento.bmp](./assets/media/image5.png) ) presente nella barra degli strumenti.
 
 **NOTA BENE:** all'interno del sito e-commerce i clienti potranno
 scegliere unicamente tra le modalità di pagamento opportunamente
@@ -101,8 +96,7 @@ notifica.**
 A default i pagamenti presenti all'interno dei questa pagina assumeranno
 la tipologia **"Pagamento del gestionale"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamenti_mexal.bmp](./assets/media/image6.png){width="5.8180555555555555in"
-height="3.5256944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamenti_mexal.bmp](./assets/media/image6.png)
 
 E' possibile personalizzare alcuni parametri di questi pagamenti,
 modificandone l'etichetta identificativa o definendo ad esempio dei

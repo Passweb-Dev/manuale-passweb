@@ -7,8 +7,7 @@ all'interno del menu **"Preferenze --SEO"** perette di impostare la
 struttura che dovrà essere utilizzata per generare il Title delle
 diverse tipologie di pagina presenti all'interno del sito web.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\preferenze_sito_seo.bmp](./assets/media/image22.png){width="5.714583333333334in"
-height="3.50625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\preferenze_sito_seo.bmp](./assets/media/image22.png)
 
 La scelta del **titolo di una pagina web** rappresenta il **primo
 importante passo per un buon posizionamento della pagina sui motori di
@@ -37,8 +36,7 @@ Per utilizzare un segnaposto è sufficiente cliccare sul pulsante
 "**Aggiungi segnaposto**" del relativo campo e selezionare uno dei
 valori tra quelli proposti.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\aggiungi_segnaposto_title.bmp](./assets/media/image23.png){width="5.876388888888889in"
-height="3.5972222222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\aggiungi_segnaposto_title.bmp](./assets/media/image23.png)
 
 In particolare, nella definizione dei Title delle pagine, è possibile
 utilizzare i seguenti elementi:
@@ -50,8 +48,7 @@ utilizzare i seguenti elementi:
 > inserito nel campo "**Nome Sito**" presente all'interno di questa
 > stessa sezione del Wizard
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\segnaposto_sitename.bmp](./assets/media/image24.png){width="5.876388888888889in"
-height="3.584722222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\segnaposto_sitename.bmp](./assets/media/image24.png)
 
 - **Pagina:** segnaposto corrispondente **{ pageName }**. Utilizzabile
   per le pagine semplici (pagine generiche, bianche, e pagine ecommerce,
@@ -61,8 +58,7 @@ height="3.584722222222222in"}
 > inserito all'interno del campo "**Titolo Pagina**" presente nelle
 > proprietà della pagina stessa
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\segnaposto_pagename.bmp](./assets/media/image25.png){width="3.6430555555555557in"
-height="2.3506944444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\segnaposto_pagename.bmp](./assets/media/image25.png)
 
 > **ATTENZIONE!**: Nel caso in cui il parametro "Titolo Pagina" non sia
 > stato valorizzato il segnaposto in oggetto verrà sostituito con quanto

@@ -49,8 +49,7 @@ destinazione e quindi se questa stessa specifica verrà poi presa in
 considerazione nella pubblicazione via API, nella pubblicazione via CSV
 o in entrambi i casi
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\magento_destinazione_inserzioni.bmp](./assets/media/image741.png){width="5.792361111111111in"
-height="3.422222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\magento_destinazione_inserzioni.bmp](./assets/media/image741.png)
 
 **ATTENZIONE!** **Eventuali specifiche custom verranno prese in
 considerazione, per ovvie ragioni, solo ed esclusivamente nel momento in
@@ -83,8 +82,7 @@ dell'anagrafica articolo presente sulla piattaforma terza che devono
 essere necessariamente valorizzati per poter codificare correttamente il
 relativo prodotto.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\magento_specifiche_1.bmp](./assets/media/image742.png){width="5.792361111111111in"
-height="3.422222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\magento_specifiche_1.bmp](./assets/media/image742.png)
 
 **ATTENZIONE!** Indipendentemente dal fatto che la specifica considerata
 sia una di quelle obbligatorie o una di quelle addizionali la cosa
@@ -114,8 +112,7 @@ piattaforma terza
 
 **Modalità ammesse:** Attributo Articolo / Attributo Passweb
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\magento_specifiche_name.bmp](./assets/media/image743.png){width="4.915277777777778in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\magento_specifiche_name.bmp](./assets/media/image743.png)
 
 Mappando la specifica in esame sulla modalità "**Attributo Articolo**"
 il campo valore potrà poi essere impostato unicamente sulla seguente
@@ -160,8 +157,7 @@ terza
 
 **Modalità ammesse:** Attributo Marketplace / Attributo Passweb
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\magento_set_attributi.bmp](./assets/media/image744.png){width="4.915277777777778in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\magento_set_attributi.bmp](./assets/media/image744.png)
 
 Come in Passweb, anche in Magento, ogni articolo dovrà necessariamente
 essere associato ad un ben preciso set di attributi che ne definisce le
@@ -302,8 +298,7 @@ sottolineare che:
   impostato sul valore 4 (**articolo visibile in Ricerca e in
   Catalogo**)
 
-![Videate\\magento_visibilita_articolo.bmp](./assets/media/image745.png){width="4.967361111111111in"
-height="3.3833333333333333in"}
+![Videate\\magento_visibilita_articolo.bmp](./assets/media/image745.png)
 
 - In fase di aggiornamento di un articolo già presente sulla piattaforma
   terza, il **campo Visibility** non verrà mai modificato. Eventuali
@@ -426,8 +421,7 @@ lo schema delle categorie merceologiche create e gestite sulla
 piattaforma terza (e coerenti ovviamente con quanto digitato
 dall'utente)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\magento_specifiche_2.bmp](./assets/media/image746.png){width="5.792361111111111in"
-height="3.422222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\magento_specifiche_2.bmp](./assets/media/image746.png)
 
 Sarà quindi sufficiente selezionare, tra quelle proposte, l'opzione
 desiderata in maniera tale da inserire all'interno del campo
@@ -444,8 +438,7 @@ comparirà quindi un nuovo campo ad autocompletamento mediante il quale
 poter selezionare l'ulteriore categoria cui associare gli articoli
 coinvolti nell'Inserzione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\magento_specifiche_3.bmp](./assets/media/image747.png){width="5.792361111111111in"
-height="3.422222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\magento_specifiche_3.bmp](./assets/media/image747.png)
 
 Come al solito, lavorando in questo modo tutti gli articoli pubblicati
 mediante l'Inserzione in esame verranno associati, ovviamente, alle
@@ -458,8 +451,7 @@ piattaforma terza articoli appartenenti a diverse categorie
 merceologiche sarà necessario configurare la Specifica "**Categoria**"
 impostandola, questa volta, sulla modalità "**Attributo Articolo**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\magento_specifiche_4.bmp](./assets/media/image748.png){width="5.792361111111111in"
-height="3.422222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\magento_specifiche_4.bmp](./assets/media/image748.png)
 
 In queste condizioni il campo "**Valore**" verrà gestito come una combo
 box e l'unica opzione di scelta disponibile sarà "**Magento Categoria
@@ -472,8 +464,7 @@ coinciderà esattamente con quanto impostato in corrispondenza del campo
 "**Marketplace**" nell' Anagrafica Passweb della categoria merceologica
 di appartenenza dell'articolo.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\magento_specifiche_5.bmp](./assets/media/image749.png){width="5.792361111111111in"
-height="3.422222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\magento_specifiche_5.bmp](./assets/media/image749.png)
 
 Il campo **"Magento Product Category"** è infatti un campo ad
 autocompletamento e, come nel caso precedente per il campo Valore, anche
@@ -556,8 +547,7 @@ opzioni:
 Consente di mappare il parametro che determina l'effettiva pubblicazione
 dell'articolo sulla piattaforma terza.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\magento_specifiche_pubblica.bmp](./assets/media/image750.png){width="4.967361111111111in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\magento_specifiche_pubblica.bmp](./assets/media/image750.png)
 
 Grazie a questa specifica sarà quindi possibile decidere **se l'articolo
 in esame, pur essendo presente nel Back end di Magento, dovrà essere o
@@ -689,8 +679,7 @@ autocompletamento e gli unici due valori ammessi saranno:
 > automaticamente inseriti nella sezione "Related Product" presente
 > nell'Anagrafica Magento del singolo articolo
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\magento_abbinati.bmp](./assets/media/image751.png){width="4.707638888888889in"
-height="3.207638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\magento_abbinati.bmp](./assets/media/image751.png)
 
 > **ATTENZIONE! In queste condizioni, eventuali associazioni create
 > direttamente in Magento verranno sovrascritte dalle informazioni
@@ -765,8 +754,7 @@ l'attributo utilizzato per il colore riporti ad esempio il valore "Nero"
 verrà creata per il corrispondente attributo Magento, una nuova opzione
 di scelta corrispondente, appunto, al valore fornito da Passweb.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\visual_swatch.bmp](./assets/media/image752.png){width="5.844444444444444in"
-height="3.363888888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\visual_swatch.bmp](./assets/media/image752.png)
 
 Inoltre, in relazione agli Attributi Magento di tipo "**Visual Swatch**"
 è necessario sottolineare che Passweb potrà inserire, a seguito di una
@@ -787,8 +775,7 @@ valore inserito da Passweb (valore questo che, come per gli Attributi di
 tipo Visual Swatch, verrà inserito all'interno della corrispondente
 colonna Admin)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\text_swatch.bmp](./assets/media/image753.png){width="5.844444444444444in"
-height="3.363888888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\text_swatch.bmp](./assets/media/image753.png)
 
 Per maggiori informazioni relativamente a come gestire inserzioni con
 articoli che presentano un massimo di due elementi varianti (es. Taglie
@@ -806,8 +793,7 @@ Tali specifiche dovranno prima essere codificate all'interno della
 corrispondente sezione del Wizard (*Catalogo -- Altri Marketplace --
 Specifiche*)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\specifiche_custom_1.bmp](./assets/media/image651.png){width="5.792361111111111in"
-height="3.422222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\specifiche_custom_1.bmp](./assets/media/image651.png)
 
 Una volta codificate sarà poi possibile gestirle, per ogni singola
 Inserzione, esattamente allo stesso modo in cui si gestiscono le
@@ -819,8 +805,7 @@ ciascuna di esse avrà un nome del tipo "**custom_tagSpecifica**" dove
 **tagSpecifica** è esattamente il valore inserito in fase di codifica
 della specifica stessa in corrispondenza del campo **Tag**
 
-![Videate\\specifiche_custom_2.bmp](./assets/media/image652.png){width="5.792361111111111in"
-height="3.422222222222222in"}
+![Videate\\specifiche_custom_2.bmp](./assets/media/image652.png)
 
 Per maggiori informazioni in merito a come poter codificare delle nuove
 specifiche custom si veda anche quanto indicato all'interno del capitolo

@@ -5,8 +5,7 @@
 Il Componente "**Selezione Indirizzo**" può essere utilizzato in una
 qualsiasi pagina del sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_selezione_indirizzo.bmp](./assets/media/image413.png){width="2.1166666666666667in"
-height="2.5277777777777777in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_selezione_indirizzo.bmp](./assets/media/image413.png)
 
 e consente di inserire all'interno della pagina stessa una combo box
 contenente un piccolo form che l'utente potrà utilizzare per indicare
@@ -16,8 +15,7 @@ di spedizione merce, zona questa in relazione alla quale verranno poi
 valutati gli importi di eventuali Tasse Addizionali e/o Metodi di
 Spedizione attualmente visualizzati all'interno del sito.
 
-![Videate\\selezione_indirizzo.bmp](./assets/media/image414.png){width="3.8652777777777776in"
-height="2.5277777777777777in"}
+![Videate\\selezione_indirizzo.bmp](./assets/media/image414.png)
 
 In particolare, per quel che riguarda la zona di spedizione in relazione
 alla quale verranno valutati gli importi delle spese di trasporto e/o

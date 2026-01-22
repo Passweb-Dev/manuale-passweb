@@ -7,8 +7,7 @@ componente Contenitore e a tutto il suo contenuto uno stesso link sarà
 sufficiente selezionare il relativo parametro presente nella maschera di
 configurazione del Contenitore stesso.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\contenitore_con_link.bmp](./assets/media/image99.png){width="5.097222222222222in"
-height="3.077777777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\contenitore_con_link.bmp](./assets/media/image99.png)
 
 **Abilita Link sul contenitore:** consente, se selezionato, di associare
 al Contenitore e a tutto il suo contenuto uno specifico link.

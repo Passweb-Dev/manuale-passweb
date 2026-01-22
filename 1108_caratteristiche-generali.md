@@ -14,8 +14,7 @@ di configurazione di ogni promozione permette di definire le condizioni
 di applicabilità della promozione stessa e il suo effettivo periodo di
 validità.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_promozioni_1.bmp](./assets/media/image531.png){width="5.155555555555556in"
-height="3.4027777777777777in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_promozioni_1.bmp](./assets/media/image531.png)
 
 Relativamente all'utilizzo della promozione all'interno del sito web,
 sono gestiti i seguenti campi:
@@ -74,12 +73,10 @@ promozione considerata, questi potranno essere inserti, in fase di
 configurazione della promozione, all'interno della scheda "**Clienti
 Associati**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_promozioni_4.bmp](./assets/media/image532.png){width="5.155555555555556in"
-height="3.4027777777777777in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_promozioni_4.bmp](./assets/media/image532.png)
 
 oppure partendo direttamente dall'anagrafica dello specifico utente
 (scheda "**Tessera e promozioni**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_promozioni_5.bmp](./assets/media/image533.png){width="5.155555555555556in"
-height="3.4027777777777777in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_promozioni_5.bmp](./assets/media/image533.png)
 

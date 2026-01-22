@@ -10,15 +10,13 @@ proprio account di Google Ads
     "**Obiettivi -- Impostazioni**" e espandere la sezione
     "**Conversioni Avanzate**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gads_attivazione_ec_1.bmp](./assets/media/image2.png){width="5.406944444444444in"
-height="3.3465277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gads_attivazione_ec_1.bmp](./assets/media/image2.png)
 
 2.  Selezionare il parametro "**Attiva le conversioni avanzate**" (può
     essere necessario accettare i "Termini per il trattamento dei dati
     degli annunci su Google)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gads_attivazione_ec_2.bmp](./assets/media/image3.png){width="5.406944444444444in"
-height="3.3465277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gads_attivazione_ec_2.bmp](./assets/media/image3.png)
 
 3.  Abilitando il parametro "Attiva le conversioni avanzate" verrà
     visualizzato un ulteriore campo all'interno del quale dovremo andare
@@ -29,8 +27,7 @@ height="3.3465277777777778in"}
 > menu a tendina, il metodo adottato nel nostro sistema di tracciamento
 > per inviare a Google Ads i dati utente.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gads_attivazione_ec_3.bmp](./assets/media/image4.png){width="5.406944444444444in"
-height="3.3465277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gads_attivazione_ec_3.bmp](./assets/media/image4.png)
 
 > Come evidenziato in figura le opzioni possibili sono 3:
 
@@ -100,16 +97,14 @@ height="3.3465277777777778in"}
 > In questo caso dovremo quindi cliccare sul pulsante "**Dettagli Tag**"
 > evidenziato in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gads_attivazione_ec_4.bmp](./assets/media/image5.png){width="5.406944444444444in"
-height="3.3465277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gads_attivazione_ec_4.bmp](./assets/media/image5.png)
 
 > e, nella successiva maschera, accertarci di aver **deselezionato**
 > entrambe le opzioni "**Rileva automaticamente i dati forniti dagli
 > utenti**" (che, attenzione, è selezionato di default) e "**Specifica i
 > selettori CSS o le variabili Javascript**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gads_attivazione_ec_5.bmp](./assets/media/image6.png){width="5.406944444444444in"
-height="3.3465277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gads_attivazione_ec_5.bmp](./assets/media/image6.png)
 
 > In questo modo i dati utente raccolti e inviati a Google Ads saranno
 > esattamente quelli gestiti dallo snippet di codice presente nella
@@ -141,16 +136,14 @@ height="3.3465277777777778in"}
     avanzate -- Creazione delle variabili per la gestione dei dati
     utente -- Variabile PWB User Provided Data*" di questo manuale
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gads_attivazione_ec_6.bmp](./assets/media/image7.png){width="5.406944444444444in"
-height="3.3465277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gads_attivazione_ec_6.bmp](./assets/media/image7.png)
 
 6.  Una volta settato tutto correttamente il pulsante "**Salva**"
     presente nella parte bassa della maschera ci consente di salvare le
     modifiche apportate e di attivare così per il nostro account Ads la
     gestione delle conversioni avanzate per il web.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gads_attivazione_ec_7.bmp](./assets/media/image8.png){width="5.406944444444444in"
-height="3.3465277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gads_attivazione_ec_7.bmp](./assets/media/image8.png)
 
 **ATTENZIONE! l'attivazione della funzionalità "Conversioni avanzate per
 il web" all'interno di Google Ads di fatto prepara solo il sistema alla

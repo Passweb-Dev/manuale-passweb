@@ -32,8 +32,7 @@ della struttura di appartenenza dell'articolo** secondo quanto indicato
 in fase di configurazione dell'inserzione collegata alla lista che sta
 realizzando.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_lista_taglie.bmp](./assets/media/image163.png){width="5.7659722222222225in"
-height="3.4027777777777777in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_lista_taglie.bmp](./assets/media/image163.png)
 
 **[ATTENZIONE!]{.underline}**
 

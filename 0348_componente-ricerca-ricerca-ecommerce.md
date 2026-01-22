@@ -31,8 +31,7 @@ Ecommerce la prima cosa da fare sarà quella di configurare il componente
 Componenti Comuni, impostando il parametro "**Tipo**" sul valore
 "**Ricerca E-Commerce**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ricerca_ecommerce0_res.bmp](./assets/media/image24.png){width="4.631944444444445in"
-height="3.061111111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ricerca_ecommerce0_res.bmp](./assets/media/image24.png)
 
 **Come già evidenziato parlando del componente comune "Ricerca sul
 sito", una volta imposta la tipologia del pannello di ricerca che si

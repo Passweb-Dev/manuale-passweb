@@ -4,15 +4,13 @@
 
 Il Componente Ecommerce **"Descrizione"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_descrizione_res.bmp](./assets/media/image429.png){width="2.5340277777777778in"
-height="3.1041666666666665in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_descrizione_res.bmp](./assets/media/image429.png)
 
 corrisponde esattamente all'omonimo campo **"Descrizione"** presente
 all'interno dell' anagrafica Passweb di ogni articolo (sezione
 Descrizioni)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_descrizione.bmp](./assets/media/image430.png){width="5.779166666666667in"
-height="3.3555555555555556in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_descrizione.bmp](./assets/media/image430.png)
 
 **Inserendo questo Componente all'interno di un Componente E-Commerce di
 primo livello (es. Catalogo E-commerce), esso verrà quindi sostituito,
@@ -54,8 +52,7 @@ file .txt associato all'articolo.
     quanto inserito nel gestionale all'interno del campo **"Descrizione
     Secondaria"** dell'anagrafica dello specifico articolo.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\horeca_componente_ecommerce_descrizione2.bmp](./assets/media/image431.png){width="5.386805555555555in"
-height="3.270138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\horeca_componente_ecommerce_descrizione2.bmp](./assets/media/image431.png)
 
 > **NOTA BENE:** i valori prelevati alla sincronizzazione dal
 > corrispondente campo dell'anagrafica articoli possono andare a
@@ -65,8 +62,7 @@ height="3.270138888888889in"}
 Rilasciando il Componente nella posizione desiderata verrà visualizzata
 **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_descrizione_configurazione_res.bmp](./assets/media/image432.png){width="5.9631944444444445in"
-height="2.5027777777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_descrizione_configurazione_res.bmp](./assets/media/image432.png)
 
 suddivisa in varie sezioni.
 

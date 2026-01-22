@@ -7,8 +7,7 @@ dei "Parametri Sincronizzazione" dei siti Ecommerce, consente di avviare
 la procedura per la cancellazione di tutti gli articoli e di tutti i
 clienti E-commerce presenti sul sito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\azzeramento_articoli.bmp](./assets/media/image174.png){width="5.8375in"
-height="0.6881944444444444in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\azzeramento_articoli.bmp](./assets/media/image174.png)
 
 Cliccando sul relativo pulsante è possibile avviare la procedura di
 azzeramento dei soli articoli (pulsante "**Azzera Articoli**"), dei soli

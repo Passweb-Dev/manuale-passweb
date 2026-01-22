@@ -10,8 +10,7 @@ diverse tipologie di pagina (rispettivamente **Pagine Generiche**,
 **Pagine Catalogo**, **Pagine Prodotto** e **Pagine contenti un
 componente "Dettaglio Articolo"**) utilizzate all'interno del sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sitemap_preferenze.bmp](./assets/media/image60.png){width="5.99375in"
-height="3.6555555555555554in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sitemap_preferenze.bmp](./assets/media/image60.png)
 
 In particolare il campo:
 

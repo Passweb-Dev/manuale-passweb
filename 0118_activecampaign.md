@@ -10,8 +10,7 @@ sue funzionalità avanzate, permette di migliorare la gestione dei
 clienti e ottimizzare le campagne di marketing attraverso automazioni
 intelligenti e personalizzate.
 
-![Videate\\activecampaign_1.bmp](./assets/media/image569.png){width="5.552083333333333in"
-height="3.792361111111111in"}
+![Videate\\activecampaign_1.bmp](./assets/media/image569.png)
 
 **ATTENZIONE! Per usufruire dell'integrazione tra Passweb ed
 ActiveCampaign è necessario attivare per prima cosa il relativo modulo

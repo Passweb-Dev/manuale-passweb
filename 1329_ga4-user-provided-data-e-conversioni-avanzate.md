@@ -29,8 +29,7 @@ attribuzione delle diverse conversioni, il tutto sempre in relazione
 anche a come è stato settato il **report identity** della proprietà di
 GA4 interessata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ga4_attivazione_upd_4.bmp](./assets/media/image22.png){width="5.363194444444445in"
-height="3.4583333333333335in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ga4_attivazione_upd_4.bmp](./assets/media/image22.png)
 
 Inoltre è bene considerare anche che:
 
@@ -87,14 +86,12 @@ accedere alla sezione "**Admin**" del proprio account di Google
 Analytics, cliccare sulla voce "**Data collection**" presente
 all'interno della sezione "**Data** **collection and modification**"
 
-![Videate\\ga4_attivazione_upd.bmp](./assets/media/image23.png){width="5.363194444444445in"
-height="3.4583333333333335in"}
+![Videate\\ga4_attivazione_upd.bmp](./assets/media/image23.png)
 
 e cliccare poi sul pulsante "**Turn on**" presente all'interno della
 sezione "**User-provided data collection**"
 
-![Videate\\ga4_attivazione_upd_2.bmp](./assets/media/image24.png){width="5.363194444444445in"
-height="3.4583333333333335in"}
+![Videate\\ga4_attivazione_upd_2.bmp](./assets/media/image24.png)
 
 **ATTENZIONE!** una volta attivata la funzionalità "User-provided data
 collection", verrà automaticamente abilitata anche la raccolta
@@ -109,8 +106,7 @@ funzionalità in oggetto, ricordarsi anche di disattivare la raccolta
 automatica dei dati andando a deselezionare il parametro "**Collect
 automatically-detected user-provided data**"
 
-![Videate\\ga4_attivazione_upd_3.bmp](./assets/media/image25.png){width="5.363194444444445in"
-height="3.4583333333333335in"}
+![Videate\\ga4_attivazione_upd_3.bmp](./assets/media/image25.png)
 
 anche e soprattutto in considerazione del fatto che sarà poi Passweb a
 passare ad Analytics gli user-provided data e non avrebbe quindi alcun
@@ -125,8 +121,7 @@ Analytics, lato Passweb sarà sufficiente abilitare il parametro
 Analytics alla pagina "Sito -- Preferenze" del Wizard (tab
 "**Tracciamento Dati**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ga4_attivazione_upd_5.bmp](./assets/media/image26.png){width="5.726388888888889in"
-height="3.34375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ga4_attivazione_upd_5.bmp](./assets/media/image26.png)
 
 **ATTENZIONE! per poter gestire in GA4 le conversioni avanzate, non è
 sufficiente attivare il parametro "Raccolta Dati Utente GA" ma è

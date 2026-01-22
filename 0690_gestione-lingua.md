@@ -59,23 +59,20 @@ lingua ai vari articoli occorre:
   tra 2 e 9), e conseguentemente il numero di descrizioni articolo in
   lingua estera, che sarà poi possibile editare
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\parametri_magazzino.bmp](./assets/media/image158.png){width="4.688194444444444in"
-height="4.344444444444444in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\parametri_magazzino.bmp](./assets/media/image158.png)
 
 - Attivare le lingue che si intende gestire associando semplicemente
   un\'etichetta agli slot della **\"Tabella Lingue Estere\"**
   *(Magazzino - Tabelle Aziendali - Lingue Straniere)* di Mexal
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\tabella_lingue_estere.bmp](./assets/media/image159.png){width="1.3763888888888889in"
-height="1.4222222222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\tabella_lingue_estere.bmp](./assets/media/image159.png)
 
 - Associare la descrizione in lingua ai singoli articoli all\'interno
   della loro anagrafica, compilando i vari campi della maschera
   **\"Descrizioni in lingue\"** accessibile premendo F2 sul campo
   \"Descr\"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\descrizioni_lingua_articoli.bmp](./assets/media/image160.png){width="6.00625in"
-height="3.1166666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\descrizioni_lingua_articoli.bmp](./assets/media/image160.png)
 
 I valori inseriti in questo campo saranno poi quelli visualizzati
 all\'interno del sito web nelle corrispondenti pagine in lingua.
@@ -90,8 +87,7 @@ pagina **"Gestione Lingua"**. All'interno di questa pagina verrà infatti
 visualizzata la maschera, **"Gestione delle Lingue Estere",** qui di
 seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_lingue_estere.bmp](./assets/media/image161.png){width="5.759722222222222in"
-height="3.5131944444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_lingue_estere.bmp](./assets/media/image161.png)
 
 attraverso la quale poter realizzare l'associazione in oggetto.
 
@@ -111,8 +107,7 @@ campo "Descrizione" dell'Anagrafica Articolo, potrebbe anche essere
 inserita in uno dei campi relativi alle lingue aggiuntive gestite in
 Mexal stesso.**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\lingue_aggiuntive_italiano.bmp](./assets/media/image162.png){width="6.00625in"
-height="3.084722222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\lingue_aggiuntive_italiano.bmp](./assets/media/image162.png)
 
 Una scelta di questo tipo potrebbe rivelarsi particolarmente utile in
 quanto consentirebbe di definire, direttamente all'interno del
@@ -128,8 +123,7 @@ pagina web.
 anche la lingua Italiana con una delle lingue "Extra" abilitate e
 gestite all'interno del gestionale**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lingue_aggiuntive_italiano2.bmp](./assets/media/image163.png){width="5.759722222222222in"
-height="3.50625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lingue_aggiuntive_italiano2.bmp](./assets/media/image163.png)
 
 Nel caso in cui non dovesse essere effettuato questo tipo di Mapping il
 Titolo degli Articoli ed il loro permalink verrà generato sempre e

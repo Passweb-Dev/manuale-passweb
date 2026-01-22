@@ -13,16 +13,14 @@ barra degli strumenti della maschera "**Gestione Pagine**" consentono
 rispettivamente di:
 
 **Esporta** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_esporta.bmp](./assets/media/image98.png){width="0.1840277777777778in"
-height="0.19652777777777777in"} )**:** consente di esportare all'interno
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_esporta.bmp](./assets/media/image98.png) )**:** consente di esportare all'interno
 di un apposito file csv i dati delle pagine del sito che non sono legate
 a specifiche categorie merceologiche.
 
 Cliccando su questo pulsante nella parte destra della maschera "Gestione
 Pagine" verrà visualizzato il form "**Esporta Valori**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\esporta_dati_pagina_res.bmp](./assets/media/image120.png){width="4.588888888888889in"
-height="2.607638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\esporta_dati_pagina_res.bmp](./assets/media/image120.png)
 
 all'interno del quale poter indicare la lingua di riferimento (campo
 "**Lingua**") per la creazione del file csv e il carattere da utilizzare
@@ -45,8 +43,7 @@ seguenti campi:
 - **Head**
 
 **Importa** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_importa.bmp](./assets/media/image99.png){width="0.17777777777777778in"
-height="0.19652777777777777in"} )**:** consente di importare in maniera
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_importa.bmp](./assets/media/image99.png) )**:** consente di importare in maniera
 massiva, mediante un apposito file csv, i dati SEO (**Titolo Pagina,
 Keywords, Description, Head**) di tutte le pagine del sito che non sono
 legate a specifiche categorie merceologiche.
@@ -54,8 +51,7 @@ legate a specifiche categorie merceologiche.
 Cliccando su questo pulsante nella parte destra della maschera "Gestione
 Pagine" verrà visualizzato il form "**Importa Valori**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\importa_dati_pagina_res.bmp](./assets/media/image121.png){width="4.588888888888889in"
-height="2.6013888888888888in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\importa_dati_pagina_res.bmp](./assets/media/image121.png)
 
 mediante il quale poter effettuare l'upload del file contenente le
 informazioni desiderate. Nello specifico il campo:

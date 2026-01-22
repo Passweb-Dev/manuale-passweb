@@ -25,8 +25,7 @@ Cliccando su questo pulsante verrà infatti visualizzata la maschera
 **"Importazione Contenuti CMS"** mediante la quale poter effettuare
 l'upload del file contenente i nuovi post.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\importazione_cms_2.bmp](./assets/media/image535.png){width="5.746527777777778in"
-height="3.49375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\importazione_cms_2.bmp](./assets/media/image535.png)
 
 Nello specifico il campo:
 
@@ -208,8 +207,7 @@ Nello specifico:
 > costruire, per prima cosa, il filtro desiderato mediante l'editor
 > visuale presente in corrispondenza del campo "**Articoli**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\importazione_cms_3.bmp](./assets/media/image536.png){width="5.746527777777778in"
-height="3.49375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\importazione_cms_3.bmp](./assets/media/image536.png)
 
 > Per maggiori informazioni su come poter costruire un filtro articoli
 > si veda anche quanto indicato all'interno del corrispondente capitolo
@@ -219,8 +217,7 @@ height="3.49375in"}
 > Una volta creato il filtro desiderato sarà poi sufficiente cliccare
 > sul pulsante "**Copia Filtro**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\importazione_cms_4.bmp](./assets/media/image537.png){width="5.746527777777778in"
-height="3.49375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\importazione_cms_4.bmp](./assets/media/image537.png)
 
 > per ottenere esattamente la stringa corrispondente al filtro
 > impostato, stringa questa che dovrà poi essere incollata all'interno
@@ -235,8 +232,7 @@ height="3.49375in"}
 > corrispondenti ai codici di integrazione inseriti nelle anagrafiche
 > delle singole categorie CMS in corrispondenza del campo "Codice"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\importazione_cms_5.bmp](./assets/media/image538.png){width="5.746527777777778in"
-height="3.49375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\importazione_cms_5.bmp](./assets/media/image538.png)
 
 > **ATTENZIONE!** è bene ricordare che l'associazione di un post ad una
 > categoria per cui è stata correttamente definita una specifica pagina
@@ -322,8 +318,7 @@ degli strumenti della maschera "**Gestione CMS -- Contenuti**"
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 "**Esportazione Contenuti CMS**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\importazione_cms_7.bmp](./assets/media/image539.png){width="5.746527777777778in"
-height="3.49375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\importazione_cms_7.bmp](./assets/media/image539.png)
 
 all'interno della quale poter indicare il carattere da utilizzare come
 separatore dei campi nel file csv che verrà poi prodotto e la lingua a

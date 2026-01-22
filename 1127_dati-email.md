@@ -8,8 +8,7 @@ all'interno del sito, i contenuti delle e-mail transazionali inviate in
 automatico dall'applicazione in corrispondenza dei diversi possibili
 stati assunti dagli ordini all'interno del sito e-commerce.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_ordini_dati_email.bmp](./assets/media/image617.png){width="5.792361111111111in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_ordini_dati_email.bmp](./assets/media/image617.png)
 
 Per ciascuna mail sarà possibile indicare i seguenti dati:
 
@@ -82,15 +81,13 @@ Il Check "**Allegati**" presente in corrispondenza di tutte le diverse
 tipologie di Mail presenti all'interno di questa sezione, ad eccezione
 delle sole mail relative alla "**Lista Regalo**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dati_email_allegati.bmp](./assets/media/image618.png){width="5.792361111111111in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dati_email_allegati.bmp](./assets/media/image618.png)
 
 consente invece di indicare se alle mail di quella determinata tipologia
 dovranno essere allegati o meno anche tutti i file che hanno il campo
 "**Mail**" impostato sul valore S
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_allegati_1.bmp](./assets/media/image619.png){width="5.792361111111111in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_allegati_1.bmp](./assets/media/image619.png)
 
 In questo senso è bene ricordare che:
 
@@ -133,8 +130,7 @@ Il pulsante "**Aggiungi Segnaposto**" anch'esso presente in
 corrispondenza di ogni campo di tipo "**Oggetto Email**" e "**Testo
 Email**",
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\segnaposto_mail.bmp](./assets/media/image620.png){width="5.804861111111111in"
-height="3.5256944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\segnaposto_mail.bmp](./assets/media/image620.png)
 
 Consente, infine, di personalizzare l'oggetto e/o il testo della
 relativa mail inserendo appositi segnaposto che verranno poi valorizzati
@@ -200,8 +196,7 @@ segnaposto:
 > \$if(isquotation)\$ **Oggetto della mail generata da un preventivo**
 > \$else\$ **Oggetto della mail generata da un ordine** \$endif\$
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dati_email_segnaposto2.bmp](./assets/media/image621.png){width="5.804861111111111in"
-height="3.5256944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dati_email_segnaposto2.bmp](./assets/media/image621.png)
 
 > Ovviamente **all'interno della condizione if è possibile utilizzare
 > sia del semplice testo** (come nel caso sopra evidenziato) **sia altri
@@ -388,8 +383,7 @@ Nello specifico l'errore in questione verrà ritornato quando:
   maschera "**Progressivi**" del relativo cliente è impostato su
   "**Bloccante**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mail_fuori_fido_mexal.bmp](./assets/media/image622.png){width="4.8375in"
-height="2.571527777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mail_fuori_fido_mexal.bmp](./assets/media/image622.png)
 
 In queste condizioni, inoltre, l'ordine verrà portato nello stato di
 "**Pagamento non confermato**" e potrà essere Annullato, Eliminato o
@@ -407,8 +401,7 @@ direttamente dal Wizard di Passweb, dovessero essere aggiunti ad un
 determinato ordine dei nuovi allegati con il flag "**Notifica Utente**"
 selezionato.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_allegati_2.bmp](./assets/media/image623.png){width="5.792361111111111in"
-height="3.5256944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_allegati_2.bmp](./assets/media/image623.png)
 
 **ATTENZIONE!** Nel caso in cui, in fase di inserimento di un nuovo
 allegato da Wizard, non dovesse essere selezionato il flag "Notifica

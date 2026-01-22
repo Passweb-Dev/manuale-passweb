@@ -6,8 +6,7 @@ All'interno di questa sezione è possibile visualizzare informazioni
 dettagliate relativamente a quelli che sono stati, in relazione alla
 Variante e all'intervallo di tempo considerato, i Carrelli Abbandonati.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\statistiche_carrelli_abbandonati.bmp](./assets/media/image11.png){width="6.049305555555556in"
-height="3.558333333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\statistiche_carrelli_abbandonati.bmp](./assets/media/image11.png)
 
 **ATTENZIONE! Per Carrelli Abbandonati si intendono quelle sessioni
 durante le quali un determinato utente è arrivato ad inserire uno o più
@@ -34,8 +33,7 @@ tempo del numero di carrelli abbandonati registrati dal sito.
 
 La tabella presente nella parte bassa
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\statistiche_carrelli_abbandonati_2.bmp](./assets/media/image12.png){width="6.049305555555556in"
-height="3.558333333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\statistiche_carrelli_abbandonati_2.bmp](./assets/media/image12.png)
 
 consente invece di ottenere informazioni più dettagliate su ogni singolo
 carrello abbandonato.
@@ -74,8 +72,7 @@ Cliccando su uno qualsiasi degli elementi presenti in griglia sarà poi
 possibile visualizzare, ed eventualmente stampare (pulsante "Stampa") il
 dettaglio del relativo carrello abbandonato.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\statistiche_carrelli_abbandonati_dettaglio.bmp](./assets/media/image13.png){width="6.0125in"
-height="3.5340277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\statistiche_carrelli_abbandonati_dettaglio.bmp](./assets/media/image13.png)
 
 **ATTENZIONE!** Nel dettaglio dei carrelli abbandonati non verranno
 indicati i dati relativi ad eventuali spese accessorie (es. spese di
@@ -96,8 +93,7 @@ apposito file .csv, relativamente ai dati attualmente presenti in
 griglia (e quindi eventualmente filtrati rispetto al totale dei dati
 stessi) diversi tipi di informazioni:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\statistiche_carrelli_abbandonati3.bmp](./assets/media/image14.png){width="6.0125in"
-height="3.5340277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\statistiche_carrelli_abbandonati3.bmp](./assets/media/image14.png)
 
 - **Elenco Carrelli**: viene generato ed esportato un csv in cui ogni
   singolo record è relativo ad uno specifico carrello abbandonato. Per

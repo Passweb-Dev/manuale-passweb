@@ -20,8 +20,7 @@ del quale verranno riportati:
 - un elenco delle risorse collegate al servizio, e correttamente gestite
   sul sito, con il relativo planning di disponibilità oraria (3)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prenotazione_1.bmp](./assets/media/image338.png){width="5.398611111111111in"
-height="3.3618055555555557in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prenotazione_1.bmp](./assets/media/image338.png)
 
 Accedendo alla pagina il campo **Data** verrà automaticamente
 valorizzato con la data odierna; sarà comunque possibile indicare una
@@ -54,8 +53,7 @@ quello specifico servizio/trattamento.
 > da quanto impostato all'interno del gestionale Ho.Re.Ca nel
 > corrispondente campo "**Tempo di Produzione**".
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\prenotazione_2.bmp](./assets/media/image339.png){width="4.686805555555556in"
-height="3.0430555555555556in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\prenotazione_2.bmp](./assets/media/image339.png)
 
 **ATTENZIONE!** Nel caso in cui per il giorno selezionato non sia
 disponibile nessuna risorsa, o il centro sia chiuso, verrà visualizzato
@@ -67,8 +65,7 @@ servizio/trattamento desiderato, cliccando sul pulsante "**Procedi**"
 l'utente verrà immediatamente ricondotto alla pagina di riepilogo per la
 conferma della prenotazione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prenotazione_5a.bmp](./assets/media/image340.png){width="5.411111111111111in"
-height="3.3743055555555554in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prenotazione_5a.bmp](./assets/media/image340.png)
 
 Il servizio / trattamento prenotato sarà inserito all'interno di una
 griglia responsiva le cui colonne possono essere definite direttamente
@@ -104,8 +101,7 @@ In queste condizioni quindi dopo aver selezionato data, risorsa e orario
 della prenotazione, cliccando sul pulsante "Procedi" verrà aperta la
 sezione relativa alla scelta della modalità di pagamento da adottare.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prenotazione_6.bmp](./assets/media/image341.png){width="5.368055555555555in"
-height="3.34375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prenotazione_6.bmp](./assets/media/image341.png)
 
 **ATTENZIONE!** I pagamenti visualizzati all'interno di questa sezione
 saranno solamente quelli per i quali, in fase di configurazione, è stato
@@ -117,8 +113,7 @@ anche una Gift Card di tipo HoReCa**, oltre ai controlli per la
 selezione della specifica modalità di pagamento verrà visualizzato anche
 il campo "**Buno Sconto**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\abilitazione_step_pagamento_prenotazione_2.bmp](./assets/media/image342.png){width="5.460416666666666in"
-height="3.484722222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\abilitazione_step_pagamento_prenotazione_2.bmp](./assets/media/image342.png)
 
 campo questo all'interno del quale l'utente avrà la possibilità di
 inserire un eventuale Codice Gift Card in suo possesso per poter
@@ -138,8 +133,7 @@ Una volta selezionata la modalità di pagamento desiderata, cliccando sul
 pulsante "**Procedi**" l'utente verrà immediatamente ricondotto alla
 pagina di riepilogo per la conferma della prenotazione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prenotazione_5.bmp](./assets/media/image343.png){width="5.411111111111111in"
-height="3.3743055555555554in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prenotazione_5.bmp](./assets/media/image343.png)
 
 **ATTENZIONE!! Arrivati a questo punto prima di confermare in maniera
 definitiva la prenotazione l'utente dovrà accettare esplicitamente le
@@ -197,11 +191,9 @@ portandosi nella maschera "Pagamento Web" attivabile dall'omonima voce
 presente nel contesto della prenotazione del relativo
 servizio/trattamento.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\prenotazione_7.bmp](./assets/media/image344.png){width="5.772916666666666in"
-height="3.5708333333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\prenotazione_7.bmp](./assets/media/image344.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\prenotazione_8.bmp](./assets/media/image345.png){width="5.772916666666666in"
-height="3.5708333333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\prenotazione_8.bmp](./assets/media/image345.png)
 
 > **NOTA BENE:** nel caso in cui entrambi i campi (Tipo di pagamento e
 > Importo) della maschera **"Pagamento Web"** sopra evidenziata siano
@@ -247,8 +239,7 @@ sono, ossia con la prenotazione inserita all'interno del gestionale
 nello stato di "Confermata" e la maschera di "Pagamento Web" con importo
 nullo.**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\prenotazione_9.bmp](./assets/media/image346.png){width="5.772916666666666in"
-height="3.5708333333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\prenotazione_9.bmp](./assets/media/image346.png)
 
 **ATTENZIONE!** un **"Importo" nullo** all'interno della maschera di
 **"Pagamento Web"** è da considerarsi come indice di una **procedura di

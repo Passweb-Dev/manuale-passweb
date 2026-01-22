@@ -16,8 +16,7 @@ Cliccando sul pulsante "**Inserisci un video Youtube**" ( ), presente
 nella barra degli strumenti, verrà infatti aperta la maschera
 "**Youtube**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gestione_video_youtube_res.bmp](./assets/media/image298.png){width="2.907638888888889in"
-height="1.913888888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gestione_video_youtube_res.bmp](./assets/media/image298.png)
 
 attraverso cui poter indicare lo specifico video da visualizzare
 all'interno del proprio sito web e le relative caratteristiche di
@@ -33,8 +32,7 @@ In particolare dunque il campo
 
 > ed incollarlo all'interno del campo in oggetto
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\video_youtube2_res.bmp](./assets/media/image299.png){width="2.8958333333333335in"
-height="1.9020833333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\video_youtube2_res.bmp](./assets/media/image299.png)
 
 - **Dimensione del video:** consente di specificare il formato di
   visualizzazione del video selezionato. I formati indicati sono messi a

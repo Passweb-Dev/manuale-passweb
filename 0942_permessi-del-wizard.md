@@ -8,8 +8,7 @@ precedentemente analizzata, consente di impostare le azioni che tutti
 gli utenti appartenenti al Ruolo in esame potranno o non potranno
 effettuare all'interno del Wizard.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\utentipassweb_modifica_ruolo.bmp](./assets/media/image13.png){width="5.714583333333334in"
-height="3.370138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\utentipassweb_modifica_ruolo.bmp](./assets/media/image13.png)
 
 Per definire quindi uno specifico schema di permessi è sufficiente
 selezionare/deselezionare all'interno della griglia sopra evidenziata la

@@ -6,8 +6,7 @@ La pagina **"Configurazione Gestionale"**, accessibile dalla voce di
 menu principale **"Configurazione"** consente di gestire i parametri di
 connessione con il server Mexal.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_gestionale_generale.bmp](./assets/media/image4.png){width="5.870138888888889in"
-height="3.558333333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_gestionale_generale.bmp](./assets/media/image4.png)
 
 **ATTENZIONE! I parametri di configurazione necessari per realizzare
 l'integrazione tra il proprio sito web e il gestionale saranno diversi a

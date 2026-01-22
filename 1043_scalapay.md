@@ -13,8 +13,7 @@ direttamente con la propria carta di credito.
 **ATTENZIONE! Il finanziamento viene richiesto e gestito direttamente
 sulla piattaforma Scalapay ( <https://www.scalapay.com/it> ).**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\scalapay_0.bmp](./assets/media/image199.png){width="5.590972222222222in"
-height="3.3048611111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\scalapay_0.bmp](./assets/media/image199.png)
 
 Nel momento in cui si dovesse decidere di attivare questa modalità di
 pagamento, Passweb offre anche la possibilità di inserire, direttamente
@@ -65,8 +64,7 @@ impostare, oltre ai parametri classici di configurazione del pagamento,
 anche quelli specifici del gateway attualmente considerato e presenti
 all'interno della sezione "**Parametri Gateway**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_scalapay.bmp](./assets/media/image200.png){width="5.201388888888889in"
-height="3.50625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_scalapay.bmp](./assets/media/image200.png)
 
 Nel caso specifico il parametro:
 
@@ -185,8 +183,7 @@ Nel caso specifico il parametro:
 > informarlo che, in relazione a quello specifico importo, non è
 > possibile richiedere un finanziamento.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\scalapay_1.bmp](./assets/media/image201.png){width="4.240277777777778in"
-height="2.5131944444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\scalapay_1.bmp](./assets/media/image201.png)
 
 > **ATTENZIONE! Una volta verificato il range entro gli utenti potranno
 > effettuare la richiesta di rateizzazione dell'importo da pagare, si
@@ -194,8 +191,7 @@ height="2.5131944444444443in"}
 > "Limite minimo / massimo" presenti nella maschera di configurazione
 > del pagamento stesso**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\soisy_3.bmp](./assets/media/image95.png){width="5.545138888888889in"
-height="3.2729166666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\soisy_3.bmp](./assets/media/image95.png)
 
 > In questo infatti la modalità di pagamento in questione verrà proposta
 > al cliente solo ed esclusivamente nel caso in cui l'importo dell'
@@ -211,8 +207,7 @@ relativa a questo stesso pagamento con l'indicazione delle possibili
 rate (dipendentemente da quanto impostato per il parametro "Frase
 Checkout" precedentemente esaminato)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\scalapay_2.bmp](./assets/media/image202.png){width="5.272916666666666in"
-height="3.1166666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\scalapay_2.bmp](./assets/media/image202.png)
 
 **ATTENZIONE!** Se si dovesse decidere di visualizzare, in checkout o in
 carrello, eventuali "Dettagli" sul pagamento in oggetto, il testo
@@ -224,16 +219,14 @@ di pagamento, alla conferma dell'ordine, il documento sarà memorizzato
 nel database di Passweb, e l'utente verrà reindirizzato automaticamente
 sulla piattaforma Scalapay dove potrà completare la propria richiesta.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\scalapay_3.bmp](./assets/media/image203.png){width="5.279166666666667in"
-height="3.058333333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\scalapay_3.bmp](./assets/media/image203.png)
 
 L'utente dovrà quindi inserire i dati necessari per creare un proprio
 account sulla piattaforma di Scalapay, dopo di che gli verranno
 richiesti i dati della carta di credito da utilizzare per effettuare i
 pagamenti rateizzati
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\scalapay_4.bmp](./assets/media/image204.png){width="5.402777777777778in"
-height="3.2270833333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\scalapay_4.bmp](./assets/media/image204.png)
 
 **ATTENZIONE!** la possibilità di decidere, in questa fase, se pagare in
 3 (opzione "Pay in 3") o in 4 (opzione "Pay in 4") rate dipende dal

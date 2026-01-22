@@ -16,8 +16,7 @@ In questo senso è bene ricordare che:
   articoli che dovrà effettivamente essere presente all'interno della
   singola confezione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gestione_confezione_1.bmp](./assets/media/image14.png){width="4.058333333333334in"
-height="2.577777777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gestione_confezione_1.bmp](./assets/media/image14.png)
 
 - Nei gestionali Ho.Re.Ca., per poter gestire un articolo a Confezioni è
   necessario impostare il parametro "**Tipo Confezione**" presente
@@ -26,8 +25,7 @@ height="2.577777777777778in"}
   conf.**" la quantità di articoli che dovrà effettivamente essere
   presente all'interno della singola confezione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_confezione_horeca.bmp](./assets/media/image15.png){width="5.863888888888889in"
-height="3.5388888888888888in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_confezione_horeca.bmp](./assets/media/image15.png)
 
 Nell'esempio indicato in figura l'articolo in esame verrà venduto
 all'interno del gestionale a confezioni di 3 unità ciascuna.
@@ -43,8 +41,7 @@ Azienda e, soprattutto, da come sono stati impostati i relativi
 parametri "**Aggiungi al carrello**" presente all'interno della sezione
 "**Gestione Confezioni**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_confezione.bmp](./assets/media/image16.png){width="5.8180555555555555in"
-height="3.3506944444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_confezione.bmp](./assets/media/image16.png)
 
 Nello specifico dunque, il parametro:
 
@@ -146,8 +143,7 @@ In entrambi i casi è possibile selezionare uno dei seguenti valori:
 > (es. 4 o 5) verrà visualizzato un apposito messaggio di errore e
 > l'articolo non verrà aggiunto in carrello.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gestione_confezione_2.bmp](./assets/media/image17.png){width="5.207638888888889in"
-height="2.8569444444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gestione_confezione_2.bmp](./assets/media/image17.png)
 
 > E' possibile personalizzare il messaggio di errore alla sezione
 > "Testi/Messaggi Sito" del Wizard selezionando il componente "Aggiunta
@@ -189,8 +185,7 @@ sarà comunque possibile modificare la gestione a confezioni del singolo
 articolo, agendo mediante gli stessi parametri presenti nell'Anagrafica
 Passweb dell'articolo stesso
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\anagrafica_articolo_passweb_gestione_confezioni.bmp](./assets/media/image18.png){width="5.8180555555555555in"
-height="3.3506944444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\anagrafica_articolo_passweb_gestione_confezioni.bmp](./assets/media/image18.png)
 
 In questo caso però è bene ricordare che **le variazioni apportate ai
 parametri in oggetto all'interno della sezione "Gestione Confezioni"
@@ -247,8 +242,7 @@ si veda anche la sezione *"Configurazione Gestionale -- Mexal
 Configurazione Gestionale -- Mexal Attivazione Passweb -- Funzionalità
 Mexal Articoli -- Gestione Multipli e Confezioni"* di questo manuale)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_passweb_gestione_confezioni.bmp](./assets/media/image19.png){width="5.0in"
-height="2.1041666666666665in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_passweb_gestione_confezioni.bmp](./assets/media/image19.png)
 
 E' possibile selezionare uno dei seguenti valori:
 

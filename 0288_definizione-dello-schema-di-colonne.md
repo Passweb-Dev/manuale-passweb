@@ -10,8 +10,7 @@ verrà aperta in automatico la maschera "**Aggiungi Colonne**" che non
 rappresenta esattamente la maschera di configurazione di una singola
 colonna.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\aggiungi_colonne.bmp](./assets/media/image106.png){width="4.636111111111111in"
-height="0.9673611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\aggiungi_colonne.bmp](./assets/media/image106.png)
 
 **Attraverso questa maschera è infatti possibile definire esattamente lo
 schema base di colonne da inserire in blocco all'interno della Griglia**

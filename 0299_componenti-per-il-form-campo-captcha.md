@@ -14,8 +14,7 @@ All'interno di Passweb è possibile attivare:
   la sequenza di caratteri visualizzata prima di poter confermare il
   form.
 
-![Videate\\recaptcha_7.bmp](./assets/media/image136.png){width="5.110416666666667in"
-height="2.876388888888889in"}
+![Videate\\recaptcha_7.bmp](./assets/media/image136.png)
 
 - Il **Google Recaptcha** ossia il sistema antispam offerto da Google e
   in grado di semplificare la vita agli utenti del sito grazie al fatto
@@ -25,8 +24,7 @@ height="2.876388888888889in"}
   nelle condizioni di poter procedere rapidamente alla conferma del form
   stesso
 
-![Videate\\recaptcha_1.bmp](./assets/media/image137.png){width="5.110416666666667in"
-height="3.5972222222222223in"}
+![Videate\\recaptcha_1.bmp](./assets/media/image137.png)
 
 Il fatto di avere a disposizione all'interno dei propri form il captcha
 classico piuttosto che il Google Recaptcha dipende essenzialmente dalle
@@ -42,8 +40,7 @@ sempre visualizzato il campo Captcha classico.
 Rilasciando il componente all'interno del Form si aprirà **la sua
 maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\Form_modifica_Campo_Captcha_res.bmp](./assets/media/image138.png){width="5.110416666666667in"
-height="2.9027777777777777in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\Form_modifica_Campo_Captcha_res.bmp](./assets/media/image138.png)
 
 suddivisa in varie sezioni.
 

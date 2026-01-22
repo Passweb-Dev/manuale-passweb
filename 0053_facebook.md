@@ -6,8 +6,7 @@ All'interno della sezione "**Facebook Pixel -- Conversion API**" è
 possibile attivare il sistema di tracciamento mediante di Facebook, sia
 lato client che lato server.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_preferenze_pixel_facebook.bmp](./assets/media/image200.png){width="5.740277777777778in"
-height="3.623611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_preferenze_pixel_facebook.bmp](./assets/media/image200.png)
 
 Nello specifico il campo:
 
@@ -69,8 +68,7 @@ Nello specifico il campo:
 - **Codice di tracciamento --** visibile solo dopo aver attivato il
   precedente parametro "Tracciamento Client"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\facebook_codice_di_tracciamento.bmp](./assets/media/image201.png){width="5.636111111111111in"
-height="3.4868055555555557in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\facebook_codice_di_tracciamento.bmp](./assets/media/image201.png)
 
 > Consente di impostare manualmente lo snippet di codice necessario per
 > attivare il tracciamento lato client di Facebook.

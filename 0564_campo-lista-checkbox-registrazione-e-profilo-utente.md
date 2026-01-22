@@ -4,8 +4,7 @@
 
 Il Componente **"Campo Lista Checkbox"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\campo_lista_check_registrazione_res.bmp](./assets/media/image107.png){width="2.5194444444444444in"
-height="2.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\campo_lista_check_registrazione_res.bmp](./assets/media/image107.png)
 
 consente di inserire all'interno dei form di Registrazione e di Profilo
 Utente una serie di etichette seguite da altrettante caselline da
@@ -17,8 +16,7 @@ selezioni multiple.
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_iu_lista_checkbox_configurazione_res.bmp](./assets/media/image108.png){width="4.785416666666666in"
-height="3.0520833333333335in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_iu_lista_checkbox_configurazione_res.bmp](./assets/media/image108.png)
 
 suddivisa in varie sezioni.
 
@@ -219,12 +217,10 @@ all'interno del controllo.
 
 Per aggiungere una nuova opzione di scelta al controllo è sufficiente
 cliccare sul relativo pulsante di aggiunta nuovo elemento (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_aggiungi.bmp](./assets/media/image47.png){width="0.18819444444444444in"
-height="0.18819444444444444in"} ) e inserire poi i dati di
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_aggiungi.bmp](./assets/media/image47.png) ) e inserire poi i dati di
 configurazione dell'elemento stesso nella parte destra della maschera.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\Form_radio_nuovo_valore_res.bmp](./assets/media/image104.png){width="4.785416666666666in"
-height="1.9743055555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\Form_radio_nuovo_valore_res.bmp](./assets/media/image104.png)
 
 Per ciascuna delle possibili opzioni di scelta sarà necessario indicare:
 
@@ -263,13 +259,11 @@ Gli altri pulsanti presenti nella parte sinistra della maschera
 consentono rispettivamente di:
 
 - **Elimina elemento** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina.bmp](./assets/media/image48.png){width="0.175in"
-  height="0.18194444444444444in"} ): consente di eliminare l'elemento
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina.bmp](./assets/media/image48.png) ): consente di eliminare l'elemento
   attualmente selezionata in elenco
 
 - **Sposta su / giù**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icone_su_giu.bmp](./assets/media/image49.png){width="0.3701388888888889in"
-  height="0.21458333333333332in"} ): consente di riordinare tra loro le
+  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icone_su_giu.bmp](./assets/media/image49.png) ): consente di riordinare tra loro le
   varie opzioni di scelta spostando verso l'alto o il basso l'elemento
   attualmente selezionato in elenco.
 

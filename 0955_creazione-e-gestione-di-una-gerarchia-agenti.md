@@ -40,14 +40,12 @@ radice.
 Per far questo sarà quindi necessario portarsi alla pagina "Utenti --
 Gruppi Utenti Sito"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gruppi_utenti.bmp](./assets/media/image109.png){width="5.207638888888889in"
-height="3.4868055555555557in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gruppi_utenti.bmp](./assets/media/image109.png)
 
 e creare un nuovo gruppo cliccando sul corrispondente pulsante presente
 nella barra degli strumenti.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\creazione_gruppo.bmp](./assets/media/image163.png){width="5.1819444444444445in"
-height="3.298611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\creazione_gruppo.bmp](./assets/media/image163.png)
 
 Dovremo quindi definire il nome del gruppo radice ed eventualmente le
 sue caratteristiche a livello di Gestione SMS, Comunicazione Interna e
@@ -63,15 +61,13 @@ nella barra degli strumenti per creare gruppi figli del gruppo radice,
 per eliminare o spostare gruppi all'interno dell'albero e, ovviamente
 per definire gli utenti appartenenti allo specifico gruppo.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuovo_gruppo_radice.bmp](./assets/media/image164.png){width="5.513194444444444in"
-height="3.325in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuovo_gruppo_radice.bmp](./assets/media/image164.png)
 
 In questo senso i pulsanti presenti nella barra degli strumenti
 consentiranno di:
 
 - **Nuovo Gruppo** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuovo_gruppo.bmp](./assets/media/image165.png){width="0.5520833333333334in"
-  height="0.1951388888888889in"} ): consente di creare un nuovo gruppo
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuovo_gruppo.bmp](./assets/media/image165.png) ): consente di creare un nuovo gruppo
   **figlio del gruppo attualmente selezionato**. Nella parte destra
   della maschera sarà poi possibile definire le proprietà e le
   caratteristiche del gruppo stesso.
@@ -112,8 +108,7 @@ consentiranno di:
 <!-- -->
 
 - **Lista Utenti** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_lista_utenti.bmp](./assets/media/image166.png){width="0.46111111111111114in"
-  height="0.1951388888888889in"} ): consente di visualizzare la lista
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_lista_utenti.bmp](./assets/media/image166.png) ): consente di visualizzare la lista
   degli utenti attualmente presenti all'interno del gruppo selezionato.
   Cliccando su questo pulsante si verrà quindi ricondotti alla maschera
   "**Lista Utenti -- Nome Gruppo**" attraverso cui poter gestire gli
@@ -125,23 +120,20 @@ I pulsanti presenti nella contestuale barra degli strumenti, consentono
 rispettivamente di:
 
 - **Modifica Utente** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_utente.bmp](./assets/media/image10.png){width="0.40902777777777777in"
-  height="0.12986111111111112in"} ): consente di modificare, ove
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_utente.bmp](./assets/media/image10.png) ): consente di modificare, ove
   possibile, l'anagrafica dell'utente attualmente selezionato. Cliccando
   su questo pulsante verrà infatti aperta la maschera **"Dati Utente"**
   attraverso cui poter gestire i dati dell'utente compresi indirizzi di
   spedizione, condizioni commerciali e associazione Utente -- Gruppi.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dati_utente.bmp](./assets/media/image114.png){width="5.8180555555555555in"
-height="4.50625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dati_utente.bmp](./assets/media/image114.png)
 
 > Per maggiori informazioni in merito alla gestione dell'anagrafica
 > utente si veda anche la sezione "*Utenti -- Utenti Sito -- Utenti --
 > Gestione Utenti*" di questo manuale.
 
 - **Aggiungi Esistenti** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_al_gruppo.bmp](./assets/media/image113.png){width="0.7208333333333333in"
-  height="0.2076388888888889in"} ): consente di associare al gruppo
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_al_gruppo.bmp](./assets/media/image113.png) ): consente di associare al gruppo
   attualmente selezionato all'interno dell'albero, un qualsiasi utente
   del sito. Cliccando su questo pulsante verrà quindi visualizzata la
   maschera, **a selezione multipla**, dei possibili utenti da aggiungere
@@ -161,8 +153,7 @@ height="4.50625in"}
 "Contatto Non Attivo".
 
 - **Sposta** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_sposta.bmp](./assets/media/image167.png){width="0.30486111111111114in"
-  height="0.1951388888888889in"} ): consente di spostare il gruppo
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_sposta.bmp](./assets/media/image167.png) ): consente di spostare il gruppo
   attualmente selezionato in una diversa posizione della gerarchia che
   si sta considerando. Cliccando su questo pulsante, infatti, il
   puntatore del mouse si modificherà assumendo la forma di quattro
@@ -173,8 +164,7 @@ height="4.50625in"}
 > richiesta una conferma per l'operazione che si sta effettuando)
 
 - **Elimina** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina.bmp](./assets/media/image95.png){width="0.3506944444444444in"
-  height="0.18819444444444444in"} ): consente di eliminare dalla
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina.bmp](./assets/media/image95.png) ): consente di eliminare dalla
   gerarchia il gruppo attualmente selezionato.
 
 > **NOTA BENE:** eliminando un gruppo NON verranno eliminati gli utenti
@@ -184,8 +174,7 @@ height="4.50625in"}
 Cliccando su questo pulsante verrà visualizzato un messaggio del tipo di
 quello qui di seguito riportato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\richiesta_elimina_gruppo.bmp](./assets/media/image168.png){width="2.8569444444444443in"
-height="1.1625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\richiesta_elimina_gruppo.bmp](./assets/media/image168.png)
 
 > consentendo quindi all'utente di decidere se eliminare il singolo
 > gruppo oppure anche tutti i suoi gruppi figli. Nel primo caso,

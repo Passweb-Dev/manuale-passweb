@@ -25,21 +25,18 @@ In questo senso sarà dunque necessario:
     nella dashboard di gestione del Contenitore su cui si desidera
     operare e cliccare sul pulsante "**Aggiungi un uovo Tag**"
 
-![Videate\\gtm_15b.bmp](./assets/media/image36.png){width="5.586111111111111in"
-height="3.4458333333333333in"}
+![Videate\\gtm_15b.bmp](./assets/media/image36.png)
 
 2.  Cliccare sul pulsante "**Scegli un tipo di tag per iniziare
     l'installazione**" presente all'interno del box "**Configurazione
     Tag**"
 
-![Videate\\gtm_ecommerce_avanzato_10.bmp](./assets/media/image37.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_10.bmp](./assets/media/image37.png)
 
 3.  Selezionare tra quelli proposti il tag relativo alla configurazione
     di GA4 "**Google Analytics: configurazione GA4"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ga4_10.bmp](./assets/media/image38.png){width="5.184722222222222in"
-height="3.477777777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ga4_10.bmp](./assets/media/image38.png)
 
 > Nella successiva maschera di configurazione del tag impostare
 > all'interno del relativo campo l' **ID Misurazione** (G-XXXXXXXXXX)
@@ -49,8 +46,7 @@ height="3.477777777777778in"}
 > stesso modo di quanto fatto per l'ID Monitoraggio UA che si utilizzava
 > in Universal Analytics)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ga4_11.bmp](./assets/media/image39.png){width="5.184722222222222in"
-height="3.477777777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ga4_11.bmp](./assets/media/image39.png)
 
 > Accertarsi inoltre di aver selezionato il flag "**Invia un evento di
 > visualizzazione pagina quando viene caricata questa configurazione**"
@@ -61,14 +57,12 @@ height="3.477777777777778in"}
     dove questo stesso Tag dovrà essere attivato. Cliccare quindi sul
     pulsante "**Scegli un attivatore per attivare questo tag**"
 
-![Videate\\ga4_12.bmp](./assets/media/image40.png){width="5.184722222222222in"
-height="3.477777777777778in"}
+![Videate\\ga4_12.bmp](./assets/media/image40.png)
 
 > e selezionare tra gli attivatori proposti l'opzione "**All Pages /
 > Visualizzazione di pagina**"
 
-![Videate\\gtm_35B.bmp](./assets/media/image41.png){width="5.598611111111111in"
-height="3.248611111111111in"}
+![Videate\\gtm_35B.bmp](./assets/media/image41.png)
 
 > In questo modo, il tag di Google Analytics che stiamo configurando
 > verrà attivato al caricamento di una qualsiasi pagina del nostro sito.
@@ -77,8 +71,7 @@ height="3.248611111111111in"}
     creando e cliccare sul pulsante "**Salva**" presente nella parte
     alta della maschera per confermare la sua creazione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ga4_13.bmp](./assets/media/image42.png){width="5.184722222222222in"
-height="3.477777777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ga4_13.bmp](./assets/media/image42.png)
 
 6.  Verificare in modalità **Anteprima** il corretto funzionamento del
     Tag (per maggiori informazioni in merito si veda anche quanto
@@ -95,23 +88,20 @@ height="3.477777777777778in"}
 7.  Cliccare sul pulsante "**Salva**" presente nella parte alta della
     maschera per creare e salvare il Tag appena configurato
 
-![Videate\\gtm_35c.bmp](./assets/media/image43.png){width="5.592361111111111in"
-height="3.254861111111111in"}
+![Videate\\gtm_35c.bmp](./assets/media/image43.png)
 
 8.  Una volta verificato che tutto funzioni correttamente l'ultimo
     passaggio sarà ovviamente quello di pubblicare il Contenitore. In
     questo senso sarà quindi sufficiente cliccare sul pulsante
     "**Invia**" presente nella parte alta della maschera
 
-![Videate\\gtm_35d.bmp](./assets/media/image44.png){width="5.592361111111111in"
-height="3.1590277777777778in"}
+![Videate\\gtm_35d.bmp](./assets/media/image44.png)
 
 > assegnare un nome e una descrizione alla versione del Tag che andremo
 > a pubblicare e, infine, avviare la pubblicazione cliccando sul
 > pulsante "**Pubblica**"
 
-![Videate\\gtm_35e.bmp](./assets/media/image45.png){width="5.547916666666667in"
-height="3.407638888888889in"}
+![Videate\\gtm_35e.bmp](./assets/media/image45.png)
 
 > Da questo momento in avanti la nuova versione del Contenitore (con i
 > relativi Tag) sarà effettivamente attiva sul sito e da questo momento

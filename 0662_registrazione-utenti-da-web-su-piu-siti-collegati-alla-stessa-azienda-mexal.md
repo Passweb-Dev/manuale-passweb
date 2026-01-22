@@ -47,8 +47,7 @@ In questo senso vanno quindi considerate le seguenti condizioni:
   **"*Utenti -- Gestione Parametri Utenti Ecommerce -- Configurazione
   Utenti*"** del Wizard
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\multi_sito_ec17.bmp](./assets/media/image103.png){width="5.825in"
-height="3.441666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\multi_sito_ec17.bmp](./assets/media/image103.png)
 
 > Per maggiori informazioni relativamente al parametro "Gestione Iva
 > Secondaria" si veda anche il capitolo "*Utenti -- Gestione Parametri

@@ -8,8 +8,7 @@ e Puffin, integrazione questa che consentirà poi di inserire all'interno
 del sito (ad esempio in apposite landing page) form in grado di creare
 nuovi Lead all'interno del CRM
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\puffin_crm_configurazione_2.bmp](./assets/media/image138.png){width="5.6819444444444445in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\puffin_crm_configurazione_2.bmp](./assets/media/image138.png)
 
 I campi presenti all'interno di questa sezione consentono dunque di:
 
@@ -30,8 +29,7 @@ Per ottenere questa chiave è necessario accedere alla sezione
 "**Impostazioni -- Configurazione -- Utenti -- Account CRM**" della
 propria installazione Puffin
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\puffin_utenti_crm.bmp](./assets/media/image139.png){width="5.304861111111111in"
-height="3.363888888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\puffin_utenti_crm.bmp](./assets/media/image139.png)
 
 e creare un nuovo utente di servizio (pulsante "**Aggiungi**") di tipo
 Amministratore in relazione al quale andare poi a generare la chiave da
@@ -40,16 +38,14 @@ inserire nel Wizard di Passweb
 Una volta creato il nuovo utente sarà quindi necessario portarsi
 all'interno della sezione "**Generazione Token**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\puffin_generazione_token_1.bmp](./assets/media/image140.png){width="5.304861111111111in"
-height="3.363888888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\puffin_generazione_token_1.bmp](./assets/media/image140.png)
 
 assegnare una data di validità alla chiave che si andrà poi a generare
 (campi "**Data inizio validità**" e "**Data Fine Validità**") e
 fleggare, all'interno del pannello "**Elenco Risorse**", i check di
 seguito indicati
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\puffin_generazione_token_2.bmp](./assets/media/image141.png){width="5.304861111111111in"
-height="3.4868055555555557in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\puffin_generazione_token_2.bmp](./assets/media/image141.png)
 
 - **Lead** -- Lettura (GET) e Scrittura (POST)
 
@@ -66,8 +62,7 @@ presente in corrispondenza dell'intestazione "**Impostazioni Token**"
 per ottenere la chiave richiesta che verrà così visualizzata all'interno
 del campo "**Api-Key**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\puffin_generazione_token_3.bmp](./assets/media/image142.png){width="5.304861111111111in"
-height="3.4868055555555557in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\puffin_generazione_token_3.bmp](./assets/media/image142.png)
 
 Per completare il processo di integrazione sarà quindi sufficiente
 copiare la chiave appena generata ed inserirla, assieme all' url della
@@ -121,8 +116,7 @@ crm**"), selezionare il tab "**Funzionalità**" e verificare di aver
 attivato il check "**Campi custom/Struttura campi custom**" presente
 all'interno della sezione "**Campi Custom**" evidenziata in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\puffin_campi_custom_1.bmp](./assets/media/image143.png){width="6.058333333333334in"
-height="3.370138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\puffin_campi_custom_1.bmp](./assets/media/image143.png)
 
 Come detto però, il fatto di consentire all'utente di servizio (e quindi
 a Passweb) di poter utilizzare i Campi Custom, di per sé non è
@@ -141,14 +135,12 @@ Per far questo sarà necessario accedere alla sezione "**Impostazioni --
 Configurazione -- Campi Custom -- Struttura campi custom**" evidenziata
 in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\puffin_campi_custom_3.bmp](./assets/media/image144.png){width="6.058333333333334in"
-height="3.370138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\puffin_campi_custom_3.bmp](./assets/media/image144.png)
 
 selezionare, tra quelle presenti in elenco la struttura dei campi custom
 che dovranno essere utilizzati all'interno del form Passweb
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\puffin_campi_custom_4.bmp](./assets/media/image145.png){width="6.058333333333334in"
-height="3.370138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\puffin_campi_custom_4.bmp](./assets/media/image145.png)
 
 e verificare che tra gli "**Operatori selezionati**" (click sul numerino
 posto a fianco della corrispondente etichetta) ci siano sia l'utente di
@@ -156,14 +148,12 @@ servizio utilizzato per l'integrazione tra le due piattaforme, sia tutti
 gli utenti Puffin che dovranno poter accedere alle anagrafiche Lead
 create da Passweb.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\puffin_campi_custom_5.bmp](./assets/media/image146.png){width="6.058333333333334in"
-height="3.370138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\puffin_campi_custom_5.bmp](./assets/media/image146.png)
 
 Nel momento in cui uno degli operatori interessati non dovesse essere
 presente all'interno di questo elenco sarà sufficiente aggiungerlo
 cliccando sul pulsante "**Aggiungi**" (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_operatore.bmp](./assets/media/image147.png){width="0.4673611111111111in"
-height="0.22708333333333333in"} )
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_operatore.bmp](./assets/media/image147.png) )
 
 **ATTENZIONE!** per maggiori informazioni sulla creazione / gestione
 degli utenti Puffin e delle strutture di campi custom si consiglia di
@@ -174,8 +164,7 @@ lead, quando andremo a mappare i campi di questo stesso form con i campi
 Puffin, oltre a quelli standard troveremo anche i campi delle "Strutture
 di campi custom" correttamente abilitate.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\puffin_campi_custom_6.bmp](./assets/media/image148.png){width="4.409027777777778in"
-height="3.201388888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\puffin_campi_custom_6.bmp](./assets/media/image148.png)
 
 In realtà occorre fare anche un'ulteriore precisazione in merito a
 quelli che sono i campi custom di Puffin che potranno essere
@@ -188,11 +177,9 @@ in Passweb:
   "**Modulo**" e "**Sezione**" sono stati impostati rispettivamente sui
   valori "**Anagrafiche**" e "**Scheda Azienda / Lead**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\puffin_strutture_campi_custom.bmp](./assets/media/image149.png){width="6.013194444444444in"
-height="3.370138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\puffin_strutture_campi_custom.bmp](./assets/media/image149.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\puffin_strutture_campi_custom_2.bmp](./assets/media/image150.png){width="6.013194444444444in"
-height="3.370138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\puffin_strutture_campi_custom_2.bmp](./assets/media/image150.png)
 
 Inoltre tra i campi definiti all'interno di questo tipo di strutture
 verranno prelevati e potranno quindi essere mappati nel form Passweb

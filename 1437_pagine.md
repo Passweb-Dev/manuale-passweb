@@ -8,8 +8,7 @@ configurare e gestire la generazione del feed utilizzato per condividere
 con Clerk informazioni relative ai post CMS e ai testi pubblicati nelle
 varie pagine del proprio sito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_feed_pagine.bmp](./assets/media/image20.png){width="5.428472222222222in"
-height="3.33125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_feed_pagine.bmp](./assets/media/image20.png)
 
 In questo senso dunque il parametro:
 
@@ -36,8 +35,7 @@ tipologie di elementi:
   "**Paragrafo**" e marcati in maniera specifica (campo "**Considera nel
   feed pagine**") per essere inseriti all'interno di questo feed
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\paragrafo_considera_nel_feed.bmp](./assets/media/image21.png){width="3.922222222222222in"
-height="3.0194444444444444in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\paragrafo_considera_nel_feed.bmp](./assets/media/image21.png)
 
 > Per maggiori informazioni sul componente "Paragrafo" si veda anche
 > quanto indicato nel relativo capitolo di questo manuale ("*Componenti

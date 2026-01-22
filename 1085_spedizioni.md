@@ -5,8 +5,7 @@
 La sezione "**Spedizioni**" consente di associare la Spesa accessoria
 che si sta codificando ad uno o più metodi di trasporto.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\spese_accessorie_trasporti.bmp](./assets/media/image424.png){width="5.584722222222222in"
-height="3.441666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\spese_accessorie_trasporti.bmp](./assets/media/image424.png)
 
 Nel box di sinistra sono visualizzati tutti i metodi di trasporto
 attualmente codificati all'interno della corrispondente sezione del

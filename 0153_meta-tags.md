@@ -6,8 +6,7 @@ All'interno di questa sezione è possibile gestire i Meta Tag (non
 presenti nativamente in Passweb) da inserire all'interno delle varie
 pagine cui verrà associato il layout in esame.
 
-![Videate\\layout_caratteristiche_1_res.bmp](./assets/media/image155.png){width="4.582638888888889in"
-height="1.98125in"}
+![Videate\\layout_caratteristiche_1_res.bmp](./assets/media/image155.png)
 
 I **Meta Tag** sono metadati presenti nel linguaggio HTML e utilizzati
 per fornire informazioni sulle pagine agli utenti o ai motori di

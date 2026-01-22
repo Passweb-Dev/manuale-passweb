@@ -6,8 +6,7 @@ La sezione "**Permalink**", presente all'interno del menu **"Preferenze
 --SEO"** consente di definire la struttura dei permalink (e quindi degli
 url) delle varie pagine del proprio sito web.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\seo_gestione_permalink.bmp](./assets/media/image29.png){width="5.746527777777778in"
-height="3.49375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\seo_gestione_permalink.bmp](./assets/media/image29.png)
 
 Nello specifico il campo:
 
@@ -324,8 +323,7 @@ E' possibile selezionare uno dei seguenti valori:
 - **Senza il parametro nel Url:** selezionando questa opzione verrà
   visualizzato un ulteriore campo "**Usa un separatore**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\permalink_cms_usa_separatore.bmp](./assets/media/image30.png){width="5.792361111111111in"
-height="3.5256944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\permalink_cms_usa_separatore.bmp](./assets/media/image30.png)
 
 > mediante il quale poter specificare se nella costruzione dell' url
 > delle pagine di dettaglio dei vari post CMS, dovrà essere utilizzato o
@@ -337,8 +335,7 @@ height="3.5256944444444445in"}
 > Pagina e Titolo del CMS**" la stringa da utilizzare per la costruzione
 > del url della pagina di dettaglio dei post CMS.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\permalink_cms_separatore.bmp](./assets/media/image31.png){width="5.792361111111111in"
-height="3.5256944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\permalink_cms_separatore.bmp](./assets/media/image31.png)
 
 > La stringa indicata verrà quindi inserita, tra il nome della "Pagina
 > di Dettaglio" ed il "Titolo" del post visualizzato.
@@ -364,8 +361,7 @@ height="3.5256944444444445in"}
 > prenderanno in considerazione le pagine indicate come "**Pagina di
 > lettura**" in corrispondenza delle varie categorie CMS
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\categoria_cms_pagina_lettura.bmp](./assets/media/image32.png){width="5.792361111111111in"
-height="3.5256944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\categoria_cms_pagina_lettura.bmp](./assets/media/image32.png)
 
 > Per maggiori informazioni relativamente a come poter associare una
 > pagina di lettura ad una data categoria CMS si veda anche la sezione
@@ -390,8 +386,7 @@ height="3.5256944444444445in"}
 > Preferenze -- SEO*" del Wizard e cliccare sul pulsante "**Rigenera URL
 > Rewrite**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\rigenera_url_rewrite.bmp](./assets/media/image33.png){width="5.792361111111111in"
-height="3.5256944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\rigenera_url_rewrite.bmp](./assets/media/image33.png)
 
 > in maniera tale da consentire all'applicazione di rigenerare, secondo
 > le nuove impostazioni, le corrette url di lettura dei vari post cms

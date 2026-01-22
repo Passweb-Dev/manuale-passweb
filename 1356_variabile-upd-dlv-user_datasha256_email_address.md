@@ -20,27 +20,23 @@ variabile in questione:
     variabile cliccando sul pulsante "**Nuova**" presente in
     corrispondenza del box "**Variabili definite dall'utente**"
 
-![Videate\\gtm_ecommerce_avanzato_1.bmp](./assets/media/image49.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_1.bmp](./assets/media/image49.png)
 
 2.  Cliccare sul pulsante "**Scegli un tipo di variabile per iniziare
     l'installazione**" presente in corrispondenza del box
     "**Configurazione Variabile**"
 
-![Videate\\gtm_ecommerce_avanzato_2.bmp](./assets/media/image50.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_2.bmp](./assets/media/image50.png)
 
 > e selezionare, tra le varie proposte, l'opzione "**Variabile di
 > livello dati**"
 
-![Videate\\gtm_ecommerce_avanzato_3.bmp](./assets/media/image51.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_3.bmp](./assets/media/image51.png)
 
 3.  Nella successiva maschera impostare i campi di configurazione della
     variabile come di seguito indicato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\upd_dlv_email.bmp](./assets/media/image200.png){width="5.407638888888889in"
-height="3.2805555555555554in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\upd_dlv_email.bmp](./assets/media/image200.png)
 
 - **Nome varabile di livello dati**: impostare sul valore
   "**user_data.sha256_email_address**"
@@ -51,8 +47,7 @@ height="3.2805555555555554in"}
     user_data.sha256_email_address**") utilizzando l'apposito campo
     presente nella parte alta della pagina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\upd_dlv_email_2.bmp](./assets/media/image201.png){width="5.407638888888889in"
-height="3.2805555555555554in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\upd_dlv_email_2.bmp](./assets/media/image201.png)
 
 > e cliccare sul pulsante "**Salva**"
 

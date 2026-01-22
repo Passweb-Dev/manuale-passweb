@@ -16,8 +16,7 @@ cosa, se il dato dovrà essere memorizzato in un campo dell'anagrafica
 gestionale (opzione **Campo Cliente**) oppure in un attributo Passweb
 (opzione **Attributo Cliente**)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\campo_testo_destinazione_dati.bmp](./assets/media/image84.png){width="4.649305555555555in"
-height="2.9611111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\campo_testo_destinazione_dati.bmp](./assets/media/image84.png)
 
 Nel momento in cui l'esigenza dovesse essere quella di memorizzare il
 dato in un campo dell'anagrafica gestionale sarà quindi necessario
@@ -181,8 +180,7 @@ ricordare che:
   Testo" nel momento in cui dovesse appunto essere mappato sul Codice
   Fiscale
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_cribis_2.bmp](./assets/media/image85.png){width="4.785416666666666in"
-height="3.0652777777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_cribis_2.bmp](./assets/media/image85.png)
 
 > **ATTENZIONE!** La funzione di autocompletamento dei campi del form di
 > registrazione è disponibile solo per utenti di tipo Agente
@@ -214,8 +212,7 @@ height="3.0652777777777778in"}
 > informativo per ricordare all'amministratore quanto appena
 > evidenziato.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\horeca_codice_fiscale.bmp](./assets/media/image86.png){width="5.065277777777778in"
-height="2.9090277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\horeca_codice_fiscale.bmp](./assets/media/image86.png)
 
 > **ATTENZIONE!** Nel caso in cui all'interno del gestionale siano
 > presenti anagrafiche utente con stesso nome e stesso cognome è
@@ -341,8 +338,7 @@ ricordare che:
   Testo" nel momento in cui dovesse appunto essere mappato sulla Partita
   IVA
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_cribis_1.bmp](./assets/media/image87.png){width="4.792361111111111in"
-height="3.0520833333333335in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_cribis_1.bmp](./assets/media/image87.png)
 
 > **ATTENZIONE!** La funzione di autocompletamento dei campi del form di
 > registrazione è disponibile solo per utenti di tipo Agente
@@ -538,8 +534,7 @@ In queste condizioni, inoltre, nella maschera di configurazione del
 componente verrà visualizzato anche il parametro "**Abilita Validazione
 Google**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\validazione_citta_2.bmp](./assets/media/image88.png){width="4.785416666666666in"
-height="3.045138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\validazione_citta_2.bmp](./assets/media/image88.png)
 
 **Abilita Validazione Google**: consente, se selezionato, di attivare la
 validazione di quanto inserito all'interno del campo in esame mediante i
@@ -557,8 +552,7 @@ corretta è necessario verificare di aver inserito all'interno del campo
 "**Chiave Google Maps Distance API**" (pagina "**Preferenze Sito**", tab
 "**Integrazioni**" del Wizard) una API key valida e funzionante.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\validazione_citta.bmp](./assets/media/image33.png){width="5.759722222222222in"
-height="3.3444444444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\validazione_citta.bmp](./assets/media/image33.png)
 
 Per maggiori informazioni in merito all'utilizzo della Google Maps e dei
 relativi servizi si consiglia di fare riferimento anche a quanto
@@ -587,8 +581,7 @@ del Sito" agendo per il componente "Registrazione Utente" sul campo
 verrà inserito automaticamente il valore della Città ritornato da
 Google.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\validazione_citta_3.bmp](./assets/media/image89.png){width="5.363888888888889in"
-height="3.3444444444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\validazione_citta_3.bmp](./assets/media/image89.png)
 
 **ATTENZIONE!** L'unico campo ad essere validato ed eventualmente
 valorizzato con quanto ritornato da Google è il campo "Città". **Non

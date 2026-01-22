@@ -25,8 +25,7 @@ impostando i parametri di configurazione "**Tipo di Integrazione**" e
 "**Tipologia Form**" rispettivamente sui valori "**ActiveCampaign**" e
 "**Disiscrzione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_disiscrizione_newsletter_activecampaign.bmp](./assets/media/image14.png){width="4.370138888888889in"
-height="3.9479166666666665in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_disiscrizione_newsletter_activecampaign.bmp](./assets/media/image14.png)
 
 Il campo "**Lista Associata**" consentirà inoltre di indicare,
 selezionandola tra quelle definite all'interno del proprio account

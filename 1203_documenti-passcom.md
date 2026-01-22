@@ -14,8 +14,7 @@ Questo tipo di ricerca può essere effettuata in due modi diversi:
   cartella della cartella "Docuvision" corrispondente all'anno e alla
   tipologia di documenti che si intende ricercare per l'azienda in esame
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\comm_ricerca_documenti_da_albero.bmp](./assets/media/image114.png){width="5.311805555555556in"
-height="3.3506944444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\comm_ricerca_documenti_da_albero.bmp](./assets/media/image114.png)
 
 > **ATTENZIONE!** **nel momento in cui si dovesse decidere di non
 > attivare le Web Api, questa sarà l'unica possibilità di accedere ai
@@ -25,8 +24,7 @@ height="3.3506944444444446in"}
   immediatamente al di sopra della griglia contenente l'elenco dei
   documenti
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\comm_ricerca_documenti_da_PANNELLO.bmp](./assets/media/image115.png){width="5.311805555555556in"
-height="3.3506944444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\comm_ricerca_documenti_da_PANNELLO.bmp](./assets/media/image115.png)
 
 > **ATTENZIONE!** **per poter abilitare il pannello Ricerca Documenti
 > evidenziato in figura, ed utilizzarlo quindi per ricercare anche

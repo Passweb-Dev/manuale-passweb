@@ -70,8 +70,7 @@ seguito indicato:
 > valori sopra indicati in base alla tipologia del componente utilizzato
 > per effettuare la ricerca sul sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_173.bmp](./assets/media/image35.png){width="4.597222222222222in"
-height="3.045138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_173.bmp](./assets/media/image35.png)
 
 - **campi_ricerca**: lista dei valori presenti nei campi di ricerca del
   relativo pannello. Per ogni campo valorizzato in fase di ricerca verrà
@@ -82,8 +81,7 @@ height="3.045138888888889in"}
 > ricerca in corrispondenza del campo "Nome Tracciamento" (il tutto
 > riportato in minuscolo)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_173_a.bmp](./assets/media/image36.png){width="4.623611111111111in"
-height="3.045138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_173_a.bmp](./assets/media/image36.png)
 
 > **ATTENZIONE!** Eventuali spazi presenti all'interno del campo
 > evidenziato in figura verranno sostituiti dal carattere \_

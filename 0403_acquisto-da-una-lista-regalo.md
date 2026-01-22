@@ -36,8 +36,7 @@ modi diversi:
   Lista Regalo all'interno del corrispondente pannello di ricerca
   presente alla pagina "Lista Regalo" del sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\ricerca_lista_regalo.bmp](./assets/media/image234.png){width="5.68125in"
-height="3.392361111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\ricerca_lista_regalo.bmp](./assets/media/image234.png)
 
 > Nulla vieta infatti al gestore della lista di far pervenire ai suoi
 > invitati, nella maniera che ritiene più opportuna, l'identificativo
@@ -54,8 +53,7 @@ height="3.392361111111111in"}
 > parte del permalink di pagina), oppure dal relativo campo presente nel
 > form di modifica della Lista stessa.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\identificativo_lista_regalo.bmp](./assets/media/image235.png){width="5.564583333333333in"
-height="3.214583333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\identificativo_lista_regalo.bmp](./assets/media/image235.png)
 
 > **ATTENZIONE!** Per visualizzare il campo "**Identificativo Evento**"
 > (campo ovviamente non editabile) è necessario salvare la Lista Regalo
@@ -67,8 +65,7 @@ troverà di fronte un mini catalogo contenente esattamente tutti gli
 articoli che il creatore della lista desidererebbe ricevere, ordinati,
 magari, per priorità di acquisto.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\lista_regalo_acquisto_1.bmp](./assets/media/image236.png){width="5.3375in"
-height="4.65in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\lista_regalo_acquisto_1.bmp](./assets/media/image236.png)
 
 Nella parte alta della pagina, immediatamente al di sotto del pannello
 di ricerca, verranno inoltre visualizzate anche tutte le informazioni
@@ -105,8 +102,7 @@ Nello specifico è bene sottolineare che
   quale sarà indicata la quantità attualmente ricevuta, per il relativo
   articolo, dal gestore della lista.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\agg_carrello_lista_regalo.bmp](./assets/media/image237.png){width="5.313194444444444in"
-height="4.625694444444444in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\agg_carrello_lista_regalo.bmp](./assets/media/image237.png)
 
 > **Inoltre, la quantità visualizzata a default nel campo di input sarà
 > data dalla differenza tra la quantità desiderata e quella attualmente
@@ -118,16 +114,14 @@ height="4.625694444444444in"}
   al suo posto un testo di "**Articolo completato**" (personalizzabile
   alla sezione Testi/Messaggi Sito del Wizard)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\lista_regalo_acquisto_2.bmp](./assets/media/image238.png){width="5.3375in"
-height="4.65in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\lista_regalo_acquisto_2.bmp](./assets/media/image238.png)
 
 - Per articoli a taglie verrà sempre utilizzata la "**Modalità grafica
   estesa**", con la possibilità di impostare a zero la quantità di una
   determinata taglia in maniera tale da evitare che essa venga poi
   aggiunta in carrello.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\taglie_in_lista_regalo.bmp](./assets/media/image239.png){width="5.564583333333333in"
-height="3.214583333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\taglie_in_lista_regalo.bmp](./assets/media/image239.png)
 
 - I prezzi degli articoli presenti in Lista Regalo sono sottoposti ad
   eventuali particolarità prezzo e/o sconto associate all'utente che sta
@@ -156,8 +150,7 @@ height="3.214583333333333in"}
 > precedente, verrà visualizzato un apposito messaggio di errore e
 > l'articolo in esame, ovviamente, non verrà aggiunto.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\lista_regalo_messaggio_errore_1.bmp](./assets/media/image240.png){width="5.055555555555555in"
-height="3.1840277777777777in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\lista_regalo_messaggio_errore_1.bmp](./assets/media/image240.png)
 
 > Il messaggio in questione può essere personalizzato dalla sezione
 > "Testi / Messaggi del Sito" agendo sul testo "**Articolo non relativo
@@ -172,8 +165,7 @@ height="3.1840277777777777in"}
 > visualizzato un altro messaggio di errore e l'articolo in esame,
 > ovviamente, non verrà aggiunto.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\lista_regalo_messaggio_errore_2.bmp](./assets/media/image241.png){width="5.055555555555555in"
-height="3.1840277777777777in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\lista_regalo_messaggio_errore_2.bmp](./assets/media/image241.png)
 
 > Anche in questo caso il messaggio di errore può essere personalizzato
 > dalla sezione "Testi / Messaggi del Sito" agendo questa volta sul
@@ -195,8 +187,7 @@ height="3.1840277777777777in"}
 > farsi arrivare a casa la merce per poi consegnarla di persona al
 > gestore delle lista)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\lista_regalo_acquisto_3.bmp](./assets/media/image242.png){width="5.809722222222222in"
-height="2.3680555555555554in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\lista_regalo_acquisto_3.bmp](./assets/media/image242.png)
 
 - In fase di conferma ordine (nel momento cioè in cui l'ordine verrà
   inserito sul gestionale) verrà inviata una mail al gestore della lista
@@ -218,8 +209,7 @@ height="2.3680555555555554in"}
   valori delle quantità ricevute agendo, in questo senso, dalla
   corrispondente sezione del Wizard**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\wizard_dettaglio_lista_regalo.bmp](./assets/media/image243.png){width="5.809722222222222in"
-height="3.423611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\wizard_dettaglio_lista_regalo.bmp](./assets/media/image243.png)
 
 > Per maggiori informazioni in merito si veda anche la sezione
 > **"***Utenti -- Wishlist -- Gestione Liste Regalo***"** di questo
@@ -238,8 +228,7 @@ height="3.423611111111111in"}
 > contemporaneamente, verranno anche aggiornate le quantità in ordine
 > con i valori corretti.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\lista_regalo_messaggio_errore_3.bmp](./assets/media/image244.png){width="2.441666666666667in"
-height="1.8527777777777779in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\lista_regalo_messaggio_errore_3.bmp](./assets/media/image244.png)
 
 > Come per gli altri messaggi di errore anche in questo caso è possibile
 > personalizzare il testo del messaggio dalla sezione "Testi / Messaggi

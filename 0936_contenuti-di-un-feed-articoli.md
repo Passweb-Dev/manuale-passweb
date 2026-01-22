@@ -69,15 +69,13 @@ proprio sito Ecommerce.
 Per effettuare questo tipo di operazione sarà sufficiente selezionare il
 Feed Articoli desiderato tra quelli presenti in elenco all'interno della
 maschera "Lista Feed" e cliccare poi sul pulsante "**Modifica Campi**" (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_campi_feed.bmp](./assets/media/image838.png){width="0.5715277777777777in"
-height="0.16875in"} ) presente nella barra degli strumenti di questa
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_campi_feed.bmp](./assets/media/image838.png) ) presente nella barra degli strumenti di questa
 stessa maschera.
 
 In questo modo si verrà ricondotti alla maschera "**Lista dei Campi del
 Feed**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_campi_feed.bmp](./assets/media/image839.png){width="5.5777777777777775in"
-height="3.467361111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_campi_feed.bmp](./assets/media/image839.png)
 
 contenente l'elenco dei campi attualmente gestiti per il Feed in esame.
 
@@ -96,8 +94,7 @@ I pulsanti presenti nella barra degli strumenti consentono
 rispettivamente di:
 
 **Sposta Campo** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_su_giu.bmp](./assets/media/image840.png){width="0.4027777777777778in"
-height="0.175in"} ): consente di spostare rispettivamente verso il basso
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_su_giu.bmp](./assets/media/image840.png) ): consente di spostare rispettivamente verso il basso
 e verso l'alto il campo attualmente selezionato in elenco definendo così
 la sua posizione. Dipendentemente dallo specifico motore a comparazione
 di prezzo con il quale si desidera effettuare l'integrazione, la
@@ -106,13 +103,11 @@ all'interno del file di export da esso generato può o meno essere una
 delle specifiche da soddisfare
 
 **Modifica Campo**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_campo_feed.bmp](./assets/media/image841.png){width="0.5847222222222223in"
-height="0.175in"} ): consente di modificare le proprietà e le
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_campo_feed.bmp](./assets/media/image841.png) ): consente di modificare le proprietà e le
 caratteristiche del campo attualmente selezionato in elenco
 
 **Elimina Campo**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_campo.bmp](./assets/media/image842.png){width="0.5520833333333334in"
-height="0.18819444444444444in"} ): consente di eliminare definitivamente
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_campo.bmp](./assets/media/image842.png) ): consente di eliminare definitivamente
 il campo attualmente selezionato in elenco.
 
 **NOTA BENE:** eventuali modifiche apportate ai campi articolo di un
@@ -121,15 +116,13 @@ rigenerazione automatica del file che dovrà, quindi, essere avviata
 manualmente (pulsante "Genera Feed") o tramite sincronizzazione.
 
 **Aggiungi Campo**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_campo.bmp](./assets/media/image843.png){width="0.5909722222222222in"
-height="0.1625in"} ): consente di aggiungere al Feed un nuovo campo
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_campo.bmp](./assets/media/image843.png) ): consente di aggiungere al Feed un nuovo campo
 articolo.
 
 Cliccando su questo pulsante verrà quindi aperta la maschera "**Nuovo
 Campo**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\feed_nuovo_campo.bmp](./assets/media/image844.png){width="5.5777777777777775in"
-height="3.467361111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\feed_nuovo_campo.bmp](./assets/media/image844.png)
 
 attraverso cui poter definire tutte le caratteristiche e le proprietà
 del campo articolo che si desidera inserire all'interno del Feed.
@@ -169,8 +162,7 @@ possibile selezionare uno dei seguenti valori:
 > stringhe INFORMATICA, PC e DESKTOP separate dal carattere indicato
 > all'interno del successivo campo "**Separatore Valori Multipli**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\feed_campo_separatori_multipli.bmp](./assets/media/image845.png){width="5.825in"
-height="3.441666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\feed_campo_separatori_multipli.bmp](./assets/media/image845.png)
 
 > **ATTENZIONE! Per categoria merceologica principale si intende sempre
 > e comunque quella cui è stato associato l'articolo all'interno del
@@ -346,8 +338,7 @@ height="3.441666666666667in"}
 > necessariamente avere come "Nome" del campo rispettivamente group_id e
 > group_leader
 
-![Videate\\doofinder_campi_group.bmp](./assets/media/image846.png){width="5.856944444444444in"
-height="3.3180555555555555in"}
+![Videate\\doofinder_campi_group.bmp](./assets/media/image846.png)
 
 - **Immagine Principale:** url completo dell'immagine utilizzata
   all'interno del sito Passweb come immagine principale della scheda
@@ -362,8 +353,7 @@ height="3.3180555555555555in"}
   campo "**Numero Immagine**" anche a quale delle immagini secondarie
   fare riferimento.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\feed_campo_numero_immagine.bmp](./assets/media/image847.png){width="5.825in"
-height="3.441666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\feed_campo_numero_immagine.bmp](./assets/media/image847.png)
 
 **NOTA BENE:** l' url inserito all'interno dei campi "Immagine
 Principale" e "Immagine Secondaria" farà sempre riferimento alle
@@ -380,8 +370,7 @@ specifiche esigenze
 - **Misuratore Spedizioni**: valore del parametro "Misuratore Trasposto
   a scaglioni" presente nell'Anagrafica Passweb dell'articolo
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\anagrafica_pwb_misuratore_scaglioni.bmp](./assets/media/image848.png){width="5.5in"
-height="3.4611111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\anagrafica_pwb_misuratore_scaglioni.bmp](./assets/media/image848.png)
 
 - **Natura:** descrizione della Natura associata sul gestionale al
   relativo articolo
@@ -452,8 +441,7 @@ comprensivi di iva dipendentemente da quanto impostato per il parametro
   Prodotto**" anche l'esatto numero della scheda tecnica cui fare
   riferimento.
 
-![Videate\\feed_campo_scheda_prodotto.bmp](./assets/media/image849.png){width="5.825in"
-height="3.441666666666667in"}
+![Videate\\feed_campo_scheda_prodotto.bmp](./assets/media/image849.png)
 
 - **Taglie** -- Campo a valori multipli: elenco di tutte le taglie
   indicate, per il relativo articolo, all'interno della Tabella Taglie
@@ -514,8 +502,7 @@ height="3.441666666666667in"}
   gestiti all'interno del sito e selezionabili dal sottostante menu a
   tendina (campo **"Attributo"**)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\feed_attributi.bmp](./assets/media/image850.png){width="5.825in"
-height="3.441666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\feed_attributi.bmp](./assets/media/image850.png)
 
 **NOTA BENE:** sarà possibile selezionare dal menu a tendina sopra
 evidenziato tutti gli Attributi Articolo definiti nella corrispondente
@@ -527,8 +514,7 @@ e Immagine
   comparazione di prezzo, indistintamente per tutti gli articoli, un
   campo con il valore indicato nel successivo parametro **"Valore"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\feed_attributi_valore.bmp](./assets/media/image851.png){width="5.825in"
-height="3.441666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\feed_attributi_valore.bmp](./assets/media/image851.png)
 
 **NOTA BENE:** quanto indicato all'interno del campo "Valore" verrà
 riportato esattamente per tutti gli articoli gestiti all'interno del

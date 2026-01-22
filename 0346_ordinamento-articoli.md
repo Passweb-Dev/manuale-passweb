@@ -41,8 +41,7 @@ La sezione **"Gestione Campi di Ordinamento"** consente dunque di
 definire i criteri di ordinamento "secondari" per gli articoli presenti
 all'interno del componente.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_catalogo_ecommerce2_res.bmp](./assets/media/image13.png){width="4.889583333333333in"
-height="2.417361111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_catalogo_ecommerce2_res.bmp](./assets/media/image13.png)
 
 Per maggiori informazioni relativamente a come poter impostare e gestire
 i campi di ordinamento si veda anche quanto indicato all'interno del

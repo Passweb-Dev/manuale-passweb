@@ -4,8 +4,7 @@
 
 Il Componente CMS **"Informazione"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cms_componente_informazione_res.bmp](./assets/media/image57.png){width="2.545138888888889in"
-height="2.765972222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cms_componente_informazione_res.bmp](./assets/media/image57.png)
 
 consente di visualizzare, per ogni singola notizia presente all'interno
 del componente CMS di livello superiore:
@@ -22,8 +21,7 @@ A livello di configurazione, una volta inserito il Componente
 all'interno della pagina web, verrà aperta in automatico **la sua
 maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_cms_descrizione_configurazione_res.bmp](./assets/media/image58.png){width="4.616666666666666in"
-height="2.558333333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_cms_descrizione_configurazione_res.bmp](./assets/media/image58.png)
 
 suddivisa in varie sezioni.
 
@@ -70,8 +68,7 @@ E' possibile selezionare una delle seguenti opzioni:
   l'informazione inserita in fase di codifica della notizia nel
   corrispondente campo della sezione "**Ulteriori Contenuti**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_cms_descrizione_res.bmp](./assets/media/image59.png){width="5.779166666666667in"
-height="3.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_cms_descrizione_res.bmp](./assets/media/image59.png)
 
 - **Numero Visualizzazioni:** selezionando questa opzione all'interno
   del componente verrà pubblicato il numero complessivo di

@@ -10,15 +10,13 @@ Articolo definiti all'interno della regola stessa
 
 Per creare una nuova Regola di questo tipo sarà necessario per prima
 cosa cliccare sul pulsante **Nuova Regola** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuova_regola.bmp](./assets/media/image299.png){width="0.5131944444444444in"
-height="0.175in"} ) presente nella barra degli strumenti della maschera
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuova_regola.bmp](./assets/media/image299.png) ) presente nella barra degli strumenti della maschera
 "**Regole di valorizzazione**"
 
 In questo modo verrà infatti visualizzata la maschera di creazione della
 nuova regola
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuova_regola_articolo.bmp](./assets/media/image300.png){width="5.616666666666666in"
-height="3.4611111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuova_regola_articolo.bmp](./assets/media/image300.png)
 
 mediante la quale poter definire i filtri di selezione articolo, gli
 attributi coinvolti nella regola e i valori che questi attributi
@@ -41,8 +39,7 @@ A questo punto sarà quindi necessario:
 > necessario cliccare sul pulsante "**Aggiorna**" in modo tale da
 > inserire gli attributi selezionati all'interno del form sottostante
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuova_regola_articolo2.bmp](./assets/media/image301.png){width="5.8375in"
-height="3.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuova_regola_articolo2.bmp](./assets/media/image301.png)
 
 2.  **Definire il criterio di selezione degli articoli in relazione ai
     quali dovrà essere applicata la regola che si sta realizzando**.
@@ -55,8 +52,7 @@ height="3.545138888888889in"}
 > potranno essere utilizzati per impostare il filtro di selezione
 > articoli.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuova_regola_articolo3.bmp](./assets/media/image302.png){width="5.8375in"
-height="3.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuova_regola_articolo3.bmp](./assets/media/image302.png)
 
 > Per maggiori informazioni relativamente alla creazione di un filtro
 > articoli si veda anche la sezione *"Utenti -- Gruppi Utenti Sito --
@@ -71,8 +67,7 @@ height="3.545138888888889in"}
 > corrispondenza del relativo campo presente all'interno della sezione
 > "**Regola**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuova_regola_articolo6.bmp](./assets/media/image303.png){width="5.8375in"
-height="3.5972222222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuova_regola_articolo6.bmp](./assets/media/image303.png)
 
 **NOTA BENE:** il tipo di dato ed il controllo da utilizzare per
 associare allo specifico attributo (immagine, testo, testo HTML ecc...)
@@ -90,8 +85,7 @@ stesso.
 > regola dovrà invece essere necessariamente applicata in maniera
 > manuale cliccando sul corrispondente pulsante (**Applica Regola**)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuova_regola_articolo7.bmp](./assets/media/image304.png){width="5.8375in"
-height="3.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuova_regola_articolo7.bmp](./assets/media/image304.png)
 
 Al termine dei passaggi sopra indicati sarà necessario cliccare sul
 pulsante "**Salva**" per memorizzare la regola appena creata e tornare

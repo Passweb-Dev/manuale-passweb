@@ -36,8 +36,7 @@ impostare, oltre ai parametri classici di configurazione del pagamento,
 anche quelli specifici del gateway attualmente considerato e presenti
 all'interno della sezione "**Parametri Gateway**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_axepta.bmp](./assets/media/image43.png){width="5.643055555555556in"
-height="3.325in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_axepta.bmp](./assets/media/image43.png)
 
 Nello specifico all'interno di questa sezione il campo:
 
@@ -88,8 +87,7 @@ dell'ordine, selezionare la modalità di pagamento in esame, l'ordine
 sarà memorizzato nel database di Passweb, e l'utente verrà reindirizzato
 sul sito del gateway di pagamento dove dovrà inserire i relativi dati.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamenti_axepta_2.bmp](./assets/media/image44.png){width="4.980555555555555in"
-height="2.785416666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamenti_axepta_2.bmp](./assets/media/image44.png)
 
 **A questo punto però l'ordine non è ancora stato preso in carico dalla
 banca e, conseguentemente, non è ancora avvenuto alcun pagamento**.
@@ -115,8 +113,7 @@ effettuando nuovamente la procedura di checkout.**
 Nel secondo caso, una volta confermata la transazione verrà presentata
 all'utente una pagina web con l'esito del pagamento appena effettuato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamenti_axepta_3.bmp](./assets/media/image45.png){width="4.980555555555555in"
-height="2.785416666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamenti_axepta_3.bmp](./assets/media/image45.png)
 
 e, dopo pochi secondi, sarà automaticamente ricondotto al sito
 Ecommerce, l'ordine verrà considerato valido ed inserito quindi

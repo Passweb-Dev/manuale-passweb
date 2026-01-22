@@ -4,21 +4,18 @@
 
 Il Componente **"Campo File"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\campo_file_registrazione_res.bmp](./assets/media/image134.png){width="2.5194444444444444in"
-height="2.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\campo_file_registrazione_res.bmp](./assets/media/image134.png)
 
 permette di inserire all'interno dei Form di Registrazione e/o di
 Profilo Utente un campo di input di tipo File mediante il quale poter
 allegare al form stesso un generico file.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\campo_file_registrazione.bmp](./assets/media/image135.png){width="5.4222222222222225in"
-height="4.311805555555556in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\campo_file_registrazione.bmp](./assets/media/image135.png)
 
 Rilasciando il componente all'interno del form si aprirà **la sua
 maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_campo_file_res.bmp](./assets/media/image136.png){width="5.143055555555556in"
-height="3.0972222222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_campo_file_res.bmp](./assets/media/image136.png)
 
 suddivisa in varie sezioni.
 
@@ -257,8 +254,7 @@ semplice.
 
 Sarà infatti sufficiente cliccare sul campo "**Seleziona File**"
 
-![Videate\\campo_file_registrazione.bmp](./assets/media/image137.png){width="5.4222222222222225in"
-height="4.311805555555556in"}
+![Videate\\campo_file_registrazione.bmp](./assets/media/image137.png)
 
 in modo tale da aprire la maschera di "Esplora Risorse" mediante la
 quale poter ricercare lo specifico file da uplodare.
@@ -267,8 +263,7 @@ Una volta selezionato il file desiderato verrà avviata la procedura di
 upload e all'interno del form, in corrispondenza del campo di tipo File,
 verrà visualizzato un messaggio di caricamento in corso
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\campo_file_registrazione2.bmp](./assets/media/image138.png){width="4.967361111111111in"
-height="3.3506944444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\campo_file_registrazione2.bmp](./assets/media/image138.png)
 
 **ATTENZIONE!** Nel caso in cui il file selezionato superi le dimensioni
 massime impostate in fase di configurazione del componente verrà
@@ -278,16 +273,14 @@ tutti i testi relativi a questo componente, all'interno della sezione
 nel momento in cui il file dovesse avere una estensione che non rientra
 tra quelle definite in fase di configurazione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\campo_file_registrazione6.bmp](./assets/media/image139.png){width="4.967361111111111in"
-height="3.3506944444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\campo_file_registrazione6.bmp](./assets/media/image139.png)
 
 Al contrario nel caso in cui il file abbia una delle estensioni
 consentite e una dimensione inferiore a quella massima impostata la
 procedura di upload terminerà in maniera corretta e all'interno del
 campo verrà visualizzato il nome del file uplodato.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\campo_file_registrazione3.bmp](./assets/media/image140.png){width="4.967361111111111in"
-height="3.3506944444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\campo_file_registrazione3.bmp](./assets/media/image140.png)
 
 La piccola **X** presente all'interno del campo consente di rimuovere il
 file caricato e procedere, eventualmente con l'upload di un altro file.
@@ -311,8 +304,7 @@ per questo all'interno del campo "**Cartella File Utenti**" presente
 nella maschera "Parametri Mexal" accessibile dal menu "*Configurazione
 -- Configurazione Gestionale*" del Wizard.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\campo_file_registrazione4.bmp](./assets/media/image141.png){width="5.779166666666667in"
-height="3.3444444444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\campo_file_registrazione4.bmp](./assets/media/image141.png)
 
 **ATTENZIONE! Nel caso di Attributi Utente Passweb di tipo file, i file
 uplodati resteranno memorizzati unicamente sul database del sito
@@ -325,8 +317,7 @@ presente nella maschera "**Dati Utente**" del Wizard cliccando
 semplicemente sul nome del file, oppure effettuando un'esportazione
 massiva dei dati utente
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\campo_file_registrazione5.bmp](./assets/media/image142.png){width="5.779166666666667in"
-height="3.3506944444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\campo_file_registrazione5.bmp](./assets/media/image142.png)
 
 **ATTANZIONE!** I campi di tipo file presenti all' interno della
 maschera Dati Utenti sono campi in sola lettura. L'amministratore del

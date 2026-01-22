@@ -5,8 +5,7 @@
 Il Componente **"Lista Categorie"** può essere inserito in una qualsiasi
 pagina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_lista_categorie.bmp](./assets/media/image270.png){width="2.1104166666666666in"
-height="2.5520833333333335in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_lista_categorie.bmp](./assets/media/image270.png)
 
 e permette di creare, in maniera completamente automatica, un menu di
 navigazione fra le varie categorie merceologiche gestite all'interno del
@@ -40,8 +39,7 @@ esso visualizzerà, in queste condizioni, 5 distinte celle.
 All'interno di ognuna di queste celle sarà poi possibile inserire
 l'immagine e/o il testo della relativa categoria merceologica.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_lista_categorie_esempio.bmp](./assets/media/image271.png){width="5.766666666666667in"
-height="3.5027777777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_lista_categorie_esempio.bmp](./assets/media/image271.png)
 
 Cliccando sull'immagine di una specifica categorie merceologica l'utente
 potrà essere ricondotto alla relativa pagina catalogo, dove potrebbe

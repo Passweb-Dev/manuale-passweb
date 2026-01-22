@@ -36,21 +36,18 @@ del proprio Account Google (<https://myaccount.google.com/u/2/> ),
 entrare nella sezione relativa alle impostazioni di "**Accesso e
 Sicurezza**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\server_smtp_gmail.bmp](./assets/media/image7.png){width="5.441666666666666in"
-height="3.7666666666666666in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\server_smtp_gmail.bmp](./assets/media/image7.png)
 
 e, nella sezione relativa ai "**Metodi di Accesso e Password**",
 cliccare sulla voce "**Password per le app**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\server_smtp_gmail2.bmp](./assets/media/image8.png){width="5.441666666666666in"
-height="3.7666666666666666in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\server_smtp_gmail2.bmp](./assets/media/image8.png)
 
 A questo punto sarà quindi sufficiente impostare nel campo "**Seleziona
 Applicazione**" il valore "**Posta**" e nel campo "**Seleziona
 dispositivo**" il valore "**Computer Windows**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\server_smtp_gmail3.bmp](./assets/media/image9.png){width="5.441666666666666in"
-height="2.484722222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\server_smtp_gmail3.bmp](./assets/media/image9.png)
 
 Cliccando quindi sul pulsante **Genera** verrà cerata la password che
 dovrà poi essere copiata all'interno del relativo campo presente nella

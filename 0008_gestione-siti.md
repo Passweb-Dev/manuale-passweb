@@ -7,8 +7,7 @@ maschera contenente l'elenco di tutti i siti associati al suo
 "**Raggruppamento Partner**" e che l'utente stesso è quindi abilitato a
 gestire.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\amministrazione_2.bmp](./assets/media/image14.png){width="5.350694444444445in"
-height="3.2465277777777777in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\amministrazione_2.bmp](./assets/media/image14.png)
 
 Per ogni sito presente in elenco viene indicato:
 
@@ -26,15 +25,13 @@ I tre presenti nella barra degli strumenti consentono rispettivamente
 di:
 
 **Accedi (**
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\amministrazione_pulsante_accedi.bmp](./assets/media/image15.png){width="0.43472222222222223in"
-height="0.1951388888888889in"} **):** consente di accedere al back end o
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\amministrazione_pulsante_accedi.bmp](./assets/media/image15.png) **):** consente di accedere al back end o
 al front end del sito attualmente selezionato in elenco.
 
 Cliccando su questo pulsante verrà presentata all'utente una maschera
 attraverso la quale poter decidere che tipo di accesso effettuare.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\amministrazione_3.bmp](./assets/media/image16.png){width="5.350694444444445in"
-height="3.2465277777777777in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\amministrazione_3.bmp](./assets/media/image16.png)
 
 In particolare l'opzione:
 
@@ -57,8 +54,7 @@ Una volta selezionato il tipo di accesso sarà poi necessario cliccare
 sul pulsante **"Conferma"**.
 
 **Importa Grafica (**
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\amministrazione_pulsante_importa_grafica.bmp](./assets/media/image17.png){width="0.7145833333333333in"
-height="0.1951388888888889in"} **):** consente di importare sul sito
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\amministrazione_pulsante_importa_grafica.bmp](./assets/media/image17.png) **):** consente di importare sul sito
 attualmente selezionato in elenco il layout grafico di uno qualsiasi
 degli altri siti presenti all'interno del raggruppamento.
 
@@ -68,8 +64,7 @@ Variante da utilizzare come sorgente dell'operazione di importazione,
 oltre che la specifica Variante del sito destinazione cui applicare il
 nuovo layout grafico.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\amministrazione_4.bmp](./assets/media/image18.png){width="5.350694444444445in"
-height="3.2465277777777777in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\amministrazione_4.bmp](./assets/media/image18.png)
 
 In particolare il campo:
 
@@ -101,8 +96,7 @@ In particolare il campo:
 > Sito") di questo manuale.
 
 **Agg. Versione (**
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\amministrazione_pulsante_aggiorna_versione.bmp](./assets/media/image19.png){width="0.6819444444444445in"
-height="0.1951388888888889in"} **):** consente di aggiornare la versione
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\amministrazione_pulsante_aggiorna_versione.bmp](./assets/media/image19.png) **):** consente di aggiornare la versione
 del sito attualmente selezionato in elenco.
 
 In merito all'operazione di aggiornamento occorre fare le seguenti
@@ -113,8 +107,7 @@ considerazioni:
   messaggio, non appena effettuato l'accesso all'ambiente di
   amministrazione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\amministrazione_5.bmp](./assets/media/image20.png){width="5.350694444444445in"
-height="3.2465277777777777in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\amministrazione_5.bmp](./assets/media/image20.png)
 
 > Tale notifica continuerà ad essere visualizzata fintanto che tutti i
 > siti del raggruppamento non saranno stati aggiornati alla nuova
@@ -126,8 +119,7 @@ height="3.2465277777777777in"}
 
 > Sarà richiesta un'ulteriore conferma dell'operazione:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\amministrazione_6.bmp](./assets/media/image21.png){width="5.350694444444445in"
-height="3.2465277777777777in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\amministrazione_6.bmp](./assets/media/image21.png)
 
 > Cliccando sul pulsante **"Conferma"** verrà quindi avviata la
 > procedura di aggiornamento alla nuova versione.

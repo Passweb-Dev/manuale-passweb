@@ -16,8 +16,7 @@ quali abilitare/disabilitare la corrispondente spesa accessoria ecc...
 Portandosi dunque all'interno di questa sezione verrà visualizzata la
 maschera "**Lista delle Spese Accessorie**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_spese_accessorie.bmp](./assets/media/image409.png){width="5.811805555555556in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_spese_accessorie.bmp](./assets/media/image409.png)
 
 contenente l'elenco delle spese attualmente codificate e gestite
 all'interno del sito.
@@ -30,25 +29,21 @@ stessa.
 Una volta impostato un filtro di ricerca, per poterlo poi eliminare sarà
 sufficiente cliccare sull'icona raffigurante una piccola lente di
 ingrandimento con un -- all'interno (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina_filtro.bmp](./assets/media/image2.png){width="7.777777777777778e-2in"
-height="9.722222222222222e-2in"} ) che comparirà in testata alla colonna
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina_filtro.bmp](./assets/media/image2.png) ) che comparirà in testata alla colonna
 in corrispondenza della quale è stato impostato il filtro stesso.
 
 Infine è anche possibile ordinare, in maniera crescente e/o decrescente,
 gli elementi in griglia cliccando semplicemente sull'icona raffigurante
 due piccole frecce posta anch' essa in testata ad ogni singola colonna
 della griglia (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_ordinamento_griglia.bmp](./assets/media/image3.png){width="0.12361111111111112in"
-height="0.14930555555555555in"} )
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_ordinamento_griglia.bmp](./assets/media/image3.png) )
 
 I pulsanti presenti nella barra degli strumenti consentono
 rispettivamente di:
 
 **Attiva** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_attiva_spesa.bmp](./assets/media/image410.png){width="0.46111111111111114in"
-height="0.175in"} ) **\\ Disattiva**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_disattiva_spesa.bmp](./assets/media/image411.png){width="0.5715277777777777in"
-height="0.18819444444444444in"} ) **Spesa**: consente di
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_attiva_spesa.bmp](./assets/media/image410.png) ) **\\ Disattiva**
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_disattiva_spesa.bmp](./assets/media/image411.png) ) **Spesa**: consente di
 attivare\\disattivare la spesa accessoria attualmente selezionata in
 elenco. Ovviamente potranno essere effettivamente applicate ai vari
 ordini effettuati all'interno del sito, solo ed esclusivamente le spese
@@ -58,23 +53,19 @@ accessorie opportunamente abilitate.
 > all'interno del sito verranno evidenziate in grassetto.
 
 **Elimina Spesa**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_spesa.bmp](./assets/media/image412.png){width="0.5131944444444444in"
-height="0.18194444444444444in"} ): consente di eliminare la spesa
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_spesa.bmp](./assets/media/image412.png) ): consente di eliminare la spesa
 accessoria attualmente selezionata in elenco
 
 **Modifica Spesa**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_spesa.bmp](./assets/media/image413.png){width="0.5652777777777778in"
-height="0.18819444444444444in"} ): consente di modificare le
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_spesa.bmp](./assets/media/image413.png) ): consente di modificare le
 impostazioni della spesa accessoria attualmente selezionata in elenco
 
 **Copia Spesa**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_copia_spesa.bmp](./assets/media/image414.png){width="0.4673611111111111in"
-height="0.18819444444444444in"} ): consente di duplicare la spesa
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_copia_spesa.bmp](./assets/media/image414.png) ): consente di duplicare la spesa
 accessoria attualmente selezionata in elenco.
 
 **Modifica Costi**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_costi.bmp](./assets/media/image415.png){width="0.5326388888888889in"
-height="0.18194444444444444in"} ): consente di definire e/o modificare i
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_costi.bmp](./assets/media/image415.png) ): consente di definire e/o modificare i
 vari costi associati alla spesa accessoria attualmente selezionata in
 elenco
 
@@ -84,15 +75,13 @@ elenco
 > Gestione Costi).
 
 **Aggiungi Spesa**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_spesa.bmp](./assets/media/image416.png){width="0.5652777777777778in"
-height="0.18819444444444444in"} ): consente di definire una nuova spesa
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_spesa.bmp](./assets/media/image416.png) ): consente di definire una nuova spesa
 accessoria.
 
 Cliccando su questo pulsante verrà quindi visualizzata la maschera
 **"Configurazione della Spesa Accessoria"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_spesa_accessoria.bmp](./assets/media/image417.png){width="5.779166666666667in"
-height="3.5256944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_spesa_accessoria.bmp](./assets/media/image417.png)
 
 all'interno della quale poter definire le caratteristiche della spesa
 che si intende codificare.
@@ -118,8 +107,7 @@ visualizzato accanto alla descrizione della spesa accessoria, un
 pulsante "**Dettagli**" mediante il quale l'utente potrà visualizzare le
 relative informazioni aggiuntive.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_spesa_accessoria_dettagli.bmp](./assets/media/image418.png){width="5.207638888888889in"
-height="3.5131944444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_spesa_accessoria_dettagli.bmp](./assets/media/image418.png)
 
 **Selezionabile:** consente di decidere se la spesa accessoria che si
 sta codificando dovrà o meno essere selezionabile da parte dell'utente
@@ -221,8 +209,7 @@ Sarà quindi possibile selezionare uno dei seguenti valori:
   L'importo della spesa accessoria, presente nel riepilogo dell'ordine
   alla voce "Spese" (quello indicato in figura)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\iva_spese_accessorie_1.bmp](./assets/media/image419.png){width="5.558333333333334in"
-height="3.4347222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\iva_spese_accessorie_1.bmp](./assets/media/image419.png)
 
 > sarà dunque quello definito in fase di configurazione della spesa
 > stessa (e dei relativi costi) maggiorato dell'iva, calcolata secondo
@@ -237,8 +224,7 @@ height="3.4347222222222222in"}
 > accessoria verrà comunque calcolata e andrà ad influire sul totale
 > della relativa voce presente nel piede del documento.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\iva_spese_accessorie_2.bmp](./assets/media/image420.png){width="5.558333333333334in"
-height="3.4347222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\iva_spese_accessorie_2.bmp](./assets/media/image420.png)
 
 - **Ivato:** in questo caso l'importo specificato nelle zone e nei
   limiti di costo sarà considerato **iva compresa**. In conseguenza di
@@ -261,8 +247,7 @@ height="3.4347222222222222in"}
 delle singole spese accessorie presenti, in checkout, nello step
 relativo alla selezione del metodo di trasporto
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\iva_spese_accessorie_3.bmp](./assets/media/image421.png){width="5.558333333333334in"
-height="3.4347222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\iva_spese_accessorie_3.bmp](./assets/media/image421.png)
 
 questi potranno essere ivati o non ivati (con la relativa etichetta)
 dipendentemente da come è stato impostato il parametro "**Prezzo**"

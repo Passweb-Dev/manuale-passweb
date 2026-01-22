@@ -16,8 +16,7 @@ gestione di questo parametro si veda anche quanto indicato all'interno
 del capitolo "*Altri Marketplace -- Magento -- Configurazione Ordini*"
 di questo manuale)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\codifica_articoli_magento1.bmp](./assets/media/image815.png){width="5.792361111111111in"
-height="3.422222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\codifica_articoli_magento1.bmp](./assets/media/image815.png)
 
 In queste condizioni dunque nel momento in cui sull'ordine acquisto da
 Magento dovesse essere presente un articolo non ancora codificato sul

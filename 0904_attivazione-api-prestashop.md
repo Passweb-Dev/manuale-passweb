@@ -30,38 +30,33 @@ due piattaforme.
   portarsi poi all'interno della sezione "**Parametri Avanzati -
   Webservice**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\prestashop_1.bmp](./assets/media/image585.png){width="4.967361111111111in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\prestashop_1.bmp](./assets/media/image585.png)
 
 - Una volta effettuato l'accesso a questa sezione, verificare che
   l'interruttore "**Attiva servizio Web Prestashop**" sia impostato sul
   valore SI e, successivamente, cliccare sul pulsante "**Aggiungi una
   nuova chiave di servizio**" presente nella parte alta della pagina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\prestashop_2.bmp](./assets/media/image586.png){width="4.967361111111111in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\prestashop_2.bmp](./assets/media/image586.png)
 
 - Assegnare una Descrizione alla chiave che si sta configurando, in
   maniera tale da poterla poi distinguere da eventuali altre chiavi
   presenti sulla propria installazione Prestashop (campo "**Descrizione
   Chiave**" all'interno della sezione "**Account Servizio web**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\prestashop_3.bmp](./assets/media/image587.png){width="4.967361111111111in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\prestashop_3.bmp](./assets/media/image587.png)
 
 > e cliccare poi sul pulsante "**Genera**" per generare l'Api Key che
 > dovremo utilizzare per integrare le due piattaforme
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\prestashop_4.bmp](./assets/media/image588.png){width="4.967361111111111in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\prestashop_4.bmp](./assets/media/image588.png)
 
 - Impostare quindi la sezione "**Permessi**" come evidenziato in figura
   (lo schema di permessi considerato è relativo al caso generale ed è
   utile quini per attivare sia la pubblicazione articoli via API che
   l'importazione ordini)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\prestashop_5.jpg](./assets/media/image589.jpeg){width="3.4868055555555557in"
-height="4.434722222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\prestashop_5.jpg](./assets/media/image589.jpeg)
 
 > **Metodi GET --** Intera colonna
 >
@@ -203,8 +198,7 @@ height="4.434722222222222in"}
   di attivazione della chiave appena configurata sia effettivamente
   impostato sul valore SI
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\prestashop_6.bmp](./assets/media/image590.png){width="4.967361111111111in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\prestashop_6.bmp](./assets/media/image590.png)
 
 > e cliccare quindi sul pulsante "**Salva**", posto nella parta bassa
 > della pagina, per salvare la chiave precedentemente generata con lo
@@ -221,8 +215,7 @@ seguito indicate:
 - Verrà visualizzata una maschera di richiesta delle credenziali di
   accesso
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\connessione_web_prestashop.bmp](./assets/media/image591.png){width="4.298611111111111in"
-height="3.1166666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\connessione_web_prestashop.bmp](./assets/media/image591.png)
 
 - Inserire all'interno del campo "Nome Utente" la chiave di accesso
   precedentemente configurata, lasciare il campo Password vuoto e
@@ -233,8 +226,7 @@ height="3.1166666666666667in"}
   Passweb, verrà visualizzata una pagina del tipo di quella qui di
   seguito evidenziata contenente la struttura dei relativi webserivices
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\connessione_web_prestashop_2.bmp](./assets/media/image592.png){width="4.909027777777778in"
-height="2.7465277777777777in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\connessione_web_prestashop_2.bmp](./assets/media/image592.png)
 
 **[TEST 2]{.underline}**
 
@@ -256,8 +248,7 @@ eseguire questo test:
     quella qui di seguito evidenziata contenente la struttura dei
     relativi webserivices
 
-![Videate\\connessione_web_prestashop_2.bmp](./assets/media/image593.png){width="4.909027777777778in"
-height="2.7465277777777777in"}
+![Videate\\connessione_web_prestashop_2.bmp](./assets/media/image593.png)
 
 **[TEST 3]{.underline}**
 

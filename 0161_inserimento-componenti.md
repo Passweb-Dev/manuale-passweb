@@ -9,30 +9,26 @@ precisa scelta da parte dell'utente.
 Tale scelta è attuabile grazie al parametro "**Interazione editor**"
 presente alla pagina "**Profilo Utente**" del Wizard
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\profilo_utente2.bmp](./assets/media/image183.png){width="5.760416666666667in"
-height="3.490972222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\profilo_utente2.bmp](./assets/media/image183.png)
 
 Per inserire un nuovo Componente all'interno di una pagina del sito è
 necessario, come prima cosa, abilitare la modalità di "**Aggiunta Nuovi
 Componenti**" cliccando per questo sul corrispondente pulsante presente
 all'interno del menu di Editing del sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_editing_aggiungi_componente.bmp](./assets/media/image184.png){width="5.779166666666667in"
-height="3.4972222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_editing_aggiungi_componente.bmp](./assets/media/image184.png)
 
 o, in alternativa, sulla corrispondente icona presente nella Barra degli
 Strumenti del Live Editing
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_editing_aggiungi_componente2.bmp](./assets/media/image185.png){width="2.723611111111111in"
-height="0.6013888888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_editing_aggiungi_componente2.bmp](./assets/media/image185.png)
 
 In ogni caso, una volta abilitata questa specifica modalità di gestione
 verrà visualizzata immediatamente la libreria dei componenti Passweb,
 all'interno della quale poter poi selezionare lo specifico elemento da
 inserire nella pagina web
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\libreria_componenti_res_2.bmp](./assets/media/image186.png){width="5.779166666666667in"
-height="3.4972222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\libreria_componenti_res_2.bmp](./assets/media/image186.png)
 
 Tale libreria è suddivisa in 5 distinte sezioni ciascuna delle quali
 raggruppa una specifica tipologia di componenti:
@@ -98,24 +94,20 @@ I pulsanti presenti nella barra degli strumenti della libreria
 consentono rispettivamente di:
 
 - **Minimizza (**
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_minimizza.bmp](./assets/media/image187.png){width="0.14722222222222223in"
-  height="0.14722222222222223in"} **):** consente di minimizzare la
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_minimizza.bmp](./assets/media/image187.png) **):** consente di minimizzare la
   libreria dei componenti in maniera tale da aumentare lo spazio di
   lavoro senza comunque dover uscire completamente dalla modalità di
   "Aggiunta nuovi Componenti"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\libreria_componenti_res_3.bmp](./assets/media/image188.png){width="2.65in"
-height="1.6256944444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\libreria_componenti_res_3.bmp](./assets/media/image188.png)
 
 > Una volta minimizzata, la libreria dei componenti può essere riportata
 > alle sue dimensioni originali in un qualsiasi momento cliccando sul
 > relativo pulsante di massimizzazione (
-> ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_massimizza.bmp](./assets/media/image189.png){width="0.16597222222222222in"
-> height="0.14097222222222222in"} )
+> ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_massimizza.bmp](./assets/media/image189.png) )
 
 - **Sposta (**
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_sposta_res.bmp](./assets/media/image190.png){width="0.1597222222222222in"
-  height="0.15347222222222223in"} **):** consente di spostare, con una
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_sposta_res.bmp](./assets/media/image190.png) **):** consente di spostare, con una
   semplice operazione di Drag and Drop l'intera libreria dei componenti
   in una qualsiasi altra posizione della pagina Web in maniera tale da
   non interferire con l'area della pagina in cui si intende lavorare
@@ -133,14 +125,12 @@ height="1.6256944444444446in"}
 > posizione utile.
 
 - **Opacità (**
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\opacita_me.bmp](./assets/media/image191.png){width="0.17152777777777778in"
-  height="0.15347222222222223in"} **):** consente di abbassare l'opacità
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\opacita_me.bmp](./assets/media/image191.png) **):** consente di abbassare l'opacità
   della libreria dei componenti lasciando quindi intravedere gli
   elementi della pagina web posti al di sotto di essa.
 
 - **Chiudi (**
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_chiudi.bmp](./assets/media/image192.png){width="0.12916666666666668in"
-  height="0.14722222222222223in"} **):** consente di chiudere la
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_chiudi.bmp](./assets/media/image192.png) **):** consente di chiudere la
   libreria dei componenti e, conseguentemente, di uscire dalla modalità
   di "Aggiunta Nuovi Componenti"
 
@@ -163,8 +153,7 @@ detto inizialmente, in due modi diversi:
 > uno specifico componente già presente all'interno della pagina stessa
 > (nel caso si tratti di un Componente già esistente).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\rilascio_componente_res.bmp](./assets/media/image193.png){width="5.760416666666667in"
-height="3.490972222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\rilascio_componente_res.bmp](./assets/media/image193.png)
 
 - **Point and Click** (punta e clicca), che consiste nel cliccare col
   tasto sinistro sul Componente desiderato e poi nel Contenitore della
@@ -210,8 +199,7 @@ una volta rilasciato ed inserito un Componente all'interno della pagina,
 verrà visualizzata **la maschera di gestione e di configurazione del
 componente** stesso
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componenti_configurazione_1_res.bmp](./assets/media/image194.png){width="5.159722222222222in"
-height="3.1597222222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componenti_configurazione_1_res.bmp](./assets/media/image194.png)
 
 maschera questa suddivisa, come evidenziato dalla figura sopra
 riportata, in varie sezioni, alcune delle quali possono variare in

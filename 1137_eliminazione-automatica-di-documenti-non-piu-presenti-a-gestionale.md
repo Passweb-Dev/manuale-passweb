@@ -69,8 +69,7 @@ relativi parametri di configurazione presenti alla pagina
 "**Configurazione -- Configurazione Gestionale**" (sezione Web Api) del
 Wizard
 
-![Videate\\parametri_conf_Mexal_webAPI_locale.bmp](./assets/media/image694.png){width="5.870138888888889in"
-height="3.558333333333333in"}
+![Videate\\parametri_conf_Mexal_webAPI_locale.bmp](./assets/media/image694.png)
 
 in fase di sincronizzazione (per Variati o Totale) verranno poi
 effettuate apposite chiamate (una per ogni tipologia di documento

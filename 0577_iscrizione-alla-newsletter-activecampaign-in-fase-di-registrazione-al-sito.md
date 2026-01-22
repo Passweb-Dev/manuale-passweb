@@ -10,8 +10,7 @@ inserendolo all'interno del Componente di primo livello **Registrazione
 Utente** e impostando, in fase di configurazione, il campo "**Tipo di
 Integrazione**" sul valore "**ActiveCampaign**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_newsletter_activecampaign.bmp](./assets/media/image157.png){width="4.370138888888889in"
-height="3.5972222222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_newsletter_activecampaign.bmp](./assets/media/image157.png)
 
 **ATTENZIONE! l'iscrizione alla Newsletter ActiveCampaign dal form di
 registrazione utente non prevede il double opt-in**
@@ -68,8 +67,7 @@ Utente** (per maggiori informazioni relativamente a come creare e
 gestire i campi Contatto Custom all'interno di ActiveCampaign si rimanda
 alla relativa documentazione di prodotto)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\activecampaign_campi_contatto.bmp](./assets/media/image158.png){width="5.5in"
-height="3.7597222222222224in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\activecampaign_campi_contatto.bmp](./assets/media/image158.png)
 
 A questo punto dovremo quindi decidere, tra tutti i campi importati da
 ActiveCampaign, quali visualizzare all'interno del form di registrazione
@@ -88,8 +86,7 @@ con altri campi già presenti nel form di registrazione sarà necessario,
 anche in questo caso, aprire la maschera di configurazione del relativo
 campo e agire sul parametro "**Tipo di dato da rilevare**".
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\activecampaign_mappa_campo_contatto.bmp](./assets/media/image159.png){width="4.370138888888889in"
-height="3.9479166666666665in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\activecampaign_mappa_campo_contatto.bmp](./assets/media/image159.png)
 
 **ATTENZIONE!** Il parametro "**Tipo di dato da rilevare**" è
 visualizzato tra i parametri di configurazione dei componenti interni al
@@ -119,8 +116,7 @@ uno dei seguenti valori:
 > Il successivo parametro **Campo di Origine** consente di indicare lo
 > specifico Campo Cliente da cui dover prelevare questa informazione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\activecampaign_mappa_campo_contatto_2.bmp](./assets/media/image160.png){width="4.370138888888889in"
-height="3.9479166666666665in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\activecampaign_mappa_campo_contatto_2.bmp](./assets/media/image160.png)
 
 - **Attributo Cliente**: come nel caso precedente, anche in queste
   condizioni il relativo campo del form di iscrizione alla newsletter
@@ -133,8 +129,7 @@ height="3.9479166666666665in"}
 > lo specifico Attributo Utente da cui dover prelevare questa
 > informazione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\activecampaign_mappa_campo_contatto_3.bmp](./assets/media/image161.png){width="4.389583333333333in"
-height="3.9611111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\activecampaign_mappa_campo_contatto_3.bmp](./assets/media/image161.png)
 
 **ATTENZIONE!** La mail di registrazione inviata all'utente a seguito
 della conferma di registrazione al sito conterrà anche i campi relativi
@@ -149,8 +144,7 @@ visualizzato **un Radio Button con le due opzioni Si, No mediante il
 quale l'utente potrà decidere se iscriversi o meno anche alla
 Newsletter**
 
-![Videate\\componente_newsletter_mailchimp_1.bmp](./assets/media/image149.png){width="5.604166666666667in"
-height="3.4743055555555555in"}
+![Videate\\componente_newsletter_mailchimp_1.bmp](./assets/media/image149.png)
 
 Nel caso in cui l'utente dovesse decidere di registrarsi al sito senza
 iscriversi alla Newsletter (opzione **No**) non verrà visualizzato
@@ -168,8 +162,7 @@ alla Newsletter (opzione **Si**) verranno visualizzati **i campi
 importati da ActiveCampaign** che si è deciso, in fase di
 configurazione, di voler effettivamente visualizzare.
 
-![Videate\\newsletter_registrazione3.bmp](./assets/media/image162.png){width="5.604166666666667in"
-height="3.4743055555555555in"}
+![Videate\\newsletter_registrazione3.bmp](./assets/media/image162.png)
 
 In queste condizioni, una volta completata la registrazione al sito
 verrà creata, ovviamente la relativa anagrafica Passweb e,

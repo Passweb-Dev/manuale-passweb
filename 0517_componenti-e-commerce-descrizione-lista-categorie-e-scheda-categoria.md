@@ -4,8 +4,7 @@
 
 Il Componente **"Descrizione"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_descrizione_cat.bmp](./assets/media/image671.png){width="2.5340277777777778in"
-height="2.5458333333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_descrizione_cat.bmp](./assets/media/image671.png)
 
 **gestibile all'interno dei componenti Ecommerce di primo livello "Lista
 Categorie" e "Scheda Categoria",** permette visualizzare la descrizione
@@ -16,8 +15,7 @@ inserita necessariamente in Passweb all'interno del campo "Descrizione"
 presente nella maschera di configurazione della relativa Categoria
 Merceologica
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_descrizione_categoria2.bmp](./assets/media/image672.png){width="4.558333333333334in"
-height="2.6444444444444444in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_descrizione_categoria2.bmp](./assets/media/image672.png)
 
 > **NOTA BENE:** per maggiori informazioni relativamente a come
 > associare una specifica descrizione ad ogni singola categoria
@@ -30,8 +28,7 @@ visibilità lato sito web (campo "Pubblico"). Rilasciando infatti il
 Componente nella posizione desiderata verrà visualizzata **la sua
 maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_immagine_configurazione_categoria_res.bmp](./assets/media/image673.png){width="4.564583333333333in"
-height="1.7180555555555554in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_immagine_configurazione_categoria_res.bmp](./assets/media/image673.png)
 
 suddivisa in varie sezioni.
 

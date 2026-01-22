@@ -36,16 +36,14 @@ sezione "**Web Forms**" di Brainlead, aprire il menù a tendina cliccando
 sul relativo pulsante posto in corrispondenza del form stesso e
 selezionare poi la voce "**Integrazioni con il sito web**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_brainlead_1.bmp](./assets/media/image9.png){width="5.720833333333333in"
-height="3.3541666666666665in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_brainlead_1.bmp](./assets/media/image9.png)
 
 In questo modo verrà infatti visualizzata la schermata con i vari metodi
 di integrazione (e le relative istruzioni), tra cui poter scegliere (per
 maggiori informazioni in merito ai singoli metodi di integrazione si
 rimanda alla relativa documentazione di prodotto.)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_brainlead_2.bmp](./assets/media/image10.png){width="5.720833333333333in"
-height="3.3541666666666665in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_brainlead_2.bmp](./assets/media/image10.png)
 
 **Ovviamente questo tipo di soluzione non consente di realizzare un
 processo di iscrizione alla Newsletter contestuale al processo di
@@ -63,8 +61,7 @@ Passweb e, nello specifico, con il componente **"Newsletter (MailChimp o
 BrainLead)"**, componente questo che dovrà essere inserito, per
 l'appunto, all'interno del form di "**Registrazione Utente**".
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_newsletter.bmp](./assets/media/image11.png){width="2.192361111111111in"
-height="2.198611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_newsletter.bmp](./assets/media/image11.png)
 
 In queste condizioni, una volta configurato correttamente il componente
 in oggetto, all'interno del form di registrazione al sito verrà
@@ -72,8 +69,7 @@ visualizzato anche un Radio Button con le due opzioni **Si / No**,
 **opzioni queste che** **permetteranno all'utente di poter decidere se
 iscriversi o meno anche alla Newsletter**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_newsletter_mailchimp_1.bmp](./assets/media/image12.png){width="5.602777777777778in"
-height="3.4784722222222224in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_newsletter_mailchimp_1.bmp](./assets/media/image12.png)
 
 **ATTENZIONE!** per poter visualizzare il Radio Button "**Iscrizione
 alla Newsletter**" è necessario aver configurato su BrainLead almeno un
@@ -82,8 +78,7 @@ configurazione del Componente Passweb "**Newsletter (MailChimp o
 BrainLead)",** in corrispondenza del parametro "**Custom Field per
 consenso Marketing**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\brainlead_campo_gdpr_marketing.bmp](./assets/media/image13.png){width="5.111805555555556in"
-height="2.397222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\brainlead_campo_gdpr_marketing.bmp](./assets/media/image13.png)
 
 Nel caso in cui l'utente dovesse decidere di registrarsi al sito senza
 iscriversi alla Newsletter (opzione **No**), il campo Custom dichiarato
@@ -100,8 +95,7 @@ verranno anche visualizzati **i campi custom (ed eventualmente il campo
 mail)** che si è deciso, in fase di configurazione, di voler
 effettivamente visualizzare.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\newsletter_registrazione3.bmp](./assets/media/image14.png){width="5.602777777777778in"
-height="3.4784722222222224in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\newsletter_registrazione3.bmp](./assets/media/image14.png)
 
 Per maggiori informazioni relativamente a come poter gestire il form di
 iscrizione alla newsletter Brainlead all'interno del form di

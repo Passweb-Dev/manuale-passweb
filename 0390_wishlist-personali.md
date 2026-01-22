@@ -17,8 +17,7 @@ create e salvate, sarà allora necessario assicurarsi di **NON**
 selezionare, in fase di configurazione del componente stesso, il
 parametro "**Gestione Liste Regalo**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\wishlist_personali_1.bmp](./assets/media/image195.png){width="5.097916666666666in"
-height="3.079861111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\wishlist_personali_1.bmp](./assets/media/image195.png)
 
 In queste condizioni:
 
@@ -33,8 +32,7 @@ In queste condizioni:
 > la possibilità di inserire uno o tutti gli articoli presenti in lista
 > all'interno del carrello.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\wishlist_no_autenticato.bmp](./assets/media/image196.png){width="5.497222222222222in"
-height="3.852777777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\wishlist_no_autenticato.bmp](./assets/media/image196.png)
 
 - **Nel caso in cui l'utente abbia già effettuato l'autenticazione al
   sito,** oltre a poter inserire articoli nella Wishlist corrente, avrà
@@ -51,8 +49,7 @@ e l'elenco di tutte le Wishlist precedentemente salvate:
 E la stessa Wishlist visualizzata anche nel caso in cui non fosse stata
 effettuata l'autenticazione al sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\wishlist_corrente.bmp](./assets/media/image197.png){width="5.497222222222222in"
-height="3.852777777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\wishlist_corrente.bmp](./assets/media/image197.png)
 
 Come per il Componente Carrello, anche in questo caso la lista degli
 articoli presenti nella Wishlist è strutturata all'interno di una
@@ -86,8 +83,7 @@ I pulsanti "**Aggiungi in Carrello**" e "**Rimuovi**", presenti in
 corrispondenza di ogni singolo articolo in Wishlist consentono
 rispettivamente di:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\wishlist_corrente2.bmp](./assets/media/image198.png){width="5.497222222222222in"
-height="3.852777777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\wishlist_corrente2.bmp](./assets/media/image198.png)
 
 - **Aggiungi in Carrello:** consente di inserire in Carrello la
   corrispondente riga articolo.
@@ -110,8 +106,7 @@ consentiranno rispettivamente di:
 > Nello specifico poi, cliccando su questo pulsante verranno proposte
 > all'utente due diverse possibili opzioni di scelta:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\agg_carrello_wishlist.bmp](./assets/media/image199.png){width="5.153472222222222in"
-height="3.515277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\agg_carrello_wishlist.bmp](./assets/media/image199.png)
 
 - **Rimuovi gli articoli dalla wishlist:** selezionando questa opzione
   tutti gli articoli presenti nella Wishlist attualmente visualizzata
@@ -165,8 +160,7 @@ height="3.515277777777778in"}
 E' un elenco di tutte le Wishlist salvate, in momenti precedenti, dall'
 utente attualmente loggato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\wishlist_salvate.bmp](./assets/media/image200.png){width="5.497222222222222in"
-height="3.852777777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\wishlist_salvate.bmp](./assets/media/image200.png)
 
 Nelle condizioni in esame (Wishlist Personali), per ciascuna lista
 presente in elenco verranno visualizzati due pulsanti "**Rimuovi**" e
@@ -179,8 +173,7 @@ presente in elenco verranno visualizzati due pulsanti "**Rimuovi**" e
   corrispondente Lista dei Desideri, sostituendolo a quello della
   Wishlist Corrente.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\wishlist_salvata.bmp](./assets/media/image201.png){width="5.497222222222222in"
-height="4.6625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\wishlist_salvata.bmp](./assets/media/image201.png)
 
 > Nell'intestazione di questa lista verrà inoltre visualizzato:
 

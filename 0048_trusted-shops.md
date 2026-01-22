@@ -90,8 +90,7 @@ piattaforma.
 >
 > ed inserire nel campo evidenziato in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trustedshops_1.bmp](./assets/media/image151.png){width="5.428472222222222in"
-height="3.3444444444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trustedshops_1.bmp](./assets/media/image151.png)
 
 > il proprio **Trusted Shops ID**, dato questo fornito all'esercente
 > direttamente da Trusted Shops all'atto della sottoscrizione al
@@ -101,16 +100,14 @@ height="3.3444444444444446in"}
   automaticamente, nel campo sottostante, lo snippet di codice da
   utilizzare per l'integrazione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trustedshops_2.bmp](./assets/media/image152.png){width="5.428472222222222in"
-height="3.3444444444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trustedshops_2.bmp](./assets/media/image152.png)
 
 > Sarà quindi necessario, come indicato anche dalle relative istruzioni,
 > copiare questo snippet di codice ed inserirlo all'interno del campo
 > "**Code Snippet -- FOOTER**" presente nel tab "**Integrazioni**" alla
 > pagina "**Sito -- Preferenze**" del Wizard del proprio sito Passweb
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trustedshops_3.bmp](./assets/media/image153.png){width="5.811805555555556in"
-height="3.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trustedshops_3.bmp](./assets/media/image153.png)
 
 - Una volta inserito il Trustbadge il passo successivo sarà ora quello
   che prevede di inserire il codice necessario per inviare alla
@@ -124,8 +121,7 @@ height="3.545138888888889in"}
 > Completamento**" evidenziato in figura, il segnaposto
 > "**TrustedShop**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trustedshops_4.bmp](./assets/media/image154.png){width="5.811805555555556in"
-height="3.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trustedshops_4.bmp](./assets/media/image154.png)
 
 - L'ultimo passaggio, infine, è quello che prevede di inserire le
   recensioni all'interno del proprio sito Ecommerce.
@@ -162,22 +158,19 @@ Per inserire questo tipo di widget all'interno del proprio sito Passweb
 è necessario, per prima cosa, cliccare sul pulsante "**Configura**"
 presente in corrispondenza del widget stesso
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trustedshops_5.bmp](./assets/media/image155.png){width="5.428472222222222in"
-height="3.3444444444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trustedshops_5.bmp](./assets/media/image155.png)
 
 Nella maschera di configurazione così visualizzata sarà poi necessario
 indicare la lingua in cui dovrà essere gestito il widget e cliccare sul
 pulsante "**Crea il codice widget**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trustedshops_7.bmp](./assets/media/image156.png){width="5.428472222222222in"
-height="3.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trustedshops_7.bmp](./assets/media/image156.png)
 
 In questo modo, verrà infatti visualizzato il codice da utilizzare per
 l'integrazione, codice questo che, come evidenziato nella figura di
 seguito riportata, è strutturato in due diverse parti.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trustedshops_8.bmp](./assets/media/image157.png){width="5.428472222222222in"
-height="3.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trustedshops_8.bmp](./assets/media/image157.png)
 
 La prima (**Inizializzazione**) necessaria per importare la libreria
 javascript utilizzata per visualizzare il widget
@@ -198,8 +191,7 @@ Per completare l'integrazione sarà quindi necessario:
   nel tab "**Integrazioni**" presente alla pagina "**Sito --
   Preferenze**" del Wizard del proprio sito Passweb
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trustedshops_9.bmp](./assets/media/image158.png){width="5.811805555555556in"
-height="3.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trustedshops_9.bmp](./assets/media/image158.png)
 
 - Copiare lo snippet di codice presente nella sezione "**Collega il
   Widget**" ed inserirlo, mediante un apposito componente HTML, nelle
@@ -209,8 +201,7 @@ height="3.545138888888889in"}
 recensioni generali effettuate in relazione all'intero sito, potrà
 essere inserito in una qualsiasi pagina senza ulteriori operazioni.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trustedshops_11.bmp](./assets/media/image159.png){width="5.428472222222222in"
-height="3.3444444444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trustedshops_11.bmp](./assets/media/image159.png)
 
 ##### RECENSIONI PRODOTTO -- ES. LISTA COMPLETA DELLE RECENSIONI
 
@@ -218,22 +209,19 @@ Per inserire questo tipo di widget all'interno del proprio sito Passweb
 è necessario, per prima cosa, cliccare sul pulsante "**Configura**"
 presente in corrispondenza del widget stesso
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trustedshops_5.bmp](./assets/media/image155.png){width="5.428472222222222in"
-height="3.3444444444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trustedshops_5.bmp](./assets/media/image155.png)
 
 Nella maschera di configurazione così visualizzata sarà poi necessario
 indicare la lingua in cui dovrà essere gestito il widget e cliccare sul
 pulsante "**Crea il codice widget**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trustedshops_12.bmp](./assets/media/image160.png){width="5.428472222222222in"
-height="3.3444444444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trustedshops_12.bmp](./assets/media/image160.png)
 
 In questo modo, verrà infatti visualizzato il codice da utilizzare per
 l'integrazione, codice questo che, come evidenziato nella figura di
 seguito riportata, è strutturato in diverse parti
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trustedshops_13.bmp](./assets/media/image161.png){width="5.428472222222222in"
-height="3.3444444444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trustedshops_13.bmp](./assets/media/image161.png)
 
 Una prima parte (**Inizializzazione**) necessaria per importare la
 libreria javascript utilizzata per visualizzare il widget
@@ -250,8 +238,7 @@ Nel caso del widget "Lista Completa delle recensioni" è presente anche
 una terza parte (**Estensioni del widget**) dovuta alla particolare
 struttura di questo componente.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trustedshops_14.bmp](./assets/media/image162.png){width="5.428472222222222in"
-height="3.3444444444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trustedshops_14.bmp](./assets/media/image162.png)
 
 La "Lista Completa delle recensioni" infatti è un widget che conterrà le
 recensioni dello specifico articolo, che dovrà essere inserito
@@ -261,8 +248,7 @@ da due distinti elementi:
 - L'elenco completo delle recensioni, tipicamente posizionato nella
   parte bassa della pagina prodotto.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trustedshops_15.bmp](./assets/media/image163.png){width="5.428472222222222in"
-height="3.370138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trustedshops_15.bmp](./assets/media/image163.png)
 
 > Lo snippet di codice necessario per visualizzare questo elemento è
 > quello presente in corrispondenza della sezione "Collega il tuo
@@ -271,8 +257,7 @@ height="3.370138888888889in"}
 - Una piccola anteprima delle stelle che riassumono la valutazione
   complessiva del prodotto.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trustedshops_16.bmp](./assets/media/image164.png){width="5.428472222222222in"
-height="3.370138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trustedshops_16.bmp](./assets/media/image164.png)
 
 > Questo elemento potrà essere posizionato in una qualunque parte della
 > pagina prodotto e conterrà un collegamento diretto all'elenco completo
@@ -290,8 +275,7 @@ Per completare l'integrazione sarà quindi necessario:
   nella sezione "**Integrazioni**" presente alla pagina "**Sito --
   Preferenze**" del Wizard del proprio sito Passweb
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trustedshops_9.bmp](./assets/media/image158.png){width="5.811805555555556in"
-height="3.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trustedshops_9.bmp](./assets/media/image158.png)
 
 - Copiare lo snippet di codice presente nella sezione "**Collega il
   Widget**" ed inserirlo, mediante un apposito componente HTML,
@@ -303,8 +287,7 @@ height="3.545138888888889in"}
 > nello snippet di codice prelevato da Trusted Shops il valore presente
 > per l'attributo "data-sku" con il segnaposto Passweb {{SKU}}**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trustedshops_27.bmp](./assets/media/image165.png){width="5.149305555555555in"
-height="3.1430555555555557in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trustedshops_27.bmp](./assets/media/image165.png)
 
 > Solo in questo modo potremmo infatti avere la certezza che l'attributo
 > in esame venga valorizzato per ogni prodotto con il valore corretto e
@@ -333,23 +316,20 @@ visualizzato il Trustbadge, un piccolo bollino posto tipicamente nella
 parte bassa, utile per informare gli utenti relativamente al fatto che
 il sito Ecommerce aderisce al relativo circuito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trustedshops_18.bmp](./assets/media/image166.png){width="5.428472222222222in"
-height="3.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trustedshops_18.bmp](./assets/media/image166.png)
 
 Cliccando su questo badge sarà possibile accedere a maggiori
 informazioni relativamente alla certificazione Trusted Shops, alla
 garanzia di rimborso inclusa e alla valutazione complessiva del sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trustedshops_19.bmp](./assets/media/image167.png){width="5.428472222222222in"
-height="3.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trustedshops_19.bmp](./assets/media/image167.png)
 
 Una volta completato un ordine, nella pagina di conferma dell'acquisto,
 il Trustbadge mostrerà automaticamente informazioni relative
 all'assicurazione e alla garanzia di rimborso offerte all'utente
 direttamente da Trusted Shop
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trustedshops_20.bmp](./assets/media/image168.png){width="5.428472222222222in"
-height="3.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trustedshops_20.bmp](./assets/media/image168.png)
 
 In questa fase inoltre verranno inviate alla piattaforma terza tutte le
 informazioni relative all'ordine appena concluso e necessarie per poter
@@ -361,22 +341,19 @@ proprio account Trusted Shops (sezione **Inviti**) un nuovo invito
 generato appunto a seguito dell'ordine appena concluso sul sito
 Ecommerce
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trustedshops_21.bmp](./assets/media/image169.png){width="5.428472222222222in"
-height="3.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trustedshops_21.bmp](./assets/media/image169.png)
 
 A questo punto Trusted Shop provvederà ad inviare all'acquirente,
 secondo le regole definite sulla piattaforma stessa, due diverse mail,
 una contenente informazioni relative alla garanzia di rimborso, garanzia
 questa che, come già detto, sarà gestita interamente da Trusted Shops
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trustedshops_22.bmp](./assets/media/image170.png){width="4.292361111111111in"
-height="3.9611111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trustedshops_22.bmp](./assets/media/image170.png)
 
 L'altra contenente invece un invito a recensire l'acquisto effettuato
 all'interno del sito Ecommerce
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trustedshops_23.bmp](./assets/media/image171.png){width="4.292361111111111in"
-height="3.8118055555555554in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trustedshops_23.bmp](./assets/media/image171.png)
 
 **ATTENZIONE!** Nel momento in cui si dovesse decidere di spedire gli
 inviti di recensione in maniera automatica a seguito di ogni ordine,
@@ -404,22 +381,18 @@ sul front end della piattaforma Trusted Shops dove potrà portare a
 termine la propria recensione relativa sia al sito su cui è stato
 effettuato l'acquisto che ai singoli prodotti presenti in ordine
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trustedshops_24.bmp](./assets/media/image172.png){width="5.428472222222222in"
-height="3.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trustedshops_24.bmp](./assets/media/image172.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trustedshops_25.bmp](./assets/media/image173.png){width="5.428472222222222in"
-height="3.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trustedshops_25.bmp](./assets/media/image173.png)
 
 La recensione effettuata farà cambiare stato al relativo invito presente
 nel back end esercente di Trusted Shops
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trustedshops_26.bmp](./assets/media/image174.png){width="5.428472222222222in"
-height="3.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trustedshops_26.bmp](./assets/media/image174.png)
 
 e, nel momento in cui dovessero essere stati inseriti dei widget
 all'interno del proprio sito Ecommerce questa stessa recensione sarà
 disponibile e visibile anche nelle relative pagine del sito stesso
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trustedshops_15.bmp](./assets/media/image163.png){width="5.428472222222222in"
-height="3.370138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trustedshops_15.bmp](./assets/media/image163.png)
 

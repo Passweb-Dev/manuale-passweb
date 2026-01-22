@@ -16,8 +16,7 @@ verrà aperta la sua maschera di gestione e configurazione dove tra le
 opzioni disponibili per il parametro "**Tipo Valore**" troveremo ora
 anche l'opzione "**Indirizzi Utente**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\one_step_checkout_campo_lista_valori_4.bmp](./assets/media/image316.png){width="4.607638888888889in"
-height="2.938888888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\one_step_checkout_campo_lista_valori_4.bmp](./assets/media/image316.png)
 
 Selezionando questa opzione sarà quindi possibile inserire all'interno
 del modulo di One Step Checkout una select box popolata con tutti gli
@@ -35,8 +34,7 @@ l'indirizzo selezionato dall'utente all'interno del relativo menu a
 tendina, rispettivamente, come Indirizzo di fatturazione e/o di
 spedizione merce per l'ordine in esame.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\one_step_checkout_campo_lista_valori_3.bmp](./assets/media/image317.png){width="4.601388888888889in"
-height="2.932638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\one_step_checkout_campo_lista_valori_3.bmp](./assets/media/image317.png)
 
 Riassumendo, nel caso in cui i parametri "Tipo Valore", "Tipo di dato di
 Destinazione" e "Campo di Destinazione" siano impostati come di seguito
@@ -55,8 +53,7 @@ Nazione ecc...) e al loro posto verrà visualizzata una select box
 contenente tutti gli indirizzi utilizzabili dall'utente in esame
 (l'indirizzo primario più tutti i suoi indirizzi secondari).
 
-![Videate\\one_step_checkout_campo_lista_valori_5.bmp](./assets/media/image318.png){width="4.9875in"
-height="3.3555555555555556in"}
+![Videate\\one_step_checkout_campo_lista_valori_5.bmp](./assets/media/image318.png)
 
 Inoltre:
 
@@ -78,8 +75,7 @@ Lista Valori" assicurandosi di aver impostato uno specifico valore (es.
 "Aggiungi un nuovo indirizzo") per il parametro "**Testo del controllo
 senza valori selezionati**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\one_step_checkout_campo_lista_valori_6.bmp](./assets/media/image319.png){width="4.595138888888889in"
-height="2.938888888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\one_step_checkout_campo_lista_valori_6.bmp](./assets/media/image319.png)
 
 In queste condizioni infatti nel momento in cui l'utente dovesse
 selezionare dal relativo menu a tendina, non uno dei suoi indirizzi, ma
@@ -91,8 +87,7 @@ indirizzo (che anche in questo caso verrà utilizzato come indirizzo
 primario andando quindi a sovrascrivere, in fase di sincronizzazione i
 precedenti dati gestionali)
 
-![Videate\\one_step_checkout_campo_lista_valori_7.bmp](./assets/media/image320.png){width="4.9875in"
-height="3.3555555555555556in"}
+![Videate\\one_step_checkout_campo_lista_valori_7.bmp](./assets/media/image320.png)
 
 Allo stesso modo nel caso in cui i parametri "Tipo Valore", "Tipo di
 dato di Destinazione" e "Campo di Destinazione" siano impostati come di
@@ -164,8 +159,7 @@ campi relativi alla definizione dell'indirizzo di fatturazione ed,
 eventualmente, anche quelli relativi alla definizione dell'indirizzo di
 spedizione merce.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\one_step_checkout_campo_lista_valori_8.bmp](./assets/media/image321.png){width="4.9875in"
-height="3.3555555555555556in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\one_step_checkout_campo_lista_valori_8.bmp](./assets/media/image321.png)
 
 **Nel caso in cui invece l'utente abbia già effettuato
 l'autenticazione** al sito, nelle condizioni in esame, i campi relativi

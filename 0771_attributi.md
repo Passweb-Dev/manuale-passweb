@@ -13,8 +13,7 @@ facilitarne quindi la ricerca all'interno del sito.
 All'interno di questa pagina viene visualizzata la maschera **"Attributi
 per il Catalogo"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\attributi_catalogo.bmp](./assets/media/image85.png){width="5.8375in"
-height="3.3048611111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\attributi_catalogo.bmp](./assets/media/image85.png)
 
 contenente l'elenco di Attributi che andranno a definire **l'anagrafica
 articoli Passweb**.
@@ -27,16 +26,14 @@ stessa.
 Una volta impostato un filtro di ricerca, per poterlo poi eliminare sarà
 sufficiente cliccare sull'icona raffigurante una piccola lente di
 ingrandimento con un -- all'interno (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina_filtro.bmp](./assets/media/image86.png){width="8.472222222222223e-2in"
-height="0.10416666666666667in"} ) che comparirà in testata alla colonna
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina_filtro.bmp](./assets/media/image86.png) ) che comparirà in testata alla colonna
 in corrispondenza della quale è stato impostato il filtro stesso.
 
 Infine è anche possibile ordinare, in maniera crescente e/o decrescente,
 gli elementi in griglia cliccando semplicemente sull'icona raffigurante
 due piccole frecce posta anch' essa in testata ad ogni singola colonna
 della griglia (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_ordinamento_griglia.bmp](./assets/media/image87.png){width="0.12361111111111112in"
-height="0.14930555555555555in"} )
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_ordinamento_griglia.bmp](./assets/media/image87.png) )
 
 La colonna "**Campo Mexal**" consente di visualizzare il campo della
 Videata Aggiuntiva Mexal con cui risulta mappato il corrispondente

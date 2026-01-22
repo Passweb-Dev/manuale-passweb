@@ -23,8 +23,7 @@ Tag Manager avremo a che fare sempre con un Account all'interno del
 quale possono essere definiti più Contenitori e all'interno di ogni
 Contenitore possono essere inseriti diversi Tag.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gtm_49.bmp](./assets/media/image1.png){width="4.420138888888889in"
-height="3.172222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gtm_49.bmp](./assets/media/image1.png)
 
 I principali elementi della struttura di gestione di Google Tag manager
 sono quindi l'**Account**, i **Contenitori** e i singoli **Tag**.

@@ -34,8 +34,7 @@ ciascun settore:
 
 - OmbreS4 (ombrelloni del settore 4)
 
-![Videate\\spiagge_configurazione_3.bmp](./assets/media/image372.png){width="5.441666666666666in"
-height="3.779166666666667in"}
+![Videate\\spiagge_configurazione_3.bmp](./assets/media/image372.png)
 
 Il "**Tipo Risorsa**" identifica quindi il settore della spiaggia in cui
 si troverà il singolo ombrellone.
@@ -103,8 +102,7 @@ essere quella indicata in tabella
 > "**Durata Servizio**" presente nella maschera di definizione di questo
 > stesso "Insieme di Valori"
 
-![Videate\\spiagge_configurazione_4.bmp](./assets/media/image373.png){width="4.398611111111111in"
-height="2.736111111111111in"}
+![Videate\\spiagge_configurazione_4.bmp](./assets/media/image373.png)
 
 - Il terzo e il quarto livello della struttura verranno invece
   utilizzati per consentire all'utente di indicare il numero,
@@ -123,8 +121,7 @@ spiaggia.
 corrispondente "Tipo Risorsa" utilizzando in questo senso la scheda
 "**Risorse**" presente nell'anagrafica gestionale dell'articolo stesso
 
-![Videate\\spiagge_configurazione_5.bmp](./assets/media/image374.png){width="4.398611111111111in"
-height="2.736111111111111in"}
+![Videate\\spiagge_configurazione_5.bmp](./assets/media/image374.png)
 
 Il prototipo OS1 dovrà quindi essere associato al Tipo Risorsa
 "OmbreS1", il prototipo OS2 al Tipo Risorsa "OmbreS2" ecc...
@@ -169,8 +166,7 @@ Dovremo quindi creare la cartina della spiaggia (suddivisa in 4 settori)
 in cui andare poi a posizionare e a configurare le varie risorse ossia i
 singoli ombrelloni
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\spiagge_configurazione_7.bmp](./assets/media/image375.png){width="5.699305555555555in"
-height="3.3986111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\spiagge_configurazione_7.bmp](./assets/media/image375.png)
 
 **ATTENZIONE! Ogni risorsa, quindi ogni ombrellone, dovrà essere
 associato al "Tipo Risorsa" corrispondente al settore in cui verrà
@@ -181,8 +177,7 @@ Supponendo dunque di fare riferimento **agli ombrelloni del Settore 1**,
 l'anagrafica delle relative risorse dovrà essere del tipo di quella
 indicata in figura
 
-![Videate\\spiagge_configurazione_6.bmp](./assets/media/image376.png){width="4.398611111111111in"
-height="3.5708333333333333in"}
+![Videate\\spiagge_configurazione_6.bmp](./assets/media/image376.png)
 
 - **Nome** = identificativo della risorsa
 

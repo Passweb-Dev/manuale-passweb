@@ -6,15 +6,13 @@ All'interno della sezione **"Catalogo -- Amazon - Ordini"** è possibile
 visualizzare e gestire tutti gli ordini acquisiti direttamente dal
 Marketplace a seguito di sincronizzazioni manuali e/o automatiche
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_gestione_ordini_0.bmp](./assets/media/image296.png){width="5.785416666666666in"
-height="3.370138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_gestione_ordini_0.bmp](./assets/media/image296.png)
 
 I pulsanti presenti nella barra degli strumenti della maschera "**Lista
 Ordini**" consentono rispettivamente di:
 
 **Sincro Ordini** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_sincro_ordini_ebay.bmp](./assets/media/image45.png){width="0.4479166666666667in"
-height="0.15555555555555556in"} ): consente, di effettuare la
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_sincro_ordini_ebay.bmp](./assets/media/image45.png) ): consente, di effettuare la
 sincronizzazione tra le due piattaforme importando quini in Passweb
 eventuali nuovi ordini, e relativi clienti, acquisiti direttamente sul
 marketplace Amazon.
@@ -30,8 +28,7 @@ articoli su Amazon e sincronizzazione Ordini sul gestionale*" di questo
 manuale.
 
 **Parametri Ordine** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_parametri_ordine.bmp](./assets/media/image168.png){width="0.5520833333333334in"
-height="0.15555555555555556in"} ): consente di impostare una o più
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_parametri_ordine.bmp](./assets/media/image168.png) ): consente di impostare una o più
 causali, opportunamente definite all' interno del gestionale, ed
 utilizzate per marcare come "**Annullati**" gli ordini provenienti dal
 Marketplace.
@@ -43,8 +40,7 @@ E' possibile annullare un ordine indicando diverse motivazioni,
 corrispondenti ciascuna ad una delle causali impostate all'interno delle
 relative tabelle gestionali **(tutti campi sono obbligatori**)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_gestione_ordini_1.bmp](./assets/media/image297.png){width="5.785416666666666in"
-height="3.370138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_gestione_ordini_1.bmp](./assets/media/image297.png)
 
 - **Buyer Canceled:** consente di definire la causale di annullamento
   utilizzata all'interno del gestionale per marcare il relativo ordine
@@ -103,8 +99,7 @@ comunicare automaticamente, in fase di sincronizzazione Sito --
 Gestionale, il cambio di stato anche al relativo Marketplace.
 
 **Annulla** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_annulla.bmp](./assets/media/image170.png){width="0.2986111111111111in"
-height="0.16875in"} ): consente di porre l'ordine attualmente
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_annulla.bmp](./assets/media/image170.png) ): consente di porre l'ordine attualmente
 selezionato in elenco nello stato di "**In Attesa di Annullo**"
 indicando anche la motivazione per cui l'ordine in esame è stato
 annullato
@@ -119,8 +114,7 @@ selezionandola dall'apposito menu a tendina (campo **Motivo di
 Annullamento**), la motivazione per cui si desidera annullare quello
 specifico ordine.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_gestione_ordini_3a.bmp](./assets/media/image298.png){width="5.785416666666666in"
-height="3.370138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_gestione_ordini_3a.bmp](./assets/media/image298.png)
 
 **ATTENZIONE!** Una volta impostato un "Motivo di Annullamento" l'ordine
 sarà posto, come detto, nello stato di "**In Attesa di Annullo**" ma non
@@ -154,8 +148,7 @@ annullamento di un ordine Amazon si veda anche il successivo capitolo di
 questo manuale (*Stati Ordine Amazon*)
 
 **Spedizione** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mp_pulsante_spedizione.bmp](./assets/media/image172.png){width="0.38333333333333336in"
-height="0.1625in"} ): consente di porre l'ordine attualmente selezionato
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mp_pulsante_spedizione.bmp](./assets/media/image172.png) ): consente di porre l'ordine attualmente selezionato
 in elenco nello stato di "**In Attesa di Spedizione**"
 
 **ATTENZIONE! Le impostazioni settate mediante il pulsante "Spedizione"
@@ -165,8 +158,7 @@ elenco**
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 "**Parametri della Spedizione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_parametri_spedizione.bmp](./assets/media/image299.png){width="5.785416666666666in"
-height="3.370138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_parametri_spedizione.bmp](./assets/media/image299.png)
 
 all'interno della quale poter impostare:
 
@@ -179,8 +171,7 @@ all'interno della quale poter impostare:
 > Vettori Amazon e per i quali è stato quindi valorizzato, in fase di
 > configurazione, il relativo campo "**Vettore Amazon**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_parametri_spedizione_2.bmp](./assets/media/image300.png){width="5.785416666666666in"
-height="3.370138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_parametri_spedizione_2.bmp](./assets/media/image300.png)
 
 > Per maggiori informazioni in merito si veda anche la sezione "*Ordini
 > -- Configurazione Metodi di trasporto*" di questo manuale.
@@ -231,11 +222,9 @@ Nello specifico **Vettore, Data di Inizio Trasporto** e **Number
 Tracking** verranno inseriti nei relativi campi presenti nel piede del
 documento
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\ebay_parametri_spedizione_3.bmp](./assets/media/image301.png){width="5.961111111111111in"
-height="2.584722222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\ebay_parametri_spedizione_3.bmp](./assets/media/image301.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\ebay_parametri_spedizione_3a.bmp](./assets/media/image302.png){width="5.480555555555555in"
-height="2.8048611111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\ebay_parametri_spedizione_3a.bmp](./assets/media/image302.png)
 
 Per i siti Ecommerce collegati a Mexal, nel momento in cui il Number
 Tracking dovesse essere gestito con un Attributo Ordine, il codice di
@@ -258,8 +247,7 @@ correttamente visibili nel piede dei documenti Mexal, è necessario che
 il parametro di magazzino "**Memorizza data e ora inizio trasporto**"
 sia stato correttamente selezionato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\memorizza_data_spedizione.bmp](./assets/media/image177.png){width="4.2340277777777775in"
-height="3.363888888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\memorizza_data_spedizione.bmp](./assets/media/image177.png)
 
 Nel caso in cui il parametro in oggetto non fosse stato selezionato,
 Data e ora di inizio trasporto impostate da Passweb potranno essere
@@ -270,8 +258,7 @@ Amazon si veda anche il successivo capitolo di questo manuale (*Stati
 Ordine Amazon*)
 
 **Rimborso** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_pulsante_rimborso.bmp](./assets/media/image303.png){width="0.3638888888888889in"
-height="0.15555555555555556in"} ): consente di porre l'ordine
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_pulsante_rimborso.bmp](./assets/media/image303.png) ): consente di porre l'ordine
 attualmente selezionato in elenco nello stato di "**In Attesa di
 Rimborso**"
 
@@ -282,8 +269,7 @@ elenco**
 Cliccando su questo pulsante verrà visualizzata la maschera "**Parametri
 di Rimborso Ordine**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_parametri_rimborso.bmp](./assets/media/image304.png){width="5.785416666666666in"
-height="3.370138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amazon_parametri_rimborso.bmp](./assets/media/image304.png)
 
 all'interno della quale l'utente avrà la possibilità di selezionare, tra
 quelli proposti in elenco, lo specifico motivo a seguito del quale viene
@@ -313,8 +299,7 @@ all'interno di questa sezione del Wizard di Passweb oltre a poter essere
 comunicati anche al relativo Marketplace Amazon.**
 
 **Aggiorna Ordini** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiorna_ordini.bmp](./assets/media/image180.png){width="0.5256944444444445in"
-height="0.15555555555555556in"} ): consente di eseguire, in maniera
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiorna_ordini.bmp](./assets/media/image180.png) ): consente di eseguire, in maniera
 manuale, la procedura di aggiornamento dello stato ordini dal proprio
 sito Passweb verso i relativi Marketplace Amazon.
 

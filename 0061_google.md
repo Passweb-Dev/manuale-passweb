@@ -14,33 +14,28 @@ proprio account Google regolarmente funzionante**
 1.  Accedere all'indirizzo <https://console.developers.google.com>
     utilizzando il proprio account Google
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login23.bmp](./assets/media/image70.png){width="5.013194444444444in"
-height="2.8375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login23.bmp](./assets/media/image70.png)
 
 2.  Una volta effettuato l'accesso alla Google Developers Console aprire
     il menu a tendina posizionato nella parte alta della pagina e creare
     poi un nuovo progetto cliccando sulla relativa voce
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login71.bmp](./assets/media/image71.png){width="5.220833333333333in"
-height="2.8569444444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login71.bmp](./assets/media/image71.png)
 
 3.  Una volta avviata la creazione di un nuovo progetto sarà necessario
     assegnargli un nome e cliccare poi sul pulsante **Crea**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login25.bmp](./assets/media/image72.png){width="5.090972222222222in"
-height="2.714583333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login25.bmp](./assets/media/image72.png)
 
 4.  Terminata la creazione del nuovo progetto accedere, alla sua
     Dashboard e da qui cliccare sulla voce di menu "**Credenziali**"
     presente nella parte sinistra della maschera
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login27.bmp](./assets/media/image265.png){width="4.915277777777778in"
-height="2.714583333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login27.bmp](./assets/media/image265.png)
 
 5.  Cliccare quindi sul pulsante "**Crea Credenziali**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login28.bmp](./assets/media/image266.png){width="4.915277777777778in"
-height="2.785416666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login28.bmp](./assets/media/image266.png)
 
 > e selezionare dal contestuale menu a tendina la voce "**ID client
 > OAuth**"
@@ -52,15 +47,13 @@ height="2.785416666666667in"}
 
 > Cliccare quindi sul pulsante "**Configura Schermata di consenso**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login72.bmp](./assets/media/image267.png){width="4.915277777777778in"
-height="2.714583333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login72.bmp](./assets/media/image267.png)
 
 7.  Nella maschera di configurazione della tipologia di utenti
     selezionare l'opzione "**Esterno**" e cliccare sul pulsante
     "**Crea**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login72a.bmp](./assets/media/image268.png){width="4.915277777777778in"
-height="2.714583333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login72a.bmp](./assets/media/image268.png)
 
 8.  Impostare quindi un nome per l'applicazione (campo "**Nome
     Applicazione**), un logo (campo "**Logo dell'Applicazione**"), i
@@ -68,8 +61,7 @@ height="2.714583333333333in"}
     pagine del proprio sito contenenti le condizioni di privacy e i
     termini di servizio
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login31.bmp](./assets/media/image269.png){width="4.915277777777778in"
-height="3.325in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login31.bmp](./assets/media/image269.png)
 
 > Una volta inseriti i dati richiesti cliccare sul pulsante "**Salva**"
 > posto nella parte bassa della maschera
@@ -84,8 +76,7 @@ height="3.325in"}
 
 10. Nella successiva maschera selezionare la voce "**Applicazione web**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login72b.bmp](./assets/media/image270.png){width="4.915277777777778in"
-height="3.3180555555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login72b.bmp](./assets/media/image270.png)
 
 > e inserire poi nei successivi campi i seguenti valori:
 
@@ -98,8 +89,7 @@ height="3.3180555555555555in"}
 - **URI di reindirizzamento autorizzati:** inserire l'indirizzo del
   proprio sito Passweb seguito da **/callbackSocial/GooglePlus**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login74.bmp](./assets/media/image271.png){width="4.915277777777778in"
-height="3.325in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login74.bmp](./assets/media/image271.png)
 
 > Cliccare quindi sul pulsante **Crea** per avviare la creazione delle
 > credenziali
@@ -110,8 +100,7 @@ height="3.325in"}
 > nostro sito di effettuare l'autenticazione utilizzando il proprio
 > account Google
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login75.bmp](./assets/media/image272.png){width="4.915277777777778in"
-height="3.325in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login75.bmp](./assets/media/image272.png)
 
 > Le due API Key sopra visualizzate saranno comunque sempre visibili
 > all'interno della sezione C**redenziali** relativa al progetto appena
@@ -126,8 +115,7 @@ height="3.325in"}
 > **Client Secret** dell'App di Google e incollarlo all'interno del
 > campo **Client Secret** del Wizard di Passweb
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login75a.bmp](./assets/media/image273.png){width="5.811805555555556in"
-height="3.558333333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login75a.bmp](./assets/media/image273.png)
 
 > Una volta inseriti in Passweb i due parametri di configurazione
 > richiesti cliccare sul pulsante "**Salva**" presente nella parte bassa
@@ -148,14 +136,12 @@ regolarmente registrato. Nel momento in cui l'utente dovesse infatti
 cliccare sul relativo pulsante presente all'interno del pannello di
 login,
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login38.bmp](./assets/media/image274.png){width="5.00625in"
-height="3.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login38.bmp](./assets/media/image274.png)
 
 verrà ridiretto su una pagina di accesso di Google all'interno della
 quale dovrà inserire le credenziali del proprio account Google.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login70.bmp](./assets/media/image275.png){width="4.876388888888889in"
-height="3.5652777777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login70.bmp](./assets/media/image275.png)
 
 Nel caso in cui l'utente fosse già autenticato non gli sarà richiesto di
 inserire nuovamente le sue credenziali ma soltanto di autorizzare il

@@ -6,8 +6,7 @@ In questo step l'utente avrà la possibilità di indicare, partendo
 direttamente dalla piantina associata al Centro di Produzione
 selezionato durante la Fase 1, quali e quante risorse prenotare.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\spiagge_configurazione_12.bmp](./assets/media/image382.png){width="5.220833333333333in"
-height="3.8652777777777776in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\spiagge_configurazione_12.bmp](./assets/media/image382.png)
 
 Le risorse (ombrelloni) visualizzate sulla piantina potranno assumere 3
 diversi stati:
@@ -35,8 +34,7 @@ appartiene il prototipo associato alla risorsa selezionata (campo
 durata della prenotazione (livello questo appositamente marcato mediante
 il parametro "Durata Servizio")**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\spiagge_configurazione_13.bmp](./assets/media/image383.png){width="5.220833333333333in"
-height="3.8652777777777776in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\spiagge_configurazione_13.bmp](./assets/media/image383.png)
 
 In questa fase l'utente potrà quindi selezionare il numero di lettini e
 / o di sedie da aggiungere alla sua prenotazione.
@@ -53,8 +51,7 @@ precedente livello")
 prenotazioni dovrà essere impostata, ovviamente, in modalità di
 visualizzazione "Lineare"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\spiagge_configurazione_24.bmp](./assets/media/image384.png){width="5.791666666666667in"
-height="3.3618055555555557in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\spiagge_configurazione_24.bmp](./assets/media/image384.png)
 
 Nel momento in cui dovessero essere impostate altre tipologie di
 visualizzazione, all'interno del pop up non verrà visualizzato nessun
@@ -69,8 +66,7 @@ relativa combinazione di valori e, nel caso in cui tale combinazione:
   mostrato all'utente assieme al pulsante di "Conferma" necessario per
   validare la combinazione indicata e passare così allo step successivo
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\spiagge_configurazione_14.bmp](./assets/media/image385.png){width="3.0in"
-height="1.5520833333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\spiagge_configurazione_14.bmp](./assets/media/image385.png)
 
 - **non corrisponda** a nessuno degli articoli effettivamente gestiti
   non verrà visualizzato nessun pulsante di "Conferma" né tanto meno di
@@ -79,8 +75,7 @@ height="1.5520833333333333in"}
   anche visualizzato un apposito messaggio per informarlo del fatto che
   la combinazione di risorse indicata non è gestita
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\spiagge_configurazione_16.bmp](./assets/media/image386.png){width="3.3131944444444446in"
-height="1.8222222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\spiagge_configurazione_16.bmp](./assets/media/image386.png)
 
 **ATTENZIONE!** Nel caso in cui l'articolo utilizzato per gestire la
 risorsa da prenotare dovesse essere un articolo semplice (es.
@@ -88,8 +83,7 @@ prenotazione della cabina) all'interno del pop verrà visualizzato
 semplicemente il Titolo, la Descrizione e il Prezzo dell'articolo
 stesso.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\spiagge_configurazione_16b.bmp](./assets/media/image387.png){width="3.33125in"
-height="1.0611111111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\spiagge_configurazione_16b.bmp](./assets/media/image387.png)
 
 I pulsanti presenti nella parte bassa di questo pop up consentono
 rispettivamente di:
@@ -115,8 +109,7 @@ rispettivamente di:
 > presente nella maschera di configurazione del componente "Prenotazione
 > Risorse custom"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\spiagge_configurazione_17.bmp](./assets/media/image388.png){width="5.1409722222222225in"
-height="2.6013888888888888in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\spiagge_configurazione_17.bmp](./assets/media/image388.png)
 
 > Nel momento in cui il parametro evidenziato in figura dovesse essere
 > impostato sul valore 1, in modo tale da consentire la prenotazione di

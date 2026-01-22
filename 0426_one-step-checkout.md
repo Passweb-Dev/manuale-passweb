@@ -8,8 +8,7 @@ del sito di concludere l'ordine con un minor numero di click operando,
 eventualmente, anche in modalità Guest senza cioè dover per forza di
 cose creare un proprio account all'interno del sito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ordine_step_unico.bmp](./assets/media/image296.png){width="5.527777777777778in"
-height="3.31875in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ordine_step_unico.bmp](./assets/media/image296.png)
 
 **ATTENZIONE!** Il modulo di One Step Checkout dovrà essere
 eventualmente abilitato solo per Ecommerce collegati a Mexal. Nel
@@ -39,8 +38,7 @@ Per poter attivare questa particolare modalità di gestione è necessario,
 per prima cosa impostare il campo "**One Page Checkout**", presente tra
 i parametri di configurazione del componente:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\one_step_checkout_res_2.bmp](./assets/media/image299.png){width="4.582638888888889in"
-height="2.9506944444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\one_step_checkout_res_2.bmp](./assets/media/image299.png)
 
 sull'opzione "**Si**" oppure sull'opzione "**Si con Riepilogo**".
 
@@ -53,8 +51,7 @@ in modalità Guest (Ospiti), o comunque senza dover per forza di cose
 passare prima dalla pagina di "Registrazione Utente" per creare un
 account di accesso.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\one_step_checkout_res_3.bmp](./assets/media/image300.png){width="4.601388888888889in"
-height="2.588888888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\one_step_checkout_res_3.bmp](./assets/media/image300.png)
 
 Per inserire il componente di Registrazione all'interno del checkout
 sarà poi sufficiente agire come per un qualsiasi altro componente
@@ -68,8 +65,7 @@ selezionare il componente "Registrazione Utente" ed inserirlo nella
 nuova sezione "Informazioni Utente" mediante una semplice operazione di
 Drag and Drop.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\one_step_checkout_res_4.bmp](./assets/media/image301.png){width="5.159722222222222in"
-height="3.484722222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\one_step_checkout_res_4.bmp](./assets/media/image301.png)
 
 A questo punto la creazione e configurazione del form mediante il quale
 richiedere all'utente i dati necessari per completare l'ordine potrà
@@ -131,8 +127,7 @@ sarà marcato anche come utente di tipo **Ospite** (perché in questo
 momento non ha ancora deciso di creare un proprio account di accesso al
 sito)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\one_step_checkout_res_12.bmp](./assets/media/image302.png){width="4.607638888888889in"
-height="2.6625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\one_step_checkout_res_12.bmp](./assets/media/image302.png)
 
 **ATTENZIONE!** anche per gli utenti di tipo "**Ospite**" verrà eseguito
 quanto di seguito indicato:
@@ -165,8 +160,7 @@ l'utente diverrà, come al solito, un **Utente di tipo Cliente** **che
 però sarà sempre marcato anche come Ospite** in virtù della scelta da
 lui effettuata di non creare un account di accesso al sito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\one_step_checkout_res_13.bmp](./assets/media/image303.png){width="4.607638888888889in"
-height="2.6625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\one_step_checkout_res_13.bmp](./assets/media/image303.png)
 
 Se invece, proseguendo nella fase di checkout, l'utente dovesse decidere
 di completare l'ordine creando anche un proprio account allora, non
@@ -188,8 +182,7 @@ Password e aver creato di fatto il suo account di accesso al sito,
 l'utente verrà marcato come **Utente di tipo Contatto** (perché non ha
 ancora concluso l'ordine) **ma NON come Ospite**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\one_step_checkout_res_14.bmp](./assets/media/image304.png){width="4.607638888888889in"
-height="2.6625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\one_step_checkout_res_14.bmp](./assets/media/image304.png)
 
 Terminato l'acquisto e inserito l'ordine all'interno del gestionale,
 come al solito, l'utente cambierà la sua tipologia passando da Contatto

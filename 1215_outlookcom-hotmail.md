@@ -36,20 +36,17 @@ Nello specifico sarà necessario accedere alla configurazione del proprio
 profilo Outlook.com / Hotmail, cliccare sulla voce di menu relativa alle
 impostazioni di sicurezza
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\server_smtp_outlook.bmp](./assets/media/image4.png){width="5.454166666666667in"
-height="3.1597222222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\server_smtp_outlook.bmp](./assets/media/image4.png)
 
 e da qui selezionare la voce "**Altre opzioni di sicurezza**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\server_smtp_outlook2.bmp](./assets/media/image5.png){width="5.454166666666667in"
-height="3.31875in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\server_smtp_outlook2.bmp](./assets/media/image5.png)
 
 All'interno della pagina "Altre opzioni di sicurezza" sarà quindi
 possibile gestire l'attivazione/disattivazione dell' autenticazione in
 due fattori (sezione "**Verifica in due Passaggi**")
 
-![Videate\\server_smtp_outlook3.bmp](./assets/media/image6.png){width="5.454166666666667in"
-height="3.31875in"}
+![Videate\\server_smtp_outlook3.bmp](./assets/media/image6.png)
 
 Nel caso in cui sia stata attivata questo tipo di autenticazione sarà
 quindi necessario generare una password specifica da poter poi inserire

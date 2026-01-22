@@ -4,8 +4,7 @@
 
 Il Componente Store Locator
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_store_locator.bmp](./assets/media/image55.png){width="2.825in"
-height="3.467361111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_store_locator.bmp](./assets/media/image55.png)
 
 consente di inserire all'interno della pagina web un modulo suddiviso in
 due distinte sezioni: da una parte una Google Map su cui poter
@@ -15,8 +14,7 @@ dettagliato per Nome, Indirizzo, Descrizione ... , e un insieme di
 controlli necessari per filtrare ed interagire con i rispettivi elementi
 presenti sulla Mappa
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\store_locator_1.bmp](./assets/media/image56.png){width="5.623611111111111in"
-height="3.558333333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\store_locator_1.bmp](./assets/media/image56.png)
 
 **ATTENZIONE! Come già indicato per il componente Google Map, dal 16
 Luglio 2018 è entrato in vigore un nuovo piano tariffario basato sul
@@ -34,8 +32,7 @@ cui, effettuando per la prima volta l'accesso alla pagina del sito
 contenente lo Store Locator, il browser si preoccuperà di richiedere
 all'utente l'autorizzazione ad utilizzare tali servizi.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\store_locator_geolocalizzazione.bmp](./assets/media/image57.png){width="3.6104166666666666in"
-height="2.4805555555555556in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\store_locator_geolocalizzazione.bmp](./assets/media/image57.png)
 
 Nel momento in cui l'utente dovesse acconsentire ad utilizzare questo
 tipo di servizio, il campo indirizzo verrà automaticamente compilato con
@@ -96,8 +93,7 @@ Il pulsante "**Indicazioni**" consente invece di evidenziare sulla mappa
 il percorso verso l'ultimo marker selezionato o, nel caso in cui non
 fosse stato selezionato alcun marker, verso quello più vicino.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\store_locator_2.bmp](./assets/media/image58.png){width="5.50625in"
-height="3.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\store_locator_2.bmp](./assets/media/image58.png)
 
 Cliccando infine su uno degli elementi (es. Punti vendita) presenti in
 elenco lo stesso elemento verrà evidenziato anche sulla mappa mediante

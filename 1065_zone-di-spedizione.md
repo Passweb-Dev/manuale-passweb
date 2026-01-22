@@ -42,8 +42,7 @@ La sezione **"Zone di Spedizione"** presente all'interno della maschera
 "**Configurazione del Metodo di Trasporto**" consente di realizzare
 tutto quanto sopra indicato.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tabella_zone_spedizione.bmp](./assets/media/image296.png){width="5.038888888888889in"
-height="1.8701388888888888in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tabella_zone_spedizione.bmp](./assets/media/image296.png)
 
 Per prima cosa sarà quindi necessario creare una nuova "**Zona di
 spedizione**" in relazione alla quale andranno poi definite le modalità
@@ -61,27 +60,22 @@ secondo le specifiche esigenze del caso.
 I pulsanti presenti nella barra degli strumenti consentono infatti di:
 
 - **Modifica / Elimina Zona**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_area.bmp](./assets/media/image297.png){width="0.5326388888888889in"
-  height="0.16875in"} )
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_area.bmp](./assets/media/image298.png){width="0.48680555555555555in"
-  height="0.1625in"} ): consente di modificare / eliminare la Zona di
+  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_area.bmp](./assets/media/image297.png) )
+  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_area.bmp](./assets/media/image298.png) ): consente di modificare / eliminare la Zona di
   spedizione attualmente selezionata in elenco.
 
 - **Svuota**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_svuota_area.bmp](./assets/media/image299.png){width="0.2791666666666667in"
-  height="0.15555555555555556in"} ): consente di eliminare in blocco
+  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_svuota_area.bmp](./assets/media/image299.png) ): consente di eliminare in blocco
   tutte le Zone di spedizione presenti in elenco.
 
 - **Aggiungi Zona**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_area.bmp](./assets/media/image300.png){width="0.5326388888888889in"
-  height="0.175in"} ): consente di creare una nuova Zonda di spedizione
+  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_area.bmp](./assets/media/image300.png) ): consente di creare una nuova Zonda di spedizione
 
 Cliccando su quest'ultimo pulsante verrà infatti aperta la maschera
 "**Configura Zona**" all'interno della quale poter specificare i
 parametri di configurazione della Zona stessa
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuova_area_trasporto.bmp](./assets/media/image301.png){width="5.649305555555555in"
-height="3.3180555555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuova_area_trasporto.bmp](./assets/media/image301.png)
 
 In particolare per ogni singola Zona di spedizione sarà necessario
 indicare un valore per i seguenti parametri:
@@ -129,8 +123,7 @@ spedizione che si sta codificando, sarà necessario associare a questa
 stessa zona una o più aree geografiche agendo, in questo senso,
 all'interno della sezione "**Aree di Spedizione**".
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\zone_spedizione.bmp](./assets/media/image302.png){width="5.850694444444445in"
-height="1.7208333333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\zone_spedizione.bmp](./assets/media/image302.png)
 
 In questo senso sarà possibile agire in maniera inclusiva, andando
 quindi ad includere una ad una tutte le aree geografiche da associare
@@ -176,16 +169,14 @@ pulsanti presenti nella barra degli strumenti della sezione "Aree di
 Spedizione", pulsanti questi che consentono rispettivamente di:
 
 **Italia** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_italia.bmp](./assets/media/image303.png){width="0.2791666666666667in"
-height="0.1951388888888889in"} ): consente di associare alla zona di
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_italia.bmp](./assets/media/image303.png) ): consente di associare alla zona di
 spedizione che si sta codificando una specifica area geografica
 all'interno della nazione Italia.
 
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 "**Configurazione Italia**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_italia.bmp](./assets/media/image304.png){width="5.759722222222222in"
-height="3.3180555555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_italia.bmp](./assets/media/image304.png)
 
 all'interno della quale sarà necessario indicare un valore per i
 seguenti parametri:
@@ -214,8 +205,7 @@ all'interno della quale poter differenziare ulteriormente in base ai
 singoli codici di avviamento postale (**utile soprattutto nel caso in
 cui sia necessario gestire i "C.A.P." disagiati**)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_italia_2.bmp](./assets/media/image305.png){width="5.759722222222222in"
-height="3.3180555555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_italia_2.bmp](./assets/media/image305.png)
 
 Per aggiungere un nuovo C.A.P. sarà sufficiente indicarlo all'interno
 dell'apposito campo e confermare poi da tastiera con il pulsante
@@ -323,16 +313,14 @@ considerare le seguenti casistiche:
   quella nuova appena codificata.
 
 **Paesi Esteri** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_paesi_esteri.bmp](./assets/media/image306.png){width="0.5131944444444444in"
-height="0.21458333333333332in"} ): consente di associare alla zona di
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_paesi_esteri.bmp](./assets/media/image306.png) ): consente di associare alla zona di
 spedizione che si sta codificando una specifica area geografica
 all'interno di una nazione diversa dall'Italia.
 
 Cliccando su questo pulsante verrà visualizzata la maschera
 "**Configurazione Paesi Esteri**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_paesi_esteri.bmp](./assets/media/image307.png){width="5.584722222222222in"
-height="3.441666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_paesi_esteri.bmp](./assets/media/image307.png)
 
 all'interno della quale sarà necessario indicare un valore per i
 seguenti parametri:
@@ -367,8 +355,7 @@ dei caratteri effettivamente presenti nel relativo codice di avviamento
 postale.
 
 **Nazioni** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nazioni.bmp](./assets/media/image308.png){width="0.38958333333333334in"
-height="0.2013888888888889in"} ): consente di associare all'Area di
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nazioni.bmp](./assets/media/image308.png) ): consente di associare all'Area di
 spedizione che si sta codificando una zona geografica relativa ad
 un'intera Nazione (comunque diversa dall'Italia). Tale opzione risulta
 quindi utile nel caso in cui si debbano configurare delle spese di
@@ -379,8 +366,7 @@ di Avviamento Postale.
 Cliccando su questo pulsante verrà visualizzata la maschera
 "**Configurazione Nazioni**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_nazioni.bmp](./assets/media/image309.png){width="5.584722222222222in"
-height="3.441666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_nazioni.bmp](./assets/media/image309.png)
 
 all'interno della quale sarà necessario indicare un valore per i
 seguenti parametri:
@@ -416,8 +402,7 @@ un file di tipo txt o csv appositamente formattato.
 Cliccando su questo pulsante verrà visualizzata la maschera
 "**Importazione Aree da File**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\importazione_aree_da_file.bmp](./assets/media/image310.png){width="5.792361111111111in"
-height="3.5131944444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\importazione_aree_da_file.bmp](./assets/media/image310.png)
 
 all'interno della quale poter selezionare (campo **File**), importandolo
 ad esempio dal proprio pc, il file .txt o .csv con indicate tutte le
@@ -509,8 +494,7 @@ Viserbella.
 > aree geografiche doppie o triple.
 
 **Esporta** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_esporta_testo.bmp](./assets/media/image311.png){width="0.3506944444444444in"
-height="0.18194444444444444in"} ): consente di esportare all'interno di
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_esporta_testo.bmp](./assets/media/image311.png) ): consente di esportare all'interno di
 un file csv, nello stesso formato valido anche per l'importazione,
 l'elenco di tutte le aree geografiche attualmente associate alla zona di
 spedizione in esame.
@@ -518,8 +502,7 @@ spedizione in esame.
 Cliccando su questo pulsante verrà visualizzata la maschera
 "**Esportazione Aree**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\esportazione_aree.bmp](./assets/media/image312.png){width="5.792361111111111in"
-height="3.5131944444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\esportazione_aree.bmp](./assets/media/image312.png)
 
 all'interno della quale poter indicare il carattere separatore che dovrà
 essere utilizzato in fase di creazione del file csv.
@@ -528,8 +511,7 @@ Il pulsante "**Salva**" presente nella parte bassa della maschera
 consente di avviare la procedura di esportazione
 
 **Elimina Area** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_zona_geografica.bmp](./assets/media/image313.png){width="0.4152777777777778in"
-height="0.1625in"} ): consente di eliminare l'area geografica
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_zona_geografica.bmp](./assets/media/image313.png) ): consente di eliminare l'area geografica
 attualmente selezionata in elenco
 
 **Svuota** ( ): consente di eliminare in blocco tutte le aree
@@ -544,8 +526,7 @@ della Zona, il parametro "**Tipo Spesa**" sul valore "**Fissa**" e
 successivamente indicare l'esatto importo da applicare all'interno del
 campo "**Valore**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\zona_spese_fisse.bmp](./assets/media/image314.png){width="5.759722222222222in"
-height="3.5131944444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\zona_spese_fisse.bmp](./assets/media/image314.png)
 
 **Valore** consente di definire l'importo da applicare nel caso in cui
 l'indirizzo di spedizione della merce rientri in una delle aree
@@ -635,8 +616,7 @@ Impostare un'aliquota fissa oppure un'apposita esenzione, all'interno
 del campo "**Aliquota iva spese trasp**" presente nella tabella
 "*Bolli/cti sp.banca/omaggi/rivalsa iva*" di Mexal
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\aliquota_fissa_spese_trasporto.bmp](./assets/media/image315.png){width="3.1555555555555554in"
-height="2.265972222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\aliquota_fissa_spese_trasporto.bmp](./assets/media/image315.png)
 
 **[SITI ECOMMERCE COLLEGATI AD UNO DEI GESTIONALI
 HO.RE.CA.]{.underline}**
@@ -645,8 +625,7 @@ Impostare un'aliquota fissa, all'interno del campo "**Aliquota iva spese
 trasporto**" presente all'interno della maschera "Configurazione
 Parametri dell'Ordine" del Wizard
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\aliquota_fissa_trasporti_horeca.bmp](./assets/media/image316.png){width="5.779166666666667in"
-height="3.5256944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\aliquota_fissa_trasporti_horeca.bmp](./assets/media/image316.png)
 
 **In ogni caso, indipendentemente dal fatto di considerare siti
 collegati a Mexal o ad uno del gestionali Ho.Re.Ca. l'eventuale IVA
@@ -661,8 +640,7 @@ dinamica, potrebbe essere necessario impostare, nella maschera di
 configurazione della Zona, il parametro "**Tipo Spesa**" sul valore
 "**Sommatoria**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\zona_spese_sommatoria.bmp](./assets/media/image317.png){width="5.759722222222222in"
-height="3.5131944444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\zona_spese_sommatoria.bmp](./assets/media/image317.png)
 
 In queste condizioni verranno considerate, per la zona in oggetto, delle
 spese di trasporto calcolate nel caso di:
@@ -737,8 +715,7 @@ parametro "**Tipo Spesa**" sul valore "**Tabellare**"
 In queste condizioni verrà infatti visualizzata la tabella qui di
 seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\zona_trasporto_tabellare.bmp](./assets/media/image318.png){width="5.746527777777778in"
-height="3.50625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\zona_trasporto_tabellare.bmp](./assets/media/image318.png)
 
 attraverso la quale poter definire i vari scaglioni, ed il relativo
 importo, che verranno poi considerati per determinare le spese di
@@ -949,8 +926,7 @@ tabella dei diversi scaglioni.
 Nello specifico cliccando sul pulsante "**Importa da File**" verrà
 visualizzata la maschera "**Importazione Scaglioni da file**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\importazione_scaglioni_da_file.bmp](./assets/media/image319.png){width="5.746527777777778in"
-height="3.50625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\importazione_scaglioni_da_file.bmp](./assets/media/image319.png)
 
 all'interno della quale poter indicare:
 
@@ -1013,8 +989,7 @@ di quella indicata
 Cliccando invece sul pulsante "Esporta" verrà visualizzata la maschera
 "**Esportazione Scaglioni**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\esportazione_scaglioni.bmp](./assets/media/image320.png){width="5.746527777777778in"
-height="3.50625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\esportazione_scaglioni.bmp](./assets/media/image320.png)
 
 all'interno della quale poter avviare la procedura di esportazioni, in
 un apposito file csv con il carattere separatore indicato in

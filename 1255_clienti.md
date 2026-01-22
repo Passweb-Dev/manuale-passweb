@@ -6,8 +6,7 @@ All'interno di questa sezione è possibile configurare e gestire l'invio
 al corrispondente Store Mailchimp, dei clienti presenti all'interno del
 proprio sito Ecommerce.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mailchimp-ecommerce_7.bmp](./assets/media/image127.png){width="5.809722222222222in"
-height="3.5215277777777776in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mailchimp-ecommerce_7.bmp](./assets/media/image127.png)
 
 Per comprendere il funzionamento dei parametri presenti all'interno di
 questa sezione del Wizard è necessario chiarire, innanzitutto, un
@@ -45,8 +44,7 @@ della Lista nello stato di Subscribed. Anche utenti in stato
 "Unsubscribed" o "Non-Subscribed" potranno quindi ricevere email
 transazionali.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp-ecommerce_11.bmp](./assets/media/image128.png){width="6.705555555555556in"
-height="3.675in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp-ecommerce_11.bmp](./assets/media/image128.png)
 
 Ovviamente utenti in grado di poter ricevere mail cumulative potranno
 tranquillamente ricevere anche ogni tipo di mail transazionali.
@@ -185,8 +183,7 @@ utenti si veda anche quanto indicato all'interno del capitolo "*Utenti
 Articolo -- Filtri Utente*" di questo manuale
 
 Il pulsante "**Sincro Clienti**" (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_sincro_clienti.bmp](./assets/media/image124.png){width="0.5090277777777777in"
-height="0.17777777777777778in"} ) presente nella barra degli strumenti
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_sincro_clienti.bmp](./assets/media/image124.png) ) presente nella barra degli strumenti
 di uno Store correttamente connesso, consente di avviare manualmente la
 procedura di importazione sulla Lista collegata allo Store MailChimp
 attualmente selezionato, dei clienti presenti all'interno del proprio

@@ -6,8 +6,7 @@ La sezione **"Gestione Voci"** presente nella maschera di configurazione
 di un componente Menu consente di definire e impostare le singole voci
 appartenenti al menu stesso
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_menu_0_res.bmp](./assets/media/image15.png){width="4.746527777777778in"
-height="2.870138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_menu_0_res.bmp](./assets/media/image15.png)
 
 Tale sezione risulta quindi suddivisa in due distinte parti:
 
@@ -33,13 +32,11 @@ modificare le proprietà della voce di menu attualmente selezionata
 all'interno dell'albero.
 
 **Elimina elemento** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina.bmp](./assets/media/image16.png){width="0.18194444444444444in"
-height="0.18194444444444444in"} ): consente di eliminare la voce di menu
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina.bmp](./assets/media/image16.png) ): consente di eliminare la voce di menu
 attualmente selezionata all'interno dell'albero.
 
 **Sposta elemento** ( ) (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icone_su_giu.bmp](./assets/media/image17.png){width="0.3701388888888889in"
-height="0.21458333333333332in"} ): è possibile spostare e riordinare tra
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icone_su_giu.bmp](./assets/media/image17.png) ): è possibile spostare e riordinare tra
 loro le varie voci di menu.
 
 In questo senso i pulsanti raffiguranti due piccole frecce consentono di
@@ -57,8 +54,7 @@ considerato.
 Verrà quindi richiesta un'ulteriore conferma relativamente allo
 spostamento che si intende effettuare.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\conferma_sposta_voce_res.bmp](./assets/media/image18.png){width="2.5256944444444445in"
-height="1.0652777777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\conferma_sposta_voce_res.bmp](./assets/media/image18.png)
 
 Cliccando sul pulsante "**Conferma**" lo spostamento sarà definitivo.
 
@@ -84,8 +80,7 @@ normale link di collegamento ad una pagina interna o esterna al sito
 sarà necessario impostare il parametro "**Link**" sull'opzione "**Crea
 un Link**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\voce_menu_crea_link_res.bmp](./assets/media/image19.png){width="4.746527777777778in"
-height="2.870138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\voce_menu_crea_link_res.bmp](./assets/media/image19.png)
 
 In queste condizioni sarà poi necessario specificare un valore anche per
 i seguenti parametri:
@@ -105,8 +100,7 @@ i seguenti parametri:
 > proprio sito sarà necessario selezionare tale sezione dal relativo
 > menu a tendina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\voce_menu_ar_1_res.bmp](./assets/media/image20.png){width="4.740277777777778in"
-height="2.876388888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\voce_menu_ar_1_res.bmp](./assets/media/image20.png)
 
 > In queste condizioni il link creato funzionerà in maniera diversa a
 > seconda del fatto che l'utente abbia o meno già effettuato
@@ -171,8 +165,7 @@ Nel momento in cui l'esigenza dovesse invece essere quella di creare una
 porzioni di menu autogenerata, sarà necessario impostare il parametro
 "**Link**" sull'opzione "**Crea una porzione di menu autogenerata**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\voce_menu_autogenerata_res.bmp](./assets/media/image21.png){width="4.746527777777778in"
-height="2.870138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\voce_menu_autogenerata_res.bmp](./assets/media/image21.png)
 
 In questo modo l'applicazione non si limiterà a creare una singola voce
 di menu, ma si preoccuperà di replicare in maniera completamente
@@ -180,8 +173,7 @@ automatica l'intera struttura dell'albero delle pagine a partire dalla
 voce selezionata all'interno della sezione "**Voce del Menu -- Ramo
 Autogenerato**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\voce_autogenerata_res.bmp](./assets/media/image22.png){width="4.740277777777778in"
-height="2.876388888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\voce_autogenerata_res.bmp](./assets/media/image22.png)
 
 In queste stesse condizioni sarà inoltre possibile indicare un valore
 anche per i seguenti parametri:
@@ -326,8 +318,7 @@ La sezione "**Voce del Menu -- Personalizzazioni grafiche**" consente di
 gestire, per ciascuna delle lingue attualmente presenti sul sito, le
 immagini eventualmente associate alla varie voci di menu
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_personalizzazioni_grafiche_res.bmp](./assets/media/image23.png){width="4.285416666666666in"
-height="2.825in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_personalizzazioni_grafiche_res.bmp](./assets/media/image23.png)
 
 In particolare il campo:
 

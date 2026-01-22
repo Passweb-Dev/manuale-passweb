@@ -5,8 +5,7 @@
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_iu_profilo_utente_configurazione_res.bmp](./assets/media/image26.png){width="4.636111111111111in"
-height="2.077777777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_iu_profilo_utente_configurazione_res.bmp](./assets/media/image26.png)
 
 suddivisa in varie sezioni.
 
@@ -71,8 +70,7 @@ all'interno del form un pulsante mediante il quale l'utente avrà la
 possibilità di cancellare il proprio profilo e, conseguentemente, la
 propria iscrizione al sito.
 
-![Videate\\elimina_profilo.bmp](./assets/media/image27.png){width="5.552083333333333in"
-height="3.298611111111111in"}
+![Videate\\elimina_profilo.bmp](./assets/media/image27.png)
 
 **Cliccando su questo pulsante oltre a cancellare la sua anagrafica dal
 database di Passweb, questa verrà completamente eliminata, se presente,
@@ -85,8 +83,7 @@ personalizzare il messaggio di "conferma eliminazione del profilo"
 indicando che i dati dell'utente verranno, eventualmente, cancellati
 anche dalla piattaforma di newsletter utilizzata.
 
-![Videate\\messaggio_conferma_eliminazione_profilo.bmp](./assets/media/image28.png){width="5.552083333333333in"
-height="3.298611111111111in"}
+![Videate\\messaggio_conferma_eliminazione_profilo.bmp](./assets/media/image28.png)
 
 **ATTENZIONE!** In queste condizioni va ricordato inoltre che:
 

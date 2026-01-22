@@ -40,8 +40,7 @@ La maschera **"Lista delle Promozioni"** presente all'interno di questa
 sezione del Wizard, mostra un elenco di tutte le Promozioni attualmente
 codificate all'interno del proprio sito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_promozioni.bmp](./assets/media/image478.png){width="5.5256944444444445in"
-height="3.4611111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_promozioni.bmp](./assets/media/image478.png)
 
 In particolare all'interno di questo elenco sono evidenziate in:
 
@@ -63,48 +62,40 @@ della colonna stessa.
 Una volta impostato un filtro di ricerca, per poterlo poi eliminare sarà
 sufficiente cliccare sull'icona raffigurante una piccola lente di
 ingrandimento con un -- all'interno (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina_filtro.bmp](./assets/media/image2.png){width="7.777777777777778e-2in"
-height="9.722222222222222e-2in"} ) che comparirà in testata alla colonna
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina_filtro.bmp](./assets/media/image2.png) ) che comparirà in testata alla colonna
 in corrispondenza della quale è stato impostato il filtro stesso.
 
 Infine è anche possibile ordinare, in maniera crescente e/o decrescente,
 gli elementi in griglia cliccando semplicemente sull'icona raffigurante
 due piccole frecce posta anch' essa in testata ad ogni singola colonna
 della griglia (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_ordinamento_griglia.bmp](./assets/media/image3.png){width="0.12361111111111112in"
-height="0.14930555555555555in"} )
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_ordinamento_griglia.bmp](./assets/media/image3.png) )
 
 I pulsanti presenti nella barra degli strumenti consentono
 rispettivamente di:
 
 **Modifica Promozione**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_promozione.bmp](./assets/media/image479.png){width="0.83125in"
-height="0.2013888888888889in"} )**:** consente di modificare la
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_promozione.bmp](./assets/media/image479.png) )**:** consente di modificare la
 Promozione attualmente selezionato.
 
 **Attiva Promozione**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_attiva_promozione.bmp](./assets/media/image480.png){width="0.7340277777777777in"
-height="0.2013888888888889in"} )**:** consente di attivare la Promozione
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_attiva_promozione.bmp](./assets/media/image480.png) )**:** consente di attivare la Promozione
 attualmente selezionata.
 
 **Disattiva Promozione**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_disattiva_promozione.bmp](./assets/media/image481.png){width="0.8375in"
-height="0.2013888888888889in"} )**:** consente di disattivare la
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_disattiva_promozione.bmp](./assets/media/image481.png) )**:** consente di disattivare la
 Promozione attualmente selezionata.
 
 **Elimina Promozione**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_promozione.bmp](./assets/media/image482.png){width="0.7729166666666667in"
-height="0.18819444444444444in"} )**:** consente di eliminare
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_promozione.bmp](./assets/media/image482.png) )**:** consente di eliminare
 definitivamente la Promozione attualmente selezionata.
 
 **Aggiungi Promozione**
-**(**![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_promozione.bmp](./assets/media/image483.png){width="0.8444444444444444in"
-height="0.1951388888888889in"} **):** consente di definire una nuova
+**(**![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_promozione.bmp](./assets/media/image483.png) **):** consente di definire una nuova
 Promozione. Cliccando su questo pulsante verrà infatti visualizzata la
 relativa maschera di creazione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuova_promozione.bmp](./assets/media/image484.png){width="6.253472222222222in"
-height="3.50625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuova_promozione.bmp](./assets/media/image484.png)
 
 attraverso cui poter definire tutti i parametri necessari per la
 codifica e l'utilizzo della nuova Promozione.
@@ -272,8 +263,7 @@ potrà beneficiare di determinate promozioni.
 In questo senso, cliccando sul pulsante "**Aggiungi Segnaposto**", sarà
 possibile inserire all'interno del testo, anche i seguenti placeholder:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\promozioni_segnaposto_descrizione.bmp](./assets/media/image485.png){width="4.941666666666666in"
-height="2.9743055555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\promozioni_segnaposto_descrizione.bmp](./assets/media/image485.png)
 
 - **Limite minimo**: consente di inserire all'interno del testo il
   segnaposto \$min_limit\$ che verrà poi sostituito, sul front end del
@@ -393,8 +383,7 @@ Per associare una nuova Zona alla Promozione che si sta realizzando sarà
 sufficiente cliccare sul pulsante "**Aggiungi una zona**" ed inserirla
 quindi all'interno del corrispondente riquadro
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\promozioni_zone_spedizione.bmp](./assets/media/image486.png){width="4.941666666666666in"
-height="2.798611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\promozioni_zone_spedizione.bmp](./assets/media/image486.png)
 
 Il campo "Aggiungi una zona" è ad autocompletamento per cui iniziando a
 digitare il nome della Zona che si intende associare alla Promozione,
@@ -404,8 +393,7 @@ maggiori informazioni relativamente a come codificare una Zona di
 spedizione utilizzabile poi a livello di Promozioni si veda quanto
 indicata all'interno del capitolo "*Ordini -- Zone*" di questo manuale)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\promozioni_zone_spedizione_2.bmp](./assets/media/image487.png){width="4.941666666666666in"
-height="2.798611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\promozioni_zone_spedizione_2.bmp](./assets/media/image487.png)
 
 Nel momento in cui digitando il nome della Zona non dovesse essere
 proposta nessuna opzione, significa che la Zona indicata non è tra

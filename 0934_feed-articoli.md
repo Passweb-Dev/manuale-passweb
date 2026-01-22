@@ -77,8 +77,7 @@ In questo senso Passweb offre all'utente la possibilità di generare:
 Portandosi quindi nella sezione "Catalogo -- Feed Articoli" del Wizard,
 verrà visualizzata la maschera "**Lista dei Feed**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_feed.bmp](./assets/media/image828.png){width="5.383333333333334in"
-height="3.6493055555555554in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_feed.bmp](./assets/media/image828.png)
 
 contenente l'elenco dei feed articoli attualmente codificati e gestiti
 all'interno del proprio sito ecommerce.

@@ -5,8 +5,7 @@
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componenti-galleriaImmagini_desktop_res.bmp](./assets/media/image80.png){width="5.155555555555556in"
-height="3.1555555555555554in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componenti-galleriaImmagini_desktop_res.bmp](./assets/media/image80.png)
 
 suddivisa in varie sezioni.
 
@@ -63,8 +62,7 @@ da utilizzare. E' possibile selezionare una delle seguenti opzioni:
   immagini saranno disposte all'interno di un'apposita griglia suddivisa
   in righe e colonne
 
-![Videate\\galleria_immagini.bmp](./assets/media/image81.png){width="5.175in"
-height="2.8833333333333333in"}
+![Videate\\galleria_immagini.bmp](./assets/media/image81.png)
 
 > In queste condizioni dunque è necessario che le dimensioni delle
 > immagini presenti in Galleria siano sempre le stesse.
@@ -85,8 +83,7 @@ height="2.8833333333333333in"}
   dimensioni (altezza e larghezza) mantenendo comunque sempre le stesse
   distanze l'una dall'altra
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\galleria_immagini_mansory.bmp](./assets/media/image82.png){width="5.1819444444444445in"
-height="3.0520833333333335in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\galleria_immagini_mansory.bmp](./assets/media/image82.png)
 
 > Come si può notare dalla figura sopra riportata, in queste condizioni
 > non è quindi strettamente necessario che tutte le immagini abbiano

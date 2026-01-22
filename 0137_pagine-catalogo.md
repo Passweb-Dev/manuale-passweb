@@ -4,8 +4,7 @@
 
 Le Pagine Catalogo, rappresentate all'interno dell'albero da icone con
 sfondo azzurro chiaro
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_pagina_cat_articoli_res.bmp](./assets/media/image103.png){width="0.8097222222222222in"
-height="0.1597222222222222in"} ), sono pagine fortemente tipizzate,
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_pagina_cat_articoli_res.bmp](./assets/media/image103.png) ), sono pagine fortemente tipizzate,
 presenti unicamente nel caso in cui il sito sia collegato a Mexal o ad
 uno dei gestionali Ho.Re.Ca. e nel caso in cui siano state codificate in
 maniera corretta, all'interno del gestionale, delle categorie
@@ -79,11 +78,9 @@ campi:
   direttamente dal campo "**Descrizione**" della maschera "**Anagrafica
   gruppo merceologico**" del gestionale
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\anagrafica_gruppo_merceologico.bmp](./assets/media/image113.png){width="3.6381944444444443in"
-height="2.097916666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\anagrafica_gruppo_merceologico.bmp](./assets/media/image113.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\horeca_anagrafica_gruppo_merceologico2.bmp](./assets/media/image114.png){width="5.398611111111111in"
-height="3.99375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\horeca_anagrafica_gruppo_merceologico2.bmp](./assets/media/image114.png)
 
 > Tale valore può poi essere modificato e gestito anche all'interno del
 > Wizard di Passweb.

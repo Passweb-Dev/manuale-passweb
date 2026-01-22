@@ -7,25 +7,21 @@ necessario per prima cosa accedere alla sezione "Gestione Ruoli"
 precedentemente esaminata, selezionare la tipologia di Ruolo in
 relazione alla quale si desidera creare un nuovo utente e cliccare
 quindi sul pulsante **Gestisci gli Utenti per questo Ruolo** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_gestisci_utenti_ruoli.bmp](./assets/media/image7.png){width="1.175in"
-height="0.175in"} )
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_gestisci_utenti_ruoli.bmp](./assets/media/image7.png) )
 
 In questo modo si avrà infatti accesso alla maschera la maschera
 **"Lista Utenti Ruolo -- Nome Ruolo"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\utenti_per_ruolo.bmp](./assets/media/image8.png){width="4.986805555555556in"
-height="2.9347222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\utenti_per_ruolo.bmp](./assets/media/image8.png)
 
 contenente l'elenco di tutti gli utenti attualmente associati al Ruolo
 in oggetto.
 
 Il pulsante **Nuovo Utente** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuovo_utente.bmp](./assets/media/image9.png){width="0.5388888888888889in"
-height="0.1951388888888889in"} ), presente nella contestuale barra degli
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuovo_utente.bmp](./assets/media/image9.png) ), presente nella contestuale barra degli
 strumenti consente quindi di accedere alla maschera "**Dati Utente**".
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ruoli_crea_utente.bmp](./assets/media/image14.png){width="5.792361111111111in"
-height="3.428472222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ruoli_crea_utente.bmp](./assets/media/image14.png)
 
 all'interno della quale poter indicare i dati dell'utente (Nome,
 Cognome, Email), le sue credenziali di accesso al Wizard (Login e
@@ -66,8 +62,7 @@ seguenti requisiti:
 > validità della password attualmente in uso, verrà automaticamente
 > visualizzata la seguente maschera di "**Reset Password**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\reset_password_wizard.bmp](./assets/media/image15.png){width="5.188194444444444in"
-height="4.097222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\reset_password_wizard.bmp](./assets/media/image15.png)
 
 > all'interno della quale inserire obbligatoriamente la nuova Password
 > di accesso, password questa che dovrà soddisfare, ovviamente, tutti i
@@ -84,8 +79,7 @@ Login verrà visualizzata un'ulteriore schermata all'interno della quale
 dover digitare il proprio codice di accesso, codice questo che potrà
 essere generato utilizzando l'App Google Authenticator
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\profilo_2fa_2.bmp](./assets/media/image16.png){width="5.811805555555556in"
-height="3.7729166666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\profilo_2fa_2.bmp](./assets/media/image16.png)
 
 Per maggiori informazioni relativamente al meccanismo di autenticazione
 a due fattori, si veda anche la sezione "*Profilo Utente -- Accesso al
@@ -119,8 +113,7 @@ utente" consentono rispettivamente di:
 > link "**Hai dimenticato la Password?**" presente all'interno della
 > schermata di blocco.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\blocco_utente_wizard.bmp](./assets/media/image17.png){width="5.961111111111111in"
-height="3.5520833333333335in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\blocco_utente_wizard.bmp](./assets/media/image17.png)
 
 > Ovviamente, affinché tale procedura possa andare a buon fine è
 > indispensabile che all'utente abbia precedentemente indicato nella sua
@@ -195,8 +188,7 @@ height="3.5520833333333335in"}
 Il controllo "**Attiva suggerimenti codice**" (sezione "**Editor di
 codice HTML, Javascript, CSS**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuovo_utente_editor_codice_autocompletamento.bmp](./assets/media/image18.png){width="5.532638888888889in"
-height="3.49375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuovo_utente_editor_codice_autocompletamento.bmp](./assets/media/image18.png)
 
 consente, se abilitato, di attivare per tutti gli editor di codice
 presenti all'interno del sito (componente HTML, Layout, maschere di
@@ -205,8 +197,7 @@ mostrando dunque all'utente in fase di inserimento di una nuova
 istruzione dei suggerimenti utili a completare automaticamente
 l'istruzione stessa
 
-![Videate\\editor_codice_autocompletamento_suggerimenti.bmp](./assets/media/image19.png){width="5.486805555555556in"
-height="3.285416666666667in"}
+![Videate\\editor_codice_autocompletamento_suggerimenti.bmp](./assets/media/image19.png)
 
 **ATTENZIONE!** I suggerimenti mostrati dalla funzione di
 autocompletamento sono relativi unicamente ai linguaggi HTML. Javascript

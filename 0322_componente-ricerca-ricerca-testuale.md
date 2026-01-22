@@ -34,8 +34,7 @@ Testuale la prima cosa da fare sarà quella di configurare il componente
 Componenti Comuni, impostando il parametro "**Tipo**" sul valore
 "**Ricerca Testuale**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ricerca_testuale_1_res.bmp](./assets/media/image199.png){width="6.00625in"
-height="3.6104166666666666in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ricerca_testuale_1_res.bmp](./assets/media/image199.png)
 
 **Come già evidenziato all'interno del precedente capitolo di questo
 manuale, una volta imposta la tipologia del pannello di ricerca che si

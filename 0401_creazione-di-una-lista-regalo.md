@@ -17,8 +17,7 @@ passaggi di seguito indicati:
 1.  Configurare il componente "**Wishlist Custom**" selezionando il
     parametro "**Gestione Liste Regalo**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\wl_lista_regalo_1.bmp](./assets/media/image223.png){width="5.815972222222222in"
-height="3.392361111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\wl_lista_regalo_1.bmp](./assets/media/image223.png)
 
 > Per maggiori informazioni in merito si veda anche la sezione
 > "*Varianti Sito Responsive -- Lista Componenti Ecommerce -- Componente
@@ -29,8 +28,7 @@ height="3.392361111111111in"}
     operando, in questo senso, dalla sezione "Utenti -- Wishlist --
     Priorità" del Wizard
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_priorita.bmp](./assets/media/image222.png){width="5.809722222222222in"
-height="3.423611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_priorita.bmp](./assets/media/image222.png)
 
 > Per maggiori informazioni in merito si veda anche la sezione "*Utenti
 > -- Wishlist -- Priorità*" di questo manuale
@@ -65,8 +63,7 @@ propria Lista Regalo sarà necessario:
     propria Lista Regalo ed aggiungerli uno ad uno alla Wishlist
     Corrente
 
-![Videate\\aggiunta-ws-lista-regalo2.bmp](./assets/media/image224.png){width="5.097916666666666in"
-height="3.582638888888889in"}
+![Videate\\aggiunta-ws-lista-regalo2.bmp](./assets/media/image224.png)
 
 3.  Accedere alla pagina di gestione delle Wishlist (sempre sul front
     end del sito), impostare il campo "**Tipologia**" nel form di
@@ -74,8 +71,7 @@ height="3.582638888888889in"}
     tutti i campi presenti nel form (Titolo Evento, Organizzatori, Data
     Evento ecc...) e salvare la Wishlist
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\wl_lista_regalo_3.bmp](./assets/media/image225.png){width="5.086111111111111in"
-height="3.423611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\wl_lista_regalo_3.bmp](./assets/media/image225.png)
 
 > **ATTENZIONE!** Il campo "Tipologia" nel form di salvataggio della
 > Wishlist verrà visualizzato solo ed esclusivamente nel caso in cui in
@@ -86,16 +82,14 @@ height="3.423611111111111in"}
     all'interno della sottostante tabella delle Wishlist salvate e
     cliccare sul pulsante "Visualizza"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\wl_lista_regalo_visualizza.bmp](./assets/media/image226.png){width="5.208333333333333in"
-height="3.4972222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\wl_lista_regalo_visualizza.bmp](./assets/media/image226.png)
 
 > In questo modo verrà caricata la Wishlist precedentemente salvata e in
 > corrispondenza di ogni singolo articolo verranno ora visualizzati
 > anche i campi "**Nota**" e "**Priorità**" (posto ovviamente di aver
 > inserito e configurato correttamente i relativi componenti)
 
-![Videate\\componente_interno_ec_campo_lista_valori_2.bmp](./assets/media/image227.png){width="5.208333333333333in"
-height="3.171527777777778in"}
+![Videate\\componente_interno_ec_campo_lista_valori_2.bmp](./assets/media/image227.png)
 
 > **ATTENZIONE!** Per poter visualizzare i campi "**Nota**" e
 > "**Priorità**" è necessario per prima cosa salvare una Wishlist come

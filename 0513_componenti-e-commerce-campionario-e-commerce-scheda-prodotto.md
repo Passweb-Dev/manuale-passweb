@@ -4,8 +4,7 @@
 
 Il Componente **"Campionario E-commerce"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_campionario.bmp](./assets/media/image667.png){width="2.5458333333333334in"
-height="3.1166666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_campionario.bmp](./assets/media/image667.png)
 
 **può essere inserito unicamente all'interno del Componente Ecommerce di
 primo livello "Scheda Prodotto"**.

@@ -7,8 +7,7 @@ Il parametro **Decimali** presente all'interno della sezione
 articolo, consente di impostare il numero di decimali da utilizzare per
 gestire le quantità dell'articolo in esame.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_decimali_anagrafica_passweb.bmp](./assets/media/image126.png){width="5.811805555555556in"
-height="3.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_decimali_anagrafica_passweb.bmp](./assets/media/image126.png)
 
 In particolare è bene sottolineare che:
 

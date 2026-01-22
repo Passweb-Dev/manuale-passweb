@@ -9,8 +9,7 @@ oltre che gli ordini generati a partire da esse.
 Effettuando l'accesso verrà infatti visualizzata la maschera **"Lista
 Wishlist"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_wishlist.bmp](./assets/media/image273.png){width="5.6625in"
-height="3.33125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_wishlist.bmp](./assets/media/image273.png)
 
 **ATTENZIONE!** All'interno di questa sezione del sito verranno
 visualizzate **solo ed esclusivamente le Wishlist di tipo "Lista
@@ -29,16 +28,14 @@ stessa.
 Una volta impostato un filtro di ricerca, per poterlo poi eliminare sarà
 sufficiente cliccare sull'icona raffigurante una piccola lente di
 ingrandimento con un -- all'interno (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina_filtro.bmp](./assets/media/image29.png){width="7.777777777777778e-2in"
-height="9.722222222222222e-2in"} ) che comparirà in testata alla colonna
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina_filtro.bmp](./assets/media/image29.png) ) che comparirà in testata alla colonna
 in corrispondenza della quale è stato impostato il filtro stesso.
 
 Infine è anche possibile ordinare, in maniera crescente e/o decrescente,
 gli elementi in griglia cliccando semplicemente sull'icona raffigurante
 due piccole frecce posta anch' essa in testata ad ogni singola colonna
 della griglia (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_ordinamento_griglia.bmp](./assets/media/image30.png){width="0.12361111111111112in"
-height="0.14930555555555555in"} )
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_ordinamento_griglia.bmp](./assets/media/image30.png) )
 
 Per ciascuno degli elementi presenti in griglia sono indicate le
 seguenti informazioni:
@@ -72,13 +69,11 @@ una delle Liste Regalo presenti in elenco, consentono rispettivamente
 di:
 
 - **Visualizza Wishlist**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_visualizza_wishlist.bmp](./assets/media/image274.png){width="0.66875in"
-  height="0.18819444444444444in"} ): consente di visualizzare il
+  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_visualizza_wishlist.bmp](./assets/media/image274.png) ): consente di visualizzare il
   dettaglio della lista regalo attualmente selezionata in elenco **con
   gli articoli ordinati per "priorità decrescente"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\wizard_dettaglio_lista_regalo.bmp](./assets/media/image275.png){width="5.6625in"
-height="3.33125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\wizard_dettaglio_lista_regalo.bmp](./assets/media/image275.png)
 
 > Nella colonna "**Nota**" viene evidenziata la priorità assegnata al
 > relativo articolo ed è presente, se specificato, il commento inserito
@@ -104,15 +99,13 @@ height="3.33125in"}
 > sito articoli appartenenti alla lista in oggetto), verrà visualizzato
 > un apposito messaggio di errore
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\messaggio_errore_lista_regalo.bmp](./assets/media/image276.png){width="1.4152777777777779in"
-height="0.3763888888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\messaggio_errore_lista_regalo.bmp](./assets/media/image276.png)
 
 > e le modifiche apportate da questa sezione del Wizard, ovviamente, non
 > verranno salvate.
 
 - **Anteprima Wishlist**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_anteprima_wishlist.bmp](./assets/media/image277.png){width="0.66875in"
-  height="0.18819444444444444in"} ): consente di visualizzare
+  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_anteprima_wishlist.bmp](./assets/media/image277.png) ): consente di visualizzare
   l'anteprima della Wishlist attualmente selezionata in elenco
   direttamente sul front end del sito.
 
@@ -122,16 +115,14 @@ height="0.3763888888888889in"}
 > necessariamente ricercare mediante l'apposito pannello di ricerca
 
 - **Ordini**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_ordini.bmp](./assets/media/image278.png){width="0.2986111111111111in"
-  height="0.18194444444444444in"} ): consente di accedere all'elenco
+  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_ordini.bmp](./assets/media/image278.png) ): consente di accedere all'elenco
   degli ordini legati alla Lista Regalo attualmente selezionata in
   elenco.
 
 > Cliccando su questo pulsante verrà quindi visualizzata la maschera
 > "**Lista Ordini -- Nome Lista Regalo**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_ordini_lista_regalo.bmp](./assets/media/image279.png){width="5.149305555555555in"
-height="3.032638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_ordini_lista_regalo.bmp](./assets/media/image279.png)
 
 > contenente l'elenco di tutti gli ordini generati a partire dalla Lista
 > Regalo in questione.
@@ -149,6 +140,5 @@ height="3.032638888888889in"}
 > Lista Regalo in testata verranno indicati anche i riferimenti alla
 > lista stessa.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dettaglio_ordine_lista_regalo.bmp](./assets/media/image280.png){width="5.149305555555555in"
-height="3.032638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dettaglio_ordine_lista_regalo.bmp](./assets/media/image280.png)
 

@@ -222,8 +222,7 @@ impostato in corrispondenza del parametro "**Documenti Nuovi da
 Verificare**" presente all'interno della maschera "Configurazione
 Parametri dell'Ordine" del Wizard.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\doc_da_verificare_2.bmp](./assets/media/image692.png){width="5.214583333333334in"
-height="3.175in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\doc_da_verificare_2.bmp](./assets/media/image692.png)
 
 **ATTENZIONE! per i documenti in stato "Da Verificare" la memorizzazione
 sul gestionale non sarà automatica ma avverrà solo previa conferma del
@@ -240,8 +239,7 @@ questi documenti sarà sufficiente selezionarli tra quelli presenti alla
 pagina "**Gestione Ordini**" e, successivamente, cliccare sul pulsante
 "**Conferma Ordine**" presente nella contestuale barra degli strumenti.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\doc_da_verificare_3.bmp](./assets/media/image693.png){width="5.214583333333334in"
-height="3.175in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\doc_da_verificare_3.bmp](./assets/media/image693.png)
 
 Se invece l'esigenza dovesse essere quella di eliminare o annullare
 questi documenti sarà necessario agire, dopo averli selezionati,

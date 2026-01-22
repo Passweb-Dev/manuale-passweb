@@ -6,8 +6,7 @@ La Dashboard dei siti di tipo "Connettore" presenta, per ovvie ragioni,
 un sottoinsieme degli elementi disponibili nella Dashboard dei siti
 Ecommerce.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dashboard_connettori.bmp](./assets/media/image31.png){width="5.565277777777778in"
-height="3.509027777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dashboard_connettori.bmp](./assets/media/image31.png)
 
 Questa particolare tipologia di sito, infatti, non ha un front end
 diretto con cui gli utenti possono interagire ma si limita a pubblicare

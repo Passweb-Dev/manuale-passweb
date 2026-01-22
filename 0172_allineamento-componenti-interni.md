@@ -3,8 +3,7 @@
 
 
 L'icona "**Allineamento Componenti Interni**" (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\icona_allineamento_componenti_interni.bmp](./assets/media/image231.png){width="0.12916666666666668in"
-height="0.14722222222222223in"} ) presente nel R.O.C. del componente e/o
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\icona_allineamento_componenti_interni.bmp](./assets/media/image231.png) ) presente nel R.O.C. del componente e/o
 nella barra degli strumenti dell' Albero dei Componenti consente di
 impostare un allineamento automatico (verticale e/o orizzontale) **per
 gli elementi di primo livello** interni al componente in esame.
@@ -39,15 +38,13 @@ Colonne di una Griglia.
 ##### ALLINEAMENTO AUTOMATICO DELLE COLONNE DI UNA GRIGLIA
 
 Cliccando sull'icona "**Allineamento Componenti Interni**" (
-![Videate\\icona_allineamento_componenti_interni.bmp](./assets/media/image232.png){width="0.12916666666666668in"
-height="0.14722222222222223in"} ) presente sul R.O.C. di un Componente
+![Videate\\icona_allineamento_componenti_interni.bmp](./assets/media/image232.png) ) presente sul R.O.C. di un Componente
 di tipo Griglia verrà visualizzata nella parte bassa della pagina una
 piccola maschera mediante la quale poter settare le varie opzioni di
 allineamento automatico (orizzontale e verticale) per le colonne
 presenti all'interno della griglia stessa.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\opzioni_allineamento.bmp](./assets/media/image233.png){width="5.386805555555555in"
-height="3.509027777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\opzioni_allineamento.bmp](./assets/media/image233.png)
 
 Il menu a tendina posto nella parte alta di questa maschera permette di
 impostare la proprietà "**display**" del componente griglia abilitando o
@@ -71,8 +68,7 @@ E' possibile selezionare uno dei seguenti valori:
   - ogni colonna assumerà, in relazione alla griglia, una larghezza
     definita dalle impostazioni di configurazione della colonna stessa
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\opzioni_allineamento_7.bmp](./assets/media/image234.png){width="5.386805555555555in"
-height="3.729861111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\opzioni_allineamento_7.bmp](./assets/media/image234.png)
 
 > Tecnicamente in questa configurazione verrà assegnata la classe
 > "**d-flex**" (corrispondente alla proprietà "display: flex")
@@ -90,8 +86,7 @@ height="3.729861111111111in"}
   - ogni colonna assumerà, in relazione alla griglia, una larghezza
     definita dalle impostazioni di configurazione della colonna stessa
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\opzioni_allineamento_8.bmp](./assets/media/image235.png){width="5.386805555555555in"
-height="3.729861111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\opzioni_allineamento_8.bmp](./assets/media/image235.png)
 
 > Tecnicamente in questa configurazione verrà assegnata la classe
 > "**d-inline-flex**" (corrispondente alla proprietà "display:
@@ -106,8 +101,7 @@ height="3.729861111111111in"}
 > In queste condizioni non sarà quindi possibile selezionare nessuna
 > delle opzioni di allineamento presenti all'interno della maschera
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\opzioni_allineamento_2.bmp](./assets/media/image236.png){width="5.386805555555555in"
-height="3.1902777777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\opzioni_allineamento_2.bmp](./assets/media/image236.png)
 
 **ATTENZIONE! Condizione necessaria affinchè l'allineamento automatico
 delle colonne di una griglia possa funzionare correttamente è quella di
@@ -143,16 +137,14 @@ Nello specifico:
 > larghezza della griglia rendendo di fatto inutile ogni tipo di
 > allineamento orizzontale
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\opzioni_allineamento_3.bmp](./assets/media/image237.png){width="5.386805555555555in"
-height="3.729861111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\opzioni_allineamento_3.bmp](./assets/media/image237.png)
 
 > Al contrario se nella stessa griglia avessimo solo due colonne
 > ciascuna di larghezza pari ad un terzo della griglia allora gli
 > effetti di un' allineamento orizzontale a destra, piuttosto che
 > centrato o a sinistra sarebbero piuttosto evidenti
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\opzioni_allineamento_4.bmp](./assets/media/image238.png){width="5.392361111111111in"
-height="3.6131944444444444in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\opzioni_allineamento_4.bmp](./assets/media/image238.png)
 
 - Allo stesso modo **l'allineamento verticale delle colonne di una
   griglia avrà senso**, e potrà quindi essere applicato correttamente
@@ -165,11 +157,9 @@ height="3.6131944444444444in"}
 > In caso contrario qualunque sia l'opzione di allineamento verticale
 > impostata l'effetto non sarebbe ovviamente evidente
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\opzioni_allineamento_5.bmp](./assets/media/image239.png){width="5.386805555555555in"
-height="3.729861111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\opzioni_allineamento_5.bmp](./assets/media/image239.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\opzioni_allineamento_6.bmp](./assets/media/image240.png){width="5.386805555555555in"
-height="3.729861111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\opzioni_allineamento_6.bmp](./assets/media/image240.png)
 
 Di seguito vengono indicate le possibili configurazioni di allineamento
 orizzontale e verticale (per altro già piuttosto evidenti dalle piccole
@@ -181,8 +171,7 @@ configurazione dell'allineamento).
 **Allineamento automatico a sinistra:** Le colonne sono posizionate, una
 a fianco all'altra a partire dal bordo sinistro della griglia
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\opzioni_allineamento_9.bmp](./assets/media/image241.png){width="5.386805555555555in"
-height="3.7118055555555554in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\opzioni_allineamento_9.bmp](./assets/media/image241.png)
 
 Tecnicamente, in queste condizioni verrà applicata all'elemento "Riga"
 della griglia la classe "**justify-content-start**"
@@ -190,8 +179,7 @@ della griglia la classe "**justify-content-start**"
 **Allineamento automatico a destra:** Le colonne sono posizionate, una a
 fianco all'altra a partire dal bordo destro della griglia
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\opzioni_allineamento_10.bmp](./assets/media/image242.png){width="5.386805555555555in"
-height="3.7118055555555554in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\opzioni_allineamento_10.bmp](./assets/media/image242.png)
 
 Tecnicamente, in queste condizioni verrà applicata all'elemento "Riga"
 della griglia la classe "**justify-content-end**"
@@ -199,8 +187,7 @@ della griglia la classe "**justify-content-end**"
 **Allineamento automatico centrato:** Le colonne sono posizionate, una a
 fianco all'altra a partire dal centro della griglia
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\opzioni_allineamento_11.bmp](./assets/media/image243.png){width="5.386805555555555in"
-height="3.7118055555555554in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\opzioni_allineamento_11.bmp](./assets/media/image243.png)
 
 Tecnicamente, in queste condizioni verrà applicata all'elemento "Riga"
 della griglia la classe "**justify-content-center**"
@@ -211,8 +198,7 @@ e lo spazio residuo (differenza tra la larghezza del contenitore e la
 somma delle larghezze delle colonne) viene distribuito tra le altre
 colonne eventualmente presenti all'interno della griglia
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\opzioni_allineamento_12.bmp](./assets/media/image244.png){width="5.386805555555555in"
-height="3.7118055555555554in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\opzioni_allineamento_12.bmp](./assets/media/image244.png)
 
 Tecnicamente, in queste condizioni verrà applicata all'elemento "Riga"
 della griglia la classe "**justify-content-between**"
@@ -223,8 +209,7 @@ larghezze delle colonne) viene diviso per il numero di margini (n. di
 elementi x 2) e successivamente applicato ad ogni margine di ciascuna
 colonna
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\opzioni_allineamento_13.bmp](./assets/media/image245.png){width="5.386805555555555in"
-height="3.7118055555555554in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\opzioni_allineamento_13.bmp](./assets/media/image245.png)
 
 Tecnicamente, in queste condizioni verrà applicata all'elemento "Riga"
 della griglia la classe "**justify-content-around**"
@@ -234,8 +219,7 @@ della griglia la classe "**justify-content-around**"
 **Allineamento automatico in alto:** le colonne sono posizionate a
 partire dal bordo alto della griglia
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\opzioni_allineamento_14.bmp](./assets/media/image246.png){width="5.386805555555555in"
-height="3.7118055555555554in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\opzioni_allineamento_14.bmp](./assets/media/image246.png)
 
 Tecnicamente, in queste condizioni verrà applicata all'elemento "Riga"
 della griglia la classe "**align-items-start**"
@@ -243,8 +227,7 @@ della griglia la classe "**align-items-start**"
 **Allineamento automatico in basso:** le colonne sono posizionate a
 partire dal bordo basso della griglia
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\opzioni_allineamento_15.bmp](./assets/media/image247.png){width="5.386805555555555in"
-height="3.7118055555555554in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\opzioni_allineamento_15.bmp](./assets/media/image247.png)
 
 Tecnicamente, in queste condizioni verrà applicata all'elemento "Riga"
 della griglia la classe "**align-items-end**"
@@ -252,8 +235,7 @@ della griglia la classe "**align-items-end**"
 **Allineamento automatico centrato:** le colonne sono posizionate al
 centro della griglia
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\opzioni_allineamento_16.bmp](./assets/media/image248.png){width="5.386805555555555in"
-height="3.7118055555555554in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\opzioni_allineamento_16.bmp](./assets/media/image248.png)
 
 Tecnicamente, in queste condizioni verrà applicata all'elemento "Riga"
 della griglia la classe "**align-items-center**"
@@ -261,8 +243,7 @@ della griglia la classe "**align-items-center**"
 **Allineamento automatico baseline:** le colonne sono posizionate in
 maniera tale da essere tutte allineate sulla stessa linea di base
 
-![Videate\\opzioni_allineamento_16.bmp](./assets/media/image249.png){width="5.386805555555555in"
-height="3.729861111111111in"}
+![Videate\\opzioni_allineamento_16.bmp](./assets/media/image249.png)
 
 Tecnicamente, in queste condizioni verrà applicata all'elemento "Riga"
 della griglia la classe "**align-items-baseline**"
@@ -270,8 +251,7 @@ della griglia la classe "**align-items-baseline**"
 **Allineamento automatico stretch:** le colonne sono stirate in maniera
 tale da occupare l'intera altezza della griglia
 
-![Videate\\opzioni_allineamento_16.bmp](./assets/media/image248.png){width="5.386805555555555in"
-height="3.7118055555555554in"}
+![Videate\\opzioni_allineamento_16.bmp](./assets/media/image248.png)
 
 Tecnicamente, in queste condizioni verrà applicata all'elemento "Riga"
 della griglia la classe "**align-items-stretch**"
@@ -290,13 +270,11 @@ valore flex o inline-flex**
 
 In questo senso dunque cliccando sull'icona "**Allineamento Componenti
 Interni**" (
-![Videate\\icona_allineamento_componenti_interni.bmp](./assets/media/image232.png){width="0.12916666666666668in"
-height="0.14722222222222223in"} ) presente sul R.O.C. di un Componente
+![Videate\\icona_allineamento_componenti_interni.bmp](./assets/media/image232.png) ) presente sul R.O.C. di un Componente
 Contenitore, verrà visualizzata, nella parte bassa della pagina, la
 maschera di configurazione degli allineamenti automatici
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\opzioni_allineamento_19.bmp](./assets/media/image250.png){width="5.386805555555555in"
-height="3.7118055555555554in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\opzioni_allineamento_19.bmp](./assets/media/image250.png)
 
 maschera questa del tutto analoga a quella esaminata nel precedente
 capitolo di questo manuale.

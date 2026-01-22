@@ -6,8 +6,7 @@ All'interno di questa pagina è possibile visualizzare quelli che sono
 gli indirizzi IP e/o gli user agent attualmente bloccati a seguito
 dell'applicazione di un ban temporaneo e/o di un long ban.
 
-![Videate\\ddos_3.bmp](./assets/media/image278.png){width="5.707638888888889in"
-height="3.4479166666666665in"}
+![Videate\\ddos_3.bmp](./assets/media/image278.png)
 
 La griglia "Real Time Monitor" è in sola visualizzazione e non consente
 operazioni di alcun tipo sugli indirizzi ip e/o sugli user agent
@@ -26,6 +25,5 @@ manuale (per maggiori informazioni in merito si veda anche quanto
 indicato alla pagina "*Sito -- Preferenze -- IP/UA Bannati*" di questo
 manuale)
 
-![Videate\\lista_ip_bannati.bmp](./assets/media/image279.png){width="5.941666666666666in"
-height="3.5972222222222223in"}
+![Videate\\lista_ip_bannati.bmp](./assets/media/image279.png)
 

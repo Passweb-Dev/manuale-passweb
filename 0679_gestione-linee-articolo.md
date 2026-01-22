@@ -12,8 +12,7 @@ necessario, per prima cosa, codificare le diverse Linee Articolo cui
 dovranno poi essere associati i vari prodotti agendo, per questo, dalla
 sezione "**Catalogo -- Gestione Articoli -- Linee**" del Wizard.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_linee_articolo.bmp](./assets/media/image133.png){width="5.759722222222222in"
-height="3.5131944444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_linee_articolo.bmp](./assets/media/image133.png)
 
 Per maggiori informazioni in merito a come poter codificare una nuova
 linea articolo si veda anche la sezione *"Catalogo -- Gestione Articoli

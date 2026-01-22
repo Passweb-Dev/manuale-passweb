@@ -4,15 +4,13 @@
 
 Il Componente CMS **"Titolo"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cms_componente_titolo_res.bmp](./assets/media/image46.png){width="2.545138888888889in"
-height="2.765972222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cms_componente_titolo_res.bmp](./assets/media/image46.png)
 
 corrisponde esattamente al titolo della notizia che dovrà essere
 pubblicata all'interno del corrispondente Componente CMS di livello
 superiore.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_cms_titolo.bmp](./assets/media/image47.png){width="4.604166666666667in"
-height="2.825in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_cms_titolo.bmp](./assets/media/image47.png)
 
 **Inserendo questo elemento all'interno di un componente CMS di primo
 livello, esso verrà quindi sostituito, per ogni singola notizia presente
@@ -23,8 +21,7 @@ A livello di configurazione, una volta inserito il Componente
 all'interno della pagina web, verrà aperta in automatico **la sua
 maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_cms_titolo_configurazione_res.bmp](./assets/media/image48.png){width="4.604166666666667in"
-height="2.071527777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_cms_titolo_configurazione_res.bmp](./assets/media/image48.png)
 
 suddivisa in varie sezioni.
 

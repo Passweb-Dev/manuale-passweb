@@ -31,28 +31,24 @@ variabile in questione:
     variabile cliccando sul pulsante "**Nuova**" presente in
     corrispondenza del box "**Variabili definite dall'utente**"
 
-![Videate\\gtm_ecommerce_avanzato_1.bmp](./assets/media/image49.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_1.bmp](./assets/media/image49.png)
 
 2.  Cliccare sul pulsante "**Scegli un tipo di variabile per iniziare
     l'installazione**" presente in corrispondenza del box
     "**Configurazione Variabile**"
 
-![Videate\\gtm_ecommerce_avanzato_2.bmp](./assets/media/image50.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_2.bmp](./assets/media/image50.png)
 
 > e selezionare, tra le varie proposte, l'opzione "**User-Provided
 > Data**" (o "Dati Forniti dagli Utenti" a seconda della lingua
 > impostata all'interno del proprio browser)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_var_user_provided_data.bmp](./assets/media/image202.png){width="5.407638888888889in"
-height="3.2805555555555554in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_var_user_provided_data.bmp](./assets/media/image202.png)
 
 3.  Nella successiva maschera impostare i campi di configurazione della
     variabile come di seguito indicato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_var_user_provided_data_2.bmp](./assets/media/image203.png){width="5.407638888888889in"
-height="3.2805555555555554in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_var_user_provided_data_2.bmp](./assets/media/image203.png)
 
 - **Type**: Manual Configuration
 

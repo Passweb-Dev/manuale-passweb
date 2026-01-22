@@ -10,8 +10,7 @@ post CMS attualmente pubblicati.
 All'interno di questa pagina verrà quindi visualizzata la maschera,
 **"Gestione CMS -- Commenti"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_cms_commenti.bmp](./assets/media/image540.png){width="5.746527777777778in"
-height="3.49375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_cms_commenti.bmp](./assets/media/image540.png)
 
 contenente l'elenco di tutti i commenti effettuati all'interno del sito.
 
@@ -33,8 +32,7 @@ Il pulsante raffigurante una piccola i posto in corrispondenza di ogni
 singolo commento, consente poi di visualizzare il dettaglio completo del
 commento stesso, oltre al suo autore e alla data di pubblicazione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dettaglio_commento2.bmp](./assets/media/image541.png){width="5.746527777777778in"
-height="3.49375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dettaglio_commento2.bmp](./assets/media/image541.png)
 
 Il pannello di ricerca, presente nella parte alta della maschera,
 consente di ricercare specifici commenti, tra quelli presenti in elenco.
@@ -43,27 +41,22 @@ Selezionando uno dei commenti in elenco verranno abilitati, nella barra
 degli strumenti, diversi pulsanti mediante i quali poter gestire il
 commento selezionato.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_cms_commenti2.bmp](./assets/media/image542.png){width="5.746527777777778in"
-height="3.50625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_cms_commenti2.bmp](./assets/media/image542.png)
 
 In particolare il pulsante:
 
 **Modifica Commento** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_commento.bmp](./assets/media/image504.png){width="0.7145833333333333in"
-height="0.175in"} ):consente di accedere al dettaglio del commento
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_commento.bmp](./assets/media/image504.png) ):consente di accedere al dettaglio del commento
 selezionato in elenco e, eventualmente, di modificarne il contenuto
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dettaglio_commento.bmp](./assets/media/image543.png){width="5.279166666666667in"
-height="3.201388888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dettaglio_commento.bmp](./assets/media/image543.png)
 
 **Elimina Commento**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_commento.bmp](./assets/media/image506.png){width="0.6555555555555556in"
-height="0.16875in"} ):consente di eliminare il commento selezionato in
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_commento.bmp](./assets/media/image506.png) ):consente di eliminare il commento selezionato in
 elenco
 
 **Pubblica Commento**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_pubblica_commento.bmp](./assets/media/image507.png){width="0.7013888888888888in"
-height="0.175in"} ): consente di pubblicare il commento selezionato in
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_pubblica_commento.bmp](./assets/media/image507.png) ): consente di pubblicare il commento selezionato in
 elenco.
 
 **ATTENZIONE!! In merito al pulsante "Pubblica Commento" è bene
@@ -109,8 +102,7 @@ l'apposita sezione di questo manuale (*Live Editing -- Lista Componenti
 CMS -- Commenti Associati*)
 
 **Ricarica Commenti**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_ricarica_commenti.bmp](./assets/media/image508.png){width="0.675in"
-height="0.18194444444444444in"} ): consente di ricaricare i commenti
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_ricarica_commenti.bmp](./assets/media/image508.png) ): consente di ricaricare i commenti
 presenti in elenco in modo tale da poter visualizzare eventuali nuovi
 commenti postati all'interno del sito.
 

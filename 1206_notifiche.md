@@ -14,8 +14,7 @@ notificati, a seconda dei check selezionati, nel momento in cui
 dovessero essere caricati, all'interno della cartella in esame, dei
 nuovi documenti
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_comm_amministratore_cartella.bmp](./assets/media/image76.png){width="2.7729166666666667in"
-height="3.825in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_comm_amministratore_cartella.bmp](./assets/media/image76.png)
 
 Nel caso delle **Cartelle Azienda** corrispondenti ad **utenti
 codificati dal back end del proprio sito Passweb,** il discorso è
@@ -142,8 +141,7 @@ inviate le relative notifiche sono quelli impostati all'interno dei
 rispettivi campi dell'anagrafica gestionale, dati questi visibili anche
 in area riservata all'interno della sezione "Profilo Utente"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\comm_riferimenti_notifiche.bmp](./assets/media/image128.png){width="5.5777777777777775in"
-height="3.5131944444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\comm_riferimenti_notifiche.bmp](./assets/media/image128.png)
 
 Nel momento in cui l'esigenza dovesse essere quella di gestire le
 notifiche SMS, Telegram o Whatsapp in relazione, ad esempio, alle
@@ -183,13 +181,11 @@ Infine, l'eventuale presenza di nuovi documenti Docuvision, verrà
 notificata anche all'interno dell'area riservata sia mediante l'apposita
 icona delle notifiche
 
-![Videate\\ar_menu_notifiche_dettaglio.bmp](./assets/media/image11.png){width="1.6041666666666667in"
-height="0.9222222222222223in"}
+![Videate\\ar_menu_notifiche_dettaglio.bmp](./assets/media/image11.png)
 
 sia in bacheca all'interno del box "**Documenti**".
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\comm_notifica_doc_docuvision_bacheca.bmp](./assets/media/image129.png){width="5.532638888888889in"
-height="3.4805555555555556in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\comm_notifica_doc_docuvision_bacheca.bmp](./assets/media/image129.png)
 
 **ATTENZIONE! all'interno del box Documenti verranno visualizzati tutti
 i documenti che sono stati aggiunti in Docuvision piuttosto che

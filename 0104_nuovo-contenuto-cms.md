@@ -4,15 +4,13 @@
 
 Per creare un nuovo Contenuto CMS è necessario cliccare sul relativo
 pulsante
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuovo_contenuto.bmp](./assets/media/image499.png){width="0.6298611111111111in"
-height="0.18194444444444444in"} presente nella barra degli strumenti
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuovo_contenuto.bmp](./assets/media/image499.png) presente nella barra degli strumenti
 della maschera **"Gestione CMS -- Contenuti"**
 
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 "**Nuovo Contenuto CMS**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuovo_contenuto.bmp](./assets/media/image509.png){width="5.714583333333334in"
-height="3.49375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuovo_contenuto.bmp](./assets/media/image509.png)
 
 mediante la quale poter definire i contenuti e le proprietà del nuovo
 post CMS.
@@ -57,8 +55,7 @@ si vedano anche i successivi capitoli di questo manuale.
 All'interno della scheda **Contenuto** è possibile definire i contenuti
 principali (Titolo, Sommario ecc...) della relativa notizia CMS.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuovo_contenuto.bmp](./assets/media/image509.png){width="5.714583333333334in"
-height="3.4868055555555557in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuovo_contenuto.bmp](./assets/media/image509.png)
 
 Nello specifico il campo:
 
@@ -128,8 +125,7 @@ La scheda "**Ulteriori Contenuti**" consente di definire fino ad un
 massimo di 3 contenuti aggiuntivi da associare al post CMS che si sta
 realizzando.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cms_ulteriori_contenuti.bmp](./assets/media/image510.png){width="5.714583333333334in"
-height="3.4868055555555557in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cms_ulteriori_contenuti.bmp](./assets/media/image510.png)
 
 Ogni contenuto aggiuntivo dovrà essere definito mediante il
 corrispondente Editor HTML (**Descrizione1, Descrizione2,
@@ -149,8 +145,7 @@ cui poter decidere se la notizia stessa dovrà o meno comparire
 all'interno della SiteMap del sito, ed eventualmente, con che priorità e
 con che frequenza di aggiornamento.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuovo_contenuto_seo.bmp](./assets/media/image511.png){width="5.714583333333334in"
-height="3.4868055555555557in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuovo_contenuto_seo.bmp](./assets/media/image511.png)
 
 In particolare, per quel che riguarda la sezione SEO, il campo:
 
@@ -166,8 +161,7 @@ In particolare, per quel che riguarda la sezione SEO, il campo:
 > precedentemente inserito nel campo "Formato Title per Pagina CMS"
 > (menu "*Sito --Preferenze*" del Wizard) il segnaposto {articleName}**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\title_cms.bmp](./assets/media/image512.png){width="5.6819444444444445in"
-height="3.467361111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\title_cms.bmp](./assets/media/image512.png)
 
 > Nel caso in cui sia stato correttamente inserito, all'interno
 > dell'apposito campo il segnaposto {articleName}, lasciando vuoto il
@@ -248,8 +242,7 @@ di:
 > assegnato, allo stesso parametro, nella sezione "**SiteMap CMS**" del
 > menu "**Sito -- Preferenze**" del Wizard
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sitemap_cms.bmp](./assets/media/image513.png){width="5.6819444444444445in"
-height="3.4743055555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sitemap_cms.bmp](./assets/media/image513.png)
 
 > **Nel caso in cui i parametri in esame non siano stati opportunamente
 > valorizzati neppure all'interno del menu "Sito -- Preferenze" del
@@ -276,8 +269,7 @@ post in oggetto e:
 - eventuali immagini da visualizzare nel dettaglio del post all'interno
   di un' apposita galleria
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cms_associazioni.bmp](./assets/media/image514.png){width="5.759722222222222in"
-height="3.5131944444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cms_associazioni.bmp](./assets/media/image514.png)
 
 In particolare dunque il campo:
 
@@ -311,8 +303,7 @@ In particolare dunque il campo:
 > presenti in elenco sarà sufficiente selezionarlo ed utilizzare il
 > tasto "TAB" per inserirlo.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tag_associati2.bmp](./assets/media/image515.png){width="6.071527777777778in"
-height="2.8048611111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tag_associati2.bmp](./assets/media/image515.png)
 
 > Nel caso invece in cui il tag desiderato non sia tra quelli presenti
 > in elenco, dopo averne digitato il nome completo, verrà comunque
@@ -358,8 +349,7 @@ serie di immagini che potranno poi essere visualizzate sul front end del
 sito, nel dettaglio del post stesso, mediante l'apposito componente
 "**Galleria Immagini**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cms_associazioni_immagini.bmp](./assets/media/image516.png){width="5.746527777777778in"
-height="3.49375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cms_associazioni_immagini.bmp](./assets/media/image516.png)
 
 In questo senso è possibile operare aggiungendo una singola immagine
 alla volta, oppure aggiungendo in blocco tutta una serie di immagini
@@ -413,13 +403,11 @@ Gli altri pulsanti presenti nella parte sinistra della sezione
 "Immagini" consentono rispettivamente di:
 
 - **Elimina Immagine** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina.bmp](./assets/media/image517.png){width="0.175in"
-  height="0.18194444444444444in"} ): consente di eliminare l'immagine
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina.bmp](./assets/media/image517.png) ): consente di eliminare l'immagine
   attualmente selezionata in elenco
 
 - **Sposta su / giù**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icone_su_giu.bmp](./assets/media/image518.png){width="0.3701388888888889in"
-  height="0.21458333333333332in"} ): consente di riordinare tra loro le
+  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icone_su_giu.bmp](./assets/media/image518.png) ): consente di riordinare tra loro le
   varie immagini presenti in elenco spostando verso l'alto o il basso
   l'immagine attualmente selezionata.
 
@@ -450,8 +438,7 @@ La scheda "**Pubblicazione**" consente di definire le modalità e le
 tempistiche di pubblicazione e di visualizzazione all'interno del sito
 del "Contenuto" che si sta considerando.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cms_contenuto_pubblicazione.bmp](./assets/media/image519.png){width="5.759722222222222in"
-height="3.5131944444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cms_contenuto_pubblicazione.bmp](./assets/media/image519.png)
 
 In particolare il parametro:
 
@@ -528,8 +515,7 @@ manuale (Passweb -- Gestione Newsletter)**
 I post marcati come inviabili con Campagne CMS, saranno evidenziati
 nella griglia di gestione dei contenuti CMS attraverso un'apposita icona
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\post_inviabile_da_campagna.bmp](./assets/media/image520.png){width="5.746527777777778in"
-height="3.50625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\post_inviabile_da_campagna.bmp](./assets/media/image520.png)
 
 ##### PRIVILEGI
 
@@ -538,8 +524,7 @@ quelli attualmente gestiti all'interno del sito, gli specifici gruppi di
 utenti che dovranno essere abilitati alla visualizzazione del contenuto
 in oggetto.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cms_privilegi.bmp](./assets/media/image521.png){width="5.759722222222222in"
-height="3.49375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cms_privilegi.bmp](./assets/media/image521.png)
 
 Nel momento in cui dovesse essere associato al Contenuto in oggetto uno
 specifico gruppo di utenti, tale contenuto potrà poi essere visualizzato
@@ -568,8 +553,7 @@ Nel momento in cui si dovesse invece entrare in modifica di una notizia
 già codificata, all'interno delle sezioni Facebook, Twitter e Linkedin
 compariranno i relativi pulsanti di condivisone
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_network_2.bmp](./assets/media/image522.png){width="5.759722222222222in"
-height="3.49375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_network_2.bmp](./assets/media/image522.png)
 
 Nello specifico sarà dunque necessario impostare, per prima cosa, una
 specifica pagina di destinazione (**Pagina di Destinazione per il
@@ -607,8 +591,7 @@ abilitati, dove per dispositivi opportunamente abilitati si intendono:
   collegata al sito Passweb, e per i quali è stata abilitata la
   ricezione delle notifiche push da parte dell'App stessa**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cms_invio_notifiche.bmp](./assets/media/image523.png){width="5.759722222222222in"
-height="3.5131944444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cms_invio_notifiche.bmp](./assets/media/image523.png)
 
 **ATTENZIONE! L'invio delle notifiche push è gestito mediante
 l'integrazione del proprio sito Passweb con i servizi offerti dalla
@@ -638,8 +621,7 @@ E' possibile selezionare uno dei seguenti valori:
   selezionata all'interno dell'albero presente in corrispondenza del
   successivo campo **"Pagina Generica per il Dettaglio News"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cms_invio_notifiche_2.bmp](./assets/media/image524.png){width="5.759722222222222in"
-height="3.467361111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cms_invio_notifiche_2.bmp](./assets/media/image524.png)
 
 > Tale soluzione potrebbe quindi rivelarsi utile nel momento in cui la
 > notifica push dovesse riguardare una generica news pubblicata
@@ -663,8 +645,7 @@ height="3.467361111111111in"}
   prodotto indicato all'interno del successivo campo "**Pagina
   Prodotto**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cms_invio_notifiche_3.bmp](./assets/media/image525.png){width="5.759722222222222in"
-height="3.5131944444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cms_invio_notifiche_3.bmp](./assets/media/image525.png)
 
 > Il pannello di ricerca consente di ricercare (per Titolo) lo specifico
 > prodotto tra tutti quelli attualmente gestiti all'interno del sito.

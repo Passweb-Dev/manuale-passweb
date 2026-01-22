@@ -11,8 +11,7 @@ selezionata mediante il relativo controllo
 **ATTENZIONE!** Sono esclusi da questa sezione gli accessi effettuati da
 Crawlers, Bot o Tool di vario genere.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\statistiche_visitatori_1.bmp](./assets/media/image39.png){width="5.98125in"
-height="3.515277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\statistiche_visitatori_1.bmp](./assets/media/image39.png)
 
 Nello specifico all'interno del box "**Visitatori online**" verranno
 visualizzati gli utenti attualmente online sul front end del sito.
@@ -47,8 +46,7 @@ con il sito.
 Per ciascuno degli utenti presenti all'interno di questa sezione
 verranno visualizzate le seguenti informazioni:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\visitatori_online.bmp](./assets/media/image40.png){width="3.220833333333333in"
-height="1.3868055555555556in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\visitatori_online.bmp](./assets/media/image40.png)
 
 **Browser utilizzato (1)**: icona identificativa del browser che
 l'utente sta utilizzando per navigare il sito.
@@ -67,8 +65,7 @@ ogni singola sessione di navigazione effettuata dall'utente**.
 Cliccando infatti su questo numero verrà visualizzata infatti la
 maschera **"Attività per Sessione -- id della sessione"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\attivita_per_sessione.bmp](./assets/media/image41.png){width="6.067361111111111in"
-height="3.564583333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\attivita_per_sessione.bmp](./assets/media/image41.png)
 
 all'interno della quale sarà possibile ottenere informazioni più
 dettagliate relativamente alla sessione di navigazione selezionata e
@@ -82,8 +79,7 @@ visualizzare lo storico delle visite ricevute dal sito, storico che fa
 riferimento, ovviamente, all'intervallo temporale selezionato mediante
 il relativo controllo
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\statistiche_storico_visite.bmp](./assets/media/image42.png){width="6.067361111111111in"
-height="3.564583333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\statistiche_storico_visite.bmp](./assets/media/image42.png)
 
 All'interno di questa tabella sarà quindi possibile visualizzare e
 monitorare gli accessi al sito da parte di due diverse tipologie di
@@ -153,8 +149,7 @@ accesso al sito, sono riportate le seguenti informazioni:
 > effettuate da quello stesso utente **durante TUTTE LE SUE SESSIONI DI
 > LAVORO**
 
-![Videate\\statistiche_attivita_per_utente.bmp](./assets/media/image43.png){width="5.98125in"
-height="3.515277777777778in"}
+![Videate\\statistiche_attivita_per_utente.bmp](./assets/media/image43.png)
 
 > Per maggiori informazioni relativamente alla maschera "Attività
 > Utente" si rimanda a quando indicato nel successivo capitolo di questo

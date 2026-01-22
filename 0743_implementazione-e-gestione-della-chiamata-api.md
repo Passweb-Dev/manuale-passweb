@@ -214,8 +214,7 @@ Form. Una volta ottenuti i dati richiesti, verrà eseguita la funzione
 *renderRisultati* che si occuperà di visualizzare i dati richiesti
 all'interno della pagina web
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\portali_esempio_utilizzo_5.bmp](./assets/media/image298.png){width="5.856944444444444in"
-height="3.571527777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\portali_esempio_utilizzo_5.bmp](./assets/media/image298.png)
 
 **ATTENZIONE!** quanto indicato all'interno di questi capitoli è un
 semplice esempio di come poter utilizzare l'integrazione tra Passweb ed

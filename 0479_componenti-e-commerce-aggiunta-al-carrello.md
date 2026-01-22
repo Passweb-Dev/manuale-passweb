@@ -4,8 +4,7 @@
 
 Il Componente **"Aggiunta al Carrello"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_aggiungi_carrello.bmp](./assets/media/image478.png){width="2.5340277777777778in"
-height="3.1041666666666665in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_aggiungi_carrello.bmp](./assets/media/image478.png)
 
 consente di inserire all'interno del corrispondente Componente Ecommerce
 di primo livello (es. Catalogo Ecommerce, Popolarità Prodotto, Scheda
@@ -14,8 +13,7 @@ quantità dello specifico articolo che si intende acquistare (campo
 quantità, pulsanti incrementali ecc...) e per poter inserire l'articolo
 stesso in Carrello (pulsante Aggiungi)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_aggiungi_carrello.bmp](./assets/media/image479.png){width="5.607638888888889in"
-height="3.3986111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_aggiungi_carrello.bmp](./assets/media/image479.png)
 
 > **NOTA BENE:** nel caso in cui ad effettuare l'ordine sia un Agente
 > (Ecommerce Mexal) il componente "Aggiungi al Carrello" verrà
@@ -25,8 +23,7 @@ height="3.3986111111111112in"}
 Rilasciando il Componente nella posizione desiderata verrà visualizzata
 **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_aggiungi_carrello_configurazione_res.bmp](./assets/media/image480.png){width="4.644444444444445in"
-height="2.9756944444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_aggiungi_carrello_configurazione_res.bmp](./assets/media/image480.png)
 
 suddivisa in varie sezioni.
 
@@ -75,16 +72,14 @@ possibile impostare un valore per i seguenti parametri:
   fatto che nella stessa pagina sia presente o meno anche il componente
   Carrellino).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\messaggio_aggiungi_carrello_res.bmp](./assets/media/image481.png){width="5.502777777777778in"
-height="3.33125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\messaggio_aggiungi_carrello_res.bmp](./assets/media/image481.png)
 
 > **ATTENZIONE**! Il messaggio di notifica può essere personalizzato
 > inserendo l'apposito codice HTML all'interno del campo "**Aggiunta**"
 > presente nella sezione "Gestione Testi / Messaggi del Sito" in
 > corrispondenza del componente "**Aggiunta al Carrello**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\messaggio_aggiungi_carrello_personalizzazione.bmp](./assets/media/image482.png){width="5.392361111111111in"
-height="3.4784722222222224in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\messaggio_aggiungi_carrello_personalizzazione.bmp](./assets/media/image482.png)
 
 > In relazione a quelli che sono i contenuti del pop up di aggiunta in
 > carrello occorre poi sottolineare che le quantità ed il subtotale
@@ -110,8 +105,7 @@ height="3.4784722222222224in"}
 > pari a 38.61€ in quantità 2, in entrambi i casi verrà visualizzato un
 > pop up del tipo di quello di seguito riportato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\popup_aggiunta_carrello_nuova_riga.bmp](./assets/media/image483.png){width="2.5708333333333333in"
-height="1.2395833333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\popup_aggiunta_carrello_nuova_riga.bmp](./assets/media/image483.png)
 
 > in cui cioè la quantità indicata sarà sempre pari a 2 e il subtotale
 > sarà sempre pari a 77.22€ (2 x 38.61)
@@ -248,11 +242,9 @@ height="1.2395833333333333in"}
   la selezione della specifica taglia /colore, rispetto a quelli per
   l'inserimento delle quantità, secondo uno schema prestabilito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\posizionamento_campi_minimal_esteso1.bmp](./assets/media/image484.png){width="5.6194444444444445in"
-height="4.576388888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\posizionamento_campi_minimal_esteso1.bmp](./assets/media/image484.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\posizionamento_campi_minimal_esteso2.bmp](./assets/media/image485.png){width="5.6194444444444445in"
-height="4.576388888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\posizionamento_campi_minimal_esteso2.bmp](./assets/media/image485.png)
 
 > Il fatto di visualizzare, all'interno di componenti di primo livello,
 > come ad esempio il Catalogo Ecommerce, i controlli minimali o estesi
@@ -389,8 +381,7 @@ In relazione al componente in esame va infine considerate anche che:
   attualmente ricevuta, per il relativo articolo, dal gestore della
   lista.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\agg_carrello_lista_regalo.bmp](./assets/media/image486.png){width="5.159722222222222in"
-height="2.8097222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\agg_carrello_lista_regalo.bmp](./assets/media/image486.png)
 
 > **In queste condizioni, inoltre, la quantità visualizzata a default
 > nel campo di input sarà data dalla differenza tra la quantità
@@ -432,8 +423,7 @@ fare le seguenti considerazioni:
   Taglie e Colori*" del Wizard e relativo ovviamente alla serie di
   taglie/colori cui appartiene lo specifico articolo.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\grafica_negozio.bmp](./assets/media/image487.png){width="5.809722222222222in"
-height="3.3743055555555554in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\grafica_negozio.bmp](./assets/media/image487.png)
 
 > Dipendentemente dunque dalle impostazioni di questo parametro, per
 > questo tipo di articoli sarà possibile **visualizzare**
@@ -472,6 +462,5 @@ height="3.3743055555555554in"}
   all'interno del gestionale (**Ecommerce Mexal**) o nella sua
   Anagrafica Passweb (**Ecommerce Ho.Re.Ca.**)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_decimali_quantita.bmp](./assets/media/image488.png){width="5.791666666666667in"
-height="3.3618055555555557in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_decimali_quantita.bmp](./assets/media/image488.png)
 

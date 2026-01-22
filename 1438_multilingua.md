@@ -14,8 +14,7 @@ ragioni:
   direttamente in fase di configurazione dello Store (campo
   "**Language**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_parametri_configurazione_store.bmp](./assets/media/image22.png){width="5.428472222222222in"
-height="3.33125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\clerk_parametri_configurazione_store.bmp](./assets/media/image22.png)
 
 > farà si che la ricerca possa poi comprendere molto meglio eventuali
 > errori grammaticali e di ortografia rendendo quindi i risultati più
@@ -39,8 +38,7 @@ singolo Store presente su Clerk indicando, in fase di configurazione
 dell'Account stesso (campo "**Lingua**"), la lingua di gestione dello
 Store con cui ci svuole collegare
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\account_clerk_passweb_lingua.bmp](./assets/media/image23.png){width="5.428472222222222in"
-height="3.33125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\account_clerk_passweb_lingua.bmp](./assets/media/image23.png)
 
 **ATTENZIONE!** E' possibile creare un solo account per ogni lingua
 gestita

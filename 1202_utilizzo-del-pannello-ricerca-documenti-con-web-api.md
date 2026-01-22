@@ -10,8 +10,7 @@ all'interno delle Cartelle Standard ma anche quelli presenti all'interno
 del gestionale e associati, per una certa azienda, ad una delle Classi
 Docuvision pubblicate sul sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pannello_ricerca_documenti_web_api.bmp](./assets/media/image113.png){width="5.311805555555556in"
-height="3.3375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pannello_ricerca_documenti_web_api.bmp](./assets/media/image113.png)
 
 In queste condizioni sarà quindi possibile ricercare documenti per:
 

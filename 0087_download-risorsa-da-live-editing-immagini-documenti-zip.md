@@ -21,8 +21,7 @@ degli strumenti ( ).
 Verrà in questo modo aperta una maschera del tipo di quella qui di
 seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_pubb_risorsa_Documentisito2.bmp](./assets/media/image453.png){width="5.779166666666667in"
-height="3.5256944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_pubb_risorsa_Documentisito2.bmp](./assets/media/image453.png)
 
 Agendo quindi sul pulsante "**Cerca sul Server"** verrà aperto il
 pannello di "Gestione Risorse" precedentemente esaminato attraverso il

@@ -41,30 +41,26 @@ funzionante
 - Effettuare il login al proprio account developer di PayPal e accedere
   alla sezione "**Sandbox accounts**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\braintree_paypal_1.bmp](./assets/media/image80.png){width="5.370138888888889in"
-height="3.234027777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\braintree_paypal_1.bmp](./assets/media/image80.png)
 
 - Creare un account sandbox di tipo **Business** selezionando anche lo
   stesso paese scelto in fase di creazione dell'account sandbox di
   Braintree
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\braintree_paypal_2.bmp](./assets/media/image81.png){width="5.370138888888889in"
-height="3.234027777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\braintree_paypal_2.bmp](./assets/media/image81.png)
 
 - Accedere quindi alla sezione "**Apps & Credentials**" selezionando
   l'apposita voce di menu presente anche in testata e procedere poi alla
   creazione di una nuova APP cliccando sul relativo pulsante "**Create
   App**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\braintree_paypal_3.bmp](./assets/media/image82.png){width="5.370138888888889in"
-height="3.234027777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\braintree_paypal_3.bmp](./assets/media/image82.png)
 
 - In fase di creazione dell'APP flaggare la tipologia "**Merchant**" e
   selezionare anche dal relativo menu a tendina il sandbox Account
   creato al punto precedente
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\braintree_paypal_4.bmp](./assets/media/image83.png){width="5.370138888888889in"
-height="3.234027777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\braintree_paypal_4.bmp](./assets/media/image83.png)
 
 - Completata la creazione dell'App verremo ricondotti automaticamente
   alla sua pagina di dettaglio dove ci verranno mostrate le credenziali
@@ -73,28 +69,24 @@ height="3.234027777777778in"}
   richieste anche all'interno di Braintree per completare il
   collegamento tra le due piattaforme
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\braintree_paypal_5.bmp](./assets/media/image84.png){width="5.370138888888889in"
-height="3.234027777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\braintree_paypal_5.bmp](./assets/media/image84.png)
 
 - Effettuare ora l'autenticazione al proprio account sandbox di
   Braintree aprire il menu delle impostazioni (icona raffigurante una
   piccola rotellina posta in testata) e selezionare la voce "Processing"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\braintree_paypal_6.bmp](./assets/media/image85.png){width="5.370138888888889in"
-height="3.234027777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\braintree_paypal_6.bmp](./assets/media/image85.png)
 
 - All'interno della sezione Payment Methods cliccare sul link "**Link
   Sandbox**" presente in corrispondenza della sezione "PayPal"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\braintree_paypal_7.bmp](./assets/media/image86.png){width="5.370138888888889in"
-height="3.234027777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\braintree_paypal_7.bmp](./assets/media/image86.png)
 
 - Inserire nel relativo form i dati richiesti (**Email**, **Client ID**
   e **Secret ID**) relativi all'account Sandbox di PayPal creato nei
   precedenti passaggi
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\braintree_paypal_8.bmp](./assets/media/image87.png){width="5.370138888888889in"
-height="3.234027777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\braintree_paypal_8.bmp](./assets/media/image87.png)
 
 > Cliccando quindi sul pulsante **Link PayPal SandBox** avremo
 > completato il collegamento tra le due piattaforme e, in fase di test,

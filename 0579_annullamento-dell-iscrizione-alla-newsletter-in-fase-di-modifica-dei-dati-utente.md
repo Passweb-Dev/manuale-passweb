@@ -32,8 +32,7 @@ relativi check così come sarà sempre possibile riportare anche il radio
 button "Iscrizione alla Newsletter" sul valore No, annullando di fatto
 l'iscrizione al servizio.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_newsletter_mailchimp_1.bmp](./assets/media/image151.png){width="5.604166666666667in"
-height="3.4743055555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_newsletter_mailchimp_1.bmp](./assets/media/image151.png)
 
 **ATTENZIONE! quello che succederà effettivamente nel momento in cui
 l'utente dovesse decidere di annullare l'iscrizione al servizio (radio
@@ -49,8 +48,7 @@ corrispondente lista MailChimp, nello stato di "**Archiviato**"
 lasciando comunque inalterati eventuali altri consensi da lui
 precedentemente forniti.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mailchimp_utente_archiviato.bmp](./assets/media/image53.png){width="5.104166666666667in"
-height="3.3180555555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mailchimp_utente_archiviato.bmp](./assets/media/image53.png)
 
 Nel caso di **ActiveCampaign** invece, se un utente precedentemente
 iscritto alla Newsletter dovesse impostare il Radio Button "Iscrizione
@@ -60,8 +58,7 @@ di configurazione del componente (campo "**Lista Associata**") lasciando
 comunque inalterati, anche in questo caso i suoi dati anagrafici
 compresi eventuali altri consensi da lui precedentemente forniti.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\annullamento_iscrizione_activecampaign_2.bmp](./assets/media/image163.png){width="5.5in"
-height="3.7597222222222224in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\annullamento_iscrizione_activecampaign_2.bmp](./assets/media/image163.png)
 
 In queste condizioni starà dunque a chi gestisce l'invio delle varie
 campagne e/o automazioni all'interno di ActiveCampaign accertarsi che le
@@ -81,14 +78,12 @@ verrà effettivamente disiscritto dalla Newsletter (cosa questa
 evidenziata anche dal piccolo badge rosso posto, nel dettaglio della
 persona, in corrispondenza del suo indirizzo mail)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\brainlead_disiscrizione_profilo.bmp](./assets/media/image164.png){width="5.104166666666667in"
-height="3.3180555555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\brainlead_disiscrizione_profilo.bmp](./assets/media/image164.png)
 
 Al solito, gli altri dati, compresi eventuali consensi precedentemente
 forniti, non verranno invece modificati.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\brainlead_no_newsleeter_da_profilo.bmp](./assets/media/image165.png){width="5.104166666666667in"
-height="3.3180555555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\brainlead_no_newsleeter_da_profilo.bmp](./assets/media/image165.png)
 
 **ATTENZIONE! In tutti i casi (MailChimp, ActiveCampaign o Brainlead)
 l'impostazione a No del radio button "Iscrizione Newsletter" presente
@@ -109,8 +104,7 @@ terza, questa è, ovviamente, un'operazione che potrà effettuare in
 completa autonomia lo stesso utente operando sempre dal suo Profilo
 utilizzando, nello specifico, **il pulsante "Elimina Profilo"**.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\elimina_profilo.bmp](./assets/media/image27.png){width="5.552083333333333in"
-height="3.298611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\elimina_profilo.bmp](./assets/media/image27.png)
 
 **Cliccando su questo pulsante infatti oltre a cancellare la sua
 anagrafica dal database di Passweb, questa verrà completamente eliminata
@@ -123,8 +117,7 @@ personalizzare il messaggio di "conferma eliminazione del profilo"
 indicando che i dati dell'utente verranno, eventualmente, cancellati
 anche dalla piattaforma di newsletter utilizzata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\messaggio_conferma_eliminazione_profilo.bmp](./assets/media/image28.png){width="5.552083333333333in"
-height="3.298611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\messaggio_conferma_eliminazione_profilo.bmp](./assets/media/image28.png)
 
 **ATTENZIONE!** In queste condizioni va ricordato inoltre che:
 

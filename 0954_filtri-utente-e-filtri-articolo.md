@@ -17,8 +17,7 @@ tipologie di filtri:
   esclusivamente ai clienti che soddisfano queste regole e che sono
   gestiti dagli agenti appartenenti al gruppo stesso
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_gruppi.bmp](./assets/media/image136.png){width="3.4090277777777778in"
-height="2.5388888888888888in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_gruppi.bmp](./assets/media/image136.png)
 
 ##### FILTRI ARTICOLO
 
@@ -37,16 +36,14 @@ Per creare un nuovo filtro articoli sarà necessario portarsi nella
 maschera di configurazione delle proprietà del gruppo desiderato ed
 agire dalla corrispondente sezione "**Filtro Articoli**".
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtro_articoli_1.bmp](./assets/media/image137.png){width="5.1819444444444445in"
-height="3.285416666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtro_articoli_1.bmp](./assets/media/image137.png)
 
 Cliccando sul pulsante **"Aggiungi un nuovo filtro"** verranno
 visualizzati i campi su cui poter impostare la condizione che definirà,
 per gli utenti appartenenti al gruppo in esame, il criterio di
 visualizzazione degli articoli all'interno del sito web.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtro_articoli_2.bmp](./assets/media/image138.png){width="4.136111111111111in"
-height="2.1625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtro_articoli_2.bmp](./assets/media/image138.png)
 
 Il campo di input presente nella parte alta del piccolo pop up consente,
 digitando almeno 3 caratteri, di filtrare gli elementi presenti in
@@ -172,8 +169,7 @@ necessario selezionare l'operatore da utilizzare all'interno del filtro
 stesso ed il valore che il campo dovrà assumere affinché la regola di
 visualizzazione degli articoli possa essere soddisfatta.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtro_articoli_3.bmp](./assets/media/image139.png){width="2.636111111111111in"
-height="2.129861111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtro_articoli_3.bmp](./assets/media/image139.png)
 
 In questo senso, ovviamente, gli operatori disponibili e le modalità di
 inserimento del valore da soddisfare potranno cambiare in relazione alla
@@ -186,8 +182,7 @@ comparirà subito dopo questo stesso operatore. In questo modo verrà
 aperta una piccola finestra contenente l'elenco delle categorie
 merceologiche attualmente gestite all'interno del sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtro_articoli_4.bmp](./assets/media/image140.png){width="4.136111111111111in"
-height="2.4868055555555557in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtro_articoli_4.bmp](./assets/media/image140.png)
 
 Sarà quindi sufficiente selezionare le categorie merceologiche
 desiderate, utilizzando, se necessario, anche il campo di ricerca
@@ -253,8 +248,7 @@ Nello specifico
 > individuare l'attributo desiderato e prelevare il suo identificativo
 > dalla colonna ID
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\id_attributo_utente.bmp](./assets/media/image141.png){width="5.825in"
-height="3.3048611111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\id_attributo_utente.bmp](./assets/media/image141.png)
 
 **ATTENZIONE! i filtri articolo basati sugli pseudo-metodi indicati
 potrebbero risultare particolarmente onerosi per cui andrebbero
@@ -281,8 +275,7 @@ Cliccando su questo elemento verrà aperta una piccola finestra
 all'interno della quale poter selezionare eventuali ulteriori operatori
 logici da utilizzare nella costruzione della propria query.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtro_articoli_5.bmp](./assets/media/image142.png){width="2.636111111111111in"
-height="2.1166666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtro_articoli_5.bmp](./assets/media/image142.png)
 
 In questo senso, come precedentemente evidenziato, la **"e"**
 corrisponderà all'operatore logico **AND** mentre la **"o"**
@@ -315,8 +308,7 @@ dipenderà da come è stato impostato il parametro "**Gestione Filtri
 Articoli Agente"** presente nella sezione "*Catalogo -- Configurazione
 Parametri -- Catalogo Mexal*" del Wizard
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_catalogo_mexal2.bmp](./assets/media/image143.png){width="5.759722222222222in"
-height="3.4027777777777777in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_catalogo_mexal2.bmp](./assets/media/image143.png)
 
 Per chiarire meglio questo aspetto consideriamo i due casi seguenti:
 
@@ -419,8 +411,7 @@ dell'Anagrafica Passweb dell'articolo, selezionato) sarà necessario
 impostare su questo stesso gruppo un semplice filtro articoli,
 costituito da un'unica condizione, come quello mostrato in figura
 
-![Videate\\filtro_articoli_3.bmp](./assets/media/image144.png){width="2.623611111111111in"
-height="2.1166666666666667in"}
+![Videate\\filtro_articoli_3.bmp](./assets/media/image144.png)
 
 **Per ottenere questo risultato sarà quindi sufficiente utilizzare come
 campo cui applicare il filtro articoli il campo "Offerte", come
@@ -440,8 +431,7 @@ necessario impostare, su questo stesso gruppo, un filtro articoli
 costituito da tre distinte condizioni opportunamente concatenate tra
 loro come mostrato in figura
 
-![Videate\\filtro_articoli_7.bmp](./assets/media/image145.png){width="2.6104166666666666in"
-height="2.3895833333333334in"}
+![Videate\\filtro_articoli_7.bmp](./assets/media/image145.png)
 
 Considerando che l'id 109 corrisponde, nell'esempio in questione, alla
 categoria merceologica "Informatica", il filtro sopra evidenziato
@@ -492,11 +482,9 @@ di risultato sono due:
   con il codice conto dell'utente che potrà vedere quello stesso
   prodotto una volta effettuato l'accesso al sito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtro_pseudo_metodi_2.bmp](./assets/media/image146.png){width="5.792361111111111in"
-height="3.4805555555555556in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtro_pseudo_metodi_2.bmp](./assets/media/image146.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtro_pseudo_metodi.bmp](./assets/media/image147.png){width="5.143055555555556in"
-height="2.058333333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtro_pseudo_metodi.bmp](./assets/media/image147.png)
 
 Una volta soddisfatte queste due condizioni potremo poi procedere in due
 modi diversi.
@@ -536,8 +524,7 @@ indicato:
 
 - **Codice Conto Cliente uguale GETFIELDUSER (ue, codiceIntegrazione)**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtro_pseudo_metodi_3.bmp](./assets/media/image148.png){width="5.792361111111111in"
-height="3.279166666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtro_pseudo_metodi_3.bmp](./assets/media/image148.png)
 
 e all'interno di questo gruppo dovrebbero essere inseriti i 3 utenti con
 codice conto 502.00006, 502.00026 e 502.00033
@@ -618,16 +605,14 @@ Per creare un nuovo filtro utente sarà necessario portarsi nella
 maschera di configurazione delle proprietà del gruppo desiderato ed
 agire poi dalla corrispondente sezione "**Filtro Utenti**".
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_utente.bmp](./assets/media/image149.png){width="5.1819444444444445in"
-height="3.298611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_utente.bmp](./assets/media/image149.png)
 
 Cliccando sul pulsante **"Aggiungi un nuovo filtro"** verranno
 visualizzati, all'interno di un apposito menu a tendina, i vari campi su
 cui poter impostare la regola che definirà il criterio di appartenenza
 al gruppo.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_utente_2.bmp](./assets/media/image150.png){width="4.110416666666667in"
-height="2.1430555555555557in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_utente_2.bmp](./assets/media/image150.png)
 
 Il campo di input presente nella parte alta del piccolo pop up consente,
 digitando almeno 3 caratteri, di filtrare gli elementi presenti in
@@ -705,11 +690,9 @@ necessario selezionare l'operatore da utilizzare all'interno del filtro
 stesso ed il valore che il campo dovrà assumere affinché la regola in
 esame possa essere soddisfatta.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_utente_3.bmp](./assets/media/image151.png){width="2.629861111111111in"
-height="2.1041666666666665in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_utente_3.bmp](./assets/media/image151.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_utente_4.bmp](./assets/media/image152.png){width="2.629861111111111in"
-height="2.1166666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_utente_4.bmp](./assets/media/image152.png)
 
 In questo senso, ovviamente, gli operatori disponibili e le modalità di
 inserimento del valore da soddisfare potranno cambiare in relazione alla
@@ -724,8 +707,7 @@ In questo modo verrà aperta una piccola finestra contenente l'elenco
 delle nazioni gestite all'interno del sito (quello selezionate alla
 pagina "Gestione Paesi" del Wizard).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_utente_5.bmp](./assets/media/image153.png){width="2.629861111111111in"
-height="2.123611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_utente_5.bmp](./assets/media/image153.png)
 
 Sarà quindi sufficiente, a questo punto, selezionare i paesi desiderati
 tra quelli presenti in elenco, e chiudere la finestra di selezione del
@@ -745,8 +727,7 @@ Cliccando su questo elemento verrà aperta una piccola finestra
 all'interno della quale poter selezionare eventuali ulteriori operatori
 logici da utilizzare nella costruzione del proprio filtro.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_utente_6.bmp](./assets/media/image154.png){width="2.629861111111111in"
-height="2.0972222222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_utente_6.bmp](./assets/media/image154.png)
 
 In questo senso, come precedentemente evidenziato, la **"e"**
 corrisponderà all'operatore logico **AND** mentre la **"o"**
@@ -774,8 +755,7 @@ Per creare un Gruppo Utenti contenente solo ed esclusivamente utenti di
 tipo "Privato" sarà necessario creare un semplice filtro utenti
 costituito da una sola regola come quello mostrato in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_utente_7.bmp](./assets/media/image155.png){width="2.636111111111111in"
-height="2.123611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_utente_7.bmp](./assets/media/image155.png)
 
 **Per ottenere questo risultato sarà quindi sufficiente utilizzare come
 campo cui applicare il filtro utenti il campo "Privato", come operatore
@@ -791,8 +771,7 @@ attributo cliente per gestire la "Professione" degli utenti, sarà ora
 necessario creare un filtro utenti costituito da tre distinte regole
 opportunamente concatenate tra loro come mostrato in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_utente_8.bmp](./assets/media/image156.png){width="2.792361111111111in"
-height="2.370138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_utente_8.bmp](./assets/media/image156.png)
 
 Considerando che l'id 108 corrisponde, nell'esempio in questione, alla
 nazione "Italia" , il filtro utenti sopra evidenziato consentirà di
@@ -819,8 +798,7 @@ esclusivamente utenti che non hanno valorizzato, nella loro anagrafica,
 il campo Partita IVA / Codice Fiscale, sarà ora necessario creare un
 filtro utenti costituito dalla regola evidenziata in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtro_partita_iva.bmp](./assets/media/image157.png){width="2.8118055555555554in"
-height="2.0909722222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtro_partita_iva.bmp](./assets/media/image157.png)
 
 **ATTENZIONE! i campi Partita Iva e Codice Fiscale consentono di
 realizzare filtri di tipo testuale**
@@ -856,8 +834,7 @@ portarsi nella maschera di configurazione delle proprietà del gruppo
 desiderato ed agire poi dalla corrispondente sezione "**Filtro Clienti
 Agente**".
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_clienti_agente.bmp](./assets/media/image158.png){width="5.467361111111111in"
-height="3.298611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_clienti_agente.bmp](./assets/media/image158.png)
 
 Cliccando sul pulsante **"Aggiungi un nuovo filtro"** verranno
 visualizzati i vari campi su cui poter impostare la regola che definirà
@@ -865,8 +842,7 @@ l'insieme dei clienti, tra quelli associati agli agenti facenti parte
 del gruppo, ai quali dovranno essere applicati eventuali filtri articolo
 definiti sullo stesso gruppo.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_clienti_agente_2.bmp](./assets/media/image159.png){width="4.104166666666667in"
-height="2.1430555555555557in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_clienti_agente_2.bmp](./assets/media/image159.png)
 
 I campi "**Privato**" e "**Nazione**" consentiranno di definire il
 criterio di selezione dei clienti sulla base della loro provenienza
@@ -892,11 +868,9 @@ necessario selezionare l'operatore da utilizzare all'interno del filtro
 stesso ed il valore che il campo dovrà assumere affinché la regola in
 esame possa essere soddisfatta.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_clienti_agente_3.bmp](./assets/media/image160.png){width="2.825in"
-height="2.0972222222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_clienti_agente_3.bmp](./assets/media/image160.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_clienti_agente_4.bmp](./assets/media/image161.png){width="2.8048611111111112in"
-height="2.136111111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_clienti_agente_4.bmp](./assets/media/image161.png)
 
 È inoltre possibile concatenare tra loro due o più regole in maniera
 tale da realizzare dei filtri utente più o meno complessi a seconda del
@@ -911,8 +885,7 @@ Cliccando su questo elemento verrà aperta una piccola finestra
 all'interno della quale poter selezionare eventuali ulteriori operatori
 logici da utilizzare nella costruzione del proprio filtro.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_clienti_agente_5.bmp](./assets/media/image162.png){width="2.8180555555555555in"
-height="2.0909722222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_clienti_agente_5.bmp](./assets/media/image162.png)
 
 In questo senso, come precedentemente evidenziato, la **"e"**
 corrisponderà all'operatore logico **AND** mentre la **"o"**

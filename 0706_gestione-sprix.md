@@ -32,8 +32,7 @@ un apposito file.
 All'interno della pagina viene visualizzata la maschera "**Gestione
 Sprix**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_sprix.bmp](./assets/media/image201.png){width="5.825in"
-height="3.558333333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_sprix.bmp](./assets/media/image201.png)
 
 contenente l'elenco degli eseguibili attualmente codificati e
 richiamabili quindi dall'Area Riservata del proprio sito web.
@@ -46,23 +45,20 @@ stessa.
 Una volta impostato un filtro di ricerca, per poterlo poi eliminare sarà
 sufficiente cliccare sull'icona raffigurante una piccola lente di
 ingrandimento con un -- all'interno (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina_filtro.bmp](./assets/media/image169.png){width="7.777777777777778e-2in"
-height="9.722222222222222e-2in"} ) che comparirà in testata alla colonna
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina_filtro.bmp](./assets/media/image169.png) ) che comparirà in testata alla colonna
 in corrispondenza della quale è stato impostato il filtro stesso.
 
 Infine è anche possibile ordinare, in maniera crescente e/o decrescente,
 gli elementi in griglia cliccando semplicemente sull'icona raffigurante
 due piccole frecce posta anch' essa in testata ad ogni singola colonna
 della griglia (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_ordinamento_griglia.bmp](./assets/media/image170.png){width="0.12361111111111112in"
-height="0.14930555555555555in"} )
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_ordinamento_griglia.bmp](./assets/media/image170.png) )
 
 I pulsanti presenti nella corrispondente barra degli strumenti
 consentono rispettivamente di:
 
 **Elimina** **(**
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina.bmp](./assets/media/image202.png){width="0.3506944444444444in"
-height="0.18819444444444444in"} **)**: consente di eliminare
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina.bmp](./assets/media/image202.png) **)**: consente di eliminare
 definitivamente lo sprix attualmente selezionato in elenco.
 
 **ATTENZIONE!** il pulsante "Elimina" consente, ovviamente, di eliminare
@@ -72,29 +68,25 @@ gestionale ed è solo dal gestionale che potrà quindi essere fisicamente
 eliminato.
 
 **Modifica** **(**
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica.bmp](./assets/media/image171.png){width="0.3958333333333333in"
-height="0.18819444444444444in"} **)**: consente di modificare i
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica.bmp](./assets/media/image171.png) **)**: consente di modificare i
 parametri di configurazione utilizzati per mappare lo sprix attualmente
 selezionato in elenco
 
 **Modifica Parametri**
-**(**![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_parametri_sprix.bmp](./assets/media/image203.png){width="0.7534722222222222in"
-height="0.1951388888888889in"} **)**: consente di accedere alla gestione
+**(**![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_parametri_sprix.bmp](./assets/media/image203.png) **)**: consente di accedere alla gestione
 dei parametri dello sprix attualmente selezionato in elenco (per
 maggiori informazioni in merito si vedano anche i successivi capitoli di
 questo manuale)
 
 **Nuovo**
-**(**![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuovo.bmp](./assets/media/image204.png){width="0.325in"
-height="0.1951388888888889in"} **)**: consente di mappare un nuovo sprix
+**(**![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuovo.bmp](./assets/media/image204.png) **)**: consente di mappare un nuovo sprix
 (che, ovviamente, dovrà essere già stato creato all'interno del
 gestionale)
 
 Cliccando su questo pulsante verrà quindi visualizzata la maschera
 "**Nuovo Sprix**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuovo_sprix.bmp](./assets/media/image205.png){width="5.519444444444445in"
-height="3.201388888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuovo_sprix.bmp](./assets/media/image205.png)
 
 all'interno della quale poter indicare, innanzitutto, un valore per il
 parametro "Tipologia"

@@ -35,8 +35,7 @@ presente alla pagina "**Sito -- Preferenze**" del wizard (tab
 "**Tracciamento Dati**" sezione "**Eventi Ecommerce per Google Analytics
 e Google Tag Manager**") sul valore "Server"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\import_conversioni_offline_1.bmp](./assets/media/image27.png){width="5.813194444444444in"
-height="3.3333333333333335in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\import_conversioni_offline_1.bmp](./assets/media/image27.png)
 
 potremmo avere, sostanzialmente, la certezza che l'evento di purchase
 venga comunque registrato su Google Analytics anche nel momento in cui
@@ -165,8 +164,7 @@ questo tipo di conversioni, di base, è il seguente:
 > ordine il relativo documento Passweb verrà automaticamente marcato
 > come "**Esportato su Google Ads**"
 
-![Videate\\ordine_esportato_su_ads.bmp](./assets/media/image28.png){width="5.766666666666667in"
-height="3.3in"}
+![Videate\\ordine_esportato_su_ads.bmp](./assets/media/image28.png)
 
 > assumendo per l'appunto che i dati della conversione siano già stati
 > inviati correttamente alla relativa piattaforma
@@ -182,8 +180,7 @@ height="3.3in"}
 > Per questa ragione il relativo documento Passweb verrà automaticamente
 > marcato come "**Non ancora esportato su Google Ads**"
 
-![Videate\\ordine_non_esportato_su_ads.bmp](./assets/media/image29.png){width="5.766666666666667in"
-height="3.3in"}
+![Videate\\ordine_non_esportato_su_ads.bmp](./assets/media/image29.png)
 
 - I documenti marcati come "**Non ancora esportati su Google Ads**"
   potranno essere inseriti, in un secondo momento, in un file prodotto

@@ -5,8 +5,7 @@
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_ordini_configurazione_res.bmp](./assets/media/image406.png){width="4.3805555555555555in"
-height="3.0861111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_ordini_configurazione_res.bmp](./assets/media/image406.png)
 
 suddivisa in varie sezioni.
 
@@ -122,21 +121,18 @@ possibile selezionare uno dei seguenti valori:
   documenti generati a seguito della vendita (**Ecommerce**) di un
   determinato prodotto
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\horeca_componente_ecommerce_ordini_esempio.bmp](./assets/media/image407.png){width="5.31875in"
-height="4.435416666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\horeca_componente_ecommerce_ordini_esempio.bmp](./assets/media/image407.png)
 
 - **Prenotazioni:** selezionando questa opzione all'interno del
   componente verrà visualizzato solo ed esclusivamente la sezione
   relativa alle prenotazioni web
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\horeca_componente_ecommerce_ordini_esempio2.bmp](./assets/media/image408.png){width="5.398611111111111in"
-height="4.435416666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\horeca_componente_ecommerce_ordini_esempio2.bmp](./assets/media/image408.png)
 
 - **Ordini e Prenotazioni:** selezionando questa opzione all'interno del
   componente verranno visualizzate sia le sezioni relative a documenti
   generati a seguito della vendita (ecommerce) di un determinato
   prodotto, sia quella relativa alle prenotazioni web
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\horeca_componente_ecommerce_ordini_configurazione3.bmp](./assets/media/image409.png){width="5.214583333333334in"
-height="4.411111111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\horeca_componente_ecommerce_ordini_configurazione3.bmp](./assets/media/image409.png)
 

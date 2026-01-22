@@ -13,14 +13,12 @@ relative ai visitatori del sito, filtrare le visite dei soli utenti
 autenticati e cliccare questa volta sul nome dell'utente interessato
 (presente all'interno della colonna "**Utente**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\attivita_per_utente_1.bmp](./assets/media/image46.png){width="5.98125in"
-height="3.515277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\attivita_per_utente_1.bmp](./assets/media/image46.png)
 
 In questo modo, infatti, verrà visualizzata la maschera "**Attività per
 Utente**" evidenziata in figura
 
-![Videate\\statistiche_attivita_per_utente.bmp](./assets/media/image43.png){width="5.98125in"
-height="3.515277777777778in"}
+![Videate\\statistiche_attivita_per_utente.bmp](./assets/media/image43.png)
 
 all'interno della quale poter visualizzare il dettaglio delle pagine
 visitate e delle attività effettuate da quello stesso utente **durante
@@ -32,8 +30,7 @@ Il pannello di ricerca presente immediatamente al di sopra della tabella
 consente di filtrare i dai in griglia in base alla specifica attività
 registrata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\attivita_per_utente_2.bmp](./assets/media/image47.png){width="5.98125in"
-height="3.515277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\attivita_per_utente_2.bmp](./assets/media/image47.png)
 
 **ATTENZIONE! Le attività tracciabili sono solo ed esclusivamente quelle
 indicate in elenco ossia:**

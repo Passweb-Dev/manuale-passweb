@@ -10,8 +10,7 @@ le pagine cui si deciderà di associare il layout in questione.
 > il tasto funzione **"F11"**. Per tornare alla modalità di
 > visualizzazione originale utilizzare il tasto "ESC"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\inserimento_js_personalizzato_res.bmp](./assets/media/image166.png){width="4.588888888888889in"
-height="2.1104166666666666in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\inserimento_js_personalizzato_res.bmp](./assets/media/image166.png)
 
 Anche in questo, caso, come già per la sezione CSS sono attivi, i
 seguenti tasti funzione:

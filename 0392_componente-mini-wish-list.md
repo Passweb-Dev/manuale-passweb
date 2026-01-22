@@ -5,15 +5,13 @@
 Il Componente **"Mini Wishlist"** può essere inserito in una qualsiasi
 pagina del sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_mini_wish.bmp](./assets/media/image209.png){width="2.828472222222222in"
-height="2.8222222222222224in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_mini_wish.bmp](./assets/media/image209.png)
 
 Grazie a questo componente è possibile visualizzare tutta una serie di
 informazioni, aggiornate in tempo reale, relative agli articoli
 attualmente presenti nella Wishlist corrente
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mini_wish_res.bmp](./assets/media/image210.png){width="5.5152777777777775in"
-height="3.8652777777777776in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mini_wish_res.bmp](./assets/media/image210.png)
 
 In particolare le informazioni presenti all'interno del componente
 possono essere:

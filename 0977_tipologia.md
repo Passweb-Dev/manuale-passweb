@@ -8,8 +8,7 @@ tipologie di Wishlist attivabili all'interno del sito.
 Effettuando l'accesso verrà visualizzata la maschera **"Lista
 Tipologie"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_tipologie.bmp](./assets/media/image287.png){width="5.610416666666667in"
-height="3.3048611111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_tipologie.bmp](./assets/media/image287.png)
 
 all'interno della quale poter trovare le due tipologie di Wishlist
 gestibili all'interno del sito:
@@ -32,12 +31,10 @@ gestibili all'interno del sito:
 > Liste Regalo"* di questo manuale.
 
 Il pulsante "**Modifica Tipologia**"
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_tipologia.bmp](./assets/media/image288.png){width="0.6625in"
-height="0.18819444444444444in"} ) consente di accedere alla maschera di
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_tipologia.bmp](./assets/media/image288.png) ) consente di accedere alla maschera di
 configurazione della Tipologia attualmente selezionata in elenco.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\maschera_modifica_tipologia.bmp](./assets/media/image289.png){width="6.090972222222222in"
-height="3.577777777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\maschera_modifica_tipologia.bmp](./assets/media/image289.png)
 
 I campi presenti all'interno di questa maschera consentono
 rispettivamente di:
@@ -51,8 +48,7 @@ rispettivamente di:
 > nel componente Wishlist (campo "**Tipologia**"), nel momento in cui
 > questo stesso utente dovesse decidere di salvare una Wishlist.
 
-![Videate\\wishlist_custom_configurazione_res_2.bmp](./assets/media/image290.png){width="5.084722222222222in"
-height="2.863888888888889in"}
+![Videate\\wishlist_custom_configurazione_res_2.bmp](./assets/media/image290.png)
 
 > **ATTENZIONE!** Il campo Tipologia verrà visualizzato, ovviamente,
 > solo ad utenti autenticati e solo nel caso in cui il per il relativo
@@ -60,8 +56,7 @@ height="2.863888888888889in"}
 > configurazione del componente stesso) il parametro "**Gestione Lista
 > Regalo"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\wl_lista_regalo_1.bmp](./assets/media/image291.png){width="5.909027777777778in"
-height="3.967361111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\wl_lista_regalo_1.bmp](./assets/media/image291.png)
 
 - **Email -- presente solo per la tipologia** "**Lista Regalo"**.
   Consente di attivare la condivisione delle Liste Regalo anche via
@@ -71,8 +66,7 @@ height="3.967361111111111in"}
 > condivisione della Lista Regalo sul front end del sito, comparirà
 > anche la sezione "**Condividi tramite Email**"
 
-![Videate\\wl_lista_regalo_5.bmp](./assets/media/image292.png){width="5.084722222222222in"
-height="2.7729166666666667in"}
+![Videate\\wl_lista_regalo_5.bmp](./assets/media/image292.png)
 
 > all'interno della quale poter indicare, nei rispettivi campi, l'elenco
 > degli indirizzi mail di quelli che dovranno essere gli "invitati" alla
@@ -103,8 +97,7 @@ height="2.7729166666666667in"}
   creazione della Lista Regalo il campo relativo alla selezione
   dell'indirizzo di spedizione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\lista_regalo_tipologia_indirizzo.bmp](./assets/media/image293.png){width="5.090972222222222in"
-height="3.6041666666666665in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\lista_regalo_tipologia_indirizzo.bmp](./assets/media/image293.png)
 
 > Nel caso in cui, dunque, si dovesse decidere di non selezionare questo
 > parametro, poi in fase di creazione della Wishlist l'utente del sito
@@ -120,8 +113,7 @@ height="3.6041666666666665in"}
 - **Template**: consente di impostare il template che dovrà poi essere
   utilizzato nella stampa delle relative Wishlist.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\stampa_wish.bmp](./assets/media/image294.png){width="5.792361111111111in"
-height="3.422222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\stampa_wish.bmp](./assets/media/image294.png)
 
 > Nel momento in cui l'esigenza dovesse essere dunque quella di
 > personalizzare la stampa delle Liste Regalo di una determinata
@@ -159,8 +151,7 @@ in cui dovrà essere inserita la nuova informazione, sarà sufficiente
 cliccare sul pulsante "**Seleziona un segnaposto ...**" per visualizzare
 l'elenco di tutti i segnaposto disponibili.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\stampa_wish_3.bmp](./assets/media/image295.png){width="5.792361111111111in"
-height="3.422222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\stampa_wish_3.bmp](./assets/media/image295.png)
 
 Selezionando quindi il segnaposto desiderato tra quelli presenti in
 elenco, Passweb provvederà poi ad inserire automaticamente nel template
@@ -291,8 +282,7 @@ disponibile anche un pulsante "**Stampa**" mediante il quale poter
 stampare il dettaglio della Wishlist in esame secondo il Template
 precedentemente definito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\stampa_wish_4.bmp](./assets/media/image296.png){width="5.5256944444444445in"
-height="3.2729166666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\stampa_wish_4.bmp](./assets/media/image296.png)
 
 Infine, in relazione a questo tipo di stampe è bene sottolineare anche
 che:

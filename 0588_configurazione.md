@@ -5,8 +5,7 @@
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_dettaglio_news_res.bmp](./assets/media/image9.png){width="4.610416666666667in"
-height="3.084722222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_dettaglio_news_res.bmp](./assets/media/image9.png)
 
 suddivisa in varie sezioni.
 

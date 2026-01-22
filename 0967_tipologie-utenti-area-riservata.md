@@ -46,8 +46,7 @@ NON Passcom**.
   all'interno di Passweb attraverso la relativa maschera di creazione
   Nuovo Utente.
 
-> ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\passcom_nuovo_utente.bmp](./assets/media/image242.png){width="5.895833333333333in"
-> height="3.4805555555555556in"}
+> ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\passcom_nuovo_utente.bmp](./assets/media/image242.png)
 >
 > Tali utenti potranno quindi essere presenti indipendentemente dal
 > fatto che il sito sia collegato o meno ad un'installazione di Passcom
@@ -170,22 +169,19 @@ Gestionale dei Commercialisti"** presente alla pagina **"Parametri di
 Configurazione"** del Wizard (vedi anche sezione "CONFIGURAZIONE -
 Parametri Configurazione" di questo manuale).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gerarchia_utenti_passcom_1.bmp](./assets/media/image243.png){width="5.895833333333333in"
-height="3.4805555555555556in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gerarchia_utenti_passcom_1.bmp](./assets/media/image243.png)
 
 Per poter definire questa tipologia di utenti occorre dunque, per prima
 cosa, creare attraverso le apposite funzioni di servizio uno specifico
 gruppo di utenti chiamato, ad esempio, DOTTCOMM:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gerarchia_utenti_1.comm.bmp](./assets/media/image244.png){width="4.590972222222222in"
-height="2.584722222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gerarchia_utenti_1.comm.bmp](./assets/media/image244.png)
 
 All' interno di questo gruppo andranno quindi inseriti tutti gli quegli
 utenti che, per il sito web, dovranno essere considerati come Utenti
 Passcom di tipo COMMERCIALISTA:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gerarchia_utenti_2.comm.bmp](./assets/media/image245.png){width="3.9805555555555556in"
-height="1.8375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gerarchia_utenti_2.comm.bmp](./assets/media/image245.png)
 
 Per maggiori informazioni relativamente alla creazione di gruppi e
 utenti in Passcom si rimanda all'apposito manuale.
@@ -256,8 +252,7 @@ al sito avrà la possibilità di:
 > selezionato la comunicazione con gruppi collocati ad un livello
 > gerarchico più alto potrà avvenire solo a livello di interi gruppi.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_gruppo_passcom.bmp](./assets/media/image246.png){width="5.486805555555556in"
-height="3.5520833333333335in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_gruppo_passcom.bmp](./assets/media/image246.png)
 
 **NOTA BENE:** il gruppo automatico **Dottore Commercialista** nasce a
 default con i parametri "Comunicazione tra utenti" e "Gestione SMS"
@@ -329,8 +324,7 @@ cosa, creare attraverso le apposite funzioni di servizio un gruppo di
 utenti con nome diverso da quello utilizzato per identificare gli Utenti
 Passcom di tipo COMMERCIALISTA.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gerarchia_utenti_4.comm.bmp](./assets/media/image247.png){width="4.604166666666667in"
-height="2.5909722222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gerarchia_utenti_4.comm.bmp](./assets/media/image247.png)
 
 Occorrerà quindi associare a questo gruppo un' insieme di aziende da
 poter gestire e ovviamente occorrerà inserire al suo interno tutti gli
@@ -386,8 +380,7 @@ sito avrà la possibilità di:
 > selezionato la comunicazione con gruppi collocati ad un livello
 > gerarchico più alto potrà avvenire solo a livello di interi gruppi.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_gruppo_passcom.bmp](./assets/media/image246.png){width="5.486805555555556in"
-height="3.5520833333333335in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_gruppo_passcom.bmp](./assets/media/image246.png)
 
 **NOTA BENE:** il gruppo automatico **Dipendenti** nasce a default con i
 parametri "Comunicazione tra utenti" e "Gestione SMS" selezionati e
@@ -455,8 +448,7 @@ selezionare all'interno di Passcom l'azienda in esame, accedere alla
 maschera "*Dati Aziendali (F4 da "Anagrafica Azienda") -- Configurazione
 Moduli -- Collegamento sito commercialista*" qui di seguito riportata:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gestione_sito_19-a.comm.bmp](./assets/media/image248.png){width="2.571527777777778in"
-height="0.9743055555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gestione_sito_19-a.comm.bmp](./assets/media/image248.png)
 
 e impostare il valore del parametro "Stato" ad **Attivato.**
 
@@ -484,8 +476,7 @@ a)  Utenti di tipo AZIENDA identificativi di aziende dell'installazione
 > Login e Password presenti nella maschera *Collegamento sito
 > commercialista* precedentemente analizzata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gestione_sito_19-b.comm.bmp](./assets/media/image249.png){width="2.571527777777778in"
-height="0.9743055555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gestione_sito_19-b.comm.bmp](./assets/media/image249.png)
 
 > **ATTENZIONE!** Oltre ad attivare l'azienda per l'esportazione sul
 > sito, sarà necessario, prima di eseguire la sincronizzazione,
@@ -505,8 +496,7 @@ height="0.9743055555555555in"}
 > *Configurazione Moduli -- Collegamento sito commercialista*" ed
 > impostare il valore del parametro "Stato" sul valore **Reimposta**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gestione_sito_19-c.comm.bmp](./assets/media/image250.png){width="2.571527777777778in"
-height="0.9743055555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gestione_sito_19-c.comm.bmp](./assets/media/image250.png)
 
 > In questo modo i campi Login e Password verranno automaticamente
 > impostati sui seguenti valori:
@@ -571,8 +561,7 @@ di:
 > selezionato la comunicazione con gruppi collocati ad un livello
 > gerarchico più alto potrà avvenire solo a livello di interi gruppi.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_gruppo_passcom.bmp](./assets/media/image246.png){width="5.486805555555556in"
-height="3.5520833333333335in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_gruppo_passcom.bmp](./assets/media/image246.png)
 
 - inserire attività o scadenze nella propria agenda oltre che in quella
   di utenti (siano essi Utenti Passcom o Utenti NON Passcom)
@@ -636,8 +625,7 @@ la voce *"Utenti -- Utenti Sito".*
 All'interno di questa sezione verrà infatti visualizzata la maschera
 "**Lista Utenti"** precedentemente analizzata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_utenti_NOBP_2.comm.bmp](./assets/media/image223.png){width="5.825in"
-height="3.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_utenti_NOBP_2.comm.bmp](./assets/media/image223.png)
 
 e attraverso cui poter visualizzare e gestire le anagrafiche di tutti
 gli utenti abilitati ad accedere all'Area Riservata del sito web.
@@ -676,8 +664,7 @@ definiti all'interno di Passweb attraverso l'apposita maschera di
 creazione Nuovo Utente e per i quali il parametro **"Tipologia"** è
 stato impostato sul valore **Commercialista.**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuovo_utente_NOBP1.bmp](./assets/media/image251.png){width="5.825in"
-height="3.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuovo_utente_NOBP1.bmp](./assets/media/image251.png)
 
 **NOTA BENE:** una volta confermata l'anagrafica, la tipologia
 dell'utente non potrà più essere modificata.
@@ -767,8 +754,7 @@ definiti all'interno di PassWeb attraverso l'apposita maschera di
 creazione Nuovo Utente e per i quali il parametro **"Tipologia"** è
 stato impostato sul valore **Dipendente.**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuovo_utente_NOBP1a.bmp](./assets/media/image252.png){width="5.825in"
-height="3.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuovo_utente_NOBP1a.bmp](./assets/media/image252.png)
 
 **NOTA BENE:** una volta confermata l'anagrafica, la tipologia
 dell'utente non potrà più essere modificata.
@@ -855,8 +841,7 @@ all'interno di Passweb attraverso l'apposita maschera di creazione Nuovo
 Utente e per i quali il parametro **"Tipologia"** è stato impostato sul
 valore **Azienda.**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuovo_utente_NOBP1b.bmp](./assets/media/image253.png){width="5.825in"
-height="3.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuovo_utente_NOBP1b.bmp](./assets/media/image253.png)
 
 **NOTA BENE:** una volta confermata l'anagrafica, la tipologia
 dell'utente non potrà più essere modificata.

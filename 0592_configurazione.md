@@ -5,8 +5,7 @@
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_indice_libro_res.bmp](./assets/media/image13.png){width="4.616666666666666in"
-height="3.077777777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_indice_libro_res.bmp](./assets/media/image13.png)
 
 suddivisa in varie sezioni.
 
@@ -113,8 +112,7 @@ E' possibile selezionare uno tra i seguenti valori.
 > pulsante di apertura verrà utilizzata la classica icona, normalmente
 > presente (soprattutto in ambito mobile), per gestire questo tipo di
 > elementi
-> ![Videate\\icona_menu_offcanvas.bmp](./assets/media/image14.png){width="0.2465277777777778in"
-> height="0.21458333333333332in"}
+> ![Videate\\icona_menu_offcanvas.bmp](./assets/media/image14.png)
 
 - **Treeview:** selezionando questo valore verranno visualizzate
   soltanto le voci dell'indice libro di primo livello. Eventuali

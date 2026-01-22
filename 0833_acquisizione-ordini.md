@@ -18,8 +18,7 @@ Per abilitare questo tipo di gestione è necessario impostare il
 parametro "**Creare ordini in Passweb**", presente nella maschera di
 configurazione dell'Account eBay, sul valore **SI**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_64.bmp](./assets/media/image165.png){width="5.616666666666666in"
-height="3.4611111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_64.bmp](./assets/media/image165.png)
 
 In questo caso inoltre è possibile impostare anche il sezionale del
 gestionale in cui dovranno essere memorizzati gli ordini provenienti da
@@ -68,8 +67,7 @@ L'importazione su Passweb degli ordini effettuati su uno dei marketplace
 eBay, infine, può avvenire in due modi diversi:
 
 - **Manualmente**, cliccando sul pulsante **Sincro Ordini** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_sincro_ordini_ebay.bmp](./assets/media/image45.png){width="0.50625in"
-  height="0.18194444444444444in"} ) presente nella barra degli strumenti
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_sincro_ordini_ebay.bmp](./assets/media/image45.png) ) presente nella barra degli strumenti
   della maschera "**Lista degli Account eBay**" dopo aver selezionato
   uno degli Account presenti in elenco.
 
@@ -110,8 +108,7 @@ eBay, infine, può avvenire in due modi diversi:
 automaticamente una nota di corpo contenente la data e l'identificativo
 assegnati all'ordine su eBay**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\ebay_67.bmp](./assets/media/image166.png){width="5.253472222222222in"
-height="2.623611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\ebay_67.bmp](./assets/media/image166.png)
 
 Si ricorda inoltre che le spese di trasporto relative ad ordini
 provenienti da eBay sono gestite mediante appositi articoli di tipo

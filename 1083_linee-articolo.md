@@ -5,8 +5,7 @@
 La sezione **"Linee Articolo"** consente di associare la Spesa
 Accessoria che si sta codificando ad una o più linee articolo.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\spese_accessorie_linee_articolo.bmp](./assets/media/image422.png){width="5.584722222222222in"
-height="3.441666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\spese_accessorie_linee_articolo.bmp](./assets/media/image422.png)
 
 Per creare un'associazione "Linea Articolo -- Spesa Accessoria" è
 sufficiente selezionare la Linea desiderata dall'elenco presente nel box

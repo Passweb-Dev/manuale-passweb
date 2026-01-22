@@ -7,8 +7,7 @@ esame ad uno o più Gruppi di utenti appositamente creati. In questo modo
 dunque, il metodo di spedizione in oggetto verrà poi proposto solo ed
 esclusivamente agli utenti appartenenti al gruppo o ai gruppi indicati.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\metodo_trasporto_gruppi_utente.bmp](./assets/media/image294.png){width="5.584722222222222in"
-height="3.441666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\metodo_trasporto_gruppi_utente.bmp](./assets/media/image294.png)
 
 Nello specifico per associare al metodo di trasporto in questione un
 Gruppo Utenti, sarà sufficiente selezionarlo dal box di sinistra ed

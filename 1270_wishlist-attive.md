@@ -6,8 +6,7 @@ All'interno di questa sezione è possibile visualizzare informazioni
 dettagliate relativamente a quelle che sono le **Wishlist Attive** per
 il proprio sito web
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\report_wishlist_attive.bmp](./assets/media/image17.png){width="6.0125in"
-height="3.5340277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\report_wishlist_attive.bmp](./assets/media/image17.png)
 
 Come per i Carrelli anche le Wishlist sono considerate attive nel
 momento in cui utente inserisce almeno un articolo al suo interno e
@@ -41,6 +40,5 @@ Cliccando su uno qualsiasi degli elementi presenti in griglia sarà poi
 possibile visualizzare, ed eventualmente stampare (pulsante "Stampa") il
 dettaglio del relativo carrello.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\statistiche_wishlist_attive_dettaglio.bmp](./assets/media/image18.png){width="6.0125in"
-height="3.5340277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\statistiche_wishlist_attive_dettaglio.bmp](./assets/media/image18.png)
 

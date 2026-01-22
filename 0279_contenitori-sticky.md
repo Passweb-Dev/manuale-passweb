@@ -6,8 +6,7 @@ Per rendere un contenitore Sticky, fissandolo cioè in una specifica
 posizione della pagina, è sufficiente selezionare il relativo parametro
 presente nella maschera di configurazione del Contenitore stesso
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\contenitore_sticky_0.bmp](./assets/media/image91.png){width="5.110416666666667in"
-height="3.0909722222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\contenitore_sticky_0.bmp](./assets/media/image91.png)
 
 **Sticky:** consente di "fissare" il Contenitore in esame in una
 specifica posizione, mantenendolo quindi sempre visibile allo scrolling

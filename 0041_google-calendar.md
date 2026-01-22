@@ -7,8 +7,7 @@ La sezione **Google Calendar** presente alla voce "*Sito -- Preferenze
 per l'integrazione tra l'Agenda, presente nell'Area Riservata del
 proprio sito, e Google Calendar
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_calendar_configurazione_1.bmp](./assets/media/image95.png){width="5.532638888888889in"
-height="3.584722222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_calendar_configurazione_1.bmp](./assets/media/image95.png)
 
 Una volta impostati correttamente questi parametri di configurazione,
 gli utenti abilitati ad accedere all'Area Riservata del sito potranno
@@ -35,69 +34,59 @@ seguito indicata:
 1.  Accedere all'indirizzo <https://console.developers.google.com>
     utilizzando il proprio account Google
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login23.bmp](./assets/media/image70.png){width="5.013194444444444in"
-height="2.8375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login23.bmp](./assets/media/image70.png)
 
 2.  Aprire il menu a tendina posizionato nella parte alta della pagina e
     creare poi un nuovo progetto cliccando sulla relativa voce
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login71.bmp](./assets/media/image71.png){width="5.220833333333333in"
-height="2.8569444444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login71.bmp](./assets/media/image71.png)
 
 3.  Una volta avviata la creazione di un nuovo progetto sarà necessario
     assegnargli un nome (es. Google Calendar) e cliccare poi sul
     pulsante **Crea**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login25.bmp](./assets/media/image72.png){width="5.090972222222222in"
-height="2.714583333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_web_login25.bmp](./assets/media/image72.png)
 
 4.  Completata la creazione del progetto accedere alla sezione
     "**Libreria**" cliccando per questo sulla relativa voce di menu
     presente sulla sinistra della pagina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_preferenze_integrazioni_gmap_6.bmp](./assets/media/image73.png){width="5.00625in"
-height="3.1819444444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_preferenze_integrazioni_gmap_6.bmp](./assets/media/image73.png)
 
 5.  Selezionare quindi, tra quelle presenti in Libreria, le api relative
     a **Google Calendar** (cercandole eventualmente mediante l'apposito
     campo di ricerca)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_calendar_1.bmp](./assets/media/image96.png){width="5.311805555555556in"
-height="3.0194444444444444in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_calendar_1.bmp](./assets/media/image96.png)
 
 > e successivamente cliccare sul pulsante "**Abilita**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_calendar_2.bmp](./assets/media/image97.png){width="5.090972222222222in"
-height="2.714583333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_calendar_2.bmp](./assets/media/image97.png)
 
 6.  Una volta abilitate le API di cui al punto precedente, aprire il
     menu di navigazione cliccando sul relativo pulsante presente nella
     parte alta della pagina e selezionare la voce "**API e servizi -
     Credenziali**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_preferenze_integrazioni_gmap_6c.bmp](./assets/media/image76.png){width="5.00625in"
-height="3.1819444444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_preferenze_integrazioni_gmap_6c.bmp](./assets/media/image76.png)
 
 7.  Verificare innanzitutto di aver configurato correttamente la
     schermata di consenso e, se questo non fosse già stato fatto,
     cliccare sul relativo pulsante "**Configura Schermata di Consenso**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_calendar_3.bmp](./assets/media/image98.png){width="5.090972222222222in"
-height="2.714583333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_calendar_3.bmp](./assets/media/image98.png)
 
 8.  In fase di configurazione della schermata di consenso impostare il
     parametro "**User Type**" sul valore "**Esterno**" e cliccare poi
     sul pulsante "**Crea**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_calendar_4.bmp](./assets/media/image99.png){width="5.090972222222222in"
-height="2.714583333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_calendar_4.bmp](./assets/media/image99.png)
 
 9.  Completare il successivo form inserendo i dati richiesti (nome
     dell'applicazione, email per assistenza, domini autorizzati ...) e
     cliccare poi sul pulsante "**Salva e Continua**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_calendar_5.bmp](./assets/media/image100.png){width="5.090972222222222in"
-height="3.467361111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_calendar_5.bmp](./assets/media/image100.png)
 
 > **ATTENZIONE!** l'inserimento di alcuni dati (es. logo
 > dell'applicazione) potrebbe poi richiedere, prima di passare in
@@ -107,8 +96,7 @@ height="3.467361111111111in"}
     Continua**" posto nella parte bassa della pagina senza aggiungere
     altro
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_calendar_6.bmp](./assets/media/image101.png){width="5.090972222222222in"
-height="3.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_calendar_6.bmp](./assets/media/image101.png)
 
 > **ATTENZIONE!** E' comunque necessario aver attivato correttamente le
 > API di Google Calendar come descritto al punto 5
@@ -119,8 +107,7 @@ height="3.545138888888889in"}
     Google Calendar nel momento in cui lo stato dell'app che stiamo
     realizzando dovesse essere ancora "**Test in corso**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_calendar_7.bmp](./assets/media/image102.png){width="5.090972222222222in"
-height="3.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_calendar_7.bmp](./assets/media/image102.png)
 
 > **ATTENZIONE!** Per consentire a tutti gli utenti del sito di
 > sfruttare l'integrazione tra l'Agenda in Area Riservata e il loro
@@ -132,8 +119,7 @@ height="3.545138888888889in"}
 > volta sul pulsante "**Salva e Continua**" e successivamente nella
 > maschera di riepilogo cliccare su "**Torna alla Dashboard**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_calendar_8.bmp](./assets/media/image103.png){width="5.090972222222222in"
-height="3.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_calendar_8.bmp](./assets/media/image103.png)
 
 12. Completata la creazione della schermata di consenso la nostra App
     sarà ancora nello stato "**Test in corso**" per cui, in queste
@@ -144,8 +130,7 @@ height="3.545138888888889in"}
 > Per modificare lo stato dell'App sarà sufficiente cliccare sul
 > pulsante "**Pubblica l'App**" evidenziato in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_calendar_9.bmp](./assets/media/image104.png){width="5.325in"
-height="3.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_calendar_9.bmp](./assets/media/image104.png)
 
 > **ATTENZIONE!** Dipendentemente dai dati inseriti la pubblicazione
 > dell'App potrebbe essere soggetta a verifica da parte di Google.
@@ -157,8 +142,7 @@ height="3.545138888888889in"}
 > attraverso un apposito messaggio, che l'App in esame non è ancora
 > stata verificata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_calendar_18.bmp](./assets/media/image105.png){width="5.49375in"
-height="3.2597222222222224in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_calendar_18.bmp](./assets/media/image105.png)
 
 > In queste condizioni è comunque possibile procedere attivando
 > l'integrazione in maniera tale che il messaggio evidenziato non sia
@@ -177,20 +161,17 @@ height="3.2597222222222224in"}
 > Portarsi quindi all'interno della sezione "Credenziali" cliccando per
 > questo sulla relativa voce di menu posta sulla sinistra della pagina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_calendar_10.bmp](./assets/media/image106.png){width="5.325in"
-height="3.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_calendar_10.bmp](./assets/media/image106.png)
 
 14. Cliccare quindi sulla voce "**Crea Credenziali**" e successivamente
     sulla voce "**ID client OAuth**" evidenziata in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_calendar_11.bmp](./assets/media/image107.png){width="5.325in"
-height="3.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_calendar_11.bmp](./assets/media/image107.png)
 
 15. Compilare la successiva maschera di creazione delle credenziali come
     di seguito indicato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_calendar_12.bmp](./assets/media/image108.png){width="5.325in"
-height="3.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_calendar_12.bmp](./assets/media/image108.png)
 
 - **Tipo di applicazione**: selezionare "**Applicazione web**"
 
@@ -199,8 +180,7 @@ height="3.545138888888889in"}
 16. Cliccare sul pulsante "**Aggiungi URI**" presente in corrispondenza
     della sezione "**URI di reindirizzamento autorizzati**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_calendar_13.bmp](./assets/media/image109.png){width="5.325in"
-height="3.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_calendar_13.bmp](./assets/media/image109.png)
 
 > successivamente, inserire nel relativo campo di input il seguente
 > indirizzo
@@ -213,8 +193,7 @@ height="3.545138888888889in"}
     maschera contenente le due chiavi di configurazione da inserire
     all'interno del proprio sito Passweb
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_calendar_14.bmp](./assets/media/image110.png){width="5.325in"
-height="3.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_calendar_14.bmp](./assets/media/image110.png)
 
 > Copiare quindi il contenuto dei campi "**Il tuo ID client**" e "**Il
 > tuo client secret**" ed inserirlo rispettivamente all'interno dei
@@ -222,8 +201,7 @@ height="3.545138888888889in"}
 > Calendar**" presenti alla pagina "*Sito -- Preferenze --
 > Integrazioni*" del Wizard (sezione Google Calendar).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_calendar_configurazione_1.bmp](./assets/media/image95.png){width="5.532638888888889in"
-height="3.584722222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_calendar_configurazione_1.bmp](./assets/media/image95.png)
 
 A questo punto, nel momento in cui un utente del sito abilitato ad
 accedere in Area Riservata, dovesse andare nella pagina di gestione del
@@ -232,8 +210,7 @@ pulsante "**Sign in with Google"** con l'indicazione relativa al fatto
 che l'integrazione con il calendario di Google non è ancora stata
 attivata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_calendar_15.bmp](./assets/media/image111.png){width="5.701388888888889in"
-height="3.5in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_calendar_15.bmp](./assets/media/image111.png)
 
 **ATTENZIONE!** il pulsante "**Sign in with Google"** verrà visualizzato
 solo dopo aver inserito correttamente, nel Wizard di Passweb, le chiavi
@@ -242,8 +219,7 @@ di configurazione relative a Google Calendar
 Cliccando sul pulsante evidenziato in figura verrà chiesto all'utente di
 autenticarsi con il proprio account Google
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_calendar_16.bmp](./assets/media/image112.png){width="5.597222222222222in"
-height="3.4090277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_calendar_16.bmp](./assets/media/image112.png)
 
 Posto quindi che l'app di integrazione sia stata creata in maniera
 corretta e che si stata anche appositamente verificata da parte di
@@ -252,8 +228,7 @@ mostrata la schermata di consenso che l'utente dovrà approvare (pulsante
 "**Conferma**") per poter così attivare l'integrazione tra le due
 piattaforme
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_calendar_20.bmp](./assets/media/image113.png){width="5.49375in"
-height="3.2597222222222224in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_calendar_20.bmp](./assets/media/image113.png)
 
 **ATTENZIONE!** Nel caso in cui l'app di integrazione su Google dovesse
 essere ancora nello stato di "**Test in corso**" o, pur essendo "**In
@@ -270,30 +245,26 @@ In particolare, nel caso in cui:
   calendario di google (a meno che non sia uno degli utenti di test
   appositamente creati)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_calendar_17.bmp](./assets/media/image114.png){width="5.434722222222222in"
-height="3.2597222222222224in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_calendar_17.bmp](./assets/media/image114.png)
 
 - Nel caso in cui l'app di integrazione pur essendo posta nello stato
   "**In Produzione**" non sia stata ancora inviata a Google per la
   verifica, verrà visualizzato un apposito messaggio di warning per
   informare l'utente di questo fatto
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_calendar_18.bmp](./assets/media/image105.png){width="5.49375in"
-height="3.2597222222222224in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_calendar_18.bmp](./assets/media/image105.png)
 
 > In queste condizioni l'utente potrebbe comunque procedere cliccando su
 > "**Avanzate**" e successivamente su "**Apri
 > [www.urlsito.it](http://www.urlsito.it)**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_calendar_19.bmp](./assets/media/image115.png){width="5.49375in"
-height="3.2597222222222224in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_calendar_19.bmp](./assets/media/image115.png)
 
 > in maniera tale da accedere comunque alla schermata di consenso che
 > dovrà essere correttamente approvata (pulsante "**Continua**") per
 > garantire l'integrazione tra le due piattaforme
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_calendar_19b.bmp](./assets/media/image116.png){width="5.597222222222222in"
-height="3.4090277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_calendar_19b.bmp](./assets/media/image116.png)
 
 Una volta pubblicata l'app di integrazione e concesse tutte le
 autorizzazioni del caso l'integrazione tra l'Agenda Passweb e i
@@ -305,16 +276,14 @@ da utilizzare nel momento in cui si dovesse decidere di non utilizzare
 più questa integrazione e di limitare il salvataggio di nuove attività
 sulla propria Agenda Passweb
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_calendar_connesso.bmp](./assets/media/image117.png){width="5.701388888888889in"
-height="3.5in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\google_calendar_connesso.bmp](./assets/media/image117.png)
 
 Da questo momento in avanti in fase di creazione di nuovi calendari
 all'interno della propria Agenda Passweb, sarà possibile indicare anche
 l'id del calendario google su cui sincronizzare le nuove attività che
 verranno inserite su quello stesso calendario
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuovo_calendario_id_google_calendar.bmp](./assets/media/image118.png){width="2.9611111111111112in"
-height="1.792361111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuovo_calendario_id_google_calendar.bmp](./assets/media/image118.png)
 
 Per maggiori informazioni relativamente all'utilizzo dell'Agenda
 disponibile in Area Riservata Passweb e alla sua integrazione con Google

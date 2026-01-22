@@ -11,8 +11,7 @@ Analytics, utilizzando lo snippet di codice, presente all'interno del
 backoffice di Brainlead (sezione "**Web Visits**" -- campo "**Codice
 HTML**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\brainlead_codice_monitoraggio.bmp](./assets/media/image2.png){width="5.720833333333333in"
-height="3.515277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\brainlead_codice_monitoraggio.bmp](./assets/media/image2.png)
 
 e già inserito nativamente anche in Passweb, posto ovviamente di aver
 attivato il relativo modulo.
@@ -23,8 +22,7 @@ la corretta impostazione dei parametri window.\_bl_cid e
 window.\_bl_msid presenti alla pagina "**Sito -- Preferenze**" del
 Wizard (tab "**Tracciamento Dati**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\brainlead_tracciamento_client.bmp](./assets/media/image3.png){width="5.633333333333334in"
-height="3.515277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\brainlead_tracciamento_client.bmp](./assets/media/image3.png)
 
 In queste condizioni dunque, l'utente che si collega e naviga sul sito
 verrà inserito in una sessione collegata a dei cookie e il codice di
@@ -50,8 +48,7 @@ e che consentiranno poi a Brainlead stesso, se opportunamente
 configurato, di attivare determinate operazioni di marketing automation
 come ad esempio quella relativa ai carrelli abbandonati.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\timeline_brainlead.bmp](./assets/media/image4.png){width="5.720833333333333in"
-height="3.515277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\timeline_brainlead.bmp](./assets/media/image4.png)
 
 **ATTENZIONE! il tracciamento lato server prevede l'invio a Brainlead
 degli eventi di:**
@@ -66,8 +63,7 @@ e richiede la corretta impostazione del parametro "**Brainlead API
 Key**" presente alla pagina "**Sito -- Preferenze**" del Wizard (tab
 "**Tracciamento Dati**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\brainlead_tracciamento_server.bmp](./assets/media/image5.png){width="5.633333333333334in"
-height="3.515277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\brainlead_tracciamento_server.bmp](./assets/media/image5.png)
 
 Un'ulteriore considerazione di fondamentale importanza da fare è quella
 che riguarda poi l'effettiva visualizzazione dei dati inviati a

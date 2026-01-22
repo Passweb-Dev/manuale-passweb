@@ -126,8 +126,7 @@ serie di Taglie/Colori cui risulta associato il singolo prodotto.
 
 In particolare nel caso in cui il parametro "**Tipologia Serie**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\json-ld_serie_taglie.bmp](./assets/media/image6.png){width="5.532638888888889in"
-height="3.584722222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\json-ld_serie_taglie.bmp](./assets/media/image6.png)
 
 presente nella maschera di configurazione della Serie di Taglie / Colori
 cui appartiene l'articolo in esame dovesse essere impostato sull'opzione
@@ -145,8 +144,7 @@ degli array *"size" / "color"* saranno quelli definiti, per i singoli
 elementi della serie, in corrispondenza del campo "**Testo**" presente
 all'interno della maschera "**Modifica Elementi della Serie**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\json-ld_serie_taglie_2.bmp](./assets/media/image7.png){width="5.532638888888889in"
-height="3.584722222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\json-ld_serie_taglie_2.bmp](./assets/media/image7.png)
 
 In questo senso poi è bene sottolineare anche che, al fine di soddisfare
 la condizione obbligatoria secondo cui **quanto indicato all'interno del

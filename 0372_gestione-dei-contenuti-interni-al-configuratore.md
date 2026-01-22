@@ -49,8 +49,7 @@ In questo senso infatti è bene ricordare che
 > verranno visualizzati neppure eventuali componenti inseriti, lato
 > Wizard, all'interno del Configuratore stesso.**
 
-![Videate\\modalita_visualizzazione_lineare.bmp](./assets/media/image111.png){width="5.177777777777778in"
-height="3.4972222222222222in"}
+![Videate\\modalita_visualizzazione_lineare.bmp](./assets/media/image111.png)
 
 > In definitiva dunque, in queste condizioni, il componente
 > Configuratore verrà trattato come un normale componente che non
@@ -77,8 +76,7 @@ height="3.4972222222222222in"}
 > figlio e dipenderanno esattamente da quelli che sono i componenti
 > inseriti, lato Wizard, all'interno del Configuratore**
 
-![Videate\\modalita_visualizzazione_tabella_matrice.bmp](./assets/media/image114.png){width="5.177777777777778in"
-height="3.4972222222222222in"}
+![Videate\\modalita_visualizzazione_tabella_matrice.bmp](./assets/media/image114.png)
 
 > In definitiva dunque, in queste condizioni, il Configuratore verrà
 > trattato effettivamente come un Componente di tipo Contenitore e i

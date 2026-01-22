@@ -6,8 +6,7 @@ All'interno di questa sezione è possibile impostare tutti i parametri
 necessari per poter specificare come dovranno essere gestite all'interno
 del proprio sito le diverse prenotazioni.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_prenotazioni.bmp](./assets/media/image788.png){width="5.792361111111111in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_prenotazioni.bmp](./assets/media/image788.png)
 
 Nello specifico il campo:
 
@@ -80,8 +79,7 @@ stessi documenti, nella varie mail inviate in automatico
 dall'applicazione, sarà necessario agire all'interno dei relativi campi
 presenti nel Tab "**Documento**".
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_prenotazioni_documento.bmp](./assets/media/image789.png){width="5.441666666666666in"
-height="3.5256944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_prenotazioni_documento.bmp](./assets/media/image789.png)
 
 Nello specifico, i campi presenti all'interno di questa sezione
 consentono rispettivamente di:

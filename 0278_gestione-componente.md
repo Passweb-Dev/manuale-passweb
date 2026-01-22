@@ -10,14 +10,12 @@ componenti sarà necessario:
   sul corrispondente pulsante presente all'interno del menu di Editing
   del sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_editing_modifica_componente.bmp](./assets/media/image85.png){width="5.104166666666667in"
-height="3.0909722222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_editing_modifica_componente.bmp](./assets/media/image85.png)
 
 > o, in alternativa, sulla corrispondente icona presente nella Barra
 > degli Strumenti del Live Editing
 
-![Videate\\menu_editing_modifica_componente_2.bmp](./assets/media/image86.png){width="5.104166666666667in"
-height="3.5909722222222222in"}
+![Videate\\menu_editing_modifica_componente_2.bmp](./assets/media/image86.png)
 
 - Selezionare il Componente Contenitore desiderato, direttamente
   all'interno della pagina passandoci sopra con il mouse o, in
@@ -25,13 +23,11 @@ height="3.5909722222222222in"}
   del sito.
 
 - Cliccare sull'icona "**Accedi ai Componenti Interni**" (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_accedi_componenti_interni.bmp](./assets/media/image87.png){width="9.722222222222222e-2in"
-  height="0.14305555555555555in"} )" presente tanto nel R.O.C. del
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_accedi_componenti_interni.bmp](./assets/media/image87.png) )" presente tanto nel R.O.C. del
   componente, quanto nella barra degli strumenti dell'albero dei
   componenti
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componenti_interni_contenitore.bmp](./assets/media/image88.png){width="5.104166666666667in"
-height="3.0909722222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componenti_interni_contenitore.bmp](./assets/media/image88.png)
 
 - Una volta ottenuto l'accesso ai "Componenti interni al Contenitore"
   sarà sufficiente passare alla modalità di aggiunta nuovo componente,
@@ -60,15 +56,13 @@ componente quanto sulla barra strumenti dell'albero dei componenti
 presente nel menu di Editing del Sito
 
 - "**Vai al componente Padre**" (
-  ![Videate\\icona_vai_al_padre.bmp](./assets/media/image89.png){width="9.722222222222222e-2in"
-  height="0.11666666666666667in"} ): consente di risalire di un livello
+  ![Videate\\icona_vai_al_padre.bmp](./assets/media/image89.png) ): consente di risalire di un livello
   l'albero dei componenti portando quindi la selezione ed il focus sul
   componente di livello immediatamente superiore a quello attualmente
   selezionato.
 
 - "**Vai al componente di primo livello**" (
-  ![Videate\\icona_primo_livello.bmp](./assets/media/image90.png){width="0.12361111111111112in"
-  height="0.15555555555555556in"} ): consente di risalire l'albero di
+  ![Videate\\icona_primo_livello.bmp](./assets/media/image90.png) ): consente di risalire l'albero di
   due o più livelli contemporaneamente portando la selezione ed il focus
   sul componente di primo livello che contiene il componente attualmente
   selezionato.

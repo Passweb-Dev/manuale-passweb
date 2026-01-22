@@ -12,16 +12,14 @@ Per fare questo sarà necessario cliccare sul link "**Non sei più in
 possesso del codice?**" presente nella maschera di inserimento del
 codice a 6 cifre
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amministrazione_2fa_6.bmp](./assets/media/image11.jpeg){width="5.259722222222222in"
-height="3.3180555555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amministrazione_2fa_6.bmp](./assets/media/image11.jpeg)
 
 In questo modo si verrà infatti ricondotti ad una pagina in cui poter
 inserire l'indirizzo mail associato al proprio utente, indirizzo questo
 cui verrà inviata un'apposita mail contente il link da utilizzare per
 resettare la propria utenza.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amministrazione_2fa_7.bmp](./assets/media/image12.jpeg){width="5.259722222222222in"
-height="3.3180555555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amministrazione_2fa_7.bmp](./assets/media/image12.jpeg)
 
 Cliccando sul link presente all'interno di questa mail, l'utente verrà
 riportato nelle stesse condizioni in cui si trovava al primo accesso,
@@ -41,8 +39,7 @@ Volendo, infine, sarà possibile resettare la propria utenza anche agendo
 direttamente dalla pagina "**I Tuoi Dati**" accessibile cliccando sulla
 voce di menu "**Profilo**" evidenziata in figura:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amministrazione_profilo_utente.bmp](./assets/media/image13.png){width="5.065277777777778in"
-height="3.298611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\amministrazione_profilo_utente.bmp](./assets/media/image13.png)
 
 Cliccando sul pulsante "**Resetta**" l'utenza verrà riportata nelle
 condizioni iniziali e, al prossimo accesso, dopo aver inserito le

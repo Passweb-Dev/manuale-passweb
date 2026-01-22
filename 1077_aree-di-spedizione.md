@@ -7,8 +7,7 @@ configurazione di ogni Consegna consente di definire le aree geografiche
 (**identificate poi con i relativi indirizzi di spedizione merce**)
 entro cui la Consegna in esame dovrà essere ritenuta valida.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\delivery_aree_spedizione.bmp](./assets/media/image383.png){width="4.565277777777778in"
-height="1.6819444444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\delivery_aree_spedizione.bmp](./assets/media/image383.png)
 
 **ATTENZIONE!** Ovviamente affinché la consegna in esame possa essere
 effettivamente utilizzabile all'interno del sito è necessario assegnarle
@@ -72,15 +71,13 @@ degli strumenti della sezione "Aree di Spedizione", pulsanti questi che
 consentono rispettivamente di:
 
 **Italia** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_italia.bmp](./assets/media/image303.png){width="0.2791666666666667in"
-height="0.1951388888888889in"} ): consente di gestire le arre di
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_italia.bmp](./assets/media/image303.png) ): consente di gestire le arre di
 spedizione relative al territorio italiano.
 
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 "**Configurazione Italia**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_italia_delivery.bmp](./assets/media/image384.png){width="5.759722222222222in"
-height="3.3180555555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_italia_delivery.bmp](./assets/media/image384.png)
 
 all'interno della quale sarà necessario indicare un valore per i
 seguenti parametri:
@@ -197,16 +194,14 @@ In questo senso è necessario considerare anche le seguenti casistiche:
   quella nuova appena codificata.
 
 **Paesi Esteri** (
-![Videate\\pulsante_paesi_esteri.bmp](./assets/media/image385.png){width="0.5131944444444444in"
-height="0.21458333333333332in"} ): consente di associare alla consegna
+![Videate\\pulsante_paesi_esteri.bmp](./assets/media/image385.png) ): consente di associare alla consegna
 che si sta codificando una specifica area geografica all'interno di una
 nazione diversa dall'Italia.
 
 Cliccando su questo pulsante verrà visualizzata la maschera
 "**Configurazione Paesi Esteri**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\delivery_configurazione_paesi_esteri.bmp](./assets/media/image386.png){width="5.584722222222222in"
-height="3.441666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\delivery_configurazione_paesi_esteri.bmp](./assets/media/image386.png)
 
 all'interno della quale sarà necessario indicare un valore per i
 seguenti parametri:
@@ -241,15 +236,13 @@ dei caratteri effettivamente presenti nel relativo codice di avviamento
 postale.
 
 **Nazioni** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nazioni.bmp](./assets/media/image308.png){width="0.38333333333333336in"
-height="0.1951388888888889in"} ): consente di definire le arre di
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nazioni.bmp](./assets/media/image308.png) ): consente di definire le arre di
 consegna a livello di intere Nazioni
 
 Cliccando su questo pulsante verrà visualizzata la maschera
 "**Configurazione Nazioni**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\delivery_configurazione_nazioni.bmp](./assets/media/image387.png){width="5.584722222222222in"
-height="3.441666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\delivery_configurazione_nazioni.bmp](./assets/media/image387.png)
 
 all'interno della quale sarà necessario indicare un valore per i
 seguenti parametri:
@@ -279,16 +272,14 @@ selezionarla dall'elenco di destra e cliccare poi sul pulsante
 raffigurante la piccola freccia rossa rivolta verso sinistra
 
 **Importa da file**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_importa_da_file.bmp](./assets/media/image388.png){width="0.6166666666666667in"
-height="0.1951388888888889in"} ): consente di definire le varie aree
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_importa_da_file.bmp](./assets/media/image388.png) ): consente di definire le varie aree
 geografiche importandole in blocco da un file di tipo txt o csv
 appositamente formattato.
 
 Cliccando su questo pulsante verrà infatti visualizzata un'ulteriore
 sezione "**Importazione Aree da File**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\importazione_aree_da_file.bmp](./assets/media/image310.png){width="5.792361111111111in"
-height="3.5131944444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\importazione_aree_da_file.bmp](./assets/media/image310.png)
 
 all'interno della quale poter selezionare (campo **File**), importandolo
 ad esempio dal proprio pc, il file .txt o .csv con indicate tutte le
@@ -379,16 +370,14 @@ zona, un tempo di consegna aggiuntivo pari a due ore.
 > aree geografiche doppie o triple.
 
 **Esporta** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_esporta_testo.bmp](./assets/media/image311.png){width="0.3506944444444444in"
-height="0.18194444444444444in"} ): consente di esportare all'interno di
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_esporta_testo.bmp](./assets/media/image311.png) ): consente di esportare all'interno di
 un file csv, nello stesso formato valido anche per l'importazione,
 l'elenco di tutte le aree geografiche attualmente presenti in elenco.
 
 Cliccando su questo pulsante verrà infatti visualizzata un'ulteriore
 sezione "**Esportazione Aree**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\esportazione_aree.bmp](./assets/media/image312.png){width="5.792361111111111in"
-height="3.5131944444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\esportazione_aree.bmp](./assets/media/image312.png)
 
 all'interno della quale poter indicare il carattere separatore che dovrà
 essere utilizzato in fase di creazione del file csv.
@@ -397,13 +386,11 @@ Il pulsante "**Salva**" presente nella parte bassa della maschera
 consente di avviare la procedura di esportazione
 
 **Elimina Area** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_zona_geografica.bmp](./assets/media/image313.png){width="0.4673611111111111in"
-height="0.18194444444444444in"} ): consente di eliminare l'area
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_zona_geografica.bmp](./assets/media/image313.png) ): consente di eliminare l'area
 geografica attualmente selezionata in elenco
 
 **Svuota** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_svuota_area.bmp](./assets/media/image299.png){width="0.31180555555555556in"
-height="0.175in"} ): consente di eliminare in blocco tutte le aree
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_svuota_area.bmp](./assets/media/image299.png) ): consente di eliminare in blocco tutte le aree
 geografiche associate alla zona in esame
 
 Sulla base di quanto visto fino ad ora, dovrebbe ormai essere chiaro che

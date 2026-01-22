@@ -4,20 +4,17 @@
 
 All'interno della sezione "**Pagina Home / Logout Area Riservata**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\variante_res_pagina_logout.bmp](./assets/media/image41.png){width="5.149305555555555in"
-height="3.1569444444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\variante_res_pagina_logout.bmp](./assets/media/image41.png)
 
 è possibile impostare, per la Variante in esame, la pagina del sito cui
 dovrà essere indirizzato l'utente nel momento in cui dovesse cliccare:
 
 - sul pulsante di **Logout** presente in Area Riservata
 
-> ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\area_riservata_logout.bmp](./assets/media/image42.png){width="1.30625in"
-> height="1.0895833333333333in"}
+> ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\area_riservata_logout.bmp](./assets/media/image42.png)
 
 - sul pulsante **Home**
-  (![Videate\\ar_menu_home.bmp](./assets/media/image43.png){width="0.17916666666666667in"
-  height="0.17916666666666667in"}) presente anch'esso in Area Riservata:
+  (![Videate\\ar_menu_home.bmp](./assets/media/image43.png)) presente anch'esso in Area Riservata:
 
 Nel caso in cui non dovesse essere indicata nessuna pagina:
 
@@ -25,8 +22,7 @@ Nel caso in cui non dovesse essere indicata nessuna pagina:
   alla pagina di accesso all'area riservata stessa, pagina questa
   gestita in automatico dall'applicazione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\accesso_area_riservata.bmp](./assets/media/image44.png){width="5.552083333333333in"
-height="3.5145833333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\accesso_area_riservata.bmp](./assets/media/image44.png)
 
 - cliccando sul tasto Home l'utente verrà invece reindirizzato alla Home
   Page del sito

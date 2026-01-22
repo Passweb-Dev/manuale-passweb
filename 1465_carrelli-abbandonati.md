@@ -9,8 +9,7 @@ impostare alcuni parametri di fondamentale importanza per il corretto
 invio dei messaggi Telegram relativi alla creazione dei carrelli
 abbandonati.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\telegram_configurazione_3.bmp](./assets/media/image16.png){width="5.454861111111111in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\telegram_configurazione_3.bmp](./assets/media/image16.png)
 
 Nello specifico il campo:
 

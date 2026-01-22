@@ -52,8 +52,7 @@ pagina "**Gestione Cache**" del Wizard e controllare la colonna
 "**Variata**" presente all'interno della sezione "**Tipologie di
 Cache**"
 
-![Videate\\gestione_cache_6.bmp](./assets/media/image266.png){width="5.5777777777777775in"
-height="3.5194444444444444in"}
+![Videate\\gestione_cache_6.bmp](./assets/media/image266.png)
 
 **ATTENZIONE!** Nel momento in cui l'icona della piccola batteria
 visualizzata in corrispondenza della cache di pagina dovesse essere
@@ -66,8 +65,7 @@ reset della cache Passweb segnalerà tale esigenza visualizzando l'icona
 della piccola batteria rossa anche nella parte alta del menu principale
 del Wizard
 
-![Videate\\gestione_cache_7.bmp](./assets/media/image267.png){width="5.746527777777778in"
-height="3.5194444444444444in"}
+![Videate\\gestione_cache_7.bmp](./assets/media/image267.png)
 
 Tenendo conto di tutto quanto detto fino ad ora un'osservazione molto
 importante da fare è sicuramente quella che riguarda l'utilizzo della
@@ -88,8 +86,7 @@ diversi **manuale, temporizzato e automatico** dipendentemente dalle
 impostazioni settate per il parametro **Flush** presente all'interno
 della maschera "Gestione Cache"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\flush_cache_1.bmp](./assets/media/image268.png){width="5.5777777777777775in"
-height="3.5194444444444444in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\flush_cache_1.bmp](./assets/media/image268.png)
 
 **ATTENZIONE!** **indipendentemente dal fatto di operare in modalità
 manuale, automatica o temporizzata nel momento in cui di dovesse partire

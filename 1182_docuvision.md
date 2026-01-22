@@ -6,8 +6,7 @@ La sezione Docuvision consente all'Agente di accedere in tempo reale al
 documentale Passepartout (Docuvision) **e prelevare tutte le risorse
 associate all'anagrafica del cliente attualmente selezionato**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_dettaglio_utente_docuvision.bmp](./assets/media/image202.png){width="6.038888888888889in"
-height="3.825in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_dettaglio_utente_docuvision.bmp](./assets/media/image202.png)
 
 Effettuando l'accesso a questa sezione verrà infatti aperta una
 connessione in tempo reale con Mexal e verrà visualizzato l'elenco di
@@ -31,8 +30,7 @@ Mexal si veda anche quanto indicato nel capitolo "*Configurazione --
 Mexal Configurazione Gestionale -- WebApi Mexal*" di questo manuale
 
 Il pulsante "**Download**"
-(![Videate\\ar_pulsante_scarica_documento.bmp](./assets/media/image203.png){width="0.2534722222222222in"
-height="0.2534722222222222in"}) presente in corrispondenza di ogni
+(![Videate\\ar_pulsante_scarica_documento.bmp](./assets/media/image203.png)) presente in corrispondenza di ogni
 singola risorsa in elenco consente di scaricare il relativo file.
 
 **ATTENZIONE!** dipendentemente dalle dimensioni del file da scaricare,
@@ -45,6 +43,5 @@ all'utente che l'operazione sta procedendo e, dall'altra parte, da
 impedirgli di effettuare ulteriori click su eventuali altri documenti da
 scaricare prima che l'operazione in essere sia terminata correttamente
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ec_loading_docuvison.bmp](./assets/media/image204.png){width="6.240277777777778in"
-height="3.825in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ec_loading_docuvison.bmp](./assets/media/image204.png)
 

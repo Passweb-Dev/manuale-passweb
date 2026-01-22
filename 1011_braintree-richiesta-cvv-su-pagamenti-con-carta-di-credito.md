@@ -16,21 +16,18 @@ Braintree secondo quanto indicato al seguente link
   sul menu delle impostazioni presente in testata (icona raffigurante
   una piccola rotellina) e selezionare la voce "**Fraud Management**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\braintree_cvv.bmp](./assets/media/image77.png){width="5.370138888888889in"
-height="3.234027777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\braintree_cvv.bmp](./assets/media/image77.png)
 
 - Cliccare sul link "**Options**" presente in corrispondenza della
   sezione CVV
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\braintree_cvv_2.bmp](./assets/media/image78.png){width="5.370138888888889in"
-height="3.234027777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\braintree_cvv_2.bmp](./assets/media/image78.png)
 
 - Selezionare quindi, tra le opzioni proposte, il / i criteri che
   dovranno essere applicati, in relazione al CVV, per rifiutare o meno
   la transazione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\braintree_cvv_3.bmp](./assets/media/image79.png){width="5.370138888888889in"
-height="3.234027777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\braintree_cvv_3.bmp](./assets/media/image79.png)
 
 > Per ciascuna delle opzioni disponibili sarà poi possibile decidere se
 > applicarla a tutte le transazioni o solo ad alcune

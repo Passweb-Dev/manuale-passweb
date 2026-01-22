@@ -24,16 +24,14 @@ abilitare il contesto di questa stessa indagine, cliccando per questo
 sulla corrispondente icona presente nel menu di sinistra, e selezionare
 poi l'azione **"Variazione a blocchi"**.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\variazione_blocchi_1.bmp](./assets/media/image115.png){width="6.409027777777778in"
-height="4.253472222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\variazione_blocchi_1.bmp](./assets/media/image115.png)
 
 Verrà così aperta l'omonima finestra attraverso cui poter modificare, in
 blocco per tutti gli articoli dell'indagine stessa, tutte le
 informazioni inerenti i campi di anagrafica articoli in essa contenuti,
 tra cui anche il campo "**Abilita Passweb**".
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\variazione_blocchi_2.bmp](./assets/media/image116.png){width="6.409027777777778in"
-height="4.253472222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\variazione_blocchi_2.bmp](./assets/media/image116.png)
 
 In questo modo sarà quindi possibile, ad esempio, impostare in blocco
 tutti gli articoli appartenenti ad una stessa categoria merceologica in
@@ -51,15 +49,13 @@ sarà sufficiente:
 2.  Selezionare il parametro "Abilita Passweb" e flaggare il
     corrispondente check presente nella colonna "Valore"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\variazione_blocchi_3.bmp](./assets/media/image117.png){width="2.9611111111111112in"
-height="3.3118055555555554in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\variazione_blocchi_3.bmp](./assets/media/image117.png)
 
 3.  Selezionare il parametro "Categoria Articolo" e impostare nella
     corrispondente colonna "Valore" la categoria merceologica
     desiderata, scegliendola per questo dal corrispondente menu tendina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\variazione_blocchi_4.bmp](./assets/media/image118.png){width="2.9611111111111112in"
-height="3.3118055555555554in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\variazione_blocchi_4.bmp](./assets/media/image118.png)
 
 4.  Cliccare sul pulsante "OK" presente nella parte bassa della
     maschera.

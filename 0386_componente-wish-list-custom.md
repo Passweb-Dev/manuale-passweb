@@ -7,8 +7,7 @@ si voglia chiamare, altro non è se non un insieme di articoli che
 l'utente del sito ha deciso di salvare in maniera tale da poterli poi
 gestire, ed eventualmente acquistare, in un secondo momento.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\whislist_esempio.bmp](./assets/media/image187.png){width="5.497222222222222in"
-height="3.852777777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\whislist_esempio.bmp](./assets/media/image187.png)
 
 In Passweb è possibile gestire queste liste dei desideri mediante il
 Componente **"Wishlist Custom"** che può essere inserito unicamente

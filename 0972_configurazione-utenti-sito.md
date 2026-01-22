@@ -11,8 +11,7 @@ voce di menu principale "**Utenti**" è possibile
   "**Informazioni Generali**" campo "**Autenticazione con Credenziali
   Case-Sensitive**")
 
-![Videate\\passcom_configurazione_parametri_utenti.bmp](./assets/media/image266.png){width="5.895833333333333in"
-height="3.4805555555555556in"}
+![Videate\\passcom_configurazione_parametri_utenti.bmp](./assets/media/image266.png)
 
 - Impostare, in tutte le lingue gestite all'interno del sito, l'oggetto
   ed il testo della mail che verrà inviata in automatico
@@ -20,8 +19,7 @@ height="3.4805555555555556in"}
   delle proprie credenziali di accesso al sito (sezione "**Dati
   Email**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\passcom_configurazione_parametri_utenti_mail.bmp](./assets/media/image267.png){width="5.895833333333333in"
-height="3.4805555555555556in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\passcom_configurazione_parametri_utenti_mail.bmp](./assets/media/image267.png)
 
 In particolare dunque il campo:
 

@@ -81,8 +81,7 @@ articoli a taglie e colori configurati su Mexal con una struttura in cui
 gli ultimi due livelli sono rappresentati rispettivamente dalla "Marca"
 e dal "Colore".
 
-![Videate\\marketplace_strutture_es1.bmp](./assets/media/image506.png){width="3.714583333333333in"
-height="1.2402777777777778in"}
+![Videate\\marketplace_strutture_es1.bmp](./assets/media/image506.png)
 
 Le taglie sono invece gestite mediante la relativa tabella Mexal.
 
@@ -96,15 +95,13 @@ figlio
 
 - FNU04ADIGRI
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\marketplace_strutture_es2.bmp](./assets/media/image507.png){width="5.746527777777778in"
-height="3.3895833333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\marketplace_strutture_es2.bmp](./assets/media/image507.png)
 
 Supponiamo infine di aver personalizzato, in Passweb, i possibili valori
 assunti dal penultimo livello della struttura (NIK e ADI)
 rispettivamente con le stringhe "Nike" e "Adidas"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\marketplace_strutture_es3.bmp](./assets/media/image508.png){width="5.746527777777778in"
-height="3.3895833333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\marketplace_strutture_es3.bmp](./assets/media/image508.png)
 
 In queste condizioni, posto di aver configurato correttamente (secondo
 quanto indicato nei precedenti capitoli) l'Inserzione da utilizzare per
@@ -112,8 +109,7 @@ la pubblicazione dei prodotti , tentando di aggiungere articoli alla
 Lista di Vendita troveremo ora tra le possibili scelte l'articolo padre
 FNU04
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\marketplace_strutture_es4.bmp](./assets/media/image509.png){width="5.746527777777778in"
-height="3.3895833333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\marketplace_strutture_es4.bmp](./assets/media/image509.png)
 
 Selezionando questo articolo e inserendolo nella Lista di Vendita
 Passweb prenderà in considerazione i soli articoli figlio ad esso
@@ -122,8 +118,7 @@ i tre precedentemente indicati) e, in relazione ad ognuno di essi, andrà
 ad inserire in lista un elemento per ogni taglia indicata nella
 corrispondente tabella Mexal.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\marketplace_strutture_es5.bmp](./assets/media/image658.png){width="5.7659722222222225in"
-height="3.50625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\marketplace_strutture_es5.bmp](./assets/media/image658.png)
 
 Ora, tenendo conto di quanto precedentemente indicato, in fase di
 pubblicazione l'elemento che consentirà di raggruppare gli articoli
@@ -142,21 +137,18 @@ verranno pubblicati i seguenti articoli:
 
 - **Felpa Elite Performance -- ADIDAS**
 
-![Videate\\marketplace_strutture_es6.bmp](./assets/media/image659.png){width="5.207638888888889in"
-height="3.3375in"}
+![Videate\\marketplace_strutture_es6.bmp](./assets/media/image659.png)
 
 Il primo dei due prodotti sopra evidenziati (Felpa Elite Performance --
 NIKE) raggrupperà tutte le possibili combinazione dei due articoli
 Passweb FNU04NIKNER e FNU04NIKROS
 
-![Videate\\marketplace_strutture_es7.bmp](./assets/media/image660.png){width="5.207638888888889in"
-height="3.3375in"}
+![Videate\\marketplace_strutture_es7.bmp](./assets/media/image660.png)
 
 Il secondo (Felpa Elite Performance -- ADIDAS) raggrupperà invece tutte
 le possibili combinazione dell' articolo Passweb FNU04ADIGRI
 
-![Videate\\marketplace_strutture_es8.bmp](./assets/media/image661.png){width="5.207638888888889in"
-height="3.3375in"}
+![Videate\\marketplace_strutture_es8.bmp](./assets/media/image661.png)
 
 Coerentemente con le impostazioni dell'Inserzione dunque, sulla
 piattaforma terza l'utente avrà la possibilità di scegliere al massimo
@@ -192,8 +184,7 @@ configurati questa volta però interamente all'interno di una struttura
 in cui taglia e colore sono rispettivamente l'ultimo e il penultimo
 campo
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\marketplace_strutture_es9.bmp](./assets/media/image662.png){width="2.876388888888889in"
-height="1.0972222222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\marketplace_strutture_es9.bmp](./assets/media/image662.png)
 
 La marca sarà invece indicata sempre in struttura come terzultimo campo.
 
@@ -237,23 +228,20 @@ evidenziata in figura, il padre HNU01 e anche i seguenti articoli figlio
 Tutti questi articoli dovranno essere anche esportati all'interno del
 sito Passweb
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\marketplace_strutture_es10.bmp](./assets/media/image663.png){width="5.746527777777778in"
-height="3.3895833333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\marketplace_strutture_es10.bmp](./assets/media/image663.png)
 
 Supponiamo infine di aver personalizzato, in Passweb, i possibili valori
 assunti dal terzultimo livello della struttura (NIK e ADI)
 rispettivamente con le stringhe "Nike" e "Adidas"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\marketplace_strutture_es3.bmp](./assets/media/image508.png){width="5.746527777777778in"
-height="3.3895833333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\marketplace_strutture_es3.bmp](./assets/media/image508.png)
 
 In queste condizioni, non essendo gestita la tabella taglie, Passweb non
 potrà esplodere nulla, avremo già un articolo figlio distinto per ogni
 singola taglia, e saranno direttamente questi articoli (**NON il
 padre**) a dover essere inseriti in lista di vendita
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\marketplace_strutture_es11.bmp](./assets/media/image664.png){width="5.7659722222222225in"
-height="3.50625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\marketplace_strutture_es11.bmp](./assets/media/image664.png)
 
 Ora, tenendo conto di quanto precedentemente indicato, in fase di
 pubblicazione l'elemento che consentirà di raggruppare gli articoli
@@ -272,19 +260,16 @@ verranno pubblicati i seguenti articoli:
 
 - **Felpa Taglie Struttura -- ADIDAS**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\marketplace_strutture_es12.bmp](./assets/media/image665.png){width="5.519444444444445in"
-height="3.825in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\marketplace_strutture_es12.bmp](./assets/media/image665.png)
 
 Il primo dei due prodotti sopra evidenziati (Felpa Taglie Struttura --
 NIKE) raggrupperà sotto di se tutte le taglie delle felpe di marca Nike
 e colori Nero e Rosso e ciascuna di queste combinazioni corrisponderà
 ora ad un ben preciso articolo figlio presente anche in Passweb / Mexal
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\marketplace_strutture_es13.bmp](./assets/media/image666.png){width="5.519444444444445in"
-height="3.825in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\marketplace_strutture_es13.bmp](./assets/media/image666.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\marketplace_strutture_es14.bmp](./assets/media/image667.png){width="5.519444444444445in"
-height="3.825in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\marketplace_strutture_es14.bmp](./assets/media/image667.png)
 
 Allo stesso modo il secondo articolo (Felpa Taglie Struttura -- NIKE
 raggrupperà sotto di se tutte le taglie della felpa di marca Adidas e
@@ -357,22 +342,19 @@ otterrà:
 
 - un articolo padre FNU04NIK con prezzo 0
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prezzi_combinazioni_prestashop_1.bmp](./assets/media/image668.png){width="5.513194444444444in"
-height="3.50625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prezzi_combinazioni_prestashop_1.bmp](./assets/media/image668.png)
 
 - Le combinazioni (nel caso specifico quindi le singole taglie) relative
   all'articolo FNU04NIKNER avranno tutte prezzo pari a 286€ e tale
   prezzo sarà impostato come indicato nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prezzi_combinazioni_prestashop_2.bmp](./assets/media/image669.png){width="5.519444444444445in"
-height="3.50625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prezzi_combinazioni_prestashop_2.bmp](./assets/media/image669.png)
 
 - Le combinazioni (nel caso specifico quindi le singole taglie) relative
   all'articolo FNU04NIKROS avranno tutte prezzo pari a 132€ e tale
   prezzo sarà impostato come indicato nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prezzi_combinazioni_prestashop_3.bmp](./assets/media/image670.png){width="5.519444444444445in"
-height="3.50625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prezzi_combinazioni_prestashop_3.bmp](./assets/media/image670.png)
 
 **ATTENZIONE! In queste condizioni si presuppone, ovviamente, che il
 prezzo degli articoli e delle relative combinazioni sia definito e
@@ -513,8 +495,7 @@ portando poi, su Prestashop, a duplicazioni delle stesse risorse (che
 sarebbero però associate ciascuna a combinazioni differenti) e ad un
 utilizzo non ottimale dello spazio a disposizione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\immagini_combinazioni_prestashop_1.bmp](./assets/media/image671.png){width="5.519444444444445in"
-height="3.825in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\immagini_combinazioni_prestashop_1.bmp](./assets/media/image671.png)
 
 **In queste condizioni quindi si dovrebbe optare per una gestione delle
 risorse direttamente dalla piattaforma terza** oppure, laddove possibile

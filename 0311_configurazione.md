@@ -5,8 +5,7 @@
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_html_configurazione_res.bmp](./assets/media/image170.png){width="5.116666666666666in"
-height="3.0909722222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_html_configurazione_res.bmp](./assets/media/image170.png)
 
 suddivisa in varie sezioni.
 
@@ -123,8 +122,7 @@ cursore nell'esatta posizione in cui deve essere inserito, cliccare poi
 sul pulsante "**Seleziona un segnaposto**" e selezionare l'elemento
 desiderato dal relativo menu a tendina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_html_configurazione_segnaposto_res.bmp](./assets/media/image171.png){width="5.129861111111111in"
-height="3.077777777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_html_configurazione_segnaposto_res.bmp](./assets/media/image171.png)
 
 In alternativa è possibile inserire il segnaposto stesso anche inserendo
 direttamente il relativo codice (es. {{SKU}})
@@ -138,8 +136,7 @@ Nell'editor HTML sono attivi inoltre, i seguenti tasti funzione:
   all'interno dell'editor di codice HTML, attivando il relativo campo di
   testo
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\code_mirror_ricerca.bmp](./assets/media/image172.png){width="3.220833333333333in"
-height="1.1166666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\code_mirror_ricerca.bmp](./assets/media/image172.png)
 
 - **Ctrl + G / Cmd + G**: Consente, una volta effettuata una specifica
   ricerca all'interno dell'editor di codice HTML, di attivare la
@@ -156,22 +153,19 @@ height="1.1166666666666667in"}
   primo campo di input in cui inserire il testo da ricercare (campo
   "Replace")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\code_mirror_cerca_sostituisci.bmp](./assets/media/image173.png){width="5.175in"
-height="2.825in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\code_mirror_cerca_sostituisci.bmp](./assets/media/image173.png)
 
 > Una volta inserito il testo desiderato sarà necessario premere il
 > tasto "Invio" in maniera tale da visualizzare un nuovo campo di input
 > (campo "With") in cui inserire il nuovo testo che dovrà essere
 > sostituito a quello precedentemente ricercato.
 
-![Videate\\code_mirror_cerca_sostituisci_2.bmp](./assets/media/image174.png){width="5.175in"
-height="2.825in"}
+![Videate\\code_mirror_cerca_sostituisci_2.bmp](./assets/media/image174.png)
 
 > Infine premendo nuovamente il taso invio verranno visualizzate tutte
 > le possibili opzioni di sostituzione
 
-![Videate\\code_mirror_cerca_sostituisci_3.bmp](./assets/media/image175.png){width="5.175in"
-height="2.825in"}
+![Videate\\code_mirror_cerca_sostituisci_3.bmp](./assets/media/image175.png)
 
 - **Shift + Ctrl + R / Shift + Cmd + Option + F** : Consente di attivare
   la funzione di "**Cerca e sostituisci tutto**".

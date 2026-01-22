@@ -5,8 +5,7 @@
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_iu_registrazione_configurazione_res.bmp](./assets/media/image20.png){width="4.590972222222222in"
-height="2.9347222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_iu_registrazione_configurazione_res.bmp](./assets/media/image20.png)
 
 suddivisa in varie sezioni.
 
@@ -62,8 +61,7 @@ dei seguenti valori:
 > anagrafiche utente con entrambi i campi "**Soggetto Privato**" e
 > "**Persona Fisica**" selezionati
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\anagrafiche_mexal_privati.bmp](./assets/media/image21.png){width="4.259722222222222in"
-height="2.1625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\anagrafiche_mexal_privati.bmp](./assets/media/image21.png)
 
 - **Azienda:** in queste condizioni potranno effettuare la registrazione
   al sito i soli utenti di tipo "Azienda". In conseguenza di ciò tutti i
@@ -73,8 +71,7 @@ height="2.1625in"}
 > Utenti di tipo "Azienda" creeranno poi, all'interno di Mexal,
 > anagrafiche utente con il campo "**Soggetto Privato**" deselezionato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\anagrafiche_mexal_azienda.bmp](./assets/media/image22.png){width="4.259722222222222in"
-height="2.1625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\anagrafiche_mexal_azienda.bmp](./assets/media/image22.png)
 
 > In queste condizioni inoltre sarà possibile inserire nel form di
 > registrazione di siti Ecommerce collegati a Mexal, un'ulteriore campo
@@ -133,8 +130,7 @@ carrello e l'utente in questione sia gestito con una modalità di
 attivazione "Immediata".**
 
 Il pulsante "**Deseleziona**"
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_deseleziona_res.bmp](./assets/media/image4.png){width="0.5131944444444444in"
-height="0.1951388888888889in"} ) presente nella contestuale barra degli
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_deseleziona_res.bmp](./assets/media/image4.png) ) presente nella contestuale barra degli
 strumenti, consente di eliminare l'associazione ad una specifica pagina
 cui effettuare il redirect automatico.
 
@@ -145,8 +141,7 @@ siano già stati inseriti articoli in carrello e l'utente in questione
 sia gestito con una modalità di attivazione "Immediata"**.
 
 Il pulsante "**Deseleziona**"
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_deseleziona_res.bmp](./assets/media/image4.png){width="0.5131944444444444in"
-height="0.1951388888888889in"} ), presente nella contestuale barra degli
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_deseleziona_res.bmp](./assets/media/image4.png) ), presente nella contestuale barra degli
 strumenti, consente di eliminare l'associazione ad una specifica pagina
 cui effettuare il redirect automatico.
 
@@ -157,8 +152,7 @@ l'utente in questione sia gestito con una modalità di attivazione
 "Differita".**
 
 Il pulsante "**Deseleziona**"
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_deseleziona_res.bmp](./assets/media/image4.png){width="0.5131944444444444in"
-height="0.1951388888888889in"} ), presente nella contestuale barra degli
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_deseleziona_res.bmp](./assets/media/image4.png) ), presente nella contestuale barra degli
 strumenti, consente di eliminare l'associazione ad una specifica pagina
 cui effettuare il redirect automatico.
 
@@ -173,8 +167,7 @@ effettivamente ricondotto un utente gestito con attivazione "Immediata"
 dopo aver effettuato l'accesso al sito occorrerà considerare il seguente
 schema:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\tabella_accessi_registrazione.bmp](./assets/media/image23.png){width="3.3958333333333335in"
-height="3.7465277777777777in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\tabella_accessi_registrazione.bmp](./assets/media/image23.png)
 
 La sezione **"Attivazione tramite Verifica Mail"** consente, infine, di
 definire quello che dovrà essere il comportamento dell'applicazione
@@ -198,8 +191,7 @@ impostare la pagina cui dovrà essere automaticamente ridiretto l'utente
 a seguito della verifica del suo indirizzo mail.
 
 Il pulsante "**Deseleziona**"
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_deseleziona_res.bmp](./assets/media/image4.png){width="0.5131944444444444in"
-height="0.1951388888888889in"} ) presente nella contestuale barra degli
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_deseleziona_res.bmp](./assets/media/image4.png) ) presente nella contestuale barra degli
 strumenti, consente di eliminare l'associazione ad una specifica pagina
 cui effettuare il redirect automatico.
 
@@ -234,8 +226,7 @@ all'interno della sezione "**Gestione Testi/Messaggi**" del sito agendo
 sui testi del componente "**Registrazione Utente**" e nello specifico
 sulle due voci "**Link Errato**" e "**Mail già Verificata**":
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\testi_errore_verifica_mail.bmp](./assets/media/image24.png){width="5.759722222222222in"
-height="3.3444444444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\testi_errore_verifica_mail.bmp](./assets/media/image24.png)
 
 - **Link Errato:** consente di personalizzare il messaggio di errore che
   verrà visualizzato nel caso in cui il link di verifica non sia

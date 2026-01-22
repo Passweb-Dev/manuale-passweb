@@ -33,8 +33,7 @@ categoria "Tecnologia"
 All'interno della pagina "Categorie" verrà quindi visualizzata la
 maschera **"Gestione CMS -- Categorie"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cms_gestione_categorie.bmp](./assets/media/image544.png){width="5.746527777777778in"
-height="3.49375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cms_gestione_categorie.bmp](./assets/media/image544.png)
 
 contenente l'elenco di tutte le categorie attualmente codificate
 all'interno del sito e organizzate secondo una ben precisa struttura
@@ -50,8 +49,7 @@ I pulsanti presenti nella contestuale barra degli strumenti consento
 rispettivamente di:
 
 **Elimina** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina.bmp](./assets/media/image347.png){width="0.3506944444444444in"
-height="0.18819444444444444in"} ): consente di eliminare la categoria
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina.bmp](./assets/media/image347.png) ): consente di eliminare la categoria
 attualmente selezionata all'interno dell'albero.
 
 **NOTA BENE**: l'eliminazione di una categoria di News causerà solo ed
@@ -61,14 +59,12 @@ l'eliminazione di una categoria causerà la cancellazione dei post ad
 essa associati.
 
 **Nuova**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuova.bmp](./assets/media/image545.png){width="0.31805555555555554in"
-height="0.1951388888888889in"} ): consente di creare e definire una
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuova.bmp](./assets/media/image545.png) ): consente di creare e definire una
 nuova categoria di News. Cliccando su questo pulsante verrà quindi
 visualizzata, nella parte destra della finestra, la maschera "**Nuova
 Categoria Contenuto**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cms_nuovacategoria.bmp](./assets/media/image546.png){width="5.746527777777778in"
-height="3.50625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cms_nuovacategoria.bmp](./assets/media/image546.png)
 
 all'interno della quale poter definire le caratteristiche e le proprietà
 della categoria di News che si intende realizzare.
@@ -124,8 +120,7 @@ anche il successivo capitolo di questo manuale.
 > Le Categorie Nascoste, o Logiche, comunque le si voglia chiamare
 > verranno evidenziate in grigio all'interno dell'albero.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\categoria_nascosta.bmp](./assets/media/image547.png){width="5.746527777777778in"
-height="3.49375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\categoria_nascosta.bmp](./assets/media/image547.png)
 
 - **Pagina Categoria (opzionale):** per poter sfruttare appieno tutte le
   potenzialità della componentistica CMS messa a disposizione da
@@ -161,8 +156,7 @@ height="3.49375in"}
 > definire una specifica pagina di Categoria per ogni singola Variante
 > Sito Gestita.**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\categorie_cms_per_variante.bmp](./assets/media/image548.png){width="5.746527777777778in"
-height="3.50625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\categorie_cms_per_variante.bmp](./assets/media/image548.png)
 
 > Nel caso in cui, per una certa Variante Sito, non dovesse essere
 > associata alla categoria in oggetto una corrispondente pagina di

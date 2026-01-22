@@ -4,8 +4,7 @@
 
 Il Componente **"Autore Commento"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cms_commenti_componente_autore_res.bmp](./assets/media/image88.png){width="2.5194444444444444in"
-height="2.5388888888888888in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cms_commenti_componente_autore_res.bmp](./assets/media/image88.png)
 
 può essere inserito solo ed esclusivamente all'interno di un componente
 "**Commenti Associati**" e consente di visualizzare l'autore di ogni
@@ -15,8 +14,7 @@ A livello di configurazione, una volta inserito il Componente
 all'interno della pagina web, verrà aperta in automatico **la sua
 maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_commenti_autore_configurazione_res.bmp](./assets/media/image89.png){width="4.629861111111111in"
-height="1.9347222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_commenti_autore_configurazione_res.bmp](./assets/media/image89.png)
 
 suddivisa in varie sezioni.
 

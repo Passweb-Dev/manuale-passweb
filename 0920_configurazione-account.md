@@ -17,8 +17,7 @@ Nello specifico sarà necessario:
   selezionare, all'interno del campo "**Marketplace**" l'opzione
   "**Magento 2**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\magento_8.bmp](./assets/media/image729.png){width="5.792361111111111in"
-height="3.422222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\magento_8.bmp](./assets/media/image729.png)
 
 - Compilare i campi presenti all'interno della sezione "**Credenziali**"
   con i dati di seguito indicati:
@@ -37,15 +36,13 @@ height="3.422222222222222in"}
 > merito si faccia riferimento al precedente capitolo di questo manuale)
 > e cliccare sul pulsante di modifica (edit)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\magento_9.bmp](./assets/media/image730.png){width="5.941666666666666in"
-height="3.285416666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\magento_9.bmp](./assets/media/image730.png)
 
 > Individuare quindi all'interno della sezione "**Integration Details**"
 > il parametro **Access Token** e copiarne il valore all'interno del
 > campo Passweb in esame
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\magento_10.bmp](./assets/media/image731.png){width="5.941666666666666in"
-height="3.285416666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\magento_10.bmp](./assets/media/image731.png)
 
 - **Store View Code -- visualizzato solo dopo aver effettuato un primo
   salvataggio dell'Account in esame**
@@ -66,8 +63,7 @@ height="3.285416666666667in"}
 > sufficiente accedere alla sezione "**Store -- Settings -- All
 > Stores**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\magento_11.bmp](./assets/media/image732.png){width="5.941666666666666in"
-height="3.285416666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\magento_11.bmp](./assets/media/image732.png)
 
 > Per maggiori informazioni in merito alla gestione delle Store View e/o
 > alle varie possibili configurazioni Magento si rimanda alla specifica
@@ -187,8 +183,7 @@ valori:
   richiesti, per ovvie ragioni, altri specifici parametri di
   configurazione
 
-![Videate\\pubblicazione_articoli_via_api.bmp](./assets/media/image597.png){width="5.792361111111111in"
-height="3.422222222222222in"}
+![Videate\\pubblicazione_articoli_via_api.bmp](./assets/media/image597.png)
 
 - **CSV**: in questo caso la pubblicazione dei dati articolo avverrà
   mediante la creazione di appositi file csv il cui contenuto dovrà poi
@@ -209,8 +204,7 @@ poi anche tutta una serie di parametri che consentiranno di
 personalizzare, secondo le specifiche esigenze del caso, il processo di
 creazione e gestione di questi stessi file.
 
-![Videate\\prestashop_metodi_pubblicazione.bmp](./assets/media/image598.png){width="5.792361111111111in"
-height="3.422222222222222in"}
+![Videate\\prestashop_metodi_pubblicazione.bmp](./assets/media/image598.png)
 
 In particolare dunque il campo
 
@@ -377,8 +371,7 @@ testata:
   scaricabile direttamente dal back end di Magento stesso alla pagina
   "**Sistema -- Import**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\magento_download_file_esempio.bmp](./assets/media/image733.png){width="5.552083333333333in"
-height="3.636111111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\magento_download_file_esempio.bmp](./assets/media/image733.png)
 
 - Alcuni campi aggiunti e gestiti automaticamente da Passweb tra cui ad
   esempio:
@@ -520,8 +513,7 @@ disponibili i file prodotti da Passweb questa può essere impostata
 sempre dal tab "Metodi di pubblicazione" operando all'interno della
 sezione "**Repository**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\magento_repository_1.bmp](./assets/media/image734.png){width="5.792361111111111in"
-height="3.422222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\magento_repository_1.bmp](./assets/media/image734.png)
 
 Nello specifico dunque il campo:
 
@@ -566,8 +558,7 @@ csv prodotti da Passweb in maniera completamente manuale, e senza quindi
 ricorrere a nessun Repository, sarà sufficiente impostare il parametro
 "**Repository CSV**" sull'opzione "**Non Gestito**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\magento_repository_2.bmp](./assets/media/image735.png){width="5.792361111111111in"
-height="3.422222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\magento_repository_2.bmp](./assets/media/image735.png)
 
 In queste condizioni dunque a seguito di ogni operazione di
 pubblicazione articoli (indipendentemente dal fatto che sia una
@@ -578,8 +569,7 @@ dovranno quindi essere scaricati in maniera manuale operando all'interno
 del tab "**Download CSV**" presente anch'esso nella maschera di
 configurazione del proprio Account Magento
 
-![Videate\\google_merchant_csv4.bmp](./assets/media/image446.png){width="5.792361111111111in"
-height="3.422222222222222in"}
+![Videate\\google_merchant_csv4.bmp](./assets/media/image446.png)
 
 All'interno di questa sezione, visibile solo nel momento in cui per
 l'Account in esame si stia utilizzando un metodo di pubblicazione
@@ -597,13 +587,11 @@ I pulsanti presenti in corrispondenza delle colonne "**Elimina**" e
 "**Scarica**" consentono invece di:
 
 **Elimina (**
-![Videate\\pulsante_elimina_backup_marketplace.bmp](./assets/media/image447.png){width="0.1625in"
-height="0.12361111111111112in"} ): consente di eliminare definitivamente
+![Videate\\pulsante_elimina_backup_marketplace.bmp](./assets/media/image447.png) ): consente di eliminare definitivamente
 i file csv prodotti dalla corrispondente pubblicazione.
 
 **Scarica (**
-![Videate\\pulsante_scarica_backup_marketplace.bmp](./assets/media/image448.png){width="0.15555555555555556in"
-height="0.11666666666666667in"} ): consente di effettuare il download
+![Videate\\pulsante_scarica_backup_marketplace.bmp](./assets/media/image448.png) ): consente di effettuare il download
 dei relativi file csv.
 
 **ATTENZIONE!** In queste condizioni Passweb si preoccuperà solamente di
@@ -635,8 +623,7 @@ direttamente al fornitore del servizio
 Per attivare questo tipo di repository è necessario, per prima cosa,
 impostare il parametro "**Repository CSV**" sull'opzione "**FTPS**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\magento_repository_4.bmp](./assets/media/image736.png){width="5.66875in"
-height="3.5in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\magento_repository_4.bmp](./assets/media/image736.png)
 
 Fatto questo sarà poi necessario impostare anche tutta una serie di
 altri parametri necessari per consentire a Passweb di accedere all'area
@@ -713,8 +700,7 @@ Per attivare questo tipo di repository è necessario, per prima cosa,
 impostare il parametro "**Repository CSV**" sull'opzione "**Google
 Drive**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\magento_repository_5.bmp](./assets/media/image737.png){width="5.792361111111111in"
-height="3.422222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\magento_repository_5.bmp](./assets/media/image737.png)
 
 Fatto questo sarà poi necessario impostare anche tutta una serie di
 altri parametri necessari per consentire a Passweb di connettersi
@@ -741,8 +727,7 @@ indirizzi sotto il dominio assegnato al proprio Connettore Passweb.
 Per attivare questo tipo di repository è necessario impostare il
 parametro "**Repository CSV**" sull'opzione "**URL Passweb**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\magento_repository_6.bmp](./assets/media/image738.png){width="5.811805555555556in"
-height="3.428472222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\magento_repository_6.bmp](./assets/media/image738.png)
 
 In queste condizioni non sarà necessario impostare nessun'altro
 parametro di configurazione essendo i file in esame disponibili
@@ -781,8 +766,7 @@ All'interno del tab "**Articoli**" è possibile impostare i parametri di
 configurazione del proprio Account in relazione alla pubblicazione dei
 prodotti sul Marketplace.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\magento_configurazione_articoli.bmp](./assets/media/image739.png){width="5.467361111111111in"
-height="3.623611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\magento_configurazione_articoli.bmp](./assets/media/image739.png)
 
 Il parametro "**Magazzino degli articoli**" (sezione "Generale")
 consente di indicare quelli che dovranno essere i Magazzini da collegare
@@ -919,8 +903,7 @@ All'interno di questa sezione è possibile decidere se l'Account in esame
 dovrà interagire o meno con la piattaforma terza anche a livello di
 ordini ed eventualmente in che modo.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_mkt_3.bmp](./assets/media/image740.png){width="5.811805555555556in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_mkt_3.bmp](./assets/media/image740.png)
 
 Per maggiori informazioni in merito si rimanda a quanto indicato
 all'interno del successivo capitolo "*Configurazione Ordini*"
@@ -932,8 +915,7 @@ a seguito di apposite operazioni di sincronizzazione, le anagrafiche dei
 clienti presenti su Passweb con i dati prelevati direttamente dalla
 piattaforma esterna.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_mkt_account_clienti.bmp](./assets/media/image317.png){width="5.792361111111111in"
-height="3.422222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_mkt_account_clienti.bmp](./assets/media/image317.png)
 
 Per maggiori informazioni in merito alla gestione dei clienti si veda
 anche quanto indicato all'interno del successivo capitolo "*Codifica
@@ -944,8 +926,7 @@ Automatica di nuove anagrafiche utente*"
 All'interno di questa sezione è possibile schedulare le operazioni di
 sincronizzazione automatica tra Passweb e la piattaforma esterna.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_mkt_account_schedulazione.bmp](./assets/media/image704.png){width="5.792361111111111in"
-height="3.422222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_mkt_account_schedulazione.bmp](./assets/media/image704.png)
 
 Per maggiori informazioni in merito alla gestione dei clienti si veda
 anche quanto indicato all'interno del successivo capitolo
@@ -960,8 +941,7 @@ utilizzato), sarà possibile visualizzare e gestire in maniera manuale i
 vari file prodotti da Passweb a seguito di una qualsiasi operazione
 (automatica o manuale) di pubblicazione / arresto articoli
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_mkt_download_csv.bmp](./assets/media/image320.png){width="5.792361111111111in"
-height="3.422222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_mkt_download_csv.bmp](./assets/media/image320.png)
 
 **ATTENZIONE! Passweb conserva uno storico dei file relativo alle ultime
 10 pubblicazioni effettuate**

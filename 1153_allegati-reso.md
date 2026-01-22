@@ -29,8 +29,7 @@ operando in tre modi diversi:
   "**Allegati**" presente nella maschera di visualizzazione del
   dettaglio del relativo documento
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\allegati_reso_6.bmp](./assets/media/image770.png){width="5.746527777777778in"
-height="3.50625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\allegati_reso_6.bmp](./assets/media/image770.png)
 
 All'interno di questa sezione verranno infatti visualizzati tutti i file
 attualmente allegati al documento in esame.
@@ -82,13 +81,11 @@ I pulsanti presenti nella contestuale barra degli strumenti consentono
 rispettivamente di:
 
 - **Download** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_download.bmp](./assets/media/image674.png){width="0.40902777777777777in"
-  height="0.175in"} ): consente di effettuare il download del file
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_download.bmp](./assets/media/image674.png) ): consente di effettuare il download del file
   attualmente selezionato in elenco
 
 - **Elimina** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina.bmp](./assets/media/image592.png){width="0.3506944444444444in"
-  height="0.18819444444444444in"} ): consente di eliminare il file
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina.bmp](./assets/media/image592.png) ): consente di eliminare il file
   attualmente selezionato in elenco
 
 > **ATTENZIONE!** Se il file eliminato dovesse provenire dal gestionale
@@ -99,8 +96,7 @@ rispettivamente di:
 > seguito della prima sincronizzazione utile.
 
 - **Svuota** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_svuota.bmp](./assets/media/image469.png){width="0.3375in"
-  height="0.2076388888888889in"} ): consente di eliminare in un colpo
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_svuota.bmp](./assets/media/image469.png) ): consente di eliminare in un colpo
   solo tutti gli allegati associati al documento in esame.
 
 > Anche in questo caso, ovviamente, nel momento in cui eventuali
@@ -111,8 +107,7 @@ rispettivamente di:
 > all'interno del sito,
 
 - **Modifica** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica.bmp](./assets/media/image675.png){width="0.3958333333333333in"
-  height="0.18819444444444444in"} ): consente di modificare l'allegato
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica.bmp](./assets/media/image675.png) ): consente di modificare l'allegato
   attualmente selezionato in elenco.
 
 > **ATTENZIONE!** E' possibile modificare solo ed esclusivamente file
@@ -124,15 +119,13 @@ rispettivamente di:
 > eliminato ma mai modificato
 
 - **Nuovo** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuovo.bmp](./assets/media/image676.png){width="0.325in"
-  height="0.1951388888888889in"} ): consente di allegare al documento in
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuovo.bmp](./assets/media/image676.png) ): consente di allegare al documento in
   esame un nuovo file.
 
 Cliccando su quest'ultimo pulsante verrà quindi visualizzata la maschera
 "**Allegato**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\allegati_reso_7.bmp](./assets/media/image771.png){width="5.746527777777778in"
-height="3.50625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\allegati_reso_7.bmp](./assets/media/image771.png)
 
 all'interno della quale poter indicare un valore per i seguenti
 parametri:
@@ -163,8 +156,7 @@ parametri:
 > verificando di aver correttamente selezionato anche il relativo
 > parametro "Allegati"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_resi_dati_email_2.bmp](./assets/media/image732.png){width="5.792361111111111in"
-height="3.5256944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_resi_dati_email_2.bmp](./assets/media/image732.png)
 
 > Per maggiori informazioni in merito si veda anche il precedente
 > capitolo "*Resi -- Configurazione Resi -- Dati Email*" di questo
@@ -219,8 +211,7 @@ height="3.5256944444444445in"}
 > anche verificare di aver configurato in maniera corretta la mail di
 > tipo "Notifica Allegato"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\allegati_reso_9.bmp](./assets/media/image772.png){width="5.746527777777778in"
-height="3.50625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\allegati_reso_9.bmp](./assets/media/image772.png)
 
 > Per maggiori informazioni in merito si veda anche quanto indicato nel
 > precedente capitolo "*Resi -- Configurazione Resi -- Dati Email*" di
@@ -268,8 +259,7 @@ sarà necessario procedere in uno dei due modi di seguito indicati:
   anche la sigla del reso che ha dato origine alla relativa nota di
   credito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\allegati_stato_trasformato_4.bmp](./assets/media/image773.png){width="5.746527777777778in"
-height="3.50625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\allegati_stato_trasformato_4.bmp](./assets/media/image773.png)
 
 > Cliccando sulla sigla del reso sarà quindi possibile accedere al
 > dettaglio del documento di origine da cui poter visualizzare e

@@ -4,8 +4,7 @@
 
 Il Componente per il form **"Campo Data"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_interno_campo_data.bmp](./assets/media/image553.png){width="2.5395833333333333in"
-height="2.5458333333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_interno_campo_data.bmp](./assets/media/image553.png)
 
 può essere inserito solo ed esclusivamente all'interno del componente
 Ecommerce di primo livello "**Carrello Custom**" e **solo ed
@@ -15,14 +14,12 @@ Permette di gestire un campo di input contenente un apposito controllo
 di tipo "Calendario" mediante il quale poter impostare la data di
 scadenza di riga su ogni singolo articolo presente in carrello.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\data_scadenza_custom.bmp](./assets/media/image554.png){width="4.920138888888889in"
-height="3.6256944444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\data_scadenza_custom.bmp](./assets/media/image554.png)
 
 Rilasciando il Componente nella posizione desiderata verrà visualizzata
 **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\data_scadenza_custom_configurazione_res.bmp](./assets/media/image555.png){width="4.607638888888889in"
-height="2.926388888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\data_scadenza_custom_configurazione_res.bmp](./assets/media/image555.png)
 
 suddivisa in varie sezioni.
 
@@ -76,32 +73,28 @@ impostare un valore per i seguenti parametri:
     cui l'utente dovrà utilizzare apposite frecce per passare da un mese
     all'altro
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\calendario_default.bmp](./assets/media/image556.png){width="1.1347222222222222in"
-height="1.0368055555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\calendario_default.bmp](./assets/media/image556.png)
 
 - **Mostra menu Mesi:** selezionando questa opzione il controllo per la
   selezione della data sarà costituito da un calendario in cui la
   selezione del mese potrà avvenire anche mediante un apposito menu a
   tendina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\calendario_menu_mesi.bmp](./assets/media/image557.png){width="1.1347222222222222in"
-height="1.3618055555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\calendario_menu_mesi.bmp](./assets/media/image557.png)
 
 - **Mostra menu Anni:** selezionando questa opzione il controllo per la
   selezione della data sarà costituito da un calendario in cui la
   selezione dello specifico anno potrà avvenire mediante un apposito
   menu a tendina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\calendario_menu_anni.bmp](./assets/media/image558.png){width="1.1347222222222222in"
-height="1.4111111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\calendario_menu_anni.bmp](./assets/media/image558.png)
 
 - **Mostra menu Mesi e menu Anni:** selezionando questa opzione il
   controllo per la selezione della data sarà costituito da un calendario
   in cui la selezione dello specifico mese così come quella dello
   specifico anno potrà avvenire mediante un apposito menu a tendina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\calendario_menu_mesi_anni.bmp](./assets/media/image559.png){width="1.1347222222222222in"
-height="1.4111111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\calendario_menu_mesi_anni.bmp](./assets/media/image559.png)
 
 **ATTENZIONE!** Nel caso in cui si desideri dare la possibilità di
 modificare la data di scadenza di riga ai soli Agenti sarà necessario,

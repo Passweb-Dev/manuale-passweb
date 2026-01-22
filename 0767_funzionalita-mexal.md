@@ -12,8 +12,7 @@ catalogo.
 All'interno di questa pagina verrà quindi visualizzata la maschera
 **"Configurazione gestione dati web articolo"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_gestione_dati_web_articolo.bmp](./assets/media/image70.png){width="5.571527777777778in"
-height="3.50625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_gestione_dati_web_articolo.bmp](./assets/media/image70.png)
 
 con al suo interno l'elenco delle funzionalità Mexal attualmente
 attivate (valore **SI**) / disattivate (valore **NO**) per il sito

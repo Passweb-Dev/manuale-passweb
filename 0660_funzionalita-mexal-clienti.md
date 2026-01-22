@@ -12,14 +12,12 @@ esigenze.
 In questo senso, dunque, portandosi nell'anagrafica di un cliente e
 cliccando sul pulsante **"Dati Aggiuntivi/ eCommerce" (Shift + F8)**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\multi_sito_ec11.bmp](./assets/media/image71.png){width="4.513194444444444in"
-height="2.454861111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\multi_sito_ec11.bmp](./assets/media/image71.png)
 
 verrà visualizzata la relativa maschera contenente l'elenco di tutte le
 videate aggiuntive clienti/fornitori attualmente presenti.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\multi_sito_ec12.bmp](./assets/media/image72.png){width="2.0972222222222223in"
-height="1.8180555555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\multi_sito_ec12.bmp](./assets/media/image72.png)
 
 Selezionando quella relativa al sito su cui si desidera operare (il nome
 della videata coincide con il nome assegnato al sito, nella sua
@@ -29,8 +27,7 @@ con al suo interno i campi della videata aggiuntiva/articoli
 appositamente riservata per quello specifico sito e corrispondenti alle
 sole Funzionalità Mexal effettivamente attivate.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\multi_sito_ec13.bmp](./assets/media/image73.png){width="3.8895833333333334in"
-height="1.538888888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\multi_sito_ec13.bmp](./assets/media/image73.png)
 
 > **NOTA BENE :**per maggiori informazioni relativamente all'attivazione
 > delle specifiche "Funzionalità Mexal" si veda anche il capitolo
@@ -59,8 +56,7 @@ Per poter decidere quali clienti Mexal esportare e gestire all'interno
 de sito e-commerce è necessario rifarsi alla "Funzionalità Mexal"
 **"Cliente/Fornitore sul sito".**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\configurazione_dati_cliente_mexal_esporta_cliente.bmp](./assets/media/image74.png){width="2.5520833333333335in"
-height="2.0972222222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\configurazione_dati_cliente_mexal_esporta_cliente.bmp](./assets/media/image74.png)
 
 > **NOTA BENE:** per maggiori informazioni relativamente
 > all'attivazione/disattivazione delle Funzionalità Mexal si veda anche
@@ -73,8 +69,7 @@ specifico sito, un particolare campo, **"Trasferisci sul sito"**,
 attraverso il quale poter decidere se lo specifico cliente dovrà o meno
 essere esportato e gestito anche all'interno del sito web.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_passweb_pc_trasferisci_sito.bmp](./assets/media/image75.png){width="5.0in"
-height="1.9868055555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_passweb_pc_trasferisci_sito.bmp](./assets/media/image75.png)
 
 > **NOTA BENE:** la Funzionalità Mexal **"Cliente/Fornitore sul sito"**
 > è impostata a default sul valore **S** e **tale valore non potrà
@@ -91,23 +86,20 @@ Mexal occorre:
     **Si**, nell'anagrafica del sito stesso, il parametro **"E-Commerce
     Attivo"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\configurazione_passweb_mexal.bmp](./assets/media/image25.png){width="5.804861111111111in"
-height="1.6298611111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\configurazione_passweb_mexal.bmp](./assets/media/image25.png)
 
 2.  Portarsi nell'anagrafica Mexal del cliente desiderato, cliccare sul
     pulsante **"Dati Aggiuntivi/ eCommerce" (Shift + F8)** e
     selezionare, tra quelle presenti in elenco, la videata aggiuntiva
     articoli relativa allo specifico sito su cui si intende operare.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\multi_sito_ec14.bmp](./assets/media/image76.png){width="4.467361111111111in"
-height="2.3958333333333335in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\multi_sito_ec14.bmp](./assets/media/image76.png)
 
 3.  Impostare all'interno della successiva maschera il campo
     **"Trasferisci sul sito"** sul valore **S (gestito all'interno del
     sito)**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_passweb_pc_trasferisci_sito.bmp](./assets/media/image75.png){width="5.0in"
-height="1.9868055555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_passweb_pc_trasferisci_sito.bmp](./assets/media/image75.png)
 
 > **NOTA BENE:** dopo aver impostato per ogni singolo cliente Mexal il
 > valore desiderato per il campo "Trasferisci sul sito", è di
@@ -153,8 +145,7 @@ riservata allo specifico sito due campi, **"Login: Utente"** e **"Login:
 Password"**, attraverso i quali poter gestire le credenziali di accesso,
 al relativo sito, per il cliente in esame.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\configurazione_dati_cliente_mexal_credenziali.bmp](./assets/media/image77.png){width="4.986805555555556in"
-height="1.9805555555555556in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\configurazione_dati_cliente_mexal_credenziali.bmp](./assets/media/image77.png)
 
 > **NOTA BENE:** le Funzionalità Mexal **"Gestione Login -- Utente" e
 > "Gestione Login -- Password"** sono impostate a default sul valore
@@ -238,8 +229,7 @@ necessario richiamare la maschera **"Configurazione gestione dati web
 cliente/fornitore"** qui di seguito riportata, e flaggare il campo
 **"Gestione Minimo Ordine".**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_web_cliente_minimo_ordine.bmp](./assets/media/image78.png){width="2.5520833333333335in"
-height="2.0972222222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_web_cliente_minimo_ordine.bmp](./assets/media/image78.png)
 
 > **NOTA BENE:** la maschera "Configurazione gestione dati web
 > cliente/fornitore" può essere richiamata in un qualsiasi momento
@@ -254,8 +244,7 @@ relativa allo specifico sito su cui si intende operare, sarà possibile
 trovare, nella successiva maschera, il campo **Minimo Ordine Merce**
 corrispondente alla "Funzionalità Mexal" precedentemente attivata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_passweb_minimo_ordine.bmp](./assets/media/image79.png){width="5.0in"
-height="1.9868055555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_passweb_minimo_ordine.bmp](./assets/media/image79.png)
 
 A questo punto quindi occorrerà selezionare i clienti Mexal gestiti
 all'interno del sito relativamente ai quali si vuole attivare questa
@@ -289,8 +278,7 @@ Il messaggio in questione è personalizzabile alla pagina "**Gestione
 Testi/Messaggi del Sito**" del Wizard, in corrispondenza del componente
 "**Checkout Custom**".
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\minimo_ordine_wizard_1.bmp](./assets/media/image80.png){width="5.759722222222222in"
-height="3.4027777777777777in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\minimo_ordine_wizard_1.bmp](./assets/media/image80.png)
 
 > **NOTA BENE:** la stringa {minorder} verrà sostituita dal valore del
 > minimo d'ordine. Tale stringa non deve quindi essere alterata o
@@ -337,8 +325,7 @@ gestire le "Funzionalità Mexal" (secondo quanto descritto nel capitolo
 **"Configurazione gestione dati web cliente/fornitore"** qui di seguito
 riportata, e flaggare il campo **"Abilita all'area riservata".**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_web_cliente_accesso_ar.bmp](./assets/media/image81.png){width="2.5520833333333335in"
-height="2.0972222222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_web_cliente_accesso_ar.bmp](./assets/media/image81.png)
 
 > **NOTA BENE:** la maschera "Configurazione gestione dati web
 > cliente/fornitore" può essere richiamata in un qualsiasi momento
@@ -353,8 +340,7 @@ relativa allo specifico sito su cui si intende operare, sarà possibile
 trovare, nella successiva maschera, il campo "**Abil. Area Riservata"**
 corrispondente alla "Funzionalità Mexal" precedentemente attivata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\abilita_ar_cliente_mexal.bmp](./assets/media/image82.png){width="5.0in"
-height="1.9868055555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\abilita_ar_cliente_mexal.bmp](./assets/media/image82.png)
 
 A questo punto quindi occorrerà selezionare tra i clienti Mexal gestiti
 all'interno del sito quelli ai quali si vuole concedere l'accesso
@@ -417,8 +403,7 @@ necessario richiamare la maschera **"Configurazione gestione dati web
 cliente/fornitore"** qui di seguito riportata, e flaggare il campo
 **"Blocco Ordine".**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_web_cliente_blocco_ordine.bmp](./assets/media/image83.png){width="2.5520833333333335in"
-height="2.0972222222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_web_cliente_blocco_ordine.bmp](./assets/media/image83.png)
 
 > **NOTA BENE:** la maschera "Configurazione gestione dati web
 > cliente/fornitore" può essere richiamata in un qualsiasi momento
@@ -433,8 +418,7 @@ relativa allo specifico sito su cui si intende operare, sarà possibile
 trovare, nella successiva maschera, il campo **"Blocco Ordine"**
 corrispondente alla "Funzionalità Mexal" appena attivata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\blocco_ordine.bmp](./assets/media/image84.png){width="5.0in"
-height="1.9868055555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\blocco_ordine.bmp](./assets/media/image84.png)
 
 A questo punto quindi occorrerà selezionare i clienti Mexal gestiti
 all'interno del sito relativamente ai quali si vuole attivare questa
@@ -492,8 +476,7 @@ Funzionalità Mexal" di questo manuale, sarà poi necessario richiamare la
 maschera **"Configurazione gestione dati web cliente/fornitore"** qui di
 seguito riportata, e flaggare il campo **"Blocca Modifica Sconto".**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_web_cliente_minimo_ordine_blocca_modfica_sconto.bmp](./assets/media/image85.png){width="2.558333333333333in"
-height="2.1041666666666665in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_web_cliente_minimo_ordine_blocca_modfica_sconto.bmp](./assets/media/image85.png)
 
 > **NOTA BENE:** la maschera "Configurazione gestione dati web
 > cliente/fornitore" può essere richiamata in un qualsiasi momento
@@ -508,8 +491,7 @@ relativa allo specifico sito su cui si intende operare, sarà possibile
 trovare, nella successiva maschera, il campo **"Blocca Modif. Sconto"**
 corrispondente alla "Funzionalità Mexal" precedentemente attivata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_passweb_blocca_modifica_sconto.bmp](./assets/media/image86.png){width="5.0in"
-height="1.9868055555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_passweb_blocca_modifica_sconto.bmp](./assets/media/image86.png)
 
 > **NOTA BENE:** il campo "Blocca Modif. Sconto" comparirà sia nelle
 > anagrafiche dei conti di tipo Cliente che in quelle di tipo Fornitore.
@@ -543,8 +525,7 @@ visualizzato, per ogni articolo, il prezzo al netto di eventuali sconti.
 Tali sconti verranno infatti inseriti all'interno di un campo di testo
 liberamente modificabile dall'Agente stesso.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\blocca_sconto_sito_web.bmp](./assets/media/image87.png){width="6.1819444444444445in"
-height="3.49375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\blocca_sconto_sito_web.bmp](./assets/media/image87.png)
 
 L'Agente avrà quindi la possibilità di inserire per ogni singolo
 articolo in carrello degli sconti adottando, in questo senso la stessa
@@ -576,16 +557,14 @@ apposito messaggio di errore e lo sconto non verrà poi applicato (questo
 per evitare poi eventuali errori che si avrebbero in fase di
 sincronizzazione dell'ordine con il gestionale)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\errore_sconto_valore.bmp](./assets/media/image88.png){width="6.110416666666667in"
-height="3.454861111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\errore_sconto_valore.bmp](./assets/media/image88.png)
 
 Il messaggio evidenziato in figura può essere personalizzato dal menu
 "**Sito -- Testi / Messaggi del Sito -- Testi dei Componenti**"
 selezionando il componente "**Carrello**" e impostando il testo
 desiderato in corrispondenza dell'elemento "**Errore Sconto Agente**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\messaggio_errore_sconto_agente.bmp](./assets/media/image89.png){width="6.110416666666667in"
-height="3.454861111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\messaggio_errore_sconto_agente.bmp](./assets/media/image89.png)
 
 Un controllo analogo verrà effettuato anche nel caso in cui per un
 determinato articolo dovesse essere stata attivata la funzionalità
@@ -594,8 +573,7 @@ momento in cui l'Agente dovesse tentare di inserire per l'articolo in
 esame uno sconto superiore al massimo valore ammesso, verrà visualizzato
 un apposito messaggio di errore
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sconto_massimo_messaggio.bmp](./assets/media/image90.png){width="6.1819444444444445in"
-height="3.49375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sconto_massimo_messaggio.bmp](./assets/media/image90.png)
 
 Tale messaggio potrà essere personalizzato, come nel caso precedente,
 dal menu "**Sito -- Testi / Messaggi del Sito -- Testi dei Componenti**"
@@ -649,8 +627,7 @@ maschera **"Configurazione gestione dati web cliente/fornitore"** qui di
 seguito riportata, e impostare a **S** il campo in corrispondenza della
 funzionalità **"Modifica Prezzo".**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_web_cliente_modifica_prezzo.bmp](./assets/media/image91.png){width="2.558333333333333in"
-height="2.1041666666666665in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_web_cliente_modifica_prezzo.bmp](./assets/media/image91.png)
 
 > **NOTA BENE:** la maschera "Configurazione gestione dati web
 > cliente/fornitore" può essere richiamata in un qualsiasi momento
@@ -665,8 +642,7 @@ relativa allo specifico sito su cui si intende operare, sarà possibile
 trovare, nella successiva maschera, il campo **" Modifica Prezzo"**
 corrispondente alla "Funzionalità Mexal" precedentemente attivata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_passweb_modifica_prezzo.bmp](./assets/media/image92.png){width="5.0in"
-height="1.9868055555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_passweb_modifica_prezzo.bmp](./assets/media/image92.png)
 
 > **NOTA BENE:** il campo "Modifica Prezzo" comparirà sia nelle
 > anagrafiche dei conti di tipo Cliente che in quelle di tipo Fornitore.
@@ -715,8 +691,7 @@ componente "Carrello" o "Carrello Custom"), un apposito campo di input
 che l'Agente potrà utilizzare per impostare il prezzo di vendita
 dell'articolo stesso
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\modifica_prezzo_sito.bmp](./assets/media/image93.png){width="6.032638888888889in"
-height="4.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\modifica_prezzo_sito.bmp](./assets/media/image93.png)
 
 Nel caso in cui per un certo articolo sia stata attivata anche la
 funzionalità "**Prezzo Minimo**" (cosa questa assolutamente
@@ -728,8 +703,7 @@ minimo Agente" del componente Carrello / Carrello Custom) per informarlo
 che il valore impostato non è corretto **e il prezzo dell'articolo verrà
 automaticamente impostato sul prezzo minimo consentito**
 
-![Videate\\prezzo_minimo_messaggio.bmp](./assets/media/image94.png){width="5.915277777777778in"
-height="4.597222222222222in"}
+![Videate\\prezzo_minimo_messaggio.bmp](./assets/media/image94.png)
 
 **ATTENZIONE! Per gli articoli di tipo Campionario non è possibile
 effettuare variazioni di prezzo**
@@ -764,8 +738,7 @@ maschera **"Configurazione gestione dati web cliente/fornitore"** qui di
 seguito riportata, e flaggare il campo **"Ulteriore Descrizione
 1/2/3".**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_web_cliente_ulteriore_desc.bmp](./assets/media/image95.png){width="2.5520833333333335in"
-height="2.0972222222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_web_cliente_ulteriore_desc.bmp](./assets/media/image95.png)
 
 > **NOTA BENE:** la maschera "Configurazione gestione dati
 > cliente/fornitore" può essere richiamata in un qualsiasi momento
@@ -780,8 +753,7 @@ relativa allo specifico sito su cui si intende operare, sarà possibile
 trovare, nella successiva maschera, i campi **Ulteriore Descriz. 1/2/3**
 corrispondenti alle "Funzionalità Mexal" precedentemente attivate.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_passweb_ulteriore_desc_pc.bmp](./assets/media/image96.png){width="5.0in"
-height="1.9868055555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_passweb_ulteriore_desc_pc.bmp](./assets/media/image96.png)
 
 A questo punto quindi sarà possibile utilizzare i campi sopra
 evidenziati (sono campi alfanumerici) per gestire informazioni
@@ -847,16 +819,14 @@ Inoltre risulterà attivo anche il pulsante **E-Commerce \[F8\]**.
 Cliccando su questo pulsante verrà visualizzato l'elenco di tutti i siti
 (attivi e non) attualmente configurati sull'azienda in esame.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\multi_sito_ec15.bmp](./assets/media/image97.png){width="4.5in"
-height="2.428472222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\multi_sito_ec15.bmp](./assets/media/image97.png)
 
 Selezionando quindi lo specifico sito su cui si intende operare e
 cliccando sul pulsante **OK (Invio)** verrà visualizzata la solita
 maschera mediante la quale poter decidere se filtrare gli articoli in
 Ricerca, oppure in Modifica
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\multi_sito_ec16.bmp](./assets/media/image98.png){width="4.50625in"
-height="2.422222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\multi_sito_ec16.bmp](./assets/media/image98.png)
 
 Scegliendo la voce **Ricerca** sarà poi possibile selezionare gli utenti
 da variare in base ai campi presenti nella videata aggiuntiva
@@ -874,8 +844,7 @@ Questa funzione permette di selezionare gli utenti da variare in base ai
 campi presenti nella videata aggiuntiva clienti/fornitori appositamente
 riservata per il sito precedentemente selezionato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\zvco_pw_002.bmp](./assets/media/image99.png){width="5.0in"
-height="1.9868055555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\zvco_pw_002.bmp](./assets/media/image99.png)
 
 Inserendo un valore in un campo di ricerca verranno elaborati solo i
 conti che contengono quel valore in quel campo.
@@ -885,15 +854,13 @@ Per selezionare i conti che hanno il campo vuoto, è attivo il pulsante
 il pulsante \[F8\], viene segnalata la presenza di campi impostati con
 la dicitura "(impostata)":
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\zvma_pw_004.bmp](./assets/media/image69.png){width="1.1430555555555555in"
-height="0.9284722222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\zvma_pw_004.bmp](./assets/media/image69.png)
 
 **MODIFICA**
 
 Questa funzione permette di impostare il valore le voci da modificare.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\zvco_pw_004.bmp](./assets/media/image100.png){width="5.0in"
-height="1.9868055555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\zvco_pw_004.bmp](./assets/media/image100.png)
 
 Impostando un valore in un campo questo verrà inserito nei conti che
 rispettano i parametri di selezione. Per azzerare un campo è attivo il

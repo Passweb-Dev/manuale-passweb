@@ -29,21 +29,18 @@ portarsi poi nella sezione "**Siti Web -- Amministrazione**" utilizzando
 il menu posizionato sulla sinistra della pagina, e da qui cliccare sul
 pulsante "**Aggiungi un nuovo sito**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_21.bmp](./assets/media/image21.png){width="5.157638888888889in"
-height="3.0722222222222224in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_21.bmp](./assets/media/image21.png)
 
 Nella successiva maschera ci verrà chiesto se quello che vogliamo
 monitorare è un Sito "tradizionale" o un sito Intranet.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_22.bmp](./assets/media/image22.png){width="5.157638888888889in"
-height="3.0722222222222224in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_22.bmp](./assets/media/image22.png)
 
 Selezionando quindi l'opzione "**Sito**" verremo automaticamente
 ricondotti alla maschera "**Gestione Misurabili**" dove dovranno essere
 inseriti tutti i parametri di configurazione del sito da monitorare.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_23.bmp](./assets/media/image23.png){width="5.157638888888889in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_23.bmp](./assets/media/image23.png)
 
 In questo senso, oltre ai classici parametri come possono essere
 ovviamente l'url del sito da monitorare, un eventuale lista di indirizzi
@@ -75,8 +72,7 @@ vuole effettivamente implementare, i seguenti parametri:
   utilizzato per gestire date e orari che verranno poi riportati
   all'interno del sistema per ogni vista o evento tracciato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_24.bmp](./assets/media/image24.png){width="5.157638888888889in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_24.bmp](./assets/media/image24.png)
 
 Una volta impostati tutti i parametri richiesti, cliccando sul pulsante
 "Salva" presente nella parte bassa della maschera il sito in esame verrà
@@ -86,15 +82,13 @@ generato il relativo codice di tracciamento.
 Cliccando quindi sul collegamento "**Vedi codice Tracking**" evidenziato
 in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_25.bmp](./assets/media/image25.png){width="5.157638888888889in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_25.bmp](./assets/media/image25.png)
 
 verremo automaticamente rediretti alla pagina "**Siti Web -- Codice di
 Tracciamento**" del pannello di Amministrazione di Matomo relativo al
 sito appena inserito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_26.bmp](./assets/media/image26.png){width="5.157638888888889in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_26.bmp](./assets/media/image26.png)
 
 A questo punto sarà quindi sufficiente copiare lo snippet di codice
 presente all'interno della sezione "**Codice Javascript**" evidenziato
@@ -103,8 +97,7 @@ nella figura sopra riportata ed inserirlo all'interno del campo
 -- Tracciamento Dati**" (sezione "**Matomo -- Client**") del Wizard del
 proprio sito Passweb
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_27.bmp](./assets/media/image27.png){width="5.795833333333333in"
-height="3.50625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_27.bmp](./assets/media/image27.png)
 
 **ATTENZIONE!** A differenza di quello che avviene nell'integrazione
 Passweb -- Google Analytics dove è sufficiente inserire l'Id di
@@ -129,8 +122,7 @@ configurazione del sito su Matomo) selezionare anche i due parametri
 "**Abilita Tracciamento Ecommerce**" e "**Abilita Tracciamento
 Ricerca**" evidenziati in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_28.bmp](./assets/media/image28.png){width="5.795833333333333in"
-height="3.50625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_28.bmp](./assets/media/image28.png)
 
 Per maggiori informazioni relativamente al monitoraggio ecommerce
 presente nell'integrazione Passweb -- Matomo si veda anche quanto

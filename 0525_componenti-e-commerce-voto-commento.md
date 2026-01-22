@@ -4,8 +4,7 @@
 
 Il Componente **"Voto Commento"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_voto_res.bmp](./assets/media/image690.png){width="2.5340277777777778in"
-height="2.5340277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_voto_res.bmp](./assets/media/image690.png)
 
 può essere inserito solo ed esclusivamente all'interno di un componente
 "**Commenti Associati**" e consente di visualizzare, in corrispondenza
@@ -13,8 +12,7 @@ di ogni singolo commento, un controllo del tipo **Si/No** mediante il
 quale l' utente potrà esprimere una preferenza sull'utilità dello
 specifico commento.
 
-![\\\\192.168.0.84\\d\$\\ManPassweb_Ecommerce\\Videate\\voto_commento_esempio.bmp](./assets/media/image691.png){width="5.460416666666666in"
-height="3.4972222222222222in"}
+![\\\\192.168.0.84\\d\$\\ManPassweb_Ecommerce\\Videate\\voto_commento_esempio.bmp](./assets/media/image691.png)
 
 **NOTA BENE:** per esprimere una preferenza sull'utilità di un commento,
 così come per effettuare un commento o associare un voto ad un prodotto,
@@ -35,8 +33,7 @@ A livello di configurazione, una volta inserito il Componente
 all'interno della pagina web, verrà aperta in automatico **la sua
 maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\voto_commento_configurazione_res.bmp](./assets/media/image692.png){width="4.613194444444445in"
-height="1.7486111111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\voto_commento_configurazione_res.bmp](./assets/media/image692.png)
 
 suddivisa in varie sezioni.
 

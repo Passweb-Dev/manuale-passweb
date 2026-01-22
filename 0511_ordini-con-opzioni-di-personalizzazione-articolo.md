@@ -12,11 +12,9 @@ Mexal / Ho.Re.Ca. delle opzioni di personalizzazione, queste verranno
 riportate **tramite apposite note di riga, precedute, a default, dai
 caratteri "##"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\custom_option_ordine.bmp](./assets/media/image658.png){width="5.969444444444444in"
-height="2.8958333333333335in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\custom_option_ordine.bmp](./assets/media/image658.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\custom_option_ordine_retail.bmp](./assets/media/image659.png){width="4.472222222222222in"
-height="2.9694444444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\custom_option_ordine_retail.bmp](./assets/media/image659.png)
 
 Volendo è anche possibile indicare una serie di caratteri differenti da
 anteporre alle note di riga utilizzate per gestire le opzioni di
@@ -24,8 +22,7 @@ personalizzazione agendo, in questo senso, mediante il parametro
 "**Prefisso Opzioni Articolo**" presente alla pagina "Configurazione
 Ordini" del Wizard
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ordini_prefisso_opzioni.bmp](./assets/media/image660.png){width="5.6194444444444445in"
-height="3.423611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ordini_prefisso_opzioni.bmp](./assets/media/image660.png)
 
 **ATTENZIONE! E' di fondamentale importanza non variare in alcun modo
 sul gestionale le informazioni contenute nelle note relative alle
@@ -54,8 +51,7 @@ In Mexal, ad esempio, sarà necessario portarsi all'interno del menu
 selezionare la sigla del documento interessato (es OC) e cliccare sul
 pulsante "Invio" aprendo così l'editor di modifica.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\stampe_grafiche_mexal.bmp](./assets/media/image661.png){width="5.214583333333334in"
-height="2.748611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\stampe_grafiche_mexal.bmp](./assets/media/image661.png)
 
 Sarà quindi necessario inserire all'interno dell'elemento **"Riga
 Descrittiva**" l'espressione che consente di non stampare, nel relativo
@@ -66,8 +62,7 @@ queste note, l'espressione da inserire sarà la seguente:
 
 **IIF(LEFT\$(\_mmdee,2)=\"##\",\"\",\_mmdee)**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\stampe_grafiche_mexal2.bmp](./assets/media/image662.png){width="5.214583333333334in"
-height="2.748611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\stampe_grafiche_mexal2.bmp](./assets/media/image662.png)
 
 In questo modo nella stampa del documento le righe relative a note che
 iniziano con i caratteri "##" verranno sostituite da righe vuote.
@@ -79,8 +74,7 @@ Per far questo sarà necessario effettuare un doppio clic sul testo "Riga
 Descrittiva" e selezionare all'interno della successiva maschera
 "Proprietà sezione" il parametro "**No stampa righe non valorizzate**"
 
-![Videate\\stampe_grafiche_mexal2.bmp](./assets/media/image663.png){width="5.214583333333334in"
-height="2.748611111111111in"}
+![Videate\\stampe_grafiche_mexal2.bmp](./assets/media/image663.png)
 
 Per maggiori informazioni relativamente alla gestione della modulistica
 grafica si rimanda ai manuali dei relativi prodotti.

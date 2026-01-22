@@ -5,15 +5,13 @@
 Il Componente **"Comparatore"** **può** **essere inserito solo ed
 esclusivamente all'interno delle Pagine Generiche (Pagine Bianche)**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_comparatore_res.bmp](./assets/media/image212.png){width="2.35in"
-height="2.8159722222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_comparatore_res.bmp](./assets/media/image212.png)
 
 e consente di realizzare una tabella di comparazione mediante la quale
 poter mettere a confronto tra loro le diverse caratteristiche e le
 diverse proprietà degli articoli in essa inseriti.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\comparatore_esempio.bmp](./assets/media/image213.png){width="5.3805555555555555in"
-height="3.515277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\comparatore_esempio.bmp](./assets/media/image213.png)
 
 Di base sarà l'utente stesso sul front end del sito a decidere quali
 articoli mettere in comparazione, volendo però è anche possibile
@@ -59,8 +57,7 @@ messaggio di errore e l'articolo con caratteristiche diverse rispetto a
 quelle degli articoli già presenti all'interno del comparatore non verrà
 inserito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\comparatore_errore_aggiunta.bmp](./assets/media/image214.png){width="5.3805555555555555in"
-height="2.2881944444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\comparatore_errore_aggiunta.bmp](./assets/media/image214.png)
 
 **ATTENZIONE! articoli associati a categorie merceologiche prive di un
 set attributi potranno sempre essere aggiunti al Comparatore.**

@@ -28,8 +28,7 @@ La maschera **"Lista dei Buoni Sconto"** mostra un elenco di tutti i
 Buoni Sconto, ordinati per data di attivazione, attualmente codificati
 all'interno del proprio sito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_buoni_sconto.bmp](./assets/media/image564.png){width="5.513194444444444in"
-height="3.4611111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_buoni_sconto.bmp](./assets/media/image564.png)
 
 In particolare all'interno di questo elenco sono evidenziati in:
 
@@ -47,16 +46,14 @@ della colonna stessa.
 Una volta impostato un filtro di ricerca, per poterlo poi eliminare sarà
 sufficiente cliccare sull'icona raffigurante una piccola lente di
 ingrandimento con un -- all'interno (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina_filtro.bmp](./assets/media/image2.png){width="7.777777777777778e-2in"
-height="9.722222222222222e-2in"} ) che comparirà in testata alla colonna
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina_filtro.bmp](./assets/media/image2.png) ) che comparirà in testata alla colonna
 in corrispondenza della quale è stato impostato il filtro stesso.
 
 Infine è anche possibile ordinare, in maniera crescente e/o decrescente,
 gli elementi in griglia cliccando semplicemente sull'icona raffigurante
 due piccole frecce posta anch' essa in testata ad ogni singola colonna
 della griglia (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_ordinamento_griglia.bmp](./assets/media/image3.png){width="0.12361111111111112in"
-height="0.14930555555555555in"} )
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_ordinamento_griglia.bmp](./assets/media/image3.png) )
 
 **ATTENZIONE!** Le colonne **"Quantità"** e **"Utilizzo"** mostrano, per
 ciascuno dei Buoni Sconto in elenco, rispettivamente, il numero massimo
@@ -68,39 +65,32 @@ I pulsanti presenti nella barra degli strumenti consentono
 rispettivamente di:
 
 **Modifica Buono**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_buono.bmp](./assets/media/image565.png){width="0.6298611111111111in"
-height="0.2013888888888889in"} )**:** consente di modificare il Buono
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_buono.bmp](./assets/media/image565.png) )**:** consente di modificare il Buono
 Sconto attualmente selezionato.
 
 **Attiva Buono**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_attiva_buono.bmp](./assets/media/image566.png){width="0.5388888888888889in"
-height="0.18819444444444444in"} )**:** consente di attivare il Buono
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_attiva_buono.bmp](./assets/media/image566.png) )**:** consente di attivare il Buono
 Sconto attualmente selezionato.
 
 **Disattiva Buono**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_disattiva_buono.bmp](./assets/media/image567.png){width="0.6361111111111111in"
-height="0.1951388888888889in"} )**:** consente di disattivare il Buono
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_disattiva_buono.bmp](./assets/media/image567.png) )**:** consente di disattivare il Buono
 Sconto attualmente selezionato.
 
 **Copia Buono**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_copia_buono.bmp](./assets/media/image568.png){width="0.5388888888888889in"
-height="0.1951388888888889in"} )**:** consente di copiare il Buono
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_copia_buono.bmp](./assets/media/image568.png) )**:** consente di copiare il Buono
 Sconto attualmente selezionato. Le copie, ovviamente, saranno impostate
 a default come "Non Attive".
 
 **Elimina Buono**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_buono.bmp](./assets/media/image569.png){width="0.5847222222222223in"
-height="0.1951388888888889in"} )**:** consente di eliminare
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_buono.bmp](./assets/media/image569.png) )**:** consente di eliminare
 definitivamente il Buono Sconto attualmente selezionato.
 
 **Aggiungi Buono**
-**(**![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_buono.bmp](./assets/media/image570.png){width="0.6493055555555556in"
-height="0.2076388888888889in"} **):** consente di definire un nuovo
+**(**![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_buono.bmp](./assets/media/image570.png) **):** consente di definire un nuovo
 Buono Sconto. Cliccando su questo pulsante verrà infatti visualizzata la
 relativa maschera di creazione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuovo_buono_sconto.bmp](./assets/media/image571.png){width="5.772916666666666in"
-height="3.4743055555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuovo_buono_sconto.bmp](./assets/media/image571.png)
 
 attraverso cui poter definire tutti i parametri necessari per la
 codifica e l'utilizzo del nuovo Buono Sconto.
@@ -246,8 +236,7 @@ Per associare una nuova Zona al Buono Sconto che si sta realizzando sarà
 sufficiente cliccare sul pulsante "**Aggiungi una zona**" ed inserirla
 quindi all'interno del corrispondente riquadro
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\buono_sconto_zone_spedizione.bmp](./assets/media/image572.png){width="4.941666666666666in"
-height="2.798611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\buono_sconto_zone_spedizione.bmp](./assets/media/image572.png)
 
 Il campo "Aggiungi una zona" è ad autocompletamento per cui iniziando a
 digitare il nome della Zona che si intende associare al Buono verrà
@@ -257,8 +246,7 @@ maggiori informazioni relativamente a come codificare una Zona di
 spedizione utilizzabile poi a livello di Promozioni si veda quanto
 indicata all'interno del capitolo "*Ordini -- Zone*" di questo manuale)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\buoni_Sconto_zone_spedizione_2.bmp](./assets/media/image573.png){width="4.941666666666666in"
-height="2.798611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\buoni_Sconto_zone_spedizione_2.bmp](./assets/media/image573.png)
 
 Nel momento in cui digitando il nome della Zona non dovesse essere
 proposta nessuna opzione, significa che la Zona indicata non è tra

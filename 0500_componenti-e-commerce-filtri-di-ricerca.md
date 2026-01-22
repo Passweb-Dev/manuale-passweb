@@ -8,8 +8,7 @@ configurare il componente "**Ricerca sul sito**" (sezione dei Componenti
 Comuni) impostando il parametro "**Tipo**" sul valore "**Ricerca
 E-Commerce**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ricerca_ecommerce0_res.bmp](./assets/media/image24.png){width="4.644444444444445in"
-height="3.067361111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ricerca_ecommerce0_res.bmp](./assets/media/image24.png)
 
 e settare poi gli altri parametri di configurazione coerentemente con il
 tipo di pannello di ricerca che si intende realizzare (filtri vincolati,
@@ -40,8 +39,7 @@ ricerca Ecommerce i seguenti elementi:
 
 - Filtro Set Attributi
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtro_ricerca_catalogo_aggiunta_componenti_res.bmp](./assets/media/image595.png){width="2.5340277777777778in"
-height="2.5215277777777776in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtro_ricerca_catalogo_aggiunta_componenti_res.bmp](./assets/media/image595.png)
 
 Per maggiori informazioni in relazione alle diverse tipologie di campi
 gestibili all'interno di un pannello di ricerca Ecommerce si vedano
@@ -59,8 +57,7 @@ parametro "**Tipologia di Filtro**" mediante il quale poter indicare lo
 specifico campo Mexal o lo specifico Attributo Passweb su cui dovrà
 essere realizzato il filtro di ricerca che si intende implementare.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_filtro_testo_configurazione1_res.bmp](./assets/media/image596.png){width="4.644444444444445in"
-height="2.9694444444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_filtro_testo_configurazione1_res.bmp](./assets/media/image596.png)
 
 In particolare nel caso in cui il campo "**Tipologia di Filtro**" sia
 impostato sul valore:
@@ -108,8 +105,7 @@ utilizzato, sarà possibile selezionare uno tra i seguenti valori:
   esame corrisponderà al campo **"Descrizione"** presente all'interno
   della maschera **"Modifica Articolo"** qui di seguito riportata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_descrizione.bmp](./assets/media/image430.png){width="5.779166666666667in"
-height="3.3555555555555556in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_descrizione.bmp](./assets/media/image430.png)
 
 > Inserendolo quindi all'interno del pannello di ricerca esso consentirà
 > di ricercare gli articoli presenti nel Catalogo E-Commerce secondo
@@ -283,8 +279,7 @@ height="3.3555555555555556in"}
 > In queste condizioni nella maschera di configurazione del componente
 > verrà visualizzato anche il campo **Step**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\flitro_lista_step_prezzo_res.bmp](./assets/media/image597.png){width="4.644444444444445in"
-height="2.9506944444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\flitro_lista_step_prezzo_res.bmp](./assets/media/image597.png)
 
 > mediante il quale poter indicare l'intervallo di definizione dei vari
 > scaglioni di prezzo su cui sarà poi possibile effettuare le ricerche.
@@ -296,16 +291,14 @@ height="2.9506944444444443in"}
 > base dei prezzi di listino degli articoli effettivamente presenti in
 > catalogo.
 
-![Videate\\flitro_lista_step_prezzo2.bmp](./assets/media/image598.png){width="5.0in"
-height="3.607638888888889in"}
+![Videate\\flitro_lista_step_prezzo2.bmp](./assets/media/image598.png)
 
 > **ATTENZIONE! Nel caso in cui lo step impostato dovesse essere tale da
 > produrre un numero di scaglioni superiore a 100, al salvataggio del
 > componente verrà visualizzato un apposito messaggio di errore e non
 > verrà di fatto impostato nessun tipo di scaglione.**
 
-![Videate\\flitro_lista_step_prezzo3.bmp](./assets/media/image599.png){width="5.8284722222222225in"
-height="3.6444444444444444in"}
+![Videate\\flitro_lista_step_prezzo3.bmp](./assets/media/image599.png)
 
 > **ATTENZIONE! Impostando questo tipo di filtro per la prima volta,
 > sarà poi necessario effettuare una sincronizzazione totale in modo
@@ -321,8 +314,7 @@ height="3.6444444444444444in"}
 > dei "Codici Conto Fornitore" ad essi associati mediante l'apposita
 > tabella gestionale
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\codici_fornitore.bmp](./assets/media/image600.png){width="6.0368055555555555in"
-height="3.7423611111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\codici_fornitore.bmp](./assets/media/image600.png)
 
 > **ATTENZIONE!** affinché un articolo possa essere ricercato per quelli
 > che sono i suoi Codici Fornitore è necessario che:
@@ -344,8 +336,7 @@ height="3.7423611111111112in"}
 > del "Nominativo" dei fornitori ad essi associati mediante l'apposita
 > tabella gestionale
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nominativi_fornitore.bmp](./assets/media/image601.png){width="6.0368055555555555in"
-height="3.7423611111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nominativi_fornitore.bmp](./assets/media/image601.png)
 
 > **ATTENZIONE!** come per i codici fornitore, anche in questo caso,
 > affinché un articolo possa essere ricercato per quelli che sono i
@@ -367,16 +358,14 @@ height="3.7423611111111112in"}
 > gli articoli presenti all'interno del Catalogo Ecommerce sulla base
 > dei loro "Codici Articolo Fornitore"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\codici_articolo_fornitore.bmp](./assets/media/image602.png){width="6.0368055555555555in"
-height="3.7423611111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\codici_articolo_fornitore.bmp](./assets/media/image602.png)
 
 - **FullText:** selezionando questo valore il Componente "Filtro Testo"
   che si sta realizzando consentirà di ricercare gli articoli presenti
   in Catalogo sulla base dei valori presenti, per ciascuno di essi,
   all'interno del campo **FullText**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ricerca_fulltext_configurazione_2.bmp](./assets/media/image603.png){width="5.822222222222222in"
-height="3.5340277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ricerca_fulltext_configurazione_2.bmp](./assets/media/image603.png)
 
 > Per maggiori informazioni relativamente a come creare e gestire il
 > campo FullText evidenziato in figura si veda anche la corrispondente
@@ -395,8 +384,7 @@ height="3.5340277777777778in"}
 > In queste condizioni nella maschera di configurazione del componente
 > verrà infatti visualizzato anche il campo **Serie Taglie**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_articolo_taglie_colori.bmp](./assets/media/image604.png){width="5.1409722222222225in"
-height="3.147222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_articolo_taglie_colori.bmp](./assets/media/image604.png)
 
 > mediante il quale poter appunto indicare, selezionandola dal relativo
 > menu a tendina, la specifica serie di Taglie/Colori in relazione a cui
@@ -409,8 +397,7 @@ height="3.147222222222222in"}
   visualizzate sul front end del sito saranno relative unicamente a
   quella stessa serie.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ricerca_articolo_taglie_colori.bmp](./assets/media/image605.png){width="5.386805555555555in"
-height="3.263888888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ricerca_articolo_taglie_colori.bmp](./assets/media/image605.png)
 
 > In queste condizioni inoltre se non dovesse essere indicata una
 > specifica Label, come intestazione del campo di ricerca verrà
@@ -428,8 +415,7 @@ height="3.263888888888889in"}
 > ricerca visualizzate sul front end del sito saranno relative a tutte
 > le serie di Taglie/Colori attualmente gestite.
 
-![Videate\\filtri_articolo_taglie_colori2.bmp](./assets/media/image606.png){width="5.386805555555555in"
-height="3.5277777777777777in"}
+![Videate\\filtri_articolo_taglie_colori2.bmp](./assets/media/image606.png)
 
 > Se il componente di ricerca dovesse invece essere inserito in una
 > determinata pagina di categoria le opzioni di ricerca visualizzate sul
@@ -460,8 +446,7 @@ height="3.5277777777777777in"}
 > In queste condizioni nella maschera di configurazione del componente
 > verrà visualizzato anche il campo **Struttura**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_articolo_strutture.bmp](./assets/media/image607.png){width="4.631944444444445in"
-height="2.9506944444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_articolo_strutture.bmp](./assets/media/image607.png)
 
 > mediante il quale poter indicare, selezionandola dal relativo menu a
 > tendina, la specifica Struttura in relazione a cui dovranno poi essere
@@ -531,8 +516,7 @@ Nel caso in cui l'Attributo selezionato sia di tipo numerico nella
 maschera di configurazione del componente potrebbe essere visualizzato
 anche il campo **Step**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtro_lista_step_res.bmp](./assets/media/image608.png){width="4.65in"
-height="2.9444444444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtro_lista_step_res.bmp](./assets/media/image608.png)
 
 mediante il quale poter indicare l'intervallo di definizione dei vari
 scaglioni che rappresenteranno poi le diverse possibili opzioni di

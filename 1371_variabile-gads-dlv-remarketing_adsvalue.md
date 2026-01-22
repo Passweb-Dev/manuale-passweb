@@ -22,27 +22,23 @@ variabile in questione:
     variabile cliccando sul pulsante "**Nuova**" presente in
     corrispondenza del box "**Variabili definite dall'utente**"
 
-![Videate\\gtm_ecommerce_avanzato_1.bmp](./assets/media/image49.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_1.bmp](./assets/media/image49.png)
 
 2.  Cliccare sul pulsante "**Scegli un tipo di variabile per iniziare
     l'installazione**" presente in corrispondenza del box
     "**Configurazione Variabile**"
 
-![Videate\\gtm_ecommerce_avanzato_2.bmp](./assets/media/image50.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_2.bmp](./assets/media/image50.png)
 
 > e selezionare, tra le varie proposte, l'opzione "**Variabile di
 > livello dati**"
 
-![Videate\\gtm_ecommerce_avanzato_3.bmp](./assets/media/image51.png){width="5.33125in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ecommerce_avanzato_3.bmp](./assets/media/image51.png)
 
 3.  Nella successiva maschera impostare i campi di configurazione della
     variabile come di seguito indicato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_remarketing_dinamico_1.bmp](./assets/media/image218.png){width="5.375694444444444in"
-height="3.325in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_remarketing_dinamico_1.bmp](./assets/media/image218.png)
 
 - **Nome varabile di livello dati**: impostare sul valore
   "**remarketing_ads.value**"
@@ -53,8 +49,7 @@ height="3.325in"}
     remarketing_ads.value**") utilizzando l'apposito campo presente
     nella parte alta della pagina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_remarketing_dinamico_2.bmp](./assets/media/image219.png){width="5.375694444444444in"
-height="3.325in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_remarketing_dinamico_2.bmp](./assets/media/image219.png)
 
 > e cliccare sul pulsante "**Salva**"
 

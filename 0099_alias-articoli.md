@@ -29,8 +29,7 @@ Accedendo a questa sezione del Wizard verrà quindi visualizzata la
 maschera "**Gestione Alias Articoli**" suddivisa in due distinte
 sezioni:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\alias_articoli.bmp](./assets/media/image480.png){width="5.759722222222222in"
-height="3.3895833333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\alias_articoli.bmp](./assets/media/image480.png)
 
 - nella parte sinistra è visualizzato l'elenco di tutti gli articoli, ad
   eccezione di quelli spesa (tipo S) e modificatori (tipo M),
@@ -51,14 +50,12 @@ I due pulsanti presenti nella barra degli strumenti contestuale
 all'elenco articoli consentono rispettivamente di:
 
 - **Importa da file** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_importa_da_file.bmp](./assets/media/image473.png){width="0.5583333333333333in"
-  height="0.175in"} ): consente di importare in maniera massiva gli
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_importa_da_file.bmp](./assets/media/image473.png) ): consente di importare in maniera massiva gli
   Alias di Prodotto partendo da un file .csv o .txt. Cliccando su questo
   pulsante verrà infatti aperta la maschera di importazione "**File
   Alias Articoli**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\importa_alias_articoli.bmp](./assets/media/image481.png){width="5.759722222222222in"
-height="3.3895833333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\importa_alias_articoli.bmp](./assets/media/image481.png)
 
 > all'interno della quale poter indicare:
 
@@ -178,14 +175,12 @@ height="3.3895833333333334in"}
 > campo "Automatico" verrà infatti impostato sempre a "N"**
 
 - **Esporta** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_esporta_testo.bmp](./assets/media/image475.png){width="0.31805555555555554in"
-  height="0.1625in"} ): consente di esportare l'elenco degli Alias
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_esporta_testo.bmp](./assets/media/image475.png) ): consente di esportare l'elenco degli Alias
   Articolo attualmente codificati, all'interno di un file .csv.
   Cliccando su questo pulsante verrà infatti visualizzata la maschera di
   esportazione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\esporta_alias_articolo.bmp](./assets/media/image482.png){width="5.759722222222222in"
-height="3.3895833333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\esporta_alias_articolo.bmp](./assets/media/image482.png)
 
 > all'interno della quale poter indicare:
 
@@ -215,8 +210,7 @@ selezionare lo specifico prodotto cui si vuole associare questo stesso
 Alias e, successivamente, cliccare sul pulsante "**Nuovo Alias**"
 presente nella barra degli strumenti della parte destra della maschera.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuovo_alias_articolo.bmp](./assets/media/image477.png){width="5.759722222222222in"
-height="3.3895833333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuovo_alias_articolo.bmp](./assets/media/image477.png)
 
 All'interno della maschera "**Nuovo Alias**" sarà quindi necessario
 assegnare un valore ai seguenti parametri:
@@ -330,12 +324,10 @@ degli alias attualmente associati alla pagina selezionata, consentiranno
 infine di:
 
 - **Modifica**(
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica.bmp](./assets/media/image349.png){width="0.35694444444444445in"
-  height="0.16875in"} ): consente di modificare l'Alias Articolo
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica.bmp](./assets/media/image349.png) ): consente di modificare l'Alias Articolo
   attualmente selezionato
 
 - **Elimina**(
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina.bmp](./assets/media/image347.png){width="0.31805555555555554in"
-  height="0.16875in"} ): consente di eliminare l'Alias Articolo
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina.bmp](./assets/media/image347.png) ): consente di eliminare l'Alias Articolo
   attualmente selezionato
 

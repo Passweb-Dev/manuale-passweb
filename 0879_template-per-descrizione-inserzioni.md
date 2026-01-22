@@ -17,8 +17,7 @@ Descrizione"** presente nella parte alta della maschera "Lista delle
 Inserzioni"
 
 **Metodi di Descrizione** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_metodi_descrizione.bmp](./assets/media/image62.png){width="0.7340277777777777in"
-height="0.18194444444444444in"} )**:** consente di creare e salvare in
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_metodi_descrizione.bmp](./assets/media/image62.png) )**:** consente di creare e salvare in
 appositi modelli le configurazioni dei principali elementi descrittivi
 (Titolo, Categoria Merceologica, Immagini, Condizione prodotti ...) che
 caratterizzano gli articoli presenti all'interno di un' Inserzione
@@ -27,25 +26,21 @@ Cliccando sul pulsante in esame verrà visualizzata la maschera "*Lista
 dei Metodi delle Descrizioni delle Inserzioni*" contenente l'elenco di
 tutti i modelli attualmente codificati.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\elenco_metodi_descrizione.bmp](./assets/media/image362.png){width="5.383333333333334in"
-height="3.6493055555555554in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\elenco_metodi_descrizione.bmp](./assets/media/image362.png)
 
 I pulsanti presenti nella contestuale barra degli strumenti consentono
 rispettivamente di:
 
 - **Elimina Metodi delle Descrizioni** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_metodi_descrizione.bmp](./assets/media/image64.png){width="1.0652777777777778in"
-  height="0.175in"} ): consente di eliminare il template attualmente
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_metodi_descrizione.bmp](./assets/media/image64.png) ): consente di eliminare il template attualmente
   selezionato in elenco
 
 - **Modifica Metodi delle Descrizioni** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_metodi_descrizione.bmp](./assets/media/image65.png){width="1.1104166666666666in"
-  height="0.18194444444444444in"} ): consente di modificare il template
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_metodi_descrizione.bmp](./assets/media/image65.png) ): consente di modificare il template
   attualmente selezionato in elenco
 
 - **Aggiungi Metodi delle Descrizioni** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_metodi_descrizione.bmp](./assets/media/image66.png){width="1.1166666666666667in"
-  height="0.18194444444444444in"} ): consente di creare un nuovo
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_metodi_descrizione.bmp](./assets/media/image66.png) ): consente di creare un nuovo
   template dove poter impostare le configurazioni dei principali
   elementi descrittivi che dovranno caratterizzare gli articoli presenti
   all'interno dell' Inserzione in cui verrà poi utilizzato il template
@@ -54,8 +49,7 @@ rispettivamente di:
 > Cliccando su questo pulsante verrà quindi visualizzata la maschera
 > "*Dati Metodo delle Descrizioni*"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_mkt_inserzioni_7.bmp](./assets/media/image363.png){width="5.792361111111111in"
-height="3.422222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_mkt_inserzioni_7.bmp](./assets/media/image363.png)
 
 > all'interno della quale poter indicare:
 
@@ -97,8 +91,7 @@ height="3.422222222222222in"}
 > regole di configurazione relative alle Specifiche da inserire nelle
 > Inserzioni in cui verrà utilizzato il Metodo di Descrizione in esame
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_mkt_inserzioni_8.bmp](./assets/media/image364.png){width="5.792361111111111in"
-height="3.422222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_mkt_inserzioni_8.bmp](./assets/media/image364.png)
 
 > **ATTENZIONE!** Le specifiche presenti in un Template relativo ai
 > "Metodi di Descrizione" varieranno in relazione alla piattaforma
@@ -113,7 +106,6 @@ verranno automaticamente aggiornate anche tutte le Inserzioni che
 utilizzano quello stesso Template
 
 Il pulsante **Inserzioni** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_inserzioni.bmp](./assets/media/image55.png){width="0.3958333333333333in"
-height="0.175in"} ) consente di tornare all'elenco delle Inserzioni
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_inserzioni.bmp](./assets/media/image55.png) ) consente di tornare all'elenco delle Inserzioni
 attualmente codificate
 

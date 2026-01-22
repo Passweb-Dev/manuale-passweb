@@ -19,8 +19,7 @@ La sezione "**Tasse**", accessibile dalla voce di menu principale
 Portandosi dunque all'interno di questa sezione verrà visualizzata la
 maschera "**Tasse**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_tasse.bmp](./assets/media/image436.png){width="5.811805555555556in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_tasse.bmp](./assets/media/image436.png)
 
 contenente l'elenco di tutte le tasse addizionali attualmente codificate
 e gestite all'interno del sito.
@@ -33,25 +32,21 @@ stessa.
 Una volta impostato un filtro di ricerca, per poterlo poi eliminare sarà
 sufficiente cliccare sull'icona raffigurante una piccola lente di
 ingrandimento con un -- all'interno (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina_filtro.bmp](./assets/media/image2.png){width="7.777777777777778e-2in"
-height="9.722222222222222e-2in"} ) che comparirà in testata alla colonna
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina_filtro.bmp](./assets/media/image2.png) ) che comparirà in testata alla colonna
 in corrispondenza della quale è stato impostato il filtro stesso.
 
 Infine è anche possibile ordinare, in maniera crescente e/o decrescente,
 gli elementi in griglia cliccando semplicemente sull'icona raffigurante
 due piccole frecce posta anch' essa in testata ad ogni singola colonna
 della griglia (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_ordinamento_griglia.bmp](./assets/media/image3.png){width="0.12361111111111112in"
-height="0.14930555555555555in"} )
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_ordinamento_griglia.bmp](./assets/media/image3.png) )
 
 I pulsanti presenti nella barra degli strumenti consentono
 rispettivamente di:
 
 **Attiva** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_attiva_tassa.bmp](./assets/media/image437.png){width="0.4548611111111111in"
-height="0.175in"} ) **\\ Disattiva**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_disattiva_tassa.bmp](./assets/media/image438.png){width="0.5583333333333333in"
-height="0.18194444444444444in"} ) **Tassa**: consente di
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_attiva_tassa.bmp](./assets/media/image437.png) ) **\\ Disattiva**
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_disattiva_tassa.bmp](./assets/media/image438.png) ) **Tassa**: consente di
 attivare\\disattivare la tassa addizionale attualmente selezionata in
 elenco. Ovviamente potranno essere effettivamente applicate ai vari
 ordini effettuati all'interno del sito, solo ed esclusivamente le tasse
@@ -67,28 +62,23 @@ l'apertura automatica (a seguito di un determinato periodo di
 inattività) di una nuova sessione.
 
 **Elimina Tassa**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_tassa.bmp](./assets/media/image439.png){width="0.48680555555555555in"
-height="0.18194444444444444in"} ): consente di eliminare la tassa
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_tassa.bmp](./assets/media/image439.png) ): consente di eliminare la tassa
 addizionale attualmente selezionata in elenco
 
 **Modifica Tassa**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_tassa.bmp](./assets/media/image440.png){width="0.5451388888888888in"
-height="0.18194444444444444in"} ): consente di modificare i parametri di
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_tassa.bmp](./assets/media/image440.png) ): consente di modificare i parametri di
 configurazione della tassa addizionale attualmente selezionata in elenco
 
 **Copia Tassa**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_copia_tassa.bmp](./assets/media/image441.png){width="0.44166666666666665in"
-height="0.1625in"} ): consente di duplicare la tassa addizionale
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_copia_tassa.bmp](./assets/media/image441.png) ): consente di duplicare la tassa addizionale
 attualmente selezionata in elenco.
 
 **Aggiungi Tassa**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_tassa.bmp](./assets/media/image442.png){width="0.5909722222222222in"
-height="0.175in"} ): consente di definire una nuova tassa addizionale.
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_tassa.bmp](./assets/media/image442.png) ): consente di definire una nuova tassa addizionale.
 Cliccando su questo pulsante verrà quindi visualizzata la maschera
 **"Nuova Tassa"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuova_tassa.bmp](./assets/media/image443.png){width="5.565277777777778in"
-height="3.265972222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuova_tassa.bmp](./assets/media/image443.png)
 
 all'interno della quale poter definire le caratteristiche della tassa
 che si intende codificare.

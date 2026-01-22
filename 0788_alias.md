@@ -9,8 +9,7 @@ Alias associati agli articoli attualmente gestiti all'interno del sito.
 Una volta effettuato l'accesso a questa pagina verrà quindi visualizzata
 la maschera, **"Gestione Articoli -- Alias"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\codici_alias_articoli.bmp](./assets/media/image309.png){width="4.8180555555555555in"
-height="2.8895833333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\codici_alias_articoli.bmp](./assets/media/image309.png)
 
 contenente l'elenco di tutti i codici alias associati agli articoli
 attualmente presenti in catalogo.
@@ -23,16 +22,14 @@ stessa.
 Una volta impostato un filtro di ricerca, per poterlo poi eliminare sarà
 sufficiente cliccare sull'icona raffigurante una piccola lente di
 ingrandimento con un -- all'interno (
-![Videate\\icona_elimina_filtro.bmp](./assets/media/image86.png){width="7.777777777777778e-2in"
-height="9.722222222222222e-2in"} ) che comparirà in testata alla colonna
+![Videate\\icona_elimina_filtro.bmp](./assets/media/image86.png) ) che comparirà in testata alla colonna
 in corrispondenza della quale è stato impostato il filtro stesso.
 
 Infine è anche possibile ordinare, in maniera crescente e/o decrescente,
 gli elementi in griglia cliccando semplicemente sull'icona raffigurante
 due piccole frecce posta anch' essa in testata ad ogni singola colonna
 della griglia (
-![Videate\\icona_ordinamento_griglia.bmp](./assets/media/image185.png){width="0.12361111111111112in"
-height="0.14930555555555555in"} )
+![Videate\\icona_ordinamento_griglia.bmp](./assets/media/image185.png) )
 
 Per ogni elemento presente in elenco è indicato:
 

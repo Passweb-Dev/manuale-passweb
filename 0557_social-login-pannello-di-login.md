@@ -4,16 +4,14 @@
 
 Il Componente **"Social Login"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\campo_social_login_res.bmp](./assets/media/image78.png){width="2.5388888888888888in"
-height="2.5388888888888888in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\campo_social_login_res.bmp](./assets/media/image78.png)
 
 permette di inserire all'interno del pannello di login una serie di
 pulsanti mediante i quali poter consentire agli utenti del sito di
 effettuare l'autenticazione utilizzando direttamente i propri profili
 social o il proprio Apple ID.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\social_login.bmp](./assets/media/image79.png){width="4.967361111111111in"
-height="3.5131944444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\social_login.bmp](./assets/media/image79.png)
 
 **Nel momento in cui un utente non ancora registrato sul sito Passweb
 dovesse effettuare l'autenticazione utilizzando uno dei propri account
@@ -91,8 +89,7 @@ mail, non conterrà però alcun link di attivazione account.
 Inserendo il Componente all'interno del pannello di login verrà aperta
 **la maschera di gestione e di configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_login_configurazione_res.bmp](./assets/media/image80.png){width="5.143055555555556in"
-height="3.0909722222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\social_login_configurazione_res.bmp](./assets/media/image80.png)
 
 suddivisa in varie sezioni.
 
@@ -183,8 +180,7 @@ l'integrazione tra il sito Passweb ed uno dei social network inseriti
 all'interno del pannello di login, il componente visualizzerà un
 apposito messaggio di errore
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\social_login_configurazione2_res.bmp](./assets/media/image81.png){width="4.967361111111111in"
-height="3.5131944444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\social_login_configurazione2_res.bmp](./assets/media/image81.png)
 
 Per maggiori informazioni relativamente all'integrazione tra Passweb e i
 social network al fine di consentire agli utenti del sito di effettuare

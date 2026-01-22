@@ -15,8 +15,7 @@ Nello specifico, lato gestionale, sarà necessario:
   Azienda -- Dati Aziendali (F4) --Moduli Aggiuntivi Configurazione
   Azienda -- Docuvision")*
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagina_pannello_22.comm.bmp](./assets/media/image116.png){width="5.363888888888889in"
-height="3.292361111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagina_pannello_22.comm.bmp](./assets/media/image116.png)
 
 **NOTA BENE:** il parametro **"Gestione Completa"** è unico per tutte le
 sotto aziende eventualmente gestite. Ciò significa dunque che variando
@@ -38,19 +37,16 @@ automaticamente propagata anche a tutte le altre sotto aziende.
 > accessibili dal menu *"Azienda -- Docuvision -- Impostazioni
 > Docuvision -- Classi Documento".*
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\docuvision_5_passcom.bmp](./assets/media/image117.png){width="4.052083333333333in"
-height="2.6555555555555554in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\docuvision_5_passcom.bmp](./assets/media/image117.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\docuvision_6_passcom.bmp](./assets/media/image118.png){width="4.123611111111111in"
-height="2.720833333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\docuvision_6_passcom.bmp](./assets/media/image118.png)
 
 > In entrambi i casi, selezionando una delle classi presenti in elenco e
 > cliccando sul pulsante "**Pubblicazione Documenti**" (**F7**) verrà
 > visualizzata la maschera "**Configurazione pubblicazione documenti
 > docuvision**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\docuvision_7_passcom.bmp](./assets/media/image119.png){width="4.1819444444444445in"
-height="3.441666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\docuvision_7_passcom.bmp](./assets/media/image119.png)
 
 > attraverso la quale poter decidere se la relativa classe documento
 > dovrà o meno essere pubblicata anche all'interno del sito
@@ -72,8 +68,7 @@ height="3.441666666666667in"}
 > ogni anno effettivamente gestito e, ovviamente, potranno essere
 > ricercati dei documenti solo per quegli stessi anni
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\comm_cartelle_anni.bmp](./assets/media/image120.png){width="5.519444444444445in"
-height="3.4805555555555556in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\comm_cartelle_anni.bmp](./assets/media/image120.png)
 
 - **Dettaglio Tipo Documento** -- attivo solo per alcune delle classi
   Docuvision predefinite.
@@ -91,8 +86,7 @@ height="3.4805555555555556in"}
 > selezionata verrà poi creata all'interno del sito una corrispondente
 > cartella
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\comm_cartelle_tipo_documento.bmp](./assets/media/image121.png){width="5.519444444444445in"
-height="3.4805555555555556in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\comm_cartelle_tipo_documento.bmp](./assets/media/image121.png)
 
 **NOTA BENE:** la ricerca per tipologia di documento può essere attivata
 unicamente per alcune delle classi Docuvision predefinite. Nel caso
@@ -131,8 +125,7 @@ documenti in area riservata, sarà necessario, lato gestionale:
   quindi al gruppo "**Servizi Web API**" (solo utenti di questo gruppo
   potranno infatti utilizzare i relativi servizi)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\passcom_webApi_1.bmp](./assets/media/image122.png){width="4.675in"
-height="2.6430555555555557in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\passcom_webApi_1.bmp](./assets/media/image122.png)
 
 - Definire le Aziende dell'installazione per cui sarà effettivamente
   possibile utilizzare le Web Api.
@@ -142,8 +135,7 @@ height="2.6430555555555557in"}
 > "**Impostazioni**" (F11) in maniera tale da accedere alla maschera
 > "**Impostazioni Gruppo ...**" evidenziata in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\passcom_webApi_2.bmp](./assets/media/image123.png){width="5.616666666666666in"
-height="3.220833333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\passcom_webApi_2.bmp](./assets/media/image123.png)
 
 > Il campo "**Aziende**" consentirà di indicare esattamente le aziende
 > per cui sarà possibile utilizzare le Web Api.
@@ -186,8 +178,7 @@ Lato Passweb sarà invece necessario:
   fatto che Passcom sia installato presso la Web Farm Passepartout o in
   locale presso il cliente
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\parametri_conf_Passcom_webAPI_locale.bmp](./assets/media/image124.png){width="5.5777777777777775in"
-height="3.5194444444444444in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\parametri_conf_Passcom_webAPI_locale.bmp](./assets/media/image124.png)
 
 > In ogni caso si tratterà comunque di impostare un valore per i
 > seguenti campi:
@@ -207,8 +198,7 @@ height="3.5194444444444444in"}
 > webapi**" ("*Servizi -- Configurazioni -- Configurazione moduli -- Web
 > Api*")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\passcom_webApi_3.bmp](./assets/media/image125.png){width="3.4868055555555557in"
-height="1.7465277777777777in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\passcom_webApi_3.bmp](./assets/media/image125.png)
 
 > Supponendo dunque che i valori presenti all'interno dei campi
 > evidenziati in figura siano rispettivamente mrossi e 9104 il Base

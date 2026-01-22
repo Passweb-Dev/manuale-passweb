@@ -35,14 +35,12 @@ Nello specifico sarà necessario accedere alla pagina di configurazione
 del proprio Account Yahoo cliccando per questo sulla voce "**Info
 Account**" presente all'interno del menu evidenziato in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\server_smtp_yahoo.bmp](./assets/media/image14.png){width="5.441666666666666in"
-height="3.7666666666666666in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\server_smtp_yahoo.bmp](./assets/media/image14.png)
 
 Sarà quindi necessario portarsi nella sezione relativa alla "**Sicurezza
 dell'Account**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\server_smtp_yahoo2.bmp](./assets/media/image15.png){width="5.441666666666666in"
-height="3.7666666666666666in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\server_smtp_yahoo2.bmp](./assets/media/image15.png)
 
 e cliccare sul pulsante "**Genera Password dell'app**" come indicato
 nella figura sopra riportata.
@@ -61,6 +59,5 @@ utilizzare il server di posta di Yahoo potrebbe essere necessario
 attivare l'opzione "Consenti le app che utilizzano un accesso meno
 sicuro" come evidenziato nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\server_smtp_yahoo4.bmp](./assets/media/image16.png){width="5.441666666666666in"
-height="3.7666666666666666in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\server_smtp_yahoo4.bmp](./assets/media/image16.png)
 

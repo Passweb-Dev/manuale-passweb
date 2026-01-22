@@ -5,8 +5,7 @@
 Il componente **"Iscrizione Newsletter"**, presente in Passweb tra i
 componenti di tipo "Interazione Utente"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_iscrizione_newsletter_res.bmp](./assets/media/image34.png){width="2.8118055555555554in"
-height="2.8180555555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_iscrizione_newsletter_res.bmp](./assets/media/image34.png)
 
 consente di inserire all'interno del sito i form di iscrizione /
 disiscrizione ai sistemi di Newsletter realizzati con una delle seguenti

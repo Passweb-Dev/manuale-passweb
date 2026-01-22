@@ -48,8 +48,7 @@ sito utilizzando l'approccio tradizionale e creando quindi, per prima
 cosa, la versione desktop che potrebbe avere un layout del tipo di
 quello rappresentato in figura.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gr_5.jpg](./assets/media/image49.jpeg){width="2.8208333333333333in"
-height="2.8208333333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gr_5.jpg](./assets/media/image49.jpeg)
 
 Nel fare questo però dovremo sempre avere ben presente l'obbiettivo
 finale; i tre elementi A, B e C dovranno quindi avere dimensioni in
@@ -65,14 +64,12 @@ situazione) per variare la larghezza di questi elementi impostandola al
 larghezza l'intera pagina disponendosi uno sotto l'altro come mostrato
 nella figura di seguito riportata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gr_6.jpg](./assets/media/image50.jpeg){width="1.8805555555555555in"
-height="2.8208333333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gr_6.jpg](./assets/media/image50.jpeg)
 
 Lo stesso tipo di ragionamento dovrà essere utilizzato anche per gli
 eventuali contenuti presenti all'interno dei contenitori A, B e C.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gr_7.jpg](./assets/media/image51.jpeg){width="6.574305555555555in"
-height="3.761111111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gr_7.jpg](./assets/media/image51.jpeg)
 
 **ATTENZIONE!** Per poter creare un layout del tipo di quello
 evidenziato in figura in una Variante Responsiva di Passweb sarà

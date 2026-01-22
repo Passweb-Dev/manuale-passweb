@@ -8,8 +8,7 @@ sul valore **"Mexal Locale"** in maniera tale da poter visualizzare
 tutti i parametri necessari per realizzare l'integrazione
 sito-gestionale in questa specifica configurazione di prodotto.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\parametri_conf_Mexal.bmp](./assets/media/image10.png){width="5.870138888888889in"
-height="3.558333333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\parametri_conf_Mexal.bmp](./assets/media/image10.png)
 
 In queste condizioni, dunque, sarà necessario specificare un valore per
 i seguenti parametri:
@@ -99,8 +98,7 @@ riferimento il parametro "**Aggiorna descrizioni in ... dal
 Gestionale**" presente all'interno della maschera "**Parametri di
 Sincronizzazione**" del Wizard
 
-![Videate\\lingua_installazione.bmp](./assets/media/image11.png){width="5.870138888888889in"
-height="3.558333333333333in"}
+![Videate\\lingua_installazione.bmp](./assets/media/image11.png)
 
 **Cartella di appoggio sul server del gestionale:** percorso della
 cartella (visibile dal server Mexal) che verrà utilizzata dal programma
@@ -149,8 +147,7 @@ possibile selezionare uno dei seguenti valori:
   il parametro "**Gruppo merceologico**" presente nella maschera
   "**Altri dati anagrafici**" della relativa anagrafica articolo
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mexal_categoria_primaria_1.bmp](./assets/media/image6.png){width="3.7402777777777776in"
-height="2.785416666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mexal_categoria_primaria_1.bmp](./assets/media/image6.png)
 
 - **Secondaria:** selezionando questa opzione all'interno del sito web
   verrà utilizzata una categorizzazione articoli realizzata (sempre
@@ -163,15 +160,13 @@ height="2.785416666666667in"}
   senso l'apposito parametro presente nell'anagrafica gestionale della
   categoria stessa)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mexal_categoria_secondaria_1.bmp](./assets/media/image7.png){width="3.279166666666667in"
-height="2.1819444444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mexal_categoria_secondaria_1.bmp](./assets/media/image7.png)
 
 - l'associazione **articolo -- categoria** sarà quella definita mediante
   il parametro "**Categoria WEB**" presente nella maschera "**Altri dati
   anagrafici**" della relativa anagrafica articolo
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mexal_categoria_secondaria_2.bmp](./assets/media/image8.png){width="3.7402777777777776in"
-height="2.785416666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mexal_categoria_secondaria_2.bmp](./assets/media/image8.png)
 
 Per maggiori informazioni relativamente alla possibilità di definire
 all'interno del gestionale una categorizzazione articoli ad hoc per il
@@ -211,8 +206,7 @@ Infine, all'interno della sezione "**Web API**" è possibile impostare i
 parametri necessari per poter poi effettuare della chiamate alle Web API
 di Mexal partendo direttamente da una pagina del proprio sito Passweb
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\parametri_conf_Mexal_webAPI_locale.bmp](./assets/media/image12.png){width="5.870138888888889in"
-height="3.558333333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\parametri_conf_Mexal_webAPI_locale.bmp](./assets/media/image12.png)
 
 Per maggiori informazioni relativamente a come poter effettuare delle
 chiamate alle Web API di Mexal all'interno del proprio sito Passweb si

@@ -6,8 +6,7 @@ Una volta effettuato l'accesso alla sezione "*Sito -- Gestione
 Newsletter -- Stores*" del Wizard verrà visualizzata la maschera
 "**Store Ecommerce**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mailchimp-store-ecommerce.bmp](./assets/media/image109.png){width="5.809722222222222in"
-height="3.5215277777777776in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mailchimp-store-ecommerce.bmp](./assets/media/image109.png)
 
 contenente l'elenco degli Store MailChimp attualmente codificati.
 
@@ -19,16 +18,14 @@ della colonna stessa.
 Una volta impostato un filtro di ricerca, per poterlo poi eliminare sarà
 sufficiente cliccare sull'icona raffigurante una piccola lente di
 ingrandimento con un -- all'interno (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina_filtro.bmp](./assets/media/image110.png){width="7.98611111111111e-2in"
-height="9.791666666666667e-2in"} ) che comparirà in testata alla colonna
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina_filtro.bmp](./assets/media/image110.png) ) che comparirà in testata alla colonna
 in corrispondenza della quale è stato impostato il filtro stesso.
 
 Infine è anche possibile ordinare, in maniera crescente e/o decrescente,
 gli elementi in griglia cliccando semplicemente sull'icona raffigurante
 due piccole frecce posta anch' essa in testata ad ogni singola colonna
 della griglia (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_ordinamento_griglia.bmp](./assets/media/image111.png){width="0.12916666666666668in"
-height="0.15347222222222223in"} )
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_ordinamento_griglia.bmp](./assets/media/image111.png) )
 
 Per ogni singolo Store presente in elenco sono indicati:
 
@@ -44,18 +41,15 @@ I pulsanti presenti nella barra degli strumenti consentono
 rispettivamente di:
 
 - **Modifica Store**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_store.bmp](./assets/media/image112.png){width="0.5458333333333333in"
-  height="0.17777777777777778in"} )**:** consente di modificare lo Store
+  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_store.bmp](./assets/media/image112.png) )**:** consente di modificare lo Store
   attualmente selezionato in elenco
 
 - **Elimina Store**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_store.bmp](./assets/media/image113.png){width="0.5090277777777777in"
-  height="0.16597222222222222in"} )**:** consente di eliminare lo Store
+  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_store.bmp](./assets/media/image113.png) )**:** consente di eliminare lo Store
   attualmente selezionato in elenco
 
 - **Aggiungi Store**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_store.bmp](./assets/media/image114.png){width="0.5708333333333333in"
-  height="0.1840277777777778in"} )**:** consente di codificare un nuovo
+  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_store.bmp](./assets/media/image114.png) )**:** consente di codificare un nuovo
   Store.
 
 Cliccando su quest'ultimo pulsante verrà quindi visualizzata la maschera
@@ -63,8 +57,7 @@ di creazione del nuovo Store MailChimp all'interno della quale potremo
 trovare, inizialmente, la sola sezione **"Configurazione"** i cui
 parametri consentono rispettivamente di:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mailchimp-ecommerce_2.bmp](./assets/media/image115.png){width="5.809722222222222in"
-height="3.5215277777777776in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mailchimp-ecommerce_2.bmp](./assets/media/image115.png)
 
 - **Nome Store**: consente di assegnare uno specifico nome allo store
   che si sta codificando, in maniera tale da poterlo poi distinguere da
@@ -105,15 +98,13 @@ height="3.5215277777777776in"}
 > MailChimp. Allo stato attuale invece la dashboard di Mailchimp
 > gestisce come unico simbolo di valuta il \$
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp-valute-store.bmp](./assets/media/image116.png){width="6.239583333333333in"
-height="4.067361111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp-valute-store.bmp](./assets/media/image116.png)
 
 Una volta impostati questi parametri, cliccando sul pulsante "**Salva**"
 presente nella parte bassa della maschera, si attiveranno tre nuove
 sezioni:
 
-![Videate\\mailchimp-ecommerce_3.bmp](./assets/media/image117.png){width="5.809722222222222in"
-height="3.5215277777777776in"}
+![Videate\\mailchimp-ecommerce_3.bmp](./assets/media/image117.png)
 
 - **Clienti:** consente di configurare e gestire l'invio allo Store
   Mailchimp dei clienti presenti all'interno del proprio sito ecommerce
@@ -135,8 +126,7 @@ Infine, nella barra degli strumenti della maschera "Store Ecommerce"
 comparirà ora anche il pulsante "**Connetti**" (3)
 
 - **Connetti** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_connetti.bmp](./assets/media/image118.png){width="0.37430555555555556in"
-  height="0.17152777777777778in"} ) -- **visualizzato solo dopo aver
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_connetti.bmp](./assets/media/image118.png) ) -- **visualizzato solo dopo aver
   impostato e salvato i dati richiesti all'interno della sezione
   "Configurazione"**: consente di creare lo Store su Mailchimp secondo i
   parametri impostati all'interno della sezione "Configurazione".
@@ -166,8 +156,7 @@ proprio profilo dovremmo ora trovare, tra le varie voci del
 corrispondente menu a tendina, anche quella relativa allo Store appena
 creato, con a fianco l'etichetta "**Connected**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp-ecommerce_4.bmp](./assets/media/image119.png){width="6.705555555555556in"
-height="4.257638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp-ecommerce_4.bmp](./assets/media/image119.png)
 
 Cliccando su questa voce di menu si avrà la possibilità di accedere,
 lato MailChimp, allo maschera di gestione dello Store Passweb appena
@@ -177,8 +166,7 @@ delle azioni connesse allo Store stesso come ad esempio la creazione e
 l'invio di mail relative ai carrelli abbandonati, al retargeting sui
 prodotti acquistati dai clienti presenti all'interno della lista ecc...
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp-ecommerce_5.bmp](./assets/media/image120.png){width="6.705555555555556in"
-height="4.31875in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp-ecommerce_5.bmp](./assets/media/image120.png)
 
 Per maggiori informazioni relativamente alle possibili azioni di
 marketing automation gestite da MailChimp e alla loro configurazione si
@@ -197,12 +185,10 @@ Lato Passweb, una volta effettuata la connessione con MailChimp e creato
 il relativo Store, nella barra degli strumenti della maschera di
 configurazione dello Store stesso compariranno tre nuovi pulsanti:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mailchimp-ecommerce_6.bmp](./assets/media/image121.png){width="5.760416666666667in"
-height="3.490972222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mailchimp-ecommerce_6.bmp](./assets/media/image121.png)
 
 - **Disconnetti** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_disconnetti.bmp](./assets/media/image122.png){width="0.46041666666666664in"
-  height="0.17777777777777778in"} ): consente di effettuare la
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_disconnetti.bmp](./assets/media/image122.png) ): consente di effettuare la
   cancellazione del corrispondente Store Passweb su MailChimp,
   operazione questa necessaria, ad esempio, nel caso in cui si dovesse,
   per qualche ragione, modificare la Lista inizialmente associata allo
@@ -213,8 +199,7 @@ height="3.490972222222222in"}
 > connessi allo Store stesso.
 
 - **Sincro Articoli** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_sincro_articoli.bmp](./assets/media/image123.png){width="0.5340277777777778in"
-  height="0.17152777777777778in"} ): consente di avviare manualmente la
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_sincro_articoli.bmp](./assets/media/image123.png) ): consente di avviare manualmente la
   procedura di importazione sullo Store MailChimp in esame, dei dati
   relativi a tutti gli articoli gestiti all'interno del sito, secondo le
   impostazioni settate all'interno della corrispondente sezione
@@ -236,8 +221,7 @@ height="3.490972222222222in"}
 > proprio sito Ecommerce a seguito di quella stessa sincronizzazione.
 
 - **Sincro Clienti** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_sincro_clienti.bmp](./assets/media/image124.png){width="0.5090277777777777in"
-  height="0.17777777777777778in"} ): consente di avviare manualmente la
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_sincro_clienti.bmp](./assets/media/image124.png) ): consente di avviare manualmente la
   procedura di importazione sullo Store MailChimp in esame, dei clienti
   presenti all'interno del proprio sito Ecommerce secondo le
   impostazioni settate nella corrispondente sezione "Clienti".

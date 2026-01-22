@@ -19,8 +19,7 @@ all'interno della sezione "**Gestione Markers**".
 In questo modo verrà infatti visualizzato, nella parte destra della
 maschera, il form "**Nuovo Marker**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\store_locator_marker_categorie_1.bmp](./assets/media/image65.png){width="5.1819444444444445in"
-height="3.1104166666666666in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\store_locator_marker_categorie_1.bmp](./assets/media/image65.png)
 
 mediante il quale poter definire le caratteristiche e le proprietà
 dell'elemento che si intende aggiungere sulla mappa. Sarà quindi
@@ -125,8 +124,7 @@ Il link di collegamento alla pagina, il cui testo è personalizzabile
 all'interno della sezione "Gestione Testi / Messaggi del sito", verrà
 mostrato immediatamente al di sotto della "Descrizione Indirizzo"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\store_locator_marker_categorie_7.bmp](./assets/media/image66.png){width="5.461111111111111in"
-height="3.558333333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\store_locator_marker_categorie_7.bmp](./assets/media/image66.png)
 
 **ATTENZIONE!** Nel caso in cui il marker sulla mappa sia uno dei Punti
 Vendita codificati all'interno della relativa sezione del Wizard il link
@@ -134,8 +132,7 @@ all'eventuale pagina di dettaglio verrà settato sulla base di quanto
 inserito all'interno del campo "**Pagina Negozio per sito**" presente
 nella maschera di configurazione del punto vendita stesso
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\store_locator_marker_categorie_6.bmp](./assets/media/image67.png){width="5.825in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\store_locator_marker_categorie_6.bmp](./assets/media/image67.png)
 
 Per maggiori informazioni relativamente alla codifica e alla gestione
 dei punti vendita si veda anche quanto indicato all'interno del relativo
@@ -156,12 +153,10 @@ dei Marker presenti sulla mappa.
 Nel caso in cui l'esigenza dovesse essere invece quella di importare
 massivamente un numero elevato di Marker sarà sufficiente attivare la
 relativa funzione cliccando sul pulsante "**Importa Marker**"
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_importa.bmp](./assets/media/image68.png){width="0.175in"
-height="0.1951388888888889in"}) presente, anch'esso nella barra
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_importa.bmp](./assets/media/image68.png)) presente, anch'esso nella barra
 strumenti della sezione "**Gestione Markers**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\markers_importa_valori.bmp](./assets/media/image69.png){width="5.175in"
-height="3.129861111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\markers_importa_valori.bmp](./assets/media/image69.png)
 
 In questo modo verrà infatti visualizzato, nella parte destra della
 maschera, il form "**Importa Valori**" all'interno della quale poter
@@ -255,14 +250,12 @@ intende inserire. Nello specifico in corrispondenza della colonna:
   di pagina.
 
 Il pulsante "**Esporta Marker**"
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_esporta.bmp](./assets/media/image70.png){width="0.18194444444444444in"
-height="0.1951388888888889in"}) presente, anch'esso nella barra
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_esporta.bmp](./assets/media/image70.png)) presente, anch'esso nella barra
 strumenti della sezione "**Gestione Markers**" consente, invece, di
 esportare i marker attualmente presenti in elenco all'interno di un file
 .csv.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\markers_esporta_valori.bmp](./assets/media/image71.png){width="5.1819444444444445in"
-height="3.136111111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\markers_esporta_valori.bmp](./assets/media/image71.png)
 
 Cliccando su questo pulsante verrà infatti visualizzato, nella parte
 destra della maschera, il form "**Esporta Valori**" all'interno della
@@ -295,23 +288,19 @@ Gli ulteriori pulsanti presenti all'interno della barra strumenti della
 sezione "Gestione Markers" consentono infine di:
 
 **Elimina**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina.bmp](./assets/media/image16.png){width="0.2013888888888889in"
-height="0.2076388888888889in"}): consente di eliminare dalla mappa il
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina.bmp](./assets/media/image16.png)): consente di eliminare dalla mappa il
 marker attualmente selezionato in elenco
 
 **Copia Marker**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_copia.bmp](./assets/media/image72.png){width="0.2013888888888889in"
-height="0.22083333333333333in"}): consente di creare un nuovo Marker
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_copia.bmp](./assets/media/image72.png)): consente di creare un nuovo Marker
 effettuando una copia di quello attualmente selezionato in elenco.
 
 **Modifica Marker**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_modifica.bmp](./assets/media/image73.png){width="0.2013888888888889in"
-height="0.22083333333333333in"}): consente di accedere in modifica al
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_modifica.bmp](./assets/media/image73.png)): consente di accedere in modifica al
 form di configurazione del marker attualmente selezionato in elenco.
 
 **Converti**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_converti.bmp](./assets/media/image74.png){width="0.2013888888888889in"
-height="0.2076388888888889in"}): consente di convertire in blocco tutti
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_converti.bmp](./assets/media/image74.png)): consente di convertire in blocco tutti
 gli indirizzi dei marker attualmente presenti in elenco nelle relative
 coordinate geografiche (latitudine e longitudine) in maniera tale
 ottimizzare i tempi di caricamento della mappa all'interno della pagina

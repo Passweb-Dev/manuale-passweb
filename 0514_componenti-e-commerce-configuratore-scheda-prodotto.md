@@ -4,8 +4,7 @@
 
 **Il Componente "Configuratore E-commerce"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_configuratore_Res.bmp](./assets/media/image668.png){width="2.5458333333333334in"
-height="3.1166666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_configuratore_Res.bmp](./assets/media/image668.png)
 
 **potrà essere inserito, per sua stessa natura, unicamente all'interno
 del componente Ecommerce di primo livello "Scheda Prodotto".**

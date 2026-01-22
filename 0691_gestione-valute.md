@@ -10,8 +10,7 @@ visualizzati i prezzi dei vari articoli.
 All'interno di questa pagina verrà quindi visualizzata la maschera,
 **"Gestione delle Valute"**, qui di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_valute.bmp](./assets/media/image164.png){width="5.629861111111111in"
-height="3.467361111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_valute.bmp](./assets/media/image164.png)
 
 in cui poter definire l'elenco delle valute gestite.
 
@@ -45,8 +44,7 @@ Box sinistra), occorrerà per prima cosa codificarla all'interno del
 gestionale aggiungendola a quelle presenti nella **"Tabella Valute"** di
 Mexal (*"Azienda -- Parametri di Base -- Tabella Valute"*).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\tabella_valute_Mexal.bmp](./assets/media/image165.png){width="2.7465277777777777in"
-height="2.00625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\tabella_valute_Mexal.bmp](./assets/media/image165.png)
 
 **NOTA BENE:** affinché la valuta venga esportata correttamente su
 Passweb è necessario specificare in questa tabella la corretta dicitura

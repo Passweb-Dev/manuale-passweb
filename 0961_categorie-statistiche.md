@@ -12,8 +12,7 @@ utente e/o di variazione dei dati di un utente già registrato.
 All'interno di questa pagina verrà quindi visualizzata la maschera
 **"Lista delle Categorie Statistiche Cliente"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_categorie_statistiche_cliente.bmp](./assets/media/image216.png){width="5.292361111111111in"
-height="3.265972222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_categorie_statistiche_cliente.bmp](./assets/media/image216.png)
 
 contente tutte le 99 categorie definite all'interno del gestionale e
 gestite anche all'interno del proprio sito ecommerce.
@@ -26,31 +25,27 @@ stessa.
 Una volta impostato un filtro di ricerca, per poterlo poi eliminare sarà
 sufficiente cliccare sull'icona raffigurante una piccola lente di
 ingrandimento con un -- all'interno (
-![Videate\\icona_elimina_filtro.bmp](./assets/media/image29.png){width="7.777777777777778e-2in"
-height="9.722222222222222e-2in"} ) che comparirà in testata alla colonna
+![Videate\\icona_elimina_filtro.bmp](./assets/media/image29.png) ) che comparirà in testata alla colonna
 in corrispondenza della quale è stato impostato il filtro stesso.
 
 Infine è anche possibile ordinare, in maniera crescente e/o decrescente,
 gli elementi in griglia cliccando semplicemente sull'icona raffigurante
 due piccole frecce posta anch' essa in testata ad ogni singola colonna
 della griglia (
-![Videate\\icona_ordinamento_griglia.bmp](./assets/media/image37.png){width="0.12361111111111112in"
-height="0.14930555555555555in"} )
+![Videate\\icona_ordinamento_griglia.bmp](./assets/media/image37.png) )
 
 I pulsanti presenti nella contestuale barra degli strumenti consentono
 rispettivamente di:
 
 **Modifica**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica.bmp](./assets/media/image116.png){width="0.3958333333333333in"
-height="0.18819444444444444in"} ): consente di gestire la descrizione in
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica.bmp](./assets/media/image116.png) ): consente di gestire la descrizione in
 Italiano e in Lingua associata alla Categoria Statistica attualmente
 selezionata in elenco.
 
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 "**Modifica Categoria Statistica Cliente**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_categoria_statistica_cliente.bmp](./assets/media/image217.png){width="5.292361111111111in"
-height="3.265972222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_categoria_statistica_cliente.bmp](./assets/media/image217.png)
 
 attraverso cui poter gestire, nelle varie lingue, la descrizione della
 relativa Categoria.
@@ -81,16 +76,14 @@ Interni ai Componenti Interazione Utente -- Campo Lista Valori*" di
 questo manuale
 
 **Esporta** (
-![Videate\\pulsante_esporta.bmp](./assets/media/image218.png){width="0.33125in"
-height="0.175in"} ): consente di esportare, all'interno di un apposito
+![Videate\\pulsante_esporta.bmp](./assets/media/image218.png) ): consente di esportare, all'interno di un apposito
 file .csv, le descrizioni delle Categorie Statistiche cliente
 attualmente presenti in elenco. Cliccando su questo pulsante verrà
 infatti visualizzata la maschera "**Esportazione Categorie Statistiche
 Cliente**" all'interno della quale poter configurare l'esportazione dei
 dati.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\esportazione_categorie_statiostiche_cliente.bmp](./assets/media/image219.png){width="5.616666666666666in"
-height="3.285416666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\esportazione_categorie_statiostiche_cliente.bmp](./assets/media/image219.png)
 
 Nel caso di sito in multilingua è possibile selezionare, tra quelle
 attualmente gestite, la lingua in relazione alla quale dovranno essere
@@ -105,16 +98,14 @@ il codice della Categoria e la relativa descrizione nella lingua
 selezionata
 
 **Importa** (
-![Videate\\pulsante_importa.bmp](./assets/media/image220.png){width="0.3506944444444444in"
-height="0.175in"} ): consente di importare in maniera massiva,
+![Videate\\pulsante_importa.bmp](./assets/media/image220.png) ): consente di importare in maniera massiva,
 utilizzando un apposito file .csv o .txt, le descrizioni di tutte le
 Categorie Statistiche attualmente presenti in elenco.
 
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 "**Importazione Categorie Statistiche Cliente**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\importazione_categorie_statistiche_cliente.bmp](./assets/media/image221.png){width="5.616666666666666in"
-height="3.285416666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\importazione_categorie_statistiche_cliente.bmp](./assets/media/image221.png)
 
 all'interno della quale poter configurare l'importazione dei dati in
 oggetto. In particolare il campo

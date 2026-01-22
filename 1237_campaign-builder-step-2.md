@@ -2,8 +2,7 @@
 
 
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_step_51.bmp](./assets/media/image31.png){width="6.398611111111111in"
-height="4.392361111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_step_51.bmp](./assets/media/image31.png)
 
 In questo STEP sarà necessario dare un nome alla campagna che si sta
 realizzando **(Name Your Campaign)** impostando anche altri parametri di

@@ -14,8 +14,7 @@ appartenenti alle categorie"**) definendo poi, all'interno della
 relativa Tabella "**Sconto a Quantità**", i vari scaglioni con i
 relativi sconti da applicare.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_promozioni_14.bmp](./assets/media/image543.png){width="5.363888888888889in"
-height="3.1819444444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_promozioni_14.bmp](./assets/media/image543.png)
 
 Il campo "**Tipo Sconto**" presente all'interno della scheda "**Opzioni
 Sconto articolo**" permette di definire se dovranno essere utilizzati
@@ -54,8 +53,7 @@ solo ai primi articoli**" (scheda "**Opzioni Sconto articolo**").
 **[CASO A -- APPLICA SOLO AI PRIMI ARTICOLI 🡪 NON
 VALORIZZATO]{.underline}**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_promozioni_16.bmp](./assets/media/image544.png){width="5.1625in"
-height="3.058333333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_promozioni_16.bmp](./assets/media/image544.png)
 
 In queste condizioni sarà possibile decidere, in fase di attivazione e
 configurazione della Promozione all'interno del sito, come questa dovrà
@@ -64,12 +62,10 @@ effettivamente comportarsi.
 Selezionando, all'interno della maschera "Lista delle Promozioni"
 precedentemente esaminata, la Promozione in esame, e cliccando sul
 pulsante **Modifica Promozione**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_promozione.bmp](./assets/media/image479.png){width="0.83125in"
-height="0.2013888888888889in"} ) si avrà accesso alla maschera di
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_promozione.bmp](./assets/media/image479.png) ) si avrà accesso alla maschera di
 configurazione della Promozione stessa
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_promozioni_17.bmp](./assets/media/image545.png){width="5.746527777777778in"
-height="3.50625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_promozioni_17.bmp](./assets/media/image545.png)
 
 all'interno della quale il campo:
 
@@ -89,8 +85,7 @@ delle seguenti opzioni:
 > verranno applicati **sempre e comunque a livello di Carrello mediante
 > l'inserimento di un relativo Abbuono.**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_promozioni_30.bmp](./assets/media/image538.png){width="5.155555555555556in"
-height="3.765972222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_promozioni_30.bmp](./assets/media/image538.png)
 
 > In queste condizioni non sarà quindi possibile visualizzare gli sconti
 > dovuti alla promozione ne in Catalogo ne tanto meno all'interno della
@@ -116,8 +111,7 @@ height="3.765972222222222in"}
 > comunque a livello di listino, indipendentemente dal fatto di
 > considerare articoli con unità di misura uguale o diversa da pz.**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_promozioni_9.bmp](./assets/media/image537.png){width="5.155555555555556in"
-height="3.5972222222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_promozioni_9.bmp](./assets/media/image537.png)
 
 > Sarà quindi possibile visualizzare gli sconti dovuti alla promozione
 > tanto in Catalogo quanto nella relativa scheda prodotto.
@@ -141,21 +135,18 @@ height="3.5972222222222223in"}
 
 **[CASO B -- APPLICA SOLO AI PRIMI ARTICOLI 🡪 VALORIZZATO]{.underline}**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_promozioni_18.bmp](./assets/media/image546.png){width="5.1625in"
-height="3.058333333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_promozioni_18.bmp](./assets/media/image546.png)
 
 In queste condizioni eventuali sconti dovuti alla Promozione verranno
 applicati **sempre e comunque a livello di Carrello mediante
 l'inserimento di un relativo Abbuono.**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_promozioni_30.bmp](./assets/media/image538.png){width="5.155555555555556in"
-height="3.765972222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_promozioni_30.bmp](./assets/media/image538.png)
 
 Selezionando, all'interno della maschera "Lista delle Promozioni"
 precedentemente esaminata, la Promozione in esame, e cliccando sul
 pulsante **Modifica Promozione**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_promozione.bmp](./assets/media/image479.png){width="0.83125in"
-height="0.2013888888888889in"} ) si avrà sempre accesso alla maschera di
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_promozione.bmp](./assets/media/image479.png) ) si avrà sempre accesso alla maschera di
 configurazione della Promozione stessa dove, questa volta però, non sarà
 più possibile decidere come questa dovrà comportarsi all'interno del
 sito ma solamente se attivarla o meno (parametro "**Attivo**").
@@ -184,15 +175,13 @@ cassa, l'ordine nato all'interno del sito web si avrà che:
   della promozione verranno riportati **all'interno delle relative righe
   articolo**.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_promozioni_11.bmp](./assets/media/image541.png){width="5.279166666666667in"
-height="3.5256944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_promozioni_11.bmp](./assets/media/image541.png)
 
 - eventuali sconti, dovuti alla promozione e **applicati sul sito a
   livello di Carrello** mediante **Abbuoni,** verranno riportati
   all'interno del campo **Sconto**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_promozioni_12.bmp](./assets/media/image542.png){width="5.279166666666667in"
-height="3.5256944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_promozioni_12.bmp](./assets/media/image542.png)
 
 **ATTENZIONE!** Le Promozioni di tipo **Sconto Articolo Quantità** non
 sono considerate tra l'elenco delle Promozioni da poter escludere nel

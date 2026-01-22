@@ -4,8 +4,7 @@
 
 Il Componente **"Punti"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_punti_res.bmp](./assets/media/image533.png){width="2.5340277777777778in"
-height="3.1041666666666665in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_punti_res.bmp](./assets/media/image533.png)
 
 può essere inserito all'interno dei seguenti componenti ecommerce di
 primo livello:
@@ -35,8 +34,7 @@ attualmente attivo sul sito, il numero di punti che un utente andrebbe a
 guadagnare nel momento in cui dovesse acquistare il relativo articolo
 **in quantità unitaria**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_punti_fe.bmp](./assets/media/image257.png){width="5.454166666666667in"
-height="3.2819444444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_punti_fe.bmp](./assets/media/image257.png)
 
 In generale, in merito all'effettiva visibilità del componente in
 questione è bene ricordare sempre che:
@@ -80,8 +78,7 @@ e di avere un articolo con prezzo unitario (anch'esso ivato) di 178.56€,
 in corrispondenza di questo stesso articolo, come evidenziato in figura,
 il componente "Punti" non verrà mai visualizzato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_punti_fe2.bmp](./assets/media/image534.png){width="5.564583333333333in"
-height="3.325in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_punti_fe2.bmp](./assets/media/image534.png)
 
 coerentemente con il fatto che il suo prezzo unitario non supera il
 "Limite minimo del totale merce" impostato per la regola di raccolta
@@ -94,8 +91,7 @@ checkout, nei totali del documento, verrà visualizzato correttamente il
 numero di punti stabiliti dalla relativa regola di raccolta che si
 andranno ad accumulare confermando l'acquisto
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_punti_fe3.bmp](./assets/media/image535.png){width="5.564583333333333in"
-height="3.325in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_punti_fe3.bmp](./assets/media/image535.png)
 
 Per maggiori informazioni in merito a come configurare le regole di
 raccolta punti si veda anche quanto indicato nel capitolo "*Utenti --
@@ -105,8 +101,7 @@ punti*" di questo manuale
 Rilasciando il Componente nella posizione desiderata verrà visualizzata
 **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_punti_configurazione_res.bmp](./assets/media/image536.png){width="4.6194444444444445in"
-height="2.2333333333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_punti_configurazione_res.bmp](./assets/media/image536.png)
 
 suddivisa in varie sezioni.
 

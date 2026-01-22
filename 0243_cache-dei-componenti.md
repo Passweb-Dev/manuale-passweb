@@ -22,8 +22,7 @@ In quest'ottica il parametro "**Disabilita Cache**" presente nella
 maschera di configurazione di molti, ma non di tutti i componenti
 Passweb
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\disabilita_cache.bmp](./assets/media/image71.png){width="3.8958333333333335in"
-height="2.7465277777777777in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\disabilita_cache.bmp](./assets/media/image71.png)
 
 è quello che consente effettivamente di decidere se quello specifico
 componente dovrà o meno essere messo in cache

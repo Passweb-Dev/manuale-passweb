@@ -7,8 +7,7 @@ e **mensile** questa sezione permette all'utente attualmente loggato di
 consultare e/o inserire attività scadenze o appuntamenti nella propria
 Agenda piuttosto che in quella dei propri clienti.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_comm_agenda_passcom.bmp](./assets/media/image130.png){width="5.552083333333333in"
-height="3.3895833333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_comm_agenda_passcom.bmp](./assets/media/image130.png)
 
 Volendo, inoltre, è possibile fare in modo che le attività inserite in
 agenda vengano riportate automaticamente anche nel calendario Google
@@ -40,8 +39,7 @@ aver attivato la relativa App operando per questo all'interno
 dell'apposita sezione del Wizard accessibile dal menu "*Sito --
 Preferenze*".
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ec_agenda_attivazione_passcom.bmp](./assets/media/image131.png){width="5.3375in"
-height="3.279166666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ec_agenda_attivazione_passcom.bmp](./assets/media/image131.png)
 
 Come si può facilmente osservare l'Agenda è suddivisa in due distinte
 sezioni: una colonna di destra (**colonna "Agenda"**) in cui viene
@@ -50,8 +48,7 @@ inserita l'Agenda vera e propria e una colonna di sinistra (**colonna
 sono inseriti i diversi filtri che possono essere applicati all'Agenda
 oltre ai controlli necessari per creare, eventualmente, nuovi calendari.
 
-![Videate\\ar_agenda_struttura.bmp](./assets/media/image132.png){width="5.272916666666666in"
-height="3.3958333333333335in"}
+![Videate\\ar_agenda_struttura.bmp](./assets/media/image132.png)
 
 Nello specifico poi, nella parte alta della **colonna "Agenda"**
 possiamo trovare, nell'ordine:
@@ -64,32 +61,27 @@ possiamo trovare, nell'ordine:
   i successivi capitoli di questo manuale)
 
 - **il pulsante Visualizza / Nascondi colonna Opzioni** (
-  ![Videate\\ar_agenda_pulsante_visualizza_nascondi_opzioni.bmp](./assets/media/image133.png){width="0.14930555555555555in"
-  height="0.1625in"} ): consente di visualizzare / nascondere la colonna
+  ![Videate\\ar_agenda_pulsante_visualizza_nascondi_opzioni.bmp](./assets/media/image133.png) ): consente di visualizzare / nascondere la colonna
   opzioni aumentando / diminuendo di conseguenza l'area di
   visualizzazione della pagina a disposizione per la colonna Agenda
 
 - i pulsanti "**Precedente / Successivo**"
-  ![Videate\\area_riservata_agenda_icona_frecce.comm.bmp](./assets/media/image134.png){width="0.5131944444444444in"
-  height="0.2659722222222222in"}: consentono di scorrere avanti o
+  ![Videate\\area_riservata_agenda_icona_frecce.comm.bmp](./assets/media/image134.png): consentono di scorrere avanti o
   indietro, dipendentemente dalla modalità di visualizzazione attiva per
   l'Agenda, i giorni, le settimane o i mesi
 
 - il pulsante **"Oggi"**
-  ![Videate\\ar_pulsante_oggi.bmp](./assets/media/image135.png){width="0.31805555555555554in"
-  height="0.2465277777777778in"} : attivo nella sola modalità di
+  ![Videate\\ar_pulsante_oggi.bmp](./assets/media/image135.png) : attivo nella sola modalità di
   visualizzazione giornaliera. Consente di riportare il focus sempre sul
   giorno corrente
 
 - i pulsanti **"Giorno", "Settimana", "Mese"**
-  ![Videate\\ar_agenda_modalita_visualizzazione.bmp](./assets/media/image136.png){width="1.0326388888888889in"
-  height="0.2465277777777778in"} : disponibili solo in visualizzazione
+  ![Videate\\ar_agenda_modalita_visualizzazione.bmp](./assets/media/image136.png) : disponibili solo in visualizzazione
   "Desktop". Consentono di modificare la modalità di visualizzazione
   dell'Agenda passando dalla visualizzazione giornaliera a quella
   settimanale a quella mensile
 
-![Videate\\ar_agenda_modalita_visualizzazione_2.bmp](./assets/media/image137.png){width="5.616666666666666in"
-height="3.5256944444444445in"}
+![Videate\\ar_agenda_modalita_visualizzazione_2.bmp](./assets/media/image137.png)
 
 **ATTENZIONE!** la modalità di visualizzazione dell'Agenda applicata a
 default può essere selezionata dalla pagina "Profilo"
@@ -97,14 +89,12 @@ default può essere selezionata dalla pagina "Profilo"
 **ATTENZIONE! In visualizzazione mobile l'unica opzione disponibile è
 quella dell'Agenda Giornaliera**
 
-![Videate\\ar_agenda_mobile.bmp](./assets/media/image138.png){width="2.129861111111111in"
-height="3.6625in"}
+![Videate\\ar_agenda_mobile.bmp](./assets/media/image138.png)
 
 Per quel che riguarda invece la **colonna "Opzioni"** troviamo
 (dall'alto verso il basso):
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_comm_agenda_dettaglio_colonna_opzioni.bmp](./assets/media/image139.png){width="5.552083333333333in"
-height="3.3895833333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_comm_agenda_dettaglio_colonna_opzioni.bmp](./assets/media/image139.png)
 
 - **Calendario di selezione del giorno (1)** : consente di selezionare
   uno specifico giorno senza dover per forza di cose scorrere tutta
@@ -129,8 +119,7 @@ height="3.3895833333333334in"}
 > indicare che quella attualmente caricata non è la propria Agenda ma
 > bensì una di quelle condivise
 
-![Videate\\agende_condivise_icona.bmp](./assets/media/image140.png){width="6.104166666666667in"
-height="2.325in"}
+![Videate\\agende_condivise_icona.bmp](./assets/media/image140.png)
 
 - **Filtro Attività di (3)**: consente di filtrare le attività
   visualizzate in Agenda sulla base dell'utente a cui quelle stesse
@@ -148,21 +137,18 @@ height="2.325in"}
 > attualmente gestiti con la possibilità di selezionarne anche più di
 > uno alla volta
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_comm_elenco_calendari.bmp](./assets/media/image141.png){width="5.552083333333333in"
-height="3.3895833333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_comm_elenco_calendari.bmp](./assets/media/image141.png)
 
 > Per creare un nuovo Calendario cui associare poi determinate attività
 > / scadenze è sufficiente cliccare sul pulsante "**Aggiungi
 > Calendario**" (
-> ![Videate\\pulsante_aggiungi_calendario.bmp](./assets/media/image142.png){width="0.23402777777777778in"
-> height="0.14930555555555555in"} ) presente a fianco del titolo di
+> ![Videate\\pulsante_aggiungi_calendario.bmp](./assets/media/image142.png) ) presente a fianco del titolo di
 > questa sezione della colonna Opzioni.
 >
 > In questo modo verrà infatti aperta la maschera di creazione "**Nuovo
 > Calendario**"
 
-![Videate\\creazione_nuovo_calendario.bmp](./assets/media/image143.png){width="2.577777777777778in"
-height="1.695138888888889in"}
+![Videate\\creazione_nuovo_calendario.bmp](./assets/media/image143.png)
 
 > all'interno della quale poter specificare:
 
@@ -183,8 +169,7 @@ height="1.695138888888889in"}
 > esattamente allo stesso modo del calendario cui l'attività stessa è
 > stata associata
 
-![Videate\\attivita_per_calendario.bmp](./assets/media/image144.png){width="2.675in"
-height="1.9027777777777777in"}
+![Videate\\attivita_per_calendario.bmp](./assets/media/image144.png)
 
 - **Predefinito**: consente di decidere se il calendario che si sta
   creando dovrà o meno essere considerato come quello di default. Il
@@ -207,29 +192,25 @@ height="1.9027777777777777in"}
 > a tendina, individuare poi, tra quelli presenti in elenco, il
 > calendario desiderato e, infine, cliccare sulla relativa icona di
 > "**Modifica Calendario**" (
-> ![Videate\\pulsante_modifica_calendario.bmp](./assets/media/image145.png){width="0.18194444444444444in"
-> height="0.14930555555555555in"} )
+> ![Videate\\pulsante_modifica_calendario.bmp](./assets/media/image145.png) )
 >
 > In questo modo verrà infatti aperta la maschera di "**Modifica
 > Calendario**"
 
-![Videate\\ar_agenda_modifica_calendario.bmp](./assets/media/image146.png){width="2.571527777777778in"
-height="1.6881944444444446in"}
+![Videate\\ar_agenda_modifica_calendario.bmp](./assets/media/image146.png)
 
 > in cui poter andare a variare uno qualsiasi dei parametri settati in
 > fase di creazione di quello stesso calendario e, volendo, anche
 > decidere di eliminarlo cliccando per questo sul pulsante "**Elimina
 > Calendario**" (
-> ![Videate\\ar_agenda_pulsante_elimina_calendario.bmp](./assets/media/image147.png){width="0.18819444444444444in"
-> height="0.2076388888888889in"})
+> ![Videate\\ar_agenda_pulsante_elimina_calendario.bmp](./assets/media/image147.png))
 >
 > **ATTENZIONE!** Eliminando un Calendario sarà possibile decidere di
 > eliminare completamente anche tutte le attività in esso contenute
 > oppure di spostare queste stesse attività all'interno del calendario
 > predefinito
 
-![Videate\\dialog_elimina_calendario.bmp](./assets/media/image148.png){width="2.4479166666666665in"
-height="1.1881944444444446in"}
+![Videate\\dialog_elimina_calendario.bmp](./assets/media/image148.png)
 
 > **ATTENZIONE! per poter eliminare un Calendario è necessario esserne
 > il proprietario. In generale creazione, modifica ed eliminazione di
@@ -251,12 +232,10 @@ height="1.1881944444444446in"}
 I pulsanti presenti a fianco della colonna Agenda consentono, infine,
 di:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsanti_agenda_ar_comm.bmp](./assets/media/image149.png){width="5.552083333333333in"
-height="3.3895833333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsanti_agenda_ar_comm.bmp](./assets/media/image149.png)
 
 **Nuova Attività (**
-![Videate\\pulsante_nuovo_agenda_ar.bmp](./assets/media/image150.png){width="0.24027777777777778in"
-height="0.23402777777777778in"} **):** consente di inserire una nuova
+![Videate\\pulsante_nuovo_agenda_ar.bmp](./assets/media/image150.png) **):** consente di inserire una nuova
 attività/scadenza/appuntamento in agenda.
 
 Per maggiori informazioni in merito alla procedura di creazione ed
@@ -270,8 +249,7 @@ automaticamente anche nell'eventuale Calendario Google ad esso
 collegato**
 
 **Condivisione (**
-![Videate\\pulsante_condivisione.bmp](./assets/media/image151.png){width="0.28541666666666665in"
-height="0.22083333333333333in"} **):** consente di selezionare un elenco
+![Videate\\pulsante_condivisione.bmp](./assets/media/image151.png) **):** consente di selezionare un elenco
 di utenti con cui poter condividere la propria agenda.
 
 Per maggiori informazioni in merito alle funzionalità di condivisione
@@ -279,30 +257,26 @@ della propria agenda e/o per come accedere ad agende condivise da altri
 utenti si vedano anche i successivi capitoli di questo manuale.
 
 **Elimina (**
-![Videate\\ar_pulsante_elimina_attivita.bmp](./assets/media/image152.png){width="0.2659722222222222in"
-height="0.25972222222222224in"} **):** consente, previa ulteriore
+![Videate\\ar_pulsante_elimina_attivita.bmp](./assets/media/image152.png) **):** consente, previa ulteriore
 conferma, di eliminare l'attività attualmente selezionata in agenda.
 
 **ATTENZIONE!** l'attività attualmente selezionata in Agenda verrà
 evidenziata in viola
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\comm_conferma_elimina_attivita.bmp](./assets/media/image153.png){width="5.552083333333333in"
-height="3.3895833333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\comm_conferma_elimina_attivita.bmp](./assets/media/image153.png)
 
 Nel caso in cui l'attività da eliminare sia presente nell'agenda di più
 destinatari il creatore di questa stessa attività, avrà la possibilità
 di decidere se eliminarla solo dalla sua agenda o anche da quella di
 tutti i destinatari in cui essa compare**.**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\elimina_da_calendario_utente_comm.bmp](./assets/media/image154.png){width="5.552083333333333in"
-height="3.3895833333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\elimina_da_calendario_utente_comm.bmp](./assets/media/image154.png)
 
 Nel caso in cui invece l'attività da eliminare sia un' attività ripetuta
 l'utente avrà la possibilità di scegliere se eliminare la singola
 occorrenza oppure l'intera serie
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\elimina_serie_comm.bmp](./assets/media/image155.png){width="5.552083333333333in"
-height="3.3895833333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\elimina_serie_comm.bmp](./assets/media/image155.png)
 
 In queste condizioni nel caso in cui **si dovesse decidere di eliminare
 la singola occorrenza, questa verrà eliminata solo ed esclusivamente
@@ -331,8 +305,7 @@ automaticamente anche l'eliminazione della relativa attività dal
 Calendario Google in cui era stata precedentemente inserita
 
 **Proprietà (**
-![Videate\\ar_pulsante_proprieta.bmp](./assets/media/image156.png){width="0.2791666666666667in"
-height="0.28541666666666665in"} **):** permette di aprire il dettaglio
+![Videate\\ar_pulsante_proprieta.bmp](./assets/media/image156.png) **):** permette di aprire il dettaglio
 dell'attività attualmente selezionata in agenda e di modificarne quindi
 il contenuto e le proprietà.
 
@@ -364,8 +337,7 @@ due modi differenti:
 
 > In entrambi i casi verrà aperta la maschera di **Modifica Attività**
 
-![Videate\\ar_modifica_attivita.bmp](./assets/media/image157.png){width="4.675in"
-height="3.765972222222222in"}
+![Videate\\ar_modifica_attivita.bmp](./assets/media/image157.png)
 
 > attraverso cui poter modificare l'attività stessa in ogni suo aspetto
 > (dal contenuto, allo stato ai possibili destinatari) oltre che poterne
@@ -377,8 +349,7 @@ l'attività non potrà essere modificata, ovviamente, a livello di "Utenti
 e Gruppi" di destinazione.
 
 Il pulsante **Aggiorna (**
-![Videate\\ar_pulsante_aggiorna.bmp](./assets/media/image158.png){width="0.21458333333333332in"
-height="0.2076388888888889in"} **),** presente nella barra degli
+![Videate\\ar_pulsante_aggiorna.bmp](./assets/media/image158.png) **),** presente nella barra degli
 strumenti della maschera di "**Modifica Attività**" **unicamente nel
 caso in cui a modificare l'attività/scadenza sia il suo creatore**,
 permette di propagare le modifiche apportate all'attività/scadenza in
@@ -389,8 +360,7 @@ Nel caso in cui tali modifiche non debbano essere propagate alle
 attività collegate ma **debbano invece essere salvate solo nell'agenda
 del creatore**, non occorre agire sul pulsante Aggiorna ma bensì sul
 pulsante **Salva (**
-![Videate\\ar_pulsante_salva_attivita.bmp](./assets/media/image159.png){width="0.22083333333333333in"
-height="0.21458333333333332in"} **)**.
+![Videate\\ar_pulsante_salva_attivita.bmp](./assets/media/image159.png) **)**.
 
 > ***NOTA BENE**: propagando le modifiche di un'attività su tutte le
 > attività ad essa collegate (pulsante "Aggiorna"), verranno
@@ -405,8 +375,7 @@ uno qualsiasi dei due modi precedentemente esaminati, verrà visualizzato
 all'utente un messaggio per chiedergli se desidera modificare la singola
 occorrenza o l'intera serie:
 
-![Videate\\area_riservata_agenda_modifica_ricorrenza.comm.bmp](./assets/media/image160.png){width="2.1881944444444446in"
-height="1.3833333333333333in"}
+![Videate\\area_riservata_agenda_modifica_ricorrenza.comm.bmp](./assets/media/image160.png)
 
 - Selezionando **"Apri l'occorrenza"** verrà aperta la singola
   occorrenza della serie ed eventuali modifiche saranno relative
@@ -458,16 +427,14 @@ utilizzare il pulsante "Aggiorna".
 
 Per inserire in Agenda una nuova attività/scadenza/appuntamento è
 possibile cliccare sul **Nuovo(**
-![Videate\\pulsante_nuovo_agenda_ar.bmp](./assets/media/image150.png){width="0.24027777777777778in"
-height="0.23402777777777778in"} **)** presente nella parte bassa della
+![Videate\\pulsante_nuovo_agenda_ar.bmp](./assets/media/image150.png) **)** presente nella parte bassa della
 maschera o, in alternativa cliccare direttamente sul periodo desiderato
 (giorno o fascia oraria)
 
 In entrambi i casi infatti verrà aperta la maschera di inserimento nuova
 attività
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ec_nuova_attivita_comm.bmp](./assets/media/image161.png){width="5.552083333333333in"
-height="3.3895833333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ec_nuova_attivita_comm.bmp](./assets/media/image161.png)
 
 suddivisa in due distinte sezioni.
 
@@ -496,8 +463,7 @@ valore per i seguenti campi:
   indicarne anche la frequenza (**giornaliera, settimanale, mensile,
   annuale**), il numero di ripetizioni e/o l'eventuale scadenza.
 
-![Videate\\ar_ripeti_attivita.bmp](./assets/media/image162.png){width="4.311805555555556in"
-height="4.188194444444444in"}
+![Videate\\ar_ripeti_attivita.bmp](./assets/media/image162.png)
 
 E' possibile impostare la frequenza (**giornaliera, settimanale,
 mensile, annuale**) della ricorrenza, il numero di ripetizioni e/o
@@ -508,14 +474,12 @@ un'attività/scadenza ripetitiva rispetto a una normale attività, grazie
 alla presenza, sulla destra dell'attività stessa, di una piccola icona
 raffigurante un orologio
 
-![Videate\\attivta_singola_ripetuta.bmp](./assets/media/image163.png){width="5.454861111111111in"
-height="3.50625in"}
+![Videate\\attivta_singola_ripetuta.bmp](./assets/media/image163.png)
 
 All'interno della sezione **"Stato Attività"** è invece possibile
 impostare un valore per i seguenti campi:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\agenda_stato_attivita.bmp](./assets/media/image164.png){width="4.772916666666666in"
-height="3.629861111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\agenda_stato_attivita.bmp](./assets/media/image164.png)
 
 - **Stato:** consente di impostare selezionando tra **Pianificata,
   Annullata, Completata, Scaduta** lo specifico Stato da assegnare
@@ -542,8 +506,7 @@ height="3.629861111111111in"}
 >
 > Per selezionare uno dei possibili destinatari è sufficiente cliccare
 > sul pulsante **Inserisci Utenti** (
-> ![Videate\\ar_pulsante_inserisci_utente.bmp](./assets/media/image165.png){width="0.2534722222222222in"
-> height="0.23402777777777778in"} ). In questo modo verrà infatti
+> ![Videate\\ar_pulsante_inserisci_utente.bmp](./assets/media/image165.png) ). In questo modo verrà infatti
 > visualizzata la maschera "**Destinatari**" contenente una lista,
 > organizzata ad albero, di tutti i possibili destinatari dell'attività.
 >
@@ -558,8 +521,7 @@ height="3.629861111111111in"}
 - **Rosso** i vari gruppi utente (vedi anche sezione "Utenti --
   Gerarchie" di questo manuale);
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_nuovo_destinatario_comm.bmp](./assets/media/image166.png){width="3.077777777777778in"
-height="4.090972222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_nuovo_destinatario_comm.bmp](./assets/media/image166.png)
 
 > Per inserire un nuovo destinatario sarà quindi sufficiente
 > selezionarlo dall'elenco sopra evidenziato, mettendo l'apposita
@@ -567,8 +529,7 @@ height="4.090972222222222in"}
 >
 > Per eliminare invece uno dei destinatari inseriti è sufficiente
 > selezionarlo e cliccare poi sul pulsante **Rimuovi Utente** (
-> ![Videate\\ar_pulsante_elimina_utenti.bmp](./assets/media/image33.png){width="0.1625in"
-> height="0.1625in"} ).
+> ![Videate\\ar_pulsante_elimina_utenti.bmp](./assets/media/image33.png) ).
 >
 > ***NOTA BENE**: per maggiori informazioni relativamente alle diverse
 > tipologie di utenti che possono avere accesso all'Area Riservata del
@@ -607,8 +568,7 @@ height="4.090972222222222in"}
   relative notifiche (Email, SMS, Telegram e/o Whatsapp) ai destinatari,
   legati alla scadenza dell'attività in esame
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_promemoria_attivita.bmp](./assets/media/image167.png){width="4.7659722222222225in"
-height="4.304861111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_promemoria_attivita.bmp](./assets/media/image167.png)
 
 > Per attivare un promemoria è necessario, ovviamente, indicare,
 > selezionandola tra le opzioni disponibili, quanto prima della scadenza
@@ -643,8 +603,7 @@ dell'attività, il pulsante "**Salva**" presente nella parte alta della
 maschera consentirà di salvare queste stesse impostazioni e di inserire
 quindi l'attività in agenda.
 
-![Videate\\salvataggio_attivita_agenda.bmp](./assets/media/image168.png){width="4.285416666666666in"
-height="3.7465277777777777in"}
+![Videate\\salvataggio_attivita_agenda.bmp](./assets/media/image168.png)
 
 In questa fase se è stata correttamente configurata l'integrazione tra
 il proprio sito e Google Calendar, e il destinatario dell'attività
@@ -682,15 +641,13 @@ condivisione
 
 Per eseguire questo tipo di operazione è necessario cliccare sul
 pulsante "**Condividi Agenda**" (
-![Videate\\pulsante_condivisione.bmp](./assets/media/image151.png){width="0.28541666666666665in"
-height="0.22083333333333333in"} **)** presente nella parte bassa della
+![Videate\\pulsante_condivisione.bmp](./assets/media/image151.png) **)** presente nella parte bassa della
 pagina
 
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 **"Condividi Agenda"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\condivisione_agenda_comm.bmp](./assets/media/image169.png){width="5.552083333333333in"
-height="3.3895833333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\condivisione_agenda_comm.bmp](./assets/media/image169.png)
 
 all'interno della quale poter visualizzare gli utenti con i quali è
 attualmente condivisa la propria agenda oltre che, ovviamente, poterne
@@ -698,13 +655,11 @@ selezionare di nuovi.
 
 Per condividere la propria agenda con un determinato utente è necessario
 cliccare sul pulsante "**Inserisci Utente**" (
-![Videate\\ar_pulsante_inserisci_utente.bmp](./assets/media/image165.png){width="0.2534722222222222in"
-height="0.23402777777777778in"} ), selezionarlo dal relativo menu ad
+![Videate\\ar_pulsante_inserisci_utente.bmp](./assets/media/image165.png) ), selezionarlo dal relativo menu ad
 albero e cliccare, infine, sul pulsante "Conferma" presente nella parte
 alta della maschera di selezione degli utenti
 
-![Videate\\elenco_utenti_agende_condivise.bmp](./assets/media/image170.png){width="4.947916666666667in"
-height="3.201388888888889in"}
+![Videate\\elenco_utenti_agende_condivise.bmp](./assets/media/image170.png)
 
 Nello specifico, sarà quindi possibile condividere la propria agenda
 con:
@@ -733,8 +688,7 @@ la propria agenda, nella parte bassa della maschera di condivisione,
 verrà abilitata un'ulteriore sezione mediante la quale poter specificare
 i permessi da assegnare
 
-![Videate\\condivisione_agenda_permessi.bmp](./assets/media/image171.png){width="2.558333333333333in"
-height="3.058333333333333in"}
+![Videate\\condivisione_agenda_permessi.bmp](./assets/media/image171.png)
 
 Relativamente ai singoli permessi occorre poi sottolineare che:
 
@@ -793,8 +747,7 @@ sufficiente aprire nuovamente la maschera di condivisione dell'agenda,
 selezionare l'utente e/o il gruppo desiderato tra quelli con cui si era
 precedentemente deciso di condividere l'Agenda ed eliminarlo dall'elenco
 cliccando sul pulsante "**Elimina Utente**" (
-![Videate\\ar_pulsante_elimina_utenti.bmp](./assets/media/image172.png){width="0.22708333333333333in"
-height="0.22708333333333333in"} )
+![Videate\\ar_pulsante_elimina_utenti.bmp](./assets/media/image172.png) )
 
 Infine, come già evidenziato nei precedenti capitoli di questo manuale,
 per poter caricare all'interno della propria area riservata una delle
@@ -802,8 +755,7 @@ agende condivise, sarà sufficiente visualizzare la colonna Opzioni e
 selezionare l'utente per il quale si desidera caricare l'Agenda, tra
 quelli disponibili all'interno del campo "**Agende Condivise**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\agende_condivise_selezione_comm.bmp](./assets/media/image173.png){width="5.207638888888889in"
-height="3.1881944444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\agende_condivise_selezione_comm.bmp](./assets/media/image173.png)
 
 **ATTENZIONE!** all'interno del campo "Agende Condivise" saranno
 visualizzati ovviamente, soltanto gli utenti che hanno deciso di
@@ -815,8 +767,7 @@ quella specifica Agenda e, sulla destra, una specifica icona atta ad
 indicare che quella attualmente caricata non è la propria Agenda ma
 bensì una di quelle condivise
 
-![Videate\\agende_condivise_icona.bmp](./assets/media/image140.png){width="6.104166666666667in"
-height="2.325in"}
+![Videate\\agende_condivise_icona.bmp](./assets/media/image140.png)
 
 **ATTENZIONE!** **nel caso in cui sia stata correttamente configurata e
 attivata l'integrazione con Google Calendar, la creazione di una nuova

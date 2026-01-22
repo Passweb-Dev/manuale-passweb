@@ -4,8 +4,7 @@
 
 Le Pagine Generiche, rappresentate all'interno dell'albero da icone con
 sfondo bianco
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_pagina_generica_res.bmp](./assets/media/image101.png){width="0.6076388888888888in"
-height="0.19027777777777777in"} ), sono pagine NON tipizzate, alle quali
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_pagina_generica_res.bmp](./assets/media/image101.png) ), sono pagine NON tipizzate, alle quali
 non è collegato alcun automatismo dell'applicazione e adatte dunque ad
 accogliere un qualsiasi Componente (e-commerce e non e-commerce).
 
@@ -28,15 +27,13 @@ Per poter creare una nuova Pagina Generica sarà quindi necessario, per
 prima cosa, selezionare all'interno dell'albero delle pagine quella al
 di sotto della quale dovrà essere creata la nuova pagina e,
 successivamente, cliccare sul pulsante **Nuova**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_piu.bmp](./assets/media/image93.png){width="0.15347222222222223in"
-height="0.16597222222222222in"} ) presente nella barra degli strumenti.
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_piu.bmp](./assets/media/image93.png) ) presente nella barra degli strumenti.
 
 Prima di confermare la creazione della nuova pagina occorrerà impostare
 in maniera corretta i parametri relativi alle proprietà della pagina
 stessa (sezione "**Nuova Pagina**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\proprieta_pagina_generica_res.bmp](./assets/media/image107.png){width="3.423611111111111in"
-height="2.441666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\proprieta_pagina_generica_res.bmp](./assets/media/image107.png)
 
 In particolare dunque il campo:
 
@@ -68,8 +65,7 @@ In particolare dunque il campo:
   oggetto a livello di gruppi utente decidendo dunque quali utenti
   potranno effettivamente accedere ad essa e quali no.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagina_per_gruppi_res.bmp](./assets/media/image108.png){width="3.1777777777777776in"
-height="1.4048611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagina_per_gruppi_res.bmp](./assets/media/image108.png)
 
 > Impostando questo parametro sul valore **"Tutti"** la pagina sarà
 > visibile ed accessibile a tutti i visitatori del sito.
@@ -112,8 +108,7 @@ height="1.4048611111111111in"}
   associare alla pagina che si sta realizzando, selezionandolo tra
   quelli precedentemente creati.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagina_proprieta_layout_res.bmp](./assets/media/image109.png){width="4.9875in"
-height="2.68125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagina_proprieta_layout_res.bmp](./assets/media/image109.png)
 
 > **NOTA BENE:** per maggiori informazioni relativamente alla creazione
 > e alla gestione dei Layout si veda anche la sezione "Live Editing per
@@ -155,8 +150,7 @@ quelli attraverso cui poter decidere se la pagina stessa dovrà o meno
 comparire all'interno della SiteMap del sito, ed eventualmente, con che
 priorità e con che frequenza di aggiornamento.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\proprieta_pagina_seo_res.bmp](./assets/media/image110.png){width="4.913888888888889in"
-height="2.6381944444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\proprieta_pagina_seo_res.bmp](./assets/media/image110.png)
 
 In particolare, per quel che riguarda la sezione **SEO**, il campo:
 
@@ -291,8 +285,7 @@ metadati di pagine generiche e ecommerce*"
 I parametri presenti all'interno della sezione **SiteMap** consentono
 invece di:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\parametri_sitemap_res.bmp](./assets/media/image111.png){width="4.558333333333334in"
-height="2.588888888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\parametri_sitemap_res.bmp](./assets/media/image111.png)
 
 - **SiteMap:** consente di decidere se la pagina in oggetto dovrà o meno
   essere inclusa nella SiteMap del sito generata dinamicamente
@@ -316,8 +309,7 @@ height="2.588888888888889in"}
 > assegnato, allo stesso parametro, nella sezione "**SiteMap Pagine**"
 > del menu "**Sito -- Preferenze -- SEO**" del Wizard
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sitemap_pagine_res.bmp](./assets/media/image112.png){width="5.742361111111111in"
-height="3.5215277777777776in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sitemap_pagine_res.bmp](./assets/media/image112.png)
 
 > **Nel caso in cui i parametri in esame non siano stati opportunamente
 > valorizzati neppure all'interno del menu "Sito -- Preferenze - SEO"

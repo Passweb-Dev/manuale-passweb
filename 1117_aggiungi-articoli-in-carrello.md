@@ -19,8 +19,7 @@ in carrello al verificarsi delle condizioni di applicabilità.
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 "**Articolo**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\promozione_aggiungi_articolo.bmp](./assets/media/image578.png){width="6.415277777777778in"
-height="3.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\promozione_aggiungi_articolo.bmp](./assets/media/image578.png)
 
 all'interno della quale poter indicare:
 
@@ -97,8 +96,7 @@ all'interno della quale poter indicare:
   prodotto che dovrà essere aggiunto automaticamente in ordine al
   verificarsi delle condizioni di applicabilità del Buono Sconto
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\promozione_altro_articolo.bmp](./assets/media/image501.png){width="5.188194444444444in"
-height="2.876388888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\promozione_altro_articolo.bmp](./assets/media/image501.png)
 
 - **Filtro Articoli**: selezionando questa opzione sarà poi necessario
   indicare all'interno del successivo campo "**Filtro articoli**" il
@@ -106,8 +104,7 @@ height="2.876388888888889in"}
   gli articoli che dovranno essere aggiunti in ordine al verificarsi
   delle condizioni di applicabilità del Buono Sconto
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\promozione_filtro_articoli.bmp](./assets/media/image502.png){width="5.1625in"
-height="2.785416666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\promozione_filtro_articoli.bmp](./assets/media/image502.png)
 
 - **Articolo**: visualizzato solo nel caso in cui il parametro
   "**Impostazione Articolo**" sia stato settato sul valore "**Altro
@@ -305,8 +302,7 @@ height="2.785416666666667in"}
 > Una volta impostata questa condizione sarà poi necessario configurare
 > la sezione "Azioni" come mostrato in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\promozioni_esempio_1.bmp](./assets/media/image579.png){width="5.604166666666667in"
-height="3.5652777777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\promozioni_esempio_1.bmp](./assets/media/image579.png)
 
 > I parametri "**Azione**" impostati sul valore "**Aggiungi Articoli in
 > Carrello**" e "**Impostazione Articolo**" sul valore "**Altro
@@ -348,8 +344,7 @@ height="3.5652777777777778in"}
 > Per poter ottenere questo risultato sarà quindi necessario configurare
 > la sezione "Azioni" come mostrato in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\promozioni_esempio_2.bmp](./assets/media/image580.png){width="5.636111111111111in"
-height="3.571527777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\promozioni_esempio_2.bmp](./assets/media/image580.png)
 
 > Anche in questo caso i parametri "**Azione**" impostati sul valore
 > "**Aggiungi Articoli in Carrello**" e "**Impostazione Articolo**" sul
@@ -392,8 +387,7 @@ In questo senso i due pulsanti presenti nella barra degli strumenti
 consentono rispettivamente di:
 
 - **Importa** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_importa.bmp](./assets/media/image505.png){width="0.18194444444444444in"
-  height="0.2013888888888889in"} ): consente di importare in maniera
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_importa.bmp](./assets/media/image505.png) ): consente di importare in maniera
   massiva un elenco di tutti gli articoli, con i relativi parametri di
   configurazione che dovranno essere inseriti in carrello al verificarsi
   delle condizioni di applicabilità del Buono Sconto.
@@ -401,8 +395,7 @@ consentono rispettivamente di:
 > Cliccando su questo pulsante verrà infatti visualizzata la maschera
 > **"Importa Valori"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\promozioni_importa_valori.bmp](./assets/media/image506.png){width="5.772916666666666in"
-height="2.876388888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\promozioni_importa_valori.bmp](./assets/media/image506.png)
 
 > all'interno della quale poter indicare:
 
@@ -510,8 +503,7 @@ height="2.876388888888889in"}
 > all'interno del file di importazione.
 
 - **Esporta**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_esporta.bmp](./assets/media/image508.png){width="0.18819444444444444in"
-  height="0.2013888888888889in"} ): consente di esportare l'attuale
+  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_esporta.bmp](./assets/media/image508.png) ): consente di esportare l'attuale
   elenco di articoli che verranno aggiunti in carrello al verificarsi
   delle condizioni di applicabilità del Buono Sconto all'interno di un'
   apposito file .csv.
@@ -519,8 +511,7 @@ height="2.876388888888889in"}
 > Cliccando su questo pulsante verrà infatti visualizzata la maschera
 > **"Esporta Valori"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\esporta_valori_promozione.bmp](./assets/media/image509.png){width="5.759722222222222in"
-height="2.454861111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\esporta_valori_promozione.bmp](./assets/media/image509.png)
 
 > all'interno della quale poter indicare:
 

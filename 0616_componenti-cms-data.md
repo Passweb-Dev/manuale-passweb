@@ -4,8 +4,7 @@
 
 Il Componente **"Data"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cms_componente_data_res.bmp](./assets/media/image70.png){width="2.545138888888889in"
-height="2.765972222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cms_componente_data_res.bmp](./assets/media/image70.png)
 
 consente di visualizzare per ogni singola notizia presente all'interno
 del componente CMS di livello superiore, la data definita all'interno
@@ -21,8 +20,7 @@ A livello di configurazione, una volta inserito il Componente
 all'interno della pagina web, verrà aperta in automatico **la sua
 maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_cms_data_configurazione_res.bmp](./assets/media/image71.png){width="4.629861111111111in"
-height="2.071527777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_cms_data_configurazione_res.bmp](./assets/media/image71.png)
 
 suddivisa in varie sezioni.
 

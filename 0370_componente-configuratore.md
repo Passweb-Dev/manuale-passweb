@@ -4,8 +4,7 @@
 
 Il componente Configuratore
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_configuratore_Res.bmp](./assets/media/image106.png){width="2.828472222222222in"
-height="3.4659722222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_configuratore_Res.bmp](./assets/media/image106.png)
 
 consente di gestire all'interno del proprio sito Ecommerce, **Articoli
 Strutturati**, nel caso di siti collegati a Mexal, e **Varianti
@@ -74,8 +73,7 @@ Scheda Prodotto un insieme di controlli attraverso cui un utente del
 sito potrà arrivare a scegliere, tra diverse possibili opzioni, l'esatta
 configurazione dell'articolo che intende acquistare.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\configuratore_sito_web.bmp](./assets/media/image107.png){width="4.969444444444444in"
-height="3.6256944444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\configuratore_sito_web.bmp](./assets/media/image107.png)
 
 Il Configuratore di prodotto potrà comportarsi in maniera diversa a
 seconda di come sono stati impostati, all'interno dell'apposita sezione
@@ -92,8 +90,7 @@ presenti all'interno di uno specifico livello dovranno dipendere dalle
 scelte effettuate dall'utente, in fase di configurazione del prodotto,
 ad uno dei livelli precedenti.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\strutture_tipologia_visualizzazione.bmp](./assets/media/image108.png){width="5.779166666666667in"
-height="3.4972222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\strutture_tipologia_visualizzazione.bmp](./assets/media/image108.png)
 
 **Tipologia di Visualizzazione = Esploso Completamente 🡪** il
 configuratore visualizzerà sempre tutti i diversi livelli della
@@ -111,8 +108,7 @@ In quest'ultimo caso inoltre il campo "Generazione Elementi" consente di
 decidere sulla base di che cosa dovranno essere definite le diverse
 possibili configurazioni di prodotto finito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\strutture_generazione_elementi.bmp](./assets/media/image109.png){width="5.815972222222222in"
-height="3.5277777777777777in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\strutture_generazione_elementi.bmp](./assets/media/image109.png)
 
 In particolare se impostato a:
 
@@ -139,16 +135,14 @@ impostato il parametro "**Modalità di Visualizzazione**" presente
 anch'esso all'interno maschera "**Modifica Struttura Articoli**"
 (sezione *"Catalogo -- Gestione Articoli --Strutture"*).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\strutture_modalita_visualizzazione.bmp](./assets/media/image110.png){width="5.779166666666667in"
-height="3.4972222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\strutture_modalita_visualizzazione.bmp](./assets/media/image110.png)
 
 **Modalità di Visualizzazione = Lineare:** i diversi livelli della
 struttura verranno visualizzati mediante i controlli grafici (Lista,
 Radio, Select) impostati per ogni singolo livello in fase di
 configurazione della struttura stessa.
 
-![Videate\\modalita_visualizzazione_lineare.bmp](./assets/media/image111.png){width="5.177777777777778in"
-height="3.4972222222222222in"}
+![Videate\\modalita_visualizzazione_lineare.bmp](./assets/media/image111.png)
 
 **ATTENZIONE!** La modalità di visualizzazione Lineare è quella adottata
 a default per ogni Configuratore di prodotto
@@ -163,8 +157,7 @@ queste che dipenderanno, ovviamente, dal fatto di aver impostato il
 parametro "Tipologia di Visualizzazione" sul valore "Esploso
 Completamente" o "Vincolante al precedente livello".
 
-![Videate\\modalita_visualizzazione_tabella_esplosa.bmp](./assets/media/image112.png){width="5.177777777777778in"
-height="3.4972222222222222in"}
+![Videate\\modalita_visualizzazione_tabella_esplosa.bmp](./assets/media/image112.png)
 
 In queste condizioni dunque nelle prime due colonne della tabella
 saranno riportati i possibili valori degli ultimi due livelli della
@@ -186,8 +179,7 @@ queste che dipenderanno, ovviamente, dal fatto di aver impostato il
 parametro "Tipologia di Visualizzazione" sul valore "Esploso
 Completamente" o "Vincolante al precedente livello"
 
-![Videate\\modalita_visualizzazione_tabella_esplosa_divisa.bmp](./assets/media/image113.png){width="5.177777777777778in"
-height="3.4972222222222222in"}
+![Videate\\modalita_visualizzazione_tabella_esplosa_divisa.bmp](./assets/media/image113.png)
 
 A differenza della configurazione precedente (Tabella Esplosa) in questo
 caso però i dati degli articoli figli non saranno più raggruppati
@@ -204,8 +196,7 @@ visualizzati all'interno di una tabella matriciale che ha in riga un
 livello della struttura e in colonna l'ultimo livello della struttura o
 l'elenco delle Taglie/Colori gestite per il prodotto in esame
 
-![Videate\\modalita_visualizzazione_tabella_matrice.bmp](./assets/media/image114.png){width="5.177777777777778in"
-height="3.4972222222222222in"}
+![Videate\\modalita_visualizzazione_tabella_matrice.bmp](./assets/media/image114.png)
 
 In queste condizioni ogni cella della tabella, determinata dall'incrocio
 riga/colonna, individuerà un possibile articolo figlio i cui dati
@@ -302,8 +293,7 @@ specifico articolo figlio al verificarsi delle seguenti condizioni:
   maschera di configurazione dello specifico componente "**Scheda
   Prodotto**" è stato impostato sul valore "**Figlio**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configuratore_riferimento_articoli_strutturati.bmp](./assets/media/image115.png){width="4.607638888888889in"
-height="2.0555555555555554in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configuratore_riferimento_articoli_strutturati.bmp](./assets/media/image115.png)
 
 Se entrambe le condizioni sopra indicate dovessero essere soddisfatte
 una volta completata la configurazione dell'articolo figlio tutte le

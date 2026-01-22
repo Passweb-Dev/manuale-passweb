@@ -14,8 +14,7 @@ Tale componente può essere inserito:
 
 - all'interno di pagine generiche (bianche) -- opzionale
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_profilo_utente_res.bmp](./assets/media/image25.png){width="2.123611111111111in"
-height="2.5388888888888888in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_profilo_utente_res.bmp](./assets/media/image25.png)
 
 Una volta effettuata la registrazione all'interno del sito il form di
 registrazione utente scomparirà, verrà effettuato il login e l'utente

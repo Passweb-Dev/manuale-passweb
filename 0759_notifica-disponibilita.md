@@ -7,8 +7,7 @@ Come precedentemente evidenziato all'interno della sezione
 Disponibilità**" abilitando quindi il sistema di gestione delle
 notifiche relative alla richiesta di disponibilità dei vari prodotti.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\notifica_disponibilita_0.bmp](./assets/media/image29.png){width="5.597222222222222in"
-height="3.4479166666666665in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\notifica_disponibilita_0.bmp](./assets/media/image29.png)
 
 **Gestione Notifica Disponibilità:** consente di attivare il componente
 **"Notifica Disponibilità"** determinando anche la sua specifica
@@ -24,8 +23,7 @@ E' possibile selezionare uno dei seguenti valori:
 > In queste condizioni, inserendo il componente "Notifica Disponibilità"
 > all'interno del sito, verrà quindi visualizzato un apposito messaggio
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\notifica_disponibilita_no.bmp](./assets/media/image30.png){width="4.980555555555555in"
-height="3.636111111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\notifica_disponibilita_no.bmp](./assets/media/image30.png)
 
 - **Ai soli utenti Registrati:** selezionando questo valore il
   componente "Notifica Disponibilità" verrà correttamente attivato ma
@@ -42,8 +40,7 @@ height="3.636111111111111in"}
 > essere avvisato quando il prodotto dovesse tornare ad essere
 > disponibile.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\notifica_disponibilita_utenti_registrati.bmp](./assets/media/image31.png){width="4.188194444444444in"
-height="2.825in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\notifica_disponibilita_utenti_registrati.bmp](./assets/media/image31.png)
 
 > Il messaggio in questione sarà inoltre un link che ricondurrà l'utente
 > direttamente alla pagina di accesso al sito, alla pagina di
@@ -54,8 +51,7 @@ height="2.825in"}
 > ricondotto alla precedente pagina prodotto dove il componente
 > "Notifica Disponibilità" visualizzerà ora un messaggio diverso
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\notifica_disponibilita_utenti_registrati2.bmp](./assets/media/image32.png){width="4.188194444444444in"
-height="2.825in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\notifica_disponibilita_utenti_registrati2.bmp](./assets/media/image32.png)
 
 > Cliccando su questo messaggio, e richiedendo espressamente di essere
 > avvisato nel momento in cui l'articolo dovesse tornare disponibile,
@@ -72,8 +68,7 @@ height="2.825in"}
 > "Notifica Disponibilità", visualizzerà esattamente lo stesso messaggio
 > del caso precedente.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\notifica_disponibilita_utenti_registrati2.bmp](./assets/media/image32.png){width="4.188194444444444in"
-height="2.825in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\notifica_disponibilita_utenti_registrati2.bmp](./assets/media/image32.png)
 
 > La mail cui verrà inviata la notifica, sarà, ovviamente, come nel caso
 > precedente, quella inserita dall'utente stesso in fase di
@@ -86,8 +81,7 @@ height="2.825in"}
 > registrato al sito, potrà comunque inserire la mail cui dovrà essere
 > inviata la notifica di "prodotto nuovamente disponibile"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\notifica_disponibilita_tutti.bmp](./assets/media/image33.png){width="4.188194444444444in"
-height="2.825in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\notifica_disponibilita_tutti.bmp](./assets/media/image33.png)
 
 Per maggiori informazioni sulla gestione e configurazione del componente
 "Notifica Disponibilità" si veda anche la sezione *"Live Editing --

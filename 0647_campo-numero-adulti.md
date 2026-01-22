@@ -5,8 +5,7 @@
 Consente all'utente che compila il form di indicare il numero di adulti
 per la relativa camera
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_welcome_campo_numero_adulti.bmp](./assets/media/image41.png){width="5.723611111111111in"
-height="3.33125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_welcome_campo_numero_adulti.bmp](./assets/media/image41.png)
 
 **Tipologia di componente Passweb**: Campo di Testo
 
@@ -17,8 +16,7 @@ relativo alla prima camera
 
 **Tipo Valore** = Numerico
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_welcome_campo_numero_adulti_2.bmp](./assets/media/image42.png){width="4.417361111111111in"
-height="3.097916666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_welcome_campo_numero_adulti_2.bmp](./assets/media/image42.png)
 
 **Obbligatorio** = Si
 
@@ -26,8 +24,7 @@ height="3.097916666666667in"}
 
 **Condizioni di obbligatorietà: numeroCamere è in 1,2,3 ...**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_welcome_campo_numero_adulti_3.bmp](./assets/media/image43.png){width="4.417361111111111in"
-height="3.1104166666666666in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_welcome_campo_numero_adulti_3.bmp](./assets/media/image43.png)
 
 Nell'ipotesi che il numero massimo di camere gestite all'interno del
 form sia 3 lo stesso componente "Numero Adulti" dovrà essere inserito

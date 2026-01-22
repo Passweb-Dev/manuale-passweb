@@ -4,8 +4,7 @@
 
 Il Componente **"Testo Commento"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cms_commenti_componente_testo_res.bmp](./assets/media/image92.png){width="2.5194444444444444in"
-height="2.5388888888888888in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cms_commenti_componente_testo_res.bmp](./assets/media/image92.png)
 
 può essere inserito solo ed esclusivamente all'interno di un componente
 "**Commenti Associati**" e consente di visualizzare il contenuto di ogni
@@ -15,8 +14,7 @@ A livello di configurazione, una volta inserito il Componente
 all'interno della pagina web, verrà aperta in automatico **la sua
 maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\testo_commento_configurazione_res.bmp](./assets/media/image93.png){width="4.636111111111111in"
-height="1.7791666666666666in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\testo_commento_configurazione_res.bmp](./assets/media/image93.png)
 
 suddivisa in varie sezioni.
 

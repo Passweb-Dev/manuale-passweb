@@ -7,8 +7,7 @@ del proprio sito web dei banner animati costituiti da una serie di
 elementi (immagini e/o testi) racchiusi all'interno di singole Slide che
 si susseguono una dopo l'altra con diversi effetti di transizione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_slider.bmp](./assets/media/image187.png){width="2.825in"
-height="3.467361111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_slider.bmp](./assets/media/image187.png)
 
 Ogni componente di questo tipo è costituito da tre distinti elementi:
 
@@ -23,8 +22,7 @@ Ogni componente di questo tipo è costituito da tre distinti elementi:
   il focus sulla miniatura e/o sul controllo relativo alla slide da
   visualizzare)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\slider_elementi.bmp](./assets/media/image188.png){width="5.136111111111111in"
-height="3.785416666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\slider_elementi.bmp](./assets/media/image188.png)
 
 Dipendentemente dallo specifico risultato grafico che si vuole ottenere
 sarà poi possibile configurare il componente in maniera tale da

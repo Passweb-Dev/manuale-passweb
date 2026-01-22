@@ -7,8 +7,7 @@ La sezione "**Caricamento Pagina**", presente all'interno del menu
 quali poter definire la modalità di caricamento delle risorse presenti
 all'interno delle pagine del proprio sito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\caricamento_pagina.bmp](./assets/media/image55.png){width="5.746527777777778in"
-height="3.50625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\caricamento_pagina.bmp](./assets/media/image55.png)
 
 **[CARICAMENTO IMMAGINI]{.underline}**
 
@@ -125,8 +124,7 @@ In particolare per il componente:
   "**Immagine Segnaposto Tablet**" presenti nella maschera di
   configurazione del componente.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\caricamento_immagini_slider.bmp](./assets/media/image56.png){width="4.584722222222222in"
-height="3.045138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\caricamento_immagini_slider.bmp](./assets/media/image56.png)
 
 > Tali parametri offrono infatti la possibilità di indicare una
 > specifica immagine (per i vari dispositivi) che verrà poi caricata e
@@ -158,8 +156,7 @@ height="3.045138888888889in"}
   "*Varianti Sito Responsive -- Lista Componenti Comuni -- Immagine con
   link*" di questo manuale)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\caricamento_immagini_immagine.bmp](./assets/media/image57.png){width="4.590972222222222in"
-height="3.045138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\caricamento_immagini_immagine.bmp](./assets/media/image57.png)
 
 - **Articolo (CMS) / Sommario (CMS):** in relazione alle eventuali
   "**Immagini Articolo**" e "**Immagini Sommario**" inserite mediante i
@@ -254,8 +251,7 @@ che **l'attivazione del parametro stesso richiede una conversione
 preventiva** di tutte le immagini attualmente utilizzate all'interno del
 sito nel formato corretto.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\conversione_webp_generale.bmp](./assets/media/image58.png){width="5.792361111111111in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\conversione_webp_generale.bmp](./assets/media/image58.png)
 
 **ATTENZIONE!** Nel momento in cui si dovesse decidere di attivare il
 parametro in esame senza aver prima convertito tutte le immagini in
@@ -271,8 +267,7 @@ immagini di categoria e immagini presenti in "Gestione Risorse")
 Cliccando su questo pulsante verrà quindi visualizzata la maschera
 "**Conversione in webp**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\conversione_webp_generale_2.bmp](./assets/media/image59.png){width="5.792361111111111in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\conversione_webp_generale_2.bmp](./assets/media/image59.png)
 
 all'interno della quale poter impostare la qualità da utilizzare nel
 processo di conversione (ovviamente più alto sarà il grado di qualità

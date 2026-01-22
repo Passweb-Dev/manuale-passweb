@@ -6,8 +6,7 @@ All'interno di questa sezione è possibile gestire la ricezione e l'invio
 di messaggi **da/verso altri utenti abilitati ad accedere in area
 riservata**.
 
-![Videate\\ar_ec_messaggi_0.bmp](./assets/media/image31.png){width="5.104166666666667in"
-height="3.1819444444444445in"}
+![Videate\\ar_ec_messaggi_0.bmp](./assets/media/image31.png)
 
 **ATTENZIONE! l'App Messaggi disponibile in Area Riservata NON è un
 client di posta e non può quindi essere utilizzata per inviare messaggi
@@ -23,8 +22,7 @@ aver attivato la relativa App operando per questo all'interno
 dell'apposita sezione del Wizard accessibile dal menu "*Sito --
 Preferenze*".
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ec_messaggi_attivazione.bmp](./assets/media/image32.png){width="5.532638888888889in"
-height="3.49375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ec_messaggi_attivazione.bmp](./assets/media/image32.png)
 
 I pulsanti presenti nella parte alta della maschera consentono di
 accedere alle sottosezioni relative ai:
@@ -37,16 +35,14 @@ accedere alle sottosezioni relative ai:
 
 - **Bozze**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ec_messaggi_menu.bmp](./assets/media/image33.png){width="5.104166666666667in"
-height="3.1819444444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ec_messaggi_menu.bmp](./assets/media/image33.png)
 
 Il menu laterale ad albero consente invece di filtrare per destinatario
 / mittente (a seconda del fatto di trovarsi nella sezione dei messaggi
 in arrivo piuttosto che in quella dei messaggi inviati ...) i messaggi
 presenti in griglia
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_messaggi_treeview_utenti.bmp](./assets/media/image34.png){width="5.104166666666667in"
-height="3.1819444444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_messaggi_treeview_utenti.bmp](./assets/media/image34.png)
 
 All'interno di questo menu sono riportati tutti gli utenti e i gruppi
 con cui l'utente attualmente loggato potrà effettivamente comunicare.
@@ -79,8 +75,7 @@ anche in base al loro "Oggetto" e / o al loro "Testo" agendo, in questo
 senso, dal **pannello di ricerca** presente immediatamente al di sopra
 della griglia dei messaggi
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ec_messaggi_ricerca.bmp](./assets/media/image35.png){width="5.104166666666667in"
-height="3.1819444444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ec_messaggi_ricerca.bmp](./assets/media/image35.png)
 
 Il pulsante "**Vai**" presente nella parte bassa del pannello di ricerca
 consente di applicare i filtri impostati e di avviare quindi la relativa
@@ -93,13 +88,11 @@ menu ad albero)
 In visualizzazione mobile il pulsante "**Filtra per utenti**" presente
 all'interno del pannello di ricerca
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\messaggi_mobile_pulsante_filtro_utenti.bmp](./assets/media/image36.png){width="1.863888888888889in"
-height="3.4090277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\messaggi_mobile_pulsante_filtro_utenti.bmp](./assets/media/image36.png)
 
 consente di richiamare il relativo menu ad albero
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\messaggi_mobile_filtro_utenti.bmp](./assets/media/image37.png){width="1.7208333333333334in"
-height="3.4743055555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\messaggi_mobile_filtro_utenti.bmp](./assets/media/image37.png)
 
 In queste condizioni per applicare il filtro sarà necessario selezionare
 l'utente o il gruppo desiderato e cliccare poi sul pulsante

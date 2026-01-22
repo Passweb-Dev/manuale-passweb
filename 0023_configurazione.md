@@ -18,8 +18,7 @@ All'interno di questa sezione è possibile tra le altre cose:
 
 - impostare il tempo massimo di conservazione dei log
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_preferenze.bmp](./assets/media/image1.png){width="4.486805555555556in"
-height="2.7402777777777776in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_preferenze.bmp](./assets/media/image1.png)
 
 Nello specifico i parametri presenti all'interno della sezione
 "**Visibilità Sito e Restrizioni**" consentono rispettivamente di:
@@ -36,8 +35,7 @@ Nello specifico i parametri presenti all'interno della sezione
     una pagina di manutenzione con il contenuto inserito nel successivo
     campo "**Testo Sito in Lavorazione"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_workinprogress.bmp](./assets/media/image2.png){width="4.461111111111111in"
-height="2.7729166666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_workinprogress.bmp](./assets/media/image2.png)
 
 - **Logo dell'Area Riservata e Sito in Lavorazione:** consente di
   selezionare l'immagine che verrà visualizzata:
@@ -52,8 +50,7 @@ height="2.7729166666666667in"}
 > Cliccando sul pulsante "**Seleziona la Risorsa**" verrà visualizzata
 > la maschera di "**Gestione Risorse**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_gest_risorse.bmp](./assets/media/image3.png){width="4.590972222222222in"
-height="2.876388888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_gest_risorse.bmp](./assets/media/image3.png)
 
 > attraverso la quale poter selezionare l'immagine da utilizzare come
 > Logo.
@@ -87,16 +84,14 @@ height="2.876388888888889in"}
 > contenitore strutturale "Riquadro Sito", aprire il Live Editing ed
 > agire sugli elementi "**Credits**" e "**Credits Link**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\stile_crediti.bmp](./assets/media/image4.png){width="2.8569444444444443in"
-height="2.2270833333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\stile_crediti.bmp](./assets/media/image4.png)
 
 - **Mostra popup sessione scaduta:** se attivato, consente di
   visualizzare, una volta scaduta la sessione sul front end del sito, un
   apposito messaggio per informare l'utente relativamente al fatto che
   potrebbe essere necessario effettuare nuovamente l'autenticazione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\popup_sessione_frontend.bmp](./assets/media/image5.png){width="5.376388888888889in"
-height="3.325in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\popup_sessione_frontend.bmp](./assets/media/image5.png)
 
 > Il messaggio in questione può essere personalizzato alla pagina
 > "**Sito -- Testi Messaggi del sito -- Testi Generici**" agendo
@@ -115,8 +110,7 @@ javascript.
 **ATTENZIONE!** L'effetto di Smooth Scrolling può essere attivato solo
 ed esclusivamente su Varianti Responsive.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\smooth_scrolling.bmp](./assets/media/image6.png){width="4.486805555555556in"
-height="2.7729166666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\smooth_scrolling.bmp](./assets/media/image6.png)
 
 Nel caso in cui l'esigenza dovesse essere quindi quella di attivare per
 le pagine del proprio sito l'effetto di scorrimento dolce, sarà
@@ -173,8 +167,7 @@ sito web.
 La sezione "**Area Riservata\"** consente di impostare i principali
 parametri di configurazione dell'Area Riservata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\preferenze_area_riservata2.bmp](./assets/media/image7.png){width="4.5256944444444445in"
-height="2.7729166666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\preferenze_area_riservata2.bmp](./assets/media/image7.png)
 
 Per maggiori informazioni in merito a questa sezione si veda quanto
 indicato nel successivo capitolo di questo manuale.
@@ -182,8 +175,7 @@ indicato nel successivo capitolo di questo manuale.
 La sezione "**Sistema\"** consente infine di impostare il tempo di
 conservazione di determinati log.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\preferenze_logIIS.bmp](./assets/media/image8.png){width="5.629861111111111in"
-height="3.4479166666666665in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\preferenze_logIIS.bmp](./assets/media/image8.png)
 
 Nello specifico il parametro
 

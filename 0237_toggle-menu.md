@@ -8,8 +8,7 @@ menu, quest'ultimo dovrà aprirsi in corrispondenza del pulsante di
 apertura sovrapponendosi agli altri contenuti del sito o, al massimo,
 facendoli scorrere verso il basso.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gr_16.png](./assets/media/image63.png){width="4.686805555555556in"
-height="2.9402777777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gr_16.png](./assets/media/image63.png)
 
 **[CONTRO]{.underline}**
 
@@ -24,6 +23,5 @@ Il più semplice è quello che prevede di utilizzare un componente
 Componente Menu configurato, come nel caso precedente con l'opzione
 "**Flottante Verticale**", oppure anche con l'opzione "**Treeview**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_treeview.bmp](./assets/media/image64.png){width="5.127083333333333in"
-height="3.1416666666666666in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_treeview.bmp](./assets/media/image64.png)
 

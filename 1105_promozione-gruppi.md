@@ -6,8 +6,7 @@ La sezione **Gruppi**, presente nella parte bassa della maschera,
 consente di associare uno o più gruppi utente alla Promozione in esame,
 definendo, quindi, quali utenti potranno o meno beneficiarne.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\buono_sconto_gruppi.bmp](./assets/media/image528.png){width="5.227083333333334in"
-height="2.207638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\buono_sconto_gruppi.bmp](./assets/media/image528.png)
 
 Nel box sulla sinistra sono visualizzati tutti i gruppi utente
 codificati all'interno della corrispondente sezione del Wizard (per

@@ -20,8 +20,7 @@ All'interno della maschera Coupons verranno quindi visualizzati tutti i
 Buoni Sconto attivi all'interno del sito e che sono stati utilizzati
 almeno una volta all'interno di un documento.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\statistiche_bs_0.bmp](./assets/media/image26.png){width="6.0125in"
-height="3.5340277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\statistiche_bs_0.bmp](./assets/media/image26.png)
 
 E' possibile filtrare i dati in elenco in base al nome del cliente
 intestatario dell\'ordine (campo "**Nome / Ragione Sociale"**), in base
@@ -55,8 +54,7 @@ questione.
 In questo modo verranno infatti visualizzate le righe di tutte le
 matrici Passweb coinvolte nell'utilizzo del Buono Sconto selezionato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\statistiche_bs_1.bmp](./assets/media/image27.png){width="6.0125in"
-height="3.5340277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\statistiche_bs_1.bmp](./assets/media/image27.png)
 
 e per ciascuna di esse verranno visualizzate le seguenti informazioni:
 
@@ -83,8 +81,7 @@ Cliccando su ciascuna delle righe presenti all'interno di questa
 maschera, sarà possibile accedere anche al dettaglio dell'intera matrice
 in cui è stato utilizzato il relativo Buono Sconto.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\statistiche_bs_2.bmp](./assets/media/image28.png){width="6.0125in"
-height="3.5340277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\statistiche_bs_2.bmp](./assets/media/image28.png)
 
 Il link presente nella parte alta della maschera di dettaglio, in
 corrispondenza della voce "**Documenti Correlati**", consente di passare
@@ -100,8 +97,7 @@ Per far questo è sufficiente selezionare uno dei formati di esportazione
 presenti nel menu a tendina evidenziato in figura e cliccare poi sul
 pulsante "**Esporta**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\statistiche_bs_4.bmp](./assets/media/image29.png){width="6.0125in"
-height="3.5340277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\statistiche_bs_4.bmp](./assets/media/image29.png)
 
 Nello specifico l'opzione:
 

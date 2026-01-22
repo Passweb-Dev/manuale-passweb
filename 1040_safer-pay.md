@@ -35,8 +35,7 @@ impostare, oltre ai parametri classici di configurazione del pagamento,
 anche quelli specifici del gateway attualmente considerato e presenti
 all'interno della sezione "**Parametri Gateway**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_safer_pay.bmp](./assets/media/image188.png){width="5.298611111111111in"
-height="3.129861111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_safer_pay.bmp](./assets/media/image188.png)
 
 Nel caso specifico il parametro:
 
@@ -71,8 +70,7 @@ In particolare per quel che riguarda il "**Nome Utente API"** e la
 all'interno della relativa applicazione di Back Office accedendo alla
 sezione "**Impostazioni -- JSON API Basic Authentication**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\safer_pay_backoffice.bmp](./assets/media/image189.png){width="4.980555555555555in"
-height="4.143055555555556in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\safer_pay_backoffice.bmp](./assets/media/image189.png)
 
 **NOTA BENE**: Safer Pay consente di gestire anche pagamenti in valuta.
 
@@ -95,8 +93,7 @@ conferma dell'ordine, selezionare la modalità di pagamento in esame,
 l'ordine sarà memorizzato nel database di Passweb, e l'utente verrà
 reindirizzato alla specifica pagina di accesso del gateway di pagamento:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\saferpay_1.bmp](./assets/media/image190.png){width="5.629861111111111in"
-height="3.2597222222222224in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\saferpay_1.bmp](./assets/media/image190.png)
 
 **A questo punto però l'ordine non è ancora stato preso in carico dalla
 banca e, conseguentemente, non è ancora avvenuto alcun pagamento**.
@@ -119,8 +116,7 @@ inserito in Mexal
 Nel secondo caso, cliccando sul pulsante "**Acquistare**" potrà essere
 mostrata un'ulteriore per la gestione del 3D Secure
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\saferpay_4.bmp](./assets/media/image191.png){width="5.552083333333333in"
-height="3.2270833333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\saferpay_4.bmp](./assets/media/image191.png)
 
 Completato anche questo passaggio l'ordine verrà definitivamente preso
 in carico dalla banca

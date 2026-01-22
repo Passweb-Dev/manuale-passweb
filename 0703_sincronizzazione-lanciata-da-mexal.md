@@ -20,15 +20,13 @@ con cui si intende effettuare la sincronizzazione, verrà visualizzato
 l'elenco di tutti gli articoli attualmente configurati per essere
 esportati e gestiti all'interno di quello stesso sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\sincronizzazione_mexal_articoli_gestiti.bmp](./assets/media/image192.png){width="6.038888888888889in"
-height="3.3958333333333335in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\sincronizzazione_mexal_articoli_gestiti.bmp](./assets/media/image192.png)
 
 I pulsanti presenti nella parte bassa della maschera e/o quelli presenti
 nella pulsantiera a lato consentono di effettuare diverse operazioni su
 questi articoli prima di avviare effettivamente la Sincronizzazione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\sincronizzazione_mexal_articoli_gestiti_2.bmp](./assets/media/image193.png){width="6.038888888888889in"
-height="3.3958333333333335in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\sincronizzazione_mexal_articoli_gestiti_2.bmp](./assets/media/image193.png)
 
 In particolare il pulsante:
 
@@ -37,8 +35,7 @@ In particolare il pulsante:
   necessariamente in Anagrafica Articoli, ad alcuni dati della
   "**Videata E-Commerce**".
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\sincronizzazione_mexal_articoli_gestiti_3.bmp](./assets/media/image194.png){width="1.6493055555555556in"
-height="1.038888888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\sincronizzazione_mexal_articoli_gestiti_3.bmp](./assets/media/image194.png)
 
 > In particolare, operando a partire da questa maschera, è possibile
 > intervenire sui campi **Trasferisci sul sito, Articolo in Offerta,
@@ -70,8 +67,7 @@ height="1.038888888888889in"}
   configurazione del filtro utilizzato per visualizzare gli articoli
   presenti in elenco.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\sincronizzazione_mexal_articoli_gestiti_4.bmp](./assets/media/image195.png){width="3.363888888888889in"
-height="1.66875in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\sincronizzazione_mexal_articoli_gestiti_4.bmp](./assets/media/image195.png)
 
 > Come precedentemente evidenziato effettuando l'accesso a questa
 > sezione del gestionale verranno immediatamente visualizzati tutti gli
@@ -111,15 +107,13 @@ height="1.66875in"}
 > una Sincronizzazione dei soli elementi Variati come evidenziato
 > dall'apposito messaggio informativo
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\sincronizzazione_variati_0.bmp](./assets/media/image181.png){width="2.9743055555555555in"
-height="1.5131944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\sincronizzazione_variati_0.bmp](./assets/media/image181.png)
 
 > Nel momento in cui non dovessero esserci elementi variati rispetto
 > all'ultima sincronizzazione il pulsante Sincronizza permetterà, se
 > necessario, di effettuare una **"Sincronizzazione Totale"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\sincronizzazione_totale1.bmp](./assets/media/image180.png){width="2.922222222222222in"
-height="1.5131944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\sincronizzazione_totale1.bmp](./assets/media/image180.png)
 
 > Considerai i tempi, potenzialmente lunghi, di questa operazione, è
 > sempre consigliabile effettuare una Sincronizzazione Totale solo ed
@@ -136,8 +130,7 @@ height="1.5131944444444445in"}
 > un'ulteriore domanda relativamente, come detto, alla sincronizzazione
 > delle immagini.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sincronizzazione_mexal_articoli_gestiti_6.bmp](./assets/media/image196.png){width="1.8958333333333333in"
-height="0.9027777777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sincronizzazione_mexal_articoli_gestiti_6.bmp](./assets/media/image196.png)
 
 > Rispondendo **"No"** a questa domanda, verrà avviata la sola
 > sincronizzazione dei dati.
@@ -159,8 +152,7 @@ height="0.9027777777777778in"}
 > verrà offerta all'utente la possibilità di indicare una specifica
 > data.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sincronizzazione_mexal_articoli_gestiti_7.bmp](./assets/media/image197.png){width="1.8444444444444446in"
-height="0.9027777777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sincronizzazione_mexal_articoli_gestiti_7.bmp](./assets/media/image197.png)
 
 > Facendo questo oltre alla sincronizzazione dei dati verrà avviata
 > l'importazione delle sole risorse (immagine e/o schede tecniche) che

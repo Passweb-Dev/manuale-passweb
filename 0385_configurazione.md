@@ -5,8 +5,7 @@
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_carrellino_configurazione_res.bmp](./assets/media/image180.png){width="5.122916666666667in"
-height="3.122916666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_carrellino_configurazione_res.bmp](./assets/media/image180.png)
 
 suddivisa in varie sezioni.
 
@@ -67,8 +66,7 @@ presente in carrello sono quelli gestiti mediante i Segnaposto. **Ogni
 altro testo verrà replicato allo stesso modo per ogni singolo
 articolo.**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\carrellino_testo_articoli.bmp](./assets/media/image181.png){width="5.116666666666666in"
-height="3.092361111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\carrellino_testo_articoli.bmp](./assets/media/image181.png)
 
 E' possibile utilizzare i seguenti segnaposto:
 
@@ -110,8 +108,7 @@ esattamente da quanto inserito alla pagina "**Testi Messaggi del Sito**"
 per il componente "**Carrellino**" in relazione al testo "**Totale
 Prezzo Articoli**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\carrellino_totali.bmp](./assets/media/image182.png){width="5.588888888888889in"
-height="3.3131944444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\carrellino_totali.bmp](./assets/media/image182.png)
 
 In questo senso, all'interno del campo "**Testo**" evidenziato in
 figura, è infatti possibile utilizzare i seguenti segnaposto
@@ -150,8 +147,7 @@ soddisfatta), e quindi solo nel caso in cui i prezzi visualizzati
 dovessero essere iva esclusa (cosa che, tipicamente, dovrebbe avvenire
 se ad effettuare l'ordine dovesse essere un utente di tipo Azienda)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\carrellino_totali_non_ivati.bmp](./assets/media/image183.png){width="5.595138888888889in"
-height="3.7666666666666666in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\carrellino_totali_non_ivati.bmp](./assets/media/image183.png)
 
 Se invece i prezzi visualizzati all'interno del sito dovessero essere
 iva inclusa (perché ad esempio ad effettuare l'ordine è un utente
@@ -159,8 +155,7 @@ Privato) la condizione **\$if(vatprice)\$** non verrà soddisfatta e
 quindi l'unico valore ad essere stampato all'interno del carrellino sarà
 direttamente il Totale merce ivato.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\carrellino_totali_ivati.bmp](./assets/media/image184.png){width="5.588888888888889in"
-height="3.7666666666666666in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\carrellino_totali_ivati.bmp](./assets/media/image184.png)
 
 **Visualizza Totale Articoli :** se selezionato consente di visualizzare
 all'interno del Componente informazioni relative al numero o alla
@@ -277,8 +272,7 @@ di Passweb e/o mediante i relativi strumenti di editing avanzato.
 visualizzare la "Descrizione" associata ad eventuali "Promozioni in
 Carrello" e/o a sistemi di "Raccolta Punti" attivi sul sito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\desc_promozioni_carrellino_2.bmp](./assets/media/image185.png){width="5.153472222222222in"
-height="3.34375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\desc_promozioni_carrellino_2.bmp](./assets/media/image185.png)
 
 Grazie a questo parametro è quindi possibile visualizzare, anche
 all'interno del Carrellino, un testo mediante il quale informare
@@ -292,8 +286,7 @@ esattamente quello inserito in corrispondenza del campo
 specifica "Promozione in Carrello" e/o della specifica "Regola di
 Raccolta Punti" attiva sul sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\desc_promozioni_carrellino.bmp](./assets/media/image186.png){width="5.760416666666667in"
-height="3.490972222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\desc_promozioni_carrellino.bmp](./assets/media/image186.png)
 
 Per maggiori informazioni in merito a come poter associare una
 Descrizione alle Promozioni in Carrello e/o alle Regole di Raccolta

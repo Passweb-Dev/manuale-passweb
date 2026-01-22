@@ -19,8 +19,7 @@ precisa, quello che sarà effettivamente il prezzo della relativa opzione
 nel momento in cui la quantità dell'articolo inserita in carrello
 dovesse ricadere in determinato scaglione
 
-![Videate\\set_opzioni_scaglioni_prezzo_opzione.bmp](./assets/media/image465.png){width="5.461111111111111in"
-height="3.454861111111111in"}
+![Videate\\set_opzioni_scaglioni_prezzo_opzione.bmp](./assets/media/image465.png)
 
 **ATTENZIONE!** il messaggio in esame non verrà visualizzato se
 l'opzione è gestita mediante un controllo di tipo List
@@ -34,8 +33,7 @@ presente nella barra degli strumenti.
 In questo modo verrà infatti visualizzata la maschera "**Testi
 Componente -- Set Opzioni**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tooltip_prezzo_opzione.bmp](./assets/media/image466.png){width="5.461111111111111in"
-height="3.454861111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tooltip_prezzo_opzione.bmp](./assets/media/image466.png)
 
 all'interno della quale troveremo un editor HTML (sezione "**Tooltip
 Quantità -- Prezzo**") da utilizzare per personalizzare il messaggio.

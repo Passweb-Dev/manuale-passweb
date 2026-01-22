@@ -26,16 +26,14 @@ Eseguendo questo snippet di codice prima di effettuare qualsiasi tipo di
 scelta in merito alla gestione dei consensi dovremo avere come risultato
 i valori impostati a default per ogni singolo consenso
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\consent_mode_2.bmp](./assets/media/image15.png){width="5.088888888888889in"
-height="4.700694444444444in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\consent_mode_2.bmp](./assets/media/image15.png)
 
 Eseguendo lo stesso snippet di codice dopo aver impostato qualche
 consenso dovremo invece vedere oltre al valore di default anche l'update
 effettuato direttamente dalla CMP sulla base dei consensi forniti
 dall'utente
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\consent_mode_3.bmp](./assets/media/image16.png){width="5.178472222222222in"
-height="4.7131944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\consent_mode_3.bmp](./assets/media/image16.png)
 
 Per quel che riguarda invece la possibilità di verificare che i dati
 trasmessi ai server di Google siano coerenti con le scelte effettuate
@@ -97,8 +95,7 @@ del nostro sito, in tali richieste (sulla base della tabella sopra
 riportata) il valore del parametro gcs dovrebbe, generalmente, essere
 esattamente G100
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\consent_mode_4.bmp](./assets/media/image17.png){width="5.216666666666667in"
-height="4.706944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\consent_mode_4.bmp](./assets/media/image17.png)
 
 In queste condizioni inoltre non dovremmo registrare su Analytics nessun
 tipo di visita né nella Debug View né tanto meno nei report in tempo
@@ -109,8 +106,7 @@ consenso ad esempio sia per i cookie statistici che per quelli marketing
 nel dettaglio delle hit inviate ai server di Google dovremo ora avere un
 valore del parametro gcs pari a G111
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\consent_mode_5.bmp](./assets/media/image18.png){width="5.235416666666667in"
-height="4.598611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\consent_mode_5.bmp](./assets/media/image18.png)
 
 Come ulteriore verifica, in queste condizioni dovremmo ora registrare
 correttamente visita e relativi eventi anche in tutti i rapporti di GA4

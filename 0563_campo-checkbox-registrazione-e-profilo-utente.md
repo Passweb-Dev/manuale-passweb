@@ -4,8 +4,7 @@
 
 Il Componente **"Campo Checkbox"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\campo_check_registrazione_res.bmp](./assets/media/image105.png){width="2.5194444444444444in"
-height="2.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\campo_check_registrazione_res.bmp](./assets/media/image105.png)
 
 consente di inserire all'interno dei form di Registrazione e di Profilo
 Utente una singola etichetta seguita da una casellina (Checkbox) che
@@ -14,8 +13,7 @@ l'utente potrà o meno selezionare in fase di registrazione.
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_iu_campo_checkbox_res.bmp](./assets/media/image106.png){width="4.545138888888889in"
-height="3.292361111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_iu_campo_checkbox_res.bmp](./assets/media/image106.png)
 
 suddivisa in varie sezioni.
 

@@ -18,8 +18,7 @@ merceologiche gestite all'interno del sito.
 All'interno di questa pagina verrà quindi visualizzata la maschera
 **"Gruppi di Attributi"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gruppi_attributi.bmp](./assets/media/image122.png){width="5.604166666666667in"
-height="3.5256944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gruppi_attributi.bmp](./assets/media/image122.png)
 
 contenente l'elenco dei gruppi di Attributi attualmente gestiti
 all'interno del sito.
@@ -33,13 +32,11 @@ I pulsanti presenti nella barra principale degli strumenti consentono
 rispettivamente di:
 
 **Nuovo**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuovo.bmp](./assets/media/image88.png){width="0.325in"
-height="0.1951388888888889in"} ): consente di definire un nuovo gruppo
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuovo.bmp](./assets/media/image88.png) ): consente di definire un nuovo gruppo
 di attributi. Cliccando su questo pulsante verrà infatti visualizzata la
 maschera "**Gruppo**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuovo_gruppo_attributi.bmp](./assets/media/image123.png){width="5.604166666666667in"
-height="3.5256944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuovo_gruppo_attributi.bmp](./assets/media/image123.png)
 
 all'interno della quale poter definire le caratteristiche del gruppo in
 oggetto.
@@ -71,19 +68,16 @@ seguenti parametri:
 > attributi facenti parte del gruppo che si sta realizzando.
 
 **Modifica Gruppo**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica.bmp](./assets/media/image43.png){width="0.3958333333333333in"
-height="0.18819444444444444in"} ): consente di modificare le
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica.bmp](./assets/media/image43.png) ): consente di modificare le
 caratteristiche del gruppo attualmente selezionato in elenco.
 
 **Elimina Gruppo**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina.bmp](./assets/media/image114.png){width="0.3506944444444444in"
-height="0.18819444444444444in"} ): consente di eliminare il gruppo
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina.bmp](./assets/media/image114.png) ): consente di eliminare il gruppo
 attualmente selezionato in elenco. L'eliminazione del gruppo non
 comporta in alcun modo l'eliminazione degli attributi facenti parte del
 gruppo stesso
 
 **Copia Gruppo**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_copia_gruppo.bmp](./assets/media/image124.png){width="0.5652777777777778in"
-height="0.1951388888888889in"} ): consente di effettuare una copia del
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_copia_gruppo.bmp](./assets/media/image124.png) ): consente di effettuare una copia del
 gruppo di attributi attualmente selezionato in elenco.
 

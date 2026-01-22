@@ -3,15 +3,13 @@
 
 
 Il pulsante **Distribuisci** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\layout_pulsante_distribuisci_res.bmp](./assets/media/image147.png){width="0.2881944444444444in"
-height="0.1840277777777778in"} ) consente di associare il Layout
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\layout_pulsante_distribuisci_res.bmp](./assets/media/image147.png) ) consente di associare il Layout
 attualmente selezionato in elenco a una o a più pagine del sito.
 
 Cliccando su questo pulsante verrà visualizzata una maschera contenente
 la gerarchia delle pagine attualmente presenti all'interno del sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_layout3_res.bmp](./assets/media/image148.png){width="4.65625in"
-height="2.1777777777777776in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_layout3_res.bmp](./assets/media/image148.png)
 
 Per associare il Layout in esame a una o più pagine contemporaneamente,
 sarà quindi sufficiente selezionare queste pagine all'interno

@@ -4,8 +4,7 @@
 
 Il Componente **"Ricordami"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\campo_ricordami_login_res.bmp](./assets/media/image76.png){width="2.5388888888888888in"
-height="2.5388888888888888in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\campo_ricordami_login_res.bmp](./assets/media/image76.png)
 
 consente di inserire all'interno del pannello di login un check box che,
 se selezionato, permetterà di generare un cookie che verrà poi
@@ -28,8 +27,7 @@ le proprie credenziali di accesso.
 Inserendo questo Componente all'interno del pannello di login verrà
 aperta **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ricordami_configurazione_res.bmp](./assets/media/image77.png){width="4.590972222222222in"
-height="2.415277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ricordami_configurazione_res.bmp](./assets/media/image77.png)
 
 suddivisa in varie sezioni.
 

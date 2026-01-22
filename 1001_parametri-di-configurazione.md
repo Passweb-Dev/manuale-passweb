@@ -11,8 +11,7 @@ maschera "Lista dei Metodi di Pagamenti".
 In questo modo verrà infatti visualizzata la maschera **"Configurazione
 del Pagamento"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamento_mexal_configurazione.bmp](./assets/media/image7.png){width="5.785416666666666in"
-height="3.50625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagamento_mexal_configurazione.bmp](./assets/media/image7.png)
 
 suddivisa in due distinte sezioni: "**Informazioni Generali**" e
 "**Parametri Gateway**"

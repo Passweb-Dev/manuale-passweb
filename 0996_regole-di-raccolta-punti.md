@@ -17,44 +17,36 @@ In questo modo si avrà infatti accesso alla maschera "**Lista Regole
 Punti**" contenente l'elenco di tutte le regole definite per la raccolta
 in esame.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_regole_punti.bmp](./assets/media/image372.png){width="5.746527777777778in"
-height="3.3895833333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_regole_punti.bmp](./assets/media/image372.png)
 
 I pulsanti presenti nella barra degli strumenti consentono
 rispettivamente di:
 
 **Attiva / Disattiva Regola** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_attiva_regola.bmp](./assets/media/image373.png){width="0.5131944444444444in"
-height="0.175in"} /
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_disattiva_regola.bmp](./assets/media/image374.png){width="0.5972222222222222in"
-height="0.175in"} **):** consente di attivare / disattivare la regola
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_attiva_regola.bmp](./assets/media/image373.png) /
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_disattiva_regola.bmp](./assets/media/image374.png) **):** consente di attivare / disattivare la regola
 attualmente selezionata in elenco
 
 **Copia Regola** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_copia_regola.bmp](./assets/media/image375.png){width="0.48680555555555555in"
-height="0.18819444444444444in"} )**:** consente di copiare la regola
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_copia_regola.bmp](./assets/media/image375.png) )**:** consente di copiare la regola
 attualmente selezionata in elenco
 
 **Elimina Regola** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_regola.bmp](./assets/media/image80.png){width="0.5451388888888888in"
-height="0.18194444444444444in"} )**:** consente di eliminare la regola
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_regola.bmp](./assets/media/image80.png) )**:** consente di eliminare la regola
 attualmente selezionata in elenco
 
 **Modifica Regola** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_regola.bmp](./assets/media/image79.png){width="0.5972222222222222in"
-height="0.16875in"} )**:** consente di modificare la regola attualmente
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_regola.bmp](./assets/media/image79.png) )**:** consente di modificare la regola attualmente
 selezionata in elenco
 
 **Aggiungi Regola** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_regola.bmp](./assets/media/image376.png){width="0.6166666666666667in"
-height="0.18194444444444444in"} )**:** consente di creare una nuova
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_regola.bmp](./assets/media/image376.png) )**:** consente di creare una nuova
 regola di accumulo punti
 
 Cliccando su quest'ultimo pulsante verrà infatti aperta la maschera
 "**Nuova Regola**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuova_regola_punti.bmp](./assets/media/image377.png){width="5.746527777777778in"
-height="3.3895833333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuova_regola_punti.bmp](./assets/media/image377.png)
 
 all'interno della quale poter impostare tutti i parametri di
 configurazione della regola che si intende creare.
@@ -255,13 +247,11 @@ specifiche condizioni (da dettagliare all'interno del testo stesso)
 potrà accumulare un determinato numero di punti da riutilizzare poi per
 successivi ordini.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\descrizione_regola_fe.bmp](./assets/media/image378.png){width="5.1625in"
-height="3.3048611111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\descrizione_regola_fe.bmp](./assets/media/image378.png)
 
 Il pulsante "**Aggiungi Segnaposto**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\regole_raccolta_segnaposto_descrizione.bmp](./assets/media/image379.png){width="5.772916666666666in"
-height="3.4743055555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\regole_raccolta_segnaposto_descrizione.bmp](./assets/media/image379.png)
 
 consente di inserire all'interno della descrizione della specifica
 regola, anche i seguenti Placeholder:
@@ -342,8 +332,7 @@ Per associare una nuova Zona alla Regola di raccolta punti che si sta
 realizzando sarà sufficiente cliccare sul pulsante "**Aggiungi una
 zona**" ed inserirla quindi all'interno del corrispondente riquadro
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\regole_punti_zone_spedizione.bmp](./assets/media/image380.png){width="4.941666666666666in"
-height="2.9743055555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\regole_punti_zone_spedizione.bmp](./assets/media/image380.png)
 
 Il campo "Aggiungi una zona" è ad autocompletamento per cui iniziando a
 digitare il nome della Zona che si intende associare alla Regola verrà
@@ -353,8 +342,7 @@ maggiori informazioni relativamente a come codificare una Zona di
 spedizione utilizzabile poi a livello di Regole punti si veda quanto
 indicata all'interno del capitolo "*Ordini -- Zone*" di questo manuale)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\regole_punti_zone_spedizione_2.bmp](./assets/media/image381.png){width="4.941666666666666in"
-height="2.9743055555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\regole_punti_zone_spedizione_2.bmp](./assets/media/image381.png)
 
 Nel momento in cui digitando il nome della Zona non dovesse essere
 proposta nessuna opzione, significa che la Zona indicata non è tra
@@ -462,15 +450,13 @@ per regole configurate con il parametro "Azione = Ordine"**
 Prima di poter definire delle nuove condizioni è necessario effettuare
 almeno un salvataggio della regola in questione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\condizioni_regola_punti_1.bmp](./assets/media/image382.png){width="4.649305555555555in"
-height="1.4805555555555556in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\condizioni_regola_punti_1.bmp](./assets/media/image382.png)
 
 Una vota salvata la regola si attiverà infatti, come mostrato in figura,
 un nuovo pulsante mediante il quale poter gestire, attraverso l'apposita
 maschera, l'inserimento di una nuova condizione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\condizioni_regola_punti_2.bmp](./assets/media/image383.png){width="4.5256944444444445in"
-height="2.720833333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\condizioni_regola_punti_2.bmp](./assets/media/image383.png)
 
 Per ogni condizione è possibile impostare un valore per i seguenti
 parametri:
@@ -593,8 +579,7 @@ visualizzate le seguenti opzioni:
 > necessario impostare un Filtro Carrello del tipo "**Percentuale
 > elementi in carrello = 100**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\promo_percentuale_articoli.bmp](./assets/media/image384.png){width="5.071527777777778in"
-height="3.058333333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\promo_percentuale_articoli.bmp](./assets/media/image384.png)
 
 > In queste condizioni se dovessimo avere in carrello anche un solo
 > articolo che non soddisfa la condizione impostata all'interno del
@@ -623,8 +608,7 @@ height="3.058333333333333in"}
 > 24 ("Outlet Uomo"), dovremmo configurare una condizione di
 > applicabilità del tipo di quella rappresentata in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\promo_percentuale_quantita.bmp](./assets/media/image385.png){width="3.279166666666667in"
-height="2.4090277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\promo_percentuale_quantita.bmp](./assets/media/image385.png)
 
 > In questo modo infatti se dovessimo trovarci ad avere in carrello una
 > quantità complessiva di 5 prodotti di cui 4 (quindi 80% del totale)
@@ -647,8 +631,7 @@ height="2.4090277777777778in"}
   dunque di considerare una configurazione del tipo di quella
   rappresentata in figura
 
-![Videate\\promozioni_riga.bmp](./assets/media/image386.png){width="3.285416666666667in"
-height="2.3895833333333334in"}
+![Videate\\promozioni_riga.bmp](./assets/media/image386.png)
 
 > la Regola Punti verrà effettivamente applicata solo nel momento in cui
 > in carrello dovessimo avere almeno un articolo il cui codice inizia
@@ -699,8 +682,7 @@ height="2.3895833333333334in"}
 > Considerando dunque una configurazione del tipo di quella
 > rappresentata in figura
 
-![Videate\\promozioni_riga_2.bmp](./assets/media/image387.png){width="3.292361111111111in"
-height="2.4027777777777777in"}
+![Videate\\promozioni_riga_2.bmp](./assets/media/image387.png)
 
 > e supponendo di avere in carrello i seguenti articoli
 
@@ -750,8 +732,7 @@ height="2.4027777777777777in"}
 > Considerando dunque una configurazione del tipo di quella
 > rappresentata in figura
 
-![Videate\\promozioni_riga_3.bmp](./assets/media/image388.png){width="3.265972222222222in"
-height="2.415277777777778in"}
+![Videate\\promozioni_riga_3.bmp](./assets/media/image388.png)
 
 > e supponendo di avere in carrello i seguenti articoli
 
@@ -807,8 +788,7 @@ height="2.415277777777778in"}
 > Considerando dunque una configurazione del tipo di quella
 > rappresentata in figura
 
-![Videate\\promozioni_sconto_in_riga.bmp](./assets/media/image389.png){width="3.285416666666667in"
-height="2.5388888888888888in"}
+![Videate\\promozioni_sconto_in_riga.bmp](./assets/media/image389.png)
 
 > la condizione in esame verrà validata e la relativa Regola Punti
 > applicata solo nel caso in cui tutti gli articoli presenti in carrello
@@ -882,8 +862,7 @@ visualizzate le seguenti opzioni:
 > Supponendo dunque di configurare una condizione di applicabilità del
 > tipo di quella rappresentata in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\esempio_condizione_percentuale_subtotale.bmp](./assets/media/image390.png){width="5.0in"
-height="2.4090277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\esempio_condizione_percentuale_subtotale.bmp](./assets/media/image390.png)
 
 > la Regola Punti in esame verrà applicata solo nel caso in cui
 > dovessero essere presenti in carrello articoli della categoria 113 il
@@ -905,16 +884,14 @@ logici. Le eventuali parentesi, poste prima o dopo questi operatori,
 vanno utilizzate esattamente come avviene in algebra, per specificare
 quali condizioni dovranno essere valutate prima e quali dopo.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuova_condizione4.bmp](./assets/media/image391.png){width="5.084722222222222in"
-height="3.00625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuova_condizione4.bmp](./assets/media/image391.png)
 
 Il parametro "**Gestione Condizioni**" permette di decidere, infine, se
 la regola in esame dovrà essere ritenuta valida al verificarsi di tutte
 le condizioni indicate oppure solamente di un determinato numero di
 esse.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_condizioni.bmp](./assets/media/image392.png){width="5.071527777777778in"
-height="3.0in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_condizioni.bmp](./assets/media/image392.png)
 
 In particolare dunque impostando questo parametro sul valore:
 
@@ -962,8 +939,7 @@ funzionamento
 
 Questo lo si fa agendo all'interno della sezione **Azione.**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\regole_punti_azione.bmp](./assets/media/image393.png){width="4.6625in"
-height="0.7923611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\regole_punti_azione.bmp](./assets/media/image393.png)
 
 In particolare il parametro:
 
@@ -1019,8 +995,7 @@ consente infine di associare uno o più gruppi utente alla regola in
 esame, definendo, quindi, per quali utenti la regola potrà
 effettivamente essere applicata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\buono_sconto_gruppi.bmp](./assets/media/image394.png){width="4.5in"
-height="1.6493055555555556in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\buono_sconto_gruppi.bmp](./assets/media/image394.png)
 
 Nel box sulla sinistra sono visualizzati tutti i gruppi utente
 codificati all'interno della corrispondente sezione del Wizard (per

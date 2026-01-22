@@ -6,8 +6,7 @@ All'interno di questa sezione è possibile definire quale set di
 attributi dovrà essere associato automaticamente alle nuove categorie
 merceologiche importate all'interno del sito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\catalogo_set_attributi.bmp](./assets/media/image40.png){width="5.804861111111111in"
-height="3.5256944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\catalogo_set_attributi.bmp](./assets/media/image40.png)
 
 E' possibile selezionare una delle seguenti opzioni:
 
@@ -15,8 +14,7 @@ E' possibile selezionare una delle seguenti opzioni:
   nuove categorie merceologiche, in fase di sincronizzazione, il set di
   attributi impostato come set di default.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\catalogo_set_attributi_2.bmp](./assets/media/image41.png){width="5.584722222222222in"
-height="3.441666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\catalogo_set_attributi_2.bmp](./assets/media/image41.png)
 
 > **ATTENZIONE!** Nel caso in cui non sia stato definito nessun Set di
 > Default alle nuove categorie merceologiche non verrà associato, in

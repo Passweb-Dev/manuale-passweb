@@ -7,8 +7,7 @@ etichetta seguita da una casellina da spuntare (checkbox). Rilasciando
 il Componente all'interno della pagina si aprirà **la sua maschera di
 gestione e configurazione**:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\Form_modifica_campo_checkbox_res.bmp](./assets/media/image127.png){width="5.116666666666666in"
-height="3.077777777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\Form_modifica_campo_checkbox_res.bmp](./assets/media/image127.png)
 
 suddivisa in varie sezioni.
 

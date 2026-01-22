@@ -4,8 +4,7 @@
 
 Il Componente **"Scheda"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_scheda_res.bmp](./assets/media/image664.png){width="2.5340277777777778in"
-height="3.122916666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_scheda_res.bmp](./assets/media/image664.png)
 
 **può essere inserito unicamente all'interno del componente Ecommerce di
 primo livello "Scheda Prodotto"**.
@@ -26,8 +25,7 @@ Rilasciando il Componente nella posizione desiderata all'interno della
 pagina web, verrà visualizzata **la sua maschera di gestione e
 configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_scheda_configurazione_res.bmp](./assets/media/image665.png){width="4.607638888888889in"
-height="2.9506944444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_scheda_configurazione_res.bmp](./assets/media/image665.png)
 
 suddivisa in varie sezioni.
 
@@ -61,8 +59,7 @@ il progressivo (da 1 a 99) che è stato associato in Docuvision alla
 specifica scheda tecnica che dovrà essere scaricata mediante il
 componente in oggetto.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_scheda_prodotto_progressivo.bmp](./assets/media/image666.png){width="2.6381944444444443in"
-height="1.0798611111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_scheda_prodotto_progressivo.bmp](./assets/media/image666.png)
 
 **ATTENZIONE!** Il campo "Progressivo della scheda tecnica su
 Docuvision" non è obbligatorio. **Nel momento in cui dovesse essere

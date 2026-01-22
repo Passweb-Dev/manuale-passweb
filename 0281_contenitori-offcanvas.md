@@ -6,8 +6,7 @@ Per poter gestire un Contenitore e tutto il suo contenuto come elementi
 Offcanvas è sufficiente selezionare il relativo parametro presente nella
 maschera di configurazione del Contenitore stesso
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\contenitore_offcanvas_0.bmp](./assets/media/image93.png){width="4.363888888888889in"
-height="3.1625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\contenitore_offcanvas_0.bmp](./assets/media/image93.png)
 
 **Menu Offcanvas:** consente di trattare il Contenitore che si sta
 considerando nello stesso modo in cui vengono trattati i Menu Off
@@ -22,8 +21,7 @@ visualizzato nella pagina secondo quelle che sono le impostazioni
 settate dall'amministratore in fase di configurazione del componete
 stesso.
 
-![Videate\\contenitore_offcanvas.bmp](./assets/media/image94.png){width="5.110416666666667in"
-height="3.2402777777777776in"}
+![Videate\\contenitore_offcanvas.bmp](./assets/media/image94.png)
 
 **ATTENZIONE!** Nel caso in cui l'esigenza dovesse essere quella di
 inserire all'interno del Contenitore gestito come elemento Offcanvas più
@@ -71,8 +69,7 @@ campi mediante i quali poter impostare rispettivamente:
 > pulsante di apertura verrà utilizzata la classica icona, normalmente
 > presente (soprattutto in ambito mobile), per gestire questo tipo di
 > elementi
-> ![Videate\\icona_menu_offcanvas.bmp](./assets/media/image95.png){width="0.2465277777777778in"
-> height="0.21458333333333332in"}
+> ![Videate\\icona_menu_offcanvas.bmp](./assets/media/image95.png)
 
 - **Alt-text immagine offcanvas**: consente di impostare, in tutte le
   lingue attualmente gestite all'interno del sito, il valore che dovrà
@@ -96,8 +93,7 @@ apertura esattamente come farebbe un normale visitatore del sito.
 
 In alternativa è anche possibile cliccare sulla corrispondente icona di
 apertura
-(![Videate\\icona_apri_chiudi_menu.bmp](./assets/media/image96.png){width="0.1361111111111111in"
-height="0.14305555555555555in"}) presente nel R.O.C. di questa
+(![Videate\\icona_apri_chiudi_menu.bmp](./assets/media/image96.png)) presente nel R.O.C. di questa
 particolare tipologia di componente
 
 **ATTENZIONE!** A differenza di quanto avveniva per i Menu Off Canvas,

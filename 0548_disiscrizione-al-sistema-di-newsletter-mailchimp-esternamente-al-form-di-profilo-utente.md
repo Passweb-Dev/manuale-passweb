@@ -25,8 +25,7 @@ utilizzare il componente di primo livello "Iscrizione Newsletter
 "**Tipo di Integrazione**" e "**Tipologia Form**" rispettivamente sui
 valori "**MailChimp**" e "**Disiscrzione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_disiscrizione_newsletter_mailchimp.bmp](./assets/media/image51.png){width="4.720833333333333in"
-height="3.0652777777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_disiscrizione_newsletter_mailchimp.bmp](./assets/media/image51.png)
 
 In queste condizioni, esattamente allo stesso modo di quanto avviene per
 il form di iscrizione, al salvataggio del componente l'applicazione si
@@ -41,8 +40,7 @@ In genere, questo tipo di form ha il solo campo mail che l'utente dovrà
 valorizzare, ovviamente, con lo stesso indirizzo utilizzato in fase di
 iscrizione al servizio.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_disiscrizone_newsletter.bmp](./assets/media/image52.png){width="5.6625in"
-height="3.298611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_disiscrizone_newsletter.bmp](./assets/media/image52.png)
 
 Una volta inserito l'indirizzo mail, cliccando sul pulsante
 "**Disiscriviti**" l'utente verrà quindi disiscritto dal servizio.
@@ -52,8 +50,7 @@ verrà posta, all'interno della corrispondente lista MailChimp, nello
 stato di "**Archiviato**" lasciando comunque inalterati eventuali altri
 dati relativi all'utente stesso.
 
-![Videate\\mailchimp_utente_archiviato.bmp](./assets/media/image53.png){width="5.104166666666667in"
-height="3.3180555555555555in"}
+![Videate\\mailchimp_utente_archiviato.bmp](./assets/media/image53.png)
 
 **ATTENZIONE! la disiscrizione dal servizio di Newsletter NON comporta
 l'eliminazione della relativa anagrafica sulla piattaforma terza ma,
@@ -66,8 +63,7 @@ terza, questo potrà essere fatto direttamente dall'interessato operando
 dalla pagina "Profilo Utente" attraverso il pulsante **"Elimina
 Profilo"**
 
-![Videate\\elimina_profilo.bmp](./assets/media/image27.png){width="5.552083333333333in"
-height="3.298611111111111in"}
+![Videate\\elimina_profilo.bmp](./assets/media/image27.png)
 
 **Cliccando su questo pulsante infatti oltre a cancellare la
 corrispondente anagrafica dal database di Passweb, questa verrà
@@ -80,8 +76,7 @@ utente indicando esplicitamente che i dati verranno, eventualmente,
 cancellati in maniera definitiva anche dal database della piattaforma di
 newsletter.
 
-![Videate\\messaggio_conferma_eliminazione_profilo.bmp](./assets/media/image28.png){width="5.552083333333333in"
-height="3.298611111111111in"}
+![Videate\\messaggio_conferma_eliminazione_profilo.bmp](./assets/media/image28.png)
 
 In queste condizioni va ricordato inoltre che:
 

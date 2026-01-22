@@ -27,8 +27,7 @@ pagina di un sito E-Commerce oltre ai normali parametri di
 configurazione caratteristici di questo Componente comparirà anche il
 parametro **"Link"**.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_generico_mapping_nodo_res.bmp](./assets/media/image268.png){width="4.613194444444445in"
-height="2.9506944444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_generico_mapping_nodo_res.bmp](./assets/media/image268.png)
 
 **Link:** consente di impostare il tipo di link che dovrà essere
 associato alle voci del menu che si stanno realizzando. E' possibile
@@ -72,8 +71,7 @@ selezionare uno tra i seguenti valori:
 > "**Voce del Menu -- Ramo Autogenerato**" consentono rispettivamente
 > di:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\voce_autogenerata_2_res.bmp](./assets/media/image269.png){width="4.613194444444445in"
-height="2.938888888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\voce_autogenerata_2_res.bmp](./assets/media/image269.png)
 
 - **Includi solo le pagine di Categoria (presente solo per siti
   Ecommerce):** permette, se selezionato, di includere nell'elenco delle

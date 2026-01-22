@@ -21,13 +21,11 @@ Leads sarà necessario:
     -- Impostazioni**" ed espandere la voce "Conversioni avanzate per i
     lead" presente nella parte destra della maschera
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\conversioni_offline_5.bmp](./assets/media/image32.png){width="5.633333333333334in"
-height="3.3131944444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\conversioni_offline_5.bmp](./assets/media/image32.png)
 
 2.  Selezionare il check "**Attiva le conversioni avanzate per i lead**"
 
-![Videate\\conversioni_offline_5.bmp](./assets/media/image32.png){width="5.633333333333334in"
-height="3.3131944444444446in"}
+![Videate\\conversioni_offline_5.bmp](./assets/media/image32.png)
 
 3.  Come già fatto nel caso delle "Conversioni Avanzate per il web",
     anche in questo caso abilitando il parametro "Attiva le conversioni
@@ -42,8 +40,7 @@ height="3.3131944444444446in"}
 > menu a tendina, il metodo adottato nel nostro sistema di tracciamento
 > per inviare a Google Ads i dati utente.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\conversioni_offline_7.bmp](./assets/media/image33.png){width="5.633333333333334in"
-height="3.3131944444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\conversioni_offline_7.bmp](./assets/media/image33.png)
 
 > Come evidenziato in figura le opzioni possibili sono 2:
 
@@ -85,21 +82,18 @@ necessario:
 1.  Accedere all'account Google Ads, portarsi alla sezione "**Obiettivi
     -- Caricamenti - Pianificazioni**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\conversioni_offline_8.bmp](./assets/media/image34.png){width="5.633333333333334in"
-height="3.3131944444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\conversioni_offline_8.bmp](./assets/media/image34.png)
 
 > e, da qui cliccare sul pulsante raffigurante un piccolo **+** per
 > creare una nuova pianificazione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\conversioni_offline_9.bmp](./assets/media/image35.png){width="5.633333333333334in"
-height="3.3131944444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\conversioni_offline_9.bmp](./assets/media/image35.png)
 
 2.  Nella maschera di creazione della nuova pianificazione dovremo
     cliccare sul menu a tendina "**Seleziona origine**" selezionando poi
     tra le opzioni proposte la voce "**HTTPS**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\conversioni_offline_10.bmp](./assets/media/image36.png){width="5.633333333333334in"
-height="3.3131944444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\conversioni_offline_10.bmp](./assets/media/image36.png)
 
 3.  In questo modo avremo la possibilità di indicare a Google Ads un
     indirizzo web che Ads stesso controllerà periodicamente, con la
@@ -109,8 +103,7 @@ height="3.3131944444444446in"}
     di conferma, e senza quindi che Passweb abbia potuto inviare i dati
     di conversione
 
-![Videate\\conversioni_offline_11.bmp](./assets/media/image37.png){width="5.633333333333334in"
-height="3.3131944444444446in"}
+![Videate\\conversioni_offline_11.bmp](./assets/media/image37.png)
 
 > In particolare all'interno del campo **URL di origine** dovremo
 > indicare un url del tipo:
@@ -127,23 +120,20 @@ height="3.3131944444444446in"}
 > prelevare dal' url indicato il file contenente i dati delle
 > conversioni da importare
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\conversioni_offline_12.bmp](./assets/media/image38.png){width="5.633333333333334in"
-height="3.3131944444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\conversioni_offline_12.bmp](./assets/media/image38.png)
 
 > Cliccando sul pulsante "**Salva e visualizza l'anteprima**" presente
 > nella parte bassa della maschera oltre a salvare la pianificazione
 > indicata potremo anche verificare un anteprima di quello che sarà il
 > risultato dell'importazione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\conversioni_offline_13.bmp](./assets/media/image39.png){width="5.633333333333334in"
-height="3.3131944444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\conversioni_offline_13.bmp](./assets/media/image39.png)
 
 > All'interno della sezione "Caricamenti" avremo invece la possibilità
 > di visualizzare lo storico dei caricamenti effettuati con il relativo
 > esito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\conversioni_offline_14.bmp](./assets/media/image40.png){width="5.633333333333334in"
-height="3.4868055555555557in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\conversioni_offline_14.bmp](./assets/media/image40.png)
 
 Ora per quel che riguarda il file contenente i dati delle conversioni da
 uplodare in Google Ads, disponibile come detto all'indirizzo
@@ -161,8 +151,7 @@ fatte alcune considerazioni di fondamentale importanza:
     Ads**" (colonna GADS nella maschera "Lista Ordini" marcata con una
     X)
 
-![Videate\\ordine_non_esportato_su_ads.bmp](./assets/media/image29.png){width="5.766666666666667in"
-height="3.3in"}
+![Videate\\ordine_non_esportato_su_ads.bmp](./assets/media/image29.png)
 
 - si trovano in uno dei seguenti stati: **Memorizzato**, **Sospeso**,
   **Evaso**
@@ -176,8 +165,7 @@ height="3.3in"}
   seguito della successiva chiamata evitando così di importare più volte
   i dati di una stessa conversione
 
-![Videate\\ordine_esportato_su_ads.bmp](./assets/media/image28.png){width="5.766666666666667in"
-height="3.3in"}
+![Videate\\ordine_esportato_su_ads.bmp](./assets/media/image28.png)
 
 > **ATTENZIONE!** per maggiori informazioni in merito a come viene
 > gestito lo stato di esportazione di un ordine verso Google Ads si veda
@@ -262,20 +250,17 @@ questi file sarà sufficiente:
 1.  Accedere all'account Google Ads, portarsi alla sezione "**Obiettivi
     -- Caricamenti** "
 
-![Videate\\conversioni_offline_14.bmp](./assets/media/image40.png){width="5.633333333333334in"
-height="3.4868055555555557in"}
+![Videate\\conversioni_offline_14.bmp](./assets/media/image40.png)
 
 > e, da qui cliccare sul pulsante raffigurante un piccolo **+** per
 > avviare un nuovo caricamento manuale
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\conversioni_offline_15.bmp](./assets/media/image41.png){width="5.633333333333334in"
-height="3.4868055555555557in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\conversioni_offline_15.bmp](./assets/media/image41.png)
 
 2.  Cliccare quindi sul menu a tendina "**Seleziona origine**" e
     selezionare tra le opzioni proposte la voce "**Carica un file**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\conversioni_offline_16.bmp](./assets/media/image42.png){width="5.633333333333334in"
-height="3.4868055555555557in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\conversioni_offline_16.bmp](./assets/media/image42.png)
 
 3.  A questo punto sarà sufficiente cliccare sul pulsante "Seleziona un
     file dal tuo computer" e selezionare il file precedentemente
@@ -285,18 +270,15 @@ height="3.4868055555555557in"}
 > confermiamo che i dati presenti all'interno del file che andremo ad
 > importare sono stati raccolti secondo le norme previste da Google
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\conversioni_offline_17.bmp](./assets/media/image43.png){width="5.633333333333334in"
-height="3.4868055555555557in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\conversioni_offline_17.bmp](./assets/media/image43.png)
 
 4.  Infine, considerando quella che è la struttura del file prodotto da
     Passweb dovremo anche selezionare tra le due opzioni proposte quella
     relativa a "**Dati sottoposti ad hashing**"
 
-![Videate\\conversioni_offline_18.bmp](./assets/media/image44.png){width="5.633333333333334in"
-height="3.4868055555555557in"}
+![Videate\\conversioni_offline_18.bmp](./assets/media/image44.png)
 
 5.  Il pulsante "**Applica**" presente nella parte bassa di questa
     maschera consentirà di avviare la procedura di import
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\conversioni_offline_19.bmp](./assets/media/image45.png){width="5.633333333333334in"
-height="3.4868055555555557in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\conversioni_offline_19.bmp](./assets/media/image45.png)

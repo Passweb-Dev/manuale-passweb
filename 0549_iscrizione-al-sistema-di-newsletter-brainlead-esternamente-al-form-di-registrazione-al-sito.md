@@ -17,16 +17,14 @@ accedere alla sezione "**Web Forms**" di Brainlead, aprire il menu a
 tendina cliccando sul relativo pulsante posto in corrispondenza del form
 stesso e selezionare poi la voce "**Integrazioni con il sito web**"
 
-![Videate\\form_brainlead_1.bmp](./assets/media/image54.png){width="5.720833333333333in"
-height="3.3569444444444443in"}
+![Videate\\form_brainlead_1.bmp](./assets/media/image54.png)
 
 In questo modo verrà infatti visualizzata la schermata con i vari metodi
 di integrazione (e le relative istruzioni), tra cui poter scegliere (per
 maggiori informazioni in merito ai singoli metodi di integrazione si
 rimanda alla relativa documentazione di prodotto.)
 
-![Videate\\form_brainlead_2.bmp](./assets/media/image55.png){width="5.720833333333333in"
-height="3.3569444444444443in"}
+![Videate\\form_brainlead_2.bmp](./assets/media/image55.png)
 
 Nel momento in cui l'esigenza dovesse essere invece quella di realizzare
 un form di iscrizione alla Newsletter BrainLead utilizzando i componenti

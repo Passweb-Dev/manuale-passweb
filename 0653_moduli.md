@@ -12,8 +12,7 @@ Nello specifico all'interno della sezione:
   addizionali (gratuiti o a pagamento) attivabili per il proprio sito
   ecommerce
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\moduli_1.bmp](./assets/media/image2.png){width="5.870138888888889in"
-height="3.3569444444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\moduli_1.bmp](./assets/media/image2.png)
 
 > Il pulsante "**Dettagli**" presente in corrispondenza di ogni singolo
 > modulo consente di accedere ai relativi dettagli presenti su
@@ -22,6 +21,5 @@ height="3.3569444444444443in"}
 - **Moduli Attivi**: è possibile visualizzare l'elenco dei moduli
   addizionali attivi per il proprio sito ecommerce
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\moduli_2.bmp](./assets/media/image3.png){width="5.870138888888889in"
-height="3.3569444444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\moduli_2.bmp](./assets/media/image3.png)
 

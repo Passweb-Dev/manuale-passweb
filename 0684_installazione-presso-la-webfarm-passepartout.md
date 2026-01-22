@@ -9,8 +9,7 @@ in maniera tale da poter visualizzare tutti i parametri necessari per
 realizzare l'integrazione sito-gestionale in questa specifica
 configurazione di prodotto.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\passcom_configurazione_gestionale_generale.bmp](./assets/media/image143.png){width="5.532638888888889in"
-height="3.49375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\passcom_configurazione_gestionale_generale.bmp](./assets/media/image143.png)
 
 In queste condizioni, dunque, sarà necessario specificare un valore per
 i seguenti parametri:
@@ -149,8 +148,7 @@ Infine, all'interno della sezione "**Web API**" è possibile impostare le
 credenziali di un utente Passcom appositamente abilitato alla gestione
 delle relative API
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\parametri_conf_Passcom_webAPI.bmp](./assets/media/image144.png){width="5.545138888888889in"
-height="3.5909722222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\parametri_conf_Passcom_webAPI.bmp](./assets/media/image144.png)
 
 **ATTENZIONE!** l'utilizzo delle Web Api Passcom è indispensabile per
 poter attivare e gestire le notifiche via mail e/o sms relative alla

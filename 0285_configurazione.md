@@ -5,8 +5,7 @@
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico la sua maschera **di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_griglia_res.bmp](./assets/media/image101.png){width="4.99375in"
-height="2.714583333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_griglia_res.bmp](./assets/media/image101.png)
 
 suddivisa in varie sezioni.
 
@@ -62,8 +61,7 @@ In particolare dunque il parametro:
 > "**Top Position per lo Sticky**" e "**Classe o elemento per fermare lo
 > sticky**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\griglia_sticky_1.bmp](./assets/media/image102.png){width="4.980555555555555in"
-height="3.0in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\griglia_sticky_1.bmp](./assets/media/image102.png)
 
 > che consentono rispettivamente di:
 
@@ -117,8 +115,7 @@ height="3.0in"}
 > Una volta selezionato questo parametro, compariranno quindi ulteriori
 > campi mediante i quali poter impostare rispettivamente:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\griglia_offcanvas.bmp](./assets/media/image103.png){width="4.2659722222222225in"
-height="3.0972222222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\griglia_offcanvas.bmp](./assets/media/image103.png)
 
 - **Posizionamento del menu:** consente di indicare la posizione in cui
   dovrà essere visualizzata la Griglia nel momento in cui l'utente
@@ -150,8 +147,7 @@ height="3.0972222222222223in"}
 > pulsante di apertura verrà utilizzata la classica icona, normalmente
 > presente (soprattutto in ambito mobile), per gestire questo tipo di
 > elementi
-> ![Videate\\icona_menu_offcanvas.bmp](./assets/media/image95.png){width="0.2465277777777778in"
-> height="0.21458333333333332in"}
+> ![Videate\\icona_menu_offcanvas.bmp](./assets/media/image95.png)
 
 - **Alt-text immagine offcanvas**: consente di impostare, in tutte le
   lingue attualmente gestite all'interno del sito, il valore che dovrà
@@ -176,8 +172,7 @@ height="3.0972222222222223in"}
 >
 > In alternativa è anche possibile cliccare sulla corrispondente icona
 > di apertura
-> (![Videate\\icona_apri_chiudi_menu.bmp](./assets/media/image96.png){width="0.1361111111111111in"
-> height="0.14305555555555555in"}) presente nel R.O.C. di questa
+> (![Videate\\icona_apri_chiudi_menu.bmp](./assets/media/image96.png)) presente nel R.O.C. di questa
 > particolare tipologia di componente
 >
 > **ATTENZIONE!** A differenza di quanto avveniva per i Menu Off Canvas,
@@ -205,8 +200,7 @@ height="3.0972222222222223in"}
 > contenitore verrà visualizzato premendo il bottone)**" compariranno
 > poi due ulteriori campi mediante i quali poter rispettivamente:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\griglia_collapse.bmp](./assets/media/image104.png){width="4.986805555555556in"
-height="3.0194444444444444in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\griglia_collapse.bmp](./assets/media/image104.png)
 
 - **Immagine del bottone di Collapse**: consente di indicare la
   specifica immagine da utilizzare per il pulsante di apertura della

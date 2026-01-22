@@ -48,8 +48,7 @@ impostare, oltre ai parametri classici di configurazione del pagamento,
 anche quelli specifici del gateway attualmente considerato e presenti
 all'interno della sezione "**Parametri Gateway**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_satispay.bmp](./assets/media/image196.png){width="5.545138888888889in"
-height="3.2729166666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_satispay.bmp](./assets/media/image196.png)
 
 Nel caso specifico il parametro:
 
@@ -74,8 +73,7 @@ l'ordine sarà memorizzato nel database di Passweb, e l'utente verrà
 reindirizzato sulla piattaforma di Satispay dove, oltre all'importo da
 pagare, gli verrà mostrato anche un apposito QR Code.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\satispay_1.bmp](./assets/media/image197.png){width="4.980555555555555in"
-height="3.045138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\satispay_1.bmp](./assets/media/image197.png)
 
 **A questo punto però l'ordine non è ancora stato preso in carico dalla
 banca e, conseguentemente, non è ancora avvenuto alcun pagamento**.
@@ -103,8 +101,7 @@ scansionare con la relativa App Mobile il QR Code mostrato a video in
 maniera tale ricevere direttamente sul proprio Smartphone la conferma di
 pagamento
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\satispay2.jpg](./assets/media/image198.jpeg){width="2.33125in"
-height="5.052083333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\satispay2.jpg](./assets/media/image198.jpeg)
 
 Utilizzando il pulsante "Invia" il pagamento verrà completato e, nel
 caso in cui l'utente dovesse avere ancora la pagina web aperta, verrà

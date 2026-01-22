@@ -15,8 +15,7 @@ La sezione "**Gestione Carrello**" presente all'interno della maschera
   Passweb in fase di configurazione delle Promozioni, dei Buoni Sconto,
   dei Pagamenti, dei Metodi di Trasporto ecc...
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_catalogo_gestione_carrello.bmp](./assets/media/image9.png){width="5.616666666666666in"
-height="3.298611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_catalogo_gestione_carrello.bmp](./assets/media/image9.png)
 
 Nello specifico dunque il parametro:
 
@@ -518,15 +517,13 @@ visualizzazione, sul front end del sito, di un apposito messaggio nel
 momento in cui l'utente dovesse tentare di effettuare il logout **avendo
 ancora articoli in carrello**.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\messaggio_logout_carrello.bmp](./assets/media/image10.png){width="5.610416666666667in"
-height="3.376388888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\messaggio_logout_carrello.bmp](./assets/media/image10.png)
 
 Il messaggio in esame potrà essere personalizzato alla pagina "**Testi
 Messaggi Sito**" del Wizard agendo in corrispondenza dell'elemento
 "**Richiesta Conferma Logout**" presente tra i "**Testi Generici**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\messaggio_conferma_logout.bmp](./assets/media/image11.png){width="5.409027777777778in"
-height="3.376388888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\messaggio_conferma_logout.bmp](./assets/media/image11.png)
 
 e, nello specifico, verrà visualizzato nel momento in cui, pur avendo
 ancora articoli in carrello l'utente dovesse:

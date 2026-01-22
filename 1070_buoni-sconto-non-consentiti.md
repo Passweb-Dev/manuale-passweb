@@ -8,8 +8,7 @@ essere i buoni sconto che, se applicati, andranno poi a inibire la
 visualizzazione del trasporto che si sta codificando sia in carrello che
 in fase di checkout ordine.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\buoni_sconto_non_consentiti.bmp](./assets/media/image292.png){width="5.571527777777778in"
-height="3.428472222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\buoni_sconto_non_consentiti.bmp](./assets/media/image292.png)
 
 Nell'elenco di sinistra sono indicati tutti i buoni sconto attualmente
 codificati all'interno dell'apposita sezione del Wizard. In particolare

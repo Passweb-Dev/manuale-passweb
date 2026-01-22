@@ -5,8 +5,7 @@
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_menu_categoria_res.bmp](./assets/media/image18.png){width="4.597222222222222in"
-height="3.071527777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_menu_categoria_res.bmp](./assets/media/image18.png)
 
 suddivisa in varie sezioni.
 
@@ -86,8 +85,7 @@ E' possibile selezionare uno tra i seguenti valori.
 > essere visualizzato il menu nel momento in cui un utente dovesse
 > richiamarlo cliccando sull'apposito pulsante.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_cat_news_offcanvas_configurazione.bmp](./assets/media/image19.png){width="4.636111111111111in"
-height="3.1041666666666665in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_cat_news_offcanvas_configurazione.bmp](./assets/media/image19.png)
 
 > Nello specifico dunque il parametro:
 
@@ -119,8 +117,7 @@ height="3.1041666666666665in"}
 > pulsante di apertura verrà utilizzata la classica icona, normalmente
 > presente (soprattutto in ambito mobile), per gestire questo tipo di
 > elementi
-> ![Videate\\icona_menu_offcanvas.bmp](./assets/media/image14.png){width="0.2465277777777778in"
-> height="0.21458333333333332in"}
+> ![Videate\\icona_menu_offcanvas.bmp](./assets/media/image14.png)
 
 - **TreeView (apertura sottovoci al click del mouse):** selezionando
   questa opzioni il menu verrà costruito visualizzando soltanto le voci
@@ -132,8 +129,7 @@ height="3.1041666666666665in"}
 In questo caso sarà inoltre possibile specificare un valore per i
 seguenti parametri:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_treeview_cat_configurazione.bmp](./assets/media/image20.png){width="4.629861111111111in"
-height="3.0972222222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_treeview_cat_configurazione.bmp](./assets/media/image20.png)
 
 - **Immagine Controllo Apri/Chiudi Ramo:** consente di selezionare una
   specifica immagine da poter utilizzare per il controllo di apertura /

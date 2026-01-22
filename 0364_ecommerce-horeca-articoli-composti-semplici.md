@@ -15,15 +15,13 @@ parametro "**Abilita Configurazione**" presente nella maschera "**Dati
 Articolo**" accessibile sul Wizard alla voce di menu "*Catalogo --
 Gestione Articoli*"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\campionario_semplice.bmp](./assets/media/image68.png){width="5.809722222222222in"
-height="3.5215277777777776in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\campionario_semplice.bmp](./assets/media/image68.png)
 
 il Componente **"Campionario E-commerce"** permetterà di inserire e di
 visualizzare all'interno della Scheda Prodotto l'insieme di tutti gli
 articoli del Composto attualmente selezionato.
 
-![Videate\\articoli_composti1.bmp](./assets/media/image86.png){width="5.116666666666666in"
-height="3.595138888888889in"}
+![Videate\\articoli_composti1.bmp](./assets/media/image86.png)
 
 > **NOTA BENE:** nel caso in cui il componente "Campionario E-Commerce"
 > non venga inserito all'interno della scheda prodotto l'utente potrà
@@ -65,8 +63,7 @@ Nello specifico sarà necessario:
 - L'elenco degli articoli Componenti deve essere ben definito e
   realizzato quindi mediante l'opzione "**Articoli Prestabiliti**"
 
-![Videate\\articoli_composti2.bmp](./assets/media/image87.png){width="5.092361111111111in"
-height="3.270138888888889in"}
+![Videate\\articoli_composti2.bmp](./assets/media/image87.png)
 
 > **ATTENZIONE!** Non sono attualmente gestiti Articoli Composti in cui
 > la lista dei Componenti è definita mediante le opzioni gestionali
@@ -82,8 +79,7 @@ height="3.270138888888889in"}
   effettivamente esportati (campo "Abilita Passweb" selezionato) **e per
   i quali è stato selezionato anche il campo "Predefinito**"
 
-![Videate\\articoli_composti3.bmp](./assets/media/image88.png){width="5.092361111111111in"
-height="3.270138888888889in"}
+![Videate\\articoli_composti3.bmp](./assets/media/image88.png)
 
 > Nell'esempio riportato in figura il prodotto "acqua di Gio" è presente
 > nella lista degli "Articoli Prestabiliti" del Composto "Cesto Regalo".
@@ -97,8 +93,7 @@ sottolineare come questa **coincida esattamente con il valore impostato
 per lo specifico componente all'interno del campo "Max" della relativa
 tabella gestionale**
 
-![Videate\\articoli_composti4.bmp](./assets/media/image89.png){width="4.686805555555556in"
-height="2.828472222222222in"}
+![Videate\\articoli_composti4.bmp](./assets/media/image89.png)
 
 Con la configurazione evidenziata in figura dunque, sul sito all'interno
 di ogni "Cesto Regalo" saranno presenti sempre 6 "Invictus" e l'utente
@@ -110,8 +105,7 @@ conto di quelli che sono i componenti effettivamente gestiti sul sito e
 di quanto impostato, lato gestionale, all'interno della sezione
 "**Formula calcolo del prezzo di vendita**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\articoli_composti5.bmp](./assets/media/image90.png){width="4.686805555555556in"
-height="2.828472222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\articoli_composti5.bmp](./assets/media/image90.png)
 
 Nell'esempio riportato in figura dunque il prezzo del Composto sarà dato
 dalla somma del Prezzo definito per l'articolo Composto in se più la
@@ -161,8 +155,7 @@ Infine è bene sottolineare anche come:
   verranno sempre visualizzati, in relazione ai Composti Semplici, sia
   l'articolo Composto che l'elenco dei suoi componenti.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\articoli_composti6.bmp](./assets/media/image91.png){width="5.079861111111111in"
-height="3.3986111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\articoli_composti6.bmp](./assets/media/image91.png)
 
 > Per l'articolo Composto sarà possibile modificare la quantità presente
 > in carrello, eliminarlo dal carrello, inserire note di riga, date di

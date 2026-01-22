@@ -5,8 +5,7 @@
 Consente di gestire l'email dell'utente che compila il form di richiesta
 informazioni
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_welcome_campo_email.bmp](./assets/media/image18.png){width="5.723611111111111in"
-height="3.33125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_welcome_campo_email.bmp](./assets/media/image18.png)
 
 **Tipologia di componente Passweb**: Campo di Testo
 
@@ -18,13 +17,11 @@ height="3.33125in"}
 
 **Obbligatorio** = Si
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_welcome_campo_email_configurazione.bmp](./assets/media/image19.png){width="4.411111111111111in"
-height="3.1041666666666665in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_welcome_campo_email_configurazione.bmp](./assets/media/image19.png)
 
 Il valore inserito, in fase di compilazione del form, verrà poi
 memorizzato nel relativo campo (**Email**) presente nel dettaglio della
 richiesta inserita all'interno del gestionale
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_welcome_campo_email_2.bmp](./assets/media/image20.png){width="5.723611111111111in"
-height="3.33125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_welcome_campo_email_2.bmp](./assets/media/image20.png)
 

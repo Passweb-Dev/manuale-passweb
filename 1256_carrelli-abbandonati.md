@@ -5,8 +5,7 @@
 All'interno di questa sezione è possibile attivare/disattivare l'invio
 allo Store MailChimp dei dati relativi ai carrelli abbandonati.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mailchimp-ecommerce_9.bmp](./assets/media/image129.png){width="5.809722222222222in"
-height="3.5215277777777776in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mailchimp-ecommerce_9.bmp](./assets/media/image129.png)
 
 **Abilita Carrelli Abbandonati**: consente, se selezionato, di abilitare
 l'invio a MailChimp dei dati relativi ai Carrelli Abbandonati.
@@ -56,8 +55,7 @@ varie mail di recupero, **è indispensabile verificare, PRIMA DI
 TRASMETTERE DEI CARRELLI ABBANDONATI, di aver attivato correttamente
 all'interno di MailChimp la relativa automazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_carrelli_abbandonati.bmp](./assets/media/image130.png){width="6.411111111111111in"
-height="3.423611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_carrelli_abbandonati.bmp](./assets/media/image130.png)
 
 Nel caso in cui questo tipo di automazione non dovesse essere ancora
 stata attivata e/o dovesse essere stata posta, per una qualsiasi

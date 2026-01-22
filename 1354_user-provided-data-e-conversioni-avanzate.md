@@ -16,8 +16,7 @@ Passweb è sufficiente attivare il parametro "**Raccolta Dati Utente nel
 Data Layer**" presente alla pagina "**Sito -- Preferenze**" del Wizard
 (tab "**Tracciamento Dati**" sezione "**Google Tag Manager**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_attivazione_upd_1.bmp](./assets/media/image199.png){width="5.802777777777778in"
-height="3.2868055555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_attivazione_upd_1.bmp](./assets/media/image199.png)
 
 Da un punto di vista tecnico infatti l'attivazione del parametro
 evidenziato in figura comporterà l'inserimento nel dataLayer, per ogni

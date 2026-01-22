@@ -25,8 +25,7 @@ La sezione "**Brainlead -- Marketing automation software**" del tab
 di configurazione necessari per attivare il tracciamento ed inviare i
 relativi dati alla piattaforma in oggetto
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tracciamento_dati_brainlead_1.bmp](./assets/media/image202.png){width="5.636111111111111in"
-height="3.5131944444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tracciamento_dati_brainlead_1.bmp](./assets/media/image202.png)
 
 **ATTENZIONE!** Brainlead è uno strumento che offre diverse possibilità
 di configurazione e di gestione della marketing automation; può essere
@@ -53,8 +52,7 @@ il collegamento diretto tra il proprio sito Passweb e Brainlead.
   essere prelevata direttamente dal back office di Brainlead all'interno
   della sezione "**Impostazioni -- Gestisci API**" (campo "**API Key**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tracciamento_dati_brainlead_apikey.bmp](./assets/media/image203.png){width="5.720833333333333in"
-height="3.5131944444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tracciamento_dati_brainlead_apikey.bmp](./assets/media/image203.png)
 
 > **ATTENZIONE!** nel momento in cui la chiave api inserita all'interno
 > del campo in questione non dovesse essere esattamente quella presente
@@ -70,8 +68,7 @@ height="3.5131944444444443in"}
 > script di tracciamento presente nel back office di Brainlead
 > all'interno della sezione "**Web Visits**" (campo "**Codice HTML**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tracciamento_dati_brainlead_parametri_client.bmp](./assets/media/image204.png){width="5.720833333333333in"
-height="3.5131944444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tracciamento_dati_brainlead_parametri_client.bmp](./assets/media/image204.png)
 
 > **ATTENZIONE!** lo script di tracciamento Brainlead è già presente in
 > Passweb in maniera nativa.

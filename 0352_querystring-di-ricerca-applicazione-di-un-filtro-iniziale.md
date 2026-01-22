@@ -20,8 +20,7 @@ valore che dovrà poi essere inserito in corrispondenza del parametro
 1.  Accedere al live editing del proprio sito e aprire la maschera di
     gestione delle Varianti
 
-![Videate\\variante_4_res.bmp](./assets/media/image47.png){width="5.159722222222222in"
-height="2.490972222222222in"}
+![Videate\\variante_4_res.bmp](./assets/media/image47.png)
 
 2.  Selezionare la Variante che dovrà essere utilizzata per determinare
     il filtro iniziale da applicare al pannello di ricerca (tipicamente
@@ -54,8 +53,7 @@ height="2.490972222222222in"}
 4.  Utilizzare il pannello di ricerca per impostare e applicare al
     Catalogo Ecommerce il filtro desiderato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtro_iniziale_1.bmp](./assets/media/image52.png){width="5.092361111111111in"
-height="3.35in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtro_iniziale_1.bmp](./assets/media/image52.png)
 
 > Nell'esempio in figura è stato impostato un filtro per ricercare i
 > soli articoli effettivamente disponibili
@@ -65,20 +63,17 @@ height="3.35in"}
     una piccola icona "**Copia**" grazie alla quale poter ottenere la
     querystring corrispondente al filtro appena impostato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtro_iniziale_2.bmp](./assets/media/image53.png){width="5.092361111111111in"
-height="3.35in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtro_iniziale_2.bmp](./assets/media/image53.png)
 
 6.  Cliccare quindi sull'icona "**Copia**" per copiare nella Clipboard
     (Appunti) la relativa querystring
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtro_iniziale_3.bmp](./assets/media/image54.png){width="5.092361111111111in"
-height="3.35in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtro_iniziale_3.bmp](./assets/media/image54.png)
 
 > ed incollarla all'interno del parametro "**Ricerca Iniziale**"
 > presente nella maschera di configurazione del pannello di ricerca
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtro_iniziale_4.bmp](./assets/media/image55.png){width="4.595138888888889in"
-height="3.01875in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtro_iniziale_4.bmp](./assets/media/image55.png)
 
 > **ATTENZIONE!** Una volta impostato il parametro "Ricerca Iniziale"
 > come evidenziato in figura, ogni volta in cui un utente effettuerà

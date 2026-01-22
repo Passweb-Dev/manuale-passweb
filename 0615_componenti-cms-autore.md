@@ -4,8 +4,7 @@
 
 Il Componente CMS **"Autore"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cms_componente_autore_res.bmp](./assets/media/image68.png){width="2.545138888888889in"
-height="2.765972222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cms_componente_autore_res.bmp](./assets/media/image68.png)
 
 consente di visualizzare, per ogni singola notizia presente all'interno
 del componente CMS di livello superiore, l'autore della notizia stessa.
@@ -18,8 +17,7 @@ A livello di configurazione, una volta inserito il Componente
 all'interno della pagina web, verrà aperta in automatico **la sua
 maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_cms_autore_configurazione_res.bmp](./assets/media/image69.png){width="4.616666666666666in"
-height="2.077777777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_cms_autore_configurazione_res.bmp](./assets/media/image69.png)
 
 suddivisa in varie sezioni.
 

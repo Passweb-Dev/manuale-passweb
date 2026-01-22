@@ -39,8 +39,7 @@ dell'utente un'apposita icona "**Insert CKAwsome (** )" mediante la
 quale poter accedere all'intero set di icone messe a disposizione da
 questo servizio:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\fontawsome.bmp](./assets/media/image300.png){width="2.920138888888889in"
-height="2.8402777777777777in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\fontawsome.bmp](./assets/media/image300.png)
 
 Una volta aperta la maschera "**Inserimento Fontawsome**" visualizzata
 in figura sarà quindi sufficiente selezionare l'icona desiderata tra
@@ -52,13 +51,11 @@ Cliccando infine sul pulsante "**OK**" presente nella parte bassa della
 maschera verrà inserito automaticamente il markup HTML necessario per
 visualizzare all'interno del componente paragrafo l'icona selezionata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\fontawsome2.bmp](./assets/media/image301.png){width="2.8097222222222222in"
-height="2.129166666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\fontawsome2.bmp](./assets/media/image301.png)
 
 In queste condizioni a livello di markup HTML verrà inserito un tag
 \<i\> con la specifica classe CSS necessaria per visualizzare
 correttamente l'icona selezionata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\fontawsome3.bmp](./assets/media/image302.png){width="3.4479166666666665in"
-height="1.4541666666666666in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\fontawsome3.bmp](./assets/media/image302.png)
 

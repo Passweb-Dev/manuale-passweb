@@ -16,15 +16,13 @@ Nel primo caso sarà necessario, per prima cosa, creare il form di
 iscrizione all'interno di ActiveCampaign operando in questo senso
 all'interno della sezione "**Sito -- Moduli**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\activecampaign_form_iscrizione_1.bmp](./assets/media/image59.png){width="5.5in"
-height="3.201388888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\activecampaign_form_iscrizione_1.bmp](./assets/media/image59.png)
 
 Una volta definiti i parametri di configurazione del form (Stile del
 modulo, Azione del modulo ....) e, eventualmente, impostati anche i
 campi che dovranno comparire al suo interno
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\activecampaign_form_iscrizione_2.bmp](./assets/media/image60.png){width="5.5in"
-height="3.201388888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\activecampaign_form_iscrizione_2.bmp](./assets/media/image60.png)
 
 sarà sufficiente cliccare sul pulsante "**Integra**" presente nella
 parte alta della pagina oppure, in alternativa, selezionare il form
@@ -33,14 +31,12 @@ freccia posta immediatamente a fianco del pulsante "**Modifica design**"
 e selezionare quindi, tra le opzioni del relativo menu contestuale,
 quella relativa ancora una volata alla voce "**Integra**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\activecampaign_form_iscrizione_3.bmp](./assets/media/image61.png){width="5.5in"
-height="3.201388888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\activecampaign_form_iscrizione_3.bmp](./assets/media/image61.png)
 
 In entrambi i casi verremo ricondotti alla pagina "**Integra il
 modulo**" dove saranno disponibili le diverse opzioni di integrazione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\activecampaign_form_iscrizione_4.bmp](./assets/media/image62.png){width="5.5in"
-height="3.201388888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\activecampaign_form_iscrizione_4.bmp](./assets/media/image62.png)
 
 opzioni queste che potranno variare in relazione alla specifica
 tipologia di form che è stato realizzato.
@@ -54,8 +50,7 @@ specifiche esigenze del caso, in tutte le pagine del sito oppure solo in
 quelle effettivamente deputate alla visualizzazione del form di
 iscrizione alla newsletter
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\activecampaign_form_iscrizione_5.bmp](./assets/media/image63.png){width="5.5in"
-height="3.201388888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\activecampaign_form_iscrizione_5.bmp](./assets/media/image63.png)
 
 **ATTENZIONE!** per maggiori informazioni relativamente a come poter
 creare e gestire all'interno di ActiveCampaign i vari form di iscrizione

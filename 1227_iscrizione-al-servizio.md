@@ -13,8 +13,7 @@ Per far questo sarà quindi necessario accedere al sito
 **www.mailchimp.com** e cliccare sul pulsante "**Sign Up Free**"
 presente in Home Page
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_step_1.bmp](./assets/media/image2.png){width="6.398611111111111in"
-height="4.392361111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_step_1.bmp](./assets/media/image2.png)
 
 Verremo quindi ricondotti alla pagina di registrazione all'interno della
 quale sarà possibile aderire al piano gratuito "Forever Free"
@@ -22,8 +21,7 @@ semplicemente indicando il proprio indirizzo mail e le credenziali di
 accesso che dovranno poi essere utilizzate per accedere a tutte le
 funzionalità di amministrazione del servizio.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_step_2.bmp](./assets/media/image3.png){width="6.398611111111111in"
-height="4.392361111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_step_2.bmp](./assets/media/image3.png)
 
 Dopo aver inserito le proprie credenziali, cliccando sul pulsante
 **"Create My Account"** verrà effettuata la registrazione e

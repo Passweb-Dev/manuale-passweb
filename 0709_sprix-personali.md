@@ -18,13 +18,11 @@ apposito file.
 
 Per codificare uno sprix di questo tipo è sufficiente cliccare sul
 pulsante sul pulsante **"Nuovo"**
-**(**![Videate\\pulsante_nuovo.bmp](./assets/media/image218.png){width="0.325in"
-height="0.1951388888888889in"} **)** presente nella barra degli
+**(**![Videate\\pulsante_nuovo.bmp](./assets/media/image218.png) **)** presente nella barra degli
 strumenti della maschera "Gestione Sprix", e impostare poi il parametro
 "**Tipologia**" sul valore "**Altro**".
 
-![Videate\\sprix_personali.bmp](./assets/media/image219.png){width="5.552083333333333in"
-height="3.370138888888889in"}
+![Videate\\sprix_personali.bmp](./assets/media/image219.png)
 
 In questo modo verranno visualizzati, all'interno della maschera "Nuovo
 Sprix", i parametri di configurazione necessari per mappare in maniera
@@ -117,16 +115,14 @@ carattere "&".
 Consente di indicare l'etichetta assegnata all'interno del gestionale al
 Collage Server Remoto che verrà poi richiamato da Area Riservata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sprix_web_api_etichetta_collage.bmp](./assets/media/image220.png){width="3.5388888888888888in"
-height="1.0in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sprix_web_api_etichetta_collage.bmp](./assets/media/image220.png)
 
 **Codice App** -- **solo per "Interfaccia = Web Api"**
 
 Consente di indicare il codice dell'App gestionale corrispondente al
 Collage Server Remoto che verrà poi richiamato da Area Riservata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sprix_web_api_codice_app.bmp](./assets/media/image221.png){width="5.0256944444444445in"
-height="1.5326388888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sprix_web_api_codice_app.bmp](./assets/media/image221.png)
 
 **Estensione file di ritorno:** estensione del file ritornato come
 risultato dallo sprix
@@ -153,8 +149,7 @@ del sito. E' possibile selezionare una delle seguenti opzioni:
   all'interno dell'albero sottostante ("**Gruppi che hanno accesso allo
   sprix**")
 
-![Videate\\gruppi_sprix.bmp](./assets/media/image207.png){width="5.825in"
-height="3.545138888888889in"}
+![Videate\\gruppi_sprix.bmp](./assets/media/image207.png)
 
 Una volta definita l'interfaccia da utilizzare per richiamare un
 determinato eseguibile presente sul gestionale, e impostati anche tutti
@@ -168,20 +163,17 @@ tra quelli presenti in elenco, e cliccare poi sul pulsante **"Modifica
 Parametri"** **(** ) in maniera tale da accedere alla maschera
 "**Gestione Parametri per lo Sprix 'Nome Sprix'** "
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\parametri_sprix_remoto.bmp](./assets/media/image222.png){width="5.5777777777777775in"
-height="3.3833333333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\parametri_sprix_remoto.bmp](./assets/media/image222.png)
 
 Per aggiungere un nuovo parametro, e conseguentemente un nuovo campo del
 form, sarà quindi sufficiente cliccare sul pulsante **"Nuovo Parametro
 Sprix"** **(**
-![Videate\\pulsante_nuovo_parametro_sprix.bmp](./assets/media/image223.png){width="0.8833333333333333in"
-height="0.175in"} **)**.
+![Videate\\pulsante_nuovo_parametro_sprix.bmp](./assets/media/image223.png) **)**.
 
 In questo modo verrà infatti visualizzata la maschera "**Nuovo Parametro
 Sprix**".
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuovo_parametro_sprix.bmp](./assets/media/image224.png){width="5.532638888888889in"
-height="3.363888888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuovo_parametro_sprix.bmp](./assets/media/image224.png)
 
 all'interno della quale poter impostare un valore per i seguenti campi:
 
@@ -228,16 +220,14 @@ E' possibile selezionare uno dei seguenti valori:
 > visualizzato un calendario attraverso cui l'utente potrà selezionare
 > la data desiderata.
 
-![Videate\\sprix_data.bmp](./assets/media/image225.png){width="3.636111111111111in"
-height="2.9743055555555555in"}
+![Videate\\sprix_data.bmp](./assets/media/image225.png)
 
 - **Lista Valori:** consente di inserire all'interno del form di
   compilazione dello sprix un menu a tendina che l'utente potrà
   utilizzare per selezionare, tra le possibili opzioni di scelta
   proposte per il parametro in oggetto, quella desiderata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sprix_lista_valori.bmp](./assets/media/image226.png){width="5.298611111111111in"
-height="2.577777777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sprix_lista_valori.bmp](./assets/media/image226.png)
 
 - **Autocompletamento:** consente di inserire all'interno del form di
   compilazione dello sprix un campo di tipo testo che, sulla base di
@@ -245,8 +235,7 @@ height="2.577777777777778in"}
   da selezionare per auto completare il valore immesso all'interno di
   questo stesso campo.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sprix_autocompletamento.bmp](./assets/media/image227.png){width="4.954861111111111in"
-height="3.3958333333333335in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sprix_autocompletamento.bmp](./assets/media/image227.png)
 
 **Tipo Valore -- solo per "Tipo Parametro = Lista Valori" o " Tipo
 Parametro = Autocompletamento".**
@@ -267,8 +256,7 @@ valori:
 > poter definire, appunto, tutti i valori ammessi per lo specifico
 > parametro.
 
-![Videate\\sprix_parametri_lista_valori.bmp](./assets/media/image228.png){width="5.792361111111111in"
-height="3.532638888888889in"}
+![Videate\\sprix_parametri_lista_valori.bmp](./assets/media/image228.png)
 
 > Per inserire una nuova opzione di scelta in elenco è sufficiente
 > cliccare sul pulsante raffigurante un piccolo segno + e,
@@ -444,17 +432,14 @@ I restanti pulsanti presenti nella barra degli strumenti della maschera
 "**Gestione Parametri per lo Sprix 'Nome Sprix'** " consentono
 rispettivamente di:
 
-![Videate\\gestione_parametri_sprix_remoto.bmp](./assets/media/image229.png){width="5.792361111111111in"
-height="3.532638888888889in"}
+![Videate\\gestione_parametri_sprix_remoto.bmp](./assets/media/image229.png)
 
 **Elimina Parametro Sprix** **(**
-![Videate\\pulsante_elimina_parametro_sprix.bmp](./assets/media/image230.png){width="0.8958333333333334in"
-height="0.18819444444444444in"} **)**: consente di eliminare il
+![Videate\\pulsante_elimina_parametro_sprix.bmp](./assets/media/image230.png) **)**: consente di eliminare il
 parametro attualmente selezionato in elenco
 
 **Giù e Su** **(**
-![Videate\\pulsante_su_giu.bmp](./assets/media/image231.png){width="0.4027777777777778in"
-height="0.175in"} **)**: consentono definire l'esatta posizione in cui
+![Videate\\pulsante_su_giu.bmp](./assets/media/image231.png) **)**: consentono definire l'esatta posizione in cui
 dovrà comparire il parametro attualmente selezionato all'interno del
 form che andrà poi compilato per la corretta esecuzione dello sprix in
 oggetto.

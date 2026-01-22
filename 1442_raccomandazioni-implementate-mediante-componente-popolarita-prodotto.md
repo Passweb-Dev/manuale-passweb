@@ -12,8 +12,7 @@ Per far questo sarà sufficiente impostare il parametro "**Tipologia**"
 presente nella maschera di configurazione del componente sull'opzione
 "**Reccomendations Clerk**" come nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\popolarita_prodotto_clerk.bmp](./assets/media/image55.png){width="4.356944444444444in"
-height="3.058333333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\popolarita_prodotto_clerk.bmp](./assets/media/image55.png)
 
 Il successivo campo "**Logica Raccomandazione Clerk**" consente invece
 di decidere che tipo di raccomandazione dovrà effettivamente essere

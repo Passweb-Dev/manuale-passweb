@@ -5,8 +5,7 @@
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\contenuti_slider_configurazione_res.bmp](./assets/media/image189.png){width="5.129861111111111in"
-height="3.1041666666666665in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\contenuti_slider_configurazione_res.bmp](./assets/media/image189.png)
 
 suddivisa in varie sezioni.
 
@@ -102,8 +101,7 @@ dovranno essere disposti i contenuti dello Slider.
 complessivo di Slide da visualizzare contemporaneamente all'interno
 dello Slider
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\slider_parametri_1.bmp](./assets/media/image190.png){width="5.136111111111111in"
-height="3.3958333333333335in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\slider_parametri_1.bmp](./assets/media/image190.png)
 
 **Numero di Slide da Scrollare:** consente di definire il numero di
 slide da scrollare tra un passaggio e l'altro. Supponendo dunque di
@@ -121,14 +119,12 @@ uno dei seguenti valori:
   abilitata una piccola barra contenente tanti pallini quante sono le
   sezioni scrollabili dello slider
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\slider_parametri_2.bmp](./assets/media/image191.png){width="5.123611111111111in"
-height="3.0909722222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\slider_parametri_2.bmp](./assets/media/image191.png)
 
 - **Solo pulsanti:** in queste condizioni verranno abilitate due piccoli
   pulsanti per il passaggio alla slide precedente / successiva
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\slider_parametri_3.bmp](./assets/media/image192.png){width="5.136111111111111in"
-height="3.584722222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\slider_parametri_3.bmp](./assets/media/image192.png)
 
 - **Pulsanti e Barra di Scorrimento veloce:** in queste condizioni
   verranno attivati sul componente sia la barra di scorrimento veloce
@@ -138,8 +134,7 @@ height="3.584722222222222in"}
 oltre allo slider, anche l'anteprima dell'immagine attualmente
 selezionata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\slider_parametri_4.bmp](./assets/media/image193.png){width="5.136111111111111in"
-height="3.584722222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\slider_parametri_4.bmp](./assets/media/image193.png)
 
 **ATTENZIONE!** Nel momento in cui si dovesse decidere di visualizzare
 sia lo slider che l'anteprima, ogni singola miniatura presente
@@ -197,15 +192,13 @@ uno dei seguenti valori:
   la prima slide, tra quelle visibili all'interno dello slider, si
   disporrà allineata al margine sinistro dello slider stesso
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\slider_parametri_5.bmp](./assets/media/image194.png){width="5.136111111111111in"
-height="3.584722222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\slider_parametri_5.bmp](./assets/media/image194.png)
 
 - **Centrate**: in queste condizioni le slide visibili all'interno dello
   slider si disporranno in maniera tale da essere centrate rispetto allo
   slider stesso
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\slider_parametri_6.bmp](./assets/media/image195.png){width="5.136111111111111in"
-height="3.584722222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\slider_parametri_6.bmp](./assets/media/image195.png)
 
 **Altezza adattiva della slide:** se impostato a SI ogni singola slide
 adatterà automaticamente la sua altezza in base ai suoi contenuti. Al

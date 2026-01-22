@@ -6,8 +6,7 @@ Come evidenziato nel precedente capitolo la sezione "**Gestione Campi di
 Ordinamento**" consente di stabilire la modalità secondo cui dovranno
 essere ordinati gli articoli presenti in carrello
 
-![Videate\\ordinamento_carrello.bmp](./assets/media/image162.png){width="4.122916666666667in"
-height="2.3006944444444444in"}
+![Videate\\ordinamento_carrello.bmp](./assets/media/image162.png)
 
 All'interno di questa sezione, sulla sinistra sono elencati gli elementi
 di ordinamento attualmente codificati, sulla destra sono invece
@@ -26,8 +25,7 @@ ordinamento che sarà poi quello effettivamente applicato a front end.**
 
 Per codificare un nuovo elemento sarà necessario cliccare sull'icona
 raffigurante un piccolo + (
-![Videate\\icona_aggiungi.bmp](./assets/media/image163.png){width="0.19027777777777777in"
-height="0.19027777777777777in"} ) e definire poi le proprietà
+![Videate\\icona_aggiungi.bmp](./assets/media/image163.png) ) e definire poi le proprietà
 dell'elemento stesso.
 
 In particolare occorrerà specificare un valore per i seguenti campi:

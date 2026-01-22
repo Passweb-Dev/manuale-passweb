@@ -83,8 +83,7 @@ Nel caso in cui si decida, invece, di non utilizzare la lista di default
 e di crearsene una propria, sarà necessario, per prima cosa, portarsi
 alla pagina **"Lists"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_step_8.bmp](./assets/media/image4.png){width="6.0125in"
-height="3.8652777777777776in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_step_8.bmp](./assets/media/image4.png)
 
 dove verrà visualizzato l'elenco delle liste attualmente gestite
 (inizialmente all'interno di questo elenco comparirà la sola lista di
@@ -97,14 +96,12 @@ comparirà, all'interno della stessa pagina, un'ulteriore sezione
 attraverso la quale poter decidere, appunto, se creare o meno una nuova
 lista.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_step_9.bmp](./assets/media/image5.png){width="6.0125in"
-height="3.8652777777777776in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_step_9.bmp](./assets/media/image5.png)
 
 Cliccando quindi sul pulsante "**Create List**" verremo immediatamente
 ricondotti al form di creazione della nuova lista
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_step_10.bmp](./assets/media/image6.png){width="6.0125in"
-height="3.8652777777777776in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_step_10.bmp](./assets/media/image6.png)
 
 all'interno del quale dovremo inserire alcuni dati indispensabili per la
 creazione della lista stessa. In particolare, quindi, occorrerà indicare
@@ -164,8 +161,7 @@ grazie ai collegamenti presenti nel menu contestuale visualizzato
 cliccando sul pulsante raffigurante una piccola freccia rivolta verso il
 basso e posto alla fine della riga relativa alla specifica lista.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_step_11b.bmp](./assets/media/image7.png){width="6.0125in"
-height="3.8652777777777776in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_step_11b.bmp](./assets/media/image7.png)
 
 In particolare la voce:
 
@@ -185,6 +181,5 @@ Il pulsante **Stas** presente invece, per ogni singola lista, in
 corrispondenza della lista stessa consente di accedere direttamente alla
 sezione contenente le statistiche relative alla lista in oggetto
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_step_11c.bmp](./assets/media/image8.png){width="6.0125in"
-height="3.8652777777777776in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_step_11c.bmp](./assets/media/image8.png)
 

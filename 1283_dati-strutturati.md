@@ -79,8 +79,7 @@ Grazie a queste informazioni i motori di ricerca, ad esempio, potranno
 poi mostrare il prodotto nei risultati arricchiti (i cosiddetti rich
 results) con il prezzo, la disponibilità e le stelle di valutazione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\microdati_3.bmp](./assets/media/image1.png){width="4.707638888888889in"
-height="2.9347222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\microdati_3.bmp](./assets/media/image1.png)
 
 L'utente trova subito l'informazione utile, e il sito ottiene maggiore
 visibilità.

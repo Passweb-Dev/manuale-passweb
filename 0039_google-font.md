@@ -14,8 +14,7 @@ realizzare l'integrazione con il servizio Google Font Api rendendo
 quindi disponibili all'interno del proprio sito Passweb tutti i font
 messi a disposizione da Google.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_preferenze_integrazioni_gfont.bmp](./assets/media/image83.png){width="5.792361111111111in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_preferenze_integrazioni_gfont.bmp](./assets/media/image83.png)
 
 - **Chiave Google API**: consente di impostare la Api Key necessaria per
   realizzare l'integrazione con il servizio Google Font Api e per

@@ -26,14 +26,12 @@ prima cosa, portarsi all'interno della pagina **"Attributi per il
 Catalogo"** accessibile dalla voce di menu ***"Catalogo -- Attributi
 Articoli -- Attributi"*** del Wizard e cliccare, successivamente, sul
 pulsante **"Nuovo"**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuovo.bmp](./assets/media/image88.png){width="0.325in"
-height="0.1951388888888889in"} ) presente nella barra degli strumenti.
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuovo.bmp](./assets/media/image88.png) ) presente nella barra degli strumenti.
 In questo modo verrà visualizzata la maschera **"Attributi"** attraverso
 cui poter definire le caratteristiche dell'Attributo che si sta
 realizzando.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\creazione_attributo_passweb.bmp](./assets/media/image89.png){width="5.604166666666667in"
-height="3.5256944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\creazione_attributo_passweb.bmp](./assets/media/image89.png)
 
 Nel caso in esame sarà poi necessario indicare un valore per i seguenti
 parametri:
@@ -85,8 +83,7 @@ stato:
 > documento e sarà quindi visualizzabile, **se valorizzato**, in
 > corrispondenza di questa stessa riga nel dettaglio del Documento.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\attributi_articoli_rip_documento.bmp](./assets/media/image90.png){width="5.604166666666667in"
-height="3.5256944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\attributi_articoli_rip_documento.bmp](./assets/media/image90.png)
 
 > **ATTENZIONE!** Per visualizzare questa informazione nel dettaglio del
 > documento sul front end del sito, sarà necessario utilizzare il
@@ -102,8 +99,7 @@ height="3.5256944444444445in"}
 > all'interno della quale si trova il campo collegato all'Attributo
 > Articolo in questione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\attributi_vid_rip_mexal.bmp](./assets/media/image91.png){width="5.0in"
-height="2.454861111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\attributi_vid_rip_mexal.bmp](./assets/media/image91.png)
 
 > In questo senso è bene sottolineare inoltre come **eventuali
 > variazioni apportate ai valori di questi Attributi operando
@@ -117,8 +113,7 @@ di specificare la tipologia di Attributo che si intende realizzare.
 **Nel caso in esame questo campo dovrà essere impostato, ovviamente, sul
 valore "Mexal"** (come evidenziato nella figura di seguito riportata)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuovo_attributo_mexal2.bmp](./assets/media/image92.png){width="5.604166666666667in"
-height="3.5256944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuovo_attributo_mexal2.bmp](./assets/media/image92.png)
 
 Una volta impostata la tipologia dell'attributo occorrerà poi settare
 tutta una serie di altri parametri caratteristici della tipologia
@@ -139,8 +134,7 @@ realizzando e uno dei campi Mexal disponibili.
 
 In questo senso dal relativo menu a tendina sarà possibile selezionare:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\definizione_attributo_2.bmp](./assets/media/image93.png){width="5.571527777777778in"
-height="3.49375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\definizione_attributo_2.bmp](./assets/media/image93.png)
 
 - uno qualsiasi dei campi delle Videate Aggiuntive / Anagrafiche
   Articolo, opportunamente realizzate ed esportate sul sito
@@ -196,8 +190,7 @@ l'attributo in esame dovrà essere visualizzato o meno all'interno del
 componente "Set Attributi" / "Filtro Set Attributi" e che tipo di
 ordinamento dovrà essere utilizzato per i valori da esso assunti
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_attributi_gestione_visualizzazione0.bmp](./assets/media/image94.png){width="5.623611111111111in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_attributi_gestione_visualizzazione0.bmp](./assets/media/image94.png)
 
 In questo senso dunque il parametro:
 
@@ -254,8 +247,7 @@ l'attributo in esame. E' possibile selezionare uno dei seguenti valori:
 > parametri "Segnaposto" e "Valore di Default" mediante i quali poter
 > specificare rispettivamente
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\attributi_filtro_set_testo.bmp](./assets/media/image95.png){width="5.649305555555555in"
-height="2.8958333333333335in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\attributi_filtro_set_testo.bmp](./assets/media/image95.png)
 
 - **Segnaposto:** permette di definire un testo che verrà utilizzato
   **come segnaposto** all'interno del campo di input utilizzato per
@@ -291,8 +283,7 @@ height="2.8958333333333335in"}
 > parametri "Valore di Default" e "Step" mediante i quali poter
 > specificare
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\attributi_filtro_set_lista.bmp](./assets/media/image96.png){width="5.643055555555556in"
-height="2.5652777777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\attributi_filtro_set_lista.bmp](./assets/media/image96.png)
 
 - **Valore di Default:** consente di indicare un testo che verrà
   utilizzato (e visualizzato) **come valore di default** per la select
@@ -403,8 +394,7 @@ height="2.5652777777777778in"}
 > caratteri da digitare" mediante i quali poter specificare
 > rispettivamente
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\attributi_filtro_set_autocompletamento.bmp](./assets/media/image97.png){width="5.649305555555555in"
-height="3.454861111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\attributi_filtro_set_autocompletamento.bmp](./assets/media/image97.png)
 
 - **Segnaposto:** permette di definire un testo che verrà utilizzato
   **come segnaposto** all'interno del campo ad autocompletamento
@@ -453,8 +443,7 @@ Opzioni**" all'interno della quale poter indicare tutti i valori che
 l'attributo in esame potrà assumere per ogni singolo articolo gestito
 all'interno del sito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\opzioni_attributo_mexal.bmp](./assets/media/image98.png){width="5.876388888888889in"
-height="3.6555555555555554in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\opzioni_attributo_mexal.bmp](./assets/media/image98.png)
 
 Il campo di ricerca attivabile cliccando sulla lente di ingrandimento,
 presente in corrispondenza del campo "Valore" consente di filtrare i
@@ -463,8 +452,7 @@ dati in griglia sulla base del valore delle singole opzioni.
 Una volta impostato un filtro di ricerca, per poterlo poi eliminare sarà
 sufficiente cliccare sull'icona raffigurante una piccola lente di
 ingrandimento con un -- all'interno (
-![Videate\\icona_elimina_filtro.bmp](./assets/media/image86.png){width="8.472222222222223e-2in"
-height="0.10416666666666667in"} ) che comparirà in testata alla colonna
+![Videate\\icona_elimina_filtro.bmp](./assets/media/image86.png) ) che comparirà in testata alla colonna
 in corrispondenza della quale è stato impostato il filtro stesso.
 
 Nel caso in questione (Attributi Articolo di tipo Mexal), all'interno di
@@ -473,28 +461,24 @@ campo del gestionale, per ogni singolo articolo gestito sul sito.
 
 Per inserire un nuovo valore è sufficiente cliccare sul pulsante
 raffigurante un piccolo +
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_aggiungi.bmp](./assets/media/image99.png){width="0.18819444444444444in"
-height="0.18819444444444444in"} ) presente nella barra degli strumenti.
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_aggiungi.bmp](./assets/media/image99.png) ) presente nella barra degli strumenti.
 
 In questo modo verrà infatti visualizzata la maschera "**Nuova
 Opzione**", all'interno della quale poter inserire (parametro
 "**Etichetta del campo**") il valore desiderato per ognuna delle lingue
 gestite all'interno del sito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\attributo_nuova_opzione.bmp](./assets/media/image100.png){width="5.863888888888889in"
-height="3.8895833333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\attributo_nuova_opzione.bmp](./assets/media/image100.png)
 
 Gli altri due pulsanti presenti nella barra degli strumenti consentono
 rispettivamente di:
 
 **Esporta** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_esporta.bmp](./assets/media/image101.png){width="0.175in"
-height="0.1951388888888889in"} ): consente di esportare un file .csv
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_esporta.bmp](./assets/media/image101.png) ): consente di esportare un file .csv
 contenente tutti i valori attualmente presenti in elenco. Cliccando su
 questo pulsante verrà visualizzata la maschera "**Esporta Valori**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\attributo_esporta_valori.bmp](./assets/media/image102.png){width="5.870138888888889in"
-height="3.870138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\attributo_esporta_valori.bmp](./assets/media/image102.png)
 
 all'interno della quale poter indicare lo specifico carattere separatore
 che dovrà essere utilizzato nella generazione del file di esportazione.
@@ -503,14 +487,12 @@ Il pulsante "Conferma" consente invece di avviare la procedura di
 creazione ed esportazione del file
 
 **Importa** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_importa.bmp](./assets/media/image103.png){width="0.175in"
-height="0.1951388888888889in"} ) : consente di codificare in maniera
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_importa.bmp](./assets/media/image103.png) ) : consente di codificare in maniera
 massiva i diversi possibili valori per l'attributo in oggetto
 importandoli da un file .csv o .txt. Cliccando su questo pulsante verrà
 visualizzata la maschera "**Importa Valori**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\attributo_importa_valori.bmp](./assets/media/image104.png){width="5.863888888888889in"
-height="3.8569444444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\attributo_importa_valori.bmp](./assets/media/image104.png)
 
 all'interno della quale poter selezionare il file da importare (campo
 "**File (csv-txt)**").

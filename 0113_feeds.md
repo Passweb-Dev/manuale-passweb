@@ -6,8 +6,7 @@ All'interno della sezione **"Feeds"** accessibile dalla voce di menu
 ***"Sito -- Gestione CMS"*** è possibile creare **Feed RSS** collegati
 ad una o più Categoria News.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_feed_0.bmp](./assets/media/image560.png){width="5.746527777777778in"
-height="3.49375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_feed_0.bmp](./assets/media/image560.png)
 
 Tali Feed potranno poi essere esposti attraverso le pagine del proprio
 sito web e permetteranno dunque ai visitatori del sito di iscriversi a
@@ -96,8 +95,7 @@ maschera "**Gestione CMS -- Feeds**".
 Verrà quindi visualizzata nella parte bassa della pagina la maschera
 **"Nuovo Feed CMS"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_feed_1.bmp](./assets/media/image561.png){width="5.746527777777778in"
-height="3.49375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_feed_1.bmp](./assets/media/image561.png)
 
 attraverso cui poter definire le proprietà e le caratteristiche del Feed
 che si intende realizzare. In particolare dunque sarà necessario
@@ -176,8 +174,7 @@ corrispondenza di ogni singolo Feed, sarà possibile visualizzare gli
 indirizzi di pubblicazione del Feed stesso, sia in formato RSS 2.0 che
 in formato Atom 1.0
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_feed_2.bmp](./assets/media/image562.png){width="5.746527777777778in"
-height="3.49375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_feed_2.bmp](./assets/media/image562.png)
 
 **Dopo aver creato uno o più Feed RSS sarà necessario esporre questi
 stessi Feed attraverso una o più pagine del proprio sito. In caso
@@ -195,8 +192,7 @@ Per esporre uno di questi Feed attraverso la corrispondente pagina web
 sarà quindi sufficiente selezionarlo e cliccare successivamente sul
 pulsante "Salva"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagine_feed.bmp](./assets/media/image563.png){width="5.16875in"
-height="2.9027777777777777in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagine_feed.bmp](./assets/media/image563.png)
 
 Una volta esposti questi Feed, nel momento in cui un utente dovesse
 visitare la pagina utilizzata per l'esposizione con un Browser

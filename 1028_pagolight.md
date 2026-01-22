@@ -17,8 +17,7 @@ con la propria carta di credito.
 **ATTENZIONE! Il finanziamento viene richiesto e gestito sulla
 piattaforma PagoLight** **(heidipay) ( <https://pagolight.it> ).**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagolight_0.bmp](./assets/media/image141.png){width="5.50625in"
-height="3.3444444444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagolight_0.bmp](./assets/media/image141.png)
 
 Nel momento in cui si dovesse decidere di attivare questa modalità di
 pagamento, Passweb offre anche la possibilità di inserire, direttamente
@@ -66,8 +65,7 @@ impostare, oltre ai parametri classici di configurazione del pagamento,
 anche quelli specifici del gateway attualmente considerato e presenti
 all'interno della sezione "**Parametri Gateway**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_pagolight.bmp](./assets/media/image142.png){width="5.389583333333333in"
-height="3.298611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_pagolight.bmp](./assets/media/image142.png)
 
 Nel caso specifico il parametro:
 
@@ -134,8 +132,7 @@ mediante i campi "Limite minimo / massimo" presenti nella sezione
 "Informazioni generali" della maschera di configurazione del pagamento
 stesso**
 
-![Videate\\soisy_3.bmp](./assets/media/image95.png){width="5.545138888888889in"
-height="3.2729166666666667in"}
+![Videate\\soisy_3.bmp](./assets/media/image95.png)
 
 In questo modo saremo quindi sicuri che questa specifica modalità di
 pagamento verrà proposta al cliente solo ed esclusivamente nel caso in
@@ -158,8 +155,7 @@ soddisfare eventuali condizioni di applicabilità impostate per il
 pagamento in esame, in fase di checkout comparirà anche l'opzione
 relativa a Pagolight.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagolight_1.bmp](./assets/media/image143.png){width="5.395833333333333in"
-height="3.175in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagolight_1.bmp](./assets/media/image143.png)
 
 Nel momento in cui l'utente dovesse poi decidere di utilizzare
 effettivamente questo tipo di pagamento, alla conferma dell'ordine, il
@@ -167,22 +163,19 @@ documento sarà memorizzato nel database di Passweb, e l'utente verrà
 reindirizzato automaticamente sulla piattaforma di PagoLight dove potrà
 completare la propria richiesta.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagolight_3.bmp](./assets/media/image144.png){width="5.195138888888889in"
-height="3.1493055555555554in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagolight_3.bmp](./assets/media/image144.png)
 
 Una volta selezionato il numero di rate desiderato l'utente dovrà
 inserire i dati necessari per completare la richiesta di finanziamento,
 compresi quelli relativi alla carta di credito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagolight_4.bmp](./assets/media/image145.png){width="5.195138888888889in"
-height="3.1493055555555554in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagolight_4.bmp](./assets/media/image145.png)
 
 Durante i vari step di inserimento dati sulla piattaforma di PagoLight
 si avrà sempre la possibilità di annullare la richiesta in essere
 cliccando sul relativo link presente nella parte bassa della pagina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagolight_5.bmp](./assets/media/image146.png){width="5.195138888888889in"
-height="3.1493055555555554in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagolight_5.bmp](./assets/media/image146.png)
 
 In questo caso l'utente verrà reindirizzato al sito ecommerce dove si
 troverà l'ordine iniziale in stato di "**Pagamento non confermato**".

@@ -46,16 +46,14 @@ In queste condizioni, nel momento in cui un utente del sito dovesse
 accedere al Catalogo potrà avere una visione immediata dei punti che
 ogni singolo prodotto gli permetterebbe effettivamente di guadagnare
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_punti_fe.bmp](./assets/media/image257.png){width="5.454166666666667in"
-height="3.2819444444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_punti_fe.bmp](./assets/media/image257.png)
 
 All'interno della pagina Carrello comparirà invece la sezione "**Punti
 Premio**" con all'interno il check "**Usa il saldo punti**",
 l'indicazione del numero massimo di punti gestibili per l'ordine in
 esame e il corrispondente importo espresso nella valuta corrente
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\punti_premio_carrello.bmp](./assets/media/image144.png){width="5.4847222222222225in"
-height="3.2881944444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\punti_premio_carrello.bmp](./assets/media/image144.png)
 
 **ATTENZIONE!** affinché la sezione "Punti Premio" possa essere
 effettivamente visualizzata è anche necessario che l'utente abbia già
@@ -65,8 +63,7 @@ Sempre in carrello ma questa volta nel riepilogo dei totali verranno
 visualizzate, tra le altre, anche le voci "**Punti Guadagnati**" e
 "**Punti Spesi**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\punti_premio_carrello_2.bmp](./assets/media/image145.png){width="5.4847222222222225in"
-height="3.2881944444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\punti_premio_carrello_2.bmp](./assets/media/image145.png)
 
 con l'indicazione rispettivamente dei punti che l'utente andrebbe
 effettivamente a guadagnare nel momento in cui dovesse chiudere quel
@@ -94,8 +91,7 @@ sezione pagamenti, nel momento in cui l'utente dovesse avere un saldo
 punti diverso da zero e quindi effettivamente spendibile per l'ordine in
 questione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\saldo_punti_checkout.bmp](./assets/media/image258.png){width="5.595138888888889in"
-height="3.3868055555555556in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\saldo_punti_checkout.bmp](./assets/media/image258.png)
 
 **ATTENZIONE!** tanto in carrello quanto in checkout l'importo
 visualizzato in corrispondenza del check "Usa il saldo" dipende
@@ -146,8 +142,7 @@ visualizzare il tuo saldo punti devi essere autenticato") e,
 soprattutto, dovrà essere messo nelle condizioni di poter effettuare
 l'autenticazione al sito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\punti_premio.bmp](./assets/media/image255.png){width="5.368055555555555in"
-height="3.3555555555555556in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\punti_premio.bmp](./assets/media/image255.png)
 
 Come evidenziato in figura tale componente è suddiviso poi in tre
 distinte sezioni. Nella parte alta verrà visualizzato il Saldo Punti
@@ -224,8 +219,7 @@ viene indicato:
 > corrispondente documento e cliccando su di esso sarà possibile
 > visionarne anche il dettaglio
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\punti_dettaglio_transazione.bmp](./assets/media/image259.png){width="5.564583333333333in"
-height="3.3131944444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\punti_dettaglio_transazione.bmp](./assets/media/image259.png)
 
 - il **numero di punti** accumulati / sottratti
 

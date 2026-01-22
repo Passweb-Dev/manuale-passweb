@@ -11,16 +11,14 @@ di Iubenda (<https://www.iubenda.com> )sarà necessario:
     che il Banner necessario per gestire l'Informativa breve (**Cookie
     Solution**)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\iubenda_1.bmp](./assets/media/image2.png){width="6.188194444444444in"
-height="3.636111111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\iubenda_1.bmp](./assets/media/image2.png)
 
 > In particolare in fase di generazione e configurazione della Cookie
 > Solution di Iubenda sarà necessario, tra le altre cose:
 
 - Accertarsi di aver abilitato la configurazione manuale
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\iubenda_configurazione_manuale.bmp](./assets/media/image3.png){width="6.188194444444444in"
-height="3.629861111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\iubenda_configurazione_manuale.bmp](./assets/media/image3.png)
 
 > In caso di configurazione automatica infatti lo snippet di codice
 > fornito da Iubenda che dovrà poi essere inserito all'interno del sito
@@ -32,8 +30,7 @@ height="3.629861111111111in"}
   categorie di consenso per cui potrebbe poi essere possibile impostare
   in Passweb uno specifico valore di default
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\iubenda_2.bmp](./assets/media/image4.png){width="6.188194444444444in"
-height="3.6166666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\iubenda_2.bmp](./assets/media/image4.png)
 
 > Per maggiori informazioni relativamente a come configurare in Iubenda
 > l'Informativa estesa e la Cookie Solution si rimanda alla specifica
@@ -43,15 +40,13 @@ height="3.6166666666666667in"}
     sarà necessario prelevare dal sito di Iubenda il codice di
     integrazione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\iubenda_4.bmp](./assets/media/image5.png){width="6.097222222222222in"
-height="3.636111111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\iubenda_4.bmp](./assets/media/image5.png)
 
 > ed inserirlo all'interno del campo "**Code Snippet Cookie**" presente
 > alla pagina "**Sito -- Preferenze**" del Wizard (tab "**Tracciamento
 > Dati**" sezione "**Blocco Preventivo**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\code_snippet_cookie.bmp](./assets/media/image6.png){width="5.740277777777778in"
-height="3.623611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\code_snippet_cookie.bmp](./assets/media/image6.png)
 
 > **ATTENZIONE!** per poter garantire il corretto ordine di esecuzione
 > dei vari script, e quindi la corretta implementazione della Consent

@@ -14,8 +14,7 @@ Web API Passcom. Per far questo sarà necessario:
   quindi al gruppo "**Servizi Web API**" (solo utenti di questo gruppo
   potranno infatti utilizzare i relativi servizi)
 
-![Videate\\passcom_webApi_1.bmp](./assets/media/image147.png){width="4.675in"
-height="2.6430555555555557in"}
+![Videate\\passcom_webApi_1.bmp](./assets/media/image147.png)
 
 - Definire le Aziende dell'installazione per cui sarà effettivamente
   possibile utilizzare le Web Api.
@@ -25,8 +24,7 @@ height="2.6430555555555557in"}
 > "**Impostazioni**" (F11) in maniera tale da accedere alla maschera
 > "**Impostazioni Gruppo ...**" evidenziata in figura
 
-![Videate\\passcom_webApi_2.bmp](./assets/media/image148.png){width="5.616666666666666in"
-height="3.220833333333333in"}
+![Videate\\passcom_webApi_2.bmp](./assets/media/image148.png)
 
 > Il campo "**Aziende**" consentirà di indicare esattamente le aziende
 > per cui sarà possibile utilizzare le Web Api.
@@ -54,8 +52,7 @@ i parametri richiesti all'interno della sezione Web API, parametri
 questi che saranno diversi a seconda del fatto che Passcom sia
 installato presso la Web Farm Passepartout o in locale presso il cliente
 
-![Videate\\parametri_conf_Passcom_webAPI.bmp](./assets/media/image149.png){width="5.5777777777777775in"
-height="3.5194444444444444in"}
+![Videate\\parametri_conf_Passcom_webAPI.bmp](./assets/media/image149.png)
 
 In ogni caso si tratterà comunque di impostare un valore per i seguenti
 campi:
@@ -74,8 +71,7 @@ campi:
 > webapi**" ("*Servizi -- Configurazioni -- Configurazione moduli -- Web
 > Api*")
 
-![Videate\\passcom_webApi_3.bmp](./assets/media/image150.png){width="3.4868055555555557in"
-height="1.7465277777777777in"}
+![Videate\\passcom_webApi_3.bmp](./assets/media/image150.png)
 
 > Supponendo dunque che i valori presenti all'interno dei campi
 > evidenziati in figura siano rispettivamente mrossi e 9104 il Base

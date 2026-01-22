@@ -22,8 +22,7 @@ uguali a 2.
 Facendo quindi riferimento ad una situazione del tipo di quella
 rappresentata in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\numero_campo_mydb.bmp](./assets/media/image254.png){width="4.558333333333334in"
-height="2.623611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\numero_campo_mydb.bmp](./assets/media/image254.png)
 
 e supponendo di voler mappare il campo "Supporto", il valore da inserire
 all'interno del campo "Numero" dovrà essere 5

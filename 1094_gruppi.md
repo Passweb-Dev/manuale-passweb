@@ -12,8 +12,7 @@ configurazione "**Tipologia Tassa**" sia stato impostato sul valore
 "**Tassa Extra**", consente infatti di associare la tassa addizionale
 che si sta codificando ad uno o più Gruppi di Utenti
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_tassa_2.bmp](./assets/media/image448.png){width="5.616666666666666in"
-height="3.4479166666666665in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_tassa_2.bmp](./assets/media/image448.png)
 
 **ATTENZIONE!** Per ovvie ragioni non è possibile associare Tasse di
 tipo IVA a Gruppi Utente

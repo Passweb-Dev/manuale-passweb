@@ -6,8 +6,7 @@ All'interno di questa sezione l'utente avrà la possibilità di
 sincronizzare e importare tutte le liste di iscrizione create e gestite
 all'interno del proprio account MailChimp.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_newsletter_liste.bmp](./assets/media/image60.png){width="5.8284722222222225in"
-height="3.5277777777777777in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_newsletter_liste.bmp](./assets/media/image60.png)
 
 In questo senso il pulsante **"Sincronizza da MailChimp"** presente
 nella barra degli strumenti della maschera **"Gestione Newsletter --
@@ -23,12 +22,10 @@ sopra evidenziata.
 
 Selezionando una delle liste presenti in elenco verrà abilitato, nella
 barra degli strumenti, un ulteriore pulsante "**Visualizza Iscritti"**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_visualizza_iscritti.bmp](./assets/media/image61.png){width="0.44166666666666665in"
-height="0.19027777777777777in"} ) grazie al quale poter visualizzare
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_visualizza_iscritti.bmp](./assets/media/image61.png) ) grazie al quale poter visualizzare
 l'elenco degli iscritti alla lista attualmente selezionata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\iscritti_lista.bmp](./assets/media/image62.png){width="5.8284722222222225in"
-height="3.5277777777777777in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\iscritti_lista.bmp](./assets/media/image62.png)
 
 **NOTA BENE**: per ogni lista l'elenco degli iscritti riflette
 ovviamente la situazione aggiornata all'ultima sincronizzazione

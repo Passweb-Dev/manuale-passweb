@@ -22,8 +22,7 @@ pagina di **Amministrazione** della propria installazione Matomo e
 selezionare l'opzione "**Abilita il supporto per Do Not Track**"
 evidenziata in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_16.bmp](./assets/media/image17.png){width="4.157638888888889in"
-height="4.704166666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\matomo_16.bmp](./assets/media/image17.png)
 
 In questo modo se gli utenti dovessero avere impostato il proprio
 browser su "Non voglio essere tracciato" (DoNotTrack abilitato), Matomo

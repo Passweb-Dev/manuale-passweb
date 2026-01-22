@@ -59,8 +59,7 @@ Tenendo conto di quanto appena detto, nella sezione "**Parametri
 Gateway**" della maschera di configurazione del pagamento Findomestic
 sarà necessario impostare un valore per i seguenti parametri:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_findomestic.bmp](./assets/media/image94.png){width="5.779166666666667in"
-height="3.4090277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_findomestic.bmp](./assets/media/image94.png)
 
 - **Ambiente del Gateway:** permette di definire se utilizzare come
   ambiente del pagamento, l'ambiente di test (da utilizzare solo ed
@@ -218,8 +217,7 @@ Dovendo gestire due diverse tipologie di incentivi il pagamento
 Findomestic dovrà essere configurato come nella figura di seguito
 riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\findomestic_incentivi_2.bmp](./assets/media/image98.png){width="5.779166666666667in"
-height="3.4090277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\findomestic_incentivi_2.bmp](./assets/media/image98.png)
 
 In queste ipotesi potrebbero configurarsi tre diverse possibili
 situazioni di acquisto:
@@ -234,8 +232,7 @@ corrispondenza del pagamento Findomestic, la possibilità di richiedere
 il finanziamento con o senza l'incentivo statale relativo all'efficienza
 energetica.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\findomestic_incentivi_3.bmp](./assets/media/image99.png){width="5.104166666666667in"
-height="3.279166666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\findomestic_incentivi_3.bmp](./assets/media/image99.png)
 
 **[CASO 2]{.underline}**
 
@@ -247,8 +244,7 @@ corrispondenza del pagamento Findomestic, la possibilità di richiedere
 il finanziamento con o senza l'incentivo statale relativo alla
 ristrutturazione edilizia.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\findomestic_incentivi_4.bmp](./assets/media/image100.png){width="5.104166666666667in"
-height="3.279166666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\findomestic_incentivi_4.bmp](./assets/media/image100.png)
 
 **[CASO 3]{.underline}**
 
@@ -260,8 +256,7 @@ corrispondenza del pagamento Findomestic, la possibilità di richiedere
 un finanziamento standard con rateizzazione dell'importo ma senza
 utilizzo di alcun tipo di incentivo.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\findomestic_incentivi_5.bmp](./assets/media/image101.png){width="5.104166666666667in"
-height="3.279166666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\findomestic_incentivi_5.bmp](./assets/media/image101.png)
 
 **ATTENZIONE!** Lo stesso risultato lo avremmo anche nel momento in cui
 in ordine dovessero esserci solo articoli non sottoposti ad alcun tipo

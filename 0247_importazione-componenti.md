@@ -5,8 +5,7 @@
 I due pulsanti presenti nella parte alta della maschera di
 configurazione di ogni componente consentono rispettivamente di:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\importazione_componenti_1_res.bmp](./assets/media/image95.png){width="5.141666666666667in"
-height="3.089583333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\importazione_componenti_1_res.bmp](./assets/media/image95.png)
 
 **I miei Componenti**: consente di importare all'interno della pagina
 web Componenti precedentemente esportati da una qualsiasi Variante dello
@@ -21,8 +20,7 @@ esame.
 Cliccando su questo pulsante verrà quindi visualizzata la maschera "**I
 miei Componenti -- Tipo Componente**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\importazione_componenti_2_res.bmp](./assets/media/image96.png){width="3.7909722222222224in"
-height="2.6638888888888888in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\importazione_componenti_2_res.bmp](./assets/media/image96.png)
 
 maschera questa all'interno della quale poter visualizzare l'elenco di
 tutti i componenti, della stessa tipologia di quello attualmente
@@ -61,8 +59,7 @@ Per ogni componente presente in elenco è indicato il nome ad esso
 assegnato in fase di esportazione e la relativa data di esportazione.
 
 Il pulsante raffigurante un piccolo bidone (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\pulsante_bidone.bmp](./assets/media/image97.png){width="0.15694444444444444in"
-height="0.18680555555555556in"} ), posto a fianco di ciascun componente
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\pulsante_bidone.bmp](./assets/media/image97.png) ), posto a fianco di ciascun componente
 presente in elenco, consente di eliminare definitivamente dalla Galleria
 il Componente stesso.
 
@@ -71,8 +68,7 @@ alcun effetto su eventuali componenti dello stesso tipo già importati ed
 inseriti in altre pagine del sito
 
 Il pulsante "**Importa Componente**" (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\pulsante_importa_componente.bmp](./assets/media/image98.png){width="0.8208333333333333in"
-height="0.15694444444444444in"} ) consente invece di avviare la
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\pulsante_importa_componente.bmp](./assets/media/image98.png) ) consente invece di avviare la
 procedura di importazione al termine della quale il componente in esame
 verrà inserito nella pagina web potendo quindi essere tratto e gestito,
 da questo momento in avanti, come un qualsiasi altro Componente Passweb.
@@ -88,8 +84,7 @@ nel caso in cui questi stessi attributi non dovessero essere già
 presenti nel Tema in uso per la Variante di destinazione, verrà
 visualizzata la maschera **"Gestione Temi -- Nuovi Attributi"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\importazione_componenti_3_res.bmp](./assets/media/image99.png){width="5.134027777777778in"
-height="1.3729166666666666in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\importazione_componenti_3_res.bmp](./assets/media/image99.png)
 
 maschera questa all'interno della quale l'utente potrà decidere, prima
 di terminare l'importazione e di inserire quindi il componente nella
@@ -143,8 +138,7 @@ di quello in esame
 Cliccando su questo pulsante verrà quindi visualizzata la maschera
 "**Galleria Componenti -- Tipo Componente**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\importazione_componenti_4_res.bmp](./assets/media/image100.png){width="5.209027777777778in"
-height="3.4923611111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\importazione_componenti_4_res.bmp](./assets/media/image100.png)
 
 maschera questa all'interno della quale verrà visualizzata la Galleria
 dei Componenti realizzati direttamente da Passepartout ed ovviamente
@@ -155,16 +149,14 @@ rappresentativa del Componente stesso, il suo Nome e una sua breve
 descrizione.
 
 Il pulsante "**Vai alla PassApp**" (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\pulsante_passApp.bmp](./assets/media/image101.png){width="1.0673611111111112in"
-height="0.18680555555555556in"} ), presente in corrispondenza dei
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\pulsante_passApp.bmp](./assets/media/image101.png) ), presente in corrispondenza dei
 componenti non ancora acquistati, consente di visualizzarne i dettagli
 direttamente all'interno del sito
 [passstore.passepartout.net](https://passstore.passepartout.net/) dove
 si potrà poi, eventualmente, anche decidere di acquistarli.
 
 Il pulsante "**Importa Componente**" (
-![Videate\\pulsante_importa_componente.bmp](./assets/media/image102.png){width="0.8208333333333333in"
-height="0.15694444444444444in"} ) presente invece in corrispondenza dei
+![Videate\\pulsante_importa_componente.bmp](./assets/media/image102.png) ) presente invece in corrispondenza dei
 componenti già acquistati e quindi a tutti gli effetti utilizzabili
 all'interno del proprio sito, consente di avviare la procedura di
 importazione, durante la quale verrà richiesto all'utente, esattamente

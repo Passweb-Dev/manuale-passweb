@@ -24,16 +24,14 @@ necessario
   account ActiveCampaign e attivare il relativo switch presente
   all'interno della sezione "Monitoraggio del sito"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\activecampaign_attivazione_monitoraggio_client.bmp](./assets/media/image18.png){width="5.5in"
-height="3.4743055555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\activecampaign_attivazione_monitoraggio_client.bmp](./assets/media/image18.png)
 
 - Inserire l'url del proprio sito (nel formato sitoweb.it, quindi senza
   indicazione del protocollo http/https e senza www) all'interno del
   campo "**Aggiungi URL del sito Web**" presente all'interno della
   sezione "**Whitelist e codice di installazione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\activecampaign_whitelist_monitoraggio.bmp](./assets/media/image19.png){width="5.5in"
-height="3.4743055555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\activecampaign_whitelist_monitoraggio.bmp](./assets/media/image19.png)
 
 > Verificare anche il check "**Includi tutte le pagine del sito Web**"
 > sia correttamente selezionato. Tale opzione consente infatti di
@@ -52,8 +50,7 @@ height="3.4743055555555555in"}
 > pagina "**Sito -- Preferenze**" del Wizard (sezione
 > "**Integrazioni**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\activecampaign_integrazione_codice_monitoraggio.bmp](./assets/media/image20.png){width="5.5in"
-height="3.4479166666666665in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\activecampaign_integrazione_codice_monitoraggio.bmp](./assets/media/image20.png)
 
 > **ATTENZIONE!** come indicato nella relativa documentazione di
 > ActiveCampaign **la piattaforma non supporta l'inserimento del codice

@@ -19,8 +19,7 @@ vari articoli.
 All'interno di questa pagina verrà quindi visualizzata la maschera
 **"Gestione Articoli Abbinati"**, suddivisa in due distinte sezioni:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_gestione_abbinati.bmp](./assets/media/image458.png){width="5.792361111111111in"
-height="3.5131944444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_gestione_abbinati.bmp](./assets/media/image458.png)
 
 **Nella parte sinistra della maschera** sono elencate tutte le Categorie
 di Abbinati attualmente codificate.
@@ -29,14 +28,12 @@ I pulsanti presenti nella contestuale barra degli strumenti consentono
 rispettivamente di:
 
 - **Modifica** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica.bmp](./assets/media/image43.png){width="0.4027777777777778in"
-  height="0.18819444444444444in"} ): consente di modificare la
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica.bmp](./assets/media/image43.png) ): consente di modificare la
   descrizione della Categoria Abbinati attualmente selezionata in
   elenco. Cliccando su questo pulsante verrà infatti visualizzata la
   maschera "**Modifica Categoria**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_gestione_abbinati_3.bmp](./assets/media/image459.png){width="5.792361111111111in"
-height="3.5131944444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_gestione_abbinati_3.bmp](./assets/media/image459.png)
 
 > all'interno della quale poter personalizzare, in ciascuna delle lingue
 > gestite all'interno del sito, l'etichetta utilizzata per identificare,
@@ -46,20 +43,17 @@ height="3.5131944444444443in"}
 > Abbinati già realizzata.
 
 - **Elimina** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina.bmp](./assets/media/image114.png){width="0.3506944444444444in"
-  height="0.18819444444444444in"} ): consente di eliminare la Categoria
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina.bmp](./assets/media/image114.png) ): consente di eliminare la Categoria
   Abbinati attualmente selezionata in elenco.
 
 - **Aggiungi** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi.bmp](./assets/media/image237.png){width="0.44166666666666665in"
-  height="0.21458333333333332in"} ): consente di codificare una nuova
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi.bmp](./assets/media/image237.png) ): consente di codificare una nuova
   Categoria Abbinati.
 
 Cliccando su quest'ultimo pulsante verrà infatti visualizzata la
 maschera "**Nuova Categoria**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_gestione_abbinati_4.bmp](./assets/media/image238.png){width="5.792361111111111in"
-height="3.5131944444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_gestione_abbinati_4.bmp](./assets/media/image238.png)
 
 all'interno della quale poter indicare, nei relativi campi, il
 **Codice** e la **Descrizione** (nelle diverse lingue di gestione del
@@ -86,15 +80,13 @@ I pulsanti presenti nella contestuale barra degli strumenti consentono
 rispettivamente di:
 
 - **Aggiungi** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi.bmp](./assets/media/image237.png){width="0.44166666666666665in"
-  height="0.21458333333333332in"} ): consente di creare un nuovo
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi.bmp](./assets/media/image237.png) ): consente di creare un nuovo
   abbinamento.
 
 > Cliccando su questo pulsante verrà infatti visualizzata la maschera
 > "**Nuovo Abbinato**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_nuovo_abbinato.bmp](./assets/media/image240.png){width="5.792361111111111in"
-height="3.5131944444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_nuovo_abbinato.bmp](./assets/media/image240.png)
 
 > all'interno della quale poter definire il nuovo abbinamento. Nello
 > specifico il campo:
@@ -130,23 +122,20 @@ height="3.5131944444444443in"}
 > nella parte destra della maschera "Gestione Articoli Abbinati"
 
 - **Modifica** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica.bmp](./assets/media/image43.png){width="0.4027777777777778in"
-  height="0.18819444444444444in"} ): consente di modificare
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica.bmp](./assets/media/image43.png) ): consente di modificare
   l'abbinamento in esame.
 
 > Cliccando su questo pulsante verrà infatti visualizzata la maschera
 > "**Modifica Abbinato**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_gestione_abbinati_6.bmp](./assets/media/image460.png){width="5.792361111111111in"
-height="3.5131944444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_gestione_abbinati_6.bmp](./assets/media/image460.png)
 
 > all'interno della quale poter variare, nei rispettivi campi,
 > l'articolo oggetto dell'abbinamento, la categoria di abbinamento e
 > l'articolo abbinato.
 
 - **Elimina** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina.bmp](./assets/media/image114.png){width="0.3506944444444444in"
-  height="0.18819444444444444in"} ): consente di eliminare l'abbinamento
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina.bmp](./assets/media/image114.png) ): consente di eliminare l'abbinamento
   attualmente selezionato in elenco.
 
 > **ATTENZIONE!** il pulsante "Elimina Abbinato" consente di eliminare
@@ -155,8 +144,7 @@ height="3.5131944444444443in"}
 > l'articolo abbinato
 
 - **Importa**(
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_importa.bmp](./assets/media/image134.png){width="0.35694444444444445in"
-  height="0.175in"} ): consente di creare nuovi abbinamenti in maniera
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_importa.bmp](./assets/media/image134.png) ): consente di creare nuovi abbinamenti in maniera
   massiva utilizzando per questo un file .csv o .txt appositamente
   realizzato.
 
@@ -173,8 +161,7 @@ height="3.5131944444444443in"}
 > maschera "Gestione Articoli Abbinati" un' ulteriore sezione "**File
 > Abbinati**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_gestione_abbinati_7.bmp](./assets/media/image242.png){width="5.792361111111111in"
-height="3.5131944444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_gestione_abbinati_7.bmp](./assets/media/image242.png)
 
 > all'interno della quale poter indicare:
 
@@ -199,8 +186,7 @@ height="3.5131944444444443in"}
 > presenti all'interno del file stesso.
 >
 > **Esporta** (
-> ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_esporta_testo.bmp](./assets/media/image136.png){width="0.35694444444444445in"
-> height="0.18194444444444444in"} ): consente di esportare l'elenco di
+> ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_esporta_testo.bmp](./assets/media/image136.png) ): consente di esportare l'elenco di
 > tutti gli Abbinati attualmente gestiti all'interno del sito, in un
 > file csv in cui verranno inserite, rispettivamente, le seguenti
 > informazioni:
@@ -211,8 +197,7 @@ height="3.5131944444444443in"}
 > maschera "Gestione Articoli Abbinati" un' ulteriore sezione
 > "**Esportazione Abbinati**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\esportazione_abbinati.bmp](./assets/media/image457.png){width="5.792361111111111in"
-height="3.5131944444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\esportazione_abbinati.bmp](./assets/media/image457.png)
 
 > all'interno della quale poter indicare, selezionandolo dall'apposito
 > menu a tendina, il carattere che dovrà essere utilizzato all'interno

@@ -10,14 +10,12 @@ relativo pannello di ricerca un componente "**Filtro Indice**",
 "**Filtro Checkbox**" o "**Filtro Lista**" mappato sul Campo Articolo
 "**Taglie**" o "**Taglie Disponibili**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ricerca_taglie_filtro_indice.bmp](./assets/media/image346.png){width="4.947916666666667in"
-height="3.032638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ricerca_taglie_filtro_indice.bmp](./assets/media/image346.png)
 
 In queste condizioni infatti nella maschera di configurazione del
 componente verrà visualizzato anche il campo **Serie Taglie**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_articolo_taglie_colori.bmp](./assets/media/image347.png){width="5.143055555555556in"
-height="3.1493055555555554in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtri_articolo_taglie_colori.bmp](./assets/media/image347.png)
 
 mediante il quale poter indicare, selezionandola dal relativo menu a
 tendina, la specifica serie di Taglie/Colori in relazione a cui dovranno
@@ -30,8 +28,7 @@ In particolare:
   visualizzate sul front end del sito saranno relative unicamente a
   quella stessa serie.
 
-![Videate\\ricerca_articolo_taglie_colori.bmp](./assets/media/image328.png){width="5.389583333333333in"
-height="3.265972222222222in"}
+![Videate\\ricerca_articolo_taglie_colori.bmp](./assets/media/image328.png)
 
 > In queste condizioni inoltre se non dovesse essere indicata una
 > specifica Label, come intestazione del campo di ricerca verrà
@@ -49,8 +46,7 @@ height="3.265972222222222in"}
 > ricerca visualizzate sul front end del sito saranno relative a tutte
 > le serie di Taglie/Colori attualmente gestite.
 
-![Videate\\filtri_articolo_taglie_colori2.bmp](./assets/media/image348.png){width="5.389583333333333in"
-height="3.5256944444444445in"}
+![Videate\\filtri_articolo_taglie_colori2.bmp](./assets/media/image348.png)
 
 > Se il componente di ricerca dovesse invece essere inserito in una
 > determinata pagina di categoria le opzioni di ricerca visualizzate sul
@@ -94,8 +90,7 @@ Nello specifico:
   relazione alla serie considerata, all'interno della maschera
   "**Modifica Elementi della serie**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_elementi_serie.bmp](./assets/media/image325.png){width="5.5777777777777775in"
-height="3.5256944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_elementi_serie.bmp](./assets/media/image325.png)
 
 > Per maggiori informazioni in merito a come poter personalizzare questi
 > elementi si veda anche quanto indicato all'interno del relativo

@@ -7,8 +7,7 @@ visualizzare, in verticale, soltanto le voci di menu di primo livello.
 Eventuali sottovoci verranno visualizzate solo ed esclusivamente al
 passaggio del mouse sulle voci di livello immediatamente superiore.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\menu_flottante_verticale_esempio.bmp](./assets/media/image25.png){width="4.746527777777778in"
-height="1.863888888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\menu_flottante_verticale_esempio.bmp](./assets/media/image25.png)
 
 Per realizzare questo tipo di menu è necessario:
 

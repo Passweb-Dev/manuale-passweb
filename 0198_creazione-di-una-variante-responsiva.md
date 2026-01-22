@@ -8,27 +8,23 @@ direttamente all'interno del Live Editing.
 Nello specifico per poter accedere alla maschera di creazione e gestione
 delle Varianti è necessario cliccare sul relativo pulsante **Gestione
 Varianti**
-(![Videate\\pulsante_gestione_varianti_me.bmp](./assets/media/image1.png){width="1.0597222222222222in"
-height="0.34305555555555556in"} ) presente nel menu di Editing del Sito
+(![Videate\\pulsante_gestione_varianti_me.bmp](./assets/media/image1.png) ) presente nel menu di Editing del Sito
 o, in alternativa, sul corrispondente pulsante presente nella Barra
 degli Strumenti del Live Editing
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\barra_strumenti_gestione_varianti.bmp](./assets/media/image2.png){width="0.34305555555555556in"
-height="0.2013888888888889in"} ).
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\barra_strumenti_gestione_varianti.bmp](./assets/media/image2.png) ).
 
 In entrambi i casi verrà comunque visualizzata la maschera "**Gestione
 Varianti**" mediante la quale poter gestire tutte le Varianti Sito
 attualmente codificate oltre che, ovviamente, poterne creare di nuove.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\variante_2_res.bmp](./assets/media/image3.png){width="5.089583333333334in"
-height="2.6416666666666666in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\variante_2_res.bmp](./assets/media/image3.png)
 
 Per creare una nuova Variante Responsiva sarà necessario, per prima
 cosa, cliccare sul pulsante "**Crea una Variante**" presente nella parte
 sinistra della maschera in maniera tale da poter accedere alla maschera
 di definizione della nuova Variante
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\variante_3_res.bmp](./assets/media/image4.png){width="5.141666666666667in"
-height="3.1569444444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\variante_3_res.bmp](./assets/media/image4.png)
 
 all'interno della quale poter indicare:
 
@@ -97,8 +93,7 @@ corretti nelle relative pagine.
 In questo senso dunque i parametri presenti all'interno della sezione
 "Generazione Pagine di Categoria" consentono rispettivamente di:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\generazione_pagine_categoria_res.bmp](./assets/media/image5.png){width="5.141666666666667in"
-height="3.1569444444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\generazione_pagine_categoria_res.bmp](./assets/media/image5.png)
 
 **Pagina Negozio Padre:** consente di indicare la specifica pagina del
 sito che dovrà essere utilizzata come Template per la creazione di una
@@ -139,8 +134,7 @@ E' possibile selezionare una delle seguenti opzioni.
   Catalogo che dovrà essere utilizzata come template per la creazione di
   eventuali nuove "Pagine Catalogo Padre".
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\generazione_pagine_categoria_3_res.bmp](./assets/media/image6.png){width="5.149305555555555in"
-height="3.1638888888888888in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\generazione_pagine_categoria_3_res.bmp](./assets/media/image6.png)
 
 > Tali pagine assumeranno quindi lo stesso aspetto grafico, e avranno
 > esattamente gli stessi componenti della Pagina selezionata all'interno
@@ -185,8 +179,7 @@ Anche in questo caso è possibile selezionare una delle seguenti opzioni.
   Catalogo che dovrà essere utilizzata come template per la creazione di
   eventuali nuove "Pagine Catalogo Foglia".
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\generazione_pagine_categoria_4_res.bmp](./assets/media/image7.png){width="5.156944444444444in"
-height="3.1569444444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\generazione_pagine_categoria_4_res.bmp](./assets/media/image7.png)
 
 > Tali pagine assumeranno quindi lo stesso aspetto grafico, e avranno
 > esattamente gli stessi componenti della Pagina selezionata all'interno

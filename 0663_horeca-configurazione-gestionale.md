@@ -10,8 +10,7 @@ relativo gestionale Ho.Re.Ca.
 All'interno di questa pagina verrà quindi visualizzata la maschera,
 **"Parametri Ho.Re.Ca."**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\parametri_conf_Horeca_generale.bmp](./assets/media/image104.png){width="5.8375in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\parametri_conf_Horeca_generale.bmp](./assets/media/image104.png)
 
 attraverso la quale poter impostare i parametri necessari per collegare
 il sito web ad uno dei gestionali Ho.Re.Ca. (Retail, Beauty, Menu, Plan)

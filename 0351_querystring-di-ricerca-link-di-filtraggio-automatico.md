@@ -26,8 +26,7 @@ querystring e corrispondente link di filtraggio:
 1.  Accedere al live editing del proprio sito e aprire la maschera di
     gestione delle Varianti
 
-![Videate\\variante_4_res.bmp](./assets/media/image47.png){width="5.159722222222222in"
-height="2.490972222222222in"}
+![Videate\\variante_4_res.bmp](./assets/media/image47.png)
 
 2.  Selezionare la Variante da utilizzare per generare il link di
     filtraggio automatico (tipicamente è la Variante sito attualmente
@@ -59,8 +58,7 @@ height="2.490972222222222in"}
 4.  Utilizzare il pannello di ricerca per impostare e applicare al
     Catalogo Ecommerce il filtro desiderato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\querystring_ricerca_3.bmp](./assets/media/image48.png){width="5.588888888888889in"
-height="3.4972222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\querystring_ricerca_3.bmp](./assets/media/image48.png)
 
 > Nell'esempio in figura è stato impostato un filtro per ricercare tutti
 > gli articoli a catalogo con marca "Apple" e tipologia "Accessori"
@@ -70,15 +68,13 @@ height="3.4972222222222222in"}
     una piccola icona "**Copia**" grazie alla quale poter ottenere la
     querystring corrispondente al filtro appena impostato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\querystring_ricerca_4.bmp](./assets/media/image49.png){width="5.079861111111111in"
-height="3.4972222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\querystring_ricerca_4.bmp](./assets/media/image49.png)
 
 6.  Cliccare quindi sull'icona "**Copia**" per copiare nella Clipboard
     (Appunti) la relativa querystring ed incollarla in un qualsiasi
     editor di testo
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\querystring_ricerca_5.bmp](./assets/media/image50.png){width="5.079861111111111in"
-height="3.4972222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\querystring_ricerca_5.bmp](./assets/media/image50.png)
 
 7.  A questo punto per ottenere il link di filtraggio automatico sarà
     sufficiente **unire il percorso della pagina del sito in cui è
@@ -100,8 +96,7 @@ height="3.4972222222222222in"}
 > Per far questo e sufficiente visitare questo stesso link inserendolo
 > nella barra degli indirizzi del browser.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\querystring_ricerca_6.bmp](./assets/media/image51.png){width="5.539583333333334in"
-height="1.3069444444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\querystring_ricerca_6.bmp](./assets/media/image51.png)
 
 > **ATTENZIONE!** La pagina del sito utilizzata per costruire il link di
 > filtraggio e a cui verrà quindi applicato il relativo filtro dovrà

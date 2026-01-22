@@ -51,8 +51,7 @@ caratteristiche di seguito indicate:
 
 **[ESENZIONE IVA PER VENDITE INTRACOMUNITARIE]{.underline}**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tassa_cessioni_intra_ue.bmp](./assets/media/image458.png){width="5.83125in"
-height="3.8375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tassa_cessioni_intra_ue.bmp](./assets/media/image458.png)
 
 - **Soggetto**: Azienda iscritta al VIES
 
@@ -69,8 +68,7 @@ height="3.8375in"}
 
 **[ESENZIONE IVA PER VENDITE EXTRA UE]{.underline}**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tassa_cessioni_extra_ue.bmp](./assets/media/image459.png){width="5.83125in"
-height="3.8375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tassa_cessioni_extra_ue.bmp](./assets/media/image459.png)
 
 - **Soggetto**: Azienda iscritta al VIES, Azienda non iscritta al VIES,
   Privato
@@ -225,8 +223,7 @@ IVA OSS. Nello specifico:
     "**Parametri attività IVA**" (menu "*Anagrafica Azienda -- Dati
     Aziendali*")
 
-![Videate\\parametri_attivita_iva.bmp](./assets/media/image456.png){width="5.5256944444444445in"
-height="2.707638888888889in"}
+![Videate\\parametri_attivita_iva.bmp](./assets/media/image456.png)
 
 > In queste condizioni infatti se il cliente che acquista sul sito è un
 > privato e la merce viene spedita fuori Italia ma comunque in un paese

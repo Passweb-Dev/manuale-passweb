@@ -26,14 +26,12 @@ Per accedere a questi modelli predefiniti è sufficiente cliccare sul
 pulsante "**Prompt Predefiniti**" presente nella barra degli strumenti
 della maschera "Prompt Template"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prompt_predefiniti_1.bmp](./assets/media/image388.png){width="6.013194444444444in"
-height="3.922222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prompt_predefiniti_1.bmp](./assets/media/image388.png)
 
 In questo modo verrà infatti visualizzata la maschera "**Prompt Template
 Passepartout**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prompt_predefiniti_2.bmp](./assets/media/image389.png){width="6.013194444444444in"
-height="4.019444444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prompt_predefiniti_2.bmp](./assets/media/image389.png)
 
 contente l'elenco di tutti i Prompt messi a disposizione da Passepartout
 per ciascuna delle categorie gestite (Prodotto, CMS, SEO)
@@ -42,14 +40,12 @@ I pulsanti presenti nella barra degli strumenti consento rispettivamente
 di:
 
 **Visualizza Template** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_visualizza_template.bmp](./assets/media/image390.png){width="0.7534722222222222in"
-height="0.1951388888888889in"} ): consente di tornare alla maschera
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_visualizza_template.bmp](./assets/media/image390.png) ): consente di tornare alla maschera
 Prompt Template contenente l'elenco di tutti i Template di Prompt
 attualmente codificati e utilizzabili all'interno del sito
 
 **Visualizza dettaglio** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_visualizza_dettaglio.bmp](./assets/media/image391.png){width="0.7791666666666667in"
-height="0.18819444444444444in"} ): consente di visualizzare il dettaglio
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_visualizza_dettaglio.bmp](./assets/media/image391.png) ): consente di visualizzare il dettaglio
 del Prompt attualmente selezionato in elenco e, volendo, di importarlo
 tra i Template di prompt che potranno poi essere utilizzati all'interno
 del sito.
@@ -58,8 +54,7 @@ Cliccando su questo pulsante verrà infatti visualizzato il dettaglio
 della domanda che verrebbe posta al modello di AI nel momento in cui
 dovessimo decidere di utilizzare il prompt in esame
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prompt_predefiniti_3.bmp](./assets/media/image392.png){width="6.013194444444444in"
-height="4.019444444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prompt_predefiniti_3.bmp](./assets/media/image392.png)
 
 Il pulsante "**Importa**" consente di inserire il Prompt Predefinito tra
 quelli presenti all'interno della maschera "Prompt Template"

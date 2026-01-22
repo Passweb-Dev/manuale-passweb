@@ -8,8 +8,7 @@ nel momento in cui l'utente andrà ad inserire sul sito uno dei codici
 sconto che andremo poi a generare (soddisfacendo ovviamente anche le
 relative condizioni di applicabilità).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\azione_buono_sconto.bmp](./assets/media/image577.png){width="5.538888888888889in"
-height="3.422222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\azione_buono_sconto.bmp](./assets/media/image577.png)
 
 Il parametro **Azione** presente all'interno di questa sezione permette
 infatti di indicare se il Buono sconto in esame dovrà esplicitarsi con

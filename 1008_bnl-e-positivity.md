@@ -68,8 +68,7 @@ impostare, oltre ai parametri classici di configurazione del pagamento,
 anche quelli specifici del gateway attualmente considerato e presenti
 all'interno della sezione "**Parametri Gateway**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_bnl.bmp](./assets/media/image52.png){width="5.779166666666667in"
-height="3.4027777777777777in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_bnl.bmp](./assets/media/image52.png)
 
 Nel caso specifico il parametro:
 
@@ -125,8 +124,7 @@ reindirizzato alla specifica pagina di accesso del gateway "BNL
 e-POSitivity" dove, per completare il pagamento, gli verranno richieste
 diverse informazioni.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_fullpay.bmp](./assets/media/image53.png){width="4.9743055555555555in"
-height="3.50625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_fullpay.bmp](./assets/media/image53.png)
 
 **A questo punto però l'ordine non è ancora stato preso in carico dalla
 banca e, conseguentemente, non è ancora avvenuto alcun pagamento**.

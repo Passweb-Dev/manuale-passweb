@@ -10,8 +10,7 @@ o meno leggibili di caratteri e/o numeri per poter dimostrare, in fase
 di compilazione di un form, di non essere un bot e li mette quindi nelle
 condizioni di poter procedere rapidamente alla conferma del form stesso.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\recaptcha_1.bmp](./assets/media/image84.png){width="5.304861111111111in"
-height="3.7402777777777776in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\recaptcha_1.bmp](./assets/media/image84.png)
 
 Attualmente esistono 2 versioni di Google Recaptcha la v2 e v3 (entrambe
 attivabili all'interno del proprio sito Passweb).
@@ -42,8 +41,7 @@ Google Recaptcha agendo mediante i parametri di configurazione presenti
 all'interno della sezione "**Google recaptcha**" alla pagina "*Sito --
 Preferenze -- Integrazioni*" del Wizard
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\recaptcha_2.bmp](./assets/media/image85.png){width="5.811805555555556in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\recaptcha_2.bmp](./assets/media/image85.png)
 
 Nello specifico il campo:
 
@@ -83,21 +81,18 @@ Per poter ottenere questa coppia di chiavi è necessario:
     Google e selezionare dal menu a sinistra la voce "**Security --
     reCAPTCHA**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\recaptcha_3.bmp](./assets/media/image86.png){width="5.33125in"
-height="3.3895833333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\recaptcha_3.bmp](./assets/media/image86.png)
 
 2.  Una volta effettuato l'accesso a questa sezione delle Google Cloud
     Console sarà poi necessario cliccare sul pulsante "**Create key**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\recaptcha_3a.bmp](./assets/media/image87.png){width="5.33125in"
-height="3.3895833333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\recaptcha_3a.bmp](./assets/media/image87.png)
 
 > per avviare il processo di creazione di una nuova coppia di chiavi
 
 3.  Nella successiva maschera di creazione delle chiavi
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\recaptcha_4.bmp](./assets/media/image88.png){width="5.33125in"
-height="3.3895833333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\recaptcha_4.bmp](./assets/media/image88.png)
 
 > sarà quindi necessario:
 
@@ -121,8 +116,7 @@ height="3.3895833333333334in"}
 > pulsante "Next step" e abilitare poi, nella successiva maschera, il
 > parametro "**Will you use challenges**" evidenziato in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\recaptcha_4a.bmp](./assets/media/image89.png){width="5.33125in"
-height="3.3833333333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\recaptcha_4a.bmp](./assets/media/image89.png)
 
 > impostando anche la difficoltà del challenge che dovrà essere
 > applicata all'interno del sito.
@@ -155,14 +149,12 @@ height="3.3833333333333333in"}
     automaticamente ridiretti alla sezione "**Integration**" del
     pannello di gestione del nostro reCAPTCHA
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\recaptcha_5.bmp](./assets/media/image90.png){width="5.33125in"
-height="3.3895833333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\recaptcha_5.bmp](./assets/media/image90.png)
 
 6.  A questo punto sarà sufficiente copiare la chiave indicata in
     corrispondenza del campo **ID** (nella parte alta della maschera)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\recaptcha_6.bmp](./assets/media/image91.png){width="5.33125in"
-height="3.3895833333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\recaptcha_6.bmp](./assets/media/image91.png)
 
 > ed incollarla all'interno del campo "**Chiave Google Recaptcha**"
 > presente nella sezione "**Google recaptcha**" alla pagina "*Sito --
@@ -172,14 +164,12 @@ height="3.3895833333333334in"}
 > pulsante "**Integrate with a third -party service or plugin**"
 > evidenziato in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\recaptcha_7.bmp](./assets/media/image92.png){width="5.33125in"
-height="3.3895833333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\recaptcha_7.bmp](./assets/media/image92.png)
 
 > In questo modo verrà infatti visualizzata la maschera "Legacy
 > reCAPTCHA"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\recaptcha_8.bmp](./assets/media/image93.png){width="5.33125in"
-height="3.3895833333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\recaptcha_8.bmp](./assets/media/image93.png)
 
 > all'interno della quale potremo prelevare il valore della legacy
 > secret key ed inserirlo, sul Wizard di Passweb, in corrispondenza del
@@ -189,8 +179,7 @@ Una volta terminata la procedura e attivato correttamente il servizio il
 Google Recaptcha potrà essere inserito all'interno di tutti i form del
 sito per i quali è possibile gestire il componente "**Captcha**".
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\recaptcha_9.bmp](./assets/media/image94.png){width="5.954861111111111in"
-height="3.785416666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\recaptcha_9.bmp](./assets/media/image94.png)
 
 **ATTENZIONE!** Nel caso in cui si decida di non attivare il servizio di
 Google sarà comunque possibile inserire all'interno dei vari form del

@@ -10,8 +10,7 @@ visualizzati solo se in fase di configurazione del sito su Matomo il
 parametro "**Ecommerce**" è stato impostato sul valore "**Ecommerce
 Attivato**" come nella figura di seguito riportata
 
-![Videate\\matomo_29.bmp](./assets/media/image47.png){width="5.157638888888889in"
-height="3.532638888888889in"}
+![Videate\\matomo_29.bmp](./assets/media/image47.png)
 
 Una volta attivato in maniera corretta il tracciamento Ecommerce, sia
 lato Matomo che lato Passweb (per maggiori informazioni in merito si

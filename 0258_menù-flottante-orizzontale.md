@@ -7,8 +7,7 @@ visualizzare, in orizzontale, soltanto le voci di menu di primo livello.
 Eventuali sottovoci verranno visualizzate al passaggio del mouse sulle
 voci di livello immediatamente superiore.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\menu_flottante_orizzontale_esempio.bmp](./assets/media/image24.png){width="4.746527777777778in"
-height="1.538888888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\menu_flottante_orizzontale_esempio.bmp](./assets/media/image24.png)
 
 Per realizzare questo tipo di menu è necessario impostare:
 

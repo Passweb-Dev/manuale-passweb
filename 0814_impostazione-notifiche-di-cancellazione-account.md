@@ -21,14 +21,12 @@ richiesto da eBay:
     sul pulsante "**Notification**" relativo alle chiavi dell'ambiente
     di produzione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\eliminazione_utente_ebay.bmp](./assets/media/image17.png){width="6.097222222222222in"
-height="3.325in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\eliminazione_utente_ebay.bmp](./assets/media/image17.png)
 
 3.  Nella sezione "**Alert & Notification**", selezionare l'opzione
     "**Marketplace Account Deletion**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\eliminazione_utente_ebay2.bmp](./assets/media/image18.png){width="6.097222222222222in"
-height="3.325in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\eliminazione_utente_ebay2.bmp](./assets/media/image18.png)
 
 4.  Compilare poi i restanti campi della maschera come di seguito
     indicato:

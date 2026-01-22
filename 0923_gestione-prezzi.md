@@ -14,8 +14,7 @@ gestionali agendo per questo all'interno della sezione "Listini"
 presente nella maschera di configurazione di ogni singola Inserzione
 (sezione "Prezzo, quantità e formato")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\marketplace_prezzo_listini_magento.bmp](./assets/media/image754.png){width="5.792361111111111in"
-height="3.422222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\marketplace_prezzo_listini_magento.bmp](./assets/media/image754.png)
 
 Di seguito vengono indicati gli aspetti fondamentali di cui tener conto
 nella determinazione del prezzo applicato agli articoli pubblicati sulla
@@ -30,8 +29,7 @@ piattaforma terza:
   inserito all'interno del campo "**Price**" della corrispondente
   anagrafica articolo
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\magento_prezzo_articolo.bmp](./assets/media/image755.png){width="5.376388888888889in"
-height="3.363888888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\magento_prezzo_articolo.bmp](./assets/media/image755.png)
 
 - nel caso di prodotti gestiti a confezione i prezzi dei due articoli
   creati su Magento (articolo semplice e articolo bundle) verranno
@@ -45,8 +43,7 @@ height="3.363888888888889in"}
   inserito all'interno del campo "**Special Price**" della
   corrispondente anagrafica articolo
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\magento_prezzo_articolo2.bmp](./assets/media/image756.png){width="5.376388888888889in"
-height="3.363888888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\magento_prezzo_articolo2.bmp](./assets/media/image756.png)
 
 > Lo sconto creato non avrà particolari limitazioni e sarà quindi
 > valido:
@@ -119,8 +116,7 @@ height="3.363888888888889in"}
 > sulla piattaforma terza mediante l'Inserzione in esame verrà creata
 > una specifica entry all'interno della sezione "**Advanced Pricing**"
 
-![Videate\\magento_listini_gruppi.bmp](./assets/media/image380.png){width="4.915277777777778in"
-height="3.532638888888889in"}
+![Videate\\magento_listini_gruppi.bmp](./assets/media/image380.png)
 
 > **valida solo per il gruppo "Rivenditori", dove il prezzo
 > dell'articolo sarà esattamente quello definito in Mexal per il listino

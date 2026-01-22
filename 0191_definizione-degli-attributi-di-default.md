@@ -30,8 +30,7 @@ sul pulsante "**Temi**" presente nel menu di "Editing Sito". In questo
 modo verrà infatti visualizzato, immediatamente a fianco del menu di
 Editing, un ulteriore box
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_editing_gestione_temi.bmp](./assets/media/image326.png){width="5.9631944444444445in"
-height="3.4784722222222224in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\menu_editing_gestione_temi.bmp](./assets/media/image326.png)
 
 all'interno del quale il campo:
 
@@ -45,8 +44,7 @@ all'interno del quale il campo:
 Cliccando dunque su quest'ultimo pulsante verrà visualizzata la maschera
 di "**Gestione Temi"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\temi_3_res.bmp](./assets/media/image327.png){width="6.558333333333334in"
-height="3.4784722222222224in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\temi_3_res.bmp](./assets/media/image327.png)
 
 suddivisa in due distinte sezioni:
 
@@ -62,8 +60,7 @@ necessario portarsi nella relativa sezione, cliccare sul pulsante
 "**Nuovo Attributo**" presente nella contestuale barra degli strumenti,
 e nella successiva maschera indicare un valore per i seguenti campi:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\temi_4_res.bmp](./assets/media/image328.png){width="4.582638888888889in"
-height="1.0430555555555556in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\temi_4_res.bmp](./assets/media/image328.png)
 
 - **Nome Attributo:** consente di assegnare un nome allo specifico
   Attributo che si sta realizzando
@@ -99,13 +96,11 @@ I pulsanti presenti nella barra degli strumenti di questa sezione
 consentiranno rispettivamente di:
 
 **Nuovo Attributo** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuovo_attributo_tema_res.bmp](./assets/media/image329.png){width="0.6194444444444445in"
-height="0.17777777777777778in"} ): consente di creare un nuovo Attributo
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuovo_attributo_tema_res.bmp](./assets/media/image329.png) ): consente di creare un nuovo Attributo
 di Default
 
 **Modifica Attributo** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_attributo_tema_res.bmp](./assets/media/image330.png){width="0.68125in"
-height="0.17777777777777778in"} ): consente di modificare l'Attributo di
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_attributo_tema_res.bmp](./assets/media/image330.png) ): consente di modificare l'Attributo di
 Default attualmente selezionato in elenco
 
 **ATTENZIONE! Una volta creato e definito un Attributo sarà poi
@@ -113,8 +108,7 @@ possibile modificare il valore di Default ad esso associato ma non il
 suo nome**
 
 **Elimina Attributo** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_attributo_tema_res.bmp](./assets/media/image331.png){width="0.6444444444444445in"
-height="0.1840277777777778in"} ): Consente di eliminare l'Attributo
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_attributo_tema_res.bmp](./assets/media/image331.png) ): Consente di eliminare l'Attributo
 attualmente selezionato in elenco.
 
 **ATTENZIONE! Nel momento in cui si dovesse decidere di eliminare un
@@ -125,8 +119,7 @@ inserito l'Attributo che si intende eliminare.**
 Cliccando su questo pulsante verrà quindi visualizzata la sezione
 "**Elimina Attributo**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\temi_8_res.bmp](./assets/media/image332.png){width="4.588888888888889in"
-height="1.4659722222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\temi_8_res.bmp](./assets/media/image332.png)
 
 all'interno della quale il campo:
 
@@ -157,8 +150,7 @@ del sito, si consiglia quindi di utilizzare i relativi pulsanti
 "Seleziona Colore" e "Seleziona Risorsa"**
 
 **Applica Default** (
-![Videate\\pulsante_applica_default_tema.bmp](./assets/media/image333.png){width="0.5763888888888888in"
-height="0.14097222222222222in"} ): consente di applicare a tutti gli
+![Videate\\pulsante_applica_default_tema.bmp](./assets/media/image333.png) ): consente di applicare a tutti gli
 Attributi utilizzati all'interno del sito il loro valore di Default
 deselezionando, di fatto, un eventuale Tema precedentemente impostato.
 

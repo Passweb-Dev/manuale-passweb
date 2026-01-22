@@ -6,8 +6,7 @@ All'interno di questa sezione, accessibile dalla relativa voce di menu
 l'utente ha la possibilità di visualizzare e gestire alcuni parametri di
 configurazione del proprio profilo.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ec_agente_profilo.bmp](./assets/media/image237.png){width="5.616666666666666in"
-height="3.4090277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ec_agente_profilo.bmp](./assets/media/image237.png)
 
 Nello specifico il box:
 

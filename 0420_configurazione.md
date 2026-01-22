@@ -5,8 +5,7 @@
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ordine_custom_configurazione_res.bmp](./assets/media/image283.png){width="4.582638888888889in"
-height="2.9444444444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ordine_custom_configurazione_res.bmp](./assets/media/image283.png)
 
 suddivisa in varie sezioni.
 
@@ -155,8 +154,7 @@ sono gli articoli attualmente in ordine, riepilogo questo che verrà
 visualizzato immediatamente al di sopra della sezione relativa ai totali
 del documento
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\checkout_riepilogo_ordine.bmp](./assets/media/image284.png){width="4.638194444444444in"
-height="3.484722222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\checkout_riepilogo_ordine.bmp](./assets/media/image284.png)
 
 **ATTENZIONE!** Il parametro è visibile solo per "Tipologia Fase
 Checkout = Visualizzazione a Step Orizzontali / Senza Step Affiancato /
@@ -186,16 +184,14 @@ classe addizionale "hidesummary"** (utilizzando per questo l'apposito
 campo presente nella maschera di configurazione di ogni componente
 Passweb)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\checkout_riepilogo_ordine_hidesummary.bmp](./assets/media/image285.png){width="4.595138888888889in"
-height="2.926388888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\checkout_riepilogo_ordine_hidesummary.bmp](./assets/media/image285.png)
 
 Nelle risoluzioni per smartphone l'eventuale riepilogo degli articoli in
 ordine verrà posizionato all'interno di un contenitore collassabile,
 inizialmente chiuso e che potrà o meno essere visualizzato al click su
 di un apposito pulsante.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\checkout_riepilogo_ordine_mobile.bmp](./assets/media/image286.png){width="3.1840277777777777in"
-height="2.9444444444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\checkout_riepilogo_ordine_mobile.bmp](./assets/media/image286.png)
 
 **ATTENZIONE!** La visualizzazione o meno, nelle risoluzioni mobile, del
 totale del documento in corrispondenza del pulsante di apertura /
@@ -408,8 +404,7 @@ anche l'elenco di tali punti vendita e, questi stessi punti vendita
 potranno essere localizzati (posto di aver selezionato il parametro in
 esame) all'interno di una Google Map
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\punti_vendita_ordine.bmp](./assets/media/image287.png){width="4.926388888888889in"
-height="3.435416666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\punti_vendita_ordine.bmp](./assets/media/image287.png)
 
 **ATTENZIONE**! Nel momento in cui si dovesse decidere di non
 visualizzare i Puti Vendita all'interno della Google Map (parametro non
@@ -593,8 +588,7 @@ essere definite direttamente all'interno della sezione "**Gestione
 Contenuti**" presente nella maschera di gestione e configurazione del
 Componente stesso
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\ordine_custom_1_res.bmp](./assets/media/image288.png){width="6.374305555555556in"
-height="5.99375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\ordine_custom_1_res.bmp](./assets/media/image288.png)
 
 **ATTENZIONE!** Come precedentemente evidenziato all'interno di questo
 stesso capitolo, i dati visualizzati per ogni articolo in ordine, sono,
@@ -658,8 +652,7 @@ seguenti opzioni:
 
 - Opposti
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\ordine_riepilogo_totali.bmp](./assets/media/image289.png){width="4.98125in"
-height="4.675in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\ordine_riepilogo_totali.bmp](./assets/media/image289.png)
 
 > Nell'esempio in figura il parametro "**Posizione dei campi di
 > riepilogo dei Totali**" è stato impostato sul valore "**Allineati a

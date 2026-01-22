@@ -37,8 +37,7 @@ impostare, oltre ai parametri classici di configurazione del pagamento,
 anche quelli specifici del gateway attualmente considerato e presenti
 all'interno della sezione "**Parametri Gateway**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_setefi.bmp](./assets/media/image91.png){width="5.779166666666667in"
-height="3.4090277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_setefi.bmp](./assets/media/image91.png)
 
 Nel caso specifico il parametro:
 
@@ -86,8 +85,7 @@ l'ordine sarà memorizzato nel database di Passweb, e l'utente verrà
 reindirizzato alla specifica pagina di accesso del gateway "Moneta Web"
 (attualmente gestito dal gruppo Nexi):
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\setefi_1.bmp](./assets/media/image92.png){width="5.032638888888889in"
-height="3.0131944444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\setefi_1.bmp](./assets/media/image92.png)
 
 **A questo punto però l'ordine non è ancora stato preso in carico dalla
 banca e, conseguentemente, non è ancora avvenuto alcun pagamento**.
@@ -116,8 +114,7 @@ Nel secondo caso (conferma della transazione) dopo aver impostato tutti
 i dati necessari per il pagamento (numero carta, scadenza ecc ...) verrà
 visualizzata una maschera di riepilogo.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\setefi_2.bmp](./assets/media/image93.png){width="5.032638888888889in"
-height="3.0131944444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\setefi_2.bmp](./assets/media/image93.png)
 
 A questo punto l'utente avrà ancora la possibilità di annullare
 l'operazione tornando al sito Ecommerce (pulsante "Annulla operazione").

@@ -22,8 +22,7 @@ Il Crawler Passweb potrà essere lanciato in maniera manuale cliccando
 sul pulsante "**Avvia Crawler**" presente all'interno della maschera
 "**Gestione Cache**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\crawler_passweb_1.bmp](./assets/media/image271.png){width="5.5777777777777775in"
-height="3.5194444444444444in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\crawler_passweb_1.bmp](./assets/media/image271.png)
 
 oppure potrà anche essere lanciato in automatico da Passweb al termine
 di ogni sincronizzazione sito -- gestionale (sia Standard che Totale)
@@ -45,8 +44,7 @@ specifico è bene sottolineare che:
   risultanti dal filtro articoli impostato in corrispondenza del
   parametro "Filtro Articoli Crawler"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\crawler_passweb_filtro_articoli.bmp](./assets/media/image272.png){width="5.5777777777777775in"
-height="3.5194444444444444in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\crawler_passweb_filtro_articoli.bmp](./assets/media/image272.png)
 
 > Considerando infatti che un sito Ecommerce potrebbe avere anche
 > migliaia di pagine e che il processo di scansione dovrebbe comunque

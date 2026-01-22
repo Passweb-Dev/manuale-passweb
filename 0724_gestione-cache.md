@@ -9,8 +9,7 @@ proprio sito web.
 **ATTENZIONE! per poter accedere a questa sezione è necessario aver
 acquistato il corrispondente modulo presente all'interno di Passstore**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_cache_1.bmp](./assets/media/image259.png){width="5.850694444444445in"
-height="3.863888888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_cache_1.bmp](./assets/media/image259.png)
 
 I parametri presenti all'interno della sezione "Generale" consentono
 rispettivamente di:
@@ -114,8 +113,7 @@ della cache*" di questo manuale
 All'interno della sezione "**Tipologia di Cache**" sono indicate le
 tipologie di cache gestite da Passweb
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tipologie_cache.bmp](./assets/media/image260.png){width="5.5777777777777775in"
-height="3.5194444444444444in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tipologie_cache.bmp](./assets/media/image260.png)
 
 Come si può facilmente osservare, al momento, Passweb gestisce solamente
 un cache di pagina che, se attivata, consentirà di salvare il codice
@@ -134,8 +132,7 @@ I pulsanti presenti all'interno della sezione "**Gestione Cache**"
 (molti dei quali visualizzati solo dopo aver confermato l'attivazione
 della cache) consentono infine di:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsanti_gestione_cache.bmp](./assets/media/image261.png){width="5.5777777777777775in"
-height="3.5194444444444444in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsanti_gestione_cache.bmp](./assets/media/image261.png)
 
 **Evidenziatore** ( ): consente di evidenziare, all'interno del Live
 Editing gli elementi che, in fase di visualizzazione della pagina,
@@ -152,21 +149,18 @@ una versione "particolare" del front end del sito. Nella parte bassa,
 sulla sinistra della pagina, verrà visualizzata un'icona raffigurante
 una piccola puntina.
 
-![Videate\\evidenziatore_cache.bmp](./assets/media/image262.png){width="5.850694444444445in"
-height="3.8180555555555555in"}
+![Videate\\evidenziatore_cache.bmp](./assets/media/image262.png)
 
 Cliccando su quest'icona, verranno quindi evidenziati, con un riquadro
 rosso, tutti i componenti presenti all'interno della pagina che sono
 stati prelevati direttamente dalla cache del sito.
 
 **Reset Cache** (
-![Videate\\pulsante_reset_cache.bmp](./assets/media/image263.png){width="0.6625in"
-height="0.2076388888888889in"} ): consente di effettuare il reset, e
+![Videate\\pulsante_reset_cache.bmp](./assets/media/image263.png) ): consente di effettuare il reset, e
 quindi di azzerare, l'intera cache del sito. Lo stesso risultato si
 otterrebbe anche effettuando il flush della cache di pagina mediante il
 corrispondente pulsante ("**Flush Cache**"
-![Videate\\pulsante_flush_cache.bmp](./assets/media/image264.png){width="0.6361111111111111in"
-height="0.21458333333333332in"} ) presente all'interno della sezione
+![Videate\\pulsante_flush_cache.bmp](./assets/media/image264.png) ) presente all'interno della sezione
 "Tipologie di Cache"
 
 Per maggiori informazioni relativamente alle operazioni di flush della
@@ -187,8 +181,7 @@ Per maggiori informazioni in merito si veda anche quanto indicato
 all'interno del successivo capitolo " *Crawler Passweb*".
 
 **Log Crawler** (
-![Videate\\pulsante_log_crawler.bmp](./assets/media/image265.png){width="0.6430555555555556in"
-height="0.2076388888888889in"} ): consente di scaricare un file di log
+![Videate\\pulsante_log_crawler.bmp](./assets/media/image265.png) ): consente di scaricare un file di log
 contenente i dettagli relativi alle pagine visitate dal Crawler Passweb
 durante l'ultima scansione del sito.
 
@@ -409,11 +402,9 @@ Nello specifico è bene sottolineare che:
 > rossa, sia all'interno della pagina di gestione della cache sia nella
 > parte alta del menu di navigazione.
 
-![Videate\\gestione_cache_6.bmp](./assets/media/image266.png){width="5.5777777777777775in"
-height="3.5194444444444444in"}
+![Videate\\gestione_cache_6.bmp](./assets/media/image266.png)
 
-![Videate\\gestione_cache_7.bmp](./assets/media/image267.png){width="5.746527777777778in"
-height="3.5194444444444444in"}
+![Videate\\gestione_cache_7.bmp](./assets/media/image267.png)
 
 **ATTENZIONE!** **Per ovvie ragioni, in fase di sviluppo del sito, è
 consigliabile NON abilitare la cache (indipendentemente dalla tipologia

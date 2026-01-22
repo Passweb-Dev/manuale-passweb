@@ -20,8 +20,7 @@ All'interno della maschera Promozioni verranno quindi visualizzate tutte
 le Promozioni attive all'interno del sito e che sono state utilizzate
 almeno una volta all'interno di un documento.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\statistiche_promozioni_0.bmp](./assets/media/image21.png){width="6.0125in"
-height="3.5340277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\statistiche_promozioni_0.bmp](./assets/media/image21.png)
 
 E' possibile filtrare i dati in elenco in base al Nome / Ragione Sociale
 / Email del cliente intestatario dell\'ordine (campo "**Nome / Ragione
@@ -54,8 +53,7 @@ accedere ad ulteriori dettagli relativi alla promozione in questione.
 In questo modo verranno infatti visualizzate le righe di tutte le
 matrici Passweb coinvolte nella Promozione selezionata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\statistiche_promozioni_1.bmp](./assets/media/image22.png){width="6.0125in"
-height="3.5340277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\statistiche_promozioni_1.bmp](./assets/media/image22.png)
 
 e per ciascuna di esse verranno visualizzate le seguenti informazioni:
 
@@ -80,8 +78,7 @@ Cliccando su ciascuna delle righe presenti all'interno di questa
 maschera, sarà possibile accedere anche al dettaglio dell'intera matrice
 in cui è stata utilizzata la relativa promozione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\statistiche_promozioni_2.bmp](./assets/media/image23.png){width="6.0125in"
-height="3.5340277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\statistiche_promozioni_2.bmp](./assets/media/image23.png)
 
 Il link presente nella parte alta della maschera di dettaglio, in
 corrispondenza della voce "**Documenti Correlati**", consente di passare
@@ -89,8 +86,7 @@ dal dettaglio della matrice a quello del relativo ordine e viceversa,
 mentre quello presente in corrispondenza degli articoli coinvolti nella
 promozione consente di visualizzare il nome della promozione utilizzata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\statistiche_promozioni_3.bmp](./assets/media/image24.png){width="6.0125in"
-height="3.5340277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\statistiche_promozioni_3.bmp](./assets/media/image24.png)
 
 Volendo, infine, è anche possibile esportare, in formato csv, i dati
 relativi alle statistiche di utilizzo delle Promozioni.
@@ -99,8 +95,7 @@ Per far questo è sufficiente selezionare uno dei formati di esportazione
 presenti nel menu a tendina evidenziato in figura e cliccare poi sul
 pulsante "**Esporta**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\statistiche_promozioni_4.bmp](./assets/media/image25.png){width="6.0125in"
-height="3.5340277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\statistiche_promozioni_4.bmp](./assets/media/image25.png)
 
 Nello specifico l'opzione:
 

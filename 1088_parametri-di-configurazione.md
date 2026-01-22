@@ -5,8 +5,7 @@
 Per ciascun Costo associato ad una determinata Spesa Accessoria è
 possibile impostare i seguenti parametri di configurazione:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_costo.bmp](./assets/media/image430.png){width="5.779166666666667in"
-height="3.5256944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_costo.bmp](./assets/media/image430.png)
 
 **Descrizione:** etichetta identificativa del costo che si sta
 codificando
@@ -185,8 +184,7 @@ E' possibile selezionare uno dei seguenti valori:
   funzionalità Mexal **"Spese di trasporto a Scaglioni" (**opzione
   "**Misuratore**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\costo_accessorio_tipo_campo_1.bmp](./assets/media/image431.png){width="5.779166666666667in"
-height="3.5256944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\costo_accessorio_tipo_campo_1.bmp](./assets/media/image431.png)
 
 - **Attributo Articolo**: in queste condizioni sarà possibile decidere
   di utilizzare come campo per il calcolo dello scaglione,
@@ -194,8 +192,7 @@ height="3.5256944444444445in"}
   successivo parametro (**Attributo**), uno degli Attributi articolo
   Passweb appositamente creati per questo scopo
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\costo_accessorio_tipo_campo_2.bmp](./assets/media/image432.png){width="5.779166666666667in"
-height="3.5256944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\costo_accessorio_tipo_campo_2.bmp](./assets/media/image432.png)
 
 **ATTENZIONE!** All'interno del menu a tendina verranno visualizzati
 solo ed esclusivamente Attributi Articolo di tipo "**Testo**" o

@@ -12,8 +12,7 @@ la prenotazione dovrebbe fare riferimento, cliccando sul pulsante
 "**Procedi**" l'utente verrà immediatamente ricondotto alla pagina di
 riepilogo per la conferma della prenotazione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\menu_conferma_prenotazione.bmp](./assets/media/image358.png){width="5.1409722222222225in"
-height="4.208333333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\menu_conferma_prenotazione.bmp](./assets/media/image358.png)
 
 I dati della prenotazione saranno inserito all'interno di una griglia
 responsiva le cui colonne possono essere definite direttamente
@@ -29,8 +28,7 @@ all'interno del gestionale, dove verrà memorizzata nello stato di
 annullare la prenotazione direttamente all'interno del gestionale
 Ho.Re.Ca.**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\menu_conferma_prenotazione2.bmp](./assets/media/image359.png){width="6.742361111111111in"
-height="4.5152777777777775in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\menu_conferma_prenotazione2.bmp](./assets/media/image359.png)
 
 Alla conferma e/o all'annullamento di una prenotazione all'interno del
 gestionale, il gestionale stesso, se correttamente configurato, potrà

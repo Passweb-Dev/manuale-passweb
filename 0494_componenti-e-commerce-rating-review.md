@@ -4,8 +4,7 @@
 
 Il Componente **"Rating Review"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_rating_review_res.bmp](./assets/media/image567.png){width="2.5458333333333334in"
-height="3.1347222222222224in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_rating_review_res.bmp](./assets/media/image567.png)
 
 può essere inserito solo ed esclusivamente all'interno di quei
 componenti di primo livello che, come il Catalogo Ecommerce, vengono
@@ -16,8 +15,7 @@ articolo presente nel corrispondente componente di primo livello, il
 valore medio (in un range che va da 1 a 5 stelle), delle valutazioni
 assegnate dagli utenti del sito allo specifico prodotto.
 
-![\\\\192.168.0.84\\d\$\\ManPassweb_Ecommerce\\Videate\\rating_review_esempio.bmp](./assets/media/image568.png){width="6.0125in"
-height="4.374305555555556in"}
+![\\\\192.168.0.84\\d\$\\ManPassweb_Ecommerce\\Videate\\rating_review_esempio.bmp](./assets/media/image568.png)
 
 **Ovviamente, affinché il componente possa funzionare in maniera
 corretta, è necessario gestire all'interno del sito anche i componenti
@@ -47,8 +45,7 @@ dettaglio dei voti assegnati al relativo prodotto. In questo modo sarà
 quindi possibile sapere esattamente quante recensioni hanno assegnato al
 prodotto 5 stelle, quante 4, quante 3 ecc...
 
-![\\\\192.168.0.84\\d\$\\ManPassweb_Ecommerce\\Videate\\rating_review_istogramma.bmp](./assets/media/image569.png){width="5.276388888888889in"
-height="4.564583333333333in"}
+![\\\\192.168.0.84\\d\$\\ManPassweb_Ecommerce\\Videate\\rating_review_istogramma.bmp](./assets/media/image569.png)
 
 All'interno del tooltip, come mostrato nella figura sopra riportata,
 verrà infine visualizzato il valore esatto della media dei voti
@@ -58,8 +55,7 @@ Rilasciando il Componente nella posizione desiderata all'interno della
 pagina, verrà visualizzata **la sua maschera di gestione e
 configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\rating_review_configurazione_res.bmp](./assets/media/image570.png){width="4.607638888888889in"
-height="2.938888888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\rating_review_configurazione_res.bmp](./assets/media/image570.png)
 
 suddivisa in varie sezioni.
 
@@ -111,24 +107,21 @@ possibile impostare un valore per i seguenti parametri:
     eventuali immagini personalizzate) che indicheranno il valore medio
     dei voti ricevuti dal prodotto.
 
-![\\\\192.168.0.84\\d\$\\ManPassweb_Ecommerce\\Videate\\rating_review_no_recensioni.bmp](./assets/media/image571.png){width="3.870833333333333in"
-height="3.607638888888889in"}
+![\\\\192.168.0.84\\d\$\\ManPassweb_Ecommerce\\Videate\\rating_review_no_recensioni.bmp](./assets/media/image571.png)
 
 - **Numero totale recensioni senza testo:** in questo caso verrà
   visualizzato all'interno del componente, oltre alle 5 stelle (o alle
   eventuali immagini personalizzate) anche il numero totale delle
   recensioni ottenute dallo specifico prodotto
 
-![\\\\192.168.0.84\\d\$\\ManPassweb_Ecommerce\\Videate\\rating_review_tot_recensioni.bmp](./assets/media/image572.png){width="3.2881944444444446in"
-height="3.675in"}
+![\\\\192.168.0.84\\d\$\\ManPassweb_Ecommerce\\Videate\\rating_review_tot_recensioni.bmp](./assets/media/image572.png)
 
 - **Numero totale recensioni con testo:** in questo caso verrà
   visualizzato all'interno del componente, oltre alle 5 stelle (o alle
   eventuali immagini personalizzate) anche il numero totale delle
   recensioni ottenute dal prodotto con a fianco una specifica label
 
-![\\\\192.168.0.84\\d\$\\ManPassweb_Ecommerce\\Videate\\rating_review_testo_recensioni.bmp](./assets/media/image573.png){width="2.9756944444444446in"
-height="3.147222222222222in"}
+![\\\\192.168.0.84\\d\$\\ManPassweb_Ecommerce\\Videate\\rating_review_testo_recensioni.bmp](./assets/media/image573.png)
 
 **NOTA BENE**: negli ultimi due casi il testo con il totale delle
 recensioni sarà un link che porterà direttamente alla specifica sezione
@@ -148,8 +141,7 @@ recensioni.
     assegnato allo specifico prodotto 5 stelle, quante 4, quante 3
     ecc...
 
-![\\\\192.168.0.84\\d\$\\ManPassweb_Ecommerce\\Videate\\rating_review_istogramma.bmp](./assets/media/image569.png){width="5.276388888888889in"
-height="4.564583333333333in"}
+![\\\\192.168.0.84\\d\$\\ManPassweb_Ecommerce\\Videate\\rating_review_istogramma.bmp](./assets/media/image569.png)
 
 > All'interno del tooltip, come mostrato nella figura sopra riportata,
 > verrà visualizzato il valore esatto della media dei voti assegnati
@@ -163,8 +155,7 @@ height="4.564583333333333in"}
 > risultato ottenuto all'interno del sito. Per fare questo è sufficiente
 > cliccare sul piccolo segno + posto a fianco del componente
 
-![\\\\192.168.0.84\\d\$\\ManPassweb_Ecommerce\\Videate\\grafica_istogramma.bmp](./assets/media/image574.png){width="4.98125in"
-height="3.754861111111111in"}
+![\\\\192.168.0.84\\d\$\\ManPassweb_Ecommerce\\Videate\\grafica_istogramma.bmp](./assets/media/image574.png)
 
 > Il pulsante raffigurante un piccolo segno -- consente invece di
 > chiudere il Popup dell'istogramma e di tornare quindi nelle condizioni

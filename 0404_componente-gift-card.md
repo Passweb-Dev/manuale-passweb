@@ -4,8 +4,7 @@
 
 Il componente "**Gift Card**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_giftcard.bmp](./assets/media/image245.png){width="2.595138888888889in"
-height="3.1041666666666665in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_giftcard.bmp](./assets/media/image245.png)
 
 **può essere inserito unicamente all'interno dell'omonima pagina** ed è
 di fondamentale importanza per poter consentire una corretta gestione

@@ -7,8 +7,7 @@ essere gestito il blocco preventivo dei cookie, anche in relazione
 all'utilizzo della Consent Mode e ovviamente alla specifica piattaforma
 CMP che si è deciso di utilizzare.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_preferenze_integrazioni_blocco_cookie_1.bmp](./assets/media/image175.png){width="5.740277777777778in"
-height="3.623611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_preferenze_integrazioni_blocco_cookie_1.bmp](./assets/media/image175.png)
 
 In questo senso è bene sottolineare che, al momento, è possibile
 integrare con il proprio sito Passweb una delle seguenti piattaforme
@@ -238,8 +237,7 @@ solo se:
 
 - **Blocco Preventivo dei Cookie = CookieBot + Consent Mode (v2)**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\analytics_valori_consent_default.bmp](./assets/media/image176.png){width="5.740277777777778in"
-height="3.3506944444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\analytics_valori_consent_default.bmp](./assets/media/image176.png)
 
 I parametri presenti all'interno di questa sezione consentono di
 impostare il valore di default (Denied o Granted) per le diverse

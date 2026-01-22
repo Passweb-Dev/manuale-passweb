@@ -27,8 +27,7 @@ acquisiti direttamente da Magento.
   automaticamente **una nota di corpo contenente la data e
   l'identificativo assegnati all'ordine stesso su Magento**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\magento_sincro_ordini_2.bmp](./assets/media/image816.png){width="5.220833333333333in"
-height="2.6041666666666665in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\magento_sincro_ordini_2.bmp](./assets/media/image816.png)
 
 - Nel momento in cui nell'ordine Magento dovessero essere presenti
   articoli con Custom Option i valori impostati dall'utente
@@ -36,8 +35,7 @@ height="2.6041666666666665in"}
   verranno inseriti nel corpo del documento esattamente come se
   arrivassero da un ordine Passweb
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\magento_ordine_custom_option.bmp](./assets/media/image817.png){width="5.220833333333333in"
-height="2.6041666666666665in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\magento_ordine_custom_option.bmp](./assets/media/image817.png)
 
 > Per maggiori informazioni relativamente a come Passweb tratta le
 > Custom Option si veda anche quanto indicato all'interno del capitolo
@@ -97,6 +95,5 @@ height="2.6041666666666665in"}
 > ad esempio, all'interno del campo "**Nota sulla Fattura**" presente
 > nella sezione "Ordini" dell' Account Magento utilizzato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\magento_note_fattura.bmp](./assets/media/image818.png){width="5.792361111111111in"
-height="3.422222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\magento_note_fattura.bmp](./assets/media/image818.png)
 

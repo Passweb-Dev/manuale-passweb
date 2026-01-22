@@ -17,8 +17,7 @@ categoria merceologica.
 All'interno di questa pagina verrà visualizzata la maschera "**Set di
 Attributi**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\set_attributi.bmp](./assets/media/image125.png){width="5.604166666666667in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\set_attributi.bmp](./assets/media/image125.png)
 
 contenente l' elenco dei Set di Attributi attualmente gestiti
 all'interno del sito.
@@ -32,13 +31,11 @@ I pulsanti presenti nella barra principale degli strumenti consentono
 rispettivamente di:
 
 **Nuovo**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuovo.bmp](./assets/media/image88.png){width="0.325in"
-height="0.1951388888888889in"} ): consente di definire un nuovo Set di
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuovo.bmp](./assets/media/image88.png) ): consente di definire un nuovo Set di
 Attributi. Cliccando su questo pulsante verrà infatti visualizzata la
 maschera "**Set di Attributi**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\set_attributi_nuovo.bmp](./assets/media/image126.png){width="5.363888888888889in"
-height="3.3048611111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\set_attributi_nuovo.bmp](./assets/media/image126.png)
 
 all'interno della quale poter definire le caratteristiche del set in
 oggetto.
@@ -90,8 +87,7 @@ seguenti parametri:
 > quale verranno elencati i singoli attributi facenti parte del gruppo
 > selezionato.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\set_attributi_nuovo2.bmp](./assets/media/image127.png){width="5.441666666666666in"
-height="3.3506944444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\set_attributi_nuovo2.bmp](./assets/media/image127.png)
 
 - **Categorie Merceologiche:** all'interno di questa sezione è possibile
   indicare la/le specifiche categorie merceologiche cui associare il set
@@ -109,18 +105,15 @@ height="3.3506944444444446in"}
 > Passepartout**
 
 **Modifica**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica.bmp](./assets/media/image43.png){width="0.3958333333333333in"
-height="0.18819444444444444in"} ): consente di modificare le
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica.bmp](./assets/media/image43.png) ): consente di modificare le
 caratteristiche del set di attributi attualmente selezionato in elenco
 
 **Elimina**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina.bmp](./assets/media/image114.png){width="0.3506944444444444in"
-height="0.18819444444444444in"} ): consente di eliminare il set di
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina.bmp](./assets/media/image114.png) ): consente di eliminare il set di
 attributi attualmente selezionato in elenco
 
 **Copia**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_copia.bmp](./assets/media/image128.png){width="0.31180555555555556in"
-height="0.18819444444444444in"} ): consente di effettuare una copia del
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_copia.bmp](./assets/media/image128.png) ): consente di effettuare una copia del
 set di attributi attualmente selezionato in elenco
 
 **NOTA BENE**: per poter associare ad un certo articolo un singolo
@@ -130,8 +123,7 @@ questo stesso articolo un set di attributi comprendente l'attributo o il
 gruppo di attributi desiderato.
 
 **Combinazioni**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_combinazioni.bmp](./assets/media/image129.png){width="0.5194444444444445in"
-height="0.16875in"} ): consente di definire le possibili combinazioni di
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_combinazioni.bmp](./assets/media/image129.png) ): consente di definire le possibili combinazioni di
 attributi per il set in esame. Tali combinazioni verranno poi utilizzate
 per definire le possibili opzioni di scelta dei campi presenti
 all'interno di un pannello di ricerca articoli nel momento in cui questo
@@ -147,8 +139,7 @@ questo manuale.
 Cliccando su questo pulsante verrà quindi visualizzata la maschera
 **Combinazioni di Attributi**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\combinazioni_attributi_1.bmp](./assets/media/image130.png){width="5.604166666666667in"
-height="3.5256944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\combinazioni_attributi_1.bmp](./assets/media/image130.png)
 
 contenente l'elenco delle combinazioni attualmente definite per il set
 in oggetto.
@@ -163,13 +154,11 @@ I pulsanti presenti nella barra degli strumenti consentono
 rispettivamente:
 
 - **Svuota**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_svuota.bmp](./assets/media/image131.png){width="0.3375in"
-  height="0.2076388888888889in"} ): consente di eliminare tutte le
+  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_svuota.bmp](./assets/media/image131.png) ): consente di eliminare tutte le
   combinazioni di attributi attualmente presenti in elenco
 
 - **Elimina**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina.bmp](./assets/media/image114.png){width="0.3506944444444444in"
-  height="0.18819444444444444in"} ): consente di eliminare la
+  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina.bmp](./assets/media/image114.png) ): consente di eliminare la
   combinazione di attributi attualmente selezionata in elenco
 
 > **ATTENZIONE!** l'eliminazione di una combinazione di attributi e/o
@@ -197,21 +186,18 @@ rispettivamente:
 <!-- -->
 
 - **Modifica**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica.bmp](./assets/media/image43.png){width="0.3958333333333333in"
-  height="0.18819444444444444in"} ): consente di modificare la
+  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica.bmp](./assets/media/image43.png) ): consente di modificare la
   combinazione di attributi attualmente selezionata in elenco
 
 - **Nuova**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuova.bmp](./assets/media/image132.png){width="0.31805555555555554in"
-  height="0.1951388888888889in"} ): consente di definire una nuova
+  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuova.bmp](./assets/media/image132.png) ): consente di definire una nuova
   possibile combinazione di attributi per il set in oggetto.
 
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 **Combinazione** contenente tutti gli attributi associati al set in
 esame (ordinati in base alla loro posizione all'interno del set).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\combinazioni_attributi_2.bmp](./assets/media/image133.png){width="5.604166666666667in"
-height="3.5256944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\combinazioni_attributi_2.bmp](./assets/media/image133.png)
 
 Per definire una nuova combinazione di attributi sarà quindi necessario
 selezionare, per ogni attributo presente all'interno di questa maschera,
@@ -229,8 +215,7 @@ esame assume in corrispondenza di ogni singolo articolo gestito
 all'interno del sito
 
 - **Importa**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_importa.bmp](./assets/media/image134.png){width="0.3506944444444444in"
-  height="0.175in"} ): consente di importare una serie di possibili
+  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_importa.bmp](./assets/media/image134.png) ): consente di importare una serie di possibili
   combinazioni di attributi da un file .csv o .txt.
 
 > Cliccando su questo pulsante verrà infatti visualizzata la maschera
@@ -238,8 +223,7 @@ all'interno del sito
 > effettuare l'import del file con le possibili combinazioni di
 > attributi.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\combinazioni_attributi_3.bmp](./assets/media/image135.png){width="5.604166666666667in"
-height="3.5256944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\combinazioni_attributi_3.bmp](./assets/media/image135.png)
 
 > Nello specifico, all'interno di questa maschera sarà necessario
 > indicare:
@@ -295,16 +279,14 @@ avvenire in maniera manuale operando direttamente all'interno del Wizard
 del sito.
 
 - **Esporta**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_esporta_testo.bmp](./assets/media/image136.png){width="0.3506944444444444in"
-  height="0.18194444444444444in"} ): consente di esportare all'interno
+  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_esporta_testo.bmp](./assets/media/image136.png) ): consente di esportare all'interno
   di un file csv l'elenco delle possibili combinazioni di attributi
   attualmente codificate.
 
 > Cliccando su questo pulsante verrà infatti visualizzata la maschera di
 > esportazione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\esportazione_combinazioni_attributi.bmp](./assets/media/image137.png){width="5.604166666666667in"
-height="3.5256944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\esportazione_combinazioni_attributi.bmp](./assets/media/image137.png)
 
 > all'interno della quale poter indicare (campo**Separatore**) il
 > carattere che dovrà essere utilizzato all'interno del file come

@@ -13,8 +13,7 @@ qualsiasi pagina di un sito Hotel troveremo tra i suoi parametri di
 configurazione, in corrispondenza del campo "**Tipo Valore**", anche
 l'opzione "**Richiesta di Passepartout Welcome**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_welcome_configurazione.bmp](./assets/media/image7.png){width="4.411111111111111in"
-height="3.097916666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_welcome_configurazione.bmp](./assets/media/image7.png)
 
 Selezionando questa opzione, disponibile solo nel caso in cui il form
 sia stato inserito all'interno di una pagina di un sito Hotel (tipologia
@@ -22,8 +21,7 @@ sia stato inserito all'interno di una pagina di un sito Hotel (tipologia
 automaticamente una richiesta che verrà inserita all'interno della
 corrispondente sezione del gestionale (menu "*Richieste*")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\welcome_richieste_prenotazione.bmp](./assets/media/image8.png){width="5.723611111111111in"
-height="3.33125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\welcome_richieste_prenotazione.bmp](./assets/media/image8.png)
 
 Il campo "**Invia Email di Riepilogo al Cliente**", anch'esso
 visualizzato solo nel caso in cui il campo "**Tipo Valore**" sia stato

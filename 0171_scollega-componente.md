@@ -3,13 +3,11 @@
 
 
 L'icona "**Scollega Componente**" (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_scollega.bmp](./assets/media/image229.png){width="0.12291666666666666in"
-height="0.11666666666666667in"} ) presente nel R.O.C. del componente e/o
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_scollega.bmp](./assets/media/image229.png) ) presente nel R.O.C. del componente e/o
 nella barra degli strumenti dell' Albero dei Componenti consente di
 scollegare il Componente in esame dalla pagina corrente
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\scollega_componente.bmp](./assets/media/image230.png){width="5.779166666666667in"
-height="3.4972222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\scollega_componente.bmp](./assets/media/image230.png)
 
 **ATTENZIONE!** Questo tipo di azione è possibile unicamente nel caso in
 cui il Componente in esame sia distribuito su più pagine diverse.

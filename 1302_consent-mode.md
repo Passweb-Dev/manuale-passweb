@@ -93,8 +93,7 @@ inclusa la misurazione delle conversioni presenti sul sito**.
 Corrisponde al "**Consenso Marketing**" presente nel cookie banner della
 CMP in uso al sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\CMP_consenso_marketing.bmp](./assets/media/image7.png){width="2.9555555555555557in"
-height="2.395138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\CMP_consenso_marketing.bmp](./assets/media/image7.png)
 
 A seconda della scelta effettuata dall'utente in merito a questa
 specifica tipologia di consenso, il tag o lo script in uso al sito andrà
@@ -122,8 +121,7 @@ Base o Avanzata, potrebbe comunque essere ancora possibile inviare ad
 Analytics dati di tracciamento e sulle conversioni, anche se,
 ovviamente, ad un livello più aggregato (mediante specifici ping)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ga4_63.bmp](./assets/media/image8.png){width="3.6430555555555557in"
-height="1.8215277777777779in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ga4_63.bmp](./assets/media/image8.png)
 
 Lo stesso Google afferma che
 (<https://blog.google/products/marketingplatform/360/conversion-modeling-through-consent-mode-google-ads/>
@@ -170,8 +168,7 @@ ad_storage, ad_user_data e ad_personalization
 Corrisponde al "**Consenso Misurazione**" presente nel cookie banner
 della CMP in uso al sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\CMP_consenso_misurazione.bmp](./assets/media/image9.png){width="2.936111111111111in"
-height="2.401388888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\CMP_consenso_misurazione.bmp](./assets/media/image9.png)
 
 In conseguenza di ciò nel momento in cui un utente dovesse accettare i
 cookie analitici/statistici, questi verranno utilizzati normalmente e il
@@ -205,8 +202,7 @@ impostazioni relative alla lingua)
 Corrisponde al "**Consenso Funzionalità**" presente nel cookie banner
 della CMP in uso al sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\CMP_consenso_funzionalita.bmp](./assets/media/image10.png){width="2.936111111111111in"
-height="2.401388888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\CMP_consenso_funzionalita.bmp](./assets/media/image10.png)
 
 **[personalization_storage]{.underline}**
 
@@ -217,8 +213,7 @@ video). Non riguarda l'advertising
 Corrisponde al "**Consenso Esperienza**" presente nel cookie banner
 della CMP in uso al sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\CMP_consenso_esperienza.bmp](./assets/media/image11.png){width="2.936111111111111in"
-height="2.395138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\CMP_consenso_esperienza.bmp](./assets/media/image11.png)
 
 **[security_storage]{.underline}**
 
@@ -232,8 +227,7 @@ In genere questo consenso rientra come parte della categoria
 disattivabile), proprio perché senza questi cookie il sito potrebbe non
 funzionare correttamente dal punto di vista della sicurezza
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\CMP_consenso_necessari.bmp](./assets/media/image12.png){width="2.942361111111111in"
-height="2.3881944444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\CMP_consenso_necessari.bmp](./assets/media/image12.png)
 
 **ATTENZIONE!** sulla base di quanto detto, di fatto i consensi che
 regolano l'utilizzo dei cookie da parte di Google Analytics sono

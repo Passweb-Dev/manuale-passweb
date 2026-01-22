@@ -7,8 +7,7 @@ risultati di una ricerca sugli articoli presenti all'interno del proprio
 sito, effettuata mediante un componente "Ricerca sul Sito"
 opportunamente configurato.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_risultati_ricerca_sito_res.bmp](./assets/media/image56.png){width="2.3555555555555556in"
-height="2.8159722222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_risultati_ricerca_sito_res.bmp](./assets/media/image56.png)
 
 **ATTENZIONE! Questo componente potrà essere inserito all'interno di una
 qualsiasi pagina del sito ma dovrà, in ogni caso, essere sempre

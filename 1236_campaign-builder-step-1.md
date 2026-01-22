@@ -2,8 +2,7 @@
 
 
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_step_46.bmp](./assets/media/image27.png){width="6.398611111111111in"
-height="4.392361111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_step_46.bmp](./assets/media/image27.png)
 
 In questo STEP è necessario selezionare, tra le liste precedentemente
 realizzate, quella cui si vuole inviare la campagna, decidendo, inoltre
@@ -13,8 +12,7 @@ solamente ad alcuni di essi.
 Nel primo caso (invio della campagna a tutti gli iscritti) sarà
 sufficiente selezionare l'opzione **"Send To Entire List"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_step_47.bmp](./assets/media/image28.png){width="6.398611111111111in"
-height="4.392361111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_step_47.bmp](./assets/media/image28.png)
 
 Nel caso in cui invece l'esigenza sia quella di inviare la campagna solo
 ed esclusivamente ad alcuni iscritti alla lista, sarà necessario
@@ -22,8 +20,7 @@ selezionare l'opzione **"Send to a group or new segment",** aprendo così
 un'ulteriore sezione all'interno della quale sarà possibile impostare il
 filtro di selezione dei destinatari.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_step_48.bmp](./assets/media/image29.png){width="6.398611111111111in"
-height="4.392361111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_step_48.bmp](./assets/media/image29.png)
 
 Per poter creare un nuovo filtro occorrerà per prima cosa impostare un
 valore per il campo "**Subsribers match"** selezionandolo tra le due
@@ -88,6 +85,5 @@ filtro di selezione utenti, occorrerà quindi cliccare sul pulsante
 "**Next**", presente nella parte bassa della pagina per passare allo
 step successivo
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_step_50.bmp](./assets/media/image30.png){width="6.398611111111111in"
-height="4.392361111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mailchimp_step_50.bmp](./assets/media/image30.png)
 

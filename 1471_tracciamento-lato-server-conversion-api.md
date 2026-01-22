@@ -89,8 +89,7 @@ Facebook mediante Conversion API.
 - Accedere al proprio Account **Business Manager**, aprire il menu
   "**Tutti gli Strumenti**" e selezionare la voce "**Gestione Eventi**"
 
-![Videate\\facebook_tracciamento_client_1.bmp](./assets/media/image1.png){width="5.2340277777777775in"
-height="3.532638888888889in"}
+![Videate\\facebook_tracciamento_client_1.bmp](./assets/media/image1.png)
 
 > **ATTENZIONE!** l'Accesso Token necessario per attivare le Conversion
 > API, così come il Pixel di Facebook, può essere generato unicamente
@@ -108,41 +107,35 @@ height="3.532638888888889in"}
   sul pulsante verde raffigurante un piccolo + (**Collega origini dei
   dati**)
 
-![Videate\\facebook_tracciamento_client_2.bmp](./assets/media/image2.png){width="5.2340277777777775in"
-height="3.532638888888889in"}
+![Videate\\facebook_tracciamento_client_2.bmp](./assets/media/image2.png)
 
 > Selezionare quindi l' opzione "**Web**" e cliccare sul pulsante
 > "**Collega**"
 
-![Videate\\tracking-facebook-3.bmp](./assets/media/image9.png){width="5.590972222222222in"
-height="3.33125in"}
+![Videate\\tracking-facebook-3.bmp](./assets/media/image9.png)
 
 > Successivamente selezionare l'opzione "**API Conversion**" e cliccare
 > ancora una volta sul pulsante "**Collega**"
 
-![Videate\\tracking-facebook-4.bmp](./assets/media/image10.png){width="5.590972222222222in"
-height="3.33125in"}
+![Videate\\tracking-facebook-4.bmp](./assets/media/image10.png)
 
 - Nella successiva maschera assegnare un nome al Pixel (campo "**Assegna
   un nome al tuo pixel**") e cliccare poi sul pulsante "**Continua**"
 
-![Videate\\tracking-facebook-5.bmp](./assets/media/image11.png){width="5.590972222222222in"
-height="3.33125in"}
+![Videate\\tracking-facebook-5.bmp](./assets/media/image11.png)
 
 - A questo punto si apriranno una serie di pop up di presentazione della
   Conversion API. Saltarli tutti (pulsante "**Avanti**") fino ad
   arrivare alla maschera "**Collega l'attività del sito web usando l'API
   Conversions**" di seguito evidenziata
 
-![Videate\\tracking-facebook-6.bmp](./assets/media/image12.png){width="5.590972222222222in"
-height="3.33125in"}
+![Videate\\tracking-facebook-6.bmp](./assets/media/image12.png)
 
 > Cliccare quindi sul pulsante "**Installa codice manualmente**"
 
 - Nella schermata successiva cliccare sul pulsante "**Continua**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tracking-facebook-7.bmp](./assets/media/image13.png){width="5.2340277777777775in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tracking-facebook-7.bmp](./assets/media/image13.png)
 
 > in maniera tale da accedere alla maschera di "**Selezione eventi**"
 > all'interno della quale poter selezionare gli eventi aggregati che
@@ -166,11 +159,9 @@ height="3.532638888888889in"}
 > acquisto** e **Ricerca** e l'evento aggiuntivo "**Acquisizione
 > Contatto**" (Altra categoria aziendale)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tracking-facebook-8.bmp](./assets/media/image14.png){width="5.2340277777777775in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tracking-facebook-8.bmp](./assets/media/image14.png)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tracking-facebook-8a.bmp](./assets/media/image15.png){width="5.2340277777777775in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tracking-facebook-8a.bmp](./assets/media/image15.png)
 
 > Cliccare quindi sul pulsante "**Continua**"
 
@@ -183,8 +174,7 @@ height="3.532638888888889in"}
 > corrispondenza della sotto sezione di destra i parametri dell'evento
 > secondo lo schema di seguito indicato:
 
-![Videate\\tracking-facebook-evento-pagamento.bmp](./assets/media/image16.png){width="5.558333333333334in"
-height="3.201388888888889in"}
+![Videate\\tracking-facebook-evento-pagamento.bmp](./assets/media/image16.png)
 
 > **[AGGIUNTA DELLE INFORMAZIONI DI PAGAMENTO]{.underline}**
 >
@@ -238,8 +228,7 @@ height="3.201388888888889in"}
 >
 > **[AGGIUNTA AL CARRELLO]{.underline}**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tracking-facebook-evento-aggiunta_carrello.bmp](./assets/media/image17.png){width="5.66875in"
-height="3.129861111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tracking-facebook-evento-aggiunta_carrello.bmp](./assets/media/image17.png)
 
 > **Parametri dei dettagli degli eventi**:
 
@@ -293,8 +282,7 @@ height="3.129861111111111in"}
 >
 > **[AGGIUNTA ALLA LISTA DEI DESIDERI]{.underline}**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tracking-facebook-evento-aggiunta_wish.bmp](./assets/media/image18.png){width="5.66875in"
-height="3.123611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tracking-facebook-evento-aggiunta_wish.bmp](./assets/media/image18.png)
 
 > **Parametri dei dettagli degli eventi**:
 
@@ -348,8 +336,7 @@ height="3.123611111111111in"}
 >
 > **[INIZIO DI ACQUISTO]{.underline}**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tracking-facebook-evento-inizio-acquisto.bmp](./assets/media/image19.png){width="5.675in"
-height="3.1166666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tracking-facebook-evento-inizio-acquisto.bmp](./assets/media/image19.png)
 
 > **Parametri dei dettagli degli eventi**:
 
@@ -405,8 +392,7 @@ height="3.1166666666666667in"}
 >
 > **[ACQUISIZIONE CONTATTO]{.underline}**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tracking-facebook-evento-acquisizione-contatto.bmp](./assets/media/image20.png){width="5.675in"
-height="3.1104166666666666in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tracking-facebook-evento-acquisizione-contatto.bmp](./assets/media/image20.png)
 
 > **Parametri dei dettagli degli eventi**:
 
@@ -452,8 +438,7 @@ height="3.1104166666666666in"}
 >
 > **[ACQUISTO]{.underline}**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tracking-facebook-evento-acquisto.bmp](./assets/media/image21.png){width="5.6819444444444445in"
-height="3.1166666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tracking-facebook-evento-acquisto.bmp](./assets/media/image21.png)
 
 > **Parametri dei dettagli degli eventi**:
 
@@ -511,8 +496,7 @@ height="3.1166666666666667in"}
 >
 > **[RICERCA]{.underline}**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tracking-facebook-evento-ricerca.bmp](./assets/media/image22.png){width="5.6819444444444445in"
-height="3.1166666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tracking-facebook-evento-ricerca.bmp](./assets/media/image22.png)
 
 > **Parametri dei dettagli degli eventi**:
 
@@ -554,8 +538,7 @@ height="3.1166666666666667in"}
 >
 > **[VISUALIZZAZIONE DI CONTENUTI]{.underline}**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tracking-facebook-evento-visualizzazione-contenuti.bmp](./assets/media/image23.png){width="5.675in"
-height="3.1166666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tracking-facebook-evento-visualizzazione-contenuti.bmp](./assets/media/image23.png)
 
 > **Parametri dei dettagli degli eventi**:
 
@@ -610,8 +593,7 @@ height="3.1166666666666667in"}
 - Nella successiva maschera di controllo della configurazione cliccare
   sul pulsante "**Conferma la configurazione**" posto in basso a destra
 
-![Videate\\tracking-facebook-10.bmp](./assets/media/image24.png){width="5.590972222222222in"
-height="3.33125in"}
+![Videate\\tracking-facebook-10.bmp](./assets/media/image24.png)
 
 > in maniera tale da accedere all'ultimo step della configurazione
 
@@ -619,29 +601,24 @@ height="3.33125in"}
   cliccare sul link "**Apri la guida all'implementazione**" evidenziato
   in figura
 
-![Videate\\tracking-facebook-11.bmp](./assets/media/image25.png){width="5.590972222222222in"
-height="3.33125in"}
+![Videate\\tracking-facebook-11.bmp](./assets/media/image25.png)
 
 - Cliccare quindi su "**Inizia**"
 
-![Videate\\tracking-facebook-12.bmp](./assets/media/image26.png){width="5.590972222222222in"
-height="3.33125in"}
+![Videate\\tracking-facebook-12.bmp](./assets/media/image26.png)
 
 > e successivamente su "**Genera un token di accesso**"
 
-![Videate\\tracking-facebook-13.bmp](./assets/media/image27.png){width="5.590972222222222in"
-height="3.33125in"}
+![Videate\\tracking-facebook-13.bmp](./assets/media/image27.png)
 
-![Videate\\tracking-facebook-15.bmp](./assets/media/image28.png){width="5.590972222222222in"
-height="3.33125in"}
+![Videate\\tracking-facebook-15.bmp](./assets/media/image28.png)
 
 - Copiare il token appena generato e incollarlo in corrispondenza del
   parametro "**Access Token**" presente all'interno della sezione
   "**Facebook Pixel -- Conversion API**" della pagina "**Sito --
   Preferenze**" (tab **"Tracciamento Dati**") del Wizard
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tracking-facebook-14.bmp](./assets/media/image29.png){width="5.792361111111111in"
-height="3.50625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tracking-facebook-14.bmp](./assets/media/image29.png)
 
 > **ATTENZIONE! come indicato sul Business Manager di Facebook il token
 > generato al punto precedente non sarà memorizzato su Facebook per cui
@@ -651,33 +628,28 @@ height="3.50625in"}
 - Una volta generato e copiato il token di accesso scorrere in fondo
   alla pagina e cliccare sul pulsante "**Fine**"
 
-![Videate\\tracking-facebook-16.bmp](./assets/media/image30.png){width="5.590972222222222in"
-height="3.33125in"}
+![Videate\\tracking-facebook-16.bmp](./assets/media/image30.png)
 
 - A questo punto verremo ricondotti automaticamente alla Panoramica del
   Pixel di Facebook appena creato e identificato dal nome ad esso
   assegnato nei primi step del processo.
 
-![Videate\\tracking-facebook-17.bmp](./assets/media/image31.png){width="5.590972222222222in"
-height="3.33125in"}
+![Videate\\tracking-facebook-17.bmp](./assets/media/image31.png)
 
 - Cliccare quindi sulla voce "**Impostazioni**" evidenziata in figura
 
-![Videate\\tracking-facebook-18.bmp](./assets/media/image32.png){width="5.590972222222222in"
-height="3.33125in"}
+![Videate\\tracking-facebook-18.bmp](./assets/media/image32.png)
 
 - Copiare l'identificativo del pixel (campo **ID del pixel**)
 
-![Videate\\tracking-facebook-19.bmp](./assets/media/image33.png){width="5.590972222222222in"
-height="3.33125in"}
+![Videate\\tracking-facebook-19.bmp](./assets/media/image33.png)
 
 > e inserirlo in corrispondenza del parametro "**Pixel ID**" presente
 > all'interno della sezione "**Facebook Pixel -- Conversion API**" della
 > pagina "**Sito -- Preferenze**" (tab **"Tracciamento Dati**") del
 > Wizard
 
-![Videate\\facebook_tracciamento_client_6.bmp](./assets/media/image34.png){width="5.792361111111111in"
-height="3.50625in"}
+![Videate\\facebook_tracciamento_client_6.bmp](./assets/media/image34.png)
 
 Arrivati a questo punto avremo completato la configurazione e
 l'attivazione delle Conversion API e potremo quindi testare il corretto

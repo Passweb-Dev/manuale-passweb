@@ -5,8 +5,7 @@
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_iu_cambio_password_configurazione_res.bmp](./assets/media/image12.png){width="4.616666666666666in"
-height="2.9347222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_iu_cambio_password_configurazione_res.bmp](./assets/media/image12.png)
 
 suddivisa in varie sezioni.
 

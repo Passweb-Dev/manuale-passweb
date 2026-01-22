@@ -18,14 +18,12 @@ In quest'ultimo caso, per creare da zero uno nuovo Prompt, sarà
 sufficiente cliccare sul pulsante "**Aggiungi**" presente nella barra
 degli strumenti della maschera "Prompt Template"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\creazione_nuovo_prompt_1.bmp](./assets/media/image383.png){width="6.013194444444444in"
-height="3.9611111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\creazione_nuovo_prompt_1.bmp](./assets/media/image383.png)
 
 In questo modo verrà infatti visualizzata la maschera "**Nuovo
 Template**"
 
-![Videate\\passweb_ai_nuovo_prompt.bmp](./assets/media/image384.png){width="6.0256944444444445in"
-height="3.4090277777777778in"}
+![Videate\\passweb_ai_nuovo_prompt.bmp](./assets/media/image384.png)
 
 all'interno della quale poter indicare un valore per i seguenti
 parametri:
@@ -159,8 +157,7 @@ verranno visualizzati altri parametri di configurazione del prompt,
 coerenti con la categoria effettivamente selezionata, e anch'essi
 indispensabili per completare la definizione del prompt stesso
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\passweb_ai_nuovo_prompt_2.bmp](./assets/media/image385.png){width="5.792361111111111in"
-height="3.571527777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\passweb_ai_nuovo_prompt_2.bmp](./assets/media/image385.png)
 
 In particolare dunque il parametro:
 
@@ -318,8 +315,7 @@ eventuale testo in eccesso e non necessario (come eventuali frasi
 introduttive e conclusive) in maniera tale da limitare, per quando
 possibile, i costi di utilizzo.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\passweb_ai_nuovo_prompt_4.bmp](./assets/media/image386.png){width="6.013194444444444in"
-height="3.922222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\passweb_ai_nuovo_prompt_4.bmp](./assets/media/image386.png)
 
 Nello specifico:
 
@@ -461,8 +457,7 @@ Per i prompt della categoria "Prodotto" è possibile utilizzare, in fase
 di compilazione della domanda uno dei segnaposto messi a disposizione da
 Passweb.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\passweb_ai_nuovo_prompt_3.bmp](./assets/media/image387.png){width="6.013194444444444in"
-height="3.922222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\passweb_ai_nuovo_prompt_3.bmp](./assets/media/image387.png)
 
 I segnaposto inseriti verranno poi valorizzati in maniera dinamica, in
 fase di generazione del contenuto, con il valore del corrispondente

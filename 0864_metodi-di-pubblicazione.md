@@ -17,8 +17,7 @@ pubblicazione degli articoli sulla piattaforma terza via API oppure
 mediante upload in una determinata area (es ftp, Google Drive ...) di
 appositi file csv prodotti da Passweb.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_mkt_metodi_pubblicazione.bmp](./assets/media/image313.png){width="5.792361111111111in"
-height="3.422222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\altri_mkt_metodi_pubblicazione.bmp](./assets/media/image313.png)
 
 Per maggiori informazioni relativamente alla pubblicazione articoli via
 csv si veda anche quanto indicato all'interno del relativo capitolo di

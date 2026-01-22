@@ -9,8 +9,7 @@ dipende esattamente dalle impostazioni settate all'interno della sezione
 Inserzione (tab "Prezzo, quantità e formato") utilizzata per pubblicare
 i prodotti.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_quantita.bmp](./assets/media/image502.png){width="5.792361111111111in"
-height="3.422222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_quantita.bmp](./assets/media/image502.png)
 
 Per maggiori informazioni in merito ai parametri di configurazione
 presenti all'interno di questa sezione si rimanda a quanto indicato

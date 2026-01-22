@@ -10,12 +10,10 @@ I pulsanti presenti nella barra degli strumenti della maschera "**Lista
 Ordini**" consentono di gestire i diversi stati del documento e di
 comunicare eventuali variazioni al relativo Marketplace.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_gestione_ordini_0.bmp](./assets/media/image167.png){width="5.889583333333333in"
-height="3.428472222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_gestione_ordini_0.bmp](./assets/media/image167.png)
 
 **Parametri Ordine** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_parametri_ordine.bmp](./assets/media/image168.png){width="0.5520833333333334in"
-height="0.15555555555555556in"} ): consente di impostare una o più
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_parametri_ordine.bmp](./assets/media/image168.png) ): consente di impostare una o più
 causali, opportunamente definite all' interno del gestionale, ed
 utilizzate per marcare come "**Annullati**" gli ordini provenienti dal
 Marketplace.
@@ -23,8 +21,7 @@ Marketplace.
 **ATTENZIONE! le causali impostate all'interno di questa sezione sono
 valide a livello generale per tutti gli ordini presenti in elenco.**
 
-![Videate\\ebay_gestione_ordini_1.bmp](./assets/media/image169.png){width="5.889583333333333in"
-height="3.428472222222222in"}
+![Videate\\ebay_gestione_ordini_1.bmp](./assets/media/image169.png)
 
 E' possibile annullare un ordine indicando due diverse motivazioni,
 corrispondenti ciascuna ad una delle causali impostate all'interno della
@@ -54,8 +51,7 @@ possibile comunicare automaticamente, in fase di sincronizzazione Sito
 -- Gestionale, il cambio di stato anche al relativo Marketplace.
 
 **Annulla** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_annulla.bmp](./assets/media/image170.png){width="0.2986111111111111in"
-height="0.16875in"} ): consente di porre l'ordine attualmente
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_annulla.bmp](./assets/media/image170.png) ): consente di porre l'ordine attualmente
 selezionato in elenco nello stato di "**In Attesa di Annullo**"
 indicando anche la motivazione per cui l'ordine in esame è stato
 annullato
@@ -67,8 +63,7 @@ elenco**
 Cliccando su questo pulsante verrà visualizzata la maschera "**Parametri
 di Annullamento dell'Ordine**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_gestione_ordini_2.bmp](./assets/media/image171.png){width="5.811805555555556in"
-height="3.428472222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_gestione_ordini_2.bmp](./assets/media/image171.png)
 
 all'interno della quale poter indicare, selezionandola dall'apposito
 menu a tendina (campo **Motivo di Annullamento**), la motivazione per
@@ -106,8 +101,7 @@ annullamento di un ordine eBay si veda anche il successivo capitolo di
 questo manuale (*Stati Ordine eBay*)
 
 **Spedizione** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mp_pulsante_spedizione.bmp](./assets/media/image172.png){width="0.38333333333333336in"
-height="0.1625in"} ): consente di porre l'ordine attualmente selezionato
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mp_pulsante_spedizione.bmp](./assets/media/image172.png) ): consente di porre l'ordine attualmente selezionato
 in elenco nello stato di "**In Attesa di Spedizione**"
 
 **ATTENZIONE! Le impostazioni settate mediante il pulsante "Spedizione"
@@ -117,8 +111,7 @@ elenco**
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 "**Parametri della Spedizione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_parametri_spedizione.bmp](./assets/media/image173.png){width="5.889583333333333in"
-height="3.428472222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_parametri_spedizione.bmp](./assets/media/image173.png)
 
 all'interno della quale poter impostare:
 
@@ -131,8 +124,7 @@ all'interno della quale poter impostare:
 > Vettori eBay e per i quali è stato quindi valorizzato, in fase di
 > configurazione, il relativo campo "**Vettore eBay**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_parametri_spedizione_2.bmp](./assets/media/image174.png){width="5.616666666666666in"
-height="3.4611111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_parametri_spedizione_2.bmp](./assets/media/image174.png)
 
 > Per maggiori informazioni in merito si veda anche la sezione "*Ordini
 > -- Configurazione Metodi di trasporto*" di questo manuale.
@@ -183,11 +175,9 @@ Nello specifico **Vettore, Data di Inizio Trasporto** e **Number
 Tracking** verranno inseriti nei relativi campi presenti nel piede del
 documento
 
-![Videate\\ebay_parametri_spedizione_3.bmp](./assets/media/image175.png){width="5.961111111111111in"
-height="2.584722222222222in"}
+![Videate\\ebay_parametri_spedizione_3.bmp](./assets/media/image175.png)
 
-![Videate\\ebay_parametri_spedizione_3a.bmp](./assets/media/image176.png){width="5.480555555555555in"
-height="2.8048611111111112in"}
+![Videate\\ebay_parametri_spedizione_3a.bmp](./assets/media/image176.png)
 
 Per i siti Ecommerce collegati a Mexal, nel momento in cui il Number
 Tracking dovesse essere gestito con un Attributo Ordine, il codice di
@@ -206,8 +196,7 @@ correttamente visibili nel piede dei documenti Mexal, è necessario che
 il parametro di magazzino "**Memorizza data e ora inizio trasporto**"
 sia stato correttamente selezionato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\memorizza_data_spedizione.bmp](./assets/media/image177.png){width="4.2340277777777775in"
-height="3.363888888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\memorizza_data_spedizione.bmp](./assets/media/image177.png)
 
 Nel caso in cui il parametro in oggetto non fosse stato selezionato,
 Data e ora di inizio trasporto impostate da Passweb potranno essere
@@ -218,8 +207,7 @@ eBay si veda anche il successivo capitolo di questo manuale (*Stati
 Ordine eBay*)
 
 **Pagamento** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_pulsante_pagamento.bmp](./assets/media/image178.png){width="0.3958333333333333in"
-height="0.15555555555555556in"} ): consente di porre l'ordine
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_pulsante_pagamento.bmp](./assets/media/image178.png) ): consente di porre l'ordine
 attualmente selezionato in elenco nello stato di "**In Attesa di
 Pagamento**"
 
@@ -230,8 +218,7 @@ elenco**
 Cliccando su questo pulsante verrà visualizzata la maschera "**Parametri
 Pagamento Ordine**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_parametri_pagamento.bmp](./assets/media/image179.png){width="5.889583333333333in"
-height="3.428472222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ebay_parametri_pagamento.bmp](./assets/media/image179.png)
 
 all'interno della quale l'utente avrà la possibilità di modificare lo
 stato dell'ordine in relazione al suo avvenuto pagamento
@@ -266,8 +253,7 @@ eBay che non vengono pagati immediatamente mediante carta di credito ma
 per i quali è stata abilitata e scelta un'altra tipologia di pagamento.
 
 **Aggiorna Ordini** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiorna_ordini.bmp](./assets/media/image180.png){width="0.5256944444444445in"
-height="0.15555555555555556in"} ): consente di eseguire, in maniera
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiorna_ordini.bmp](./assets/media/image180.png) ): consente di eseguire, in maniera
 manuale, la procedura di aggiornamento dello stato ordini dal proprio
 sito Passweb verso i relativi Marketplace eBay.
 

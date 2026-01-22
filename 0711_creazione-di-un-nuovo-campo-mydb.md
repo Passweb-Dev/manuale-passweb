@@ -11,14 +11,12 @@ Campi MyDB*).
 
 Una volta effettuato l'accesso a questa sezione del Wizard sarà poi
 necessario cliccare sul pulsante **Aggiungi Campo** **(**
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_campo.bmp](./assets/media/image238.png){width="0.5909722222222222in"
-height="0.1625in"} **)** presente nella contestuale barra degli
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_campo.bmp](./assets/media/image238.png) **)** presente nella contestuale barra degli
 strumenti.
 
 In questo modo verrà quindi visualizzata la maschera "**Nuovo Campo**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuovo_campo_mydb.bmp](./assets/media/image239.png){width="5.759722222222222in"
-height="3.3895833333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuovo_campo_mydb.bmp](./assets/media/image239.png)
 
 all'interno della quale dover indicare i parametri necessari per poter
 individuare esattamente il campo della tabella MyDB che si intende

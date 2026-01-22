@@ -5,8 +5,7 @@
 All'interno di questa sezione dell'App è possibile gestire diverse
 impostazioni di Passweb Monitor
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pwb_monitor_impostazioni.bmp](./assets/media/image21.png){width="1.6583333333333334in"
-height="3.422222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pwb_monitor_impostazioni.bmp](./assets/media/image21.png)
 
 In particolare la sezione "**Notifiche Push**" consente di abilitare /
 disabilitare a livello generale la ricezione delle notifiche (parametro

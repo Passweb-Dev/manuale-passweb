@@ -22,8 +22,7 @@ Di seguito viene riportata l'immagine di quella che potrebbe essere la
 struttura di una pagina HTML4 realizzata utilizzando un layout a due
 colonne.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\html5_1.bmp](./assets/media/image1.png){width="5.342361111111111in"
-height="4.0in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\html5_1.bmp](./assets/media/image1.png)
 
 Come si può facilmente osservare, dal punto di vista strutturale una
 pagina che adotta questo tipo di layout è costituita da un header
@@ -53,8 +52,7 @@ abilitare o meno.
 In ogni caso tutti questi contenitori strutturali sono realizzati, a
 livello di markup, mediante apposite div.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\html5_2.bmp](./assets/media/image2.png){width="7.072222222222222in"
-height="1.9145833333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\html5_2.bmp](./assets/media/image2.png)
 
 L'uso del generico tag div è così diffuso perché in HTML4 non esistono
 specifici tag semantici che possano identificare e descrivere in maniera
@@ -72,15 +70,13 @@ dover quindi ricorrere a specifici attributi).
 Il layout a due colonne appena esaminato potrebbe ora essere tradotto in
 HTML5 come di seguito indicato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\html5_3.bmp](./assets/media/image3.png){width="5.348611111111111in"
-height="4.013194444444444in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\html5_3.bmp](./assets/media/image3.png)
 
 Come si può facilmente osservare le diverse sezioni della pagina sono
 ora identificate da specifici tag e il corrispondente markup potrebbe
 quindi essere del tipo di quello indicato in figura.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\html5_4.bmp](./assets/media/image4.png){width="4.151388888888889in"
-height="1.5326388888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\html5_4.bmp](./assets/media/image4.png)
 
 L'utilizzo di questi tag semantici può portare ad ottenere diversi
 vantaggi, in termini di pulizia ed ordine del codice della pagina web,
@@ -165,14 +161,12 @@ diversi elementi del sito dovremo utilizzare:
 - In Testata Alta **due distinti Componenti Contenitore**, il primo
   configurato in maniera tale che venga generato con un tag **header**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\html5_5.bmp](./assets/media/image5.png){width="4.605555555555555in"
-height="3.0458333333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\html5_5.bmp](./assets/media/image5.png)
 
 > il secondo configurato invece in maniera tale che venga generato con
 > un tag **nav**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\html5_6.bmp](./assets/media/image6.png){width="4.605555555555555in"
-height="3.026388888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\html5_6.bmp](./assets/media/image6.png)
 
 > All'interno del primo contenitore andremo poi ad inserire Componenti
 > Immagine e/o Paragrafo mediante i quali inserire il logo ed il nome

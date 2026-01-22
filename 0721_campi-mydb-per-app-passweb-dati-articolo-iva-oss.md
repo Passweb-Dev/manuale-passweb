@@ -69,8 +69,7 @@ creare in Passweb un campo MyDB mappato su quello utilizzato dall'APP
 Francia, la maschera di creazione "Nuovo Campo" dovrebbe essere
 compilata come nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\esempio_campo_iva_oss.bmp](./assets/media/image257.png){width="5.759722222222222in"
-height="3.3895833333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\esempio_campo_iva_oss.bmp](./assets/media/image257.png)
 
 Per maggiori informazioni relativamente a questa APP e alla possibilità
 di gestire in Passweb Tasse di tipo IVA tali da soddisfare la normativa

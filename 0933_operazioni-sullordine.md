@@ -44,8 +44,7 @@ Al termine di questa sincronizzazione Passweb verificherà che l'ordine
 in esame è stato posto nello stato di "Annullato" e provvederà quindi a
 porre il corrispondente ordine Magento nello stato di "**Canceled**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\magento_ordine_annullato.bmp](./assets/media/image819.png){width="5.447916666666667in"
-height="3.285416666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\magento_ordine_annullato.bmp](./assets/media/image819.png)
 
 ##### CREARE UNA SPEDIZIONE
 
@@ -71,16 +70,14 @@ essere **Mexal**, **Vettore, Data di Inizio Trasporto** e **Number
 Tracking** dovranno essere inseriti nei relativi campi del piede del
 documento
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\ebay_parametri_spedizione_3.bmp](./assets/media/image301.png){width="5.961111111111111in"
-height="2.584722222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\ebay_parametri_spedizione_3.bmp](./assets/media/image301.png)
 
 **ATTENZIONE!** Affinchè data e ora di inizio trasporto possano essere
 correttamente visibili nel piede di tutti i documenti Mexal, è
 necessario che il parametro di magazzino "**Memorizza data e ora inizio
 trasporto**" sia stato correttamente selezionato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\memorizza_data_spedizione.bmp](./assets/media/image177.png){width="4.2340277777777775in"
-height="3.363888888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\memorizza_data_spedizione.bmp](./assets/media/image177.png)
 
 Nel caso in cui il parametro in oggetto non fosse stato selezionato,
 Data e ora di inizio trasporto potranno essere visibili all'interno di
@@ -100,8 +97,7 @@ gestionali Ho.Re.Ca.**, **Vettore Data di Inizio Trasporto** e **Number
 Tracking** dovranno essere inseriti nei relativi campi del piede del
 documento
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\ebay_parametri_spedizione_3a.bmp](./assets/media/image302.png){width="5.480555555555555in"
-height="2.8048611111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\ebay_parametri_spedizione_3a.bmp](./assets/media/image302.png)
 
 **ATTENZIONE!** Nel caso in cui si sia scelto di gestire il **Number
 Tracking** mediante un apposito attributo Passweb, il codice di
@@ -113,8 +109,7 @@ prossima sincronizzazione verrà esportata su Passweb la Bolla appena
 creata e, contestualmente, verrà anche generata una spedizione sul
 relativo ordine Magento
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\magento_shipment_1.bmp](./assets/media/image820.png){width="5.441666666666666in"
-height="3.279166666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\magento_shipment_1.bmp](./assets/media/image820.png)
 
 Il fatto poi di avere o meno, all'interno della spedizione collegata
 all'ordine Magento, anche l'indicazione del corriere da utilizzare
@@ -127,8 +122,7 @@ all'interno della spedizione creata sull'ordine Magento troveremo, nella
 sezione "Shipping e Tracking Information", anche l'indicazione del
 Vettore e il relativo Tracking Number
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\magento_shipment_2.bmp](./assets/media/image821.png){width="5.441666666666666in"
-height="3.279166666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\magento_shipment_2.bmp](./assets/media/image821.png)
 
 Se invece stiamo operando su uno dei gestionali della famiglia Ho.Re.Ca.
 dove non abbiamo la possibilità di inserire direttamente l'informazione
@@ -138,8 +132,7 @@ informazione allora nella sezione "Shipping e Tracking Information"
 della spedizione creata sull'ordine Magento non troveremo l'indicazione
 di alcun corriere
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\magento_shipment_3.bmp](./assets/media/image822.png){width="5.441666666666666in"
-height="3.279166666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\magento_shipment_3.bmp](./assets/media/image822.png)
 
 **ATTENZIONE!** In generale, tanto per Mexal quanto per uno dei
 gestionali della famiglia Ho.Re.Ca., se la trasformazioni in bolla
@@ -178,8 +171,7 @@ Supponiamo di aver acquisito da Magento un ordine con all'interno i 3
 articoli indicati in figura (PROD34B, PROD76D e PROD76C) tutti in
 quantità 2
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\spedizioni_multiple.bmp](./assets/media/image823.png){width="5.2340277777777775in"
-height="2.6166666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\spedizioni_multiple.bmp](./assets/media/image823.png)
 
 Supponiamo inoltre di dover evadere, per ragioni di magazzino, questo
 stesso ordine in due momenti diversi gestendo quindi due diverse
@@ -203,8 +195,7 @@ Per soddisfare questa esigenza dovremo quindi:
 
   - Un Tracking Number
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\spedizioni_multiple_2.bmp](./assets/media/image824.png){width="5.2340277777777775in"
-height="2.6166666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\spedizioni_multiple_2.bmp](./assets/media/image824.png)
 
 Al termine di questa operazione avremo quindi creato una prima bolla e,
 a seguito della prossima sincronizzazione tra Passweb ed il gestionale,
@@ -219,8 +210,7 @@ dovremo:
 - Porre entrambe le righe relative a questi articoli nello stato di
   evadibile
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\spedizioni_multiple_3.bmp](./assets/media/image825.png){width="5.2340277777777775in"
-height="2.6166666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\spedizioni_multiple_3.bmp](./assets/media/image825.png)
 
 - trasformare il documento in bolla facendo attenzione ad inserire le
   solite informazioni:
@@ -236,8 +226,7 @@ ed il gestionale Passepartout, andremo a controllare su Magento il
 documento originale troveremo per esso due distinte spedizioni
 corrispondenti alle due bolle generate sul gestionale
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\spedizioni_multiple_4.bmp](./assets/media/image826.png){width="5.285416666666666in"
-height="2.714583333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\spedizioni_multiple_4.bmp](./assets/media/image826.png)
 
 **[ESEMPIO2]{.underline}**
 
@@ -257,8 +246,7 @@ In questo caso sarà necessario:
 - Porre una delle due righe relative all'articolo PROD34B nello stato di
   evadibile
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\spedizioni_multiple_5.bmp](./assets/media/image827.png){width="5.2340277777777775in"
-height="2.6166666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\spedizioni_multiple_5.bmp](./assets/media/image827.png)
 
 - trasformare il documento in bolla facendo attenzione ad inserire le
   solite informazioni:
@@ -334,6 +322,5 @@ Nel caso specifico di Magento tale informazioni può essere inserita, ad
 esempio, all'interno del campo "**Nota sulla Fattura**" presente nella
 sezione "Ordini" dell' Account Magento utilizzato
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\magento_note_fattura.bmp](./assets/media/image818.png){width="5.792361111111111in"
-height="3.422222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\magento_note_fattura.bmp](./assets/media/image818.png)
 

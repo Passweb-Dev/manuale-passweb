@@ -26,8 +26,7 @@ La differenza sostanziale è che le inserzioni provenienti da Google
 Shopping non sono semplici annunci testuali ma sono accompagnate da una
 foto e da indicazioni relative ai prodotti.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\google_shopping_1.bmp](./assets/media/image415.png){width="5.850694444444445in"
-height="3.16875in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\google_shopping_1.bmp](./assets/media/image415.png)
 
 Inoltre quello che si può trovare nella pagina dei risultati di ricerca
 di Google è solo un estratto dei risultati di Google Shopping. Infatti,
@@ -35,8 +34,7 @@ così come avviene per video, immagini, mappe, notizie, libri ecc...
 Google ha un vero e proprio motore verticale dedicato a questo specifico
 tipo di ricerche ( <https://www.google.it/shopping> )
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\google_shopping_2.bmp](./assets/media/image416.png){width="5.370138888888889in"
-height="3.285416666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\google_shopping_2.bmp](./assets/media/image416.png)
 
 La cosa importante da sottolineare è che questi risultati non provengono
 direttamente da un unico sito web che vende online, non vengono

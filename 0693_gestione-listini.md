@@ -9,8 +9,7 @@ corretta) uno specifico Listino.
 All'interno di questa pagina verrà quindi visualizzata la maschera,
 **"Lista dei Listini"**, qui di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_listini.bmp](./assets/media/image168.png){width="5.825in"
-height="3.558333333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_listini.bmp](./assets/media/image168.png)
 
 in cui verranno elencati tutti i listini codificati all'interno del
 gestionale. Per ciascuno dei listini presenti in elenco è indicato sia
@@ -39,28 +38,24 @@ stessa.
 Una volta impostato un filtro di ricerca, per poterlo poi eliminare sarà
 sufficiente cliccare sull'icona raffigurante una piccola lente di
 ingrandimento con un -- all'interno (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina_filtro.bmp](./assets/media/image169.png){width="7.777777777777778e-2in"
-height="9.722222222222222e-2in"} ) che comparirà in testata alla colonna
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina_filtro.bmp](./assets/media/image169.png) ) che comparirà in testata alla colonna
 in corrispondenza della quale è stato impostato il filtro stesso.
 
 Infine è anche possibile ordinare, in maniera crescente e/o decrescente,
 gli elementi in griglia cliccando semplicemente sull'icona raffigurante
 due piccole frecce posta anch' essa in testata ad ogni singola colonna
 della griglia (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_ordinamento_griglia.bmp](./assets/media/image170.png){width="0.12361111111111112in"
-height="0.14930555555555555in"} )
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_ordinamento_griglia.bmp](./assets/media/image170.png) )
 
 Per associare ai vari paesi gestiti all'interno del sito uno specifico
 listino, sarà quindi sufficiente selezionare il listino desiderato e
 cliccare sul pulsante **"Modifica listino"** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica.bmp](./assets/media/image171.png){width="0.3958333333333333in"
-height="0.18819444444444444in"} ) presente nella barra degli strumenti.
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica.bmp](./assets/media/image171.png) ) presente nella barra degli strumenti.
 
 In questo modo verrà infatti aperta la maschera **"Gestione del
 Listino"** qui di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_del_listino.bmp](./assets/media/image172.png){width="5.629861111111111in"
-height="3.467361111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_del_listino.bmp](./assets/media/image172.png)
 
 attraverso la quale poter associare il listino selezionato ad uno o a
 più paesi tra quelli effettivamente gestiti.
@@ -94,8 +89,7 @@ diversi.
 listini differenti
 
 Il pulsante **"Listino Default"** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_default.bmp](./assets/media/image173.png){width="0.3506944444444444in"
-height="0.1951388888888889in"} ) presente nella barra degli strumenti
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_default.bmp](./assets/media/image173.png) ) presente nella barra degli strumenti
 consente di impostare il listino attualmente selezionato come Listino di
 default da utilizzare ad esempio nel caso in cui il paese di
 appartenenza dell'utente attualmente collegato al sito non sia tra

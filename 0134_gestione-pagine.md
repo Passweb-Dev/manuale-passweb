@@ -7,20 +7,17 @@ mediante l'apposita funzionalità di "**Gestione Pagine**", funzionalità
 questa attivabile cliccando sulla corrispondente icona presente nella
 "Barra degli Strumenti del Live Editing"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_pagine_attivazione_1.bmp](./assets/media/image90.png){width="2.9875in"
-height="1.00625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_pagine_attivazione_1.bmp](./assets/media/image90.png)
 
 o, in alternativa, sulla stessa icona presente anche all'interno del
 menu di Editing del sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gestione_pagine_attivazione_2.bmp](./assets/media/image91.png){width="5.061111111111111in"
-height="3.5027777777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\gestione_pagine_attivazione_2.bmp](./assets/media/image91.png)
 
 In entrambi i casi si avrà infatti accesso alla maschera **"Gestione
 Pagine"** suddivisa in due distinte sezioni.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\live_editing_pagine_res.bmp](./assets/media/image92.png){width="5.932638888888889in"
-height="3.3743055555555554in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\live_editing_pagine_res.bmp](./assets/media/image92.png)
 
 Nella sezione di sinistra verrà visualizzato l'albero delle pagine del
 sito; nella sezione di destra verranno invece visualizzate le proprietà
@@ -38,8 +35,7 @@ sulla pagina stessa.
 In particolare dunque il pulsante
 
 - **Nuova**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_piu.bmp](./assets/media/image93.png){width="0.15347222222222223in"
-  height="0.16597222222222222in"} )**:** consente di creare una nuova
+  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_piu.bmp](./assets/media/image93.png) )**:** consente di creare una nuova
   pagina figlia di quella attualmente selezionata all'interno
   dell'albero. La **Home Page** verrà considerata come **"Radice"** di
   tutto il sito, sarà sempre presente e non potrà mai essere eliminata.
@@ -50,8 +46,7 @@ In particolare dunque il pulsante
   e variabili in relazione alla tipologia di pagina considerata)
 
 - **Elimina**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina.bmp](./assets/media/image94.png){width="0.17777777777777778in"
-  height="0.1840277777777778in"} )**:** consente di eliminare la pagina
+  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina.bmp](./assets/media/image94.png) )**:** consente di eliminare la pagina
   attualmente selezionata all'interno dell'albero.
 
 > Nel caso in cui la pagina da eliminare abbia sotto di se altre pagine,
@@ -60,8 +55,7 @@ In particolare dunque il pulsante
 > **NOTA BENE:** non tutte le pagine del sito possono essere eliminate.
 
 - **Copia**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_copia.bmp](./assets/media/image95.png){width="0.19652777777777777in"
-  height="0.21458333333333332in"} )**:** consente di effettuare una
+  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_copia.bmp](./assets/media/image95.png) )**:** consente di effettuare una
   copia esatta della pagina attualmente selezionata all'interno
   dell'albero.
 
@@ -78,13 +72,11 @@ In particolare dunque il pulsante
 > alla nuova pagina
 
 - **Apri**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_modifica.bmp](./assets/media/image96.png){width="0.19027777777777777in"
-  height="0.21458333333333332in"} )**:** consente di accedere alla
+  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_modifica.bmp](./assets/media/image96.png) )**:** consente di accedere alla
   pagina selezionata in modo tale da poterne personalizzare i contenuti.
 
 - **Sposta**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_sposta_pagina.bmp](./assets/media/image97.png){width="0.1840277777777778in"
-  height="0.19027777777777777in"} )**:** consente di spostare la pagina
+  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_sposta_pagina.bmp](./assets/media/image97.png) )**:** consente di spostare la pagina
   attualmente selezionata. Per effettuare lo spostamento di una pagina
   sarà quindi necessario per prima cosa selezionare la pagina stessa
   all'interno dell'albero, occorrerà poi cliccare sul pulsante in
@@ -95,10 +87,8 @@ In particolare dunque il pulsante
 > solamente al di sotto di altre pagine generiche.
 
 - **Esporta** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_esporta.bmp](./assets/media/image98.png){width="0.1840277777777778in"
-  height="0.19652777777777777in"} ) / **Importa** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_importa.bmp](./assets/media/image99.png){width="0.17777777777777778in"
-  height="0.19652777777777777in"} )**:** consente di esportare /
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_esporta.bmp](./assets/media/image98.png) ) / **Importa** (
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_importa.bmp](./assets/media/image99.png) )**:** consente di esportare /
   importare in formato csv i dati delle pagine del sito che non sono
   legate a specifiche categorie merceologiche, in sostanza dunque Pagine
   Generiche (bianche) e Pagine di tipo Ecommerce (verdi).
@@ -109,40 +99,33 @@ In particolare dunque il pulsante
 > ecommerce*"
 
 - **Visualizza Pagina**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_visualizza_pagina.bmp](./assets/media/image100.png){width="0.19027777777777777in"
-  height="0.19652777777777777in"} ): consente di visualizzare la pagina
+  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_visualizza_pagina.bmp](./assets/media/image100.png) ): consente di visualizzare la pagina
   attualmente selezionata sul front end del sito
 
 Passweb consente di gestire differenti tipologie di Pagina, ciascuna
 identificabile all'interno dell'albero attraverso uno specifico colore:
 
 a)  **Pagine Generiche - Colore Bianco**
-    (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_pagina_generica_res.bmp](./assets/media/image101.png){width="0.6076388888888888in"
-    height="0.19027777777777777in"} )
+    (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_pagina_generica_res.bmp](./assets/media/image101.png) )
 
 b)  **Pagine E-commerce - Colore Verde**
-    (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_pagina_ecommerce_res.bmp](./assets/media/image102.png){width="0.9076388888888889in"
-    height="0.16597222222222222in"} )
+    (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_pagina_ecommerce_res.bmp](./assets/media/image102.png) )
 
 c)  **Pagine Catalogo - Colore Azzurro**
-    (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_pagina_cat_articoli_res.bmp](./assets/media/image103.png){width="0.8097222222222222in"
-    height="0.1597222222222222in"} )
+    (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_pagina_cat_articoli_res.bmp](./assets/media/image103.png) )
 
 d)  **Pagine Prodotto - Colore Rosso**
-    (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_pagina_prodotto_res.bmp](./assets/media/image104.png){width="0.6256944444444444in"
-    height="0.16597222222222222in"} )
+    (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_pagina_prodotto_res.bmp](./assets/media/image104.png) )
 
 e)  **Pagine Popup - Colore Giallo**
-    (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagina_popup_res.bmp](./assets/media/image105.png){width="0.6013888888888889in"
-    height="0.11666666666666667in"} )
+    (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pagina_popup_res.bmp](./assets/media/image105.png) )
 
 Le icone poste a fianco del nome di ciascuna pagina, indicano infine, se
 la pagina in esame dovrà essere visibile, lato front end, solo
 all'interno del sito, solo all'interno dell'app mobile, oppure sia sul
 sito che sull'app.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\app_visibilita_pagina.bmp](./assets/media/image106.png){width="4.944444444444445in"
-height="2.65in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\app_visibilita_pagina.bmp](./assets/media/image106.png)
 
 Per maggiori informazioni relativamente alla gestione dell'App mobile
 collegata al proprio sito Passweb si veda anche il relativo capitolo di

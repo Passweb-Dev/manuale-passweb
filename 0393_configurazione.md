@@ -5,8 +5,7 @@
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_mini_wishlist_configurazione_res.bmp](./assets/media/image211.png){width="5.086111111111111in"
-height="3.129166666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_mini_wishlist_configurazione_res.bmp](./assets/media/image211.png)
 
 suddivisa in varie sezioni.
 

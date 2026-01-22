@@ -4,8 +4,7 @@
 
 Il Componente **"Filtro Testo"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_filtro_testo.bmp](./assets/media/image609.png){width="2.5340277777777778in"
-height="2.5458333333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_filtro_testo.bmp](./assets/media/image609.png)
 
 **può essere inserito unicamente all'interno del componente Ecommerce di
 primo livello "Ricerca".**
@@ -15,8 +14,7 @@ all'interno del pannello di ricerca un normale campo di input che
 l'utente del sito potrà poi utilizzare per indicare ciò che intende
 ricercare all'interno del catalogo.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\filtro_testo_esempio.bmp](./assets/media/image610.png){width="5.116666666666666in"
-height="3.558333333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\filtro_testo_esempio.bmp](./assets/media/image610.png)
 
 > **NOTA BENE:** questo Componente consente di effettuare una ricerca
 > multi stringa specificando più parole separate da spazi.
@@ -25,8 +23,7 @@ Rilasciando il Componente nella posizione desiderata all'interno della
 pagina web, verrà visualizzata **la sua maschera di gestione e
 configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_filtro_testo_configurazione_res.bmp](./assets/media/image611.png){width="5.1715277777777775in"
-height="3.1347222222222224in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_filtro_testo_configurazione_res.bmp](./assets/media/image611.png)
 
 suddivisa in varie sezioni.
 
@@ -88,8 +85,7 @@ filtro di ricerca che si intende implementare (per maggiori informazioni
 in merito si veda anche il precedente capitolo "*Componenti Ecommerce --
 Filtri di ricerca*" di questo manuale)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_filtro_testo_configurazione_res_2.bmp](./assets/media/image612.png){width="5.159722222222222in"
-height="3.1104166666666666in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_filtro_testo_configurazione_res_2.bmp](./assets/media/image612.png)
 
 **NOTA BENE:** per maggiori informazioni relativamente alle sezioni
 "**Avanzate e Animazioni**", "**Distribuzione**" e "**Protezione**",

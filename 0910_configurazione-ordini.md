@@ -20,8 +20,7 @@ corretta è necessario configurare adeguatamente la sezione "**Ordini**"
 presente all'interno della maschera "**Dati Account**" del relativo
 account Prestashop
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_configurazione_ordini.bmp](./assets/media/image606.png){width="5.811805555555556in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_configurazione_ordini.bmp](./assets/media/image606.png)
 
 Nello specifico dunque i campi presenti all'interno di questa maschera
 consentono rispettivamente di:
@@ -132,8 +131,7 @@ selezionandolo dall'apposito menu a tendina, l'articolo spesa che dovrà
 essere utilizzato per gestire eventuali costi legati all'attivazione, su
 Prestashop, delle "**Opzioni Regalo**".
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_opzioni_regalo.bmp](./assets/media/image672.png){width="5.590972222222222in"
-height="3.3895833333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_opzioni_regalo.bmp](./assets/media/image672.png)
 
 **ATTENZIONE!** L'aliquota / esenzione iva assegnata, sul gestionale,
 all'articolo spesa utilizzato per gestire questo tipo di costi dovrà
@@ -212,8 +210,7 @@ secondo le seguenti regole:
   della specifica modalità di spedizione (*Spedizione -- Mezzi di
   Spedizione -- Destinazioni spedizioni e costi*)
 
-![Videate\\prestashop_iva_spedizioni.bmp](./assets/media/image673.png){width="4.967361111111111in"
-height="3.532638888888889in"}
+![Videate\\prestashop_iva_spedizioni.bmp](./assets/media/image673.png)
 
 > Se poi per qualche ragione in Prestashop si dovesse decidere di
 > gestire delle spese di trasporto IVA esenti, impostando quindi il
@@ -238,8 +235,7 @@ lato gestionale, dovesse essere emessa una bolla, una fattura o,
 eventualmente, nel momento in cui lato gestionale si dovesse decidere di
 annullare l'ordine
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_stati_ordine.bmp](./assets/media/image674.png){width="5.597222222222222in"
-height="3.558333333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_stati_ordine.bmp](./assets/media/image674.png)
 
 Nel box di sinistra, presente in corrispondenza del parametro "**Stati
 Ordine Gestiti**", sono elencati quindi tutti i diversi possibili stati
@@ -362,8 +358,7 @@ Prestashop, si consiglia anche di disabilitare, laddove possibile,
 eventuali opzioni di fatturazione presenti sulla piattaforma esterna (e
 relativo invio di mail al cliente).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\fatturazione_prestashop.bmp](./assets/media/image675.png){width="5.0777777777777775in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\fatturazione_prestashop.bmp](./assets/media/image675.png)
 
 Nel momento in cui ciò non fosse possibile si consiglia di inserire
 nelle mail, e nel dettaglio di eventuali fatture generate dalla
@@ -390,8 +385,7 @@ terza, sarà allora necessario:
   "**Attivo**" nella maschera "**Stato Anagrafiche**" del documento
   Passweb impostato su **N**)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\stato_passweb_documento_n.bmp](./assets/media/image676.png){width="2.2465277777777777in"
-height="0.7986111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\stato_passweb_documento_n.bmp](./assets/media/image676.png)
 
 In queste condizioni infatti il primo punto consentirà comunque a
 Passweb di prelevare, in fase di sincronizzazione, nuovi ordini da
@@ -408,8 +402,7 @@ La sezione "**Parametri Clienti**", presente all'interno della maschera
 parametri di configurazione relativi ad eventuali nuovi clienti
 acquisiti a seguito di ordini effettuati sulla piattaforma terza.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_ordini_parametri_cliente.bmp](./assets/media/image677.png){width="5.597222222222222in"
-height="3.558333333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_ordini_parametri_cliente.bmp](./assets/media/image677.png)
 
 **ATTENZIONE!** I nuovi clienti verranno inseriti su Passweb, e
 conseguentemente sul gestionale Passepartout, contestualmente
@@ -506,8 +499,7 @@ pulsante "**Aggiungi**" evidenziato in figura in maniera tale da far
 comparire i due nuovi campi "**Titolo Pagamento Marketplace**" e
 "**Pagamento gestionale**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_pagamenti_1.bmp](./assets/media/image678.png){width="5.811805555555556in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_pagamenti_1.bmp](./assets/media/image678.png)
 
 A questo punto all'interno del campo
 
@@ -517,8 +509,7 @@ A questo punto all'interno del campo
   esempio, accedere alla sezione "**Impostazioni**" del menu
   "**Pagamento**" di Prestashop
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\prestashop_pagamenti_2.bmp](./assets/media/image679.png){width="4.947916666666667in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\prestashop_pagamenti_2.bmp](./assets/media/image679.png)
 
 > Le intestazioni delle colonne presenti nelle tabelle all'interno di
 > questa maschera (vedi figura) rappresentano i titoli dei pagamenti da
@@ -534,8 +525,7 @@ height="3.532638888888889in"}
   dall'apposito menu a tendina il pagamento Mexal / Ho.Re.Ca con cui
   mappare il corrispondente pagamento Prestashop
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_pagamenti_3.bmp](./assets/media/image680.png){width="5.811805555555556in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_pagamenti_3.bmp](./assets/media/image680.png)
 
 Ovviamente affinché l'operazione di mapping possa funzionare in maniera
 corretta sarà necessario per prima cosa codificare, per ciascuno dei
@@ -565,8 +555,7 @@ pulsante "**Aggiungi**" evidenziato in figura, in maniera tale da far
 comparire i due nuovi campi "**Codice Corriere Marketplace**" e
 "**Vettore Gestionale**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_vettori_1.bmp](./assets/media/image681.png){width="5.811805555555556in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prestashop_vettori_1.bmp](./assets/media/image681.png)
 
 A questo punto all'interno del campo
 

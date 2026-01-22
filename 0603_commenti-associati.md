@@ -4,8 +4,7 @@
 
 Il componente "**Commenti Associati**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_commenti_res.bmp](./assets/media/image29.png){width="2.0909722222222222in"
-height="2.5388888888888888in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_commenti_res.bmp](./assets/media/image29.png)
 
 consente di inserire all'interno del sito tutti gli elementi necessari
 per permettere agli utenti di commentare le singole notizie CMS.
@@ -13,8 +12,7 @@ per permettere agli utenti di commentare le singole notizie CMS.
 Il contenuto di questo componente varierà, dunque, in relazione alla
 specifica News visualizzata.
 
-![\\\\192.168.0.84\\d\$\\ManPassweb_Ecommerce\\Videate\\commenti_sito.bmp](./assets/media/image30.png){width="6.013194444444444in"
-height="4.467361111111111in"}
+![\\\\192.168.0.84\\d\$\\ManPassweb_Ecommerce\\Videate\\commenti_sito.bmp](./assets/media/image30.png)
 
 **Considerata la finalità di questo componente esso andrà inserito,
 ovviamente, all'interno della stessa pagina web in cui è inserito e

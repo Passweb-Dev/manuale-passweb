@@ -36,15 +36,13 @@ necessario:
 - Portarsi all'interno della sezione "**Configurazione -- Api Key**" e
   creare una nuova Api Key cliccando sul relativo pulsante di aggiunta
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\apikey_welcome.bmp](./assets/media/image151.png){width="5.50625in"
-height="3.422222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\apikey_welcome.bmp](./assets/media/image151.png)
 
 - Completare la creazione della nuova chiave associandogli un'apposita
   descrizione e, soprattutto, impostando il parametro "**Tipo**"
   sull'opzione "**Api Generiche**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\apikey_welcome2.bmp](./assets/media/image152.png){width="5.50625in"
-height="3.422222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\apikey_welcome2.bmp](./assets/media/image152.png)
 
 - Attivare la chiave (parametro **Attiva**) e, successivamente, cliccare
   sul pulsante **Salva** per completare la creazione della nuova Api Key

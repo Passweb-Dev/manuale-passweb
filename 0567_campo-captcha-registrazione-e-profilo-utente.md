@@ -4,8 +4,7 @@
 
 Il Componente **"Campo Captcha"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\campo_captcha_registrazione_res.bmp](./assets/media/image120.png){width="2.5194444444444444in"
-height="2.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\campo_captcha_registrazione_res.bmp](./assets/media/image120.png)
 
 consente di inserire all'interno dei form di Registrazione e di Profilo
 Utente il captcha (***c**ompletely **a**utomated **p**ublic **T**uring
@@ -20,8 +19,7 @@ All'interno di Passweb è possibile attivare:
   la sequenza di caratteri visualizzata prima di poter confermare il
   form.
 
-![Videate\\recaptcha_7.bmp](./assets/media/image121.png){width="5.00625in"
-height="2.8180555555555555in"}
+![Videate\\recaptcha_7.bmp](./assets/media/image121.png)
 
 - Il **Google Recaptcha** ossia il sistema antispam offerto da Google e
   in grado di semplificare la vita agli utenti del sito grazie al fatto
@@ -31,8 +29,7 @@ height="2.8180555555555555in"}
   nelle condizioni di poter procedere rapidamente alla conferma del form
   stesso
 
-![Videate\\recaptcha_1.bmp](./assets/media/image122.png){width="5.00625in"
-height="3.5256944444444445in"}
+![Videate\\recaptcha_1.bmp](./assets/media/image122.png)
 
 Il fatto di avere a disposizione all'interno dei propri form il captcha
 classico piuttosto che il Google Recaptcha dipende essenzialmente dalle
@@ -48,8 +45,7 @@ sempre visualizzato il campo Captcha classico.
 Rilasciando il componente all'interno della pagina si aprirà **la sua
 maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\Form_modifica_Campo_Captcha_res.bmp](./assets/media/image123.png){width="5.143055555555556in"
-height="2.915277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\Form_modifica_Campo_Captcha_res.bmp](./assets/media/image123.png)
 
 Il campo è completamente automatizzato, è necessario inserire solo il
 nome del campo e l'etichetta che dovrà avere sul sito, a generare il

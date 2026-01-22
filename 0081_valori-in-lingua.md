@@ -11,8 +11,7 @@ e per ogni singola lingua attualmente gestita sul sito:
 - i testi configurabili direttamente nelle maschere di configurazione di
   ogni singolo componente
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\valori_in_lingua.bmp](./assets/media/image430.png){width="5.532638888888889in"
-height="3.4611111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\valori_in_lingua.bmp](./assets/media/image430.png)
 
 Nello specifico dunque il campo:
 

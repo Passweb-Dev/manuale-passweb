@@ -212,8 +212,7 @@ Data Layer gestito da Passweb in piena autonomia utilizzando la funzione
 Assistant Companion**") o un qualsiasi altri strumento che consenta di
 debuggare il codice sorgente della pagina.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\GTM_datalayer.bmp](./assets/media/image2.png){width="6.6625in"
-height="4.528472222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\GTM_datalayer.bmp](./assets/media/image2.png)
 
 Per maggiori informazioni relativamente all'utilizzo della funzionalità
 "Anteprima" di GTM e all'utilizzo dell'estensione "Tag Assistant

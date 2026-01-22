@@ -6,24 +6,20 @@ All'interno di questa sezione del Wizard è possibile visualizzare
 l'elenco di tutti i codici generati in relazione alle diverse tipologie
 di Gift Card in uso all'interno del sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\giftcard_codici.bmp](./assets/media/image317.png){width="5.675in"
-height="3.4805555555555556in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\giftcard_codici.bmp](./assets/media/image317.png)
 
 Le prime tre icone presenti nell'intestazione della griglia consentono
 di attivare e gestire la selezione multipla dei codici in elenco
 
 Nello specifico l'icona:
 
-- ![Videate\\ico_selezione_multipla.bmp](./assets/media/image26.png){width="0.11666666666666667in"
-  height="9.097222222222222e-2in"}: consente di attivare / disattivare
+- ![Videate\\ico_selezione_multipla.bmp](./assets/media/image26.png): consente di attivare / disattivare
   la selezione multipla
 
-- ![Videate\\ico_seleziona_in_blocco.bmp](./assets/media/image27.png){width="9.722222222222222e-2in"
-  height="9.722222222222222e-2in"}: consente di selezionare in blocco
+- ![Videate\\ico_seleziona_in_blocco.bmp](./assets/media/image27.png): consente di selezionare in blocco
   tutti i codici presenti in elenco
 
-- ![Videate\\ico_deseleziona_in_blocco.bmp](./assets/media/image28.png){width="9.097222222222222e-2in"
-  height="9.097222222222222e-2in"}: consente di deselezionare in blocco
+- ![Videate\\ico_deseleziona_in_blocco.bmp](./assets/media/image28.png): consente di deselezionare in blocco
   tutti i codici presenti in elenco
 
 **ATTENZIONE!** la selezione multipla è attiva, per ovvie ragioni, solo
@@ -38,16 +34,14 @@ stessa.
 Una volta impostato un filtro di ricerca, per poterlo poi eliminare sarà
 sufficiente cliccare sull'icona raffigurante una piccola lente di
 ingrandimento con un -- all'interno (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina_filtro.bmp](./assets/media/image29.png){width="7.777777777777778e-2in"
-height="9.722222222222222e-2in"} ) che comparirà in testata alla colonna
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina_filtro.bmp](./assets/media/image29.png) ) che comparirà in testata alla colonna
 in corrispondenza della quale è stato impostato il filtro stesso.
 
 Infine è anche possibile ordinare, in maniera crescente e/o decrescente,
 gli elementi in griglia cliccando semplicemente sull'icona raffigurante
 due piccole frecce posta anch' essa in testata ad ogni singola colonna
 della griglia (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_ordinamento_griglia.bmp](./assets/media/image30.png){width="0.12361111111111112in"
-height="0.14930555555555555in"} )
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_ordinamento_griglia.bmp](./assets/media/image30.png) )
 
 Per ciascuno dei codici presenti in elenco verranno indicate le seguenti
 informazioni:
@@ -80,8 +74,7 @@ informazioni:
 > specifico documento potranno essere visualizzati e gestiti anche a
 > partire dal dettaglio del documento stesso.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dettaglio_ordine_giftcard.bmp](./assets/media/image318.png){width="5.746527777777778in"
-height="3.3895833333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dettaglio_ordine_giftcard.bmp](./assets/media/image318.png)
 
 > **Nel caso invece di Gift Card Fisiche** l'associazione "codice Gift
 > Card -- Documento" non è automatica per cui il campo in esame, a
@@ -115,13 +108,11 @@ I pulsanti presenti nella contestuale barra degli strumenti consentono
 rispettivamente di:
 
 - **Elimina** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina.bmp](./assets/media/image95.png){width="0.3506944444444444in"
-  height="0.18819444444444444in"} )**:** consente di eliminare il codice
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina.bmp](./assets/media/image95.png) )**:** consente di eliminare il codice
   Gift Card attualmente selezionato
 
 - **Modifica** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica.bmp](./assets/media/image116.png){width="0.4027777777777778in"
-  height="0.18819444444444444in"} )**:** consente di accedere alle
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica.bmp](./assets/media/image116.png) )**:** consente di accedere alle
   impostazioni di configurazione del codice Gift Card attualmente
   selezionato.
 
@@ -130,28 +121,24 @@ rispettivamente di:
 > all'interno del Wizard di Passweb
 
 - **Importa da File** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_importa_da_file.bmp](./assets/media/image319.png){width="0.6166666666666667in"
-  height="0.1951388888888889in"} )**:** consente di importare in maniera
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_importa_da_file.bmp](./assets/media/image319.png) )**:** consente di importare in maniera
   massiva una serie di codici Gift Card. Per maggiori informazioni in
   merito si veda anche il successivo capitolo di questo manuale.
 
 - **Esporta** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_esporta.bmp](./assets/media/image124.png){width="0.33125in"
-  height="0.18194444444444444in"} )**:** consente di esportare
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_esporta.bmp](./assets/media/image124.png) )**:** consente di esportare
   all'interno di un file .csv i codici Gift Card attualmente presenti in
   elenco
 
 - **Transazioni** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_transazioni.bmp](./assets/media/image320.png){width="0.43472222222222223in"
-  height="0.175in"} )**:** consente di visualizzare l'elenco delle
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_transazioni.bmp](./assets/media/image320.png) )**:** consente di visualizzare l'elenco delle
   Transazioni relative al codice Gift Card attualmente selezionato in
   elenco.
 
 > Cliccando su questo pulsante verrà infatti visualizzata la maschera
 > "**Transazioni Codice Gift Card**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\transazioni_codice_giftcard.bmp](./assets/media/image321.png){width="5.746527777777778in"
-height="3.3895833333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\transazioni_codice_giftcard.bmp](./assets/media/image321.png)
 
 > all'interno della quale potremo trovare l'elenco di tutte le
 > operazioni effettuate in merito al codice in esame.
@@ -180,8 +167,7 @@ height="3.3895833333333334in"}
 > agendo sul componente "Gift Card".
 
 - **Invia Mail di Attivazione** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_invia_mail_attivazione.bmp](./assets/media/image322.png){width="0.7597222222222222in"
-  height="0.1951388888888889in"} ) **-- solo per Gift Card Virtuali:**
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_invia_mail_attivazione.bmp](./assets/media/image322.png) ) **-- solo per Gift Card Virtuali:**
   Consente di inviare all'acquirente la mail di Attivazione della Gift
   Card
 
@@ -194,14 +180,12 @@ height="3.3895833333333334in"}
 > inviata, alla pressione del pulsante verrà visualizzato un apposito
 > messaggio per informare l'amministratore del sito di questo fatto.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mesasggio_conferma_invio_mail_attivazione.bmp](./assets/media/image323.png){width="1.7791666666666666in"
-height="0.7465277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\mesasggio_conferma_invio_mail_attivazione.bmp](./assets/media/image323.png)
 
 > Confermando la richiesta la mail di attivazione verrà comunque inviata
 
 - **Invia Mail Assegnazione** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_mail_assegnazione.bmp](./assets/media/image324.png){width="0.8375in"
-  height="0.18819444444444444in"} ) **-- solo per Gift Card Virtuali e
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_mail_assegnazione.bmp](./assets/media/image324.png) ) **-- solo per Gift Card Virtuali e
   per codici generati manualmente:** consente di inviare all'utente
   associato al relativo Codice Gift Card la mail di Assegnazione utile
   per informarlo del relativo accredito.
@@ -221,15 +205,13 @@ height="0.7465277777777778in"}
 > sito di questo fatto.
 
 - **Link Condivisione** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_link_condivisione.bmp](./assets/media/image325.png){width="0.7208333333333333in"
-  height="0.18194444444444444in"} ) **-- solo per Gift Card Virtuali:**
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_link_condivisione.bmp](./assets/media/image325.png) ) **-- solo per Gift Card Virtuali:**
   consente di copiare negli appunti il link di condivisione della Carta
   Regalo in maniera tale da poterlo poi incollare, ad esempio in una
   mail, e inviare a chi di dovere
 
 - **Nuovo** (
-  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuovo.bmp](./assets/media/image326.png){width="0.325in"
-  height="0.1951388888888889in"} )**:** consente di codificare un nuovo
+  ![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuovo.bmp](./assets/media/image326.png) )**:** consente di codificare un nuovo
   codice Gift Card
 
 In relazione alla creazione di nuovi codici Gift Card vanno fatte alcune
@@ -265,8 +247,7 @@ e, in questo senso, sarà possibile procedere in due modi diversi:
 In quest'ultimo caso cliccando sul pulsante "**Nuovo**" verrà
 visualizzata la maschera "**Nuovo Codice Gift Card**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuovo_codice_gift_card.bmp](./assets/media/image327.png){width="5.746527777777778in"
-height="3.3895833333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuovo_codice_gift_card.bmp](./assets/media/image327.png)
 
 all'interno della quale poter impostare i parametri di configurazione
 del singolo codice. Nello specifico il campo:

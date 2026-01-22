@@ -6,8 +6,7 @@ Il Componente " **Autocompletamento**" **può essere utilizzato
 unicamente all'interno del componente Ecommerce di primo livello
 "Carrello Custom".**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_autocompletamento_res.bmp](./assets/media/image489.png){width="2.5340277777777778in"
-height="2.5340277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_autocompletamento_res.bmp](./assets/media/image489.png)
 
 dove consente di inserire un modulo mediante il quale gli utenti avranno
 la possibilità di ricercare ed aggiungere nuovi articoli a quelli
@@ -16,14 +15,12 @@ stessa pagina Carrello e senza dover quindi necessariamente passare da
 componenti quali il Catalogo Ecommerce, le Offerte / Novità, la Scheda
 Prodotto ecc...
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\carrello_autocompletamento1.bmp](./assets/media/image490.png){width="5.177777777777778in"
-height="3.4972222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\carrello_autocompletamento1.bmp](./assets/media/image490.png)
 
 Rilasciando il Componente nella posizione desiderata verrà visualizzata
 **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\autocompletamento_carrello_configurazione_res.bmp](./assets/media/image491.png){width="4.613194444444445in"
-height="2.932638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\autocompletamento_carrello_configurazione_res.bmp](./assets/media/image491.png)
 
 suddivisa in varie sezioni.
 
@@ -104,8 +101,7 @@ possibile impostare un valore per i seguenti parametri:
   che, peri siti Ecommerce collegati a Mexal, può essere prelevato
   direttamente da Docuvision
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_descrizione.bmp](./assets/media/image430.png){width="5.779166666666667in"
-height="3.3555555555555556in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_descrizione.bmp](./assets/media/image430.png)
 
 > Nel caso in cui il parametro in esame sia stato impostato invece sul
 > valore **"Attributo Articolo"** sarà poi possibile decidere di
@@ -310,16 +306,14 @@ verrà visualizzata una riga aggiuntiva contenente un campo di input che
 l'utente potrà utilizzare per ricercare gli articoli da inserire
 direttamente in carrello.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\carrello_autocompletamento1.bmp](./assets/media/image490.png){width="5.177777777777778in"
-height="3.4972222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\carrello_autocompletamento1.bmp](./assets/media/image490.png)
 
 Tale Riga verrà posizionata come prima riga del carrello, come ultima
 riga o appena prima delle promozioni dipendentemente da quanto impostato
 per il parametro "**Posizione Campo Autocompletamento**" presente nella
 maschera di configurazione del Carrello Custom
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\carrello_custom_10_res.bmp](./assets/media/image492.png){width="4.613194444444445in"
-height="2.932638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\carrello_custom_10_res.bmp](./assets/media/image492.png)
 
 L'utilizzo del modulo di ricerca ed inserimento rapido è estremamente
 semplice.
@@ -331,8 +325,7 @@ digitati dall'utente, nel loro codice, nel loro codice alternativo (per
 siti collegati a Mexal) o nell'ulteriore campo / attributo indicato
 anch'esso in fase di configurazione del componente.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\autocompletamento_carrello_configurazione3.bmp](./assets/media/image493.png){width="6.718055555555556in"
-height="4.539583333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\autocompletamento_carrello_configurazione3.bmp](./assets/media/image493.png)
 
 **Nota Bene!** Per i siti collegati ad uno dei gestionali Ho.Re.Ca.
 saranno esclusi da questo elenco eventuali trattamenti prenotabili via
@@ -369,8 +362,7 @@ impostare la quantità con cui quello specifico articolo dovrà essere
 inserito in carrello oltre, ovviamente, al relativo pulsante di
 aggiunta.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\autocompletamento_carrello_configurazione9.bmp](./assets/media/image494.png){width="6.718055555555556in"
-height="4.539583333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\autocompletamento_carrello_configurazione9.bmp](./assets/media/image494.png)
 
 Premendo quindi il pulsante **"Aggiungi"** verranno avviati tutti i
 controlli relativi ad eventuali quantità massime o minime effettivamente
@@ -392,8 +384,7 @@ quantità di ogni singola taglia / colore da inserire in carrello (se
 presente verrà mostrato anche il Colore o l'Immagine Background
 associata alla specifica taglia / colore)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\autocompletamento_carrello_configurazione10.bmp](./assets/media/image495.png){width="6.718055555555556in"
-height="4.539583333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\autocompletamento_carrello_configurazione10.bmp](./assets/media/image495.png)
 
 **ATTENZIONE!** Nel caso in cui il sito sia stato impostato per gestire
 l'acquisto dei vari articoli "solo se disponibili" verranno visualizzate
@@ -406,8 +397,7 @@ configuratore, in maniera tale da consentire all'utente di selezionare
 le diverse possibili opzioni indicando quindi l'esatto prodotto finito
 che dovrà essere inserire in carello
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\autocompletamento_carrello_configurazione11.bmp](./assets/media/image496.png){width="6.718055555555556in"
-height="4.539583333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\autocompletamento_carrello_configurazione11.bmp](./assets/media/image496.png)
 
 La modalità di visualizzazione del configuratore dipenderà, anche
 all'interno del componente di "Autocompletamento", da come è stato
@@ -429,15 +419,13 @@ configuratore, anche all'interno del componente di Autocompletamento
 soltanto il campo di input necessario per indicare la quantità da
 aggiungere in carrello** **più eventuali set di opzioni**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\autocompletamento_carrello_configurazione12.bmp](./assets/media/image497.png){width="5.288194444444445in"
-height="3.5395833333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\autocompletamento_carrello_configurazione12.bmp](./assets/media/image497.png)
 
 **Infine, nel momento in cui l'articolo selezionato dovesse essere un
 prodotto personalizzabile**, verranno visualizzate, per prima cosa,
 tutte le opzioni definite per il Set associato all'articolo stesso
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\autocompletamento_carrello_custom_option.bmp](./assets/media/image498.png){width="5.877083333333333in"
-height="3.558333333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\autocompletamento_carrello_custom_option.bmp](./assets/media/image498.png)
 
 Una volta effettuate le personalizzazioni richieste il pulsante
 "**Aggiungi**" permetterà di inserire l'articolo in carrello.

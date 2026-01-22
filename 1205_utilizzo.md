@@ -19,8 +19,7 @@ chiamata "**Docuvision**" con a fianco un piccolo lucchetto rosso ad
 indicare che, alla cartella in esame, sono assegnati i permessi di sola
 lettura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\area_riservata_documenti_1_passcom.bmp](./assets/media/image126.png){width="1.4548611111111112in"
-height="0.5194444444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\area_riservata_documenti_1_passcom.bmp](./assets/media/image126.png)
 
 **ATTENZIONE!** la cartella Docuvision è presente SOLO per utenti
 Passcom di tipo Azienda con delle classi Docuvision impostate per essere
@@ -36,8 +35,7 @@ eventuali tipologie di documento anch'esse impostate per essere
 pubblicate sul sito e, sulla base di queste informazioni, verrà poi
 creata la corrispondente struttura di cartelle.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\area_riservata_documenti_2_passcomm.bmp](./assets/media/image127.png){width="1.5194444444444444in"
-height="3.136111111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\area_riservata_documenti_2_passcomm.bmp](./assets/media/image127.png)
 
 **ATTENZIONE!** ovviamente come la Cartella Docuvision, anche tutte le
 sue sotto cartelle avranno i permessi di sola lettura (icona lucchetto)
@@ -54,8 +52,7 @@ e, nella parte destra della pagina, verrà visualizzato l'elenco dei
 documenti presenti all'interno del gestionale nella corrispondente
 Classe Docuvision per l'anno indicato.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\comm_ricerca_documenti_da_albero.bmp](./assets/media/image114.png){width="5.311805555555556in"
-height="3.3506944444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\comm_ricerca_documenti_da_albero.bmp](./assets/media/image114.png)
 
 **ATTENZIONE!** in questa fase i singoli documenti non sono ancora stati
 prelevati dal gestionale
@@ -64,8 +61,7 @@ Per visualizzare uno dei documenti presenti in elenco sarà sufficiente,
 esattamente come avverrebbe per un qualsiasi altro documento presente
 all'interno di Cartelle Standard, selezionarlo e cliccare sul pulsante
 **Scarica** (
-![Videate\\area_riservata_documenti_scarica_documento.bmp](./assets/media/image107.png){width="0.40902777777777777in"
-height="0.18194444444444444in"} ) presente nella corrispondente barra
+![Videate\\area_riservata_documenti_scarica_documento.bmp](./assets/media/image107.png) ) presente nella corrispondente barra
 degli strumenti.
 
 In questo modo verrà aperta un ultima connessione in tempo reale con il

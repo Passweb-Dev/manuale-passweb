@@ -16,23 +16,20 @@ selezionare un account di tipo Business, cliccare sul pulsante
 raffigurante tre puntini posto in corrispondenza dell'account stesso, e
 selezionare la voce "**View/edit account**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pp_pro_2.bmp](./assets/media/image181.png){width="5.116666666666666in"
-height="2.6430555555555557in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pp_pro_2.bmp](./assets/media/image181.png)
 
 La scheda "**API Credentials**", presente all'interno della maschera
 così visualizzata, conterrà tutti i parametri necessari per collegare la
 modalità di pagamento "PayPal Express Checkout" impostata sul proprio
 sito Passweb a questo account di test.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pp_ck_ex_7.bmp](./assets/media/image182.png){width="3.928472222222222in"
-height="3.3833333333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pp_ck_ex_7.bmp](./assets/media/image182.png)
 
 Sarà quindi necessario copiare i valori presenti all'interno dei campi
 **Username, Password** e **Signature** ed inserirli negli appositi campi
 della maschera di configurazione del pagamento Passweb
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_paypal_express.bmp](./assets/media/image180.png){width="5.779166666666667in"
-height="3.4090277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configurazione_paypal_express.bmp](./assets/media/image180.png)
 
 **NOTA BENE**: in queste condizioni il parametro "Ambiente del Gateway"
 deve ovviamente essere impostato sul valore "**Test**".

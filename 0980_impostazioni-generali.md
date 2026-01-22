@@ -256,8 +256,7 @@ Una volta salvata la Gift Card si attiverà infatti, come mostrato in
 figura, un nuovo pulsante mediante il quale poter gestire, attraverso
 l'apposita maschera, l'inserimento di una nuova condizione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuova_condizione_giftcard.bmp](./assets/media/image304.png){width="5.636111111111111in"
-height="3.3048611111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuova_condizione_giftcard.bmp](./assets/media/image304.png)
 
 Per ogni condizione è possibile impostare un valore per i seguenti
 parametri:
@@ -327,8 +326,7 @@ Di base quindi lavorando sul "Filtro Carrello" sarà possibile:
 Cliccando sul pulsante "**Aggiungi Filtro**" verranno quindi
 visualizzate le seguenti opzioni:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuova_condizione_gc.bmp](./assets/media/image305.png){width="5.7340277777777775in"
-height="3.2270833333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuova_condizione_gc.bmp](./assets/media/image305.png)
 
 - **Quantità in carrello:** permette di definire una condizione sulla
   **quantità complessiva di articoli presenti in carrello**. Supponendo
@@ -389,8 +387,7 @@ height="3.2270833333333333in"}
 > Articoli, sarà allora necessario impostare un Filtro Carrello del tipo
 > "**Percentuale elementi in carrello = 100**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gc_percentuale_articoli.bmp](./assets/media/image306.png){width="4.538888888888889in"
-height="2.5131944444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gc_percentuale_articoli.bmp](./assets/media/image306.png)
 
 > In queste condizioni se dovessimo avere in carrello anche un solo
 > articolo che non soddisfa la condizione impostata all'interno del
@@ -419,8 +416,7 @@ height="2.5131944444444443in"}
 > 24 ("Outlet Uomo"), dovremmo configurare una condizione di
 > applicabilità del tipo di quella rappresentata in figura
 >
-> ![Videate\\gc_percentuale_quantita.bmp](./assets/media/image307.png){width="3.285416666666667in"
-> height="1.9868055555555555in"}
+> ![Videate\\gc_percentuale_quantita.bmp](./assets/media/image307.png)
 >
 > In questo modo infatti se dovessimo trovarci ad avere in carrello una
 > quantità complessiva di 5 prodotti di cui 4 (quindi 80% del totale)
@@ -443,8 +439,7 @@ height="2.5131944444444443in"}
   dunque di considerare una configurazione del tipo di quella
   rappresentata in figura
 
-![Videate\\nuova_condizione_gc_3.bmp](./assets/media/image308.png){width="4.2340277777777775in"
-height="2.5909722222222222in"}
+![Videate\\nuova_condizione_gc_3.bmp](./assets/media/image308.png)
 
 > la Gift Card potrà essere utilizzata solo nel momento in cui in
 > carrello dovessimo avere almeno un articolo il cui codice inizia con
@@ -495,8 +490,7 @@ height="2.5909722222222222in"}
 > Considerando dunque una configurazione del tipo di quella
 > rappresentata in figura
 
-![Videate\\nuova_condizione_gc_4.bmp](./assets/media/image309.png){width="4.175in"
-height="2.6104166666666666in"}
+![Videate\\nuova_condizione_gc_4.bmp](./assets/media/image309.png)
 
 > e supponendo di avere in carrello i seguenti articoli
 
@@ -546,8 +540,7 @@ height="2.6104166666666666in"}
 > Considerando dunque una configurazione del tipo di quella
 > rappresentata in figura
 
-![Videate\\nuova_condizione_gc_5.bmp](./assets/media/image310.png){width="4.220833333333333in"
-height="2.6104166666666666in"}
+![Videate\\nuova_condizione_gc_5.bmp](./assets/media/image310.png)
 
 > e supponendo di avere in carrello i seguenti articoli
 
@@ -603,8 +596,7 @@ height="2.6104166666666666in"}
 > Considerando dunque una configurazione del tipo di quella
 > rappresentata in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gc_sconto_in_riga.bmp](./assets/media/image311.png){width="3.3048611111111112in"
-height="2.1881944444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gc_sconto_in_riga.bmp](./assets/media/image311.png)
 
 > la condizione in esame verrà validata e la relativa Gift Card potrà
 > essere applicata solo nel caso in cui tutti gli articoli presenti in
@@ -644,8 +636,7 @@ solo ed esclusivamente nel momento in cui tutte le condizioni impostate
 siano state soddisfatte oppure se è sufficiente che ne siano verificate
 solamente un certo numero.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuova_condizione_gc_8.bmp](./assets/media/image312.png){width="5.616666666666666in"
-height="3.298611111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\nuova_condizione_gc_8.bmp](./assets/media/image312.png)
 
 In particolare dunque impostando questo parametro sul valore:
 

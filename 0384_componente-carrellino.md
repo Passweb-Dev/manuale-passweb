@@ -5,15 +5,13 @@
 Il Componente **"Carrellino"** può essere inserito in una qualsiasi
 pagina del sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_carrellino.bmp](./assets/media/image178.png){width="2.828472222222222in"
-height="2.8159722222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_carrellino.bmp](./assets/media/image178.png)
 
 Grazie a questo componente è possibile visualizzare tutta una serie di
 informazioni, aggiornate in tempo reale, relative agli articoli
 attualmente presenti in Carrello
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\carrellino_res.bmp](./assets/media/image179.png){width="6.043055555555555in"
-height="3.8652777777777776in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\carrellino_res.bmp](./assets/media/image179.png)
 
 In particolare le informazioni presenti all'interno del componente
 possono essere:

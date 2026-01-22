@@ -5,8 +5,7 @@
 Consente di inserire un titolo utile ad indicare che i dati inseriti poi
 nei successivi campi saranno relativi alla camera N
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_welcome_campo_intestazione_camera.bmp](./assets/media/image39.png){width="5.723611111111111in"
-height="3.33125in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_welcome_campo_intestazione_camera.bmp](./assets/media/image39.png)
 
 **Tipologia di componente Passweb**: Campo Intestazione
 
@@ -16,8 +15,7 @@ height="3.33125in"}
 
 **Condizione di visibilità**: **numeroCamere è in 1,2,3 ...**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_welcome_campo_intestazione_configurazione.bmp](./assets/media/image40.png){width="4.417361111111111in"
-height="3.1041666666666665in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_welcome_campo_intestazione_configurazione.bmp](./assets/media/image40.png)
 
 Nell'ipotesi che il numero massimo di camere gestite all'interno del
 form sia 3, la condizione di visibilità indicata in figura

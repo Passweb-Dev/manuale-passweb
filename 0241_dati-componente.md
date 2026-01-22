@@ -7,8 +7,7 @@ configurazione di ogni singolo Componente Passweb, consente di impostare
 il contenuto e i principali parametri di configurazione del componente
 in esame.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componenti-paragrafo-modcontenuto_res.bmp](./assets/media/image69.png){width="5.134027777777778in"
-height="3.1416666666666666in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componenti-paragrafo-modcontenuto_res.bmp](./assets/media/image69.png)
 
 Ovviamente i parametri presenti all'interno di questa sezione dipendono
 dal particolare componente considerato per cui ogni componente avrà le

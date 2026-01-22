@@ -7,8 +7,7 @@ visualizzare l'andamento nel tempo di quello che è il numero di pagine
 visitate in relazione anche alla specifica tipologia di queste stesse
 pagine.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\report_pagine.bmp](./assets/media/image6.png){width="5.9631944444444445in"
-height="3.5027777777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\report_pagine.bmp](./assets/media/image6.png)
 
 Nel grafico sono presenti infatti 4 dataset distinti, attivabili o meno
 cliccando sulle rispettive voci presenti nella parte bassa del grafico e
@@ -29,8 +28,7 @@ relativi rispettivamente alle:
 
 La tabella presente nella parte bassa della pagina
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\statistiche_report_pagine.bmp](./assets/media/image7.png){width="5.9631944444444445in"
-height="3.5027777777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\statistiche_report_pagine.bmp](./assets/media/image7.png)
 
 consente invece di visualizzare informazioni dettagliate per ogni
 singola pagina visitata sia in termini di numero di visite ricevute
@@ -46,6 +44,5 @@ Infine cliccando sul nome di una delle pagine presenti in tabella, verrà
 visualizzato, un ulteriore grafico di dettaglio sulle visualizzazioni
 della pagina stessa.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\statistiche_report_pagine_2.bmp](./assets/media/image8.png){width="5.9631944444444445in"
-height="3.5027777777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\statistiche_report_pagine_2.bmp](./assets/media/image8.png)
 

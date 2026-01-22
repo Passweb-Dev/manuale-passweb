@@ -13,8 +13,7 @@ reindirizzamenti sullo stesso dominio
 Una volta effettuato l'accesso a questa sezione del Wizard verrà quindi
 visualizzata la maschera Redirects
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\redirects_1.bmp](./assets/media/image483.png){width="5.759722222222222in"
-height="3.3895833333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\redirects_1.bmp](./assets/media/image483.png)
 
 all'interno della quale poter visualizzare e gestire tutte le regole di
 redirect attualmente codificate e in uso per il proprio sito.
@@ -23,25 +22,21 @@ I pulsanti presenti nella contestuale barra degli strumenti consentono
 rispettivamente di:
 
 **Modifica Redirect** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_redirect.bmp](./assets/media/image484.png){width="0.6361111111111111in"
-height="0.175in"} ): consente di modificare la regola di
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_redirect.bmp](./assets/media/image484.png) ): consente di modificare la regola di
 reindirizzamento attualmente selezionata in elenco
 
 **Elimina Redirect** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_redirect.bmp](./assets/media/image485.png){width="0.5972222222222222in"
-height="0.18194444444444444in"} ): consente di eliminare la regola di
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_redirect.bmp](./assets/media/image485.png) ): consente di eliminare la regola di
 reindirizzamento attualmente selezionata in elenco
 
 **Aggiungi Redirect** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_redirect.bmp](./assets/media/image485.png){width="0.5972222222222222in"
-height="0.175in"} ): consente di creare una nuova regola di
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_aggiungi_redirect.bmp](./assets/media/image485.png) ): consente di creare una nuova regola di
 reindirizzamento.
 
 Cliccando su questo pulsante verrà infatti visualizzata la maschera
 "**Redirect**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\redirects_2.bmp](./assets/media/image486.png){width="5.759722222222222in"
-height="3.3895833333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\redirects_2.bmp](./assets/media/image486.png)
 
 all'interno della quale poter indicare l'origine e la destinazione della
 regola di reindirizzamento che si intende creare.
@@ -71,8 +66,7 @@ sarà necessario indicare, come mostrato in figura:
 - all'interno del campo Destinazione la stringa
   "**/store/punti-vendita**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\redirects_3.bmp](./assets/media/image487.png){width="5.759722222222222in"
-height="3.3895833333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\redirects_3.bmp](./assets/media/image487.png)
 
 In definitiva dunque, in fase di creazione di una nuova regola di
 reindirizzamento occorre ricordare sempre che:
@@ -102,8 +96,7 @@ affinché queste possano poi essere effettivamente applicate sarà
 necessario cliccare sul pulsante "**Applica le regole di
 reindirizzamento**" posto in fondo alla lista
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\redirects_5.bmp](./assets/media/image488.png){width="5.759722222222222in"
-height="3.3895833333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\redirects_5.bmp](./assets/media/image488.png)
 
 **ATTENZIONE! L'applicazione delle regole di reindirizzamento comporta
 il riciclo del pool del sito.**
@@ -128,16 +121,14 @@ In questo senso i due ulteriori pulsanti presenti nella barra degli
 strumenti della maschera "Redirects" consentono rispettivamente di:
 
 **Importa da file** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_importa_da_file.bmp](./assets/media/image473.png){width="0.5583333333333333in"
-height="0.175in"} ): consente di definire in maniera massiva le regole
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_importa_da_file.bmp](./assets/media/image473.png) ): consente di definire in maniera massiva le regole
 di reindirizzamento da utilizzare per il proprio sito importandole da un
 apposito file .csv o .txt.
 
 Cliccando su questo pulsante verrà infatti aperta la maschera di
 importazione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\file_redirects.bmp](./assets/media/image489.png){width="5.759722222222222in"
-height="3.3895833333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\file_redirects.bmp](./assets/media/image489.png)
 
 all'interno della quale poter indicare:
 
@@ -210,14 +201,12 @@ causa il riciclo immediato del pool del sito, oppure attendendo il
 riciclo automatico.
 
 **Esporta** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_esporta_testo.bmp](./assets/media/image475.png){width="0.31805555555555554in"
-height="0.1625in"} ): consente di esportare l'elenco delle regole di
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_esporta_testo.bmp](./assets/media/image475.png) ): consente di esportare l'elenco delle regole di
 reindirizzamento attualmente in uso sul sito, all'interno di un file
 .csv. Cliccando su questo pulsante verrà infatti visualizzata la
 maschera di esportazione
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\esportazione_redirects.bmp](./assets/media/image490.png){width="5.759722222222222in"
-height="3.3895833333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\esportazione_redirects.bmp](./assets/media/image490.png)
 
 all'interno della quale poter indicare selezionandolo, dall'apposito
 menu a tendina, il carattere che dovrà essere utilizzato all'interno del

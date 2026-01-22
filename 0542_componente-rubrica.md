@@ -13,8 +13,7 @@ Tale componente può essere inserito:
 
 - all'interno di pagine generiche (bianche) -- opzionale
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_rubrica_res.bmp](./assets/media/image29.png){width="2.123611111111111in"
-height="2.5388888888888888in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_rubrica_res.bmp](./assets/media/image29.png)
 
 **ATTENZIONE! Il componente "Rubrica" è accessibile soltanto dopo aver
 effettuato l'autenticazione**
@@ -29,8 +28,7 @@ sezioni:
   degli indirizzi registrati e/o di aggiungere un nuovo indirizzo di
   spedizione.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_iu_rubrica_esempio.bmp](./assets/media/image30.png){width="6.052083333333333in"
-height="3.9090277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_iu_rubrica_esempio.bmp](./assets/media/image30.png)
 
 La gestione degli indirizzi di spedizione merce è leggermente diversa
 dipendentemente dal fatto di considerare un sito collegato a Mexal
@@ -43,8 +41,7 @@ degli indirizzi di spedizione merce è strettamente collegata con la
 relativa tabella "Anagrafica Indirizzi di spedizione" presente
 all'interno del gestionale.**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mexal_anagrafica_indirizzi_spedizione.bmp](./assets/media/image31.png){width="3.9027777777777777in"
-height="2.6951388888888888in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mexal_anagrafica_indirizzi_spedizione.bmp](./assets/media/image31.png)
 
 Nel caso in cui sia stato realizzato un form di registrazione utente in
 cui vengono richieste informazioni quali indirizzo, CAP, località,

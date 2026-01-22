@@ -6,8 +6,7 @@ Impostando il parametro "**Tipologia Fase di Checkout**" presente nella
 maschera di configurazione del componente "Ordine Custom Checkout)"
 sull'opzione "**Visualizzazione a Step con Accordion**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\checkout_step_accordion.bmp](./assets/media/image292.png){width="4.601388888888889in"
-height="2.9631944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\checkout_step_accordion.bmp](./assets/media/image292.png)
 
 la procedura di conferma ordine verrà gestita attraverso un componente
 di tipo Accordion e sarà quindi organizzata a step verticali.

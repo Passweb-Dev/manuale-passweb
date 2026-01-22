@@ -5,8 +5,7 @@
 Una volta inserito il Componente all'interno della pagina web, verrà
 aperta in automatico **la sua maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\reso_genera_template_res.bmp](./assets/media/image329.png){width="4.588888888888889in"
-height="2.938888888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\reso_genera_template_res.bmp](./assets/media/image329.png)
 
 suddivisa in varie sezioni.
 
@@ -72,8 +71,7 @@ essere definite direttamente all'interno della sezione "**Gestione
 Contenuti**" presente nella maschera di gestione e configurazione del
 Componente stesso
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\reso_griglia_articoli.bmp](./assets/media/image330.png){width="4.595138888888889in"
-height="4.227083333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\reso_griglia_articoli.bmp](./assets/media/image330.png)
 
 Fatta questa considerazione, possiamo ora comprendere in maniera più
 semplice il significato degli ultimi parametri presenti nella maschera

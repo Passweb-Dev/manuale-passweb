@@ -13,8 +13,7 @@ La combo box di selezione sarà preceduta inoltre da un testo indicativo,
 "Ordina per:", modificabile nella sezione **"Gestione Testi/Messaggi
 Sito"** del Wizard.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\ordinamento_articoli_combo_box.bmp](./assets/media/image127.png){width="5.270138888888889in"
-height="3.404861111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\ordinamento_articoli_combo_box.bmp](./assets/media/image127.png)
 
 Inizialmente il valore selezionato all'interno della combo box sarà
 quello dell'elemento sulla base del quale è stato impostato
@@ -41,8 +40,7 @@ l'ordinamento degli articoli, è necessario agire dalla sezione
 **"Gestione Campi di Ordinamento"**, presente anch'essa all'interno
 della maschera di configurazione del componente
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_catalogo_ecommerce2_res.bmp](./assets/media/image13.png){width="4.834027777777778in"
-height="2.392361111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_catalogo_ecommerce2_res.bmp](./assets/media/image13.png)
 
 Per maggiori informazioni relativamente a come poter impostare e gestire
 i campi di ordinamento si veda anche quanto indicato all'interno del

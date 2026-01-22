@@ -6,8 +6,7 @@ All'interno di questa sezione è possibile visualizzare:
 
 - **La tabella degli ultimi 10 documenti generati**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ecommerce_top_ten_ordini.bmp](./assets/media/image28.png){width="5.649305555555555in"
-height="3.5256944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ecommerce_top_ten_ordini.bmp](./assets/media/image28.png)
 
 > **ATTENZIONE!** la tabella sopra evidenziata conterrà sempre e
 > soltanto i 10 documenti più recenti indipendentemente da specifici
@@ -19,8 +18,7 @@ height="3.5256944444444445in"}
 
 - **Le tabelle dei 10 articoli più visti / più venduti**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ecommerce_top_ten_articoli.bmp](./assets/media/image29.png){width="5.649305555555555in"
-height="3.5520833333333335in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ecommerce_top_ten_articoli.bmp](./assets/media/image29.png)
 
 > Per ciascuno degli articoli presenti in tabella sono indicati il
 > codice, il titolo è rispettivamente il numero di visite, ossia il
@@ -44,8 +42,7 @@ height="3.5520833333333335in"}
 - **La tabella dei 10 clienti (registrati) con il totale ordini più
   elevato**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ecommerce_top_ten_clienti.bmp](./assets/media/image30.png){width="5.649305555555555in"
-height="3.5256944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_ecommerce_top_ten_clienti.bmp](./assets/media/image30.png)
 
 > **ATTENZIONE!** nel momento in cui ad effettuare l'autenticazione in
 > area riservata dovesse essere un utente di tipo Cliente, all'interno

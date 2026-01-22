@@ -4,16 +4,14 @@
 
 Il Componente **"Campo Privacy"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\campo_privacy_registrazione_res.bmp](./assets/media/image124.png){width="2.5194444444444444in"
-height="2.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\campo_privacy_registrazione_res.bmp](./assets/media/image124.png)
 
 consente di inserire all'interno dei form di Registrazione e/o di
 Profilo Utente un controllo mediante il quale l'utente potrà decidere di
 accettare o meno determinate condizioni in merito alla privacy e al
 trattamento dei dati personali.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\campo_privacy_res.bmp](./assets/media/image125.png){width="5.883333333333334in"
-height="4.519444444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\campo_privacy_res.bmp](./assets/media/image125.png)
 
 **ATTENZIONE! Dipendentemente dalle impostazioni di configurazione
 settate per il componente, l'accettazione delle relative condizioni può
@@ -23,8 +21,7 @@ e del salvataggio del form.**
 Rilasciando il componente all'interno del form si aprirà **la sua
 maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_campo_privacy_res.bmp](./assets/media/image126.png){width="4.895833333333333in"
-height="3.441666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\form_campo_privacy_res.bmp](./assets/media/image126.png)
 
 suddivisa in varie sezioni.
 
@@ -182,8 +179,7 @@ componente.
 > da utilizzare per memorizzare la scelta fatta dal cliente in merito
 > alle condizioni in oggetto
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\condizioni_privacy_opzionali_res.bmp](./assets/media/image127.png){width="4.883333333333334in"
-height="3.5388888888888888in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\condizioni_privacy_opzionali_res.bmp](./assets/media/image127.png)
 
 > **ATTENZIONE!** L' Attributo di Destinazione, in cui memorizzare la
 > scelta fatta dal cliente in merito alle condizioni in oggetto, dovrà
@@ -210,8 +206,7 @@ height="3.5388888888888888in"}
 > In queste condizioni il successivo parametro "**Campo di
 > Destinazione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\condizioni_privacy_obbligatorie_res.bmp](./assets/media/image128.png){width="4.876388888888889in"
-height="3.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\condizioni_privacy_obbligatorie_res.bmp](./assets/media/image128.png)
 
 > dovrà essere impostato sul valore "**Privacy**" (l'unico possibile),
 > la scelta effettuata dal cliente in merito a tali condizioni verrà
@@ -221,8 +216,7 @@ height="3.545138888888889in"}
 > Privacy**" presenti nella maschera "**Dati Utente -- Informazioni
 > Generali**" accessibile dall'apposita sezione del Wizard.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\condizioni_privacy_obbligatorie2_res.bmp](./assets/media/image129.png){width="5.759722222222222in"
-height="3.3506944444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\condizioni_privacy_obbligatorie2_res.bmp](./assets/media/image129.png)
 
 - **Posizionamento dei Campi:** consente di posizionare gli elementi
   principali del componente secondo uno schema prestabilito.

@@ -16,15 +16,13 @@ La sezione **"Strutture"** accessibile in Passweb dalla voce di menu
 All'interno di questa pagina verrà quindi visualizzata la maschera
 **"Lista delle Strutture Articolo"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_strutture_1.bmp](./assets/media/image407.png){width="5.856944444444444in"
-height="3.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_strutture_1.bmp](./assets/media/image407.png)
 
 contenente l'elenco di tutte le Varianti Articolo codificate all'interno
 del gestionale e **per le quali è stato definito ed esportato
 all'interno del sito almeno un Prototipo**.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\horeca_strutture_2.bmp](./assets/media/image408.png){width="4.49375in"
-height="2.6430555555555557in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\horeca_strutture_2.bmp](./assets/media/image408.png)
 
 **ATTENZIONE!** Nel caso in cui una delle Varianti Articolo codificate
 all'interno del gestionale non dovesse essere presente tra quelle
@@ -54,12 +52,10 @@ successivi capitoli di questo manuale.
 ##### MODIFICA STRUTTURA
 
 Il pulsante **"Modifica Struttura"** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_struttura.bmp](./assets/media/image351.png){width="0.7145833333333333in"
-height="0.18819444444444444in"} ) presente nella barra degli strumenti
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_struttura.bmp](./assets/media/image351.png) ) presente nella barra degli strumenti
 della maschera "Lista delle Strutture Articolo
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_modifica_struttura_0.bmp](./assets/media/image409.png){width="5.8375in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_modifica_struttura_0.bmp](./assets/media/image409.png)
 
 consente di impostare i principali parametri di configurazione della
 struttura selezionata.
@@ -67,8 +63,7 @@ struttura selezionata.
 Cliccando su questo pulsante verrà visualizzata la maschera "**Modifica
 Struttura Articoli**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_strutture_13.bmp](./assets/media/image410.png){width="5.856944444444444in"
-height="3.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_strutture_13.bmp](./assets/media/image410.png)
 
 all'interno della quale il campo:
 
@@ -144,8 +139,7 @@ impostando il campo **"Tipologia di Visualizzazione"** sul valore:
   determinate dagli elementi presenti all'interno del relativo Insieme
   di Valori.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\horeca_strutture_14.bmp](./assets/media/image411.png){width="5.045138888888889in"
-height="3.2270833333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\horeca_strutture_14.bmp](./assets/media/image411.png)
 
 **NOTA BENE:** questo tipo di gestione offre quindi all\'utente la
 possibilità di creare e conseguentemente di acquistare **un qualsiasi
@@ -162,8 +156,7 @@ contestuale all\'inserimento dell\'ordine sul gestionale stesso.
   i restanti campi con i valori ammessi sulla base delle indicazioni
   precedenti
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\horeca_strutture_15.bmp](./assets/media/image412.png){width="5.045138888888889in"
-height="3.2597222222222224in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\horeca_strutture_15.bmp](./assets/media/image412.png)
 
 **NOTA BENE:** in questo tipo di gestione l\'utente ha la possibilità di
 arrivare a selezionare solamente determinate configurazioni di prodotto
@@ -219,8 +212,7 @@ E' possibile selezionare una delle seguenti opzioni:
   Radio, Select) impostati per ogni singolo livello in fase di
   configurazione della struttura stessa.
 
-![Videate\\modalita_visualizzazione_lineare.bmp](./assets/media/image413.png){width="5.045138888888889in"
-height="3.415277777777778in"}
+![Videate\\modalita_visualizzazione_lineare.bmp](./assets/media/image413.png)
 
 > Per maggiori informazioni in merito si veda anche il precedente
 > capitolo "*Modifica Campi Struttura*" di questo manuale
@@ -236,8 +228,7 @@ height="3.415277777777778in"}
   Visualizzazione" sul valore "Esploso Completamente" o "Vincolante al
   precedente livello".
 
-![Videate\\modalita_visualizzazione_tabella_esplosa.bmp](./assets/media/image414.png){width="5.045138888888889in"
-height="3.415277777777778in"}
+![Videate\\modalita_visualizzazione_tabella_esplosa.bmp](./assets/media/image414.png)
 
 > In queste condizioni dunque nelle prime due colonne della tabella
 > saranno riportati i possibili valori degli ultimi due livelli della
@@ -281,8 +272,7 @@ height="3.415277777777778in"}
   Visualizzazione" sul valore "Esploso Completamente" o "Vincolante al
   precedente livello"
 
-![Videate\\modalita_visualizzazione_tabella_esplosa_divisa.bmp](./assets/media/image415.png){width="5.045138888888889in"
-height="3.415277777777778in"}
+![Videate\\modalita_visualizzazione_tabella_esplosa_divisa.bmp](./assets/media/image415.png)
 
 > A differenza della configurazione precedente (Tabella Esplosa) in
 > questo caso però i dati degli articoli figli non saranno più
@@ -320,8 +310,7 @@ height="3.415277777777778in"}
   tabella matriciale che ha in riga il penultimo livello e in colonna
   l'ultimo livello della struttura in esame
 
-![Videate\\modalita_visualizzazione_tabella_matrice.bmp](./assets/media/image416.png){width="5.045138888888889in"
-height="3.415277777777778in"}
+![Videate\\modalita_visualizzazione_tabella_matrice.bmp](./assets/media/image416.png)
 
 > In queste condizioni ogni cella della tabella, determinata
 > dall'incrocio riga/colonna, individuerà un possibile articolo figlio i
@@ -409,14 +398,12 @@ uno dei seguenti valori:
 ##### MODIFICA CAMPI STRUTTURA
 
 Il pulsante "**Modifica Campi Struttura**" (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_campi_struttura.bmp](./assets/media/image362.png){width="0.9548611111111112in"
-height="0.18819444444444444in"} ) presente nella barra degli strumenti
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_campi_struttura.bmp](./assets/media/image362.png) ) presente nella barra degli strumenti
 della maschera "Lista delle Strutture Articolo", una vota selezionata
 una delle Varianti Articolo presenti in elenco consente invece di
 accedere alla maschera "**Modifica Campi della Struttura**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_strutture_11.bmp](./assets/media/image417.png){width="5.8375in"
-height="3.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_strutture_11.bmp](./assets/media/image417.png)
 
 maschera questa attraverso la quale poter:
 
@@ -443,8 +430,7 @@ decidere di utilizzare uno dei seguenti controlli web:
   verranno stampate tutte all'interno della pagina web in un'apposita
   lista
 
-![Videate\\configuratore_controllo_lista.bmp](./assets/media/image364.png){width="5.149305555555555in"
-height="2.825in"}
+![Videate\\configuratore_controllo_lista.bmp](./assets/media/image364.png)
 
 > In queste condizioni l'utente dovrà quindi selezionare, cliccandoci
 > sopra, l'opzione desiderata tra quelle presenti in elenco
@@ -452,8 +438,7 @@ height="2.825in"}
 - **Radio:** in questo caso le diverse possibili opzioni di scelta
   verranno inserite all'interno di controlli di tipo Radio Button
 
-![Videate\\configuratore_controllo_radio.bmp](./assets/media/image418.png){width="5.149305555555555in"
-height="2.9090277777777778in"}
+![Videate\\configuratore_controllo_radio.bmp](./assets/media/image418.png)
 
 > Anche in questo caso sarà quindi sufficiente selezionare l'opzione
 > desiderata semplicemente cliccandoci sopra
@@ -462,13 +447,11 @@ height="2.9090277777777778in"}
   possibili opzioni semplicemente selezionandola tra quelle presenti
   all'interno di un apposito menu a tendina
 
-![Videate\\configuratore_controllo_select.bmp](./assets/media/image419.png){width="5.149305555555555in"
-height="2.9090277777777778in"}
+![Videate\\configuratore_controllo_select.bmp](./assets/media/image419.png)
 
 Il parametro "**Abilita Ricerca**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\campo_struttura_abilita_ricerca.bmp](./assets/media/image420.png){width="5.610416666666667in"
-height="3.4027777777777777in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\campo_struttura_abilita_ricerca.bmp](./assets/media/image420.png)
 
 consente invece, come precedentemente indicato, di decidere se abilitare
 o meno la ricerca articoli in relazione alle opzioni presenti nel
@@ -488,27 +471,23 @@ manuale
 ##### MODIFICA ELEMENTI STRUTTURA
 
 Il pulsante **"Modifica Elementi Struttura"** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_elementi_struttura.bmp](./assets/media/image367.png){width="1.0256944444444445in"
-height="0.1951388888888889in"} ) presente nella barra degli strumenti
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_elementi_struttura.bmp](./assets/media/image367.png) ) presente nella barra degli strumenti
 della maschera "Lista delle Strutture Articolo" consentirà di accedere
 alla maschera **"Campi Struttura"** contenente l'elenco di tutti i
 livelli della Variante Articolo attualmente selezionata (ad eccezione
 ovviamente del livello definito come Radice)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_strutture_4.bmp](./assets/media/image421.png){width="5.856944444444444in"
-height="3.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_strutture_4.bmp](./assets/media/image421.png)
 
 Selezionando uno degli elementi presenti in elenco, compariranno, nella
 contestuale barra degli strumenti altri tre pulsanti **Modifica Elementi
 Campo, Importa File, Esporta** che consentono rispettivamente di:
 
 **Modifica Elementi Campo** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_elementi_campo.bmp](./assets/media/image369.png){width="0.9611111111111111in"
-height="0.1951388888888889in"} ): consente di accedere alla maschera
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_elementi_campo.bmp](./assets/media/image369.png) ): consente di accedere alla maschera
 "**Modifica Elementi Campo Struttura**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_elementi_campo_struttura.bmp](./assets/media/image422.png){width="5.850694444444445in"
-height="3.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\modifica_elementi_campo_struttura.bmp](./assets/media/image422.png)
 
 maschera questa all'interno della quale è possibile personalizzare, per
 il campo attualmente selezionato il contenuto e la posizione delle
@@ -528,15 +507,13 @@ personalizzazione di tali opzioni, è possibile:
   opzione di scelta** agendo per questo sul campo evidenziato in figura
   (campo "**Titolo**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configuratore_grafico_etichetta.bmp](./assets/media/image423.png){width="5.850694444444445in"
-height="3.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configuratore_grafico_etichetta.bmp](./assets/media/image423.png)
 
 - associare all'opzione in esame uno specifico **colore** agendo per
   questo mediante il color picker messo a disposizione dal campo
   evidenziato in figura (campo "**Colore**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configuratore_grafico_colore.bmp](./assets/media/image373.png){width="5.8375in"
-height="3.428472222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configuratore_grafico_colore.bmp](./assets/media/image373.png)
 
 > Ovviamente il campo in esame non è obbligatorio ma si rivelerà
 > particolarmente utile nel momento in cui il livello di selezione della
@@ -561,8 +538,7 @@ height="3.428472222222222in"}
   per questo sul pulsante "**Seleziona la Risorsa**" presente in
   corrispondenza del campo "**Immagine**" o "**Immagine Background**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configuratore_grafico_immagine.bmp](./assets/media/image424.png){width="5.850694444444445in"
-height="3.3506944444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configuratore_grafico_immagine.bmp](./assets/media/image424.png)
 
 > In questo senso è bene sottolineare anche che nel caso in cui si
 > dovesse decidere di associare una determinata immagine all'opzione in
@@ -617,16 +593,14 @@ height="3.3506944444444446in"}
   tale descrizione all'interno della text area evidenziata in figura
   (campo "**Testo**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configuratore_grafico_descrizione.bmp](./assets/media/image425.png){width="5.850694444444445in"
-height="3.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configuratore_grafico_descrizione.bmp](./assets/media/image425.png)
 
 - Definire per l'opzione in esame la **posizione** che l'opzione stessa
   dovrà assumere sul front end del sito all'interno dell'elenco di
   selezione delle diverse possibili opzioni di scelta (campo
   "**Posizione**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configuratore_grafico_posizione.bmp](./assets/media/image426.png){width="5.850694444444445in"
-height="3.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\configuratore_grafico_posizione.bmp](./assets/media/image426.png)
 
 > Agendo sul campo "Posizione" è quindi possibile definire, per le
 > opzioni di scelta visualizzate sul front end del sito, un ordinamento
@@ -665,8 +639,7 @@ descrizione estesa, il risultato che si potrà ottenere sul front end del
 sito, in fase di configurazione del prodotto, sarà esattamente del tipo
 di quello di quello di seguito riportato
 
-![Videate\\configuratore_grafico_frontend.bmp](./assets/media/image377.png){width="5.019444444444445in"
-height="2.584722222222222in"}
+![Videate\\configuratore_grafico_frontend.bmp](./assets/media/image377.png)
 
 Il parametro "**Elementi raggruppati per codice**" consente di decidere
 se la personalizzazione delle etichette identificative delle possibili
@@ -696,8 +669,7 @@ Supponiamo inoltre di avere inserito all'interno dell'Insieme di Valori
 associato al livello della Variante Articolo in esame un elemento con
 codice BIA e descrizione Bianco
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\horeca_strutture_6.bmp](./assets/media/image427.png){width="5.513194444444444in"
-height="3.714583333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\horeca_strutture_6.bmp](./assets/media/image427.png)
 
 Supponiamo, infine, di dover gestire, per questa Variante Articolo
 diversi Prototipi (es. AMI UOM, BMI DON ecc...) per i quali poter
@@ -709,8 +681,7 @@ Struttura**" verranno elencati tutti gli elementi presenti all'interno
 dell'Insieme di Valori in esame indipendentemente da quelli che sono gli
 Articoli Prototipo gestiti all'interno del sito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\elementi_raggruppati_per_codice.bmp](./assets/media/image428.png){width="5.8180555555555555in"
-height="3.5131944444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\elementi_raggruppati_per_codice.bmp](./assets/media/image428.png)
 
 Come detto non verrà fatta alcuna distinzione in base allo specifico
 articolo prototipo per cui personalizzando il codice BIA con la
@@ -726,8 +697,7 @@ sezione "**Elementi Campo Struttura**" non verranno più raggruppati in
 base al loro codice ma, al contrario, saranno distinti per ogni singolo
 articolo prototipo esportato e gestito all'interno del sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_strutture_8a.bmp](./assets/media/image429.png){width="5.8375in"
-height="3.422222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\horeca_strutture_8a.bmp](./assets/media/image429.png)
 
 In queste condizioni sarà quindi possibile personalizzare l'opzione di
 scelta relativa al codice BIA singolarmente per i due articoli prototipo
@@ -741,8 +711,7 @@ nel caso in cui abbia inizialmente selezionato l'articolo prototipo "BMI
 DON".
 
 **Importa da File** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_importa_da_file.bmp](./assets/media/image382.png){width="0.6298611111111111in"
-height="0.2013888888888889in"} ): consente di impostare, per il
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_importa_da_file.bmp](./assets/media/image382.png) ): consente di impostare, per il
 l'Insieme di Valori attualmente selezionato, gli elementi di
 personalizzazione delle possibili opzioni di scelta, in maniera massiva
 mediante l'upload di un file .csv o .txt.
@@ -750,8 +719,7 @@ mediante l'upload di un file .csv o .txt.
 Cliccando su questo pulsante verrà infatti aperta la maschera "**File
 Elementi Campo Struttura**"
 
-![Videate\\file_elementi_campo_struttura.bmp](./assets/media/image383.png){width="5.856944444444444in"
-height="3.428472222222222in"}
+![Videate\\file_elementi_campo_struttura.bmp](./assets/media/image383.png)
 
 all'interno della quale poter indicare:
 
@@ -852,16 +820,14 @@ all'interno della sezione "*Configurazione -- Ho.Re.Ca. Configurazione
 Gestionale*" di questo manuale.
 
 **Esporta** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_esporta_testo.bmp](./assets/media/image136.png){width="0.35694444444444445in"
-height="0.18194444444444444in"} ): consente di esportare le descrizioni
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_esporta_testo.bmp](./assets/media/image136.png) ): consente di esportare le descrizioni
 degli elementi presenti all'interno dell'Insieme di Valori attualmente
 selezionato in elenco, all'interno di un file .csv.
 
 Cliccando su questo pulsante verrà infatti aperta la maschera
 "**Esportazione Elementi Campo Struttura**"
 
-![Videate\\esportazione_elementi_campo_struttura.bmp](./assets/media/image384.png){width="5.870138888888889in"
-height="3.545138888888889in"}
+![Videate\\esportazione_elementi_campo_struttura.bmp](./assets/media/image384.png)
 
 all'interno della quale poter selezionare la lingua in relazione alla
 quale esportare le possibili opzioni di scelta (campo **Lingua**) e se
@@ -898,14 +864,12 @@ Per tutte quelle Varianti Articolo per le quali è stata impostata una
 "Generazione Elementi" Manuale, sarà infatti attivo all'interno della
 maschera "Lista delle Strutture Articolo" precedentemente esaminata,
 anche il pulsante **"Modifica Elementi Manuale"** (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_elementi_manuale.bmp](./assets/media/image385.png){width="1.0in"
-height="0.1951388888888889in"} ).
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_elementi_manuale.bmp](./assets/media/image385.png) ).
 
 Cliccando su questo pulsante verrà visualizzata la maschera **"Lista
 degli Elementi dell'Articolo Strutturato"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_elementi_articolo1.bmp](./assets/media/image386.png){width="5.8180555555555555in"
-height="3.5256944444444445in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_elementi_articolo1.bmp](./assets/media/image386.png)
 
 attraverso cui poter definire manualmente tutte le diverse possibili
 configurazioni ed i relativi prodotti finiti cui potrà arrivare un
@@ -926,8 +890,7 @@ nella barra degli strumenti.
 In questo modo verrà infatti visualizzato il form **"Elemento
 Struttura"**
 
-![Videate\\elemento_struttura.bmp](./assets/media/image388.png){width="5.8180555555555555in"
-height="3.5256944444444445in"}
+![Videate\\elemento_struttura.bmp](./assets/media/image388.png)
 
 grazie al quale poter definire la nuova possibile configurazione di
 prodotto e l'eventuale articolo (già presente in Passweb) da associare a
@@ -949,8 +912,7 @@ Alternativo**" consentirà poi, se necessario, di associare a questa
 stessa configurazione uno specifico articolo già presente all'interno
 delle anagrafiche di Passweb.
 
-![Videate\\elemento_struttura2.bmp](./assets/media/image389.png){width="5.7659722222222225in"
-height="3.49375in"}
+![Videate\\elemento_struttura2.bmp](./assets/media/image389.png)
 
 **Articolo Alternativo**: consente di indicare il codice di uno
 specifico articolo che dovrà essere associato alla configurazione di
@@ -1045,19 +1007,16 @@ maschera "Lista degli Elementi dell'Articolo Strutturato" consentono
 rispettivamente di:
 
 - **Cancella Elemento**
-  (![Videate\\pulsante_cancella_elemento.bmp](./assets/media/image430.png){width="0.7208333333333333in"
-  height="0.2076388888888889in"} ) **:** consente di eliminare la
+  (![Videate\\pulsante_cancella_elemento.bmp](./assets/media/image430.png) ) **:** consente di eliminare la
   configurazione di prodotto attualmente selezionata in elenco.
 
 - **Svuota**
-  (![Videate\\pulsante_svuota.bmp](./assets/media/image431.png){width="0.3375in"
-  height="0.21458333333333332in"}) **:** consente di eliminare tutte le
+  (![Videate\\pulsante_svuota.bmp](./assets/media/image431.png)) **:** consente di eliminare tutte le
   configurazioni di prodotto attualmente codificate, svuotando
   interamente l'elenco sottostante.
 
 - **Modifica Elemento**
-  (![Videate\\pulsante_modifica_elemento.bmp](./assets/media/image432.png){width="0.7208333333333333in"
-  height="0.2013888888888889in"}) **:** consente di modificare la
+  (![Videate\\pulsante_modifica_elemento.bmp](./assets/media/image432.png)) **:** consente di modificare la
   configurazione di prodotto attualmente selezionata in elenco. Nello
   specifico sarà però possibile modificare la sola associazione tra la
   configurazione di prodotto in esame e l'eventuale "Articolo
@@ -1068,8 +1027,7 @@ rispettivamente di:
 > andranno a sovrascrivere quelli precedentemente impostati.
 
 - **Importa da File**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_importa_da_file.bmp](./assets/media/image382.png){width="0.6166666666666667in"
-  height="0.2013888888888889in"}) **:** consente di importare un file
+  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_importa_da_file.bmp](./assets/media/image382.png)) **:** consente di importare un file
   all'interno del quale poter indicare una o più configurazioni di
   prodotto finito che dovranno poi essere inserite nell'elenco
   sottostante.
@@ -1128,8 +1086,7 @@ poter decidere come dovrà comportarsi l'applicazione in relazione a
 codici articolo già presenti in elenco ma non specificatamente indicati
 all'interno del file.
 
-![Videate\\strutture_importa_file.bmp](./assets/media/image393.png){width="5.8180555555555555in"
-height="3.5256944444444445in"}
+![Videate\\strutture_importa_file.bmp](./assets/media/image393.png)
 
 **Elimina combinazioni non presenti nel file**: se flaggato tutte le
 combinazioni di codici articolo figlio già inserite in Passweb (e

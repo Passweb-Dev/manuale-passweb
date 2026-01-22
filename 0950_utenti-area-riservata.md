@@ -79,8 +79,7 @@ all'interno del sito impostando per esso il campo Passweb "Trasferisci
 sul sito" sul valore S ed assegnandogli, ovviamente, una login ed una
 password di accesso. (campi Passweb "Login:Utente" e "Login:Password")**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\accesso_agenti.bmp](./assets/media/image105.png){width="4.50625in"
-height="1.8375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\accesso_agenti.bmp](./assets/media/image105.png)
 
 > **NOTA BENE:** dopo aver impostato per un Agente il campo Passweb
 > "Trasferisci sul sito" a S, sarà necessario lanciare una
@@ -123,8 +122,7 @@ specifico gruppo. Nel caso in cui tale parametro non sia stato
 selezionato la comunicazione con gruppi collocati ad un livello
 gerarchico più alto potrà avvenire solo a livello di interi gruppi.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\comunicazione_livello_superiore.bmp](./assets/media/image106.png){width="5.792361111111111in"
-height="3.422222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\comunicazione_livello_superiore.bmp](./assets/media/image106.png)
 
 - Inserire attività, scadenze o appuntamenti nella propria agenda, nelle
   agende condivise, e in quelle di utenti (siano essi di tipo Agente o
@@ -248,8 +246,7 @@ gestionale (per maggiori informazioni in merito si veda anche la sezione
 -- Mexal Attivazione Passweb -- Funzionalità Mexal Clienti --
 Abilitazione Accesso Area Riservata"* di questo manuale)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\abilita_ar_cliente_mexal.bmp](./assets/media/image107.png){width="5.0in"
-height="1.9868055555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\abilita_ar_cliente_mexal.bmp](./assets/media/image107.png)
 
 **In queste condizioni dunque per poter consentire ad un Cliente Mexal
 di accedere all'Area Riservata del sito E-commerce non sarà sufficiente
@@ -264,8 +261,7 @@ cliente è gestita invece all'interno del Wizard di Passweb mediante il
 campo "**Tipologia**" presente nell'anagrafica Passweb dello specifico
 utente.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cliente_area_riservata.bmp](./assets/media/image108.png){width="5.785416666666666in"
-height="4.467361111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\cliente_area_riservata.bmp](./assets/media/image108.png)
 
 **In queste condizioni dunque per poter consentire ad un Cliente dei
 gestionali Ho.Re.Ca. di accedere all'Area Riservata del sito Ecommerce,
@@ -310,8 +306,7 @@ specifico gruppo. Nel caso in cui tale parametro non sia stato
 selezionato la comunicazione con gruppi collocati ad un livello
 gerarchico più alto potrà avvenire solo a livello di interi gruppi.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\comunicazione_livello_superiore.bmp](./assets/media/image106.png){width="5.792361111111111in"
-height="3.422222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\comunicazione_livello_superiore.bmp](./assets/media/image106.png)
 
 - Inserire attività, scadenze o appuntamenti nella propria agenda, nelle
   agende condivise, e in quelle di utenti (siano essi di tipo Agente o

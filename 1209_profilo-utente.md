@@ -6,8 +6,7 @@ All'interno di questa sezione, accessibile dalla relativa voce di menu
 l'utente ha la possibilità di visualizzare e gestire alcuni parametri di
 configurazione del proprio profilo.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_comm_profilo_utente.bmp](./assets/media/image183.png){width="5.5777777777777775in"
-height="3.3375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_comm_profilo_utente.bmp](./assets/media/image183.png)
 
 Nello specifico il box:
 
@@ -50,8 +49,7 @@ Nello specifico il box:
 > cui, per il sito in esame, sia stato correttamente attivato e
 > configurato un Account di integrazione con Telegram
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\profilo_comm_telegram.bmp](./assets/media/image184.png){width="5.759722222222222in"
-height="3.4347222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\profilo_comm_telegram.bmp](./assets/media/image184.png)
 
 > consente all'utente attualmente loggato di effettuare l'iscrizione al
 > Bot Telegram del sito abilitandolo quindi alla ricezione (su Telegram)
@@ -61,8 +59,7 @@ height="3.4347222222222222in"}
 > con Telegram" comparirà invece il check "**Desidero non ricevere
 > comunicazioni attraverso Telegram**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\profilo_comm_telegram_2.bmp](./assets/media/image185.png){width="5.759722222222222in"
-height="3.4347222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\profilo_comm_telegram_2.bmp](./assets/media/image185.png)
 
 > che l'utente potrà utilizzare in un qualunque momento per esercitare
 > la corrispondente opzione di Opt Out decidendo quindi di non ricevere
@@ -73,8 +70,7 @@ height="3.4347222222222222in"}
 > esame, sia stato correttamente attivato e configurato un Account di
 > integrazione con WA Smart Business,
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\profilo_comm_opt_out_wa.bmp](./assets/media/image186.png){width="5.759722222222222in"
-height="3.4347222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\profilo_comm_opt_out_wa.bmp](./assets/media/image186.png)
 
 > consente di esercitare la corrispondente opzione di Opt Out mettendo
 > quindi l'utente nelle condizioni di non ricevere più nessun tipo di
@@ -104,8 +100,7 @@ height="3.4347222222222222in"}
 > credenziali con cui accedono anche al gestionale (quelle impostate in
 > fase di configurazione del relativo utente Passcom).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\utente_idesk_passcom.bmp](./assets/media/image187.png){width="4.538888888888889in"
-height="2.00625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\utente_idesk_passcom.bmp](./assets/media/image187.png)
 
 > Nel momento in cui l'esigenza dovesse essere quella di modificare tali
 > credenziali sarà quindi necessario agire direttamente all'interno del

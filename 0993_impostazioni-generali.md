@@ -6,8 +6,7 @@ All'interno della sezione "**Impostazioni Generali**" è possibile
 settare i principali parametri di configurazione del sistema di raccolta
 punti che si intende attivare.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\creazione_raccolta_punti_2.bmp](./assets/media/image368.png){width="5.746527777777778in"
-height="3.3895833333333334in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\creazione_raccolta_punti_2.bmp](./assets/media/image368.png)
 
 Nello specifico dunque il campo:
 

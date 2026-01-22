@@ -6,8 +6,7 @@ In questa fase l'utente dovrà andare ad inserire, all'interno di un
 apposito form, i propri dati anagrafici che verranno poi utilizzati per
 registrare la prenotazione all'interno del gestionale.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\spiagge_configurazione_11.bmp](./assets/media/image381.png){width="5.220833333333333in"
-height="3.8652777777777776in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\spiagge_configurazione_11.bmp](./assets/media/image381.png)
 
 Il form evidenziato in figura è gestito mediante l'inserimento
 all'interno della "Prenotazione Risorse Custom" di un componente

@@ -65,8 +65,7 @@ database del sito, potrà essere visualizzato anche all'interno del
 Wizard in corrispondenza del campo "**JsonLD Product**" presente
 nell'anagrafica Passweb dell'articolo (tab "**Descrizioni**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\json_ld_prdoduct_anagrafica_passweb.bmp](./assets/media/image31.png){width="5.532638888888889in"
-height="3.415277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\json_ld_prdoduct_anagrafica_passweb.bmp](./assets/media/image31.png)
 
 e, soprattutto, avrà un impatto minimo sui tempi di caricamento della
 pagina web.

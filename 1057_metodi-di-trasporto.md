@@ -10,8 +10,7 @@ all'interno del sito.
 All'interno di questa pagina verrà quindi visualizzata la maschera
 **"Lista dei Metodi di Trasporto"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_spese_trasporto.bmp](./assets/media/image255.png){width="5.629861111111111in"
-height="3.5194444444444444in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_spese_trasporto.bmp](./assets/media/image255.png)
 
 in cui verranno elencate tutte le tipologie di trasporto attualmente
 codificate.
@@ -24,16 +23,14 @@ stessa.
 Una volta impostato un filtro di ricerca, per poterlo poi eliminare sarà
 sufficiente cliccare sull'icona raffigurante una piccola lente di
 ingrandimento con un -- all'interno (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina_filtro.bmp](./assets/media/image2.png){width="7.777777777777778e-2in"
-height="9.722222222222222e-2in"} ) che comparirà in testata alla colonna
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_elimina_filtro.bmp](./assets/media/image2.png) ) che comparirà in testata alla colonna
 in corrispondenza della quale è stato impostato il filtro stesso.
 
 Infine è anche possibile ordinare, in maniera crescente e/o decrescente,
 gli elementi in griglia cliccando semplicemente sull'icona raffigurante
 due piccole frecce posta anch' essa in testata ad ogni singola colonna
 della griglia (
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_ordinamento_griglia.bmp](./assets/media/image3.png){width="0.12361111111111112in"
-height="0.14930555555555555in"} )
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\icona_ordinamento_griglia.bmp](./assets/media/image3.png) )
 
 Dipendentemente dalla tipologia di sito considerata è possibile
 distinguere due diverse tipologie di trasporto :
@@ -43,8 +40,7 @@ distinguere due diverse tipologie di trasporto :
   Questi metodi di trasporto vengono codificati e gestiti interamente
   all'interno del Wizard di Passweb.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trasporto_passweb.bmp](./assets/media/image256.png){width="5.759722222222222in"
-height="3.4027777777777777in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trasporto_passweb.bmp](./assets/media/image256.png)
 
 > **ATTENZIONE!** Nei siti Ecommerce collegati ad uno dei gestionali
 > Ho.Re.Ca. sono gestiti solo ed esclusivamente trasporti di tipo
@@ -56,8 +52,7 @@ height="3.4027777777777777in"}
   del gestionale e sono quindi importati alla sincronizzazione
   direttamente dalla tabella Mexal dei Vettori Abituali.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trasporto_mexal.bmp](./assets/media/image257.png){width="5.5777777777777775in"
-height="3.49375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\trasporto_mexal.bmp](./assets/media/image257.png)
 
 **ATTENZIONE! Nel caso in cui l'utente non possa procedere alla conferma
 dell'ordine a causa di un errata configurazione del sito, nello

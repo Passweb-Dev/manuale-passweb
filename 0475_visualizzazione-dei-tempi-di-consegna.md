@@ -31,16 +31,14 @@ Abbinati ... sarà necessario:
   Spedizione**", presente nella maschera di configurazione del
   componente "Spedizione", il segnaposto "**Data**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\spedizione_segnaposto_data.bmp](./assets/media/image456.png){width="4.631944444444445in"
-height="2.938888888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\spedizione_segnaposto_data.bmp](./assets/media/image456.png)
 
 Supponendo dunque di aver soddisfatto le due condizioni sopra indicate e
 di aver inserito il componente "Spedizione" all'interno, ad esempio,
 della scheda prodotto, potremo ottenere un risultato del tipo di quello
 evidenziato in figura.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\spedizione_segnaposto_data_2.bmp](./assets/media/image457.png){width="5.3805555555555555in"
-height="3.34375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\spedizione_segnaposto_data_2.bmp](./assets/media/image457.png)
 
 La data di prevista consegna dipenderà poi, ovviamente, dalla zona di
 spedizione considerata (per la quale valgono esattamente le stesse
@@ -111,8 +109,7 @@ consegna dovremo:
 
 [CONSENGE IN EMILIA ROMAGNA]{.underline}
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tempi_di_consegna_1.bmp](./assets/media/image458.png){width="5.791666666666667in"
-height="3.3618055555555557in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tempi_di_consegna_1.bmp](./assets/media/image458.png)
 
 - **Gestione Calendario**: No
 
@@ -143,8 +140,7 @@ height="3.3618055555555557in"}
   - Una regola di tipo "Eccezione Giorno Settimanale" indicando come
     giorno la Domenica
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tempi_di_consegna_2.bmp](./assets/media/image459.png){width="5.791666666666667in"
-height="3.3618055555555557in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tempi_di_consegna_2.bmp](./assets/media/image459.png)
 
 - **Regole di consegna**:
 
@@ -161,8 +157,7 @@ height="3.3618055555555557in"}
   - Una regola di tipo "Eccezione Giorno Settimanale" indicando come
     giorno la Domenica
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tempi_di_consegna_2a.bmp](./assets/media/image460.png){width="5.791666666666667in"
-height="3.3618055555555557in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\tempi_di_consegna_2a.bmp](./assets/media/image460.png)
 
 In queste condizioni:
 

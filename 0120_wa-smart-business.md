@@ -8,8 +8,7 @@ WA Smart Business (<https://www.wasmartbusiness.com/>) è una piattaforma
 marketing, automazione, invio campagne, assistenza clienti, notifiche,
 ecc.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\wa_smart_business_1.bmp](./assets/media/image571.png){width="5.6625in"
-height="3.5194444444444444in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\wa_smart_business_1.bmp](./assets/media/image571.png)
 
 **ATTENZIONE! Per usufruire dell'integrazione tra Passweb ed WA Smart
 Business è necessario attivare per prima cosa il relativo modulo su

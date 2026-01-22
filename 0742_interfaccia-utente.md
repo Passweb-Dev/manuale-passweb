@@ -93,6 +93,5 @@ stesso id. Dall'altra parte avremo invece la div con
 dovremo poi inserire e visualizzare le informazioni ottenute a seguito
 della chiamata API
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\portali_esempio_utilizzo_4.bmp](./assets/media/image297.png){width="5.856944444444444in"
-height="3.571527777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\portali_esempio_utilizzo_4.bmp](./assets/media/image297.png)
 

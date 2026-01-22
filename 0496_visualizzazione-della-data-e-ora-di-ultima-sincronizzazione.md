@@ -15,8 +15,7 @@ utilizzare un componente "Paragrafo" o un componente "HTML" inserendo al
 suo interno il segnaposto {{SYNCAV}} come evidenziato nella figura di
 seguito riportata**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\data_ultima_sincronizzazione_res.bmp](./assets/media/image581.png){width="4.638194444444444in"
-height="2.9444444444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\data_ultima_sincronizzazione_res.bmp](./assets/media/image581.png)
 
 Tale segnaposto verrà poi sostituito in fase di generazione dalla pagina
 web con la data e l'ora dell'ultima sincronizzazione terminata
@@ -29,8 +28,7 @@ con la data e l'ora di ultima sincronizzazione è indispensabile che sia
 inserito esattamente come indicato. Alterando la struttura di questo
 segnaposto esso sarà infatti considerato come del semplice testo.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\data_ultima_sincronizzazione2.bmp](./assets/media/image582.png){width="5.116666666666666in"
-height="3.6319444444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\data_ultima_sincronizzazione2.bmp](./assets/media/image582.png)
 
 Ovviamente l'utente avrebbe sempre la possibilità di utilizzare il
 pulsante per aggiornare in tempo reale il valore della disponibilità di

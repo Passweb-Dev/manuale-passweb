@@ -21,8 +21,7 @@ proprio sito Passweb e la piattaforma terza sarà poi necessario:
 - Inserire il secret code all'interno dell'apposito campo presente nella
   sezione "**Sito -- Preferenze -- Integrazioni**" del Wizard
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_cashback_world.bmp](./assets/media/image136.png){width="5.759722222222222in"
-height="3.636111111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_cashback_world.bmp](./assets/media/image136.png)
 
 - Inserire lo snippet di codice javascript necessario per il
   tracciamento degli ordini all'interno del campo "**Codice
@@ -32,8 +31,7 @@ height="3.636111111111111in"}
   ordine ecc...) con i relativi segnaposto messi a disposizione da
   Passweb
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_cashback_world_2.bmp](./assets/media/image137.png){width="5.811805555555556in"
-height="3.545138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sito_cashback_world_2.bmp](./assets/media/image137.png)
 
 > Per maggiori informazioni relativamente al campo "Codice
 > Completamento" si veda anche quanto indicato all'interno della sezione

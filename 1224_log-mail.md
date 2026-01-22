@@ -9,8 +9,7 @@ tipologie di mail inviate dall'applicativo
 Una volta effettuato l'accesso a questa sezione del Wizard verrà infatti
 visualizzata la maschera "**Log Mail**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\log_mail.bmp](./assets/media/image25.png){width="5.883333333333334in"
-height="3.2881944444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\log_mail.bmp](./assets/media/image25.png)
 
 contenente l'elenco di tutte le mail inviate dall'applicativo.
 
@@ -25,27 +24,23 @@ colonna stessa.
 Una volta impostato un filtro di ricerca, per poterlo poi eliminare sarà
 sufficiente cliccare sull'icona raffigurante una piccola lente di
 ingrandimento con un -- all'interno (
-![Videate\\icona_elimina_filtro.bmp](./assets/media/image26.png){width="7.98611111111111e-2in"
-height="9.791666666666667e-2in"} ) che comparirà in testata alla colonna
+![Videate\\icona_elimina_filtro.bmp](./assets/media/image26.png) ) che comparirà in testata alla colonna
 in corrispondenza della quale è stato impostato il filtro stesso.
 
 Infine è anche possibile ordinare, in maniera crescente e/o decrescente,
 gli elementi in griglia cliccando semplicemente sull'icona raffigurante
 due piccole frecce posta anch' essa in testata ad ogni singola colonna
 della griglia (
-![Videate\\icona_ordinamento_griglia.bmp](./assets/media/image27.png){width="0.12916666666666668in"
-height="0.15347222222222223in"} )
+![Videate\\icona_ordinamento_griglia.bmp](./assets/media/image27.png) )
 
 I due pulsanti presente nella contestuale barra degli strumenti
 consentono rispettivamente di:
 
 - **Visualizza Mail**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_visualizza_mail.bmp](./assets/media/image28.png){width="0.5458333333333333in"
-  height="0.1840277777777778in"} ): consente di accedere al dettaglio
+  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_visualizza_mail.bmp](./assets/media/image28.png) ): consente di accedere al dettaglio
   della mail attualmente selezionata in elenco
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dettaglio_mail.bmp](./assets/media/image29.png){width="5.760416666666667in"
-height="3.4784722222222224in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\dettaglio_mail.bmp](./assets/media/image29.png)
 
 > **ATTENZIONE!** nel dettaglio delle mail di recupero password il link
 > di recupero è oscurato e sostituito da una serie di XXXXXXXXXX. Tale
@@ -53,8 +48,7 @@ height="3.4784722222222224in"}
 > lo ha richiesto.
 
 - **Invia Mail**
-  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_invia_mail.bmp](./assets/media/image30.png){width="0.39861111111111114in"
-  height="0.17777777777777778in"} ): consente di inviare nuovamente la
+  (![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_invia_mail.bmp](./assets/media/image30.png) ): consente di inviare nuovamente la
   mail attualmente selezionata in elenco.
 
 > Tale funzionalità potrebbe quindi tornare particolarmente utile nel

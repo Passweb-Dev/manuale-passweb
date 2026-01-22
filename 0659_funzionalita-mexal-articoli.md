@@ -10,14 +10,12 @@ nuovi campi aggiuntivi secondo le proprie specifiche esigenze.
 In questo senso, dunque, portandosi nell'anagrafica di un articolo e
 cliccando sul pulsante **"Dati Aggiuntivi" (Shift + F8)**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\multi_sito_ec6.bmp](./assets/media/image21.png){width="4.695138888888889in"
-height="2.454861111111111in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\multi_sito_ec6.bmp](./assets/media/image21.png)
 
 verrà visualizzata la relativa maschera contenente l'elenco di tutte le
 videate aggiuntive articolo attualmente presenti.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\multi_sito_ec7.bmp](./assets/media/image22.png){width="2.0972222222222223in"
-height="1.8180555555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\multi_sito_ec7.bmp](./assets/media/image22.png)
 
 Selezionando quella relativa al sito su cui si desidera operare (il nome
 della videata coincide con il nome assegnato al sito, nella sua
@@ -27,8 +25,7 @@ con al suo interno i campi della videata aggiuntiva/articoli
 appositamente riservata per quello specifico sito e corrispondenti alle
 sole Funzionalità Mexal effettivamente attivate.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\multi_sito_ec8.bmp](./assets/media/image23.png){width="4.655555555555556in"
-height="2.4090277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\multi_sito_ec8.bmp](./assets/media/image23.png)
 
 > **NOTA BENE :**per maggiori informazioni relativamente all'attivazione
 > delle specifiche "Funzionalità Mexal" si veda anche il precedente
@@ -47,8 +44,7 @@ Per poter decidere quali articoli tra tutti quelli presenti in Mexal
 esportare e gestire all'interno del proprio sito web è necessario
 rifarsi alla "Funzionalità Mexal" **"Articolo sul sito".**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\configurazione_dati_articolo_mexal.bmp](./assets/media/image18.png){width="3.765972222222222in"
-height="1.9868055555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\configurazione_dati_articolo_mexal.bmp](./assets/media/image18.png)
 
 > **NOTA BENE:** per maggiori informazioni relativamente
 > all'attivazione/disattivazione delle Funzionalità Mexal si veda anche
@@ -61,8 +57,7 @@ sito, un particolare campo, **"Trasferisci sul sito"**, attraverso il
 quale poter decidere se lo specifico articolo dovrà essere o meno
 esportato e gestito all'interno del sito web.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_passweb_trasferisci_sito.bmp](./assets/media/image24.png){width="5.980555555555555in"
-height="3.0972222222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_passweb_trasferisci_sito.bmp](./assets/media/image24.png)
 
 Per poter dunque esportare e gestire uno specifico articolo all'interno
 di uno dei 9 possibili siti collegati alla propria azienda Mexal
@@ -74,23 +69,20 @@ occorre:
     nell'anagrafica del sito stesso, il parametro **"E-Commerce
     Attivo"**.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\configurazione_passweb_mexal.bmp](./assets/media/image25.png){width="5.792361111111111in"
-height="1.6166666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\configurazione_passweb_mexal.bmp](./assets/media/image25.png)
 
 2.  Portarsi nell'anagrafica Mexal dell'articolo desiderato, cliccare
     sul pulsante **"Dati Aggiuntivi" (Shift + F8)** e selezionare, tra
     quelle presenti in elenco, la videata aggiuntiva articoli relativa
     allo specifico sito su cui si intende operare.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\multi_sito_ec7.bmp](./assets/media/image26.png){width="4.655555555555556in"
-height="2.4027777777777777in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\multi_sito_ec7.bmp](./assets/media/image26.png)
 
 3.  Impostare, all'interno della successiva maschera, il campo
     **"Trasferisci sul sito"** sul valore **S (gestito all'interno del
     sito)**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_passweb_trasferisci_sito.bmp](./assets/media/image24.png){width="5.980555555555555in"
-height="3.0972222222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_passweb_trasferisci_sito.bmp](./assets/media/image24.png)
 
 > **NOTA BENE:** dopo aver impostato per ogni singolo articolo il valore
 > desiderato per il campo "Trasferisci sul sito", è di fondamentale
@@ -132,8 +124,7 @@ articoli, è possibile procedere in due modi diversi:
 1.  Eliminare completamente l'articolo dal sito web, impostando il campo
     **"Trasferisci sul sito"** sul valore **N**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_passweb_trasferisci_sito.bmp](./assets/media/image24.png){width="5.980555555555555in"
-height="3.0972222222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_passweb_trasferisci_sito.bmp](./assets/media/image24.png)
 
 > Per maggiori informazioni relativamente alle modalità di
 > esportazione/eliminazione degli articoli all'interno del sito
@@ -177,8 +168,7 @@ necessario richiamare la maschera **"Configurazione gestione dati web
 articolo"** qui di seguito riportata, e flaggare il campo
 **"Pubblica".**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_web_articolo_pubblica.bmp](./assets/media/image27.png){width="3.765972222222222in"
-height="1.9868055555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_web_articolo_pubblica.bmp](./assets/media/image27.png)
 
 > **NOTA BENE:** la maschera "Configurazione gestione dati web articolo"
 > può essere richiamata in un qualsiasi momento grazie al pulsante
@@ -193,8 +183,7 @@ specifico sito su cui si intende operare, sarà possibile trovare, nella
 successiva maschera, il campo **Pubblica** corrispondente alla
 "Funzionalità Mexal" precedentemente attivata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_passweb_pubblica.bmp](./assets/media/image28.png){width="5.0in"
-height="2.1041666666666665in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_passweb_pubblica.bmp](./assets/media/image28.png)
 
 A questo punto quindi occorrerà selezionare gli articoli gestiti sul
 sito che si vogliono temporaneamente oscurare e inserire nel campo
@@ -246,8 +235,7 @@ necessario richiamare la maschera **"Configurazione gestione dati web
 articolo"** qui di seguito riportata, e flaggare il campo **"Visualizza
 in Negozio".**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_web_articolo_visualizza_in_negozio.bmp](./assets/media/image29.png){width="3.765972222222222in"
-height="1.9868055555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_web_articolo_visualizza_in_negozio.bmp](./assets/media/image29.png)
 
 > **NOTA BENE:** la maschera "Configurazione gestione dati web articolo"
 > può essere richiamata in un qualsiasi momento grazie al pulsante
@@ -262,8 +250,7 @@ allo specifico sito su cui si intende operare, sarà possibile trovare,
 nella successiva maschera, il campo **Visual. In Negozio**
 corrispondente alla "Funzionalità Mexal" precedentemente attivata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_passweb_visual_in_negozio.bmp](./assets/media/image30.png){width="5.0in"
-height="2.1041666666666665in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_passweb_visual_in_negozio.bmp](./assets/media/image30.png)
 
 A questo punto quindi occorrerà selezionare gli articoli gestiti sul
 sito e, per ciascuno di essi, inserire all\'interno di questo campo il
@@ -330,8 +317,7 @@ necessario richiamare la maschera **"Configurazione gestione dati web
 articolo"** qui di seguito riportata, e flaggare il campo **"Prezzo a
 Richiesta".**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_web_articolo_prezzo_richiesta.bmp](./assets/media/image31.png){width="3.765972222222222in"
-height="1.9868055555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_web_articolo_prezzo_richiesta.bmp](./assets/media/image31.png)
 
 > **NOTA BENE:** la maschera "Configurazione gestione dati web articolo"
 > può essere richiamata in un qualsiasi momento grazie al pulsante
@@ -346,8 +332,7 @@ allo specifico sito su cui si intende operare, sarà possibile trovare,
 nella successiva maschera, il campo **Prezzo a Richiesta**
 corrispondente alla "Funzionalità Mexal" precedentemente attivata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_passweb_prezzo_richiesta.bmp](./assets/media/image32.png){width="5.980555555555555in"
-height="3.0972222222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_passweb_prezzo_richiesta.bmp](./assets/media/image32.png)
 
 A questo punto quindi occorrerà selezionare gli articoli gestiti sul
 sito e, per ciascuno di essi, inserire all\'interno di questo campo il
@@ -400,8 +385,7 @@ necessario richiamare la maschera **"Configurazione gestione dati web
 articolo"** qui di seguito riportata, e flaggare il campo **"Gestione
 unità di Misura secondaria".**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_web_articolo_um.bmp](./assets/media/image33.png){width="3.765972222222222in"
-height="1.9868055555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_web_articolo_um.bmp](./assets/media/image33.png)
 
 > **NOTA BENE:** la maschera "Configurazione gestione dati web articolo"
 > può essere richiamata in un qualsiasi momento grazie al pulsante
@@ -416,8 +400,7 @@ specifico sito su cui si intende operare, sarà possibile trovare, nella
 successiva maschera, il campo **Gest**. **Unità Misur.** corrispondente
 alla "Funzionalità Mexal" precedentemente attivata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_passweb_um.bmp](./assets/media/image34.png){width="5.980555555555555in"
-height="3.0972222222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_passweb_um.bmp](./assets/media/image34.png)
 
 A questo punto quindi occorrerà selezionare gli articoli gestiti sul
 sito e, per ciascuno di essi, inserire all\'interno di questo campo il
@@ -461,8 +444,7 @@ inserita nel campo **"Confezione"** dell'anagrafica dell'articolo) e da
 una parte variabile (costituita dal valore inserito dall'utente in fase
 di acquisto all'interno del sito).
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mexal_articoli_a_multipli.bmp](./assets/media/image35.png){width="5.909027777777778in"
-height="2.863888888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\mexal_articoli_a_multipli.bmp](./assets/media/image35.png)
 
 Nel caso in cui la funzionalità **"Confezione Multipla Bloccata"** NON
 sia stata attivata l'utente Mexal avrà la possibilità di modificare, in
@@ -486,8 +468,7 @@ richiamare la maschera **"Configurazione gestione dati web articolo"**
 qui di seguito riportata, e flaggare il campo **"Confezione Multipla
 Bloccata".**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_web_articolo_multipli.bmp](./assets/media/image36.png){width="3.765972222222222in"
-height="1.9868055555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_web_articolo_multipli.bmp](./assets/media/image36.png)
 
 > **NOTA BENE:** la maschera "Configurazione gestione dati web articolo"
 > può essere richiamata in un qualsiasi momento grazie al pulsante
@@ -502,8 +483,7 @@ allo specifico sito su cui si intende operare, sarà possibile trovare,
 nella successiva maschera, il campo **Conf. Multipla Blocc.**
 corrispondente alla "Funzionalità Mexal" precedentemente attivata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_passweb_multipli.bmp](./assets/media/image37.png){width="5.0in"
-height="2.1041666666666665in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_passweb_multipli.bmp](./assets/media/image37.png)
 
 A questo punto quindi occorrerà selezionare gli articoli gestiti sul
 sito per i quali si vuole attivare il controllo precedentemente
@@ -531,8 +511,7 @@ necessario richiamare la maschera **"Configurazione gestione dati web
 articolo"** qui di seguito riportata, e flaggare il campo **"Gestione
 linee articolo".**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_web_articolo_gestione_linee.bmp](./assets/media/image38.png){width="3.765972222222222in"
-height="1.9868055555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_web_articolo_gestione_linee.bmp](./assets/media/image38.png)
 
 > **NOTA BENE:** la maschera "Configurazione gestione dati web articolo"
 > può essere richiamata in un qualsiasi momento grazie al pulsante
@@ -547,8 +526,7 @@ allo specifico sito su cui si intende operare, sarà possibile trovare,
 nella successiva maschera, il campo **Gest. Linee Articolo**
 corrispondente alla "Funzionalità Mexal" precedentemente attivata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_passweb_gestione_linee.bmp](./assets/media/image39.png){width="5.0in"
-height="2.1041666666666665in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_passweb_gestione_linee.bmp](./assets/media/image39.png)
 
 A questo punto quindi occorrerà selezionare gli articoli per i quali si
 vuole attivare questo tipo di gestione e valorizzare il campo della
@@ -576,8 +554,7 @@ Linee Articolo**" sopra evidenziato, e verrà quindi popolata una tabella
 (**Lista delle Linee Articolo**) contenente l'elenco di tutte le linee
 gestite per gli articoli presenti sul Web.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_linee_articolo.bmp](./assets/media/image40.png){width="6.013194444444444in"
-height="3.558333333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\lista_linee_articolo.bmp](./assets/media/image40.png)
 
 All'interno di questa tabella, accessibile lato Wizard, dalla voce di
 menu **"Catalogo - Gestione Articoli - Gestione Linee"**, sarà inoltre
@@ -588,8 +565,7 @@ tra quelle presenti in elenco, e cliccare poi sul pulsante "**Modifica
 Linea**" presente nella barra degli strumenti. Verrà quindi visualizzata
 la maschera **"Modifica Linea Articolo"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\descrizione_linea_articolo.bmp](./assets/media/image41.png){width="6.013194444444444in"
-height="3.558333333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\descrizione_linea_articolo.bmp](./assets/media/image41.png)
 
 all'interno della quale poter, appunto, indicare una specifica
 descrizione per la linea in esame, in ciascuna delle lingue attualmente
@@ -610,8 +586,7 @@ In particolare, in fase di conferma ordine, verrà visualizzato,
 immediatamente al di sopra dei vari step necessari per la conferma del
 documento, l'elenco delle linee presenti in carrello.
 
-![M:\\ManPassweb_Ecommerce_Sviluppo\\Videate\\linee_articolo_checkout.bmp](./assets/media/image42.png){width="7.071527777777778in"
-height="4.065277777777778in"}
+![M:\\ManPassweb_Ecommerce_Sviluppo\\Videate\\linee_articolo_checkout.bmp](./assets/media/image42.png)
 
 Cliccando sull'etichetta identificativa di una specifica linea l'utente
 avrà quindi la possibilità di confermare il documento contenente gli
@@ -886,8 +861,7 @@ necessario richiamare la maschera **"Configurazione gestione dati web
 articolo"** qui di seguito riportata, e flaggare il campo **"Sconto
 massimo di vendita"**.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_web_articolo_sconto_massimo.bmp](./assets/media/image43.png){width="3.765972222222222in"
-height="1.9868055555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_web_articolo_sconto_massimo.bmp](./assets/media/image43.png)
 
 > **NOTA BENE:** la maschera "Configurazione gestione dati web articolo"
 > può essere richiamata in un qualsiasi momento grazie al pulsante
@@ -902,8 +876,7 @@ allo specifico sito su cui si intende operare, sarà possibile trovare,
 nella successiva maschera, il campo **Sconto Max Vendita**
 corrispondente alla "Funzionalità Mexal" precedentemente attivata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_passweb_sconto_massimo.bmp](./assets/media/image44.png){width="5.0in"
-height="2.1041666666666665in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_passweb_sconto_massimo.bmp](./assets/media/image44.png)
 
 A questo punto quindi occorrerà selezionare gli articoli gestiti sul
 sito per i quali si vuole fissare uno sconto massimo **ed inserire tale
@@ -942,8 +915,7 @@ superiore a quello consentito, verrà visualizzato un messaggio per
 informarlo che lo sconto inserito è superiore a quello massimo
 consentito.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sconto_massimo_messaggio.bmp](./assets/media/image45.png){width="5.519444444444445in"
-height="3.3048611111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\sconto_massimo_messaggio.bmp](./assets/media/image45.png)
 
 **ATTENZIONE! Lo sconto massimo gestito per un certo articolo non è
 legato ad un eventuale prezzo minimo impostato per l'articolo stesso.**
@@ -972,8 +944,7 @@ necessario richiamare la maschera **"Configurazione gestione dati web
 articolo"** qui di seguito riportata, e flaggare il campo **"Quantità
 massima di vendita".**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_web_articolo_quantità_massima.bmp](./assets/media/image46.png){width="3.765972222222222in"
-height="1.9868055555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_web_articolo_quantità_massima.bmp](./assets/media/image46.png)
 
 > **NOTA BENE:** la maschera "Configurazione gestione dati web articolo"
 > può essere richiamata in un qualsiasi momento grazie al pulsante
@@ -988,8 +959,7 @@ allo specifico sito su cui si intende operare, sarà possibile trovare,
 nella successiva maschera, il campo **Quantità Max Vendita**
 corrispondente alla "Funzionalità Mexal" appena attivata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_passweb_quantità_massima.bmp](./assets/media/image47.png){width="5.980555555555555in"
-height="3.0972222222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_passweb_quantità_massima.bmp](./assets/media/image47.png)
 
 A questo punto quindi occorrerà selezionare gli articoli relativamente
 ai quali si vuole attivare questo tipo di gestione e valorizzare il
@@ -1025,8 +995,7 @@ Il messaggio di notifica potrà essere personalizzato alla pagina
 componente "**Aggiunta al Carrello**" (parametro "**Massimo
 Vendibile**").
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\massimo_acquistabile_Wizard_1.bmp](./assets/media/image48.png){width="5.825in"
-height="3.441666666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\massimo_acquistabile_Wizard_1.bmp](./assets/media/image48.png)
 
 > **NOTA BENE:** la stringa {maxquantity} verrà sostituita dalla
 > quantità massima acquistabile per lo specifico articolo. Tale stringa
@@ -1070,8 +1039,7 @@ Tale valore potrà infatti essere impostato direttamente nel campo "**QTA
 minima fatturabile**" presente nell'anagrafica gestionale del relativo
 articolo (maschera "**Condizioni Commerciali**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\qta_minima_vendibile.bmp](./assets/media/image49.png){width="5.8180555555555555in"
-height="3.045138888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\qta_minima_vendibile.bmp](./assets/media/image49.png)
 
 Anche in questo caso, come per la quantità massima di vendita, nel
 momento in cui si dovesse tentare di acquistare l'articolo in esame per
@@ -1108,8 +1076,7 @@ Sarà poi necessario richiamare la maschera **"Configurazione gestione
 dati web articolo"** qui di seguito riportata, e flaggare il campo
 **"Gestione Articoli in offerta/novità/fine serie".**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_web_articolo_offerte_speciali.bmp](./assets/media/image50.png){width="3.765972222222222in"
-height="1.9868055555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_web_articolo_offerte_speciali.bmp](./assets/media/image50.png)
 
 > **NOTA BENE:** la maschera "Configurazione gestione dati web articolo"
 > può essere richiamata in un qualsiasi momento grazie al pulsante
@@ -1125,8 +1092,7 @@ nella successiva maschera, il campo **Gest. Art in offerta/novità/fine
 serie** corrispondente alla "Funzionalità Mexal" precedentemente
 attivata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_passweb_offerte_speciali2.bmp](./assets/media/image51.png){width="5.967361111111111in"
-height="3.0972222222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_passweb_offerte_speciali2.bmp](./assets/media/image51.png)
 
 A questo punto quindi occorrerà selezionare gli articoli gestiti
 all'interno del negozio web che dovranno essere considerati da Passweb
@@ -1163,8 +1129,7 @@ necessario richiamare la maschera **"Configurazione gestione dati web
 articolo"** qui di seguito riportata, e flaggare il campo
 **"Disponibilità indicativa".**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_web_articolo_disponibilità_indicativa.bmp](./assets/media/image52.png){width="4.1625in"
-height="2.1951388888888888in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_web_articolo_disponibilità_indicativa.bmp](./assets/media/image52.png)
 
 > **NOTA BENE:** la maschera "Configurazione gestione dati web articolo"
 > può essere richiamata in un qualsiasi momento grazie al pulsante
@@ -1179,8 +1144,7 @@ allo specifico sito su cui si intende operare, sarà possibile trovare,
 nella successiva maschera, il campo **Disponib. Indicativa**
 corrispondente alla "Funzionalità Mexal" precedentemente attivata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_passweb_disponibilità_indicativa.bmp](./assets/media/image53.png){width="5.980555555555555in"
-height="3.0972222222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_passweb_disponibilità_indicativa.bmp](./assets/media/image53.png)
 
 A questo punto quindi sarà possibile utilizzare il campo sopra
 evidenziato (è un campo alfanumerico) ed inserire in esso, per ogni
@@ -1220,8 +1184,7 @@ necessario richiamare la maschera **"Configurazione gestione dati web
 articolo"** qui di seguito riportata, e flaggare il campo **"Ulteriore
 Descrizione 1/2/3".**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_web_articolo_ulteriore_desc.bmp](./assets/media/image54.png){width="3.765972222222222in"
-height="1.9868055555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_web_articolo_ulteriore_desc.bmp](./assets/media/image54.png)
 
 > **NOTA BENE:** la maschera "Configurazione gestione dati web articolo"
 > può essere richiamata in un qualsiasi momento grazie al pulsante
@@ -1236,8 +1199,7 @@ allo specifico sito su cui si intende operare, sarà possibile trovare,
 nella successiva maschera, i campi **Ulteriore Descriz. 1/2/3**
 corrispondenti alle "Funzionalità Mexal" precedentemente attivata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_passweb_ulteriore_desc.bmp](./assets/media/image55.png){width="5.980555555555555in"
-height="3.0972222222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_passweb_ulteriore_desc.bmp](./assets/media/image55.png)
 
 A questo punto quindi sarà possibile utilizzare i campi sopra
 evidenziati (sono campi alfanumerici) per fornire informazioni
@@ -1313,8 +1275,7 @@ necessario richiamare la maschera **"Configurazione gestione dati web
 articolo"** qui di seguito riportata, e flaggare il campo **"Prezzo
 Minimo"**.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_web_articolo_prezzo_minimo.bmp](./assets/media/image56.png){width="3.765972222222222in"
-height="1.9868055555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_web_articolo_prezzo_minimo.bmp](./assets/media/image56.png)
 
 > **NOTA BENE:** la maschera "Configurazione gestione dati web articolo"
 > può essere richiamata in un qualsiasi momento grazie al pulsante
@@ -1329,8 +1290,7 @@ allo specifico sito su cui si intende operare, sarà possibile trovare,
 nella successiva maschera, il campo **Prezzo Minimo** corrispondente
 alla "Funzionalità Mexal" precedentemente attivata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_passweb_prezzo_minimo.bmp](./assets/media/image57.png){width="5.0in"
-height="2.1041666666666665in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_passweb_prezzo_minimo.bmp](./assets/media/image57.png)
 
 A questo punto quindi occorrerà selezionare gli articoli gestiti sul
 sito per i quali si vuole fissare un prezzo minimo **ed inserire per
@@ -1363,8 +1323,7 @@ Carrello Custom) per informarlo che il valore impostato non è corretto
 **e il prezzo dell'articolo verrà automaticamente impostato sul prezzo
 minimo consentito**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prezzo_minimo_messaggio.bmp](./assets/media/image58.png){width="5.552083333333333in"
-height="3.3048611111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\prezzo_minimo_messaggio.bmp](./assets/media/image58.png)
 
 **ATTENZIONE! Per gli articoli di tipo Campionario non è possibile
 effettuare variazioni di prezzo**
@@ -1397,8 +1356,7 @@ necessario richiamare la maschera **"Configurazione gestione dati web
 articolo"** qui di seguito riportata, e flaggare il campo **"Gruppi
 Merceologici".**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_web_articolo_gruppi_merceologici.bmp](./assets/media/image59.png){width="3.765972222222222in"
-height="1.9868055555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_web_articolo_gruppi_merceologici.bmp](./assets/media/image59.png)
 
 > **NOTA BENE:** la maschera "Configurazione gestione dati web articolo"
 > può essere richiamata in un qualsiasi momento grazie al pulsante
@@ -1413,8 +1371,7 @@ allo specifico sito su cui si intende operare, sarà possibile trovare,
 nella successiva maschera, il campo **Gruppi Merceologici**
 corrispondente alla "Funzionalità Mexal" appena attivata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_passweb_gruppi_merceologici.bmp](./assets/media/image60.png){width="5.0in"
-height="2.1041666666666665in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_passweb_gruppi_merceologici.bmp](./assets/media/image60.png)
 
 A questo punto sarà quindi sufficiente inserire nel campo in esame i
 codici delle Categorie Merceologiche secondarie cui l'articolo dovrà
@@ -1482,8 +1439,7 @@ necessario richiamare la maschera **"Configurazione gestione dati web
 articolo"** qui di seguito riportata, e flaggare il campo **"Gestione
 Confezione".**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_web_articolo_gestione_confezione.bmp](./assets/media/image61.png){width="3.765972222222222in"
-height="1.9868055555555555in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_web_articolo_gestione_confezione.bmp](./assets/media/image61.png)
 
 > **NOTA BENE:** la maschera "Configurazione gestione dati web articolo"
 > può essere richiamata in un qualsiasi momento grazie al pulsante
@@ -1498,8 +1454,7 @@ allo specifico sito su cui si intende operare, sarà possibile trovare,
 nella successiva maschera, il campo **Gestione Confezioni**
 corrispondente alla "Funzionalità Mexal" appena attivata.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_passweb_gestione_confezioni.bmp](./assets/media/image62.png){width="5.0in"
-height="2.1041666666666665in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\dati_passweb_gestione_confezioni.bmp](./assets/media/image62.png)
 
 **ATTENZIONE! Il valore inserito all'interno del campo evidenziato in
 figura determinerà come l'articolo verrà effettivamente venduto
@@ -1520,8 +1475,7 @@ In particolare nel caso in cui il campo in esame dovesse essere:
   impostato nell'anagrafica dello stesso articolo per il campo
   "Confezione"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\multipli_confezioni.bmp](./assets/media/image63.png){width="3.16875in"
-height="2.00625in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\multipli_confezioni.bmp](./assets/media/image63.png)
 
 > In questo senso occorre distinguere due diverse possibili situazioni
 > determinate dal particolare valore impostato per il campo in esame.
@@ -1570,8 +1524,7 @@ height="2.00625in"}
 > Configurazione Parametri Catalogo -- Catalogo Mexal*" del Wizard,
 > oppure all'interno dell'Anagrafica Passweb del relativo articolo.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_confezione.bmp](./assets/media/image64.png){width="5.8180555555555555in"
-height="3.3506944444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gestione_confezione.bmp](./assets/media/image64.png)
 
 > Per maggiori informazioni in merito si veda anche la sezione
 > "*Catalogo -- Configurazione Parametri Catalogo -- Catalogo Mexal --
@@ -1591,8 +1544,7 @@ height="3.3506944444444446in"}
 > Web singola" presente all'interno della sezione "Gestione Confezione"
 > della maschera di configurazione del Catalogo Mexal
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\confezione_web_singola.bmp](./assets/media/image65.png){width="5.792361111111111in"
-height="3.428472222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\confezione_web_singola.bmp](./assets/media/image65.png)
 
 > Per maggiori informazioni in merito si veda anche la sezione
 > "*Catalogo -- Configurazione Parametri Catalogo -- Catalogo Mexal /
@@ -1658,16 +1610,14 @@ Inoltre risulterà attivo anche il pulsante **E-Commerce \[F8\]**.
 Cliccando su questo pulsante verrà visualizzato l'elenco di tutti i siti
 (attivi e non) attualmente configurati sull'azienda in esame.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\multi_sito_ec9.bmp](./assets/media/image66.png){width="4.519444444444445in"
-height="2.4479166666666665in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\multi_sito_ec9.bmp](./assets/media/image66.png)
 
 Selezionando quindi lo specifico sito su cui si intende operare e
 cliccando sul pulsante **OK (Invio)** verrà visualizzata la solita
 maschera mediante la quale poter decidere se filtrare gli articoli in
 Ricerca, oppure in Modifica
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\multi_sito_ec10.bmp](./assets/media/image67.png){width="4.486805555555556in"
-height="2.422222222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\multi_sito_ec10.bmp](./assets/media/image67.png)
 
 Scegliendo la voce **Ricerca** sarà poi possibile selezionare gli
 articoli da variare in base ai campi presenti nella videata aggiuntiva
@@ -1689,8 +1639,7 @@ I dati possono essere visualizzati in due pagine e per utilizzare i
 campi nella pagina successiva si deve scorrere con i tasti di
 navigazione Freccia Su e Freccia giù o con il pulsante Invio.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\zvma_pw_002.bmp](./assets/media/image68.png){width="5.0in"
-height="2.1041666666666665in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\zvma_pw_002.bmp](./assets/media/image68.png)
 
 Inserendo un valore in un campo di ricerca verranno elaborati solo gli
 articoli che contengono quel valore in quel campo. Per selezionare gli
@@ -1700,8 +1649,7 @@ Dopo aver immesso delle selezioni, premendo nuovamente il pulsante
 \[F8\], viene segnalata la presenza di campi impostati con la dicitura
 "(impostata)":
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\zvma_pw_004.bmp](./assets/media/image69.png){width="1.1430555555555555in"
-height="0.9284722222222223in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\zvma_pw_004.bmp](./assets/media/image69.png)
 
 **MODIFICA**
 
@@ -1712,8 +1660,7 @@ I dati possono essere visualizzati in due pagine e per utilizzare i
 campi nella pagina successiva si deve scorrere con i tasti di
 navigazione Freccia Su e Freccia giù o con il pulsante Invio.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\zvma_pw_005.bmp](./assets/media/image70.png){width="5.0in"
-height="2.1041666666666665in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce\\Videate\\zvma_pw_005.bmp](./assets/media/image70.png)
 
 Impostando un valore in un campo questo verrà inserito negli articoli
 che rispettano i parametri di selezione. Per azzerare un campo è attivo

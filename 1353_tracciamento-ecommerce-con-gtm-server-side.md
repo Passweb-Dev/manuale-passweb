@@ -58,8 +58,7 @@ corretta il campo "**Transport URL (Server Side)**" presente alla pagina
 "**Sito -- Preferenze**" del Wizard (tab "**Tracciamento Dati**" sezione
 "**Google Analytics**")
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_ss_1.bmp](./assets/media/image180.png){width="5.777083333333334in"
-height="3.4965277777777777in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_ss_1.bmp](./assets/media/image180.png)
 
 **Transport URL (Server Side):** consente di impostare l' url del server
 su cui è installato il contenitore server di GTM e verso cui dovranno
@@ -74,8 +73,7 @@ dalla piattaforma stape.io, all'interno di questo campo andrà inserito
 esattamente l' url associato al server creato su stape e visualizzato
 all'interno del campo **Tagging Server URL**
 
-![Videate\\stape_6.bmp](./assets/media/image173.png){width="5.146527777777778in"
-height="3.4715277777777778in"}
+![Videate\\stape_6.bmp](./assets/media/image173.png)
 
 Si ricorda inoltre che, come evidenziato nei precedenti capitoli di
 questo manuale, tale url può essere sia quello associato automaticamente
@@ -101,8 +99,7 @@ Nello specifico dunque, sarà necessario accedere al pannello di gestione
 del contenitore web di GTM utilizzato per implementare il tracciamento,
 individuare e aprire il tag di configurazione di GA4
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_ss_2.bmp](./assets/media/image181.png){width="5.044444444444444in"
-height="3.3569444444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_ss_2.bmp](./assets/media/image181.png)
 
 Nella maschera di configurazione del Tag dovremo poi selezionare
 l'opzione "**Invia al contenitore del server**" e inserire quindi l' url
@@ -110,8 +107,7 @@ associato al nostro server stape all'interno del campo "**URL del
 contenitore del server**" come evidenziato nella figura di seguito
 riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_ss_3.bmp](./assets/media/image182.png){width="5.044444444444444in"
-height="3.3569444444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_ss_3.bmp](./assets/media/image182.png)
 
 **ATTENZIONE!** lavorando sul Tag di configurazione di GA4 tutti gli
 eventi registrati sul sito verranno inoltrati al contenitore server-side
@@ -125,8 +121,7 @@ GA4 del relativo evento aggiungendo per esso il parametro
 "**transport_url**" valorizzato anche questa volta con l' url associato
 al nostro server stape
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_ss_4.bmp](./assets/media/image183.png){width="5.044444444444444in"
-height="3.3569444444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_ss_4.bmp](./assets/media/image183.png)
 
 ##### DEBUG E VERIFICA DELL'INVIO DEI DATI AL CONTENITORE SERVER SIDE DI GTM
 
@@ -145,35 +140,30 @@ Accedere quindi al contenitore web di GTM utilizzato per implementare il
 tracciamento GA4 e avviare la modalità di debug cliccando sul pulsante
 di "**Anteprima**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_ss_5.bmp](./assets/media/image184.png){width="5.044444444444444in"
-height="3.3569444444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_ss_5.bmp](./assets/media/image184.png)
 
 Una volta avviata la modalità di debug di questo contenitore potremo
 verificare come al solito che tutti i tag di tracciamento impostati per
 il sito vengano attivati in maniera corretta
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_ss_6.bmp](./assets/media/image185.png){width="5.044444444444444in"
-height="3.3569444444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_ss_6.bmp](./assets/media/image185.png)
 
 Ora restando sempre nella stessa finestra del browser torniamo sul tab
 in cui è presente l'interfaccia di gestione di GTM e andiamo ad aprire
 il contenitore Server Side
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_ss_7.bmp](./assets/media/image186.png){width="5.044444444444444in"
-height="3.3569444444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_ss_7.bmp](./assets/media/image186.png)
 
 Lanciamo quindi anche per esso la modalità di Debug cliccando sul
 relativo pulsante di "**Anteprima**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_ss_8.bmp](./assets/media/image187.png){width="5.044444444444444in"
-height="3.3569444444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_ss_8.bmp](./assets/media/image187.png)
 
 A questo punto dovremmo quindi avere aperti contemporaneamente in due
 tab distinti della stessa finestra del browser il debug del contenitore
 web e quello del contenitore server side
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_ss_9.bmp](./assets/media/image188.png){width="6.961805555555555in"
-height="2.9805555555555556in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_ss_9.bmp](./assets/media/image188.png)
 
 Andiamo quindi nel tab in cui è stato aperto il front end del sito e
 navighiamolo in maniera tale da far scattare alcuni tag di tracciamento.
@@ -184,8 +174,7 @@ anche nella finestra di debug del contenitore server side.
 Nello specifico dovremo trovarci in una situazione del tipo di quella
 rappresentata in figura
 
-![Videate\\gtm_ss_10.bmp](./assets/media/image189.png){width="5.044444444444444in"
-height="3.3569444444444443in"}
+![Videate\\gtm_ss_10.bmp](./assets/media/image189.png)
 
 Selezionando uno degli eventi in arrivo sul contenitore server side (es.
 page_view nella colonna di sinistra), nel tab "**Request**" della
@@ -202,8 +191,7 @@ contenitore server side di GTM dispone nativamente di un client GA4 in
 grado di acquisire e interpretare le richieste in arrivo dai tradizioni
 sistemi di tracciamento client GA4
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_ss_11.bmp](./assets/media/image190.png){width="5.044444444444444in"
-height="3.3569444444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_ss_11.bmp](./assets/media/image190.png)
 
 Al momento invece la sezione "**Outgoing HTTP Request from Server**" non
 conterrà invece nessun dato.
@@ -234,8 +222,7 @@ sul pulsante "**Nuovo**" per avviare la creazione di un nuovo tag (il
 procedimento è esattamente lo stesso di quello più volte utilizzato per
 creare tag sul tradizionale contenitore web)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_ss_12.bmp](./assets/media/image191.png){width="5.044444444444444in"
-height="3.3569444444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_ss_12.bmp](./assets/media/image191.png)
 
 **ATTENZIONE!** I Tag disponibili per un contenitore server side sono
 diversi (e ancora in numero molto minore) rispetto a quelli presenti per
@@ -245,8 +232,7 @@ Selezionare quindi tra le tipologie di tag disponibili quello relativo
 ovviamente a GA4 e completare la configurazione del Tag lasciando i
 valori di default
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_ss_13.bmp](./assets/media/image192.png){width="5.044444444444444in"
-height="3.3569444444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_ss_13.bmp](./assets/media/image192.png)
 
 **ATTENZIONE!** lasciare vuoto il campo "**ID misurazione**".
 
@@ -265,8 +251,7 @@ integrare i dati in ingresso al contenitore server side con altre
 informazioni (sezione "Parametri da aggiungere / modificare") prima di
 passarli effettivamente ad Analytics
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_ss_14.bmp](./assets/media/image193.png){width="5.044444444444444in"
-height="3.3569444444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_ss_14.bmp](./assets/media/image193.png)
 
 **ATTENZIONE!** Come più volte indicato lo scopo di questo manuale non è
 quello di fornire una guida all'utilizzo di GTM ma semplicemente quella
@@ -286,8 +271,7 @@ Clicchiamo dunque sul pulsante di creazione di un nuovo attivatore e
 selezioniamo, tra le opzioni disponibili, quella relativa ad un nuovo
 Attivatore "**Personalizzato**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_ss_15.bmp](./assets/media/image194.png){width="5.050694444444445in"
-height="3.3569444444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_ss_15.bmp](./assets/media/image194.png)
 
 Così come per i Tag anche per gli Attivatori quelli disponibili in un
 contenitore server side sono sostanzialmente diversi rispetto a quelli
@@ -307,14 +291,12 @@ due client in grado di riconoscere ed interpretare le chiamate in
 ingresso provenienti rispettivamente da un sistema di tracciamento
 Universal Analytics o Google Analytics 4
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_ss_16.bmp](./assets/media/image157.png){width="5.044444444444444in"
-height="3.3569444444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_ss_16.bmp](./assets/media/image157.png)
 
 In considerazione di quanto detto il nostro attivatore personalizzato
 dovrà essere configurato come nella figura di seguito riportata
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_ss_17.bmp](./assets/media/image195.png){width="5.044444444444444in"
-height="3.3569444444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_ss_17.bmp](./assets/media/image195.png)
 
 Il campo "**Questo attivatore si attiva su**" dovrà essere impostato
 sull'opzione "**Alcuni eventi**"
@@ -360,8 +342,7 @@ A questo punto se tutto funziona in maniera corretta andando ad
 analizzare la finestra di debug del contenitore server side dovremmo
 trovarci in una situazione del tipo di quella rappresentata in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_ss_18.bmp](./assets/media/image196.png){width="5.044444444444444in"
-height="3.3569444444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_ss_18.bmp](./assets/media/image196.png)
 
 In colonna sinistra dovremmo trovare l'elenco degli eventi e delle
 relative chiamate provenienti dal nostro sito ecommerce e in ingresso al
@@ -382,8 +363,7 @@ contenitore server side, ma anche quella relativa alle "**Outgoing HTTP
 Requests form Server**" ossia le richieste effettivamente in uscita da
 questo stesso contenitore server side
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_ss_19.bmp](./assets/media/image197.png){width="5.044444444444444in"
-height="3.3569444444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_ss_19.bmp](./assets/media/image197.png)
 
 L'ultima cosa da verificare è ora che le richieste in uscita dal
 contenitore server side siano state correttamente inviate ai server di
@@ -391,8 +371,7 @@ Google. Spostandoci dunque nella Debug View dell'account GA4 collegato
 dovremmo trovare una situazione del tipo di quella rappresentata in
 figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_ss_20.bmp](./assets/media/image198.png){width="5.044444444444444in"
-height="3.3569444444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_ss_20.bmp](./assets/media/image198.png)
 
 a testimonianza del fatto che gli eventi originariamente generati sul
 nostro sito ecommerce sono stati correttamente registrati da Google

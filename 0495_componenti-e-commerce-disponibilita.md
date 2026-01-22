@@ -4,8 +4,7 @@
 
 Il Componente **"Disponibilità"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_disponibilita_res.bmp](./assets/media/image575.png){width="2.8222222222222224in"
-height="3.4604166666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_disponibilita_res.bmp](./assets/media/image575.png)
 
 consente di inserire all'interno del corrispondente Componente Ecommerce
 di primo livello, un pulsante attraverso cui poter richiedere, per lo
@@ -35,8 +34,7 @@ Rilasciando il Componente nella posizione desiderata all'interno della
 pagina web, verrà visualizzata **la sua maschera di gestione e
 configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_disponibilita_configurazione_res.bmp](./assets/media/image576.png){width="5.097916666666666in"
-height="2.99375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_ecommerce_disponibilita_configurazione_res.bmp](./assets/media/image576.png)
 
 suddivisa in varie sezioni.
 
@@ -149,8 +147,7 @@ E' possibile selezionare uno dei seguenti valori:
 > quelli impostati alla pagina "Catalogo -- Configurazione Parametri-
 > Catalogo Mexal" del Wizard nella sezione Disponibilità]{.underline}.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\disponibilita_mexal_sincronizzazione.bmp](./assets/media/image577.png){width="6.061111111111111in"
-height="3.3986111111111112in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\disponibilita_mexal_sincronizzazione.bmp](./assets/media/image577.png)
 
 > Per maggiori informazioni in merito si veda anche il corrispondente
 > capitolo ("*Catalogo -- Configurazione Parametri Catalogo -- Catalogo
@@ -312,8 +309,7 @@ selezionare uno dei seguenti valori:
   indicato all'interno del campo "**Numero del Magazzino**" presente
   nella maschera di "**Configurazione Ordini**" del Wizard.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\disponibilita_mexal_magazzino_1.bmp](./assets/media/image578.png){width="6.049305555555556in"
-height="3.3868055555555556in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\disponibilita_mexal_magazzino_1.bmp](./assets/media/image578.png)
 
 - **Tutti i Magazzini:** selezionando questo valore il componente
   consentirà di richiedere la disponibilità sul totale dei magazzini
@@ -327,8 +323,7 @@ height="3.3868055555555556in"}
   quindi selezionare l'insieme dei magazzini su cui effettuare la
   richiesta in tempo reale della disponibilità dello specifico articolo.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\disponibilita_mexal_magazzino_2.bmp](./assets/media/image579.png){width="4.65in"
-height="2.99375in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\disponibilita_mexal_magazzino_2.bmp](./assets/media/image579.png)
 
 **Formule della Disponibilità:** visualizzato solo nel caso in cui il
 precedente parametro "Disponibilità" sia stato impostato sul valore
@@ -383,8 +378,7 @@ all'interno di quello stesso scaglione
 applicati solo nel caso in cui il precedente campo "**Visualizzazione**"
 sia stato impostato sul valore **Fascia**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\disponibilita_mexal_fasce_res.bmp](./assets/media/image580.png){width="4.613194444444445in"
-height="2.9569444444444444in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\disponibilita_mexal_fasce_res.bmp](./assets/media/image580.png)
 
 Per aggiungere un nuovo scaglione è sufficiente cliccare sull'icona
 raffigurante un piccolo +. In questo modo verrà infatti visualizzata,

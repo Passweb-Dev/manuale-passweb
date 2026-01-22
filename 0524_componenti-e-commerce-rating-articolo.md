@@ -4,16 +4,14 @@
 
 Il Componente **"Rating Articolo"**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_rating_articolo_ec.bmp](./assets/media/image687.png){width="2.5340277777777778in"
-height="2.5340277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\componente_rating_articolo_ec.bmp](./assets/media/image687.png)
 
 può essere inserito solo ed esclusivamente all'interno di un componente
 "**Commenti Associati**" e consente di visualizzare la valutazione (da 1
 a 5 stelle) che è stata data dall'autore del commento al prodotto
 commentato.
 
-![\\\\192.168.0.84\\d\$\\ManPassweb_Ecommerce\\Videate\\rating_articolo_esempio.bmp](./assets/media/image688.png){width="4.601388888888889in"
-height="2.9569444444444444in"}
+![\\\\192.168.0.84\\d\$\\ManPassweb_Ecommerce\\Videate\\rating_articolo_esempio.bmp](./assets/media/image688.png)
 
 **NOTA BENE:** per maggiori informazioni relativamente a come poter
 consentire ad un utente del sito di associare ai propri commenti anche
@@ -25,8 +23,7 @@ A livello di configurazione, una volta inserito il Componente
 all'interno della pagina web, verrà aperta in automatico **la sua
 maschera di gestione e configurazione**
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\rating_articolo_configurazione_res.bmp](./assets/media/image689.png){width="4.607638888888889in"
-height="1.7604166666666667in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\rating_articolo_configurazione_res.bmp](./assets/media/image689.png)
 
 suddivisa in varie sezioni.
 

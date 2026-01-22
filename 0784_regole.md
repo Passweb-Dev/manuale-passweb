@@ -36,40 +36,33 @@ pulsante.
 I pulsanti presenti nella barra degli strumenti della maschera "**Regole
 di valorizzazione**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\regole_valorizzazione_articolo.bmp](./assets/media/image294.png){width="5.83125in"
-height="3.3506944444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\regole_valorizzazione_articolo.bmp](./assets/media/image294.png)
 
 consentono rispettivamente di:
 
 **Modifica Regola**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_regola.bmp](./assets/media/image295.png){width="0.5909722222222222in"
-height="0.16875in"} ): consente di modificare la regola attualmente
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_modifica_regola.bmp](./assets/media/image295.png) ): consente di modificare la regola attualmente
 selezionata
 
 **Elimina Regola**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_regola.bmp](./assets/media/image296.png){width="0.5388888888888889in"
-height="0.18194444444444444in"} ): consente di eliminare la regola
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_elimina_regola.bmp](./assets/media/image296.png) ): consente di eliminare la regola
 attualmente selezionata
 
 **Copia Regola**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_copia_regola.bmp](./assets/media/image297.png){width="0.48680555555555555in"
-height="0.18819444444444444in"} ): consente di copiare la regola
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_copia_regola.bmp](./assets/media/image297.png) ): consente di copiare la regola
 attualmente selezionata. La nuova regola avrà lo stesso nome della
 regola copiata preceduto dal testo "Copia"
 
 **Applica Regola**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_applica_regola.bmp](./assets/media/image298.png){width="0.5451388888888888in"
-height="0.175in"} ): consente di applicare la regola attualmente
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_applica_regola.bmp](./assets/media/image298.png) ): consente di applicare la regola attualmente
 selezionata
 
 **Nuova Regola**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuova_regola.bmp](./assets/media/image299.png){width="0.5131944444444444in"
-height="0.175in"} ): consente di creare una nuova regola di
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuova_regola.bmp](./assets/media/image299.png) ): consente di creare una nuova regola di
 valorizzazione degli Attributi Articolo
 
 **Nuova Regola Classi**
-(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuova_regola_classi.bmp](./assets/media/image299.png){width="0.5131944444444444in"
-height="0.175in"} ): consente di creare una nuova regola di
+(![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\pulsante_nuova_regola_classi.bmp](./assets/media/image299.png) ): consente di creare una nuova regola di
 valorizzazione delle classi CSS
 
 Le regole presenti in elenco ed evidenziate in grassetto, oltre a poter

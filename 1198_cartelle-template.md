@@ -5,8 +5,7 @@
 Le "**Cartelle Template**" sono quelle identificate all'interno
 dell'albero dall'icona colorata di blu e:
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_comm_cartelle_template.bmp](./assets/media/image87.png){width="5.311805555555556in"
-height="3.3506944444444446in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ar_comm_cartelle_template.bmp](./assets/media/image87.png)
 
 - **possono essere create e gestite unicamente** **da utenti di tipo
   COMMERCIALISTA**
@@ -30,8 +29,7 @@ COMMERCIALISTA, ed essendo la nuova cartella creata a livello 0 nella
 sua maschera di creazione sarà presente anche il parametro
 "**Prototipo**"
 
-![Videate\\area_riservata_documenti_crea_template_passcomm.bmp](./assets/media/image88.png){width="2.084722222222222in"
-height="1.6430555555555555in"}
+![Videate\\area_riservata_documenti_crea_template_passcomm.bmp](./assets/media/image88.png)
 
 Selezionando tale parametro verrà automaticamente nascosta la sezione
 "Utenti e Gruppi" e, di fatto, scomparirà quindi la possibilità di
@@ -100,12 +98,10 @@ se al suo interno sono presenti delle sotto cartelle
 
 Infine, selezionando la radice di un Template, si abiliterà nella barra
 degli strumenti il pulsante **Copia Template**
-(![Videate\\ar_pulsante_copia_template_passcom.bmp](./assets/media/image89.png){width="0.23402777777777778in"
-height="0.18194444444444444in"} )
+(![Videate\\ar_pulsante_copia_template_passcom.bmp](./assets/media/image89.png) )
 
 **Copia Template**
-(![Videate\\ar_pulsante_copia_template_passcom.bmp](./assets/media/image89.png){width="0.23402777777777778in"
-height="0.18194444444444444in"} ): consente di effettuare una copia
+(![Videate\\ar_pulsante_copia_template_passcom.bmp](./assets/media/image89.png) ): consente di effettuare una copia
 integrale della struttura di cartelle presenti nel Template attualmente
 selezionato.
 

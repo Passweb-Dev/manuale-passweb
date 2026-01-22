@@ -75,8 +75,7 @@ seguito indicato:
 > valori sopra indicati in base alla tipologia del componente utilizzato
 > per effettuare la ricerca sul sito
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_173.bmp](./assets/media/image20.png){width="4.598611111111111in"
-height="3.0444444444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_173.bmp](./assets/media/image20.png)
 
 - **search_Nome_Tracciamento:** valore utilizzato per la ricerca
 
@@ -87,8 +86,7 @@ height="3.0444444444444443in"}
 > corrispondenza del campo "Nome Tracciamento" (il tutto riportato in
 > minuscolo)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_173_a.bmp](./assets/media/image21.png){width="4.624305555555556in"
-height="3.0444444444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_173_a.bmp](./assets/media/image21.png)
 
 > **ATTENZIONE!** Eventuali spazi presenti all'interno del campo
 > evidenziato in figura verranno sostituiti dal carattere \_
@@ -176,8 +174,7 @@ seguito indicato:
 > ricerca in corrispondenza del campo "Nome Tracciamento" (il tutto
 > riportato in minuscolo)
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_173_a.bmp](./assets/media/image21.png){width="4.624305555555556in"
-height="3.0444444444444443in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\gtm_173_a.bmp](./assets/media/image21.png)
 
 > **ATTENZIONE!** Eventuali spazi presenti all'interno del campo
 > evidenziato in figura verranno sostituiti dal carattere \_

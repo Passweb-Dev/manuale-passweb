@@ -14,8 +14,7 @@ All'interno di questa sezione è possibile:
 - Decidere se, per determinate tipologie di filtri articolo, la query di
   ricerca dovrà essere del tipo "Inizia per" piuttosto che "Contiene"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ricerca_fulltext_configurazione.bmp](./assets/media/image34.png){width="5.7340277777777775in"
-height="3.4479166666666665in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ricerca_fulltext_configurazione.bmp](./assets/media/image34.png)
 
 Relativamente all' esigenza di creare **un unico campo di ricerca**
 **che possa consentire di filtrare gli articoli presenti in catalogo
@@ -57,8 +56,7 @@ sufficiente accedere all'Anagrafica Passweb di uno qualsiasi degli
 articoli attualmente gestiti, portarsi nella sezione "**Descrizioni**" e
 verificare la presenza del campo "**FullText**" evidenziato in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ricerca_fulltext_configurazione_2.bmp](./assets/media/image35.png){width="5.8180555555555555in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ricerca_fulltext_configurazione_2.bmp](./assets/media/image35.png)
 
 **ATTENZIONE!** Il campo FullText è, ovviamente, un campo di sola
 lettura e, come precedentemente evidenziato, sarà valorizzato
@@ -76,8 +74,7 @@ in fase di ricerca articoli, ricorrendo ai seguenti Componenti:
   quali dati ecommerce dovranno essere effettivamente considerati in
   fase di ricerca articoli.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\risultati_ricerca_dati_ecommerce.bmp](./assets/media/image36.png){width="4.629861111111111in"
-height="3.084722222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\risultati_ricerca_dati_ecommerce.bmp](./assets/media/image36.png)
 
 > E' possibile selezionare una delle seguenti opzioni:
 
@@ -104,8 +101,7 @@ height="3.084722222222222in"}
   selezionando poi in corrispondenza del parametro "**Campo su cui far
   Filtro**" il valore "**FullText**"
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtro_testo_full_text.bmp](./assets/media/image37.png){width="4.643055555555556in"
-height="3.0909722222222222in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\filtro_testo_full_text.bmp](./assets/media/image37.png)
 
 > In queste condizioni il campo in esame consentirà di ricercare gli
 > articoli presenti in Catalogo sulla base dei valori presenti, per
@@ -153,8 +149,7 @@ tipologia di ricerca che dovrà essere effettuata mediante il campo
 FullText. Ovviamente, a seconda della tipologia impostata i risultati
 ottenuti potranno essere diversi
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ricerca_fulltext_tipologia.bmp](./assets/media/image38.png){width="5.597222222222222in"
-height="3.4479166666666665in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ricerca_fulltext_tipologia.bmp](./assets/media/image38.png)
 
 E' possibile selezionare uno dei seguenti valori:
 
@@ -181,8 +176,7 @@ Il parametro **"Inizia Per"** consente invece di specificare se, per i
 campi indicati, dovrà essere effettuata una ricerca del tipo **"inizia
 per"** piuttosto che **"contiene"**.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ricerca_inizia_per.bmp](./assets/media/image39.png){width="5.8180555555555555in"
-height="3.532638888888889in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\ricerca_inizia_per.bmp](./assets/media/image39.png)
 
 Nello specifico dunque, selezionando uno dei campi indicati, eventuali
 filtri di ricerca mappati su quello stesso campo eseguiranno query del

@@ -13,14 +13,12 @@ presente in corrispondenza di ogni singola riga della tabella contente
 l'elenco delle visite registrate dal sito nell'intervallo di tempo
 selezionato.
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\attivita_per_sessione_1.bmp](./assets/media/image44.png){width="5.98125in"
-height="3.515277777777778in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\attivita_per_sessione_1.bmp](./assets/media/image44.png)
 
 In questo modo, infatti, verrà visualizzata la maschera "**Attività per
 Sessione -- Id sessione**" evidenziata in figura
 
-![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\attivita_per_sessione.bmp](./assets/media/image41.png){width="6.067361111111111in"
-height="3.564583333333333in"}
+![\\\\doctohelp\\D\\ManPassweb_Ecommerce_Sviluppo\\Videate\\attivita_per_sessione.bmp](./assets/media/image41.png)
 
 all'interno della quale poter ottenere informazioni più dettagliate
 relativamente alla sessione di navigazione in questione e alle pagine
@@ -87,8 +85,7 @@ La griglia presente nella parte bassa della maschera "Attività per
 Sessione" consente invece di visualizzare il dettaglio della navigazione
 effettuata dall'utente durante quella stessa sessione
 
-![Videate\\statistiche_panoramica_4.bmp](./assets/media/image45.png){width="5.98125in"
-height="3.515277777777778in"}
+![Videate\\statistiche_panoramica_4.bmp](./assets/media/image45.png)
 
 Il pannello di ricerca presente immediatamente al di sopra della tabella
 consente di filtrare i dai in griglia in base alla specifica attività
